@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc902_01037",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "" }
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "Oficer łącznikowy Sojuszu ma zadanie, które może wykonać tylko <if(gnum4,bohaterka,bohater)> Sojuszu." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "Oficer łącznikowy Sojuszu informuje cię, że garnizon Sojuszu w Obozie Bluefog ma niskie morale i dobrze by mu zrobiła wizyta bohatera. Udaj się do obozu w północnym Thanalanie i oddaj się do dyspozycji sierżanta Cracked Fist." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "Po przybyciu do Obozu Bluefog zgłaszasz się do sierżanta Cracked Fist, który nie tracąc czasu prosi cię o pomoc w podniesieniu morale garnizonu. Obowiązki bohatera są doprawdy rozliczne." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "Zgłosić się do Cracked Fist w Obozie Bluefog" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "Druga faza operacji jest w toku. Nasi bracia i siostry z Maelstromu stawiają czoło siłom garleańskim na Vylbrandzie i na Morzu Rhotano. Niedługo zacznie się trzecia faza i znów wyruszysz w pole." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "Nieśmiertelne Płomienie uderzą na Castrum Meridianum w ramach manewru pozorującego. Gdy Garleańczycy będą związani walką, masz przeniknąć do twierdzy i zniszczyć pole magitek otaczające Praetorium." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "Punkt zborny misji leży w cieniu Castrum Meridianum w północnym Thanalanie i tam musisz się udać. Po drodze proszę jednak o krótki postój w Obozie Bluefog, jednej z naszych kluczowych placówek w okolicy." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "Garnizon, jak mi mówią, ma niskie morale, a naszym żołnierzom dobrze by zrobiło ujrzeć przed sobą <if(gnum4,bohaterkę,bohatera)> Cape Westwind. Dla dobra naszej sprawy rozpal, proszę, ogień w ich sercach." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "W drodze do Castrum Meridianum zatrzymaj się, proszę, na chwilę w Obozie Bluefog. Nasi żołnierze mają tam niskie morale i dodałoby im otuchy, gdyby <if(gnum4,stanęła przed nimi bohaterka,stanął przed nimi bohater)> Cape Westwind." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "Ach, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! Cóż za mile widziana obecność tu, w Obozie Bluefog!" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "Pod względem zaopatrzenia jesteśmy gotowi ruszyć na Castrum Meridianum w każdej chwili. Niestety, choć nasi żołnierze są tu ciałem, myślami są wszędzie, tylko nie tutaj." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "Nastrój w garnizonie jest posępny, tak przeraża perspektywa udziału w bitwie, która może się okazać najkrwawszą w dziejach. Ale gdy pośród nich przejdzie <if(gnum4,bohaterka taka jak pani,bohater taki jak pan)>, może zdołamy na nowo rozniecić gasnące węgle w ich duszach." }
   ]
 }

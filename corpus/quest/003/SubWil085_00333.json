@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil085_00333",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_00", "hash": "A6836B4A34B1EE28", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_01", "hash": "F3B27BB7902558EE", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_02", "hash": "4BABCE724D0D5242", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TODO_00", "hash": "7D6C2B130DEA8BAA", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_000", "hash": "8C6A5C54C0541A58", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_001", "hash": "99A0FC0FF36B2A0B", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_002", "hash": "951724DFD8D682C6", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_003", "hash": "F2D94677867370DC", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_004", "hash": "D7CAEB48EDF516C4", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_010", "hash": "ECEF4C396C629612", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_011", "hash": "66B776A1132A07F4", "target": "" },
-    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_012", "hash": "24ED966891D60881", "target": "" }
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_00", "hash": "A6836B4A34B1EE28", "target": "Fufulupa potrzebuje twojej pomocy dla swoich towarzyszy z Mosiężnych Ostrzy." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_01", "hash": "F3B27BB7902558EE", "target": "Mosiężnym Ostrzom Róży powierzono ochronę grupy taumaturgów badających Footfalls. Fufulupa obawia się, że straż jest niewystarczająca, i prosi cię o rozmowę z Totoruną w ruinach i zaoferowanie pomocy." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_SEQ_02", "hash": "4BABCE724D0D5242", "target": "Totoruna oschle informuje cię, że jego oddział nie potrzebuje pomocy. Gest Fufulupy wygląda na równie nieuzasadniony, jak niemile widziany..." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TODO_00", "hash": "7D6C2B130DEA8BAA", "target": "Porozmawiać z Totoruną" },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_000", "hash": "8C6A5C54C0541A58", "target": "Mosiężne Ostrza Róży raz jeszcze potrzebują <if(gnum4,pani,pana)> pomocy, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_001", "hash": "99A0FC0FF36B2A0B", "target": "Melduję: taumaturdzy z Ossuarium prowadzą obecnie w Footfalls poszukiwania starożytnych relikwii." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_002", "hash": "951724DFD8D682C6", "target": "Ponieważ w okolicy roi się od dzikich bestii, ochronę powierzono garnizonowi z Horizon." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_003", "hash": "F2D94677867370DC", "target": "Ale kapitan Baldewyn wysłał tylko garstkę Ostrzy! Wbrew jego zapewnieniom tak mały oddział nie zdoła ochronić naszych zleceniodawców." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_FUFULUPA_004", "hash": "D7CAEB48EDF516C4", "target": "Prosiłbym o zaoferowanie pomocy moim towarzyszom. Proszę udać się do Footfalls i porozmawiać z Totoruną." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_010", "hash": "ECEF4C396C629612", "target": "Przysłali mi tu <if(gnum4,poszukiwaczkę,poszukiwacza)> przygód do pomocy? Nic nie słyszałem o tym od kapitana Baldewyna. Mówił, że tylko zaufani ludzie..." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_011", "hash": "66B776A1132A07F4", "target": "Tak czy owak, mamy wszystko pod kontrolą─a zresztą ta operacja nie ma nic wspólnego z Fufulupą." },
+    { "gameKey": "quest/003/SubWil085_00333#TEXT_SUBWIL085_00333_TOTORUNA_012", "hash": "24ED966891D60881", "target": "Chłopak ma kij w dupie długości sabotendera. Nic dziwnego, że kapitan kazał mu siedzieć w Horizon..." }
   ]
 }

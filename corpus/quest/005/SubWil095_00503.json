@@ -2,18 +2,18 @@
   "conversation": "quest/005/SubWil095_00503",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_00", "hash": "CE470E881601DA24", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_01", "hash": "68AB2FBC3D73D3D5", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_02", "hash": "52773F59DD87BCA7", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_03", "hash": "1FCD9E34A251A3E5", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_TODO_00", "hash": "066FCDBE09D0CC3A", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_TODO_01", "hash": "CC62303ACAAC322D", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_000", "hash": "248A72F977D9A7C1", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_001", "hash": "C6346FA399276416", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_002", "hash": "BA7A3CEF7759BF82", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_010", "hash": "3D2E4DAC718190BE", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_011", "hash": "41EA68956985E7F3", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_012", "hash": "11A856C87D74D2B1", "target": "" },
-    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_POP_MESSAGE", "hash": "0E26037C97057181", "target": "" }
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_00", "hash": "CE470E881601DA24", "target": "Drunken Stag potrzebuje kogoś, kto odzyska surowy nashachit porzucony przez niego pod kopalnią." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_01", "hash": "68AB2FBC3D73D3D5", "target": "Drunken Stag musiał porzucić ładunek surowego nashachitu pod Copperbell Mines i wciąż nie może się do niego dostać przez plagę prism coblyn. Poszukaj jego kamieni i zabij każdą bestię, która stanie na drodze." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_02", "hash": "52773F59DD87BCA7", "target": "Odzyskujesz surowy nashachit. Dostarcz go Drunken Stagowi pod Copperbell Mines." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_SEQ_03", "hash": "1FCD9E34A251A3E5", "target": "Gdy ładunek surowego nashachitu jest już bezpieczny, dostawa na czas może uchronić Dadanena przed rychłą ruiną." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_TODO_00", "hash": "066FCDBE09D0CC3A", "target": "Poszukać surowego nashachitu" },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_TODO_01", "hash": "CC62303ACAAC322D", "target": "Zwrócić surowy nashachit Drunken Stagowi" },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_000", "hash": "248A72F977D9A7C1", "target": "„Towar”, o którym gadał Dadanen, to cenny kamień zwany surowym nashachitem. Tuż przed zamknięciem kopalni udało mi się wykopać go całkiem sporo." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_001", "hash": "C6346FA399276416", "target": "Zapakowałem nawet i wyniosłem. Ale wtedy zjawiły się te przeklęte przez Dwunastu coblyn. Inne niż wszystkie coblyn, jakie widziałem, i łakome tylko na dobre kamienie. Zapatrzyły się na moje klejnoty, więc nie miałem wyjścia, musiałem ustąpić." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_002", "hash": "BA7A3CEF7759BF82", "target": "Kamienne Pochodnie miały pełne ręce roboty z ewakuacją kopalni, więc na bestie nie zwróciły uwagi. Nawet teraz zajmują się tylko tym, żeby nikogo nie wpuszczać. Proszę, jeśli nie boisz się stanąć naprzeciw tych coblyn, przynieś mi mój nashachit." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_010", "hash": "3D2E4DAC718190BE", "target": "I jak poszło? Udało się znaleźć surowy nashachit?" },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_011", "hash": "41EA68956985E7F3", "target": "Piękny, prawda? Rzadszy od wielu kamieni i droższy od większości. Mówią, że ta zieleń jest jak oczy Nanashy Ul Nashy, która niegdyś rządziła jako sułtanka." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_DRUNKENSTAG_012", "hash": "11A856C87D74D2B1", "target": "To powinno wyciągnąć Dadanena z kłopotów... jeśli zostało dość. Jest tu o wiele mniej, niż znalazłem. Pewnie te coblyn zrobiły sobie z tego ucztę. Cholerne marnotrawstwo..." },
+    { "gameKey": "quest/005/SubWil095_00503#TEXT_SUBWIL095_00503_POP_MESSAGE", "hash": "0E26037C97057181", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

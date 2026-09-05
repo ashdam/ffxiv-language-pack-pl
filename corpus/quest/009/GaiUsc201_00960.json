@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc201_00960",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_00", "hash": "B057A9FB838EDE19", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_01", "hash": "6F07EF6F55674048", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_02", "hash": "7EE36792B791C514", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_03", "hash": "C134C4F2F75A8420", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_00", "hash": "42DB1F15CBDAD94E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_01", "hash": "2E99FBA01E049B7F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_000", "hash": "AD2EE28FDED02860", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_001", "hash": "25F585921C9A3E61", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_002", "hash": "957BF95C6B15A599", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_FIRKMANN_000_010", "hash": "4ACE4FAEDDA7F3A3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_QAHNEBB_000_020", "hash": "1A63626445155A23", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_ALZAGAMILZA_000_030", "hash": "21A4C828CEB20635", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_040", "hash": "B577DC7CD438C9FA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_041", "hash": "1CCFF93725A55752", "target": "" }
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_00", "hash": "B057A9FB838EDE19", "target": "Ceana jest sfrustrowana postępami swoich badań." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_01", "hash": "6F07EF6F55674048", "target": "Ceana jest pewna, że okolice Pharos Sirius na Wyspach Umbry są pełne skażonych kryształów. Nie zdołała jednak jeszcze sprawdzić tej hipotezy, bo wstęp na wyspy jest obecnie zakazany. Ponieważ brak jej twojego uroku i daru wymowy, prosi o wypytanie w jej zastępstwie Żółtych Kurtek z Aleport i odkrycie przyczyny ograniczeń w podróżowaniu." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_02", "hash": "7EE36792B791C514", "target": "Trzy wypytane Żółte Kurtki mówią o duchach i nieumarłych zalewających Wyspy Umbry. Przekaż te niepokojące wieści Ceanie." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_03", "hash": "C134C4F2F75A8420", "target": "Ceana jest mocno poruszona odkryciem, że przyczyną jej kłopotów są nieumarłe potwory. Oby nie odwiodło jej to od pomagania ci w twoim zadaniu..." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_00", "hash": "42DB1F15CBDAD94E", "target": "Wypytać Żółte Kurtki z Aleport" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_01", "hash": "2E99FBA01E049B7F", "target": "Zdać relację Ceanie" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_000", "hash": "AD2EE28FDED02860", "target": "Jak pisałam profesorowi w licznych listach, sądzę, że okolice Pharos Sirius są pełne skażonych kryształów o wyjątkowej mocy." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_001", "hash": "25F585921C9A3E61", "target": "Niestety nie zdołałam jeszcze sprawdzić hipotezy, bo wstęp na Wyspy Umbry jest obecnie zakazany, z nieznanych mi powodów. Widzisz, moje próby zdobycia tej informacji spotykają się zwykle z irytacją i pogardą. To dość zagadkowe, bo zawsze poświęcam czas, by szczegółowo wyjaśnić przepytywanym moje motywy." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_002", "hash": "957BF95C6B15A599", "target": "Może tobie lepiej pójdzie wyciąganie informacji z tych Żółtych Kurtek. Ja już właściwie się poddałam." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_FIRKMANN_000_010", "hash": "4ACE4FAEDDA7F3A3", "target": "Chcesz się wybrać na Wyspy Umbry? Na wszystkie piekła, <if(gnum4,dziewczyno,chłopie)>, to gorzałka gada czy po prostu brak ci rozumu? Tam nie ma nic prócz śmierci, śmierci i jeszcze więcej śmierci!" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_QAHNEBB_000_020", "hash": "1A63626445155A23", "target": "Ach, ale mi serce podskoczyło! Nie wiesz, że nie podkrada się do ludzi w takich czasach, przy tych wszystkich bzdurnych plotkach o duchach i widmach nawiedzających Wyspy Umbry!? To, że wiem, że to nonsens, nie znaczy, że mniej straszny!" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_ALZAGAMILZA_000_030", "hash": "21A4C828CEB20635", "target": "Wyspy Umbry? Czego szukasz w tym zapomnianym przez bogów miejscu? Odkąd musieliśmy opuścić Pharos Sirius, wyspy stały się tylko cmentarzem dla statków, które nie zdołały ominąć brzegu─i czyśćcem dla dusz pociągniętych z nimi w głębinę." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_040", "hash": "B577DC7CD438C9FA", "target": "Ach, <split(<string(gstr1)>, ,1)>, wracasz! Opowiedz, co udało się ustalić." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_041", "hash": "1CCFF93725A55752", "target": "N-N-Naprawdę!? Zalane nieumarłymi, powiadasz. To... to bardzo, <italic(1)>bardzo<italic(0)> ciekawy obrót sprawy. Wybacz mi na chwilę, muszę zebrać myśli." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa401_00743",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_00", "hash": "7DDD49E75D70F56D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_01", "hash": "83CFF9342609BCD4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_02", "hash": "6171A23F83ED7867", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_TODO_00", "hash": "1E6E108F7592A6B9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_000", "hash": "46530AF260631BFA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_001", "hash": "6E7D3009107638C3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_002", "hash": "9F18786C62A79C46", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_003", "hash": "7B5E14AB8AF97F16", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_020", "hash": "F2F2E38F74B118DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_021", "hash": "3F5AFC065D8058D4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_023", "hash": "CB4930C868FAF961", "target": "" }
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_00", "hash": "7DDD49E75D70F56D", "target": "Buscarron ma coś do dostarczenia sylfom." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_01", "hash": "83CFF9342609BCD4", "target": "Buscarron chce posłać sylfom z Małej Pociechy dar pokoju w nadziei na umocnienie obecnego ducha współpracy. Mając to na uwadze, dostarcz flakonik olejku z róży Azeymy od Buscarrona do Knolexii w Małej Pociechy." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_02", "hash": "6171A23F83ED7867", "target": "Troskliwy dar Buscarrona poruszył Knolexię. Przy odrobinie szczęścia ten i podobne przyszłe gesty jeszcze bardziej umocnią stosunki między gridańczykami a sylfami." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_TODO_00", "hash": "1E6E108F7592A6B9", "target": "Dostarczyć olejek z róży Azeymy Knolexii w Małej Pociechy" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_000", "hash": "46530AF260631BFA", "target": "Słuchaj, <if(gnum4,przyjaciółko,przyjacielu)>, chciałbym cię prosić o dostarczenie czegoś sylfom z Małej Pociechy─tego olejku z róży Azeymy." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_001", "hash": "6E7D3009107638C3", "target": "To dar na uczczenie bezpiecznego powrotu starszego ich plemienia─i znak, że Gridania pragnie jedności." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_002", "hash": "9F18786C62A79C46", "target": "Las nie jest już tym, czym był. Katastrofa zmieniła żywiołaki─osłabiła je. Póki nie odzyskają sił, musimy dać im nasze, by las był bezpieczny. Ale same nasze nie wystarczą. Potrzebujemy też siły sylfów." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_003", "hash": "7B5E14AB8AF97F16", "target": "Tylko pracując razem i walcząc razem przeżyjemy razem─a z nami Las Dwunastu. Dar, który proszę cię zanieść, to symbol nadziei, że i gridańczyk, i sylf dożyją światła za tą ciemnością." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_020", "hash": "F2F2E38F74B118DA", "target": "Dar od chodzącego Buscarrona? Dar dla tych tutaj?" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_021", "hash": "3F5AFC065D8058D4", "target": "Cóż za śliczny zapach! Ten tutaj nigdy jeszcze nie wąchał czegoś takiego!" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "Chodzący Buscarron i szukający przygód są bardzo dobrzy. Niech wiedzą, że ten tutaj jest głęboko wdzięczny." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_023", "hash": "CB4930C868FAF961", "target": "Wielu chodzących jest strasznych. Wielu chodzących mówi wiele kłamstw i wiele oszustw. Ale ten tutaj jest poruszony. Niech wszyscy ci tutaj będą przyjaciółmi na zawsze!" }
   ]
 }
