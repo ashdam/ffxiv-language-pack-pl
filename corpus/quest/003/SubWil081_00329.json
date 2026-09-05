@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubWil081_00329",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_00", "hash": "EB7310DA9EC4FEB7", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_01", "hash": "85D847CDB3682B0F", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_02", "hash": "942F10186A70D59A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_03", "hash": "D0789114857E7C19", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_00", "hash": "3B984518AD1B7802", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_000", "hash": "4774C35AD6435596", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_001", "hash": "809B721AAC5030E2", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_002", "hash": "EA53F4E63C3C19AD", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_003", "hash": "89C54CF2B78D47A0", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_010", "hash": "8747D4DA83534F2A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_011", "hash": "3A907AB28AFFF846", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_012", "hash": "6EC583C77685F251", "target": "" }
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_00", "hash": "EB7310DA9EC4FEB7", "target": "Drunken Stag chce się odwdzięczyć za twoją uprzejmość pożyteczną wiadomością." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_01", "hash": "85D847CDB3682B0F", "target": "Roje sun midge nękają podróżnych na drodze łączącej Horizon z Copperbell Mines, a Mosiężne Ostrza wypłacą nagrodę każdemu, kto pomoże zaradzić kłopotowi. Zrób swoje i wybij cztery roje tego dokuczliwego robactwa." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_02", "hash": "942F10186A70D59A", "target": "Dzielnie tępisz zastępy tego drobnego paskudztwa. Zamelduj się u Fufulupy i odbierz nagrodę." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_03", "hash": "D0789114857E7C19", "target": "Fufulupa dziękuje ci za trud włożony w sprawy Horizon i bez wahania proponuje kolejną robotę. Zdaje się, że w tej tętniącej życiem osadzie jest wiele do zrobienia." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_00", "hash": "3B984518AD1B7802", "target": "Zabić sun midge swarms" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "Zameldować się u Fufulupy w Horizon" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_000", "hash": "4774C35AD6435596", "target": "Chcesz zarobić parę groszy, co? To wiem, jak ci się odwdzięczyć za dobre serce." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_001", "hash": "809B721AAC5030E2", "target": "Roje sun midge nękają podróżnych na drodze stąd do Horizon. Zrobiło się tak źle, że Mosiężne Ostrza zaczęły płacić ludziom za oczyszczanie traktu." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_002", "hash": "EA53F4E63C3C19AD", "target": "Jeśli trudno ci uwierzyć, że roje maleńkich muszek mogą tak dokuczać, to nigdy nie <if(gnum4,widziałaś,widziałeś)> chocobo doprowadzonego przez nie do szału. Zdarzyły się już straszne wypadki." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_003", "hash": "89C54CF2B78D47A0", "target": "Zrób swoje i wybij kilka rojów. Potem daj znać Fufulupie. Wynagrodzi ci trud, a może nawet zaproponuje więcej roboty." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_010", "hash": "8747D4DA83534F2A", "target": "Witam i pozdrawiam, <if(gnum4,poszukiwaczko przygód,poszukiwaczu przygód)>. Czemu zawdzięczam─<br>Jak to, <italic(1)>ile<italic(0)> rojów sun midge!?" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_011", "hash": "3A907AB28AFFF846", "target": "Składam najszczersze podziękowania, melduję! Mosiężne Ostrza z trudem trzymają je w ryzach, więc pomoc jest nieoceniona." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_012", "hash": "6EC583C77685F251", "target": "Czy zabawi <if(gnum4,pani,pan)> dłużej w Horizon? Jeśli tak, to roboty tu nie brakuje, melduję!" }
   ]
 }

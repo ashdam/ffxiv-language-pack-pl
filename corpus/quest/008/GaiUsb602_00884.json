@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb602_00884",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_00", "hash": "6E442DBDD2AFC7A3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_01", "hash": "9CD0A479DA71E307", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_02", "hash": "C2FB1D04CDD37836", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_TODO_00", "hash": "FCCB42074B2F83F9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_000", "hash": "3D3B6692B44A689F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_001", "hash": "15592585717B1A29", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_002", "hash": "5AF1FD536C994C4C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_003", "hash": "BD690730361A536C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_010", "hash": "958B9E16B15D9A67", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_011", "hash": "CB42D5B42C378089", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_012", "hash": "C0437F1F2FB6F017", "target": "" }
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_00", "hash": "6E442DBDD2AFC7A3", "target": "Vortefaurt chce ci opowiedzieć o ostatnim locie <italic(1)>Enterprise<italic(0)>." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_01", "hash": "9CD0A479DA71E307", "target": "Według Vortefaurta <italic(1)>Enterprise<italic(0)> zniknął nad górami Coerthas na północnym zachodzie. Jeśli nie zniszczyła go Katastrofa, warto pozyskać astrologów z Observatorium, którzy tamtej nocy z pewnością obserwowali niebo i mogą mieć wiadomości cenne dla poszukiwań. Ishgardczycy zwykle odprawiają obcych z kwitkiem, więc Vortefaurt radzi najpierw zaoferować pomoc żołnierzom strzegącym Obserwatorium, na znak dobrej woli." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_02", "hash": "C2FB1D04CDD37836", "target": "Ishgardzki rycerz szorstko odrzuca ofertę pomocy. Przekonanie miejscowych, że nie ma tu złych zamiarów, będzie wymagać sporo wysiłku." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_TODO_00", "hash": "FCCB42074B2F83F9", "target": "Porozmawiać z Ludovoix w Observatorium" },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_000", "hash": "3D3B6692B44A689F", "target": "Było to w przeddzień bitwy pod Carteneau, blisko pięć lat temu. Tamtej nocy trzymałem wieżę sam, gdy główne siły ruszyły w pole na spotkanie wroga." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_001", "hash": "15592585717B1A29", "target": "I nagle niebo nade mną rozcina najwspanialszy statek powietrzny, jaki w życiu widziałem! Mogłem tylko patrzeć osłupiały, jak znika za górami na północnym zachodzie. Jeśli <italic(1)>Enterprise<italic(0)> nie przepadł w Katastrofie, to głowę dam, że wciąż jest gdzieś w Coerthas." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_002", "hash": "5AF1FD536C994C4C", "target": "Astrologowie z Observatorium mogą mieć zapiski, które pomogą. Żeby je zdobyć, trzeba jednak dogadać się z Ishgardczykami, którzy władają tym rejonem. Wiele bym się nie spodziewał─wielkie rody od dawna dbają wyłącznie o własne sprawy. Gdy Dalamud spadał, schowały się za bramami, a i dziś niewiele je obchodzi niedola innych krajów." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_003", "hash": "BD690730361A536C", "target": "Mimo to może i raczą pomóc, jeśli <if(gnum4,pani,pan)> dowiedzie swojej przydatności. Warto zaoferować pomoc żołnierzom strzegącym Obserwatorium. Z początku pewnie odmówią, ale nie wątpię, że przyjmą pomoc daną z dobrej woli." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_010", "hash": "958B9E16B15D9A67", "target": "Wybacz, możesz powtórzyć? Chcesz zaoferować swoje usługi rodowi Durendaire? A cóż, jeśli łaska, chcesz dostać w zamian?" },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_011", "hash": "CB42D5B42C378089", "target": "Ha, cóż za absurd! Jakbyśmy mieli pozwolić obcemu przeglądać zapiski Observatorium." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_012", "hash": "C0437F1F2FB6F017", "target": "Nie myl naszej uprzejmości z życzliwością. Święta Stolica Ishgardu może i pozwala obcym swobodnie podróżować po tych ziemiach, ale my nie zamierzamy nieść pomocy nieznajomym." }
   ]
 }
