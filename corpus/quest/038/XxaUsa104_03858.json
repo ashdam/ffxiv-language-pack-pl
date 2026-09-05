@@ -11,7 +11,7 @@
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_TODO_01", "hash": "0E4953A66D3BE2E8", "target": "Zabić ziz gorlin" },
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_TODO_02", "hash": "9E3661A6008A56DA", "target": "Zabić gall gnat" },
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_TODO_03", "hash": "0A211464BC0E1102", "target": "Zdobyć pędzle brownie" },
-    { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_TODO_04", "hash": "A9B0114B999C2E7B", "target": "Zdać sprawę Komuxiowi w Małej Pociesze" },
+    { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_TODO_04", "hash": "A9B0114B999C2E7B", "target": "Zdać relację Komuxiowi w Małej Pociesze" },
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_SYSTEM_100_000", "hash": "A70A33DC30BFEEFD", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_PAPALYMO_000_000", "hash": "A5B0BDD22F502971", "target": "<split(<string(gstr1)>, ,1)>. Jako osobie żyjącej z przygód pomaganie strapionym nie jest ci obce, jak mniemam." },
     { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_PAPALYMO_000_001", "hash": "6C68828F4B65A860", "target": "Wieści o dobrych uczynkach szybko się niosą. Poszukiwacz przygód, który przychodzi z pomocą miejscowym, z obcego może z dnia na dzień stać się bohaterem." },

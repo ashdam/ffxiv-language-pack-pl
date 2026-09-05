@@ -142,7 +142,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q4_000_1", "hash": "F38A09471E9B8635", "target": "Wejść na pokład?" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A4_000_1", "hash": "C8DAA148B33943F1", "target": "Tak" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A4_000_2", "hash": "E54FFA8AC0CBC718", "target": "Nie" },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_146", "hash": "63C078D4E57E49E2", "target": "Czy chce <if(gnum4,pani,pan)> opuścić strefę odlotów?" },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_146", "hash": "63C078D4E57E49E2", "target": "Czy opuścić strefę odlotów?" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q8_000_1", "hash": "935B95BD4FD5302C", "target": "Opuścić strefę odlotów?" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A8_000_1", "hash": "592419CE1665488F", "target": "Tak" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A8_000_2", "hash": "1317F90E1B029027", "target": "Nie" },

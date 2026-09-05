@@ -192,7 +192,7 @@
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_204", "hash": "53F3B5CED8907AC9", "target": "Admirał wkrótce dostanie moją odpowiedź." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_205", "hash": "5B1C505223CD4106", "target": "Dziękuję ci, <if(gnum4,poszukiwaczko przygód,poszukiwaczu przygód)>." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SYSTEM_000_300", "hash": "B8ADA231033C3E9D", "target": "Możesz już korzystać z linii powietrznych łączących trzy państwa. Przed wejściem na pokład trzeba uiścić opłatę w gilach." },
-    { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q11_000_310", "hash": "98B079AF8A275175", "target": "Wejść do sali dowodzenia?" },
+    { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q11_000_310", "hash": "98B079AF8A275175", "target": "Wejść do gabinetu dowodzenia?" },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A11_000_311", "hash": "B30FFDEFBA4DC61F", "target": "Tak" },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A11_000_312", "hash": "50AE98123C8A7861", "target": "Nie" }
   ]

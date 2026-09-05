@@ -9,7 +9,7 @@
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_04", "hash": "0B6F2993EFBF9669", "target": "Skoro siostra Ourcen naraziła życie, by odzyskać pamiątkę sieroty, Isembard jest bardziej niż kiedykolwiek przekonany, że nie ma ona nic wspólnego z zaginięciami." },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_00", "hash": "E4A4CAE832DAF831", "target": "Porozmawiać z rozczochranym ulicznikiem w Złotym Bazarze" },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_01", "hash": "7506B8FAC5B2CCCB", "target": "Uratować siostrę Ourcen" },
-    { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_02", "hash": "B6FCC85F329B3726", "target": "Zdać sprawę Isembardowi w Obozie Drybone" },
+    { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_02", "hash": "B6FCC85F329B3726", "target": "Zdać relację Isembardowi w Obozie Drybone" },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_1", "hash": "2CCE3D021FFA8AD7", "target": "Siostra Ourcen... To niemożliwe. Chociaż... ona <italic(1)>rzeczywiście<italic(0)> chadza sama do Złotego Bazaru i nieraz widuje się ją rozmawiającą z dziećmi. Ale... nie. To nie mogła być ona... prawda?" },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_2", "hash": "800C266E69AC5D9D", "target": "Hmmm... \\<wzdycha> Męczą mnie te podejrzenia. Wiem, że jest jedno dziecko, które szczególnie lubi. Poszukaj tego chłopca, <split(<string(gstr1)>, ,1)>, i zobacz, czy nie wyciągniesz z niego czegoś o tym, co robi Ourcen." },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_CHILD_000_10", "hash": "8650AA652998BCDC", "target": "Pomóż, proszę! Siostra Ourcen wyszła sama i nie wróciła!" },
