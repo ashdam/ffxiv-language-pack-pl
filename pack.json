@@ -14,6 +14,7 @@
   "languageName": "Polski",
   "author": "Mini Ashdam",
   "repo": "ashdam/ffxiv-language-pack-pl",
+  "updateUrl": "https://github.com/ashdam/ffxiv-language-pack-pl/releases/latest/download/gubal-manifest.json",
 
   "issuesUrl": "https://github.com/ashdam/ffxiv-language-pack-pl/issues"
 }
