@@ -9,7 +9,7 @@
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_SEQ_04", "hash": "94EC334E5F806486", "target": "Choć zdziwiona przybyciem cudzoziemca, Edmelle odsyła cię do głównego astrologa Forlemorta, którego znajdziesz wyżej." },
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_SEQ_05", "hash": "7AB434164DC00B31", "target": "Gdy główny astrolog Forlemort beształ cię za tak niedorzeczną prośbę, zjawia się ishgardzki inkwizytor imieniem Guillaime, szukający posłuchania u głównego astrologa. Przeprosiwszy za najście, inkwizytor szybko odchodzi, ale nie omieszka subtelnie przestrzec cię przed mieszaniem się w sprawy Ishgardu. A jednak może nie być innego wyjścia, jeśli chcesz odnaleźć <italic(1)>Enterprise<italic(0)>." },
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_TODO_00", "hash": "0AA8B3C9BC83F595", "target": "Odnaleźć zaginionego rycerza" },
-    { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_TODO_01", "hash": "5CC3CB0C6E40BFB6", "target": "Zdać sprawę Ludovoixowi" },
+    { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_TODO_01", "hash": "5CC3CB0C6E40BFB6", "target": "Zdać relację Ludovoixowi" },
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_TODO_02", "hash": "15298BE8F566A0C2", "target": "Porozmawiać z Edmelle" },
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_TODO_03", "hash": "57DA3CEC59F2388D", "target": "Porozmawiać z Forlemortem" },
     { "gameKey": "quest/008/GaiUsb604_00886#TEXT_GAIUSB604_00886_LUDOVOIX_000_000", "hash": "7F128893A10DA8F9", "target": "Na litość Halone, wciąż tu jesteś? Możesz się schronić za naszymi murami, jeśli się upierasz, ale nie zawracaj mi głowy na służbie. I tak brakuje nam ludzi." },

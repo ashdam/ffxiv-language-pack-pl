@@ -15,7 +15,7 @@
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_02", "hash": "8196B5CA5773E3E6", "target": "Porozmawiać z nieugiętym Rycerzem Świątynnym" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_03", "hash": "EA7D362BFAF037B3", "target": "Wejść do lochu Snowcloak" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_04", "hash": "FDE87335A1779FBF", "target": "Wejść do lochu Snowcloak" },
-    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_05", "hash": "7B55E5FE96E1F8D6", "target": "Zdać sprawę Alphinaudowi" },
+    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_05", "hash": "7B55E5FE96E1F8D6", "target": "Zdać relację Alphinaudowi" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_DRILLEMONT_000_030", "hash": "41CDA251905A48BD", "target": "Czas nagli, <split(<string(gstr1)>, ,1)>. Póki moi rycerze szykują się do wymarszu, heretycy mogą zaskoczyć naszych sprzymierzeńców w Snowcloak." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_DRILLEMONT_000_031", "hash": "105D22D9EF19EB57", "target": "Lepsze wyszkolenie i lepszy oręż na nic się nie zdadzą, jeśli padną, zanim dobędą mieczy. Ale nie wszystko stracone. Jeśli wyruszysz teraz, może jeszcze zdążysz ich ostrzec." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_DRILLEMONT_000_032", "hash": "51C0E87995316EAF", "target": "Śpiesz się, błagam! Leć do Snowcloak i powiedz ser Aymericowi wszystko, czego się dowiedzieliśmy." },
