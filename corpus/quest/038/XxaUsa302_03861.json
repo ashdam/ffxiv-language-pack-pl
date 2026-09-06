@@ -2,18 +2,18 @@
   "conversation": "quest/038/XxaUsa302_03861",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_01", "hash": "F36A2D4C0E24D872", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SYSTEM_100_000", "hash": "B019C69C076DDABE", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_000", "hash": "1FB9E5EB2A14D3DF", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_001", "hash": "9DCAEE3A08AA562B", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_002", "hash": "ED5B5777EECA8F8C", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_020", "hash": "54BE89880C1BDD18", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_021", "hash": "B527E7C07918B0CA", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_022", "hash": "E46658E0AC3276B3", "target": "" }
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "Teteroon ma miejsca, gdzie masz iść, i rzeczki, które masz przynieść." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "Teteroon prosi cię o pomoc w pędzeniu ognistej wody Qiqirn. W tym celu zabij coeurl pup i zdobądź trzy wąsy coeurl pup." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "Zdobywasz potrzebne składniki. Zanieś je z powrotem Teteroonowi." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "Teteroon zabiera się do pędzenia ognistej wody Qiqirn ze składników, które <if(gnum4,dostarczyłaś,dostarczyłeś)>. Ale dobra ognista woda potrzebuje czasu. Porozmawiaj z nim później, by dowiedzieć się, jak wyszedł jego wywar." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "Zabić coeurl pup i zebrać wąsy coeurl pup" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_01", "hash": "F36A2D4C0E24D872", "target": "Dostarczyć wąsy coeurl pup Teteroonowi" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SYSTEM_100_000", "hash": "B019C69C076DDABE", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_000", "hash": "1FB9E5EB2A14D3DF", "target": "Dobry Buscaroon pomagać Teteroonowi. Teteroon martwy bez dobrego Buscaroona. Trzeba dać dziękunie. Dużo, dużo dziękuni. Teteroon robić ognista woda Qiqirn dla Buscaroona! Buscaroon kochać ognista woda!" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_001", "hash": "9DCAEE3A08AA562B", "target": "Ty pomagać Teteroonowi robić ognista woda? Trzeba rzeczki do robienia. Trzeba dużo, dużo rzeczek." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_002", "hash": "ED5B5777EECA8F8C", "target": "Trzeba wąsy coeurl pup. Trzeba trzy dobre wąsy coeurl pup." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_020", "hash": "54BE89880C1BDD18", "target": "Teteroon robić ognista woda dla Buscaroona. Ty przynieść rzeczki, co Teteroon trzeba?" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_021", "hash": "B527E7C07918B0CA", "target": "Ty przynieść wszystkie rzeczki! Teteroon teraz robić ognista woda. Robić dobra ognista woda dla dobrego Buscaroona." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_022", "hash": "E46658E0AC3276B3", "target": "Teteroon teraz zaczynać robić ognista woda. Dobra ognista woda potrzebować czasu. Więcej czasu, więcej dobra. Ty wracać później." }
   ]
 }

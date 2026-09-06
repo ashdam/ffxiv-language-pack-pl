@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubSea100_00397",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_00", "hash": "535B9834381D0F28", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_01", "hash": "FCBA9DC87150311C", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_02", "hash": "50F106A73E2471F2", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_TODO_00", "hash": "572902E61C44D7C6", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_1", "hash": "E821333B6071D7B2", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_2", "hash": "32F1C2AF8B7E6D6A", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_3", "hash": "515F4314132105BF", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_4", "hash": "4684D548A6D1CD0D", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_5", "hash": "2402018A88907DDA", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_11", "hash": "201D1E4CA56A843C", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_12", "hash": "D24389648FA82B0C", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_13", "hash": "0B4A203D07AE71E7", "target": "" },
-    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_14", "hash": "9DBB4517D020CBEE", "target": "" }
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_00", "hash": "535B9834381D0F28", "target": "Baderon, właściciel Drowning Wench, ma pomysł, który pchnie cię ku nowym przygodom." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_01", "hash": "FCBA9DC87150311C", "target": "Przez Skylift przechodzi cały ładunek pokonujący Descent, więc tamtejsi robotnicy nie mają czasu na żadne inne zadania. Udaj się na miejsce i porozmawiaj z Wyrkrhitem, który tym zarządza." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_02", "hash": "50F106A73E2471F2", "target": "Skylift tonie w nieustannym potoku ładunku potrzebnego do odbudowy. Pomóż, czym możesz, i nie dopuść, by całe przedsięwzięcie stanęło." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_TODO_00", "hash": "572902E61C44D7C6", "target": "Porozmawiać z Wyrkrhitem w Skylift" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_1", "hash": "E821333B6071D7B2", "target": "Jak leci, <split(<string(gstr1)>, ,1)>? <if(gnum4,Wypoczęta i gotowa,Wypoczęty i gotów)> poszerzyć horyzonty?" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_2", "hash": "32F1C2AF8B7E6D6A", "target": "No to mam pomysł, dokąd można ruszyć dalej. Znasz Skylift w środkowej La Noscei?" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_3", "hash": "515F4314132105BF", "target": "Kto bywa w Woad Whisper Canyon, ten musiał się nim wspinać i schodzić z niego co najmniej raz. To te wielkie przeklęte rusztowanie przyczepione do Descent." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_4", "hash": "4684D548A6D1CD0D", "target": "Pewnie nieobce ci widoki chłopaków i dziewuch, co wciągają nim ładunek po ścianie klifu. Ciężka to harówka i słyszę, że przydałaby im się przedsiębiorcza dusza do dorywczych robót, na które żaden inny bidok nie ma czasu." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_5", "hash": "2402018A88907DDA", "target": "Znajdź tego, co tym zarządza─gościa nazwiskiem Wyrkrhit─a on ci na pewno podrzuci robotę albo i dwie." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_11", "hash": "201D1E4CA56A843C", "target": "To Baderon cię tu przysłał, co? W takim razie witaj w Skylift." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_12", "hash": "D24389648FA82B0C", "target": "Spójrz no na ten przeklęty klif. Jeden podmuch piekielnego ognia z tego wielkiego smoka wystarczył, żeby rozłupać ziemię na pół." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_13", "hash": "0B4A203D07AE71E7", "target": "A ładunek i tak musi przejść, więc ta plątanina drewna i bloczków to nasze rozwiązanie problemu." },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_14", "hash": "9DBB4517D020CBEE", "target": "No, przynajmniej jedno z nich. Gdyby bogowie byli łaskawi─a nie są─miałbym z tuzin robotników więcej do tej rosnącej listy zmartwień..." }
   ]
 }

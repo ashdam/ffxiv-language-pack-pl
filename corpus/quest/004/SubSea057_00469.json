@@ -130,7 +130,7 @@
     { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_181", "hash": "43AEFDB3C5F955FF", "target": "W uznaniu twoich zasług przyznano ci dostęp do guildleve i pokojów w gospodzie." },
     { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_182", "hash": "B46EB7A3AFA66CD9", "target": "W miarę jak wykonujesz zadania i wyruszasz na nowe przygody, świat będzie wciągał cię coraz głębiej w swoje tajemnice." },
     { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_183", "hash": "F0DFEB583D7E595C", "target": "Wielka kraina Eorzei kryje jeszcze niezliczone nieprzebyte drogi i niewidziane widoki. Podążaj dalej ścieżką poszukiwacza przygód i odkryj, jakie cuda na ciebie czekają!" },
-    { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_190", "hash": "3515F31393CFA923", "target": "Masz teraz dostęp do Recommendations. Ta funkcja wyświetla listę zadań i wyzwań dostępnych aktualnie w twojej okolicy." },
-    { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_191", "hash": "9CF03B4ABB723B65", "target": "Listę Recommendations można otworzyć z sekcji Duty w menu głównym; wyświetla się też automatycznie po zalogowaniu. Jeśli nie wiesz, co robić dalej, to narzędzie pozwala łatwo znaleźć zajęcia odpowiednie dla twojej obecnej klasy i poziomu." }
+    { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_190", "hash": "3515F31393CFA923", "target": "Masz teraz dostęp do Recommendations. Ta funkcja wyświetla listę zadań i wyzwań dostępnych obecnie w twojej okolicy." },
+    { "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_191", "hash": "9CF03B4ABB723B65", "target": "Listę Recommendations można otworzyć z sekcji Duty w menu głównym; wyświetla się też automatycznie po zalogowaniu. Jeśli nie wiesz, co robić dalej, to narzędzie ułatwia znalezienie zajęć odpowiednich dla twojej obecnej klasy i poziomu." }
   ]
 }
