@@ -1,15 +1,15 @@
 {
   "gameVersion": "2026.08.11.0000.0000",
-  "translated": 6236,
+  "translated": 14420,
   "total": 433501,
-  "percent": 1.4,
+  "percent": 3.3,
   "chars": 52698688,
   "unresolved": 4405,
   "groups": [
     {
       "expansion": "A Realm Reborn",
       "content": "Main scenario",
-      "translated": 6233,
+      "translated": 14417,
       "total": 14417
     },
     {
