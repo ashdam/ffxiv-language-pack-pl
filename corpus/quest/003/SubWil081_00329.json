@@ -7,7 +7,7 @@
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_02", "hash": "942F10186A70D59A", "target": "Dzielnie tępisz zastępy tego drobnego paskudztwa. Zamelduj się u Fufulupy i odbierz nagrodę." },
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_03", "hash": "D0789114857E7C19", "target": "Fufulupa dziękuje ci za trud włożony w sprawy Horizon i bez wahania proponuje kolejną robotę. Zdaje się, że w tej tętniącej życiem osadzie jest wiele do zrobienia." },
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_00", "hash": "3B984518AD1B7802", "target": "Zabić sun midge swarms" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "Zameldować się u Fufulupy w Horizon" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "Zdać relację Fufulupie w Horizon" },
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_000", "hash": "4774C35AD6435596", "target": "Chcesz zarobić parę groszy, co? To wiem, jak ci się odwdzięczyć za dobre serce." },
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_001", "hash": "809B721AAC5030E2", "target": "Roje sun midge nękają podróżnych na drodze stąd do Horizon. Zrobiło się tak źle, że Mosiężne Ostrza zaczęły płacić ludziom za oczyszczanie traktu." },
     { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_002", "hash": "EA53F4E63C3C19AD", "target": "Jeśli trudno ci uwierzyć, że roje maleńkich muszek mogą tak dokuczać, to nigdy nie <if(gnum4,widziałaś,widziałeś)> chocobo doprowadzonego przez nie do szału. Zdarzyły się już straszne wypadki." },

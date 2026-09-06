@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa305_00737",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_00", "hash": "1EC2209311A5500D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_01", "hash": "E0BDD7C0E332DAF0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_02", "hash": "F38E60FC32496CD2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TODO_00", "hash": "6BD93835AC4E7A2B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_000", "hash": "46C6E22B7F60C66E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_001", "hash": "2B97CCF81278F889", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_002", "hash": "8985D919114302CE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_003", "hash": "C9C68A19D3F48DFB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_010", "hash": "50E8F129F20390B4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_011", "hash": "E3C51C525A3970E6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_012", "hash": "D6EE852A2E50FF95", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_013", "hash": "F8CE37E46EC95EB7", "target": "" }
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_00", "hash": "1EC2209311A5500D", "target": "Teteroon najwyraźniej skończył prezent dla Buscarrona." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_01", "hash": "E0BDD7C0E332DAF0", "target": "Teteroon wreszcie skończył prezent dla Buscarrona. Dostarcz wyjątkową gorzałkę Qiqirn Buscarronowi, który prowadzi noszące jego imię Druthers w rejonie South Shroud." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_02", "hash": "F38E60FC32496CD2", "target": "Buscarron jest zachwycony mocnym trunkiem uwarzonym przez starego przyjaciela. Mniej cieszy go świadomość, że przed otwarciem butelki najlepiej leżakować ją rok." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TODO_00", "hash": "6BD93835AC4E7A2B", "target": "Dostarczyć gorzałkę Qiqirn Buscarronowi w Druthers" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_000", "hash": "46C6E22B7F60C66E", "target": "Teteroon zrobić gorzałkę! Dobra, dobra gorzałka! Ty zanieść do Buscaroon. Dobra gorzałka dla dobry Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_001", "hash": "2B97CCF81278F889", "target": "Powiedzieć Buscaroon: nie pić teraz. Powiedzieć: odłożyć na rok. Rok robić najlepszy smak." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_002", "hash": "8985D919114302CE", "target": "\\<wzdycha> Teteroon mieć nadzieję, Buscaroon szczęśliwy. Teteroon dawać Buscaroon dziękusie. Dużo, dużo dziękusie. Ty powiedzieć Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_003", "hash": "C9C68A19D3F48DFB", "target": "Teteroon kiedyś zrobić wielki sklep. Największy sklep w Eorzei. Zrobić dużo, dużo błyszczaków. Wszystko dzięki dobry Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_010", "hash": "50E8F129F20390B4", "target": "Ach, jesteś z powrotem. Dzięki za dostarczenie Teteroonowi jego rzeczy.<br>...Co to? Dla mnie?" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_011", "hash": "E3C51C525A3970E6", "target": "Gorzałka Qiqirn! Więc pamięta, jak lubię ten trunek? Ach, ten stary... On... Ja... A niech to piekło! Kto tam z tyłu kroi cebulę!?" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_012", "hash": "D6EE852A2E50FF95", "target": "Mówi, żeby odstawić ją na rok, tak? Aha, to brzmi sensownie. Nie znoszę czekać, ale będzie warto. Ten trunek ma aromat i treść jak żaden inny, jaki znam." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_013", "hash": "F8CE37E46EC95EB7", "target": "To będzie dłuuugi rok. Co powiesz na to, żeby wtedy tu wrócić, <if(gnum4,przyjaciółko,przyjacielu)>? Zobaczymy, czy nie damy rady wspólnie opróżnić tej butelki." }
   ]
 }

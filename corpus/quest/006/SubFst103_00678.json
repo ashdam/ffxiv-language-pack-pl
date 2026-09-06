@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubFst103_00678",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "" }
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "Miounne ma wieści o nowym zadaniu." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "Według Miounne Gildia Poszukiwaczy Przygód w Ul'dah szuka ludzi do bliżej nieokreślonego zadania. Więcej dowiesz się od Momodi, właścicielki Quicksand." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "Momodi wie już, że zadanie cię interesuje. Daj jej znać, gdy zechcesz poznać szczegóły." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "Porozmawiać z Momodi w Quicksand w Ul'dah" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "A więc mała podróż ci niestraszna? Wspaniale!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Jak już wspominałam, prośba przychodzi do nas z Gildii Poszukiwaczy Przygód w Ul'dah. Gdy tam dotrzesz, odszukaj Momodi, właścicielkę Quicksand. Uważaj ją za moją odpowiedniczkę w sułtanacie." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "Możliwe, że wyśle cię prosto w niebezpieczeństwo, ale nie wątpię, że wyjdziesz z tego bez szwanku. No, w drogę, <split(<string(gstr1)>, ,1)>, i powodzenia!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "Witaj w Quicksand, przyjacielu. Jestem teraz odrobinę zajęta, więc rozgość się, gdzie ci wygo─" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "O, to ty, <split(<string(gstr1)>, ,1)>! A ja tu klepię swoją zmęczoną formułkę!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "Sądząc po tej zdecydowanej minie, nie po piwo tu przychodzisz. Czy zwą cię przypadkiem <string(gstr1)>?" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "Miounne przysłała wieść, że zgłosisz się do służby. Nazwała cię przy tym najgłośniejszym nazwiskiem wśród poszukiwaczy przygód. A to z jej ust żadna byle pochwała." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "Ale nie po moje pogaduszki jest ta cała droga. Pewnie nie możesz się doczekać, więc przejdźmy do interesów, dobrze?" }
   ]
 }

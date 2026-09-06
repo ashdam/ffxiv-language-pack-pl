@@ -1052,6 +1052,12 @@
     {
       "_divider": "SERIA I ŚWIAT. Nie ma oficjalnego Final Fantasy po polsku: precedensem jest polska tradycja lokalizacji RPG (Wiedźmin, Baldur's Gate, Dragon Age) i zwyczaj społeczności (moogle, chocobo, kupo po angielsku). Pewność: wysoka = jedyna rozsądna forma lub precedens; średnia = za francuskim albo za hiszpańskim korpusem; niska = ukute."
     },
+    { "en": "the Navigator", "fr": "la Navigatrice", "ja": "航海神", "pl": "Nawigatorka", "protect": false, "note": "Llymlaen. Tym samym wzorem: the Warden (Azeyma) «Strażniczka», the Spinner (Nymeia) «Prządka», the Scholar (Thaliak) «Uczony»." },
+    { "en": "Lady of the Vortex", "fr": "la divinité des rafales", "ja": "風神", "pl": "Władczyni Wichru", "protect": false, "note": "Garuda. Wzór «Władca X» dla pozostałych bożków." },
+    { "en": "landwalker", "fr": "marcheur des terres", "ja": "地を這う者", "pl": "ziemiołaz", "protect": false, "note": "W ustach Garudy i Ixal; overdweller «naziemiec»." },
+    { "en": "the Creeping Death", "fr": "la mort rampante", "ja": "這い寄る死", "pl": "pełzająca śmierć", "protect": false, "note": "Choroba, mała litera." },
+    { "en": "eikon-slayer", "fr": "celui qui a vaincu les Primordiaux", "ja": "蛮神殺し", "pl": "pogromca eikonów", "protect": false, "note": "Do gracza z makrem rodzaju: «<if(gnum4,pogromczyni,pogromca)> eikonów»." },
+    { "en": "Greenbliss", "fr": "les Spirituales", "ja": "大御霊祭り", "pl": "Święto Zieleni", "protect": false, "note": "" },
     { "en": "elemental", "fr": "élémentaire", "ja": "精霊", "pl": "żywiołak", "protect": false, "note": "Liczba mnoga «żywiołaki»." },
     { "en": "vanguard", "fr": "l'artillerie lourde", "ja": "魔導ヴァンガード", "pl": "vanguard", "protect": true, "note": "Nazwa maszyny z tabliczki: zostaje, nieodmienna." },
     { "en": "the Paragons", "fr": "les Parangons", "ja": "アシエン・パラゴン", "pl": "wiekuiści Ascianie", "protect": false, "note": "W ustach obcych ludów sam «Wiekuiści»; tam, gdzie angielskie zestawia «Paragons... or Ascians», krótka forma." },
@@ -1153,6 +1159,10 @@
     {
       "_divider": "INSTYTUCJE I TYTUŁY. Tłumaczone, z wielkimi literami jak w angielskim."
     },
+    { "en": "the Trappers' League", "fr": "la ligue des Trappeurs", "ja": "罠猟師組合", "pl": "Liga Traperów", "protect": false, "note": "" },
+    { "en": "the Lambs of Dalamud", "fr": "les Survivalistes", "ja": "最後の群民", "pl": "Baranki Dalamuda", "protect": false, "note": "" },
+    { "en": "the Corpse Brigade", "fr": "la brigade des Cadavres", "ja": "骸旅団", "pl": "Trupia Brygada", "protect": false, "note": "" },
+    { "en": "the Carpenters' Guild", "fr": "la guilde des Charpentiers", "ja": "木工師ギルド", "pl": "Gildia Stolarzy", "protect": false, "note": "Wzór gildii klasowych. Timbermaster: «mistrz stolarski»." },
     { "en": "the 4th Unit", "fr": "4e unité", "ja": "第四小隊", "pl": "Czwarty Oddział", "protect": false, "note": "Tak samo Pierwszy i Drugi Oddział, za «the 3rd Unit»." },
     { "en": "Grand Company", "fr": "grande compagnie", "ja": "グランドカンパニー", "pl": "Wielka Kompania", "protect": false, "note": "Liczba mnoga «Wielkie Kompanie»." },
     { "en": "the Immortal Flames", "fr": "les Immortels", "ja": "不滅隊", "pl": "Nieśmiertelne Płomienie", "protect": false, "note": "«Sala Płomieni» (the Hall of Flames); «Generał Płomieni» (the Flame General)." },
@@ -1225,6 +1235,12 @@
     {
       "_divider": "MIEJSCA W PROZIE. Co gracz czyta w interfejsie (regiony, strefy, miasta i dzielnice, lochy, cele teleportu) zostaje po angielsku i nieodmiennie; reszta się tłumaczy. Osady: nazwa zostaje, opis się tłumaczy («Łąki Bentbranch», «Placówka Whitebrim»)."
     },
+    { "en": "Fallgourd Float", "fr": "le radeau de la Calebasse", "ja": "フォールゴウド", "pl": "Fallgourd Float", "protect": true, "note": "Nazwa z mapy: zostaje, przypadek na rzeczowniku («w osadzie Fallgourd Float»). Tak samo Lost Hope, Westshore Pier, Forgotten Springs." },
+    { "en": "the Ship Graveyard", "fr": "le cimetière de bateaux", "ja": "船の墓場", "pl": "Cmentarzysko Statków", "protect": false, "note": "Podstrefa Wysp Umbry, nie wpis Duty Findera." },
+    { "en": "Coral Tower", "fr": "la tour de Corail", "ja": "コーラルタワー", "pl": "Koralowa Wieża", "protect": false, "note": "Budowla, nie cel eterytu." },
+    { "en": "Nanawa Mines", "fr": "les mines de Nanawa", "ja": "ナナワ鉱山", "pl": "Kopalnie Nanawa", "protect": false, "note": "" },
+    { "en": "the Bramble Patch", "fr": "le massif de ronces", "ja": "茨の森", "pl": "Cierniowy Gąszcz", "protect": false, "note": "" },
+    { "en": "Rowena's House of Splendors", "fr": "la maison des Splendeurs de Rowena", "ja": "ローウェナ商会", "pl": "Dom Splendorów Roweny", "protect": false, "note": "Diamond Forge: «Diamentowa Kuźnia»." },
     { "en": "Horizon's Edge", "fr": "les Confins d'Horizon", "ja": "ホライズン・エッジ", "pl": "Skraj Horizon", "protect": false, "note": "Wzór osad: nazwa zostaje, opis się tłumaczy." },
     { "en": "Cedarwood", "fr": "la Cédrière", "ja": "シダーウッド", "pl": "Cedrowy Las", "protect": false, "note": "Przejrzyste złożenie, jak «Dziewięć Bluszczy»." },
     { "en": "Merchant Strip", "fr": "le quartier marchand", "ja": "商業区", "pl": "Dzielnica Kupiecka", "protect": false, "note": "Wzór «Hustings Strip» = «Dzielnica Rządowa»." },
