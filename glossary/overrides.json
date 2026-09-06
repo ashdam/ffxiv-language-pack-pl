@@ -1052,6 +1052,11 @@
     {
       "_divider": "SERIA I ŚWIAT. Nie ma oficjalnego Final Fantasy po polsku: precedensem jest polska tradycja lokalizacji RPG (Wiedźmin, Baldur's Gate, Dragon Age) i zwyczaj społeczności (moogle, chocobo, kupo po angielsku). Pewność: wysoka = jedyna rozsądna forma lub precedens; średnia = za francuskim albo za hiszpańskim korpusem; niska = ukute."
     },
+    { "en": "elemental", "fr": "élémentaire", "ja": "精霊", "pl": "żywiołak", "protect": false, "note": "Liczba mnoga «żywiołaki»." },
+    { "en": "vanguard", "fr": "l'artillerie lourde", "ja": "魔導ヴァンガード", "pl": "vanguard", "protect": true, "note": "Nazwa maszyny z tabliczki: zostaje, nieodmienna." },
+    { "en": "the Paragons", "fr": "les Parangons", "ja": "アシエン・パラゴン", "pl": "wiekuiści Ascianie", "protect": false, "note": "W ustach obcych ludów sam «Wiekuiści»; tam, gdzie angielskie zestawia «Paragons... or Ascians», krótka forma." },
+    { "en": "the Ivy", "fr": "le Lierre", "ja": "アイビー", "pl": "Bluszcz", "protect": false, "note": "Przydomek garleańskiego szpiega." },
+    { "en": "the Azure Dragoon", "fr": "le Dragon azuré", "ja": "蒼の竜騎士", "pl": "Lazurowy Smoczy Rycerz", "protect": false, "note": "«the order of dragoons» to «zakon smoczych rycerzy»." },
     { "en": "moogle", "fr": "mog", "ja": "モーグリ", "pl": "moogle", "protect": true, "note": "Odmiana jak obce imię: «moogle'a», «z moogle'em». Nigdy «moguri»." },
     { "en": "chocobo", "fr": "chocobo", "ja": "チョコボ", "pl": "chocobo", "protect": true, "note": "Nieodmienne." },
     { "en": "kupo", "fr": "kupo", "ja": "クポ", "pl": "kupo", "protect": true, "note": "Wydłużenia za angielskim: «Kupopo»." },
@@ -1148,6 +1153,7 @@
     {
       "_divider": "INSTYTUCJE I TYTUŁY. Tłumaczone, z wielkimi literami jak w angielskim."
     },
+    { "en": "the 4th Unit", "fr": "4e unité", "ja": "第四小隊", "pl": "Czwarty Oddział", "protect": false, "note": "Tak samo Pierwszy i Drugi Oddział, za «the 3rd Unit»." },
     { "en": "Grand Company", "fr": "grande compagnie", "ja": "グランドカンパニー", "pl": "Wielka Kompania", "protect": false, "note": "Liczba mnoga «Wielkie Kompanie»." },
     { "en": "the Immortal Flames", "fr": "les Immortels", "ja": "不滅隊", "pl": "Nieśmiertelne Płomienie", "protect": false, "note": "«Sala Płomieni» (the Hall of Flames); «Generał Płomieni» (the Flame General)." },
     { "en": "the Maelstrom", "fr": "le Maelstrom", "ja": "黒渦団", "pl": "Maelstrom", "protect": false, "note": "Rodzaj męski, odmienny: «Maelstromu». «Dowództwo Maelstromu» (Maelstrom Command); «Admirał» (the Admiral), w zwrocie «pani admirał»." },
@@ -1219,6 +1225,14 @@
     {
       "_divider": "MIEJSCA W PROZIE. Co gracz czyta w interfejsie (regiony, strefy, miasta i dzielnice, lochy, cele teleportu) zostaje po angielsku i nieodmiennie; reszta się tłumaczy. Osady: nazwa zostaje, opis się tłumaczy («Łąki Bentbranch», «Placówka Whitebrim»)."
     },
+    { "en": "Horizon's Edge", "fr": "les Confins d'Horizon", "ja": "ホライズン・エッジ", "pl": "Skraj Horizon", "protect": false, "note": "Wzór osad: nazwa zostaje, opis się tłumaczy." },
+    { "en": "Cedarwood", "fr": "la Cédrière", "ja": "シダーウッド", "pl": "Cedrowy Las", "protect": false, "note": "Przejrzyste złożenie, jak «Dziewięć Bluszczy»." },
+    { "en": "Merchant Strip", "fr": "le quartier marchand", "ja": "商業区", "pl": "Dzielnica Kupiecka", "protect": false, "note": "Wzór «Hustings Strip» = «Dzielnica Rządowa»." },
+    { "en": "Empty Heart", "fr": "le Cœur-Vide", "ja": "うつろの心", "pl": "Puste Serce", "protect": false, "note": "" },
+    { "en": "Bronze Lake", "fr": "le lac de Bronze", "ja": "ブロンズレイク", "pl": "Bronze Lake", "protect": true, "note": "Nazwa z mapy: zostaje, przypadek na przyimku («nad Bronze Lake»)." },
+    { "en": "Whitebrim Front", "fr": "l'avant-poste de Blanchevasque", "ja": "ホワイトブリム前哨地", "pl": "Placówka Whitebrim", "protect": false, "note": "Wzór osad: opis się tłumaczy, nazwa zostaje. Tak samo «Chata Hawthorne», «Łąki Bentbranch»." },
+    { "en": "the Guardian Tree", "fr": "l'Arbre gardien", "ja": "長老の木", "pl": "Drzewo Strażnicze", "protect": false, "note": "" },
+    { "en": "the Bannock", "fr": "le Bannock", "ja": "バノック練兵所", "pl": "Bannock", "protect": true, "note": "Nieodmienne: «w Bannock», «do Bannock»." },
     { "en": "the Waking Sands", "fr": "les Sables éveillés", "ja": "砂の家", "pl": "Przebudzone Piaski", "protect": false, "note": "NISKA." },
     { "en": "the Rising Stones", "fr": "les Pierres de l'éveil", "ja": "石の家", "pl": "Wschodzące Kamienie", "protect": false, "note": "NISKA." },
     { "en": "the solar", "fr": "le salon de l'Aube", "ja": "暁の間", "pl": "Sala Świtu", "protect": false, "note": "Gabinet Antecedentki w siedzibie Dziedziców." },
@@ -1357,6 +1371,10 @@
     { "en": "mumble", "pl": "mamrocze" },
     { "en": "sob", "pl": "szlocha" },
     { "en": "huff", "pl": "sapie" },
-    { "en": "belch", "pl": "beka" }
+    { "en": "belch", "pl": "beka" },
+    { "en": "sniffle", "pl": "pochlipuje" },
+    { "en": "whimper", "pl": "skomle" },
+    { "en": "hiccup", "pl": "czka" },
+    { "en": "gulp", "pl": "przełyka ślinę" }
   ]
 }

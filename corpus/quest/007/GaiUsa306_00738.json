@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa306_00738",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_00", "hash": "02FBF05BB307E6EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_01", "hash": "08274F15CA5100FE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_02", "hash": "84DBD095A03B9FC2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_03", "hash": "9EAF9E61AD572296", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_00", "hash": "BD18AC53C6673DB9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_01", "hash": "CEEE3E3168D8761E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_000", "hash": "4C67A6870750167D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_001", "hash": "57F1EBF4EAB22FC6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_020", "hash": "537E1454413F0B1E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_021", "hash": "D3306AF6EA337EA3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_022", "hash": "C67E6F8BA977EDA4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_023", "hash": "CAEA5817CA632068", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_POP_MESSAGE_000", "hash": "6B489686A1538CCF", "target": "" }
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_00", "hash": "02FBF05BB307E6EE", "target": "Gdyby Buscarron mógł wybierać, chętnie pogawędziłby z poszukiwaczem przygód o sylfach." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_01", "hash": "08274F15CA5100FE", "target": "Doniesienia o sylfach w części lasu poza ich terytorium budzą niepokój. Buscarron zaznaczył obszar na twojej mapie. Udaj się tam i zbadaj okolicę." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_02", "hash": "84DBD095A03B9FC2", "target": "Patrol wyznaczonego obszaru dobiegł końca. Wróć do Druthers i porozmawiaj z Buscarronem." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_03", "hash": "9EAF9E61AD572296", "target": "Buscarron mówi ci, że żołnierze garleańscy nigdy dotąd nie zdołali przedrzeć się w głąb lasu. Coraz więcej dowodów wskazuje, że w Gridanii jest zdrajca wspomagający imperialny marsz." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_00", "hash": "BD18AC53C6673DB9", "target": "Zbadać wskazane miejsca" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_01", "hash": "CEEE3E3168D8761E", "target": "Zdać relację Buscarronowi" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_000", "hash": "4C67A6870750167D", "target": "Podczas twojej nieobecności doszły mnie wieści. W lesie widziano sylfy, ale z dala od ich ziem. Nie, to było niedaleko <italic(1)>stąd<italic(0)>─w miejscu, gdzie sylf nigdy dotąd nie zaglądał." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_001", "hash": "57F1EBF4EAB22FC6", "target": "Coś musiało je skłonić, by zapuścić się tak daleko. Najpewniej jest wśród nich zaginiony starszy sylfów. Zaznaczyłem na twojej mapie obszar, gdzie je widziano. Idź i sprawdź, czy da się tam coś znaleźć." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_020", "hash": "537E1454413F0B1E", "target": "No i jak, było coś do znalezienia w lesie? Co ci się udało─<br>...Garleańczycy!? W <italic(1)>tej<italic(0)> części Lasu Dwunastu!?" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_021", "hash": "D3306AF6EA337EA3", "target": "Hmmm... Najpierw sylfy, teraz Garleańczycy, i wszystko w jednym miejscu. To nie może być zwykły zbieg okoliczności. Czy Garleańczycy mogą podążać za sylfami? Tropić je albo ścigać?" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_022", "hash": "C67E6F8BA977EDA4", "target": "Ale nie, nie tak głęboko w lesie. Wieże Płaczków są wszędzie. Imperialni nigdy nie zdołaliby prześlizgnąć się obok nich wszystkich. Jak, do cholery, mogliby─ Chyba że..." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_023", "hash": "CAEA5817CA632068", "target": "Chyba że ktoś ich przeprowadził. Ktoś, kto wiedział, gdzie stoją wieże i kiedy Płaczkowie czuwają. Gridański zdrajca." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_POP_MESSAGE_000", "hash": "6B489686A1538CCF", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

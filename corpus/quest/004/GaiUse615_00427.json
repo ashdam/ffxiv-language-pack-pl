@@ -18,7 +18,7 @@
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_LADYINWAITING00427_000_010", "hash": "7A587BDA2C798B20", "target": "Dziękuję za przybycie, <if(gnum4,szanowna pani,szanowny panie)>. Jej Wysokość bardzo pragnie pomówić." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_LADYINWAITING00427_000_011", "hash": "BE6FAC1FD084377D", "target": "Jeśli przed audiencją potrzebna jest chwila na zebranie myśli, proszę bardzo. A jeśli wszystko gotowe, będzie mi zaszczytem bezzwłocznie odprowadzić <if(gnum4,panią,pana)> do komnat Jej Wysokości." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_011", "hash": "C1BD14F0F49C959C", "target": "Po przejściu do sypialni Sułtanki odtworzy się kilka scen przerywnikowych pod rząd." },
-    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_012", "hash": "D11D4BC741FC5BEF", "target": "Zalecamy zarezerwować dość czasu, by obejrzeć je w całości." },
+    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_012", "hash": "D11D4BC741FC5BEF", "target": "Zaleca się zarezerwować dość czasu, by obejrzeć je w całości." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_Q1_000_012", "hash": "C4864C9D07CE5D6F", "target": "Przejść do sypialni Sułtanki?" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_A1_000_013", "hash": "1C84BDF5B66461D8", "target": "Tak" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_A1_000_014", "hash": "1A6230B09BEC9C24", "target": "Nie" },

@@ -2,15 +2,15 @@
   "conversation": "quest/013/GaiUse219_01363",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "" }
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "Yugiri ma minę kobiety przepełnionej wdzięcznością." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "Zanim rozstanie się z tobą, by studiować techniki walki tajnego bractwa, zawsze uprzejma Yugiri prosi o przekazanie jej wdzięczności Minfilii. Nie mając nic lepszego do roboty, wróć do Wschodzących Kamieni w Mycie Upiora i przekaż jej słowa Antecedentce." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "Przybywasz do Wschodzących Kamieni z zamiarem przekazania podziękowań Yugiri, ale nim zdążysz to zrobić, Minfilia zaczyna głośno rozważać niedawne wydarzenia. Na podstawie zjawiska, które obserwowała tuż przed przyzwaniem Leviathana, Antecedentka jest przekonana, że prawdziwa natura Echa i sekret pokonania Ascian są teraz w zasięgu ręki. Gdy jednak postanawia działać, do Sali Świtu wpada Urianger z ponurymi wieściami: wyspa Val, dom Uczniów Baldesiona, została zniszczona zaklęciem o mocy równej Ultimie..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "Porozmawiać z Minfilią we Wschodzących Kamieniach" },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "Wiele wydarzyło się, odkąd po raz pierwszy ujrzałam Eorzeę z pokładu galeonu. Dość powiedzieć, że nie spodziewałam się zaproszenia do udziału w waszej szlachetnej walce." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "Ale proszę wybaczyć, zatrzymałam <if(gnum4,panią,pana)> zbyt długo. Na pewno czekają własne pilne sprawy. Zapewniam, że nie potrzebuję już eskorty w tym kraju." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "Przy najbliższym spotkaniu z panią Minfilią proszę przekazać jej moje najpokorniejsze podziękowania. Chciałabym zrobić to osobiście, ale muszę dotrzymać obietnicy danej pani admirał. Do zobaczenia, <if(gnum4,Wojowniczko,Wojowniku)> Światła." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "Przy najbliższym spotkaniu z panią Minfilią proszę przekazać jej moje najpokorniejsze podziękowania. Do zobaczenia, <if(gnum4,Wojowniczko,Wojowniku)> Światła." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "Kurczę, <italic(1)>wieki<italic(0)> minęły, odkąd Thancred wstał i odszedł od Sióstr. Czego bym nie dał, żeby znów pobiegać z tym starym łotrem, jak za dawnych czasów..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "Wschodnia sztuka walki, co? Muszę przyznać, że nieźle mnie to zaciekawiło!" }
   ]
 }

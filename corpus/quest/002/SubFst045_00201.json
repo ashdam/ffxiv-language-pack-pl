@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubFst045_00201",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "" }
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "Galfrid, główny instruktor w Bannock, chce obejrzeć twoje wyposażenie i ocenić, czy nadajesz się do przyszłych zadań." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "Zanim Galfrid powierzy ci jakiekolwiek zadanie, musisz skompletować przyzwoity zestaw wyposażenia. Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem zgłoś się do głównego instruktora na przegląd." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "Galfrid uznał, że twoje wyposażenie zdało egzamin. Od tej chwili możesz podejmować zadania od głównego instruktora." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "Zgłosić się do Galfrida na przegląd wyposażenia" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "Widzę, że chętnie podasz pomocną dłoń, <split(<string(gstr1)>, ,1)>. To dobrze. Ale z czystym sumieniem nie wyślę cię do lasu, dopóki nie ustalę, że twoje wyposażenie sprosta zadaniu." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "Warto powtórzyć: przez pięć lat od nastania Siódmej Ery Umbralnej wiele stworzeń Lasu Dwunastu zmieniło się w okrutne, żądne krwi potwory. Wejść do lasu bez porządnego wyposażenia to jak podnieść rękę na siebie samego." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "Radzę poświęcić chwilę na przejrzenie wyposażenia. Kiedy uznasz, że zbroja jest dość dobra, zgłoś się do mnie na przegląd." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem wróć do Galfrida." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "Gotowi do przeglądu? No to dalej! Wzrok przed siebie! Plecy prosto!" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "Hmmm... Tak, myślę, że to wyposażenie zdaje egzamin." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "Zdziwiłaby cię liczba młodych, obiecujących żołnierzy, którzy giną, bo pognali w las, nie założywszy wpierw przyzwoitej zbroi." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "Twoje wyposażenie powinno jednak dać wymaganą ochronę. Od tej chwili jesteś w służbie, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "\\<wzdycha> Równie dobrze można by paradować w stroju z dnia narodzin. Wróć, kiedy zdobędziesz solidniejszy sprzęt." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem wróć do Galfrida." }
   ]
 }
