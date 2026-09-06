@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc104_00955",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "" }
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "Profesor Lamberteint zaraz pokaże ci coś, czego nie zapomnisz." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "Profesor Lamberteint jest zachwycony spotkaniem jednej z nielicznych osób zainteresowanych skażonymi kryształami, choć wątpi w twoją zdolność do obchodzenia się z tak niebezpiecznym materiałem. Szczęśliwym trafem posiada na taką okazję specjalnie zabezpieczone naczynie, które gotów jest ci wypożyczyć mimo owych rzekomych braków. Z tym wyposażeniem ruszaj do Highbridge i przedstaw się Hahasace, jednemu z oddanych uczniów profesora." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "Rozdrażnienie Hahasaki zmienia się w zachwyt, gdy pojmuje, że to profesor przysłał cię do niego. Uznając decyzję mistrza za milczące potwierdzenie swojej biegłości, Hahasako z trudem odzyskuje rezon, by móc ci pomóc." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "Dostarczyć zabezpieczony garnek Hahasace" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "Aaach, jakże rzadko spotyka się w tych stronach ludzi myślących. A jeszcze rzadziej kogoś, kto pojmuje naturę skażonych kryształów." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "Jak się tak zastanowić, był jeszcze jeden─pustelnik, któremu kościół udzielił schronienia. Osobliwy jegomość. Nietowarzyski, na pierwszy rzut oka nieco przygłupi, a przy tym obdarzony zdumiewającą smykałką do nauk ścisłych..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "Ale do rzeczy─czy dobrze słyszałem, że nie chodzi o obserwacje w terenie, tylko o <italic(1)>pozyskanie<italic(0)> skażonego kryształu?" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "Na bogów, <if(gnum4,droga pani,drogi panie)>! Trzeba przynajmniej zachować odpowiednie środki ostrożności, żeby nie ucierpieć od jego szkodliwych energii! Zaczynam się zastanawiać, czy kwalifikacje wystarczą do obchodzenia się z tak groźnym materiałem..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "A jednak ta niewiedza ma w sobie coś ujmującego. Na szczęście dysponuję dokładnie tym, co pozwala owych niebezpieczeństw uniknąć. Wystarczy przechować poszukiwany kryształ w tym zabezpieczonym garnku, by uchronić się przed jego zgubnym działaniem. Choć zapewne do chwili włożenia go do naczynia będzie bombardował swoimi energiami..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "Cóż, może to zmotywuje do pośpiechu. Tak czy owak, proszę zanieść garnek Hahasace, mojemu uczniowi, który mierzy przepływ eteru w Highbridge. Proszę wyłuszczyć mu swoje zadanie, a on objaśni subtelności pozyskiwania kryształów." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "Ile razy mam się jeszcze tłumaczyć!? Nie zamierzam się zabić, ty tumanie─wybrałem to konkretne miejsce, by prowadzić naukowe pomiary!" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "A cóż to my tu mamy... naczynie ochronne!? Ależ to robota profesora Lamberteinta! Ty złodziejski łotrze, zaraz wezwę─ Aha, więc sam <if(gnum4,pani,panu)> je pożyczył..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "W takim razie przysłał tu <if(gnum4,panią,pana)> na własne polecenie... co znaczy, że uważa mnie za dość doświadczonego, by rozwinąć jego wywody! Nareszcie uznanie, które mi się słusznie należy!" }
   ]
 }

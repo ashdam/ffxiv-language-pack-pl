@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea115_00412",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_2", "hash": "09432B8CF4FAA8F5", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_3", "hash": "4898378E35A524B2", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_4", "hash": "E082327D81D90B5D", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_10", "hash": "5DB03D7C7C972F6A", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_11", "hash": "CB370CFF42B806FF", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_12", "hash": "75A9B671C839CFB8", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13", "hash": "421438C0EB886AEF", "target": "" }
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "Ahtbyrm szuka jednego ze swoich ludzi oraz towarów, które ten miał dostarczyć." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "Ruszaj drogą wiodącą na zachód od Stoczni Moraby i porozmawiaj z Haldbrodą o tym, gdzie się podział niejaki Fyrilsmyd, pamiętając, by wyrazić swoje /doubt co do jego uczciwości." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "Zdaje się, że Haldbroda naprawdę nie pamięta, by kiedykolwiek widział Fyrilsmyda. Czyżby młody szkutnik został jakimś sposobem wciągnięty w tragedię, która pochłonęła statek u brzegów Salt Strand?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "Udać się do Candlekeep Quay i przekazać Haldbrodzie /doubt Ahtbyrma" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "Gdzie go, u siedmiu piekieł, niesie!? Przez dwanaście księżyców ani razu nie spóźnił się z dostawą, a teraz dwa pełne obroty słońca i ani słowa." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_2", "hash": "09432B8CF4FAA8F5", "target": "Jeden z moich szkutników─młodzik imieniem Fyrilsmyd─wyruszył niedawno z Candlekeep Quay po kilka skrzyń zaopatrzenia zamówionego w Limsa Lominsa... i wciąż nie wrócił." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_3", "hash": "4898378E35A524B2", "target": "Wysłałem do Haldbrody kilka listów, a odpowiedź zawsze ta sama. Nie przypomina sobie ani szkutnika, ani zaopatrzenia, które ten miał odebrać. Ten człowiek coś wie, i mocno wątpię (<colortype(500)><edgecolortype(501)>doubt<edgecolortype(0)><colortype(0)>), by mówił mi całą prawdę." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_4", "hash": "E082327D81D90B5D", "target": "Nie mogę opuścić posterunku, więc mam prośbę: idź w moim zastępstwie do Candlekeep Quay i powiedz Haldbrodzie, że jeśli będzie się dalej bawił w te gierki, osobiście dopilnuję, by przeniesiono go na Turtleback Island, gdzie do końca świata będzie mógł gnić samotnie pośrodku morza." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_10", "hash": "5DB03D7C7C972F6A", "target": "Co? Ten zadufany pies Ahtbyrm wątpi (<colortype(500)><edgecolortype(501)>doubt<edgecolortype(0)><colortype(0)>), że zawsze mówiłem mu szczerą prawdę!?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_11", "hash": "CB370CFF42B806FF", "target": "Turtleback Island!? Nie może tego zrobić... prawda?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_12", "hash": "75A9B671C839CFB8", "target": "Przysięgam na grób mojej biednej babki, niech Nawigatorka ma jej duszę w opiece, nic nie wiem o żadnym Fyrilsmydzie ani o jego drogocennym zaopatrzeniu." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13", "hash": "421438C0EB886AEF", "target": "Do piekła, przez ostatnie dni mamy tu na nabrzeżu dość kłopotów, odkąd u brzegów Salt Strand poszedł na dno lominsański frachtowiec. Nie mam czasu się odlać, a co dopiero notować każdego obdartusa, który przywlecze się z okolic the Grip." }
   ]
 }

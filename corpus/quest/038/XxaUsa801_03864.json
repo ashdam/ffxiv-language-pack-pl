@@ -2,17 +2,17 @@
   "conversation": "quest/038/XxaUsa801_03864",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_00", "hash": "1379F1B04DF15B90", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_01", "hash": "B77D5DBFD3E6ED73", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_02", "hash": "E1C659048BF4F08F", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_03", "hash": "F1D7DBD35A1B6F34", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_00", "hash": "CA058B0AE0D4455E", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_01", "hash": "80732AF0716B4DCE", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SYSTEM_100_000", "hash": "43E201CE95BFD9D9", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_000", "hash": "DECD5779E1C7A746", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_001", "hash": "D2390A0BBA237BF7", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_002", "hash": "1B99434A420C5E2A", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_020", "hash": "01E2F7DA0E02173D", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_021", "hash": "AFC0A8E3855CD8AF", "target": "" }
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_00", "hash": "1379F1B04DF15B90", "target": "Aideen ma propozycję dotyczącą twojego śledztwa." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_01", "hash": "B77D5DBFD3E6ED73", "target": "Powszechnie sądzi się, że za te śmierci odpowiadają tutejsze ziz. Aideen proponuje ubić trzy z tych łuskowców i sprawdzić, czy znajdą się jakieś ślady." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_02", "hash": "E1C659048BF4F08F", "target": "Trzy ziz padły zgodnie z sugestią, ale poza obfitym plonem ugryzień i ran nic z tego nie wynikło. Wróć do osady Fallgourd Float i zdaj relację Aideen." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_03", "hash": "F1D7DBD35A1B6F34", "target": "Aideen skreśla ziz z listy podejrzanych i znów kieruje uwagę na zamaskowanego mężczyznę i jego skrzydlate oko." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_00", "hash": "CA058B0AE0D4455E", "target": "Zabić ziz" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_01", "hash": "80732AF0716B4DCE", "target": "Zdać relację Aideen" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SYSTEM_100_000", "hash": "43E201CE95BFD9D9", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_000", "hash": "DECD5779E1C7A746", "target": "Więc tak, oto co wiem o tych śmierciach: wszystkie ofiary znaleziono z twarzami rozszarpanymi na strzępy." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_001", "hash": "D2390A0BBA237BF7", "target": "Spośród tutejszej zwierzyny takie rany zadać mogą jedynie łuskowce zwane ziz. Dlatego niektórzy wytykają je palcem." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_002", "hash": "1B99434A420C5E2A", "target": "Jakoś wątpię, żeby odpowiedź była taka prosta, ale dla porządku trzeba to sprawdzić. Może ubijesz, powiedzmy, trzy takie bestie i zobaczysz, czy znajdzie się dowód łączący je z tymi śmierciami?" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_020", "hash": "01E2F7DA0E02173D", "target": "Już się <if(gnum4,zajęłaś,zająłeś)> tymi ziz? Dobra robota, <if(gnum4,poszukiwaczko przygód,poszukiwaczu przygód)>! No i jak, znalazło się coś, co wskazywałoby na te bestie?" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_021", "hash": "AFC0A8E3855CD8AF", "target": "...Nic? Prawdę mówiąc, nawet gdyby był dowód, nie wiedziałabym, jak wygląda. Tak czy owaaak, chyba możemy spokojnie skreślić ziz z listy podejrzanych. Zostaje nam więc... zamaskowany mężczyzna i jego skrzydlate oko!" }
   ]
 }

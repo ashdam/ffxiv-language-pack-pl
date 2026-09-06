@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa803_00787",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_00", "hash": "AFF1E8629A289BF1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_01", "hash": "5A2861A66E4B9694", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_02", "hash": "4E8FEB8441430F27", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_03", "hash": "D387F159ADDB1D50", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_04", "hash": "B4F7AB7F35240028", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_00", "hash": "92D25B099003EF54", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_01", "hash": "B88D274BC716101D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_02", "hash": "32671924728C64AC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_000", "hash": "39159491C5B7E443", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_001", "hash": "B32BA9D8B14BCDE5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_002", "hash": "E77168E527FBC9FA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_030", "hash": "7E6C76312FD58356", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_031", "hash": "81F39C5E12C8CDC1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_032", "hash": "8D5AE36B231BEAD9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_00", "hash": "AFF1E8629A289BF1", "target": "Aideen wie o tajemniczych zgonach coś jeszcze." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_01", "hash": "5A2861A66E4B9694", "target": "Aideen mówi ci, że wszystkie dotychczasowe ofiary były urodziwymi dziewczętami. Krążą pogłoski, że po śmierci ich uraza wsiąkła w skałę na południowym zachodzie, przez co ta rozbłyskuje i jęczy. Licząc na jakiś trop, Aideen prosi o odstrzelenie laską ognistego piasku kawałków skały i przyniesienie jej odłamków do zbadania." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_02", "hash": "4E8FEB8441430F27", "target": "Laska ognistego piasku poszła w ruch. Pozbieraj kryształy żywiołu błyskawicy, które zasłały okolicę." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_03", "hash": "D387F159ADDB1D50", "target": "Masz już wszystkie kryształy żywiołu błyskawicy. Wróć do Fallgourd Float i wręcz je Aideen." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_04", "hash": "B4F7AB7F35240028", "target": "Aideen nie kryje rozczarowania na widok twojego łupu z kryształów żywiołu błyskawicy. Niestety, cały ten trud nie posunął śledztwa naprzód." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_00", "hash": "92D25B099003EF54", "target": "Rzucić laskę ognistego piasku w skałę" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_01", "hash": "B88D274BC716101D", "target": "Zebrać kryształy żywiołu błyskawicy" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_02", "hash": "32671924728C64AC", "target": "Dostarczyć kryształy żywiołu błyskawicy Aideen" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_000", "hash": "39159491C5B7E443", "target": "Słyszałam o tych zgonach jeszcze coś. Okazuje się, że <italic(1)>wszystkie<italic(0)> ofiary to urodziwe dziewczęta. Chyba powinnam na siebie uważać, co!? He he he!" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_001", "hash": "B32BA9D8B14BCDE5", "target": "\\<wzdycha> Żarty na bok─krąży pewna pogłoska. Niektórzy szepczą, że po śmierci każdej z ofiar jej uraza wsiąkała w wielki głaz na południowy zachód stąd, przez co ten rozbłyskuje i jęczy." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_002", "hash": "E77168E527FBC9FA", "target": "Warto to zbadać, tak sądzę. Dam ci laskę ognistego piasku, żeby odstrzelić kawałek tej turni. Laska nie ma lontu ani nic takiego, więc trzeba ją <italic(1)>rzucić<italic(0)>. Gdy już rozwalisz tę skałę, przynieś kilka odłamków, a ja im się przyjrzę." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_030", "hash": "7E6C76312FD58356", "target": "Większość ludzi za bardzo się boi, żeby podejść na sto yalmów do <italic(1)>Skały Urazy<italic(0)>─tak, ona ma swoją nazwę. Ale co znaczy kilka mściwych duchów dla nieustraszonego poszukiwacza przygód, co?" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_031", "hash": "81F39C5E12C8CDC1", "target": "...Hę? Przecież to najzwyklejsze kryształy! Pod całym tym brudem trudno to dostrzec, ale bez wątpienia mają żywioł błyskawicy." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_032", "hash": "8D5AE36B231BEAD9", "target": "Aż mi przykro to mówić, ale to wyjaśnia rozbłyski i jęki. Nic wspólnego z zamaskowanym nieznajomym. Wygląda na to, że zmarnowałam i twój czas, <italic(1)>i<italic(0)> całkiem dobrą laskę ognistego piasku. No cóż..." }
   ]
 }

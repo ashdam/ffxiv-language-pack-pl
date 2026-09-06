@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb305_00846",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_00", "hash": "97E0061B20826FAE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_01", "hash": "44EA56659513435E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_02", "hash": "06F4C11383FCCEA5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_03", "hash": "4BB8E14B15412476", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_00", "hash": "7958F8BA7A2A5EBB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_01", "hash": "0F700C0B8FB3D23C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_000", "hash": "078294AD5B9737CB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_001", "hash": "75957CEB15C5BAB4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_002", "hash": "4F0FFD422B3E0ED6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_020", "hash": "EE2D5332F92F13E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_021", "hash": "36AD7D5AE985CFF2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_022", "hash": "F6780077DB95C220", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_023", "hash": "D24C4195F4DAD412", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_024", "hash": "A517BF7E0BC4D076", "target": "" }
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_00", "hash": "97E0061B20826FAE", "target": "Drest jest u kresu wytrzymałości." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_01", "hash": "44EA56659513435E", "target": "Drest nie może spać przez nieustanne bzyczenie rojów muszek. Odszukaj hałaśliwe robactwo i wytęp je dla udręczonego pustelnika." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_02", "hash": "06F4C11383FCCEA5", "target": "Po wybiciu kilku rojów dung midge dżungla wyraźnie ucichła. Wróć do Przeciętego Rzemienia i porozmawiaj z Drestem." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_03", "hash": "4BB8E14B15412476", "target": "Dziękując ci za pomoc, Drest wyznaje, że jest imperialnym dezerterem, choć sam nie jest Garleańczykiem. Imperium podbiło jego rodzinne ziemie, a on nie żywi urazy do ludu Eorzei. Mimo to nie miał wyboru i musiał przybyć na Vylbrand, gdzie teraz w tajemnicy trudzi się, by pewnego dnia móc wrócić do domu." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_00", "hash": "7958F8BA7A2A5EBB", "target": "Zabić dung midge swarm" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_01", "hash": "0F700C0B8FB3D23C", "target": "Porozmawiać z Drestem" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_000", "hash": "078294AD5B9737CB", "target": "Nie mogę... nie mogę spać... Nie dają mi spać... muszki... To bzyczenie... nie pozwala mi zasnąć..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_001", "hash": "75957CEB15C5BAB4", "target": "Nie jestem... Ja... nigdy nie chciałem nikogo skrzywdzić. Nie będę walczył. Nie chcę walczyć!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_002", "hash": "4F0FFD422B3E0ED6", "target": "Proszę, niech to bzyczenie ustanie! Przegoń te muszki!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_020", "hash": "EE2D5332F92F13E3", "target": "Już nie jest tak głośno. Czy... czy to twoja sprawka? Dziękuję. Dzięki tobie... Nawet po tym, co ja i moi towarzysze zrobiliśmy waszemu krajowi..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_021", "hash": "36AD7D5AE985CFF2", "target": "Byliśmy na misji zwiadowczej, gdy zaskoczył nas Maelstrom. Próbowaliśmy uciec, ale pozostali... N-nikt inny nie przeżył." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_022", "hash": "F6780077DB95C220", "target": "Nie prosiłem o to, do cholery! Nie jestem nawet Garleańczykiem! Podbili moje ziemie tak samo, jak próbowali podbić wasze!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_023", "hash": "D24C4195F4DAD412", "target": "Ja... nie chcę umierać w jakiejś przeklętej dżungli na drugim końcu świata..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_024", "hash": "A517BF7E0BC4D076", "target": "Ja tylko... chcę tylko wrócić do domu..." }
   ]
 }

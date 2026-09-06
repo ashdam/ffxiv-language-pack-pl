@@ -2,19 +2,19 @@
   "conversation": "quest/006/SubWil141_00674",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_00", "hash": "D7530DD0FD63291B", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_01", "hash": "8FA65A544D639D0B", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_02", "hash": "5EB84F2D25E445F7", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_TODO_00", "hash": "D94F07B732525993", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_1", "hash": "5747D74012B12770", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_2", "hash": "0961A1D92A426504", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_3", "hash": "3D49173D68054562", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_10", "hash": "A1FD0994EAA0C353", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_20", "hash": "8D448E09713E7FD2", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_21", "hash": "6AA6FC0AA391BCFB", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_22", "hash": "0163E2AB09D33A20", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_23", "hash": "3B2154F0A2A55EFB", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_24", "hash": "70CF1BFA225D98F6", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_25", "hash": "550EABF2974EEC24", "target": "" }
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_00", "hash": "D7530DD0FD63291B", "target": "Bartholomew ma wieści, które mogą cię zainteresować." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_01", "hash": "8FA65A544D639D0B", "target": "Baderon, właściciel Drowning Wench w Limsa Lominsa, potrzebuje sprawnego poszukiwacza przygód. Porozmawiaj z nim, jeśli chcesz wiedzieć więcej." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_02", "hash": "5EB84F2D25E445F7", "target": "Baderon ostrzega, że praca wiąże się ze sporym niebezpieczeństwem. Jeśli mimo to chcesz się jej podjąć, porozmawiaj z nim ponownie po instrukcje." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_TODO_00", "hash": "D94F07B732525993", "target": "Porozmawiać z Baderonem w Drowning Wench w Limsa Lominsa" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_1", "hash": "5747D74012B12770", "target": "Ach, <if(gnum4,pani wysłanniczko,panie wysłanniku)>. Ufam, że pobyt w sułtanacie był przyjemny. Jeśli wolno spytać, czy planuje <if(gnum4,pani,pan)> w najbliższym czasie odwiedzić Limsa Lominsa? Jeśli tak, mam wieści, które mogą <if(gnum4,panią,pana)> zainteresować." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_2", "hash": "0961A1D92A426504", "target": "Towarzyszyłem kiedyś Generałowi Płomieni w oficjalnej wizycie w nadmorskim mieście<-->państwie i poznałem wówczas Baderona, właściciela Drowning Wench. Otóż ten człowiek właśnie przysłał wieść, że ma zadanie dla sprawnego poszukiwacza przygód." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_3", "hash": "3D49173D68054562", "target": "Nie znam nikogo o lepszych referencjach. Baderon byłby bez wątpienia rad, gdyby zaoferowano mu takie usługi." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_10", "hash": "A1FD0994EAA0C353", "target": "Baderon potrzebuje sprawnego poszukiwacza przygód, a nie znam nikogo o lepszych referencjach. Jeśli nie ma <if(gnum4,pani,pan)> innych zajęć, może warto zaoferować mu swoje usługi." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_20", "hash": "8D448E09713E7FD2", "target": "Witaj w Drowning Wench! Siadaj, gdzie chcesz, <if(gnum4,dziewczyno,kolego)>. Zaraz się tobą zaj─" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_21", "hash": "6AA6FC0AA391BCFB", "target": "No proszę, jeśli to nie <string(gstr1)> we własnej osobie!" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_22", "hash": "0163E2AB09D33A20", "target": "Mówiono mi, że do służby zgłosi się <italic(1)>znamienity<italic(0)> 'wanturnik. I proszę, tym 'wanturnikiem okazujesz się ty!" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_23", "hash": "3B2154F0A2A55EFB", "target": "Hm? Tak, jestem Baderon, we własnej osobie. A kto pyta?" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_24", "hash": "70CF1BFA225D98F6", "target": "Aa, doszło cię, że mam robotę dla sprawnego 'wanturnika? No i masz rację, do licha!" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_25", "hash": "550EABF2974EEC24", "target": "Uprzedzam uczciwie: to nie robota dla strachliwych. Może się zrobić naprawdę gorąco. Ale jeśli mimo to masz ochotę, daj znać, a opowiem ci szczegóły." }
   ]
 }

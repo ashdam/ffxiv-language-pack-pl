@@ -2,18 +2,18 @@
   "conversation": "quest/000/GaiUse417_00087",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_00", "hash": "71F6D4E575DF5EC5", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_01", "hash": "22C2B25423F776DB", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_02", "hash": "7F979B04DA71C106", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_TODO_00", "hash": "E7A075592E948141", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_000", "hash": "A942C023D8029765", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_001", "hash": "B778760AEED9E855", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_002", "hash": "CF52BA985F4635EE", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_003", "hash": "1EFBA43C165FD547", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_004", "hash": "33E803E7CACFAD47", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_005", "hash": "59C8A8CFE40B5089", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_006", "hash": "DDBD4155E05BE924", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_010", "hash": "7D8246B1B587D311", "target": "" },
-    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_011", "hash": "ACBAD37B76635E53", "target": "" }
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_00", "hash": "71F6D4E575DF5EC5", "target": "Jak na kogoś, kto ma powody do świętowania, Alphinaud wygląda dość ponuro." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_01", "hash": "22C2B25423F776DB", "target": "Alphinaud dobrze rozumie, co oznaczają czyny Lodowego Serca, i pilno mu omówić to z waszymi towarzyszami we Wschodzących Kamieniach. Wróć z nim do Mor Dhona i zamelduj się u Minfilii." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_SEQ_02", "hash": "7F979B04DA71C106", "target": "Czy Shiva była bożkiem, czy czymś dotąd niewidzianym? Czy Lodowe Serce naprawdę stało się nią, a jeśli tak, czy zachowało kontrolę? Czy Ascianie maczali palce w jej planach? Twoja opowieść rodzi więcej niż kilka pytań, na które Dziedzice nie umieją odpowiedzieć. Minfilię najbardziej niepokoją ostatnie słowa Lodowego Serca skierowane do ciebie, z których wnioskuje, że przywódczyni heretyków została obdarzona mocą Echa. Co pchnęło młodą dziewczynę do tak drastycznego kroku, pozostaje niejasne, ale jeśli wierzyć jej słowom, odpowiedź może kryć się u Midgardsormra─wielkiego wyrma, który zginął w bitwie w przestworzach Silvertear i który, jak obawiają się ishgardzcy astrologowie, może wkrótce powstać z martwych..." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_TODO_00", "hash": "E7A075592E948141", "target": "Porozmawiać z Minfilią we Wschodzących Kamieniach" },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_000", "hash": "A942C023D8029765", "target": "Zdaje się, że mamy sporo do omówienia z naszymi przyjaciółmi we Wschodzących Kamieniach." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_001", "hash": "B778760AEED9E855", "target": "Jeśli to, co mówisz, jest prawdą, sposób, w jaki Lodowe Serce przyzwało Shivę, przeczy wszelkim precedensom. Wymaga to całkowitego przewartościowania zagrożenia ze strony bożków i naszego podejścia do walki z nimi." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_002", "hash": "CF52BA985F4635EE", "target": "Co więcej, jeśli wieść o tym zdarzeniu dotrze do imperialnych uszu, następstwa będą poważne." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_003", "hash": "1EFBA43C165FD547", "target": "Imperium Garleańskie uważa bożki za nieznośne zagrożenie─twierdzi, że samo ich istnienie zagraża tej gwieździe. Uznaje więc każde działanie przeciw plemionom zwierzoludzi za z góry usprawiedliwione." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_004", "hash": "33E803E7CACFAD47", "target": "Wyobraź sobie zatem... gdyby wyszło na jaw, że bożki mogą przyzywać nie tylko plemiona zwierzoludzi Eorzei, ale i jej cywilizowane ludy, wszelkie resztki sprzeciwu wobec eorzejskiej kampanii zniknęłyby z dnia na dzień." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_005", "hash": "59C8A8CFE40B5089", "target": "Tam, gdzie dotąd musieliśmy zmagać się z <italic(1)>jednym<italic(0)> legionem imperialnym, moglibyśmy stanąć wobec połączonej potęgi <italic(1)>całego Garlemaldu<italic(0)>..." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_006", "hash": "DDBD4155E05BE924", "target": "Ale mówię nieopatrznie. Chodź, <split(<string(gstr1)>, ,1)>─lepiej dokończmy tę rozmowę w Mor Dhona." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_010", "hash": "7D8246B1B587D311", "target": "Jeśli coś można powiedzieć na korzyść ser Aymerica, to to, że rozumie, jak niebezpieczna bywa wiedza w niepowołanych rękach." },
+    { "gameKey": "quest/000/GaiUse417_00087#TEXT_GAIUSE417_00087_ALPHINAUD_000_011", "hash": "ACBAD37B76635E53", "target": "Mamy tyle szczęścia, że zdarzenie miało miejsce w tak odludnym miejscu. Prawdy nie powinno być trudno zataić─przynajmniej na razie." }
   ]
 }

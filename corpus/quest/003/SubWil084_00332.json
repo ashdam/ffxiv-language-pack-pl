@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil084_00332",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "" }
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "Leofric prosi o dostarczenie przesyłki do Horizon." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "Leofric chce przekazać Fufulupie antyczny sztylet, ale rany nie pozwalają mu podróżować. Udaj się do Horizon i wręcz sztylet Fufulupie w jego imieniu." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "Fufulupa jest wstrząśnięty widokiem sztyletu w twoich rękach i wyjaśnia, że nosić go mogą wyłącznie kapitanowie Mosiężnych Ostrzy Róży. Mimo to bierze go na przechowanie, dopóki Leofric po niego nie wróci." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "Wręczyć antyczny sztylet Fufulupie w Horizon" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "Jak pewnie widzisz, w tym stanie nie ruszę się z Lost Hope. Więc zamiast mnie wróć do Horizon i oddaj ten sztylet Fufulupie." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "To tylko stary, ozdobny sztylet, ale jego miejsce jest u Mosiężnych Ostrzy Róży." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "Tak, powinienem był dać go chłopakowi, zanim tu przyszedłem..." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "Ach, <split(<string(gstr1)>, ,1)>! Onegdaj przyszła wiadomość od kapitana Leofrica. Dziękuję za dostarczenie listu, melduję!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "S-Skąd u <if(gnum4,pani,pana)> ten sztylet!? Nosić go może wyłącznie kapitan Mosiężnych Ostrzy Róży!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "Kapitan Leofric mówi, że mam go otrzymać? To musi być jakaś pomyłka!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "Nie mógłby przecież chcieć mi powiedzieć, że─ Nie, nie, ależ skąd. Nie jestem godzien nim władać." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "Mimo wszystko uszanuję wolę kapitana i wezmę sztylet na przechowanie, dopóki on sam po niego nie wróci." }
   ]
 }

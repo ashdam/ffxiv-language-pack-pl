@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea051_00463",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_00", "hash": "B923F4E4C9C7936D", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_01", "hash": "BA6BEF58B4A8AC36", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_02", "hash": "08E51D22CAFC0C53", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_TODO_00", "hash": "DED3DB0CE5344CAE", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_1", "hash": "D68C263FD32EC380", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_2", "hash": "91F29843E19F9425", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_3", "hash": "E1D4F0B00A2199B0", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_4", "hash": "18934F0E23CF9F85", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_11", "hash": "1E44585AE2EF4006", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_12", "hash": "82C80C90A7B5B7E5", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_13", "hash": "29CE91F7C2E40EE3", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_14", "hash": "11D7082917A6D730", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_15", "hash": "DFB98E1B18EB7D7C", "target": "" },
-    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_16", "hash": "F20B10EC6E3D8C00", "target": "" }
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_00", "hash": "B923F4E4C9C7936D", "target": "Staelwyrn, właściciel Farm Summerford, chce obejrzeć twój ekwipunek i ocenić, czy nadajesz się do zadań, jakie ma na myśli." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_01", "hash": "BA6BEF58B4A8AC36", "target": "Zanim Staelwyrn powierzy ci jakiekolwiek zadanie, musisz skompletować przyzwoity zestaw wyposażenia. Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem zgłoś się do Staelwyrna na przegląd." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_02", "hash": "08E51D22CAFC0C53", "target": "Staelwyrnowi spodobał się twój wygląd i ma dla ciebie robotę, gdy tylko nadejdzie pora." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_TODO_00", "hash": "DED3DB0CE5344CAE", "target": "Pokazać się Staelwyrnowi na przegląd" },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_1", "hash": "D68C263FD32EC380", "target": "Mam ochotę dać ci zadanie, <split(<string(gstr1)>, ,2)>, ale nim to zrobię, muszę mieć pewność, że masz porządny sprzęt." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_2", "hash": "91F29843E19F9425", "target": "Piraci nie mają ochoty gadać z galantami, rozumiesz. Może i tutejsi wymienili kordelasy na lemiesze, ale w środku dalej są zbójami." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_3", "hash": "E1D4F0B00A2199B0", "target": "Solidny sprzęt poznam na pierwszy rzut oka. Wróć, gdy uznasz, że masz coś stosowniejszego." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_4", "hash": "18934F0E23CF9F85", "target": "Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem porozmawiaj ze Staelwyrnem." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_11", "hash": "1E44585AE2EF4006", "target": "No to popatrzmy na ciebie, co?" },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_12", "hash": "82C80C90A7B5B7E5", "target": "Oho! Przy <italic(1)>takim<italic(0)> opancerzeniu nie będę miał wyrzutów, rzucając cię rekinom na pożarcie." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_13", "hash": "29CE91F7C2E40EE3", "target": "Byli korsarze to narowista zgraja. Szaleją z miłości do morza i mało ich obchodzą prawa lądu." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_14", "hash": "11D7082917A6D730", "target": "Ale szanują siłę, a sądząc z wyglądu, powiedziałbym, że bez trudu zwrócisz ich uwagę." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_15", "hash": "DFB98E1B18EB7D7C", "target": "Nie, nie, <if(gnum4,dziewczyno,chłopie)>, w takim odzieniu roboty ci nie dam. Nie chodzi tylko o to, żeby dać sobie radę w walce. Masz się ubrać tak, żeby <italic(1)>przerażać<italic(0)> wrogów i żeby żałowali, że w ogóle cię zaczepili." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_16", "hash": "F20B10EC6E3D8C00", "target": "Załóż na głowę, tors, dłonie, nogi i stopy części o poziomie przedmiotu 5 lub wyższym, a potem porozmawiaj ze Staelwyrnem." }
   ]
 }
