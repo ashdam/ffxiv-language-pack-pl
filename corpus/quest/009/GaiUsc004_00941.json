@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc004_00941",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc004_00941#TEXT_GAIUSC004_00941_SEQ_00", "hash": "94A8B1AAFA04D2F1", "target": "Lord Drillemont potrzebuje twojej pomocy, by postawić przed sądem heretyka podszywającego się pod inkwizytora Guillaime." },
     { "gameKey": "quest/009/GaiUsc004_00941#TEXT_GAIUSC004_00941_SEQ_01", "hash": "A9A311AD5D049086", "target": "Lord Drillemont poprosił cię o towarzystwo w drodze do Snowcloak, gdzie heretyk podszywający się pod inkwizytora Guillaime ma podobno prowadzić kolejne przesłuchanie. Jeśli samozwaniec nie podda się dobrowolnie, lord Drillemont zamierza użyć siły. Przygotuj się na najgorsze i spotkaj się z rycerzami pod Snowcloak." },

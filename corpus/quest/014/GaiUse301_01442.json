@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/GaiUse301_01442",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/014/GaiUse301_01442#TEXT_GAIUSE301_01442_SEQ_00", "hash": "999B3CA5E87706E6", "target": "Myśli Minfilii wciąż wracają do losu Uczniów Baldesiona." },
     { "gameKey": "quest/014/GaiUse301_01442#TEXT_GAIUSE301_01442_SEQ_01", "hash": "7470698C6D4B31C7", "target": "Choć los Uczniów Baldesiona głęboko ją niepokoi, Minfilia przyznaje, że jałowe domysły nic nie dadzą, i postanawia zająć się sprawami bliższymi domowi. Ledwie jednak zaczyna ci opowiadać o ostatnich wydarzeniach w Lesie Dwunastu, do Sali Świtu wchodzi F'lhaminn z wieścią, że do Myta Upiora przybyli uchodźcy z Ul'dah i szukają schronienia, tak jak przed nimi Domańczycy. Z rozmowy jasno wynika, że Dziedzicom brakuje środków, by przyjąć kolejnych ludzi, choćby potrzeba była najpilniejsza. Mimo to Minfilia oświadcza, że wysłucha prośby uchodźców, i prosi, byś <if(gnum4,poszła,poszedł)> z nią do Siódmego Nieba." },

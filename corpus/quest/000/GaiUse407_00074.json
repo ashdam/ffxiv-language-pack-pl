@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse407_00074",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse407_00074#TEXT_GAIUSE407_00074_SEQ_00", "hash": "40E053D53B4877FC", "target": "Siły sprzymierzonych w Snowcloak są w niebezpieczeństwie, a lord Drillemont chciałby twojej pomocy w zapewnieniu im bezpieczeństwa." },
     { "gameKey": "quest/000/GaiUse407_00074#TEXT_GAIUSE407_00074_SEQ_01", "hash": "6EB53BEB4A0D3A43", "target": "Według lorda Drillemonta od dawna podejrzewano, że heretycy poruszają się po wyżynach Coerthas niezauważeni dzięki sekretnym tunelom. W świetle tego, co <if(gnum4,podsłuchałaś,podsłuchałeś)>, jest przekonany, że heretycy obozujący na Głazowych Wzgórzach zamierzają teraz użyć takich tuneli, by urządzić zasadzkę na siły sprzymierzonych w Snowcloak. Rozkazał oddziałowi rycerzy rodu Durendaire rozpocząć poszukiwania napastników, ale wierzy, że twoja obecność znacznie wesprze ich wysiłki. Udaj się na Głazowe Wzgórza i połącz się z rycerzami rodu Durendaire." },
