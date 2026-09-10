@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ManSea203_00245",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_00", "hash": "35A8946FB8CCBFED", "target": "Baderon, właściciel Drowning Wench, potrzebuje zdolnego poszukiwacza przygód." },
     { "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_01", "hash": "7F35127FC450B86E", "target": "Baderon i komandor Reyner poprosili o pomoc w dochodzeniu. U wybrzeży Aleport widziano obcy statek, a późniejsze pojawienie się grupy groźnie wyglądających mężczyzn przy grocie Sastasha mocno zaniepokoiło Żółte Kurtki. Porozmawiaj z V'mellpą przy przystani promowej na Lower Decks i dowiedz się, jak dotrzeć do jaskiń." },

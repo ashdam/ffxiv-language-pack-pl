@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb509_00878",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb509_00878#TEXT_GAIUSB509_00878_SEQ_00", "hash": "0673DFC633E6F4B3", "target": "Siostra Eluned chce porozmawiać o jednej z Dziedziczek, które zginęły w Przebudzonych Piaskach." },
     { "gameKey": "quest/008/GaiUsb509_00878#TEXT_GAIUSB509_00878_SEQ_01", "hash": "8CBCE175C862C7B8", "target": "Kościół Świętego Adamy Landamy może odprawić obrzędy za większość poległych Dziedziców. Wyjątkiem jest jednak Noraxia, sylf z Małej Pociechy. Siostra Eluned uważa, że najlepiej byłoby odesłać ciało sylfy do jej domu w Czarnym Całunie, i prosi cię o podjęcie się tego obowiązku." },

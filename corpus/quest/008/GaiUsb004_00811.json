@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb004_00811",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_SEQ_00", "hash": "A57CFE00813EC614", "target": "Trachtoum wciąż nie wierzy w twoją gotowość do pokonania straszliwego bożka Tidusa." },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_SEQ_01", "hash": "413E071709B569E6", "target": "Rozmowę z Trachtoumem przerywa rozwścieczony młynarz, który oskarża zmieszanego grabieżcę o bumelanctwo. Gdy przyglądasz się temu w osłupieniu, Trachtoum twierdzi, że sam ubił goobbue, którego przecież niedawno <if(gnum4,ubiłaś,ubiłeś)>. Nieprzekonany młynarz postanawia, że prawda wyjdzie na jaw „po lominsańsku”. Porozmawiaj z młynarzem na zewnątrz i przekonaj się, co to znaczy." },
