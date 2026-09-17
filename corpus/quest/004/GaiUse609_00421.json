@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/GaiUse609_00421",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/004/GaiUse609_00421#TEXT_GAIUSE609_00421_SEQ_00", "hash": "5A637424CB972A90", "target": "Minfilia nie może znaleźć słów." },
     { "gameKey": "quest/004/GaiUse609_00421#TEXT_GAIUSE609_00421_SEQ_01", "hash": "7EC47A97F301B90F", "target": "Przypominając sobie rozmowę z Uriangerem, Minfilia domyśla się, że Tataru mogła zająć się nauką arkanimy. Choć dziewczyna zapowiedziała, że wróci i jako recepcjonistka, i jako ochroniarka, Antecedentka nie potrafi przestać się martwić. Aby uspokoić Minfilię, udaj się do Gildii Arkanistów w Limsie Lominsie i odszukaj Tataru." },

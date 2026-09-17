@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUse116_01190",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SEQ_00", "hash": "D4FF3B6B02097ABE", "target": "Brat E<-->Sumi<-->Yan chce ci wyjawić tajemnice magicznych osłon Dobrego Króla Moggle Moga XII." },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SEQ_01", "hash": "EBF1056CBEC218A4", "target": "Sanktuarium Dobrego Króla Moggle Moga XII chronią magiczne osłony, które można zdjąć jedynie za pomocą kamieni kluczowych. Szczęśliwie kamienie te są w posiadaniu tego samego moogle'a, który ostrzegł Gridanię przed nadejściem króla. Dostanie się do Thornmarch powinno więc być proste─o ile zdołasz przekonać Kuplo Koppa, by odegrał czynniejszą rolę w zdradzie swoich pobratymców." },

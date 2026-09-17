@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManWil004_00570",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManWil004_00570#TEXT_MANWIL004_00570_SEQ_00", "hash": "728FB74861F95535", "target": "Momodi, właścicielka Quicksand, ma dla ciebie trzy zadania, dzięki którym poznasz podstawy życia poszukiwacza przygód." },
     { "gameKey": "quest/005/ManWil004_00570#TEXT_MANWIL004_00570_SEQ_01", "hash": "70BC3250A6BD4AB8", "target": "Momodi powierzyła ci trzy zadania. Jeśli podczas wędrówki po Ul'dah natkniesz się na mieszkańców w potrzebie, czemu nie zaoferować im pomocy?" },

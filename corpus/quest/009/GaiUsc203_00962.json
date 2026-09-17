@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc203_00962",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_00", "hash": "45FE352EF3D7FD52", "target": "Ceana ani myśli płynąć na Wyspy Umbry." },
     { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_01", "hash": "C2673B0C6E3F441C", "target": "Na twoje naleganie Ceana zgadza się popłynąć z tobą na Wyspy Umbry i pomóc ci zdobyć skażony kryształ. Porozmawiaj z przewoźnikiem, by rozpocząć podróż." },

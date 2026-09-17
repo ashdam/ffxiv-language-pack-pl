@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/ManFst209_00343",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_00", "hash": "9F0610F7075C2F9A", "target": "Minfilia prosi cię o wsparcie Nieśmiertelnych Płomieni." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_01", "hash": "03149F07FAD437E8", "target": "Chcąc poznać los porwanych, Nieśmiertelne Płomienie obmyśliły plan schwytania Amalj'aa: przynętą ma być fałszywy kapłan Ungust. Minfilia poleca ci wziąć udział w operacji jako <if(gnum4,przedstawicielka,przedstawiciel)> Dziedziców. Udaj się do Obozu Drybone i dołącz do Płomieni." },

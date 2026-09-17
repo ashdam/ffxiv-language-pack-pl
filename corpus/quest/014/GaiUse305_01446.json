@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/GaiUse305_01446",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_00", "hash": "23FA0E7BDBA0D7FB", "target": "Swift ma dla ciebie wiadomość od generała Raubahna." },
     { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_01", "hash": "C81B7FB20AB9A3E0", "target": "Generał Raubahn wzywa cię na poufne spotkanie w Komnacie Kadzideł, gdzie chce omówić wyniki twojego śledztwa oraz swojego własnego. Alphinaud został już powiadomiony i zaczeka na ciebie na zewnątrz. Udaj się na Promenadę Królewską i porozmawiaj z Bartholomew." },

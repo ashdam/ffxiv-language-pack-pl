@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubFst059_00380",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_00", "hash": "3D4BD6784AB640D7", "target": "Roseline prosi cię o ostrzeżenie innych wartowników przed poczynaniami obcego." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_01", "hash": "A42134901603073D", "target": "Roseline powierza ci list, w którym spisała wszystko, czego dowiedziała się o podejrzanym obcym. Prosi o przekazanie tych wieści innym wartownikom i zachęcenie ich do czujności wobec podobnych postaci. Pokaż list Elmarowi, wartownikowi w Bannock." },

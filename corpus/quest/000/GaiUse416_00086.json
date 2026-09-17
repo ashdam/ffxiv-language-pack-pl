@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse416_00086",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse416_00086#TEXT_GAIUSE416_00086_SEQ_00", "hash": "9F69B9635A3B3F4C", "target": "Moenbryda wciąż nie wierzy, że obyło się bez urazu głowy." },
     { "gameKey": "quest/000/GaiUse416_00086#TEXT_GAIUSE416_00086_SEQ_01", "hash": "32CDE76CC154FB80", "target": "Nie widząc sensu w rozważaniu twojej opowieści na mrozie Coerthas, Moenbryda oznajmia, że wraz z resztą wróci do Wschodzących Kamieni. Zanim do nich dołączysz, wyrusz do Placówki Whitebrim i donieś Alphinaudowi, że wciąż żyjesz, a przy okazji o paru innych sprawach." },

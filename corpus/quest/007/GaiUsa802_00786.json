@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa802_00786",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_00", "hash": "A35213D961604CFA", "target": "Ivaurault ma coś do przekazania w sprawie twojego śledztwa." },
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_01", "hash": "A56D99F4F0651514", "target": "Ivaurault wyznaje, że on również widział skrzydlate oko. Zdarzyło się to na skalistym terenie na zachodzie. Udaj się tam i zbadaj sprawę." },

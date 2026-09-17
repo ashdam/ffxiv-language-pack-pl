@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc202_00961",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc202_00961#TEXT_GAIUSC202_00961_SEQ_00", "hash": "C6FB5DC9DFA23C54", "target": "Ceana chyba odzyskała rezon." },
     { "gameKey": "quest/009/GaiUsc202_00961#TEXT_GAIUSC202_00961_SEQ_01", "hash": "B674BC279110C97C", "target": "Podczas gdy ty wypytujesz Żółte Kurtki, Ceana sączy piwo w miejscowej karczmie i słyszy tam o człowieku imieniem Skyfryn, który niedawno wrócił z Wysp Umbry i został z niewiadomych powodów zatrzymany. Ceana prosi o rozmowę ze Skyfrynem i o wybadanie, jak zdobył pozwolenie na podróż na wyspy." },

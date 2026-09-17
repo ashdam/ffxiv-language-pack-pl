@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc108_00959",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_00", "hash": "704DAC9AED2430B5", "target": "Profesor Lamberteint wie, gdzie możesz znaleźć poszukiwany kryształ." },
     { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_01", "hash": "5020CE3E2DF4A2AF", "target": "Nie zdradzając ani cienia skruchy za poprzednie przeoczenie, profesor Lamberteint wskazuje ci inne miejsce, gdzie można znaleźć skażone kryształy. Inna jego uczennica, Ceana, twierdzi, że odkryła obiecujące stanowisko w zachodniej części La Noscea, na Wyspach Umbry. Udaj się do Aleport i odszukaj uczoną." },

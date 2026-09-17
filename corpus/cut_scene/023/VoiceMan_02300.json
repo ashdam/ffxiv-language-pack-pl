@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/023/VoiceMan_02300",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_000010_ALPHINAUD", "hash": "0863EF936C156A15", "target": "Daj spokój, wiadomo już chyba, że Tataru lubi wyolbrzymiać. Jak widzisz, nic mi nie jest." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_000020_ALPHINAUD", "hash": "9725CDB8BE7C434E", "target": "Za to z Ul'dah jest źle. Te zamieszki nie były wcale odosobnionym wypadkiem." },
@@ -196,7 +196,6 @@
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00150_RAUBAHN", "hash": "8302B85ABEB643B1", "target": "Zbadałem wszystkie dostępne nam drogi, Wasza Wysokość, ale w obecnym stanie uldahskiego prawa brak nam dowodów, by skazać go za jakiekolwiek przestępstwo. Aresztowanie pod byle pozorem tylko zagrałoby mu na rękę..." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00160_NANAMOULNAMO", "hash": "AD4B78D96DCE7BFB", "target": "Popełnił niemal zdradę stanu, a my nic nie możemy!?" },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00170_NANAMOULNAMO", "hash": "36551CD52C9B3E43", "target": "Cóż wart nasz rząd!? Cóż warty ród królewski!? Jakże żałosna ta kpina ze sprawiedliwości!" },
-    { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00180_NANAMOULNAMO", "hash": "3E4E415A202673EE", "target": "(płacze)" },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00190_RAUBAHN", "hash": "12381C19BFA5998B", "target": "Miej wiarę, Wasza Wysokość. To jeszcze nie koniec..." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_D00010_ALPHINAUD", "hash": "F071D890E4BCA8C1", "target": "Towarzysze! Wasza dzisiejsza obecność świadczy o brzemiennym wyborze, którego każde z was dokonało." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_D00020_ALPHINAUD", "hash": "C4CBFE18D9EC7C1A", "target": "Skoro wasza siła jest teraz przyrzeczona Dziedzicom Siódmego Świtu, nie jesteście nic winni żadnemu pojedynczemu państwu. Stoicie tu jako straż przednia zjednoczonej Eorzei!" },

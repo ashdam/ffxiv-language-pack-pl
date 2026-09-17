@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubFst049_00376",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_00", "hash": "A5CF259DFBA63120", "target": "Keitha, starsza stajenna z Łąk Bentbranch, wydaje się wielce zmartwiona. Sprawdź, czy da się jej jakoś pomóc." },
     { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_01", "hash": "A1E76CCA482A9588", "target": "Zdaje się, że podczas napadu na Łąki Bentbranch Qiqirn stłukł jajo chocobo. Odszukaj wartowniczkę imieniem Roseline w Lecie Matrony i dowiedz się, co można zrobić, by takie zajścia się nie powtarzały." },

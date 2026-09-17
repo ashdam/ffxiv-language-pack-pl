@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubSea100_00397",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_00", "hash": "535B9834381D0F28", "target": "Baderon, właściciel Drowning Wench, ma pomysł, który pchnie cię ku nowym przygodom." },
     { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_01", "hash": "FCBA9DC87150311C", "target": "Przez Skylift przechodzi cały ładunek pokonujący Descent, więc tamtejsi robotnicy nie mają czasu na żadne inne zadania. Udaj się na miejsce i porozmawiaj z Wyrkrhitem, który tym zarządza." },

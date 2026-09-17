@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst027_00176",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst027_00176#TEXT_SUBFST027_00176_SEQ_00", "hash": "DF52748580928C96", "target": "Pod wrażeniem twoich postępów Miounne chce wysłać cię dalej, na Łąki Bentbranch, gdzie znajdziesz kolejne okazje do nauki." },
     { "gameKey": "quest/001/SubFst027_00176#TEXT_SUBFST027_00176_SEQ_01", "hash": "A90C2B91AAC8FF2F", "target": "Pracownicy Łąk Bentbranch, mający czasu ledwie na opiekę nad swoimi chocobo, szukają kogoś do pomocy w rozmaitych pracach na ranczu. Udaj się do Bentbranch i porozmawiaj z Keithą, główną opiekunką chocobo." },

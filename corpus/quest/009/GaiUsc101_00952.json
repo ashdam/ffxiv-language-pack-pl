@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc101_00952",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc101_00952#TEXT_GAIUSC101_00952_SEQ_00", "hash": "91D5834D1D5E03BB", "target": "Alphinaud nie może się doczekać wejścia do Stone Vigil." },
     { "gameKey": "quest/009/GaiUsc101_00952#TEXT_GAIUSC101_00952_SEQ_01", "hash": "995DD39ACD084CC3", "target": "Teraz, gdy sprawa fałszywego inkwizytora została rozwiązana, nic już nie stoi na przeszkodzie wejściu do Stone Vigil. Alphinaud każe ci prosić o audiencję u lorda Drillemonta i zaręcza, że on i Cid dołączą wkrótce." },

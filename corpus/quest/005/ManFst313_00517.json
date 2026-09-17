@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManFst313_00517",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_SEQ_00", "hash": "07E4D9ACB0598D6A", "target": "Y'shtola chce omówić twoje kolejne zadanie." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_SEQ_01", "hash": "71B6752391CB3ABC", "target": "Choć wieść o twoim zwycięstwie nad Władcą Skał niemal na pewno dotarła już do Limsy Lominsy, Y'shtola prosi o twój powrót do Dowództwa Maelstromu i formalne zameldowanie wysokiemu komandorowi Rhiki, że Titan nie stanowi już zagrożenia." },
@@ -23,7 +23,6 @@
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_MINFILIA_000_018", "hash": "C8A3D423045BD187", "target": "Czeka cię powitanie godne bohatera!<br>Będziemy czekać na twój powrót w Przebudzonych Piaskach. Wiele mamy do omówienia. Niech bogowie cię prowadzą." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCA_000_020", "hash": "92E380F2BAFFA609", "target": "<if(gnum4,Słyszałaś,Słyszałeś)> ten rejwach przed chwilą? Co oni tam, u siedmiu piekieł, wyprawiali? Mocowali się z peiste!? Wyglądasz mi na kogoś żądnego przygód. Zajrzysz tam na chwilę?" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCB_000_021", "hash": "03D23F6C096B6BDD", "target": "...Czy to były <italic(1)>krzyki<italic(0)>? Chyba wolę nie wiedzieć..." },
-    { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_030", "hash": "54CCC43429215735", "target": "Zbadać, co się stało (dotknąć ciała sylfy)" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_100", "hash": "DD95757F61683A05", "target": "Ten tutaj się cieszy... chodzący jest bezpieczny..." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100010_MINFILIA", "hash": "BAF87117850A012B", "target": "Będziemy czekać na twój powrót w Przebudzonych Piaskach. Wiele mamy do omówienia. Niech bogowie cię prowadzą." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100020_MINFILIA", "hash": "CE404FDF4367AB80", "target": "Dzięki niebiosom, <if(gnum4,jest bezpieczna,jest bezpieczny)>." },

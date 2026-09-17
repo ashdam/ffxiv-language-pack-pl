@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsb904_00927",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsb904_00927#TEXT_GAIUSB904_00927_SEQ_00", "hash": "29C5C94896DA8A0B", "target": "Haustefort przygląda ci się z zainteresowaniem." },
     { "gameKey": "quest/009/GaiUsb904_00927#TEXT_GAIUSB904_00927_SEQ_01", "hash": "72F2769D7BFB7025", "target": "Haustefort słyszał, że chcesz zaskarbić sobie zaufanie lorda Drillemonta, i proponuje, byś <if(gnum4,zdobyła,zdobył)> je, pomagając mu podać rycerzom Placówki Whitebrim przyzwoity posiłek. W tym celu kucharz prosi o mięso z ogona mudpuppy, by przyrządzić steki. Daje ci butelkę octu jabłkowego i tłumaczy, że miejscowi wierzą, iż osłabia on te bestie─choć sam Haustefort ma wątpliwości. Tak czy inaczej, udaj się na Przełęcz Daniffena i spróbuj zabić mudpuppy przy pomocy octu." },

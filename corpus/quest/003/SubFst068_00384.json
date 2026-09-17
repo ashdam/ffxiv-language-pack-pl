@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubFst068_00384",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_00", "hash": "ECB415BDBE01C3D0", "target": "Lothaire, strażnik z Wieży Galvantha, prosi cię o wizytę przy Drzewie Granicznym." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_01", "hash": "D886F615276F3D16", "target": "Lothaire prosi o przypomnienie Słuchaczce Leonnie, że ma zarezerwowany przejazd łodzią z Lustrzanego Pomostu. Udaj się do Drzewa Granicznego na południowym zachodzie i porozmawiaj z zaklinaczką." },

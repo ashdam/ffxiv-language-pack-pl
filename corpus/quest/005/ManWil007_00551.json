@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManWil007_00551",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_00", "hash": "646A58E144A3C39B", "target": "Momodi chce prosić o pomoc zaufanego przyjaciela Ul'dah." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_01", "hash": "D88246A5870B342E", "target": "Zaprzysiągłszy cię do milczenia, Momodi wyjawia, że skradziono królewską koronę. Jej zdaniem ujawnienie kradzieży splamiłoby reputację sułtanki. Podejrzewa, że pismo, które Fufulupa znalazł wśród rzeczy Baldewyna, napisali sprawcy tej zbrodni. Momodi prosi o zaniesienie listu jego adresatowi, Owyne'owi z Przysięgłych Sułtanki, i o zaoferowanie mu pomocy." },

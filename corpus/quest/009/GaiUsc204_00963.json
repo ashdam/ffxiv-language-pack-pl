@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc204_00963",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc204_00963#TEXT_GAIUSC204_00963_SEQ_00", "hash": "BF3D7D928B93FDA9", "target": "Davyd ma dla ciebie prostą propozycję." },
     { "gameKey": "quest/009/GaiUsc204_00963#TEXT_GAIUSC204_00963_SEQ_01", "hash": "DF802256A6C88957", "target": "W zamian za skażony kryształ, którego szukasz, Davyd oczekuje pomocy w rozwiązaniu problemu nieumarłych. W tym celu masz najpierw odkryć przyczynę nagłego napływu chwiejących się trupów. Rozpocznij dochodzenie od rozmowy z grupą poszukiwaczy przygód obozującą na wschodnim brzegu." },

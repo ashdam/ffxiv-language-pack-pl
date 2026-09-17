@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/GaiUse604_00373",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_00", "hash": "CE3C648234D58A1A", "target": "Alphinaud jest gotów rozpocząć przygotowania do wojny." },
     { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_01", "hash": "A7EA2A571245C0DD", "target": "Choć Alphinaud postanowił wesprzeć Ishgard w godzinie próby, uważa za rozsądne złożyć wpierw sprawozdanie Antecedentce. Wróć do Wschodzących Kamieni i porozmawiaj z Minfilią." },
