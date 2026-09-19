@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst038_00175",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_00", "hash": "AB89D4B356E9334D", "target": "Monranguin, strażnik z Wieży Gilberta, potrzebuje kogoś, kto odzyska sprzęt pomiarowy, który wystraszony rekrut zostawił w jaskini." },
     { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_01", "hash": "1D3B9BAEAF387B82", "target": "Odzyskaj z jaskini zapiski pomiarowe, sznur mierniczy i dwie skrzynki narzędzi mierniczych." },

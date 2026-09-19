@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/GaiUse215_01359",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/013/GaiUse215_01359#TEXT_GAIUSE215_01359_SEQ_00", "hash": "16052A211FFB1EEF", "target": "Falkbryda czeka na rozpoczęcie operacji z ledwo skrywaną wściekłością." },
     { "gameKey": "quest/013/GaiUse215_01359#TEXT_GAIUSE215_01359_SEQ_01", "hash": "C22D67258E7928E4", "target": "Merlwyb dokonała ostatniej oceny sytuacji i wydała rozkaz rozpoczęcia operacji. Jak twierdzi uratowany przez ciebie zwiadowca, rytuał przyzwania odbywa się przy eterycie zwierzoludzi w głębi Tarliska Sapsa. Towarzysz Y'shtoli w drodze do legowiska Sahagin i przebij się do eterytu." },

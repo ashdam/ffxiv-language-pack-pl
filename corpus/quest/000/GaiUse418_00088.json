@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse418_00088",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse418_00088#TEXT_GAIUSE418_00088_SEQ_00", "hash": "DD6154FD24A7069A", "target": "Minfilia chce omówić, co robić dalej w świetle ostatnich wydarzeń." },
     { "gameKey": "quest/000/GaiUse418_00088#TEXT_GAIUSE418_00088_SEQ_01", "hash": "74E1B2DF83126577", "target": "Minfilia ledwie zaczyna mówić o zamiarze zbadania dziejów wielkiego wyrma Midgardsormra, gdy tuż za drzwiami Sali Świtu wybucha jakieś zamieszanie. Zrób, o co prosi Antecedentka, i sprawdź, czy nic się nie stało." },

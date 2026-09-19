@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/SubWil027_00595",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_SEQ_00", "hash": "F7FAB27AEB9FAFEE", "target": "Momodi z Quicksand chce cię przedstawić pewnej osobie w Ul'dah Dispatch Yard." },
     { "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_SEQ_01", "hash": "44D781F9F4BFF363", "target": "Zdaniem Momodi Lalafell imieniem Papashan może mieć jakąś pracę dla początkującego poszukiwacza przygód. Wyjdź z miasta przez Bramę Nalda i ruszaj na wschód. Odszukaj Papashana w Ul'dah Dispatch Yard i porozmawiaj z nim." },

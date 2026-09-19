@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManSea200_00546",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_00", "hash": "8DAD740A3170140C", "target": "Merlwyb chce powierzyć ci ważne zadanie." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_01", "hash": "F3D59DB9E6D49C60", "target": "Merlwyb mianowała cię swoim osobistym wysłannikiem i poleciła dostarczyć list dwóm pozostałym przywódcom Sojuszu Eorzejskiego. Aby ułatwić ci podróż, wręczyła ci przepustkę na statki powietrzne, dzięki której możesz latać między trzema sojuszniczymi krajami. Zanim ruszysz na lądowisko, wypytaj Baderona o to, co czeka cię za Cieśniną Merlthor." },

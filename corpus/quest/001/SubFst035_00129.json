@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst035_00129",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SEQ_00", "hash": "8EE28AAF3011C055", "target": "Galfrid, główny instruktor w Bannock, chce ci powierzyć zbadanie Więzienia Duchów." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SEQ_01", "hash": "D3D26454EB2419AB", "target": "Dowiadujesz się, że oddział zaklinaczy wraz z eskortą Leśnych Płaczków został napadnięty przez ogromny cień podczas świętego obrzędu w Więzieniu Duchów. Zdaj relację Alestanowi, który pilnuje wejścia do lochu, i poproś o dalsze rozkazy." },

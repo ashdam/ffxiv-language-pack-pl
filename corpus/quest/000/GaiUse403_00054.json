@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse403_00054",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_SEQ_00", "hash": "0AB0E50196BD221D", "target": "Wpływowy ishgardczyk chce poznać <if(gnum4,Wojowniczkę,Wojownika)> Światła, a Alphinaud niczego nie pragnie bardziej, niż mu dogodzić." },
     { "gameKey": "quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_SEQ_01", "hash": "20890FC5489667CF", "target": "Alphinaud otrzymał audiencję u ser Aymerica, lorda dowódcy ishgardzkich Rycerzy Świątynnych, który wystąpi jako przedstawiciel Świętej Stolicy. Chcąc zaskarbić sobie jego względy, Alphinaud prosi cię o towarzyszenie mu na spotkaniu, bo ser Aymeric wyraził chęć poznania <if(gnum4,słynnej Wojowniczki,słynnego Wojownika)> Światła. Minfilia z pewnością pobłogosławi ten zamiar, gdy się o nim dowie." },

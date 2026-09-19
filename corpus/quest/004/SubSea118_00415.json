@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/SubSea118_00415",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_00", "hash": "E0BEAB947257BEA0", "target": "Haldbroda ma pewną propozycję dla życzliwego poszukiwacza przygód, który przyniósł wiadomość od majstra Ahtbyrma." },
     { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_01", "hash": "C3065A7CC5AC1224", "target": "Zdaniem Haldbrody na Salt Strand mogli wylądować ocaleni z niedawnego wypadku. Jednym z nich może być nawet zaginiony szkutnik Fyrilsmyd." },

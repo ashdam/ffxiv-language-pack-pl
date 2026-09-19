@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/SubSea106_00403",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_00", "hash": "6510E742E667371A", "target": "Fraeloef, Żółta Kurtka pełniący wartę w Swiftperch, chce ustalić, czemu światło Brewer's Beacon słabnie." },
     { "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_01", "hash": "8DAE99F24C3F493C", "target": "Snop światła latarni przygasł niebezpiecznie, więc statki na wodzie mogą wkrótce wpłynąć na niewidoczne przeszkody. Odwiedź Brewer's Beacon i dowiedz się, co się stało z Khanswys, strażniczką latarni." },

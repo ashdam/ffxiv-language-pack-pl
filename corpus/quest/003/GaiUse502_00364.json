@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/GaiUse502_00364",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_00", "hash": "DAB8CC57EFDB6166", "target": "Ilberd chce jak najszybciej wymierzyć sprawiedliwość handlarzowi z czarnego rynku i jego klientom." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_01", "hash": "0CFCA89B3D6A87D3", "target": "Ilberd oznajmia, że Pierwszy Oddział zabezpieczy teren, by klienci nie uciekli, podczas gdy ty i on pochwycicie handlarza z czarnego rynku i jego broń. Podążaj za kapitanem do Płonącego Muru i rozejrzyj się po okolicy." },

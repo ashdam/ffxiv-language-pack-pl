@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/ManFst008_00448",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ManFst008_00448#TEXT_MANFST008_00448_SEQ_00", "hash": "981CAA2D636878CD", "target": "Arcyłucznik Lewin ma informacje o twojej roli w Święcie Zieleni." },
     { "gameKey": "quest/004/ManFst008_00448#TEXT_MANFST008_00448_SEQ_01", "hash": "FA4ABB3A8BC6EF4D", "target": "Zdaje się, że musisz poczynić pewne przygotowania, jeśli masz zagrać rolę <if(gnum4,emisariuszki,emisariusza)>. Lewin proponuje, by w sprawie potrzebnych ustaleń poradzić się Miounne. Choć gest Arcywieszczki napełnia cię pokorą, nie sposób pozbyć się niepokoju wobec tego, co teraz wygląda na ciężką odpowiedzialność. Z drugiej strony zaszczyt i obowiązek zawsze szły w parze..." },

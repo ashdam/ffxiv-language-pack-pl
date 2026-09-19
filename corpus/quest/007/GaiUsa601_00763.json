@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa601_00763",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa601_00763#TEXT_GAIUSA601_00763_SEQ_00", "hash": "C1296364E3353B21", "target": "Minfilia chce cię przedstawić alamhigańskiemu członkowi Dziedziców." },
     { "gameKey": "quest/007/GaiUsa601_00763#TEXT_GAIUSA601_00763_SEQ_01", "hash": "9DC2538FB02A2D14", "target": "Minfilia opowiada ci o Haribehrcie, Dziedzicu pochodzącym z Ala Mhigo. Odszukaj go w magazynie i poproś o pomoc w śledztwie." },

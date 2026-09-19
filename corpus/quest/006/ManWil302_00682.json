@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ManWil302_00682",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_00", "hash": "ECA95BBB6245BE70", "target": "Oficer werbunkowy Nieśmiertelnych Płomieni chętnie przyjmie cię do Wielkiej Kompanii Ul'dah." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_01", "hash": "4178021C01BC42C9", "target": "<if(gnum4,Potwierdziłaś,Potwierdziłeś)> zamiar wstąpienia w szeregi Nieśmiertelnych Płomieni. Odwiedź Salę Płomieni w Ul'dah i porozmawiaj z oficerem kadrowym, by formalnie wcielono cię do Wielkiej Kompanii." },

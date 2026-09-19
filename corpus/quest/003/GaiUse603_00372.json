@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/GaiUse603_00372",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/003/GaiUse603_00372#TEXT_GAIUSE603_00372_SEQ_00", "hash": "DF462F8E6E3B4A24", "target": "Alphinaudowi pilno wracać do Obozu Smoczy Łeb." },
     { "gameKey": "quest/003/GaiUse603_00372#TEXT_GAIUSE603_00372_SEQ_01", "hash": "937DB216428FF8DD", "target": "Chcąc jak najprędzej rozpocząć spotkanie z ser Aymericem, Alphinaud zostawia za sobą Bramy Sądu. Wróć do Obozu Smoczy Łeb i zapytaj lorda Haurchefanta, gdzie ma się odbyć audiencja." },

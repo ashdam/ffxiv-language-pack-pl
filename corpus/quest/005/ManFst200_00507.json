@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManFst200_00507",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManFst200_00507#TEXT_MANFST200_00507_SEQ_00", "hash": "9D13C5D6749E3EB9", "target": "Kan<-->E<-->Senna chce ci powierzyć zadanie wielkiej wagi." },
     { "gameKey": "quest/005/ManFst200_00507#TEXT_MANFST200_00507_SEQ_01", "hash": "6EE6B932A8E6A8BE", "target": "Kan<-->E<-->Senna mianowała cię <if(gnum4,swoją osobistą wysłanniczką,swoim osobistym wysłannikiem)> i poleciła dostarczyć jej pismo dwóm pozostałym przywódcom Sojuszu Eorzejskiego. By ułatwić ci podróż, wręczyła ci przepustkę na statek powietrzny, dzięki której zdołasz przemieszczać się drogą powietrzną między trzema sprzymierzonymi krajami. Zanim ruszysz na lądowisko, wypytaj Miounne o to, co czeka poza granicami Lasu Dwunastu." },

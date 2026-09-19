@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc003_00940",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc003_00940#TEXT_GAIUSC003_00940_SEQ_00", "hash": "0FB58BE773F39069", "target": "Alphinaud jest zdeterminowany, by odkryć prawdziwą tożsamość inkwizytora Guillaime'a." },
     { "gameKey": "quest/009/GaiUsc003_00940#TEXT_GAIUSC003_00940_SEQ_01", "hash": "32BEE0699694B46A", "target": "Choć masz już dowód, że inkwizytor Guillaime jest oszustem, Alphinaud chce ustalić jego prawdziwą tożsamość, zanim porozmawiacie z lordem Drillemontem. Skonfrontuj ser Joellauta z zakrwawioną encykliką i posłuchaj, co ma do powiedzenia." },
