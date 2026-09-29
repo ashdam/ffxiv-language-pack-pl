@@ -2,13 +2,13 @@
   "conversation": "quest/016/HeaVna335_01636",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_00", "hash": "2BFCCF20A199938C", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_01", "hash": "5061DC86978B7A6F", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_02", "hash": "AD78DAF6883013F9", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_TODO_00", "hash": "06A43239636C9954", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_101_010", "hash": "5F2A6D8CEC6502AB", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ICEHEART_000_010", "hash": "0B037CD309D8FF6E", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_000_020", "hash": "65A8E51141B43ACC", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_HAURCHEFANT_100_050", "hash": "E0FC19E1D07B8806", "target": "" }
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_00", "hash": "2BFCCF20A199938C", "target": "Estinien niepokoi się kolejną tajemnicą." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_01", "hash": "5061DC86978B7A6F", "target": "Estinien rozmyśla, gdzie podziało się zaginione oko Nidhogga i dlaczego wielki wyrm nagle rzucił całą armię na mury Ishgardu. Zanim dojdzie do odpowiedzi, ser Aymeric przerywa mu pilnym raportem. W mieście wybuchło powstanie heretyków. Wracacie do Ishgardu i z pomocą Ysayle próbujecie pokojowo zakończyć bezsensowne zniszczenie.<br><br>W ogarniętym walką mieście spotykacie lorda Haurchefanta. Prowadzi was do miejsca, gdzie napięta konfrontacja heretyków z Rycerzami Świątynnymi może wybuchnąć nową przemocą. Pani Ysayle ogłasza swym wyznawcom śmierć Nidhogga i koniec Wojny Smoczej Pieśni. Heretycy składają broń i na jej rozkaz wycofują się z walki. Po powstaniu porozmawiaj z lordem Haurchefantem." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_02", "hash": "AD78DAF6883013F9", "target": "Lord Haurchefant przekonuje zdumionych rycerzy, by nie ścigali heretyków, choć sam wydaje się równie zaskoczony tym obrotem spraw..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_TODO_00", "hash": "06A43239636C9954", "target": "Porozmawiać z Haurchefantem" },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_101_010", "hash": "5F2A6D8CEC6502AB", "target": "Choć nie podniósł nawet szpona, wygląda na to, że Hraesvelgr zemścił się na nas na swój sposób..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ICEHEART_000_010", "hash": "0B037CD309D8FF6E", "target": "I tak zdrada zrodziła niekończącą się zemstę..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_000_020", "hash": "65A8E51141B43ACC", "target": "Zobaczymy, jak długo potrwa ten pokój..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_HAURCHEFANT_100_050", "hash": "E0FC19E1D07B8806", "target": "Było stanowczo zbyt blisko, lecz wygląda na to, że na ulice wraca spokój. W głowie kłębią mi się jednak tysiące pytań! Wracasz do Ishgardu w najdziwniejszym towarzystwie, <if(gnum4,przyjaciółko,przyjacielu)>!" }
   ]
 }
