@@ -1,3 +1,5 @@
+> We currently have no Polish language reviewer on the team. If you are a native Polish speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+
 # Language pack po polsku do FFXIV (nieoficjalny)
 
 Polskie tłumaczenie tekstów Final Fantasy XIV dla wtyczki Dalamud
