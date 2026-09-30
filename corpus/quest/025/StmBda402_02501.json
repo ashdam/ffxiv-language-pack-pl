@@ -2,18 +2,18 @@
   "conversation": "quest/025/StmBda402_02501",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_SEQ_00", "hash": "90DD2998F3844688", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_00", "hash": "B58CFC123A40D19C", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_01", "hash": "26FD30F5CC08DA0E", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_010", "hash": "B9DB6FB06838CC60", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_011", "hash": "9C1B28205C18DAF7", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_012", "hash": "C3E0A8B46751D632", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_013", "hash": "DC62C6B6B2B872DB", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_020", "hash": "C41B3B48EF34B57A", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_021", "hash": "E6939C48E5F5688D", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_022", "hash": "E68D24038F240A68", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_MASGUD_000_023", "hash": "2770EA3C41E27CE9", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_MASGUD_000_024", "hash": "1D98D3DFFC070454", "target": "" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_025", "hash": "C3B30788B4523263", "target": "" }
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_SEQ_00", "hash": "90DD2998F3844688", "target": "Cirina zwykle nie liczy na pomoc nieznajomych, ale dziś chętnie zrobi wyjątek." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_00", "hash": "B58CFC123A40D19C", "target": "Zabić dholes i zdobyć szepczący korzeń" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_01", "hash": "26FD30F5CC08DA0E", "target": "Dostarczyć szepczący korzeń Cirinie" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_010", "hash": "B9DB6FB06838CC60", "target": "Chcesz... chcesz mi pomóc?" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_011", "hash": "9C1B28205C18DAF7", "target": "Nie wiem, co powiedzieć... Dziękuję, <split(<string(gstr1)>, ,1)>, dziękuję!" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_012", "hash": "C3E0A8B46751D632", "target": "Te ociężałe stworzenia, które musimy powalić, błąkają się po równinach na zachód od Reunion. Jeśli zbierzemy po dwa szepczące korzenie, powinno wystarczyć." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_013", "hash": "DC62C6B6B2B872DB", "target": "Wróć tutaj, gdy skończysz. Powodzenia!" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_020", "hash": "C41B3B48EF34B57A", "target": "Witaj z powrotem, <split(<string(gstr1)>, ,1)>. Masz szepczący korzeń?" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_021", "hash": "E6939C48E5F5688D", "target": "Błogosławiona jest osoba okazująca dobroć nieznajomym, bo szczęście zawsze jej sprzyja." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_022", "hash": "E68D24038F240A68", "target": "Czy ta ilość wystarczy?" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_MASGUD_000_023", "hash": "2770EA3C41E27CE9", "target": "Wystarczy. Kinsai jest twoje." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_MASGUD_000_024", "hash": "1D98D3DFFC070454", "target": "Bogowie sprzyjają ci bardziej, niż sądzisz, dziecko. Udgan rzadko potrzebują takich ziół, więc mam ich niewiele. Gdybyś przybyła dzień wcześniej lub później, nie miałbym dla ciebie nic." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_025", "hash": "C3B30788B4523263", "target": "Może bogowie poprowadzili mnie tutaj, jak prowadzili babkę. Jak poprowadzili <if(gnum4,tę kobietę,tego mężczyznę)> z Zachodu..." }
   ]
 }

@@ -2,8 +2,8 @@
   "conversation": "cut_scene/053/VoiceMan_05301",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000040_THANCRED", "hash": "81045714CD24AC13", "target": "" },
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS", "hash": "63A283FBE00F13CC", "target": "" },
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS", "hash": "753BCA50DF83B5CC", "target": "" }
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000040_THANCRED", "hash": "81045714CD24AC13", "target": "Cholera! Trzymajcie się czegoś!" },
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS", "hash": "63A283FBE00F13CC", "target": "Dla mojego ludu─dla naszego świata pokonam cię." },
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS", "hash": "753BCA50DF83B5CC", "target": "Nie... Nie mogę zawieść... <italic(1)>Nie<italic(0)> zawiodę..." }
   ]
 }

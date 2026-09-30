@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKmb108_03309",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_SEQ_00", "hash": "72C675384558BAF8", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_00", "hash": "2D4F9FAC4E0D83F1", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_01", "hash": "C8AAB956BBD52A4E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_02", "hash": "0A6B861077053BE2", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_000", "hash": "F32A4DD7E0A8EB9D", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_001", "hash": "2A380C1038A8BB6D", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_002", "hash": "D13044F615125A99", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_003", "hash": "5C233B038E762D80", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_010", "hash": "D034981AF092D1AF", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_020", "hash": "391BB7C8B2378B2E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_021", "hash": "F393012C14FB788E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_030", "hash": "1BEFFCF54028B139", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_031", "hash": "3D12C2D72ADB82EC", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_032", "hash": "4128786D761A10E5", "target": "" }
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_SEQ_00", "hash": "72C675384558BAF8", "target": "Oul Sigun potrzebuje twojej życzliwości." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_00", "hash": "2D4F9FAC4E0D83F1", "target": "Nabrać wody z Longmirror Lake" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_01", "hash": "C8AAB956BBD52A4E", "target": "Podlać liściarzy" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_02", "hash": "0A6B861077053BE2", "target": "Porozmawiać z Oul Sigun" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_000", "hash": "F32A4DD7E0A8EB9D", "target": "Istoto śmiertelna, istoto śmiertelna, wysłuchaj mojej prośby! Naszym drogim dzieciom chce się pić. Przynieś im wody." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_001", "hash": "2A380C1038A8BB6D", "target": "Pytasz, kim są nasze dzieci? To liściarze, którzy stoją w całej wiosce. Uroczy, prawda?" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_002", "hash": "D13044F615125A99", "target": "Idź do Longmirror Lake po wodę. Kiedy ją przyniesiesz, porządnie podlej nasze dzieci." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_003", "hash": "5C233B038E762D80", "target": "Ale uważaj: w jeziorze mieszkają Fuath. Bawią się dość brutalnie, więc miej się na baczności!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_010", "hash": "D034981AF092D1AF", "target": "Nieznajomym mogą wydawać się podobni, ale dla nas każde z dzieci jest wyjątkowe!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_020", "hash": "391BB7C8B2378B2E", "target": "Och, och, istota śmiertelna!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_021", "hash": "F393012C14FB788E", "target": "Chcesz wody? Damy ci jej aż po płuca!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_030", "hash": "1BEFFCF54028B139", "target": "Nasze dzieci są już podlane? Dziękuję ci z całego serca!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_031", "hash": "3D12C2D72ADB82EC", "target": "Wszystkie są nam bardzo drogie. Przybłąkały się do Il Mheg jako zagubieni śmiertelnicy, a my się do nich przywiązaliśmy i przyjęliśmy je pod opiekę." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_032", "hash": "4128786D761A10E5", "target": "Ty i twoi towarzysze też mieliście zostać naszymi dziećmi, ale czar nie zadziałał tak dobrze, jak liczyliśmy. Oczywiście nigdy nie jest za późno..." }
   ]
 }

@@ -64,6 +64,6 @@
     { "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_TATARU_000_092", "hash": "F53C509B4C9594F6", "target": "M-miło mi cię poznać... Noraxio." },
     { "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_MINFILIA_000_100", "hash": "800D3C0EEBD17705", "target": "Owszem, Tataru równie chętnie okazuje przestrach, co... wszystko inne! Niestety nie wszyscy jesteśmy ukuci z tej samej stali co ty." },
     { "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_MINFILIA_000_101", "hash": "52E849C04C11EE40", "target": "Ale rodzinę tworzą najrozmaitsi ludzie i bezgranicznie cieszy mnie, że nasza wciąż rośnie. Jeden po drugim mieszkańcy Eorzei zaczynają się jednoczyć, <split(<string(gstr1)>, ,1)>, przyciągani nadzieją, która lśni w tobie." },
-    { "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_MINFILIA_000_102", "hash": "233F71C464E990EB", "target": "Lecz to światło grozi pochłonięciem przez ciemność. Nigdy nie wątpiłam w obecność Ascian, ale to, że zuchwali są już na tyle, by prowadzić swoje dzieło na widoku, napełnia mnie głębokim złym przeczuciem." }
+    { "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_MINFILIA_000_102", "hash": "233F71C464E990EB", "target": "Lecz temu światłu grozi pochłonięcie przez ciemność. Nigdy nie wątpiłam w obecność Ascian, ale to, że zuchwali są już na tyle, by prowadzić swoje dzieło na widoku, napełnia mnie głębokim złym przeczuciem." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKmb107_03308",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SEQ_00", "hash": "48DAA1417B715F57", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_00", "hash": "878FE6C7BA05DCDE", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_01", "hash": "866EA6123042439E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_000", "hash": "BB3753C6866D3E4E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_001", "hash": "9A864102E696B426", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_002", "hash": "DD1FA80EE7D2F3D9", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_010", "hash": "A2CA210C7714C76E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SYSTEM_000_020", "hash": "7ACBFA6A6FB5A109", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_030", "hash": "675440BBD19E73E2", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_031", "hash": "16AE9905FF167372", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_032", "hash": "DB480A1C1A513AEE", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_033", "hash": "903DBE8E1D6188DC", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_034", "hash": "FEF8EEF2A6254643", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_035", "hash": "C744B7A0A689D6B6", "target": "" }
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SEQ_00", "hash": "48DAA1417B715F57", "target": "Ys Iala łaknie twojej pomocy." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_00", "hash": "878FE6C7BA05DCDE", "target": "Zebrać owoce z drzew dzwonowych" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_01", "hash": "866EA6123042439E", "target": "Dostarczyć owoce dzwonowe Ys Iali" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_000", "hash": "BB3753C6866D3E4E", "target": "Uuuch... Tak mi burczy w brzuchu, że zaraz zemdleję..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_001", "hash": "9A864102E696B426", "target": "Owoce─kilka owoców postawi mnie na nogi... Pójdziesz mi trochę przynieść?" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_002", "hash": "DD1FA80EE7D2F3D9", "target": "Tuż za wioską jest pagórek. Rosną tam dwa wielkie drzewa dzwonowe. Potrząśnij nimi, a zrzucą swoje słodkie, soczyste owoce." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_010", "hash": "A2CA210C7714C76E", "target": "Drzewa rosną na pobliskim pagórku. Proszę, pośpiesz się i przynieś mi owoce─zaraz zemdleję..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SYSTEM_000_020", "hash": "7ACBFA6A6FB5A109", "target": "Razem z owocami spada robak!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_030", "hash": "675440BBD19E73E2", "target": "Uuuch... Ale głód... Masz owoce?" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_031", "hash": "16AE9905FF167372", "target": "Och, dziękuję ci z całego serca... Ratujesz mi życie, hi, hi, hi..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_032", "hash": "DB480A1C1A513AEE", "target": "Tak, ratujesz mnie od nudy! Trzeba było zobaczyć twoją minę, kiedy posypały się robaki! Hi, hi, hi!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_033", "hash": "903DBE8E1D6188DC", "target": "Ach, wielka przysługa, istoto śmiertelna. Jeśli my, pixie, traktujemy coś poważnie, to właśnie zabawę!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_034", "hash": "FEF8EEF2A6254643", "target": "Rzeczy nudne i bolesne? Nie cierpimy ich, nie cierpimy, <italic(1)>nie cierpimy<italic(0)>! A pożeracze grzechów są i nudni, i bolesni, więc ich nie cierpimy najbardziej!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_035", "hash": "C744B7A0A689D6B6", "target": "Wy, śmiertelnicy, próbujecie walczyć z tymi potworami, ale to żadna zabawa. My wolimy trzymać się od nich z daleka!" }
   ]
 }

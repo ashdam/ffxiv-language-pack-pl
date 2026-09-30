@@ -63,7 +63,7 @@
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_084", "hash": "EDB189CAA66CAE0E", "target": "<colortype(547)>A teraz ma <if(gnum4,ona,on)> czwarty. Fascynujące.<colortype(0)>" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_085", "hash": "9FA3A7A26D874BAC", "target": "<colortype(547)>Prowadź dalej, <if(gnum4,nosicielko kryształów,nosicielu kryształów)>. Choć daleko <if(gnum4,zaszłaś,zaszedłeś)>, twoje dzieło jeszcze się nie skończyło.<colortype(0)>" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_086", "hash": "33777124E335A4E3", "target": "I ani śladu po jego przejściu..." },
-    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_087", "hash": "E7614C21804A817D", "target": "Cóż, Ascianie są wszystkim, tylko nie uchwytni. Nic dziwnego, że dowolnie rzucają zaawansowane zaklęcia teleportacji." },
+    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_087", "hash": "E7614C21804A817D", "target": "Cóż, Ascianie są niezwykle nieuchwytni. Nic dziwnego, że dowolnie rzucają zaawansowane zaklęcia teleportacji." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_088", "hash": "FF200B29193F3126", "target": "Ale żeby zadawali się z <italic(1)>Imperium<italic(0)>..." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_089", "hash": "F63F6A552ADEB0AF", "target": "Jaki wspólny cel mogliby ze sobą dzielić...?" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_090", "hash": "E357D9E0C8CB422B", "target": "Bałam się, że przybędę za późno, ale widzę, że dobrze sobie <if(gnum4,poradziłaś,poradziłeś)>." },

@@ -2,18 +2,18 @@
   "conversation": "quest/031/StmBdf101_03179",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "" }
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "Alisaie nie wie już, co począć." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "We Wschodzących Kamieniach zastajesz zrozpaczoną Alisaie. Zastanawia się, którym z narastających problemów Dziedziców zająć się najpierw, gdy przybywa Krile. Po zbadaniu poszkodowanych dochodzi do tego samego wniosku co Arcywieszczka: wygląda na to, że dusze opuściły ich ciała. Krile chce prześledzić ich eter, lecz potrzebuje do tego Kryształowego Oka mistrzyni Matoyi. Czeka was wyprawa na Dravanian Hinterlands." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "W jaskini Matoyi Krile próbuje odnaleźć zaginione dusze towarzyszy, lecz eteryczne nici urywają się nagle bez śladu. Rozczarowanie ustępuje potrzebie zajęcia się bieżącymi sprawami. Alisaie otrzymała od Lyse wiadomość, że członkowie Populares zbiegli z Imperium, i rozpaczliwie pragnie poznać los Alphinauda." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "Dołączasz do Alisaie przed jaskinią Matoyi. Choć staruszka bywa szorstka, jej słowa wyraźnie podniosły Alisaie na duchu." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "Porozmawiać z Alisaie przed jaskinią Matoyi" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "Porozmawiać z Alisaie" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "Proszę, zachowaj tę małą przemowę Alphinauda dla siebie. Potrafi być strasznie drażliwy..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "Ich dusze opuściły ciała, a oni wciąż żyją? Nie wiedziałam, że to w ogóle możliwe..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "Słyszałam, że mistrzyni Matoya stroni od ludzi, ale to już... przesada. Jeśli zgodzi się nam pomóc, chętnie przymknę oko na jej dziwactwa." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "Przykro mi, że nie mogłam zrobić więcej. Nigdy nie widziałam, by nić duszy urwała się tak nagle..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "Nie rób takiej miny. Shtola przeżyła błąkanie się w Strumieniu Życia, prawda? Jej dusza jest niezwykle odporna─tak samo jak dusze wszystkich uczniów Louisoix. Przestań się martwić, czy jeszcze ich zobaczysz, i skup się na tym, co można zrobić tu i teraz." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "A więc to ona poskromiła Y'shtolę... Poczułam się, jakby chwyciła mnie za kołnierz i wytrzęsła ze mnie wszystkie głupoty." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "Kiedy Alphinaud wróci, chciałabym odwiedzić ją znowu i spytać o historie związane z Dziadkiem." }
   ]
 }
