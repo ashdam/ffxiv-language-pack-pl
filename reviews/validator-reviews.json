@@ -1,0 +1,4019 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_A00160_MINFILIA",
+      "hash": "671863572B79FFAF",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_900060_URIANGER",
+      "hash": "87BA392462362A9E",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_B00050_MINFILIA",
+      "hash": "FB7AE84CBBDFB629",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_B00310_YSHTOLA",
+      "hash": "673C3715AF9148F6",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_B00050_MINFILIA",
+      "hash": "3C90BAA3B10C59AB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_I00050_MINFILIA",
+      "hash": "F9BD65F25AD7FDB0",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_I00070_MOENBRYDA",
+      "hash": "B2D1FAEFC5688917",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_I00190_MINFILIA",
+      "hash": "0C8ED04A392B5E26",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_I00380_MINFILIA",
+      "hash": "4452C70C55CA79C6",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_800290_MINFILIA",
+      "hash": "B181FE3893A9BAD9",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_X00070_ALPHINAUD",
+      "hash": "29362E8B2687F7D4",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/030/VoiceMan_03006#TEXT_VOICEMAN_03006_400020_EDMONT",
+      "hash": "77D567AABDA78DA5",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/030/VoiceMan_03007#TEXT_VOICEMAN_03007_500170_TIAMAT",
+      "hash": "F17B73409DBC298F",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/030/VoiceMan_03007#TEXT_VOICEMAN_03007_A00230_THORDAN",
+      "hash": "057363CBDE970021",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/031/VoiceMan_03100#TEXT_VOICEMAN_03100_000850_WARRIOROFDARKNESS",
+      "hash": "E03DF3C3CA793629",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000540_ALPHINAUD",
+      "hash": "331A22A579F565EB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000940_ALPHINAUD",
+      "hash": "D6FBDED6E8C430FD",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001080_AYMERIC",
+      "hash": "0AE3BE7EEC11984A",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002530_ALPHINAUD",
+      "hash": "BBB505D914C6704C",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_003130_THANCRED",
+      "hash": "D62DB7E9B7E68493",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_A2_000_003_NONE_VOICE",
+      "hash": "95105A3F1E63B9D3",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/040/VoiceMan_04004#TEXT_VOICEMAN_04004_000070_ALPHINAUD",
+      "hash": "0BCA6C8D64CB266C",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000700_MAXIMA",
+      "hash": "EBA55B608DF503C4",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000720_ALISAIE",
+      "hash": "28ECC786C64ABF2B",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000730_MAXIMA",
+      "hash": "0268ACC3CC5C0EF0",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_001270_SHADOWHUNTER",
+      "hash": "E92B568D2FCFDD8A",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_001340_SHADOWHUNTER",
+      "hash": "2B5632071B446293",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_001480_SHADOWHUNTER",
+      "hash": "1086148CDD145234",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_001840_LYSE",
+      "hash": "DD300D44A3AE1308",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_001890_RAUBAHN",
+      "hash": "55C198B4B226B5B1",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_002870_VARIS",
+      "hash": "54E8B2486445E9B3",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_002990_RAUBAHN",
+      "hash": "A01679805FF1E8B5",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_A4_000_002_NONE_VOICE",
+      "hash": "3FC9191E9EAD30EB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_A5_000_002_NONE_VOICE",
+      "hash": "CE4F53A54CA1A9D5",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_001470_WARRIOROFDARKNESS",
+      "hash": "5639FFDBAB301EC6",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_002030_ALPHINAUD",
+      "hash": "76DFDEE965534013",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/051/VoiceMan_05100#TEXT_VOICEMAN_05100_000620_MYSTERYVOICE",
+      "hash": "077947BF9B5DCA52",
+      "why": "The Source names the lake in this scene, not the source world."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "cut_scene/053/VoiceMan_05300#TEXT_VOICEMAN_05300_000680_THANCRED",
+      "hash": "3E7B92C4F1EC39EB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/000/GaiUse401_00052#TEXT_GAIUSE401_00052_MINFILIA_000_004",
+      "hash": "5A836E95C7D34FB9",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/000/GaiUse419_00089#TEXT_GAIUSE419_00089_SEQ_02",
+      "hash": "EE12BE3432768086",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_Q1_000_1",
+      "hash": "14A3E395E8A53604",
+      "why": "Spirithold is part of the quoted English quest title Spirithold Broken."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/003/GaiUse501_00363#TEXT_GAIUSE501_00363_MINFILIA_000_010",
+      "hash": "DF8976A54699DE16",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/003/GaiUse501_00363#TEXT_GAIUSE501_00363_MINFILIA_000_040",
+      "hash": "65E968611461D3CF",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/003/GaiUse507_00369#TEXT_GAIUSE507_00369_YSHTOLA_000_043",
+      "hash": "1F0F6D329E899E9D",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/004/GaiUse508_00429#TEXT_GAIUSE508_00429_SEQ_02",
+      "hash": "C20AEC7039C17285",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/004/GaiUse508_00429#TEXT_GAIUSE508_00429_THANCRED_000_022",
+      "hash": "F124A6BF97BC7743",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/004/GaiUse508_00429#TEXT_GAIUSE508_00429_YSHTOLA_100_013",
+      "hash": "1AF5295D01F233A1",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000070_LAHABREAEORZEA",
+      "hash": "BF774483F28A67F0",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_SEQ_03",
+      "hash": "7894D6AB6FA99E53",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ManFst407_00521#TEXT_MANFST407_00521_500590_ALPHINAUD",
+      "hash": "4D0A8015C0DAC14F",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_84",
+      "hash": "BE52B090F5CBB94F",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_92",
+      "hash": "574EAD37DA7DF761",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_MINFILIA_000_102",
+      "hash": "E63C56A229F4D9AB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/007/GaiUsa404_00746#TEXT_GAIUSA404_00746_SEQ_04",
+      "hash": "EA57620DB209B341",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_SEQ_06",
+      "hash": "CE7D3D0B491A98BA",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/011/GaiUse118_01192#TEXT_GAIUSE118_01192_SEQ_07",
+      "hash": "059B37E3736EC29C",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02",
+      "hash": "749BDA0A8131FE99",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_109",
+      "hash": "5AAE021ABCC28519",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_018",
+      "hash": "B6281CC51346424B",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/015/HeaVna118_01597#TEXT_HEAVNA118_01597_SYSTEM_110_056",
+      "hash": "F9361AFA10F28B3E",
+      "why": "Aether is part of the retained item label aether compass."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_SEQ_04",
+      "hash": "52F3DCDA18C8AA31",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna302_01603#TEXT_HEAVNA302_01603_SCENE00020_EVENTAREA_WARP_YESNO_TITLE",
+      "hash": "470D95A3A63A8D1E",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna302_01603#TEXT_HEAVNA302_01603_SEQ_02",
+      "hash": "F78B28CC238A6256",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna302_01603#TEXT_HEAVNA302_01603_TODO_01",
+      "hash": "707152D7D4E91DBD",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_01",
+      "hash": "6FD0BDB0F502937B",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_TODO_00",
+      "hash": "75D80BBD8722DF3B",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_SEQ_04",
+      "hash": "D83457420A9B47FF",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_SEQ_05",
+      "hash": "9DD72B72EF78F26F",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_SEQ_01",
+      "hash": "081F2E6C4E461ACC",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna332_01633#TEXT_HEAVNA332_01633_Q1_000_000",
+      "hash": "EEBC442B0DBB2CAA",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna332_01633#TEXT_HEAVNA332_01633_SEQ_03",
+      "hash": "E2A4D7DE935B1F2D",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna332_01633#TEXT_HEAVNA332_01633_TODO_02",
+      "hash": "E577AA343E5EEC78",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_TITLE",
+      "hash": "E1C9A7D9DD0390BD",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_001",
+      "hash": "6E191E4C68BE0AE9",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SCENE00008_EVENTAREA_WARP_YESNO_TITLE",
+      "hash": "7A96921B5BA18FEC",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SEQ_01",
+      "hash": "34CC81B166BB9ECA",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TODO_00",
+      "hash": "14F3742084008D1F",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna605_01654#TEXT_HEAVNA605_01654_ALPHINAUD_000_004",
+      "hash": "9A71C8532F218885",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna605_01654#TEXT_HEAVNA605_01654_ALPHINAUD_000_011",
+      "hash": "4A134B2E43761609",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna605_01654#TEXT_HEAVNA605_01654_ALPHINAUD_000_012",
+      "hash": "E7422EAC41D90BC5",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna605_01654#TEXT_HEAVNA605_01654_SEQ_01",
+      "hash": "79549039B34EC5E8",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna605_01654#TEXT_HEAVNA605_01654_SEQ_03",
+      "hash": "9234A077A4D7DF9A",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna606_01655#TEXT_HEAVNA606_01655_SEQ_00",
+      "hash": "1CFB029B3D4C150D",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna606_01655#TEXT_HEAVNA606_01655_SEQ_01",
+      "hash": "8052D2278F8F4847",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna606_01655#TEXT_HEAVNA606_01655_SEQ_02",
+      "hash": "23DA70DB634B25D3",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna606_01655#TEXT_HEAVNA606_01655_TODO_00",
+      "hash": "D8848419AE9DE1C4",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna606_01655#TEXT_HEAVNA606_01655_YSHTOLA_000_001",
+      "hash": "3768C28BE667FAB5",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/016/HeaVna610_01659#TEXT_HEAVNA610_01659_SEQ_01",
+      "hash": "90D0AD72FD7A7EA2",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_SCENE00010_EVENTAREA_WARP_YESNO_TITLE",
+      "hash": "B4EE98591FAFBF25",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/021/HeaVnb102_02157#TEXT_HEAVNB102_02157_ALPHINAUD_000_010",
+      "hash": "5A0AC3D189CA3CBE",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_Q1_000_021",
+      "hash": "3219378DB75CFD7B",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_Q1_000_031",
+      "hash": "C8BEF74D4A494C8F",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_Q3_000_223",
+      "hash": "2E7170EC543B1F2B",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnc111_02241#TEXT_HEAVNC111_02241_ALPHINAUD_000_034",
+      "hash": "7799C7502617B1CB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnd101_02242#TEXT_HEAVND101_02242_SEQ_04",
+      "hash": "FD24FCD1B73B1D4D",
+      "why": "Commander is part of the retained location name Seat of the Lord Commander."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnd102_02243#TEXT_HEAVND102_02243_AYMERIC_000_050",
+      "hash": "B2CD10E0B402D6EA",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnd102_02243#TEXT_HEAVND102_02243_SEQ_02",
+      "hash": "55DB7258CCAE6274",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnd106_02247#TEXT_HEAVND106_02247_ALPHINAUD_000_053",
+      "hash": "2B19F55545B769F9",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/022/HeaVnd106_02247#TEXT_HEAVND106_02247_SEQ_04",
+      "hash": "526ACB5DA68593FB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/023/HeaVne102_02342#TEXT_HEAVNE102_02342_SEQ_05",
+      "hash": "40D749EC9CA78DD4",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_SEQ_02",
+      "hash": "6CB2C3C89A20C3C6",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/023/HeaVne105_02345#TEXT_HEAVNE105_02345_ALPHINAUD_000_075",
+      "hash": "EEC19D817E0E2A3B",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/023/HeaVne105_02345#TEXT_HEAVNE105_02345_SEQ_04",
+      "hash": "74137EBFC4F5812D",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080",
+      "hash": "FEB1BB90E374460E",
+      "why": "Aether is part of the retained item label aether compass."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/024/StmBda202_02471#TEXT_STMBDA202_02471_HANCOCK_000_070",
+      "hash": "AF26CBA42C21A676",
+      "why": "Garlean is part of the retained location name Garlean Consulate or Garlean Legion Tents."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_LYSE_000_025",
+      "hash": "8D9BBAAA0AC0AD31",
+      "why": "Garlean is part of the retained location name Garlean Consulate or Garlean Legion Tents."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_MIYAMA_000_052",
+      "hash": "56565A416F16C723",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/025/StmBda501_02519#TEXT_STMBDA501_02519_SEQ_01",
+      "hash": "D649B4D49113606F",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/025/StmBda507_02525#TEXT_STMBDA507_02525_ALPHINAUD_000_055",
+      "hash": "2229DA382F361C46",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_TODO_03",
+      "hash": "58BE60757A2764D1",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd101_03070#TEXT_STMBDD101_03070_SEQ_01",
+      "hash": "464051DB31A90B0A",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd105_03074#TEXT_STMBDD105_03074_SEQ_05",
+      "hash": "EF9231E53CB80784",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd105_03074#TEXT_STMBDD105_03074_SEQ_07",
+      "hash": "6226336069AB70D0",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd105_03074#TEXT_STMBDD105_03074_TODO_06",
+      "hash": "6AB092FE91A327EE",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SEQ_02",
+      "hash": "DAC0B943A2FD1F36",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SEQ_04",
+      "hash": "4E386B1B56D27B54",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALLIANCERECRUIT03143_000_007",
+      "hash": "C6130DE9856FAAFB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALLIANCERECRUIT03143_000_008",
+      "hash": "36D9CDB26B587509",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_SEQ_01",
+      "hash": "C16965A5EC0CE243",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_SEQ_03",
+      "hash": "6E3C0AEDA0847FC5",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_TODO_02",
+      "hash": "4AACD16BE24113F6",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde102_03144#TEXT_STMBDE102_03144_SEQ_04",
+      "hash": "51978CD77DECD09B",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde102_03144#TEXT_STMBDE102_03144_TODO_03",
+      "hash": "5C838E8E4B411F55",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_TODO_02",
+      "hash": "735A43C67EC16A42",
+      "why": "Doman is part of the retained map name Doman Enclave."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_YSHTOLA_000_045",
+      "hash": "003E6E052A88459C",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_YSHTOLA_000_071",
+      "hash": "7B3E42994A6D40AB",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01",
+      "hash": "58435F93D3BB5FAC",
+      "why": "Dravanian is part of a retained English map name, not a separate adjective."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_Q2_100_047",
+      "hash": "F6A6D4B2CB21F664",
+      "why": "Garlean is part of the retained location name Garlean Consulate or Garlean Legion Tents."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_Q3_100_049",
+      "hash": "6E9AC359E8D6F7CC",
+      "why": "Garlean is part of the retained location name Garlean Consulate or Garlean Legion Tents."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_SEQ_04",
+      "hash": "92B5D04258A02AC3",
+      "why": "Garlean is part of the retained location name Garlean Consulate or Garlean Legion Tents."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_SYSTEM_000_043",
+      "hash": "460EF92B1211D74B",
+      "why": "Aether is part of the retained item label aether compass."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/032/LucKma301_03291#TEXT_LUCKMA301_03291_SYSTEM_000_015",
+      "hash": "85DA7B4E98CBAA47",
+      "why": "Aether is part of the retained item label aether compass."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_URIANGER_000_070",
+      "hash": "4404090E8A449418",
+      "why": "The First is part of the retained proper name Church of the First Light."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_011",
+      "hash": "4055657446C420D0",
+      "why": "The First is part of the retained proper name Church of the First Light."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_YSHTOLA_000_021",
+      "hash": "23DC9E2DE348D578",
+      "why": "The First is part of the retained proper name Church of the First Light."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_A2_000_001",
+      "hash": "4EE16B794856478F",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_EMETSELCH_000_027",
+      "hash": "33163CE0CD4C8C68",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_MYSTERYVOICE_000_030",
+      "hash": "A7259E1A4BF8EDCA",
+      "why": "The Source names the lake in this scene, not the source world."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_MYSTERYVOICE_000_055",
+      "hash": "74A205DC1881EDF5",
+      "why": "Allagan is a valid Polish genitive plural of Allaganin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/037/LucKmh104_03764#TEXT_LUCKMH104_03764_SEQ_04",
+      "hash": "235CC48871854E1B",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/037/LucKmh105_03765#TEXT_LUCKMH105_03765_SEQ_01",
+      "hash": "3B1919D27D188546",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_ALISAIE_000_065",
+      "hash": "A9405EC02C18DF52",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_ALPHINAUD_000_016",
+      "hash": "89FAF90BBF353E8E",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_YSHTOLA_000_014",
+      "hash": "518B805999AAE005",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_GRAHATIA_000_055",
+      "hash": "C2BEFF76072EE8A2",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_ALISAIE_000_190",
+      "hash": "530E258685147B8D",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TIAMAT_000_189",
+      "hash": "F38A47C22DAC211A",
+      "why": "Ascian is a valid Polish genitive or accusative plural of Ascianin."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/040/LucKml103_04066#TEXT_LUCKML103_04066_URIANGER_000_725",
+      "hash": "1354A8C2D7DA5315",
+      "why": "Allagan is a valid Polish genitive plural of Allaganin."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/030/VoiceMan_03001#TEXT_VOICEMAN_03001_Q1_000_000",
+      "hash": "620737C12A7FEC0A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/031/VoiceMan_03100#TEXT_VOICEMAN_03100_Q1_000_001",
+      "hash": "A75CA277A579E47F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_Q1_000_001",
+      "hash": "7987BE849829B8D1",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/033/VoiceMan_03300#TEXT_VOICEMAN_03300_Q1_000_001",
+      "hash": "3788182C7D219DA1",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/044/VoiceMan_04400#TEXT_VOICEMAN_04400_002925_SYSTEM",
+      "hash": "4AC54FF8DD1F4850",
+      "why": "Cesarski and imperialny both describe the imperial palace."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "cut_scene/055/VoiceMan_05500#TEXT_VOICEMAN_05500_002505_SYSTEM",
+      "hash": "9E9E5A5670BF1E72",
+      "why": "Cesarski and imperialny both describe the imperial palace."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/000/GaiUse404_00057#TEXT_GAIUSE404_00057_TODO_03",
+      "hash": "ED787A055BBD810C",
+      "why": "Zdać relację and zdać sprawę both express reporting to Alphinaud."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TODO_05",
+      "hash": "4B316A5430DE9732",
+      "why": "Zdać relację and zdać sprawę both express reporting to Alphinaud."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/000/GaiUse410_00078#TEXT_GAIUSE410_00078_Q1_000_1",
+      "hash": "B3BF68F2F9449B57",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_012",
+      "hash": "EA5C9F7CBC197701",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/004/GaiUse616_00428#TEXT_GAIUSE616_00428_SYSTEM_000_022",
+      "hash": "62F32C202054DDCB",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_Q2_000_1",
+      "hash": "09776F810FA50F8D",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst200_00507#TEXT_MANFST200_00507_Q11_000_310",
+      "hash": "066E8D94C33306A9",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_4",
+      "hash": "899E1783649EE03C",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_Q1_000_1",
+      "hash": "81A7287081C3236C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_A4_000_054",
+      "hash": "09E2368120836B12",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_Q1_000_050",
+      "hash": "FF749B205CDDE027",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q2_000_1",
+      "hash": "554FC8304115B87E",
+      "why": "The infinitive and second-person questions both prompt a response."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_Q2_000_1",
+      "hash": "A967F9B504F921E2",
+      "why": "The infinitive and second-person questions both prompt a response."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q2_000_1",
+      "hash": "2F6F2807C91BF46F",
+      "why": "The infinitive and second-person questions both prompt a response."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_A4_000_024",
+      "hash": "0E43E64977782D2E",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_Q1_000_020",
+      "hash": "F2AD1AA00550123C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/011/GaiUse115_01189#TEXT_GAIUSE115_01189_CHOICE1Q1_100_011",
+      "hash": "0A1907FDD4728FB3",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/011/GaiUse117_01191#TEXT_GAIUSE117_01191_CHOICE1Q1_100_1",
+      "hash": "CE450F47DAE42D15",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_Q1_000_1",
+      "hash": "A26495E70C04F605",
+      "why": "Przejść and udać się both fit travel to the command room."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/013/GaiUse216_01360#TEXT_GAIUSE216_01360_Q1_000_1",
+      "hash": "7C8DE3A2D7FE154E",
+      "why": "Przejść and udać się both fit travel to the command room."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/013/GaiUse217_01361#TEXT_GAIUSE217_01361_Q1_000_1",
+      "hash": "ECE59B910489EBD0",
+      "why": "Przejść and udać się both fit travel to the command room."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_Q1_000_061",
+      "hash": "AFE05542F91A2789",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_Q1_000_021",
+      "hash": "A6C316EF9B6CC5F4",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/015/HeaVna112_01591#TEXT_HEAVNA112_01591_Q1_000_000",
+      "hash": "43A40F1F26AA532D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/015/HeaVna115_01594#TEXT_HEAVNA115_01594_Q1_000_000",
+      "hash": "D2DDF4FE0003F009",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_TODO_02",
+      "hash": "122A546CD6101B24",
+      "why": "W and we are valid preposition variants before dworze."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/015/HeaVna201_01599#TEXT_HEAVNA201_01599_TODO_00",
+      "hash": "F522AF23CBAE275E",
+      "why": "The objective permits the literal location label; the declined city name is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna309_01610#TEXT_HEAVNA309_01610_A1_000_000",
+      "hash": "DA74D069DEBCDD66",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_TODO_02",
+      "hash": "C0F6CA677C6DD3CF",
+      "why": "Zdać relację and zdać sprawę both express reporting to Alphinaud."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna318_01619#TEXT_HEAVNA318_01619_Q1_000_001",
+      "hash": "9B52158A60B0745D",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna322_01623#TEXT_HEAVNA322_01623_TODO_03",
+      "hash": "9F453AB36D08ACE8",
+      "why": "The objective permits the literal NPC label; the declined personal name is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_01",
+      "hash": "6FB3D01CC27951CC",
+      "why": "The objective permits the literal NPC label; the declined personal name is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna328_01629#TEXT_HEAVNA328_01629_TODO_02",
+      "hash": "178CD39D77CD6F00",
+      "why": "Przystań sterowców and lądowisko statków powietrznych identify the same destination."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna402_01638#TEXT_HEAVNA402_01638_TODO_02",
+      "hash": "6E787CAFB09E592D",
+      "why": "Zdać relację and zdać sprawę both express reporting to Alphinaud."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_Q1_000_000",
+      "hash": "1253C095EAC8A8D9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_TODO_00",
+      "hash": "A56C8F665CE31A78",
+      "why": "Przystań sterowców and lądowisko statków powietrznych identify the same destination."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna613_01662#TEXT_HEAVNA613_01662_TODO_00",
+      "hash": "B8F7424BD6C56BA4",
+      "why": "Both personal-name declension variants identify Aymeric without changing the objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna701_01663#TEXT_HEAVNA701_01663_SYSTEM_100_000",
+      "hash": "7DED68A7851CF2E0",
+      "why": "Misja and zadanie preserve the prerequisite quest and all company branches."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna701_01663#TEXT_HEAVNA701_01663_SYSTEM_100_001",
+      "hash": "E53B2D3C6E7E4B08",
+      "why": "The variants preserve the quest, company branches, NPCs and locations."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_Q1_000_000",
+      "hash": "6C0FE70F94F923A4",
+      "why": "The infinitive and second-person questions both prompt a response."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/016/HeaVna707_01669#TEXT_HEAVNA707_01669_TODO_06",
+      "hash": "3925BF90962619FB",
+      "why": "W and we are valid preposition variants before dworze."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_Q1_000_000",
+      "hash": "AD435FC4975C0DCD",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_Q1_000_000",
+      "hash": "979FB4905DB0CE49",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TODO_01",
+      "hash": "DD900018AC82A427",
+      "why": "Both personal-name declension variants identify Aymeric without changing the objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TODO_03",
+      "hash": "D51644B02C35243D",
+      "why": "W and we are valid preposition variants before dworze."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnc102_02232#TEXT_HEAVNC102_02232_Q1_000_121",
+      "hash": "DC4107C95E3333F5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnc105_02235#TEXT_HEAVNC105_02235_TODO_02",
+      "hash": "1C88173DE88B7D1C",
+      "why": "The search verbs preserve the objective to find Thancred."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_Q2_000_093",
+      "hash": "3167E90646D11948",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnd101_02242#TEXT_HEAVND101_02242_TODO_00",
+      "hash": "F5EBCE495E26C87A",
+      "why": "W and we are valid preposition variants before dworze."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnd106_02247#TEXT_HEAVND106_02247_SYSTEM_000_022",
+      "hash": "1AA21818DDBDE371",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/022/HeaVnd106_02247#TEXT_HEAVND106_02247_TODO_02",
+      "hash": "CCAF4EE132CA615F",
+      "why": "W and we are valid preposition variants before dworze."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_Q1_000_005",
+      "hash": "2968C3FED842E216",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_Q1_000_063",
+      "hash": "B55E0C59731F269B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/023/HeaVne109_02349#TEXT_HEAVNE109_02349_SYSTEM_000_043",
+      "hash": "FDDF058B767E04FD",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/023/HeaVng104_02359#TEXT_HEAVNG104_02359_Q1_000_000",
+      "hash": "2588EC63EF4E2082",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda102_02447#TEXT_STMBDA102_02447_TODO_00",
+      "hash": "7D8866462CD71844",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda102_02447#TEXT_STMBDA102_02447_TODO_01",
+      "hash": "970C50E4CF8E8303",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda102_02447#TEXT_STMBDA102_02447_TODO_02",
+      "hash": "82140F38B11AE409",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda111_02451#TEXT_STMBDA111_02451_TODO_02",
+      "hash": "7E3F020FA63B57FA",
+      "why": "Both translations instruct the player to prepare an ambush."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda113_02453#TEXT_STMBDA113_02453_TODO_00",
+      "hash": "4BC7D364DE09F14C",
+      "why": "Both translations instruct the player to prepare an ambush."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda121_02455#TEXT_STMBDA121_02455_Q1_000_000",
+      "hash": "704B392E88DC5239",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda126_02460#TEXT_STMBDA126_02460_TODO_02",
+      "hash": "FF1E280A24FA5612",
+      "why": "The search verbs preserve the objective to find Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_Q1_100_000",
+      "hash": "B0E5EC30EC9119DA",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda133_02463#TEXT_STMBDA133_02463_SYSTEM_000_053",
+      "hash": "3DEADB3843489250",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda207_02476#TEXT_STMBDA207_02476_Q1_000_000",
+      "hash": "7C0B14B92D5794F0",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda207_02476#TEXT_STMBDA207_02476_TODO_00",
+      "hash": "2B67F3D350B907EB",
+      "why": "Both location prepositions fit the return to the named bazaar."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TODO_00",
+      "hash": "78F5C5B84E623602",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TODO_02",
+      "hash": "EE8CD3800826942A",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda303_02479#TEXT_STMBDA303_02479_Q1_000_021",
+      "hash": "4DC43705AA205B5A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda303_02479#TEXT_STMBDA303_02479_TODO_04",
+      "hash": "880BF2ABBB7222CE",
+      "why": "Both verbs instruct the player to follow Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda303_02479#TEXT_STMBDA303_02479_TODO_06",
+      "hash": "0AA2B6FA166C1BD2",
+      "why": "The search verbs preserve the objective to find Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda303_02479#TEXT_STMBDA303_02479_TODO_07",
+      "hash": "75A227490290EDF3",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_Q1_000_144",
+      "hash": "DB380E67EE2EC210",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda305_02481#TEXT_STMBDA305_02481_TODO_04",
+      "hash": "102BDA9888D8CD03",
+      "why": "Both phrases express reporting to Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda306_02482#TEXT_STMBDA306_02482_TODO_00",
+      "hash": "0AE8E9E787066A6B",
+      "why": "The search verbs preserve the objective to find Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda310_02486#TEXT_STMBDA310_02486_Q1_000_012",
+      "hash": "FE77197CB554E26C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_Q1_000_013",
+      "hash": "4474D9A1D83231DF",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_03",
+      "hash": "A34FF620C644909B",
+      "why": "The search verbs preserve the objective to find Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda313_02489#TEXT_STMBDA313_02489_Q1_000_042",
+      "hash": "ACEB2A6BB636829B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda314_02490#TEXT_STMBDA314_02490_TODO_02",
+      "hash": "0B6DD8476A72D7FC",
+      "why": "Both phrases express reporting to Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_Q1_000_070",
+      "hash": "AB525C7A7B4157F8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_06",
+      "hash": "2955BA5549066D77",
+      "why": "Both search verbs preserve the objective to find Yugiri."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda411_02510#TEXT_STMBDA411_02510_Q1_000_045",
+      "hash": "3DE45C8F84579AA3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda412_02511#TEXT_STMBDA412_02511_Q1_000_031",
+      "hash": "3422BAF9DED7350F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda412_02511#TEXT_STMBDA412_02511_Q2_000_047",
+      "hash": "DD28796AAAE5BBFC",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda416_02515#TEXT_STMBDA416_02515_Q1_000_102",
+      "hash": "179A35CCD2EB1C94",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda416_02515#TEXT_STMBDA416_02515_Q1_100_070",
+      "hash": "43C2000B74C5FC4B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda502_02520#TEXT_STMBDA502_02520_Q1_000_081",
+      "hash": "C31BFF6844194CE6",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda502_02520#TEXT_STMBDA502_02520_TODO_03",
+      "hash": "B6AB661865A5F32A",
+      "why": "Both verbs instruct the player to follow Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_Q1_000_122",
+      "hash": "C0E64575C360A3B4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda507_02525#TEXT_STMBDA507_02525_Q1_000_092",
+      "hash": "DCECFC1DB615A830",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda507_02525#TEXT_STMBDA507_02525_Q2_000_191",
+      "hash": "F2148B65A7D180A7",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda507_02525#TEXT_STMBDA507_02525_TODO_00",
+      "hash": "3F2D7DD65B7A5C34",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda507_02525#TEXT_STMBDA507_02525_TODO_01",
+      "hash": "1F541B14AFA5BAC2",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_00",
+      "hash": "957C04B5BC131BC0",
+      "why": "Both location prepositions fit the return to the named bazaar."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda602_02528#TEXT_STMBDA602_02528_Q1_000_000",
+      "hash": "6865ED2CC9C1D57F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_POP_MESSAGE",
+      "hash": "506EB10D17066453",
+      "why": "Both alerts convey the sensed presence of someone in distress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda605_02531#TEXT_STMBDA605_02531_Q1_000_000",
+      "hash": "9F899B3509EC2EFD",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda606_02532#TEXT_STMBDA606_02532_Q1_000_150",
+      "hash": "ACB4DEDA991382C1",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda607_02533#TEXT_STMBDA607_02533_Q1_000_000",
+      "hash": "404252DF8F9F6A02",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda609_02535#TEXT_STMBDA609_02535_Q1_000_000",
+      "hash": "D8C2C57FC4270319",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda611_02537#TEXT_STMBDA611_02537_TODO_00",
+      "hash": "D4E8C11B5BBC82B1",
+      "why": "Both verbs instruct the player to follow Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda613_02539#TEXT_STMBDA613_02539_Q1_000_120",
+      "hash": "1FDF647DD231AB2C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_00",
+      "hash": "50A592444823CE26",
+      "why": "Meldunek, raport and relacja are valid descriptions of the report."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_Q1_000_000",
+      "hash": "367A79597F8F828D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda618_02544#TEXT_STMBDA618_02544_TODO_03",
+      "hash": "2DDD2CAB088EDEEB",
+      "why": "Both translations instruct the player to prepare an ambush."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda620_02546#TEXT_STMBDA620_02546_POP_MESSAGE",
+      "hash": "1950447C737E4367",
+      "why": "Both alerts convey the sensed presence of someone in distress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda620_02546#TEXT_STMBDA620_02546_TODO_02",
+      "hash": "DADACBEFDD2275AE",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda703_02550#TEXT_STMBDA703_02550_TODO_00",
+      "hash": "69590DBA1EF739E0",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda703_02550#TEXT_STMBDA703_02550_TODO_02",
+      "hash": "19A842BC2799FF3E",
+      "why": "The verb and aspect variants preserve the instruction to follow Lyse."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda704_02551#TEXT_STMBDA704_02551_TODO_03",
+      "hash": "3B0C651CB32649B6",
+      "why": "The objective permits the literal NPC label; the declined personal name is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda704_02551#TEXT_STMBDA704_02551_TODO_05",
+      "hash": "314BB07EAE46627A",
+      "why": "Both personal-name declension variants identify Aymeric without changing the objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_Q1_000_075",
+      "hash": "6C99C62E52C1EE89",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_Q1_000_064",
+      "hash": "687341D4DDBCE4B6",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_Q1_000_026",
+      "hash": "206174552276EBE2",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_TODO_00",
+      "hash": "2D4A8546BFD97D74",
+      "why": "Both search verbs preserve the objective to find Yugiri."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb105_02966#TEXT_STMBDB105_02966_TODO_03",
+      "hash": "5DB01CADE2DAB26D",
+      "why": "Meldunek, raport and relacja are valid descriptions of the report."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_Q1_000_000",
+      "hash": "9A07A0515C43B0DD",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb107_02968#TEXT_STMBDB107_02968_Q1_000_000",
+      "hash": "85700083DF1043EE",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb111_02972#TEXT_STMBDB111_02972_Q1_000_000",
+      "hash": "6E977B52FE9BEC2A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb111_02972#TEXT_STMBDB111_02972_SYSTEM_100_180",
+      "hash": "A6EC0F9B61DF61A1",
+      "why": "Cesarski and imperialny both describe the imperial palace."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/029/StmBdb111_02972#TEXT_STMBDB111_02972_TODO_01",
+      "hash": "328C8B15C731B30B",
+      "why": "The capitalization reflects a descriptive movement or the named organization."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdc102_03023#TEXT_STMBDC102_03023_Q1_000_000",
+      "hash": "2BFB3C63F3438A5E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_Q1_000_000",
+      "hash": "2E93A3B6FB5813D8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdc106_03027#TEXT_STMBDC106_03027_Q1_000_000",
+      "hash": "B43E49D6FDBAD9D6",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdc107_03028#TEXT_STMBDC107_03028_Q1_000_000",
+      "hash": "F4193403336F77F0",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd101_03070#TEXT_STMBDD101_03070_TODO_00",
+      "hash": "4516BA1DA8AEBCDC",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd103_03072#TEXT_STMBDD103_03072_TODO_01",
+      "hash": "8E9E689307B6B902",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_Q1_000_000",
+      "hash": "D5F57DB06D55A8F9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_TODO_03",
+      "hash": "58585FB952E7CC0A",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_Q1_000_000",
+      "hash": "929FECDEDD728D3F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_SYSTEM_100_080",
+      "hash": "CD487D8A716973F1",
+      "why": "Cesarski and imperialny both describe the imperial palace."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_011",
+      "hash": "D39C42584ACE2834",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_013",
+      "hash": "708CE65571EF13D5",
+      "why": "Podjąć and podjąć się both preserve the quest requirement and level threshold."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_A1_000_002",
+      "hash": "9764756EFB05FA53",
+      "why": "The explicit refusal to fight fits the Naadam context; the shorter refusal is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_Q1_000_000",
+      "hash": "ED56DAD0560EE27A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_TODO_03",
+      "hash": "A74E58B590B136CF",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde102_03144#TEXT_STMBDE102_03144_TODO_00",
+      "hash": "8218AA93438964A3",
+      "why": "Niedaleko and w pobliżu express the same proximity."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_Q1_000_000",
+      "hash": "75097ECBD2B84E50",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_TODO_03",
+      "hash": "6701B9E3625C73F0",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde104_03146#TEXT_STMBDE104_03146_Q1_000_000",
+      "hash": "B81CA0BCFFC090DB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde105_03147#TEXT_STMBDE105_03147_A1_000_002",
+      "hash": "16439AA1ABF7CFD2",
+      "why": "The explicit refusal to fight fits the Naadam context; the shorter refusal is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde105_03147#TEXT_STMBDE105_03147_Q1_000_000",
+      "hash": "96CCF71A0CD5F41E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde105_03147#TEXT_STMBDE105_03147_SYSTEM_100_200",
+      "hash": "22C559D0D0129287",
+      "why": "Podjąć and podjąć się both preserve the quest requirement and level threshold."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde105_03147#TEXT_STMBDE105_03147_TODO_03",
+      "hash": "D7A7930EE21E3406",
+      "why": "Both aspect variants preserve waiting at the designated place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde105_03147#TEXT_STMBDE105_03147_TODO_04",
+      "hash": "2F544C7C8391E372",
+      "why": "Both aspect variants preserve waiting at the designated place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_04",
+      "hash": "43A9731FB4802207",
+      "why": "The capitalization reflects a descriptive movement or the named organization."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_00",
+      "hash": "8DB9380E2AEC3A99",
+      "why": "The optional district descriptor preserves the location and NPC."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf103_03181#TEXT_STMBDF103_03181_TODO_00",
+      "hash": "10DD3BB28C32D9C3",
+      "why": "Niedaleko and w pobliżu express the same proximity."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf103_03181#TEXT_STMBDF103_03181_TODO_01",
+      "hash": "B0BF226E551166CF",
+      "why": "The retained location label and its Polish locative form identify the same place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_Q1_000_000",
+      "hash": "BB46CA42BDA5BA75",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_Q2_000_000",
+      "hash": "FD01DD2B149D20F8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_Q3_000_000",
+      "hash": "EBE2DEDCC93B9454",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_TODO_05",
+      "hash": "7CB57B863F6D6B0D",
+      "why": "Both phrases express reporting to Alisaie."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SYSTEM_000_012",
+      "hash": "017A4289308A84F5",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SYSTEM_000_042",
+      "hash": "1B55DDA48A1E820F",
+      "why": "The variants preserve the quest title, starting NPC and location."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SYSTEM_000_043",
+      "hash": "6E1D269BE81BDFF8",
+      "why": "The variants preserve the journal section and how to check progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SYSTEM_100_013",
+      "hash": "3C4E768E99F00E84",
+      "why": "Podjąć and podjąć się both preserve the quest requirement and level threshold."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma101_03279#TEXT_LUCKMA101_03279_Q1_000_004",
+      "hash": "7F3B53473C76ACB4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma101_03279#TEXT_LUCKMA101_03279_Q3_000_060",
+      "hash": "747B11FA7E1FC013",
+      "why": "Both prompts ask to continue the main scenario."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma101_03279#TEXT_LUCKMA101_03279_Q4_000_066",
+      "hash": "F2FACA3AE38D93C5",
+      "why": "Both constructions refer to travel to the First world."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma102_03280#TEXT_LUCKMA102_03280_Q0_100_000",
+      "hash": "2038D267D4E076D0",
+      "why": "Both constructions refer to travel to the First world."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma102_03280#TEXT_LUCKMA102_03280_Q1_000_010",
+      "hash": "BCE0BCBFC704B4A1",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma102_03280#TEXT_LUCKMA102_03280_Q2_000_104",
+      "hash": "35D21C5E7F10D5C8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q0_100_000",
+      "hash": "16177EEB023D3C60",
+      "why": "Both constructions refer to travel to the First world."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q1_000_002",
+      "hash": "8172915D58DD83B0",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q3_000_062",
+      "hash": "2A217E7CF5BF41E4",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_04",
+      "hash": "C0FA1B9B56A520D9",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_Q1_000_013",
+      "hash": "3D20FFEF8AC596ED",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_Q2_000_016",
+      "hash": "858A4CFC8FB0CAF6",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_TODO_01",
+      "hash": "BCE77C6EE96C85D6",
+      "why": "Poskramiacz and opiekun both fit the amaro trainee in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_TODO_02",
+      "hash": "87F13F6A52516F7D",
+      "why": "Poskramiacz and opiekun both fit the amaro trainee in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma201_03282#TEXT_LUCKMA201_03282_TODO_03",
+      "hash": "0576CBB4F43A88BF",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_Q1_000_000",
+      "hash": "CB35629ECAE9BFAE",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_Q0_000_048",
+      "hash": "C900081F5C718A44",
+      "why": "Both prompts ask to continue the main scenario."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_Q1_000_152",
+      "hash": "222911CDCFA7CEF9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_TODO_00",
+      "hash": "E044B99D77451ADA",
+      "why": "Both aspect variants preserve waiting at the designated place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_TODO_01",
+      "hash": "A17EADB3A4506EB6",
+      "why": "Both aspect variants preserve waiting at the designated place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma206_03287#TEXT_LUCKMA206_03287_Q1_000_053",
+      "hash": "78CAE79F1BB9548E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma206_03287#TEXT_LUCKMA206_03287_Q2_000_081",
+      "hash": "E25169FEF011B7DD",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma206_03287#TEXT_LUCKMA206_03287_TODO_00",
+      "hash": "504C26FDC2A9C6F0",
+      "why": "Both location prepositions identify the Canopy as the information-gathering area."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma207_03288#TEXT_LUCKMA207_03288_Q1_000_041",
+      "hash": "360001A5A613CC98",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma207_03288#TEXT_LUCKMA207_03288_Q3_000_137",
+      "hash": "EBB0FADD5E55874D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma208_03289#TEXT_LUCKMA208_03289_Q1_000_083",
+      "hash": "493119611E1A6F4B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma208_03289#TEXT_LUCKMA208_03289_TODO_03",
+      "hash": "59856D50AA4E5E90",
+      "why": "Zdać relację and zdać sprawę both express reporting to Alphinaud."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_Q1_000_000",
+      "hash": "F503B1785024440A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma304_03294#TEXT_LUCKMA304_03294_Q1_000_000",
+      "hash": "5A9C12845F046607",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma309_03299#TEXT_LUCKMA309_03299_Q1_000_000",
+      "hash": "96629F16B6B2A1C3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/032/LucKma309_03299#TEXT_LUCKMA309_03299_Q2_000_000",
+      "hash": "2B5C1B9A1E2ACEB0",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKma401_03300#TEXT_LUCKMA401_03300_A1_000_001",
+      "hash": "FA4B110E007ACA3F",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKma401_03300#TEXT_LUCKMA401_03300_A1_000_003",
+      "hash": "DCCB0F366BCC211F",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKma402_03301#TEXT_LUCKMA402_03301_Q1_000_000",
+      "hash": "5AF77F0667E383BE",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKma402_03301#TEXT_LUCKMA402_03301_TODO_03",
+      "hash": "606D4DBDFE85DE82",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb101_03302#TEXT_LUCKMB101_03302_Q1_000_000",
+      "hash": "055BDFB509223C1E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb101_03302#TEXT_LUCKMB101_03302_TODO_00",
+      "hash": "30B63746869E8DB4",
+      "why": "The retained location label and its Polish genitive form identify the same destination."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_04",
+      "hash": "6521D3EA67B9BB65",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb103_03304#TEXT_LUCKMB103_03304_TODO_00",
+      "hash": "C9C73086AE3B4B0B",
+      "why": "The literal NPC label and the declined personal name are valid in this objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb104_03305#TEXT_LUCKMB104_03305_SYSTEM_000_100",
+      "hash": "49D3D9CA8CD9D01D",
+      "why": "Both prompts ask to continue the main scenario."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb104_03305#TEXT_LUCKMB104_03305_TODO_03",
+      "hash": "49CE634615C73772",
+      "why": "Both noun constructions identify the scout from the Crystarium."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb104_03305#TEXT_LUCKMB104_03305_TODO_04",
+      "hash": "6BBA2BF3034706E1",
+      "why": "Both noun constructions identify the scout from the Crystarium."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb105_03306#TEXT_LUCKMB105_03306_Q1_000_000",
+      "hash": "FB09CC6DE0CB2865",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb105_03306#TEXT_LUCKMB105_03306_Q2_000_000",
+      "hash": "1B47CDD51F94C6FA",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb105_03306#TEXT_LUCKMB105_03306_Q3_000_000",
+      "hash": "52FCCFBC288D51A8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb105_03306#TEXT_LUCKMB105_03306_Q4_000_000",
+      "hash": "D4A585B4AC0DE513",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb109_03310#TEXT_LUCKMB109_03310_Q1_000_000",
+      "hash": "0EA0EBEABFB09400",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_Q1_000_000",
+      "hash": "ABC2FD4B395BB8F9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb111_03312#TEXT_LUCKMB111_03312_A1_000_001",
+      "hash": "7F4D50862F0C38C3",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb111_03312#TEXT_LUCKMB111_03312_A1_000_003",
+      "hash": "58821CF6B8EF4E03",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb111_03312#TEXT_LUCKMB111_03312_Q2_000_000",
+      "hash": "1FB9F2FF58CF60C3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb112_03313#TEXT_LUCKMB112_03313_Q1_000_000",
+      "hash": "7E19934DA394D2C8",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb115_03316#TEXT_LUCKMB115_03316_Q1_000_000",
+      "hash": "6C6435E85C138702",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb116_03317#TEXT_LUCKMB116_03317_Q1_000_000",
+      "hash": "28471D2137C7954F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb117_03318#TEXT_LUCKMB117_03318_Q1_000_000",
+      "hash": "5BAC34B89E7DF7ED",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb117_03318#TEXT_LUCKMB117_03318_Q2_000_000",
+      "hash": "4B79E18CDA2F75F5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_Q1_000_000",
+      "hash": "AE29489953BAAAB2",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_02",
+      "hash": "ADF7D04D2BC726C4",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc103_03324#TEXT_LUCKMC103_03324_Q2_000_000",
+      "hash": "AF6CADC85B93A624",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_Q1_000_000",
+      "hash": "2F5796F341AF83EE",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc105_03326#TEXT_LUCKMC105_03326_Q1_000_000",
+      "hash": "F11976907B3829FF",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc106_03327#TEXT_LUCKMC106_03327_Q1_000_000",
+      "hash": "BD7C1BC1336D2B0D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc106_03327#TEXT_LUCKMC106_03327_Q2_000_000",
+      "hash": "A0D36B85FA96E7DD",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_Q1_000_000",
+      "hash": "A6F3522B2CE9078A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc113_03334#TEXT_LUCKMC113_03334_Q1_000_000",
+      "hash": "6017D507D8172B0D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_Q2_000_000",
+      "hash": "5A1FC8D76E31984A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_Q1_000_000",
+      "hash": "17B4506BBAF91717",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_A2_000_001",
+      "hash": "B4A097FFAFFE09A2",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_A2_000_003",
+      "hash": "6B7C7C558E597242",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_Q1_000_000",
+      "hash": "33A5708A4B0BFC77",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_Q1_000_000",
+      "hash": "23448E30D6833786",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_03",
+      "hash": "F84E69A7862FD2FF",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_Q1_000_000",
+      "hash": "68355A17C1C45D61",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_01",
+      "hash": "B7C68D7CD7CE97C4",
+      "why": "Both search verbs preserve the objective to find Minfilia."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd104_03609#TEXT_LUCKMD104_03609_Q1_000_000",
+      "hash": "964B7E824562D869",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd104_03609#TEXT_LUCKMD104_03609_Q2_000_000",
+      "hash": "EC8F95541CC8C19B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd104_03609#TEXT_LUCKMD104_03609_Q3_000_000",
+      "hash": "1D0F2037344B520F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd105_03610#TEXT_LUCKMD105_03610_Q1_000_000",
+      "hash": "746397AC3088F70D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_TODO_02",
+      "hash": "AB8EC8E5CED82D42",
+      "why": "The search verbs preserve the objective to find Thancred."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_Q1_000_001",
+      "hash": "364E1B7C24E9B670",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_Q1_000_000",
+      "hash": "DBFCC3E2632B9012",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_Q2_000_000",
+      "hash": "C997CBDC3525603B",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_TODO_01",
+      "hash": "0F26308250E49963",
+      "why": "Both search verbs preserve the objective to find Minfilia."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_TODO_02",
+      "hash": "C903EB7627DD49F6",
+      "why": "The search verbs preserve the objective to find Thancred."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd116_03621#TEXT_LUCKMD116_03621_A1_000_001",
+      "hash": "A3CEFF7C61301B92",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd116_03621#TEXT_LUCKMD116_03621_A1_000_003",
+      "hash": "FE6587C846B200F5",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q10_000_920",
+      "hash": "6D1E88DE2F0C462E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q1_000_000",
+      "hash": "8A718AD71F4BBC9E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q2_000_000",
+      "hash": "C863ABE81ECCFEE5",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_TODO_01",
+      "hash": "6CDFC11AAFF8DFE5",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_Q1_000_000",
+      "hash": "F1B4CA5021158674",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_Q2_000_000",
+      "hash": "96F9471DC0795890",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_00",
+      "hash": "B10DD91C33A84896",
+      "why": "The retained location label and its Polish genitive form identify the same destination."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme103_03632#TEXT_LUCKME103_03632_Q1_000_000",
+      "hash": "B3543CFA22D0E22E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_Q2_000_000",
+      "hash": "BA03064F5A620990",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_Q1_000_000",
+      "hash": "1FE42ACA6F796522",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_SYSTEM_000_050",
+      "hash": "603CB6438AD47234",
+      "why": "Both alerts tell the player that an attack is in progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q1_000_000",
+      "hash": "6066DA09E9ABEC44",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q2_000_000",
+      "hash": "6CD5642FDE2200C4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q3_000_000",
+      "hash": "2726FF9B111F8883",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q4_000_000",
+      "hash": "E61A9EAB1EA5C6F4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q5_000_000",
+      "hash": "20E0B795A9882AC9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme107_03636#TEXT_LUCKME107_03636_Q6_000_000",
+      "hash": "BBDF1756DCA71D91",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme108_03637#TEXT_LUCKME108_03637_Q1_000_000",
+      "hash": "E3047BBE2381DA2A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme108_03637#TEXT_LUCKME108_03637_Q2_000_000",
+      "hash": "C6FC7454901BAF2F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme109_03638#TEXT_LUCKME109_03638_Q1_000_000",
+      "hash": "8C0FE20049C4DF1D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme110_03639#TEXT_LUCKME110_03639_Q1_000_000",
+      "hash": "AC1562758B020460",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme110_03639#TEXT_LUCKME110_03639_Q2_000_000",
+      "hash": "7C19075AD8032117",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_Q1_000_000",
+      "hash": "D71AFFF4289F128A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme114_03643#TEXT_LUCKME114_03643_A3_000_001",
+      "hash": "DFE25B96D04365F9",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme114_03643#TEXT_LUCKME114_03643_A3_000_003",
+      "hash": "51C418AFECB5D508",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme114_03643#TEXT_LUCKME114_03643_Q1_000_000",
+      "hash": "B5116EE454E86B5C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme114_03643#TEXT_LUCKME114_03643_Q2_000_000",
+      "hash": "3078496C4FFDAEA5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKme114_03643#TEXT_LUCKME114_03643_SYSTEM_000_164",
+      "hash": "E604245D248ADC90",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf103_03646#TEXT_LUCKMF103_03646_Q1_000_000",
+      "hash": "E02FC0AC9D8DB0BB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf103_03646#TEXT_LUCKMF103_03646_TODO_00",
+      "hash": "73E888A6CF7A449F",
+      "why": "The retained location label and its Polish genitive form identify the same destination."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf103_03646#TEXT_LUCKMF103_03646_TODO_02",
+      "hash": "E2EB42FE8A38DE91",
+      "why": "Poskramiacz and opiekun both fit the amaro trainee in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf104_03647#TEXT_LUCKMF104_03647_Q1_000_000",
+      "hash": "97028F4FE3B15D29",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_Q1_000_000",
+      "hash": "28966FD3317CA415",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf106_03649#TEXT_LUCKMF106_03649_Q1_000_000",
+      "hash": "2AAA6B2C263785B5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf107_03650#TEXT_LUCKMF107_03650_Q1_000_000",
+      "hash": "93235C84ABDE3A55",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf107_03650#TEXT_LUCKMF107_03650_Q2_000_000",
+      "hash": "07C88D1E7C1B095C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf109_03652#TEXT_LUCKMF109_03652_Q1_000_000",
+      "hash": "7C29A3EB0FED493F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_01",
+      "hash": "128D60DD24BF3603",
+      "why": "Both aspect variants preserve waiting at the designated place."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_001",
+      "hash": "2777822245F9605D",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_003",
+      "hash": "45C9CEDC1B3CAC2D",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_Q1_000_000",
+      "hash": "E6475F1D70BD47F9",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_Q2_000_000",
+      "hash": "A31B28B98CC03AFC",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_Q5_000_000",
+      "hash": "A695E2719D9BE4F3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_Q1_000_500",
+      "hash": "9B0C2516A8079129",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_SYSTEM_000_008",
+      "hash": "6088BB8B25B596C4",
+      "why": "The variants preserve the quest title, starting NPC and location."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_SYSTEM_000_009",
+      "hash": "FD03091A0D704113",
+      "why": "The variants preserve the journal section and how to check progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_A1_000_001",
+      "hash": "D4E9938EFA41F0D3",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_A1_000_003",
+      "hash": "9DE167484A87E30B",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg104_03676#TEXT_LUCKMG104_03676_Q1_000_000",
+      "hash": "015F8CEFD7451EDF",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg104_03676#TEXT_LUCKMG104_03676_Q2_000_100",
+      "hash": "216C32E33D78C5BA",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg104_03676#TEXT_LUCKMG104_03676_Q3_000_200",
+      "hash": "3ED9C335F3EA479C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg104_03676#TEXT_LUCKMG104_03676_Q4_000_300",
+      "hash": "8D70639A90B1B900",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg106_03678#TEXT_LUCKMG106_03678_TODO_00",
+      "hash": "53994D63D5F64222",
+      "why": "Both location prepositions identify the Canopy as the information-gathering area."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_Q1_000_500",
+      "hash": "B3FC19C5418847E7",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg108_03680#TEXT_LUCKMG108_03680_Q1_000_000",
+      "hash": "788DD180CAB03840",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SYSTEM_100_123",
+      "hash": "980139FAD45A0316",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SYSTEM_100_124",
+      "hash": "A0D8A927454CD23E",
+      "why": "Both translations preserve the class group and minimum level requirement."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_Q1_000_500",
+      "hash": "9D17841156F6F927",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_02",
+      "hash": "50F691044D2D53ED",
+      "why": "Both noun constructions identify the scout from the Crystarium."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh104_03764#TEXT_LUCKMH104_03764_Q1_000_500",
+      "hash": "7DED5F1386407E48",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh105_03765#TEXT_LUCKMH105_03765_Q1_000_500",
+      "hash": "4E4C93963DD16493",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh105_03765#TEXT_LUCKMH105_03765_SYSTEM_100_071",
+      "hash": "DCD2B0B795ADAD75",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh107_03767#TEXT_LUCKMH107_03767_Q1_000_500",
+      "hash": "659CCA07C32042CB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_Q1_000_500",
+      "hash": "0184DD58539F9BAE",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_Q1_000_600",
+      "hash": "BCF07D6065FF0337",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh109_03769#TEXT_LUCKMH109_03769_A1_000_001",
+      "hash": "FF1F2D4EC6F9BECA",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh109_03769#TEXT_LUCKMH109_03769_A1_000_003",
+      "hash": "BA3E92FD6E02D692",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q1_000_000",
+      "hash": "0DB7EA267524CFB1",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q1_000_500",
+      "hash": "CB56DB6F12CF4B5A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q1_000_600",
+      "hash": "C4601B318B5F6F1E",
+      "why": "Pokój and apartament both refer to the player quarters in this context."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q2_000_000",
+      "hash": "6668EBB060EF4C8F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q3_000_000",
+      "hash": "9494F5C6898ABADB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q4_000_000",
+      "hash": "D7B34B17E3DFC486",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_Q5_000_000",
+      "hash": "377D9FCDFA35E8B4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmh110_03770#TEXT_LUCKMH110_03770_TODO_04",
+      "hash": "78E2F26D52E22930",
+      "why": "Both translations identify the same lodging manager."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_Q1_000_023",
+      "hash": "897A3A3C4619CCE5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_Q2_000_081",
+      "hash": "13421F607A410BCF",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_Q3_000_148",
+      "hash": "67B2383A67835321",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_000",
+      "hash": "269837B6C8E8DB7D",
+      "why": "Misja and zadanie preserve the prerequisite quest and all company branches."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_001",
+      "hash": "164D5802F501C6D1",
+      "why": "The variants preserve the quest, company branches, NPCs and locations."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_003",
+      "hash": "AD40E7B01FAFF581",
+      "why": "The variants preserve the quest title, starting NPC and location."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_004",
+      "hash": "286E7FF7D1C59B70",
+      "why": "The variants preserve the journal section and how to check progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_005",
+      "hash": "4033BDC42827DCE0",
+      "why": "Misja and zadanie preserve the prerequisite quest and all company branches."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_006",
+      "hash": "B3676FAF3DEB1E98",
+      "why": "The variants preserve the quest, company branches, NPCs and locations."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_008",
+      "hash": "29148AA67893AB9B",
+      "why": "The variants preserve the quest title, starting NPC and location."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_009",
+      "hash": "27A5BC8F0AA00D62",
+      "why": "The variants preserve the journal section and how to check progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_SYSTEM_000_105",
+      "hash": "6EA7A6FEE5EE1B18",
+      "why": "Both alerts tell the player that an attack is in progress."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_Q1_000_026",
+      "hash": "E089B8314B3C80A2",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_Q1_000_029",
+      "hash": "D9FE4D6EA9B01E69",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_Q3_000_072",
+      "hash": "F9A241BB8F94E05E",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_071",
+      "hash": "F63ED4774B7BBAC2",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_073",
+      "hash": "18742FC33A27A49C",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_Q2_000_168",
+      "hash": "EDD3573CCFBB7ADB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi108_03778#TEXT_LUCKMI108_03778_Q1_000_001",
+      "hash": "DB382585A1ADD623",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_Q1_000_032",
+      "hash": "7DC4CEA9EA7D47CB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_Q1_000_153",
+      "hash": "3E63B1E356D87E18",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_Q3_000_050",
+      "hash": "8ADFE2E4E05BA333",
+      "why": "Both prompts ask to continue the main scenario."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_SYSTEM_000_043",
+      "hash": "44D9D04AD1038445",
+      "why": "The variants preserve the advice to allow enough time to view all scenes."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/038/XxaFst502_03873#TEXT_XXAFST502_03873_TODO_02",
+      "hash": "E964C23E3474279B",
+      "why": "Meldunek, raport and relacja are valid descriptions of the report."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/038/XxaUse304_03884#TEXT_XXAUSE304_03884_Q1_000_000",
+      "hash": "CF10A3B7BC9025CC",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_Q1_000_000",
+      "hash": "A0BB05126A484906",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_Q2_000_000",
+      "hash": "6D8FFCF4A21AF937",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj103_04009#TEXT_LUCKMJ103_04009_Q1_000_000",
+      "hash": "67CD8076ED5173E4",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_Q1_000_000",
+      "hash": "3DFE1F31C7867BD3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj105_04011#TEXT_LUCKMJ105_04011_A1_000_001",
+      "hash": "CEE2A90A7285B021",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj105_04011#TEXT_LUCKMJ105_04011_A1_000_003",
+      "hash": "4D8C9D8D1FA2074C",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj106_04012#TEXT_LUCKMJ106_04012_Q1_000_000",
+      "hash": "F513E46396FEC431",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj106_04012#TEXT_LUCKMJ106_04012_TODO_00",
+      "hash": "610A8CE58E37D1BE",
+      "why": "The objective permits the literal location label; the declined city name is also valid."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_SYSTEM_100_010",
+      "hash": "45C008AD63ABD1A1",
+      "why": "Przejść and udać się both fit travel to the command room."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_Q1_000_000",
+      "hash": "890D05C6522133A5",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_SYSTEM_100_005",
+      "hash": "D45AF1CAC2037818",
+      "why": "Przejść and udać się both fit travel to the command room."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_Q1_000_000",
+      "hash": "1651DB1DD83B89C3",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_Q1_000_100",
+      "hash": "1A51CC0D84CE425D",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk103_04060#TEXT_LUCKMK103_04060_Q1_000_100",
+      "hash": "269F4359F62C7B96",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk103_04060#TEXT_LUCKMK103_04060_Q2_000_200",
+      "hash": "F82963E1FD42576A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk103_04060#TEXT_LUCKMK103_04060_Q3_000_300",
+      "hash": "621AC8AE4F63574A",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_Q1_000_100",
+      "hash": "1510375CBABB21BB",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_Q2_000_200",
+      "hash": "8608D9468673EB15",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_001",
+      "hash": "6CF989E2C5634310",
+      "why": "These conversation-menu labels preserve the option to chat; they are not quest objectives."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_003",
+      "hash": "EA07E44FD9E2F5C5",
+      "why": "A final period is optional in this short response label."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKmk106_04063#TEXT_LUCKMK106_04063_Q1_000_100",
+      "hash": "66D2251956E6A53C",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml101_04064#TEXT_LUCKML101_04064_Q1_000_100",
+      "hash": "78E56C7995DBCB56",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml101_04064#TEXT_LUCKML101_04064_Q2_000_200",
+      "hash": "5319772E49D7A67F",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml101_04064#TEXT_LUCKML101_04064_TODO_00",
+      "hash": "8780732F1867A08A",
+      "why": "The optional district descriptor preserves the location and NPC."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_Q1_000_100",
+      "hash": "7DE47B59EC2DBFB6",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_Q2_000_200",
+      "hash": "BAA64875EC8DB690",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_SYSTEM_100_195",
+      "hash": "3F7F125E95620367",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml103_04066#TEXT_LUCKML103_04066_Q1_000_100",
+      "hash": "E72214E1E806B985",
+      "why": "Co powiesz and Co odpowiesz are valid response prompts."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml103_04066#TEXT_LUCKML103_04066_SYSTEM_000_153",
+      "hash": "AFF6D2441A42E6D5",
+      "why": "Both translations preserve the class group and minimum level requirement."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml103_04066#TEXT_LUCKML103_04066_SYSTEM_100_015",
+      "hash": "4EF874751552DCAF",
+      "why": "Udać się and wejść both fit the entry prompt for the Lotus Stand."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/040/LucKml103_04066#TEXT_LUCKML103_04066_TODO_03",
+      "hash": "5BF7A7823F45E4DE",
+      "why": "Both personal-name declension variants identify Aymeric without changing the objective."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/045/XxcUsc901_04521#TEXT_XXCUSC901_04521_SYSTEM_100_000",
+      "hash": "F6FD3645A00E1C2C",
+      "why": "Misja and zadanie preserve the prerequisite quest and all company branches."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/045/XxcUsc901_04521#TEXT_XXCUSC901_04521_SYSTEM_100_001",
+      "hash": "1877BD0C5CC1C12E",
+      "why": "The variants preserve the quest, company branches, NPCs and locations."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_800160_EYNZAHRSLAFYRSYN",
+      "hash": "E2F21AF4C0AE8BCB",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_800220_MERLWYB",
+      "hash": "AC9F9056B94984B6",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_900190_ALPHINAUD",
+      "hash": "C0E70C856DB1D791",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_I00160_MINFILIA",
+      "hash": "C3849B67369C6BAA",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600120_ALISAIE",
+      "hash": "3853A18147C5664F",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon. The phrase is figurative and does not name an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_400160_YSHTOLA",
+      "hash": "5CEEDC8266821C53",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_400220_MOENBRYDA",
+      "hash": "1DDF7DA285A06F5B",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_400230_THANCRED",
+      "hash": "09B815138950617A",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_400300_MOENBRYDA",
+      "hash": "3090F2EDCD6DB257",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_400320_ALPHINAUD",
+      "hash": "5DD0744CF2BC0359",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_700100_MINFILIA",
+      "hash": "FF803483752E14E3",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/025/VoiceMan_02500#TEXT_VOICEMAN_02500_800090_THANCRED",
+      "hash": "31D4571DF471FA90",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_F00040_CID",
+      "hash": "6D5C3375034EC263",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_H00150_RAUBAHN",
+      "hash": "5A0AFCF4D7F91397",
+      "why": "The phrase is an insult, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002230_ALISAIE",
+      "hash": "035E24E2D59BA5CF",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_000530_ALISAIE",
+      "hash": "F5FD1EF151810C0E",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/043/VoiceMan_04300#TEXT_VOICEMAN_04300_001080_YOTSUYU",
+      "hash": "70DA12EA09A5191C",
+      "why": "The phrase is an insult, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/044/VoiceMan_04400#TEXT_VOICEMAN_04400_000980_HIEN",
+      "hash": "5893DC73CF8B6AD4",
+      "why": "The phrase describes direct travel distance, not fishing tackle."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_002390_ALISAIE",
+      "hash": "2645CA041F310179",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_003270_VAUTHRY",
+      "hash": "36D718F2A0938FCF",
+      "why": "The phrase is an insult, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001720_YSHTOLA",
+      "hash": "BD9DAE39DDEC5346",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/055/VoiceMan_05500#TEXT_VOICEMAN_05500_002080_NANAMOULNAMO",
+      "hash": "44E41CC13029DB8A",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "cut_scene/055/VoiceMan_05505#TEXT_VOICEMAN_05505_002880_ALPHINAUD",
+      "hash": "99A7B3F973CC717D",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/000/GaiUse419_00089#TEXT_GAIUSE419_00089_SEQ_02",
+      "hash": "512F76E1C77CF647",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/003/GaiUse507_00369#TEXT_GAIUSE507_00369_EDELSTEIN_000_003",
+      "hash": "D8A96A83226F5CBA",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/003/GaiUse507_00369#TEXT_GAIUSE507_00369_SEQ_02",
+      "hash": "922966FFBA4C8215",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_MINFILIA_000_62",
+      "hash": "3250C195239833EB",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_SEQ_03",
+      "hash": "BF4B31B34D556A0A",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_1",
+      "hash": "9709F4B91C015670",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_SEQ_01",
+      "hash": "805B6AB4E68769DC",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_ALPHINAUD_000_113",
+      "hash": "7411BDCBF21827F8",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000010_HYDAELYN",
+      "hash": "22BA2BD46F25D48C",
+      "why": "Darkness is the force opposed to Light, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000020_YSHTOLA",
+      "hash": "903C9FD6C357CC48",
+      "why": "The stars belong to the quoted verse, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_127",
+      "hash": "014F934BD52F5FF5",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_01",
+      "hash": "9F7B7842D5F439B0",
+      "why": "The crown is the stolen story object, not the player equipment label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_000",
+      "hash": "D05BB617014DAA4A",
+      "why": "The quest object is Azeyma rose oil from EventItem, not the inventory flower."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_01",
+      "hash": "4B1B06E2E88BB94E",
+      "why": "The quest object is Azeyma rose oil from EventItem, not the inventory flower."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_TODO_00",
+      "hash": "0ADA247647168BB5",
+      "why": "The quest object is Azeyma rose oil from EventItem, not the inventory flower."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_BUSCARRON_000_040",
+      "hash": "9691F7C65EA9F147",
+      "why": "The quest objects are long antelope horns from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_002",
+      "hash": "7E7434666B34C56B",
+      "why": "The quest object is a long antelope horn from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_01",
+      "hash": "BFAEBD1A9E25B28A",
+      "why": "The quest objects are long antelope horns from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_02",
+      "hash": "F64A5323479ECECB",
+      "why": "The quest objects are long antelope horns from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_01",
+      "hash": "9CA4A344A8282E70",
+      "why": "The quest objects are long antelope horns from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_02",
+      "hash": "EDCE9486EEEDA709",
+      "why": "The quest objects are long antelope horns from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_A2_000_022",
+      "hash": "78BA5CC6D1BD0AC9",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_CARRILAUT_000_003",
+      "hash": "CD9936AAF46BC18A",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsb904_00927#TEXT_GAIUSB904_00927_SEQ_01",
+      "hash": "A88A35B394E63F94",
+      "why": "The quest object is dark cider vinegar from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_CID_000_032",
+      "hash": "515E71FD69F56FFE",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_CID_000_037",
+      "hash": "02554839D8F49F34",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_CID_000_041",
+      "hash": "8E0321E42A471C50",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_LAMBERTEINT_000_050",
+      "hash": "B2769AC72545C9A6",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_SEQ_01",
+      "hash": "A5E7ED9BCBE615C8",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc102_00953#TEXT_GAIUSC102_00953_SEQ_02",
+      "hash": "8B0BFCE085B2300B",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000",
+      "hash": "EEB216FBDB0D41A4",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002",
+      "hash": "B10A19486AE36D96",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01",
+      "hash": "A44B72636B3A062C",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_HAHASAKO_000_001",
+      "hash": "8FEB475817D7529F",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_LAMBERTEINT_000_030",
+      "hash": "98F02E93A7E08136",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_LAMBERTEINT_000_040",
+      "hash": "81D4C644C99328E0",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_LAMBERTEINT_000_044",
+      "hash": "8A9352C677ACC76F",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_LAMBERTEINT_000_047",
+      "hash": "1A5EA48DED26D65B",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_SEQ_01",
+      "hash": "7A181D9D91BD271A",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_SEQ_05",
+      "hash": "0D89236F6629C29F",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_TODO_01",
+      "hash": "208C284A49445B20",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_TODO_02",
+      "hash": "6853130C21C65808",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_TODO_03",
+      "hash": "56CDAF3ABEDCF9AD",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_010",
+      "hash": "74150357D2C724FC",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_000",
+      "hash": "FF36AFDE050715A9",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_01",
+      "hash": "D00F8D1A379C82B9",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_000",
+      "hash": "E5D99046C1CAC8E7",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_01",
+      "hash": "1949D46104C02CC8",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_022",
+      "hash": "628FC9B9C68AD8A2",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_DAVYD_000_040",
+      "hash": "DA8A2ED6C7DC7AC4",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_01",
+      "hash": "698EA43D949CC44A",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc204_00963#TEXT_GAIUSC204_00963_DAVYD_000_005",
+      "hash": "7702026E3696E96E",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc204_00963#TEXT_GAIUSC204_00963_SEQ_01",
+      "hash": "EBE338F6452BF48B",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_CEANA_000_042",
+      "hash": "3F3C0EA31B1B1C09",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_CEANA_000_043",
+      "hash": "105920CD5DC0155E",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_DAVYD_000_022",
+      "hash": "1BCFEE7C5AF79EF8",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_TODO_05",
+      "hash": "7E910904A54AA04E",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_00",
+      "hash": "B573078355C1C1E3",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_01",
+      "hash": "C3212A855B5695D7",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_TODO_00",
+      "hash": "4D4B86D258DF7F27",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/010/GaiUsc601_01001#TEXT_GAIUSC601_01001_CID_000_004",
+      "hash": "5166001532AB5A90",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/010/GaiUsc601_01001#TEXT_GAIUSC601_01001_SEQ_01",
+      "hash": "D6720219BCD507A0",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_A1_000_004",
+      "hash": "E91CEC1C80D2792A",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/013/GaiUse216_01360#TEXT_GAIUSE216_01360_SEQ_02",
+      "hash": "3B9FDE5C4A81DA45",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/013/GaiUse217_01361#TEXT_GAIUSE217_01361_EYNZAHRSLAFYRSYN_000_002",
+      "hash": "1A3110FFF3B905A7",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/014/GaiUse301_01442#TEXT_GAIUSE301_01442_FLHAMINN_000_009",
+      "hash": "3F2E9084BDA63B1E",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/014/GaiUse301_01442#TEXT_GAIUSE301_01442_SEQ_01",
+      "hash": "189C815D73737799",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/014/GaiUse301_01442#TEXT_GAIUSE301_01442_TODO_00",
+      "hash": "73A446A32A17D7B9",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/015/HeaVna115_01594#TEXT_HEAVNA115_01594_SEQ_02",
+      "hash": "93730E1DDB9E5A1D",
+      "why": "The quest object is a flawless water crystal from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/015/HeaVna115_01594#TEXT_HEAVNA115_01594_SYSTEM_000_054",
+      "hash": "4DF98F48EDE6BCA8",
+      "why": "The quest object is a flawless water crystal from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/016/HeaVna707_01669#TEXT_HEAVNA707_01669_SEQ_05",
+      "hash": "F96B4C848BDE5FDC",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/021/HeaVnb103_02158#TEXT_HEAVNB103_02158_LUCIA_000_001",
+      "hash": "46A74C47110D46D5",
+      "why": "The egg is discussed as food in this scene, not as an inventory label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/021/HeaVnb105_02160#TEXT_HEAVNB105_02160_SEQ_04",
+      "hash": "F6E1BA54FBE21587",
+      "why": "The phrase describes a blade formed from aether, not the samurai weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/022/HeaVnc101_02231#TEXT_HEAVNC101_02231_SEQ_03",
+      "hash": "73C25798CF8F8085",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/022/HeaVnc106_02236#TEXT_HEAVNC106_02236_TOURCENET_000_048",
+      "hash": "F0E59DB5968A789D",
+      "why": "The phrase is an idiom, not an inventory label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/023/HeaVnf105_02355#TEXT_HEAVNF105_02355_ALPHINAUD_000_054",
+      "hash": "B1CBD73BF38ABCA7",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/023/HeaVng104_02359#TEXT_HEAVNG104_02359_SEQ_05",
+      "hash": "38B3012373C4F23D",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/024/StmBda125_02459#TEXT_STMBDA125_02459_MEFFRID_000_023",
+      "hash": "3C56193795DCA637",
+      "why": "The feather is a quest clue from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/024/StmBda125_02459#TEXT_STMBDA125_02459_SYSTEM_000_021",
+      "hash": "3B6ABA0D161E7476",
+      "why": "The feather is a quest clue from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/024/StmBda126_02460#TEXT_STMBDA126_02460_RAGANFRID_000_040",
+      "hash": "3E3FBE2AF220A315",
+      "why": "The phrase describes eye color, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/024/StmBda323_02499#TEXT_STMBDA323_02499_LYSE_000_085",
+      "hash": "204387D4CD850406",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_GOSETSU_000_100",
+      "hash": "A86B692CEF2856B4",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/025/StmBda416_02515#TEXT_STMBDA416_02515_GOSETSU_000_010",
+      "hash": "29FCD94B2889D047",
+      "why": "The phrase describes an approaching threat, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_A1_000_001",
+      "hash": "72F61335A76CC297",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/030/StmBdd103_03072#TEXT_STMBDD103_03072_ALISAIE_000_032",
+      "hash": "73180440982C41C6",
+      "why": "The phrase is an insult, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_ALISAIE_000_001",
+      "hash": "9E0D571B3DE91294",
+      "why": "The phrase is an insult, not an inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_SEQ_04",
+      "hash": "7101B24DFD31C9C7",
+      "why": "The phrase describes aetheric crystal material in the story, not an inventory label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_YSHTOLA_000_146",
+      "hash": "F5B6878DB274AF2E",
+      "why": "The phrase describes aetheric crystal material in the story, not an inventory label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/036/LucKmd112_03617#TEXT_LUCKMD112_03617_GUTHJON_000_042",
+      "hash": "551F4DDDBDF143A6",
+      "why": "The phrase means a final option, not the scholar weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/036/LucKme111_03640#TEXT_LUCKME111_03640_RHONRON_000_148",
+      "hash": "6453207E044017C5",
+      "why": "The worm is food in the scene, not a fishing tackle label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_TODO_02",
+      "hash": "E3E7550186F943DF",
+      "why": "The fangs are quest objects from EventItem, not the inventory material."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_URIANGER_000_030",
+      "hash": "30E89AB2CDAD5076",
+      "why": "The phrase describes a gift, not an inventory label."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_BAENSYNG_000_012",
+      "hash": "B5AB5E143D80F988",
+      "why": "The quest object is a fresh chicken egg from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_KYOKYOROON_000_021",
+      "hash": "0BAED30B68AEF246",
+      "why": "The quest object is a fresh chicken egg from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_02",
+      "hash": "BA288E36F3FDAC18",
+      "why": "The quest object is a fresh chicken egg from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_03",
+      "hash": "18A920A9D8A4A61F",
+      "why": "The quest object is a fresh chicken egg from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_TODO_01",
+      "hash": "872FF1FFCB1BA06E",
+      "why": "The quest object is a fresh chicken egg from EventItem, not the inventory ingredient."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_CEANA_000_000",
+      "hash": "6BFADDB1D7DA678A",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_HEDYN_000_011",
+      "hash": "81DF851D5AF280D3",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_HEDYN_000_013",
+      "hash": "1268B495720C6295",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_HEDYN_000_014",
+      "hash": "E76BC67BE9C788EB",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_HEDYN_000_033",
+      "hash": "1532464D74487C14",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_SEQ_00",
+      "hash": "86B20BA473FB8430",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_SEQ_01",
+      "hash": "43A79D21D16920DA",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_SEQ_03",
+      "hash": "91E492E5889AC95E",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUsc307_03870#TEXT_XXAUSC307_03870_TODO_02",
+      "hash": "F072BE6B4E16544B",
+      "why": "The crystal is a story material or quest item, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUse119_03878#TEXT_XXAUSE119_03878_MINFILIA_000_023",
+      "hash": "20928E4C040FCA32",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUse211_03882#TEXT_XXAUSE211_03882_YUGIRI_000_025",
+      "hash": "08B42F4872BF1260",
+      "why": "Seventh Heaven names the tavern here; the established Polish name is retained."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_SEQ_03",
+      "hash": "AEEB178BE1C48EFC",
+      "why": "The crystals are aetheric material in the story, not the unrelated inventory item."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_A1_000_001",
+      "hash": "3C5F779C651D3A27",
+      "why": "Wild rose is the password in this scene, not the weapon."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_GRAHATIA_000_034",
+      "hash": "40D4E482D7F5DBD5",
+      "why": "The quest object is a concentrated lightning shard from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_GRAHATIA_000_038",
+      "hash": "E1184F3E7FEA6CB8",
+      "why": "The quest object is a concentrated lightning shard from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_GRAHATIA_000_051",
+      "hash": "4108015355F884DB",
+      "why": "The quest object is a concentrated lightning shard from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_03",
+      "hash": "FBE625266AFE44DF",
+      "why": "The quest object is a concentrated lightning shard from EventItem, not the crafting crystal."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_04",
+      "hash": "985A1583E7C86F5E",
+      "why": "The quest object is a concentrated lightning shard from EventItem, not the crafting crystal."
+    }
+  ]
+}
