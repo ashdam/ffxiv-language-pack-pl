@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 48912,
-  "total": 736339,
-  "percent": 6.6,
-  "chars": 58291934,
-  "unresolved": 5404,
+  "translated": 87724,
+  "total": 737718,
+  "percent": 11.9,
+  "chars": 58484477,
+  "unresolved": 5455,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -231,7 +231,7 @@
     {
       "expansion": "Endwalker",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 20102,
       "total": 20102
     },
     {
@@ -285,7 +285,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 17283,
       "total": 17283
     },
     {
@@ -357,7 +357,7 @@
     {
       "expansion": null,
       "content": "Duty Finder",
-      "translated": 0,
+      "translated": 36,
       "total": 700
     },
     {
@@ -399,8 +399,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 2,
-      "total": 377111
+      "translated": 1393,
+      "total": 378490
     }
   ],
   "excludedFromLocalization": [
