@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_SEQ_02", "hash": "D70D2A5848F0CD43", "target": "Y'shtola zdradza ci hasło potrzebne do rozłożenia golemów na części. Ustaw tryb czatu na <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> i za pomocą klawiatury zwykłej lub ekranowej powiedz każdemu golemowi, że chcesz zagrać w „Noughts and Crosses”." },
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_SEQ_03", "hash": "7C67AEEC73B0B77A", "target": "Wszystkie golemy w przydzielonym ci rejonie zostały zniszczone. Zanieś Slowfixowi dobrą nowinę." },
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_SEQ_04", "hash": "C7EF52D8D9E7A6FC", "target": "Zdajesz Slowfixowi sprawę z wykonania zadania. Goblin cieszy się, że golemy nie będą już przeszkadzać w rozbudowie osady." },
-    { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_TODO_00", "hash": "088BB00E7756A7CA", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_TODO_00", "hash": "088BB00E7756A7CA", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_TODO_01", "hash": "417E171095D3990E", "target": "W trybie czatu <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> wpisać „Noughts and Crosses”, aby zniszczyć golemy" },
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_TODO_02", "hash": "B6C0E72D19BB4A95", "target": "Zdać sprawę Slowfixowi" },
     { "gameKey": "quest/016/HeaVna607_01656#TEXT_HEAVNA607_01656_SLOWFIX_000_000", "hash": "A8D31F14DFA8522B", "target": "Pszsz... Szkoo... Wierzchniaki zgadzają się pomóc? Dobrze! Slowfix mówi, co wierzchniaki mają zrobić." },

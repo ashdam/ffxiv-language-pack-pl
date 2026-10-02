@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_02", "hash": "A8084B43D0AEBCE9", "target": "Przed wyruszeniem do Zenith Alphinaud nalega, by pożegnać Arcywieszczkę. Porozmawiaj z Kan<-->E<-->Senną i podziękuj jej za nieocenioną pomoc." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_03", "hash": "AFB68CF5A3F574D3", "target": "Wraz z Alphinaudem dziękujesz Kan<-->E<-->Sennie i Kuplo Koppowi, po czym serdecznie się z nimi żegnasz. Przed odejściem Arcywieszczka ostrzega cię jednak przed niepokojem dręczącym Estiniena. Choć od dawna żywisz podobne obawy, pozostaje ci tylko skinąć głową. Wróć do eterytu w Moghome i powiedz Moghanowi, że można wyruszać." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_04", "hash": "74E6051A42806657", "target": "Powiadamiasz Moghana, że możecie kontynuować podróż. Zenith i wielki wyrm Hraesvelgr czekają..." },
-    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_00", "hash": "0EB6C74EAC526AE7", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_00", "hash": "0EB6C74EAC526AE7", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_01", "hash": "05ADB9E272A38F71", "target": "Porozmawiać z Kan<-->E<-->Senną" },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_02", "hash": "952FF5F89EA3DA86", "target": "Porozmawiać z Moghanem" },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_MOGHAN_000_000", "hash": "3B153F188608CCEA", "target": "No cóż, hm... pewnie chcecie już ruszać! ...Czy wspomniałem, że twój przyjaciel cię szuka, kupo? Jeśli nie: Alphinaud cię szuka!" },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_SEQ_00", "hash": "8FA11BF0E964FD85", "target": "Lyse nie zamierza pozwolić, by ta okazja przeszła ci koło nosa." },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_00", "hash": "FCB9A54E474A1BC1", "target": "Złożyć meldunek Raubahnowi" },
-    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_01", "hash": "FB5AE7AA6849E0D4", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_01", "hash": "FB5AE7AA6849E0D4", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_MNAAGO_000_001", "hash": "2B4C94E9DEB108D6", "target": "Conrad zwierzył mi się, że rozważa wyznaczenie Lyse na swoją następczynię, więc nie spadło to na mnie jak grom z jasnego nieba. Owszem, byłam zaskoczona, ale nigdy nie wątpiłam w jego osąd. Nikt z nas nie wątpił. Skoro uznał ją za najlepszą kandydatkę, to nią jest." },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_ALISAIE_000_005", "hash": "7BB55FB96D79C51D", "target": "(Kiedy <italic(1)>Lyse<italic(0)> została przywódczynią ruchu oporu? To... to... Hm. Chyba i za to powinniśmy podziękować Hienowi.)" },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_ALPHINAUD_000_010", "hash": "A2580038051EEDC1", "target": "Rozumiem obawy M'naago. Gdyby tak szybko po śmierci Conrada stracili kolejnego przywódcę, byłby to dla nich druzgocący cios." },

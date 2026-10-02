@@ -9,7 +9,7 @@
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_04", "hash": "D05490C6EF69E124", "target": "Wracasz do Wschodzących Kamieni, a Alphinaud przedstawia propozycję utworzenia nowej organizacji. Dołącz do zdeterminowanego Dziedzica, gdy stara się wypełnić rolę strażnika Eorzei." },
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_00", "hash": "0C07A391CF12BEE7", "target": "Porozmawiać z Yozanem" },
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_01", "hash": "3BD7C9CFC2A1330F", "target": "Spotkać się z Hoarym Boulderem na wschód od Myta Upiora" },
-    { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_02", "hash": "FBCE605932D531F1", "target": "Porozmawiać z Alphinaudem we Wschodzących Kamieniach" },
+    { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_02", "hash": "FBCE605932D531F1", "target": "Porozmawiać z postacią Alphinaud we Wschodzących Kamieniach" },
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SYSTEM_100_000", "hash": "B975D2463573C0B5", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_000", "hash": "E9801E6D930E6BD5", "target": "Skoro sprawa Ramuha została na razie zamknięta, chcę ci coś pokazać, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_001", "hash": "68215D259ECF9621", "target": "To list z podziękowaniami, podpisany przez przywódców Sojuszu Eorzejskiego, uznający niestrudzoną służbę Dziedziców dla krainy." },

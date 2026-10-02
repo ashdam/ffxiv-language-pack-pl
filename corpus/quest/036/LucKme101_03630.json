@@ -11,7 +11,7 @@
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_00", "hash": "A8777F07B1631735", "target": "Udać się do Ocularu" },
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_01", "hash": "81EE5A5E5C975379", "target": "Porozmawiać z Alphinaudem w Wright" },
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_02", "hash": "56B0F6E3F6C7BFB0", "target": "Porozmawiać z ludźmi po drodze do Gatetown" },
-    { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_03", "hash": "19551ED6E8154D39", "target": "Porozmawiać z Thancredem" },
+    { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_TODO_03", "hash": "19551ED6E8154D39", "target": "Porozmawiać z towarzyszem Thancred" },
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_000", "hash": "E7E869951ABD3B6F", "target": "Ach, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,2)>. Ufam, że wypoczynek był przyjemny." },
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_001", "hash": "271943986DCCE230", "target": "Podczas odpoczynku w pokoju nadeszła wiadomość od Egzarchy. Prosi o przybycie do Ocularu przy najbliższej okazji." },
     { "gameKey": "quest/036/LucKme101_03630#TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_002", "hash": "678D4EAFA24D0AA2", "target": "...I jeszcze jedno, <if(gnum4,pani,panie)>. Dokądkolwiek zaprowadzą <if(gnum4,panią,pana)> obowiązki, będę się modlić o bezpieczny powrót. Niech noc <if(gnum4,panią,pana)> strzeże." },

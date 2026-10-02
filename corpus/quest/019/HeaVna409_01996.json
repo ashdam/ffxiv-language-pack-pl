@@ -7,7 +7,7 @@
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_SEQ_02", "hash": "D2636909498DF4BF", "target": "Rozumiesz już cel przysług, o które prosił Gibrillont: Kundel to kruczowłose dziecko o rubinowych oczach, urodzone ze związku elezeńskiego szlachcica i Hyurki. Reakcja zagadniętej przez ciebie mieszkanki Brume potwierdza to przypuszczenie. Podziel się odkryciem z Alphinaudem w Forgotten Knight." },
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_SEQ_03", "hash": "EC37B5396340D8AD", "target": "Nadal nie wiesz, gdzie przebywa Kundel, ale Alphinaud jest pewien, że znajomość jej wyglądu bardzo ułatwi poszukiwania." },
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_TODO_00", "hash": "3F349BF94873EA6F", "target": "Porozmawiać z Brume starveling" },
-    { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_TODO_01", "hash": "1ED1E5F156DA80B0", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_TODO_01", "hash": "1ED1E5F156DA80B0", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_GIBRILLONT_000_000", "hash": "D163EBC025F9BA4D", "target": "Niektóre więzi są silniejsze niż więzy krwi... lecz krew wciąż nas określa─i ostatecznie dzieli." },
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_GIBRILLONT_000_001", "hash": "3C5E144A60CDDCBB", "target": "To dziedzictwo po rodzicach, <split(<string(gstr1)>, ,1)>. Nie uciekniemy przed nim, choćbyśmy bardzo się starali." },
     { "gameKey": "quest/019/HeaVna409_01996#TEXT_HEAVNA409_01996_GIBRILLONT_000_002", "hash": "487DAB9879637E31", "target": "Kundel i jej szczenięta postanowiły więc przyjąć swoje─ogłosić je całemu światu." },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_SEQ_00", "hash": "F1781ECDB3ECF9BF", "target": "Alisaie rozważa, jak zorganizować podróż na Daleki Wschód." },
     { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_TODO_00", "hash": "39780F9753AAD531", "target": "Porozmawiać z Alphinaudem w Limsa Lominsa" },
-    { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_TODO_01", "hash": "A47C99E0DED9D499", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_TODO_01", "hash": "A47C99E0DED9D499", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_STORMOFFICER_100_001", "hash": "D6D5E6979B40B259", "target": "Na Llymlaen, jak znaleźli Reach? Myślałem, że iluzje są nie do przeniknięcia." },
     { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_SERPENTOFFICER_100_005", "hash": "FA5159BEB7C02936", "target": "Poprosiłem Stillglade Fane o przysłanie wszystkich dostępnych zaklinaczy, nawet niedoświadczonych, żeby pomogli rannym. Oby wystarczyło." },
     { "gameKey": "quest/024/StmBda137_02467#TEXT_STMBDA137_02467_ALPHINAUD_000_001", "hash": "8DC26F8D3F0332B1", "target": "To, czego jedna osoba nie zdoła dokonać, może się udać wielu." },

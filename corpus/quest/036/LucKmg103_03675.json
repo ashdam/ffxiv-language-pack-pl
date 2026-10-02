@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_SEQ_00", "hash": "02F8233241BFC3BB", "target": "Alphinaud wygląda, jakby zaraz miał cię zostawić w tyle." },
-    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_00", "hash": "7245D7E861B06520", "target": "Wrócić do Ocular w Crystarium" },
+    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_00", "hash": "7245D7E861B06520", "target": "Wrócić do sali Ocular w Crystarium" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_01", "hash": "64016F1C233C6004", "target": "Porozmawiać z Beq Luggiem" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_02", "hash": "9A8889CA87AE8EAA", "target": "Porozmawiać z Beq Luggiem w Inn at Journey's Head" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_03", "hash": "17ABE76A0BEE8616", "target": "Podać pacjentom tonik duszy" },

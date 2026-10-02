@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_SEQ_00", "hash": "3BE5C7EDEAE29BAF", "target": "Hancock wydaje się bardzo z siebie zadowolony." },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_SEQ_01", "hash": "D70ECEF105FE6E02", "target": "Porozmawiać z Hancockiem" },
-    { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_SEQ_02", "hash": "0F30F7C942AF550B", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_SEQ_02", "hash": "0F30F7C942AF550B", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_TODO_00", "hash": "4C83D95A6A970FBE", "target": "Podążać za Hancockiem" },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_TODO_01", "hash": "84B6C6391B76523D", "target": "Porozmawiać z Hancockiem" },
-    { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_TODO_02", "hash": "4260577931497E68", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_TODO_02", "hash": "4260577931497E68", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_LYSE_000_001", "hash": "C2A412D55D5ABBED", "target": "Czyli w tym budynku roi się od Garleańczyków..." },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_ALISAIE_000_005", "hash": "589007D525F053E1", "target": "Niektórzy uznaliby przystawanie przed bramą konsulatu wrogiego imperium za nierozsądne." },
     { "gameKey": "quest/024/StmBda203_02472#TEXT_STMBDA203_02472_TATARU_000_010", "hash": "A4A4E3FD49FEF915", "target": "Niebezpieczeństwo, emocje. Intrygi! Ojej!" },

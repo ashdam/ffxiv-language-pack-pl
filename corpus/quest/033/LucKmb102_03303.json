@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SEQ_00", "hash": "F370D9421ABD9477", "target": "Egzarcha chętnie wyjaśni szczegóły swojej propozycji." },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_00", "hash": "02E54ED25A7AEA6C", "target": "Porozmawiać z Lyną" },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_00", "hash": "02E54ED25A7AEA6C", "target": "Porozmawiać z dowódczynią Lyna" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_01", "hash": "0963418C44C75FFA", "target": "Porozmawiać z Katliss" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_02", "hash": "CE17DC737E05AB88", "target": "Porozmawiać z Chessamile" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_03", "hash": "3656D3C75611DDAA", "target": "Wypić fiolkę pocałunku księcia na oczach Chessamile" },

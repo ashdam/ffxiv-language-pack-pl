@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_SEQ_00", "hash": "95D95274D6621F6B", "target": "Alphinaud chce odnaleźć Estiniena." },
     { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_TODO_00", "hash": "4735D8ABAC0F0044", "target": "Porozmawiać z Alphinaudem w Ishgardzie" },
-    { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_TODO_01", "hash": "ECE114F1E9E83511", "target": "Porozmawiać z Lucią" },
+    { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_TODO_01", "hash": "ECE114F1E9E83511", "target": "Porozmawiać z dowódczynią Lucia" },
     { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_TODO_02", "hash": "953F2ECE397126CC", "target": "Porozmawiać z Alisaie na lądowisku statków powietrznych" },
     { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_TODO_03", "hash": "4BF40082484C95E1", "target": "Porozmawiać z Alphinaudem w Delta Quadrant" },
     { "gameKey": "quest/040/LucKmk102_04059#TEXT_LUCKMK102_04059_ALISAIE_000_000", "hash": "D5420ECF9248BDFF", "target": "Mam wrażenie, że Arenvald martwi się znacznie bardziej, niż daje po sobie poznać. Na pewno ucieszył się, że Alphinaud go odprowadził." },

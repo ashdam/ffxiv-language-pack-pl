@@ -13,7 +13,7 @@
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TODO_01", "hash": "8C1A00E37C345A0B", "target": "Porozmawiać z Yugiri" },
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TODO_02", "hash": "4B6FD2544CC98D8E", "target": "Wypytać mieszkańców Silver Bazaar" },
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TODO_03", "hash": "D8A70F072F56BECC", "target": "Odszukać Meriel" },
-    { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TODO_04", "hash": "B4A716422E37647C", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TODO_04", "hash": "B4A716422E37647C", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TATARU_000_000", "hash": "DED95F41A129AEF7", "target": "Generał Raubahn twierdzi, że być może odkryli, gdzie jest sułtanka!" },
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_TATARU_000_001", "hash": "07832D5D7E35D526", "target": "Chce, żebyście─<if(gnum4,oboje,obaj)>─natychmiast udali się do Przebudzonych Piasków i pomogli w śledztwie." },
     { "gameKey": "quest/016/HeaVna329_01630#TEXT_HEAVNA329_01630_ALPHINAUD_000_002", "hash": "9E85497349DD36D3", "target": "Chodź, <split(<string(gstr1)>, ,1)>─choć los Ishgardu jest pilną sprawą, nasza obecność tutaj nie przyspieszy budowy manacuttera. Wróćmy do ogarniętego niepokojem Thanalan i pomóżmy, jak możemy." },

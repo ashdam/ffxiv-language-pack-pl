@@ -11,7 +11,7 @@
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_TODO_00", "hash": "1F4974A5789F2C99", "target": "Przeszukać wskazane miejsce" },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_TODO_01", "hash": "44FD83AF7FD80A46", "target": "Wejść do Qitana Ravel" },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_TODO_02", "hash": "015AB7449DE27683", "target": "Wejść do Qitana Ravel" },
-    { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_TODO_03", "hash": "53E4BE4EB8978597", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_TODO_03", "hash": "53E4BE4EB8978597", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_YSHTOLA_000_000", "hash": "FD80CE2776DDBAEC", "target": "Powiedz mi, co się wydarzyło od naszego spotkania z Eulmorańczykami?" },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_THANCRED_000_005", "hash": "85C092822D36BA0C", "target": "Choć z trudem przechodzi mi to przez gardło... cieszę się, że Emet-Selch tu był. " },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_THANCRED_000_006", "hash": "B70ACD3DD578BD15", "target": "Pozostaje nam mieć nadzieję, że Y'shtola nigdy więcej nie zrobi nic tak nierozważnego." },

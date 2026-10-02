@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_SEQ_00", "hash": "6C3FBDBB6C632061", "target": "Krile widzi determinację w twoich oczach i domyśla się, dokąd wzywa cię obowiązek." },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "Porozmawiać z Kryształowym Egzarchą w Ocular" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "Porozmawiać z Kryształowym Egzarchą w sali Ocular" },
     { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_000", "hash": "213CBF0265FDFC99", "target": "Rozumiem, że chcesz wrócić na Pierwszy?" },
     { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_001", "hash": "281703C828C2B646", "target": "W takim razie opowiedz pozostałym o ostatnich wydarzeniach tutaj, w Źródle. Przede wszystkim o powrocie Zenosa i pracach nad nową Bronią Ultima. O ciała mogą być spokojni: mistrzyni Matoya i ja zrobimy, co w naszej mocy, by utrzymać ich eter w stabilnym stanie." },
     { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_002", "hash": "73FA468BD786045C", "target": "Bezpiecznej podróży, <split(<string(gstr1)>, ,1)>. Mam nadzieję wkrótce zobaczyć ciebie i pozostałych Dziedziców." },

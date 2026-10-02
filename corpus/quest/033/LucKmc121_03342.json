@@ -3,9 +3,9 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_SEQ_00", "hash": "7038A687DF972572", "target": "Czujesz, że coś trapi Y'shtolę." },
-    { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_00", "hash": "1476680BBAC3686A", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_00", "hash": "1476680BBAC3686A", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_01", "hash": "3992ABCE94700F67", "target": "Poczekać przy wejściu do Slitherbough" },
-    { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_02", "hash": "558AB4FA8BD8FA45", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_02", "hash": "558AB4FA8BD8FA45", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_TODO_03", "hash": "7F22211A4BB5120B", "target": "Porozmawiać z zarządcą pokoi w Pendants" },
     { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_THANCRED_000_000", "hash": "D7CFCB4AF40D40D3", "target": "To, co zrobiła <italic(1)>mistrzyni Matoya<italic(0)>, było całkowicie nierozważne... Ale gdyby nie ona, wielu Błogosławionych Nocy by tu nie było." },
     { "gameKey": "quest/033/LucKmc121_03342#TEXT_LUCKMC121_03342_RYNE_000_005", "hash": "43A2FF9A9EAAD9C5", "target": "Błogosławieni dopiero otrząsnęli się po spotkaniu z Eulmorańczykami. Thancred i pozostali uznali, że powinniśmy zostać jeszcze trochę i upewnić się, że nic im nie jest." },

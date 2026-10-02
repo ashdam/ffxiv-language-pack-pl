@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_SEQ_00", "hash": "507FA19DFC55F01B", "target": "Y'shtola wygląda na bardzo zadowoloną z siebie. Dopiero się okaże, czy przyniesie dobre, czy złe wieści." },
-    { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_TODO_00", "hash": "A4FB733E028313BD", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_TODO_00", "hash": "A4FB733E028313BD", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_TODO_01", "hash": "5E156CDC7F8FB55B", "target": "Odszukać strażnika Błogosławionych" },
     { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_TODO_02", "hash": "9E9435E1FED40273", "target": "Pomóc strażnikowi Błogosławionych" },
     { "gameKey": "quest/033/LucKmc108_03329#TEXT_LUCKMC108_03329_TODO_03", "hash": "0CFD9E8A24B08760", "target": "Zabrać zapasy ze skrzyń na posterunku" },

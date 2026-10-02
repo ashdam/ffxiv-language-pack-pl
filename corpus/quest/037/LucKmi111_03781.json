@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_SEQ_00", "hash": "92C0786203F76498", "target": "Urianger spogląda na ciebie z łagodnym uśmiechem." },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_00", "hash": "B011E63A788B0C3B", "target": "Porozmawiać z Y'shtolą w Slitherbough" },
-    { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_01", "hash": "F0E1D60D450A922A", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_01", "hash": "F0E1D60D450A922A", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_02", "hash": "B3D289FB41388789", "target": "Porozmawiać z Magnusem w Twine" },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_03", "hash": "A6C90D404981D388", "target": "Porozmawiać z Ryne w Crystarium" },
-    { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_04", "hash": "EB978044CDA4CBC1", "target": "Porozmawiać z Thancredem" },
+    { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_TODO_04", "hash": "EB978044CDA4CBC1", "target": "Porozmawiać z towarzyszem Thancred" },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_URIANGER_000_000", "hash": "358AABDA8FFA56C3", "target": "Jeśli zamierzasz kontynuować swą wędrówkę, pozwól, że wskażę ci Slitherbough jako następny przystanek." },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_URIANGER_000_001", "hash": "CE789A45AD948EBD", "target": "Porządkowanie domostwa rzadko bywa lekką pracą, a sądzę, że Y'shtola ma jej więcej niż inni. Dodatkowa para rąk z pewnością jej nie zawadzi." },
     { "gameKey": "quest/037/LucKmi111_03781#TEXT_LUCKMI111_03781_URIANGER_000_010", "hash": "2981C89C8063FC88", "target": "Zważywszy, że ów schemat żywiołów dotyczy wyłącznie Źródła, najlepiej byłoby go usunąć." },

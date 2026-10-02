@@ -8,7 +8,7 @@
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_SEQ_03", "hash": "DCCCE06015365204", "target": "Według węzła przewód materii przeniesie cię do Beta Quadrant. Gdy zechcesz ruszyć dalej, uruchom allagański transporter na środku przewodu." },
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_SEQ_04", "hash": "B2C333F0C31D126F", "target": "Korzystasz z przewodu materii i zgodnie z obietnicą docierasz do Beta Quadrant. Poproś węzeł o dalsze wskazówki." },
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_SEQ_05", "hash": "288A065FB8FEEF72", "target": "Jak na maszynę węzeł okazuje zaskakująco wiele zdziwienia, że przewód wciąż działa po ponad pięciu tysiącach lat bez użycia." },
-    { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_TODO_00", "hash": "F3BADFB8A428B498", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_TODO_00", "hash": "F3BADFB8A428B498", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_TODO_01", "hash": "8C0D90DF7BF95F0F", "target": "Porozmawiać z guidance node przy Matter Conduit II-III" },
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_TODO_02", "hash": "915DFC8B2B2B7098", "target": "Użyć allagańskiego teleportera, by dotrzeć do Beta Quadrant" },
     { "gameKey": "quest/016/HeaVna703_01665#TEXT_HEAVNA703_01665_TODO_03", "hash": "71EF22141BDC085B", "target": "Porozmawiać z guidance node przy Matter Conduit III-II" },

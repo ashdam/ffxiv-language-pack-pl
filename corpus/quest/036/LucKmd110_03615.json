@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_SEQ_00", "hash": "80219EF9EB3F7B5A", "target": "Jeryk może pożałować swojej następnej decyzji." },
     { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_TODO_00", "hash": "7FCC25ED112F54D4", "target": "Porozmawiać z Thaffem" },
-    { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_TODO_01", "hash": "611B3E516436D525", "target": "Porozmawiać z Uriangerem" },
+    { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_TODO_01", "hash": "611B3E516436D525", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_TODO_02", "hash": "2348DBD2765CB056", "target": "Poszukać Thancreda" },
     { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_MAGNUS_000_000", "hash": "B1982B8E56D00A66", "target": "Mówiłem, żebyście odeszli!" },
     { "gameKey": "quest/036/LucKmd110_03615#TEXT_LUCKMD110_03615_THAFFE_000_005", "hash": "D24BC5F6250C11C6", "target": "Przykro mi, ale chyba najlepiej zapomnieć o Talosie." },

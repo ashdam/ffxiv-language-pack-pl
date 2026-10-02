@@ -11,7 +11,7 @@
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_TODO_00", "hash": "AF382B7C53EF5944", "target": "Porozmawiać z brązowoskórą pięknością" },
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_TODO_01", "hash": "ED3BD992E4B84109", "target": "Skosztować uczty" },
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_TODO_02", "hash": "90350583518C572E", "target": "Porozmawiać z dawnymi członkami Kompanii Bohaterów" },
-    { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_TODO_03", "hash": "40464AF143D67563", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_TODO_03", "hash": "40464AF143D67563", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_SYSTEM_100_000", "hash": "1D15A6168FEC6BD3", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_YSHTOLA_000_000", "hash": "EC9C0FC353442E2A", "target": "...Wyglądasz jak <if(gnum4,kobieta\\, która była w siódmym piekle i wróciła,człowiek\\, który był w siódmym piekle i wrócił)>." },
     { "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_YSHTOLA_000_001", "hash": "D7040C52CC07589D", "target": "Żeby gość miał dostarczać wiktuały na ucztę wydaną na <if(gnum4,jej,jego)> własną cześć... I to gdy cień Titana wisi nad nami wszystkimi! Nie do wiary." },

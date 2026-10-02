@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_SEQ_02", "hash": "B860C2751D41E2E5", "target": "Moogle znika z oczu. Rozejrzyj się i spróbuj wypatrzyć przestraszone stworzenie." },
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_SEQ_03", "hash": "33CA386464433ED8", "target": "Rozglądasz się, lecz nie znajdujesz śladu nieuchwytnego moogle'a. Wróć do Alphinauda i powiadom go o niepowodzeniu." },
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_SEQ_04", "hash": "F0A2425E624E05CF", "target": "Powiadamiasz Alphinauda, że nie udało się odnaleźć moogle'a. Alphinaud zaczyna się zastanawiać, czy stworzenie w ogóle istniało. Może ukrywa się za pomocą magii...?" },
-    { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_TODO_00", "hash": "7D48A1232ED9ED36", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_TODO_00", "hash": "7D48A1232ED9ED36", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_TODO_01", "hash": "96814C97F1E59E1E", "target": "Poszukać moogle'a we wskazanych miejscach" },
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_TODO_02", "hash": "5A0D4D1C43554715", "target": "Zdać sprawę Alphinaudowi" },
     { "gameKey": "quest/016/HeaVna317_01618#TEXT_HEAVNA317_01618_ALPHINAUD_000_000", "hash": "A57B9E32A1580B92", "target": "Dotarliśmy na szczyt góry, lecz pozostaje pytanie, jak odnaleźć samego Hraesvelgra..." },

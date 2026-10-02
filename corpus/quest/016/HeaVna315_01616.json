@@ -15,7 +15,7 @@
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_TODO_02", "hash": "EB44E6BAFC89E3A1", "target": "Zmierzyć się z Ravaną w Thok ast Thok (Hard)" },
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_TODO_03", "hash": "FFB8498F29DA6BB5", "target": "Zmierzyć się z Ravaną w Thok ast Thok (Hard)" },
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_TODO_04", "hash": "EC4E944548A32FFB", "target": "Porozmawiać z Ysayle" },
-    { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_TODO_05", "hash": "5A2127977F02FD7A", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_TODO_05", "hash": "5A2127977F02FD7A", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_ICEHEART_100_000", "hash": "184F0C21C85A5498", "target": "Wszystko gotowe?" },
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_ICEHEART_000_000", "hash": "4E6BA990A2C1206E", "target": "Zatrzymaj się tutaj, <split(<string(gstr1)>, ,1)>. Gdy Gnath znów przyjdą, nie będziemy stawiać oporu." },
     { "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_GNATHSOLDIER01616_000_001", "hash": "753ABD0A10EA0ACB", "target": "Poddajcie się, intruzi! Nie ma ucieczki!" },

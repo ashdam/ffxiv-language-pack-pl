@@ -9,7 +9,7 @@
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_SEQ_04", "hash": "EC54811852E1BDF3", "target": "Po rozmowie z Alphinaudem postanawiasz zrobić wszystko, co w twojej mocy, by pomóc przyjaciołom i sprzymierzeńcom. Jak jednak wyczerpani obrońcy Świętej Stolicy mają stawić czoła całej potędze Hordy...?" },
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_TODO_00", "hash": "B8522C270CD90AA7", "target": "Porozmawiać z Tataru przed dworem Fortempsów" },
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_TODO_01", "hash": "9E477F4F4DFC40F1", "target": "Wejść do dworu Fortempsów" },
-    { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_TODO_02", "hash": "61AEB42CA356A64C", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_TODO_02", "hash": "61AEB42CA356A64C", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_ALPHINAUD_000_000", "hash": "7371E41A00C321EF", "target": "Tataru? ...Tak, generał Raubahn jest już bezpieczny." },
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_ALPHINAUD_000_001", "hash": "CB4780942641579E", "target": "Co? ...<italic(1)>Kolejny atak<italic(0)>? Dobrze. Wracamy natychmiast. Powiadom hrabiego, że przybywamy." },
     { "gameKey": "quest/016/HeaVna301_01602#TEXT_HEAVNA301_01602_ALPHINAUD_000_002", "hash": "AB4DC988A772B2AF", "target": "Wygląda na to, że czeka nas kolejny kryzys. Drawianie szykują się do wznowienia oblężenia Świętej Stolicy." },

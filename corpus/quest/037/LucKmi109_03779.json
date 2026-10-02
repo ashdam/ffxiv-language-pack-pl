@@ -8,7 +8,7 @@
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_02", "hash": "5483D5AFF90E4E91", "target": "Poszukać Halrica" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_03", "hash": "06FF0F3398052339", "target": "Porozmawiać z Alisaie" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_04", "hash": "F44347332C8E0CE0", "target": "Udać się do Eulmore" },
-    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_05", "hash": "F2A76EEBD8E13865", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_05", "hash": "F2A76EEBD8E13865", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALPHINAUD_000_000", "hash": "8261727324F9BD8A", "target": "W takich chwilach trudno znaleźć słowa...<br>...Czy wszystko w porządku, <if(gnum4,przyjaciółko,przyjacielu)>?" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_005", "hash": "7E929FD7B635D52F", "target": "Świetnie się <if(gnum4,spisałaś,spisałeś)>, <split(<string(gstr1)>, ,1)>─ty i Egzarcha..." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_THANCRED_000_010", "hash": "32DF1A830D6414F8", "target": "Niedługo po twoim odejściu zauważyliśmy, że szeregi wroga przestały się odnawiać─zapewne dostrzegł twoją nieobecność. Rozprawiliśmy się więc z resztą i przybyliśmy najszybciej, jak mogliśmy." },

@@ -3,10 +3,10 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_SEQ_00", "hash": "33FFD89887DDEB3B", "target": "Pora wracać do Crystarium, ale Y'shtola nie wygląda na gotową do drogi." },
-    { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_00", "hash": "2E407B0C43920EB5", "target": "Porozmawiać z Runarem w Slitherbough" },
+    { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_00", "hash": "2E407B0C43920EB5", "target": "Porozmawiać z postacią Runar w Slitherbough" },
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_01", "hash": "AF9EC3938E5113D9", "target": "Porozmawiać z Asgeirem i zdobyć sfatygowaną miotłę" },
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_02", "hash": "E5AAB8A0A29E045D", "target": "Zanieść sfatygowaną miotłę Y'shtoli" },
-    { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_03", "hash": "5FB169980BAA8299", "target": "Porozmawiać z Thancredem" },
+    { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_TODO_03", "hash": "5FB169980BAA8299", "target": "Porozmawiać z towarzyszem Thancred" },
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_ALMET_000_000", "hash": "B39CE72A421A2226", "target": "Dopóki my, Viis, żyjemy, zachowamy prawdę o waszych czynach." },
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_UIMET_000_001", "hash": "5F68C3FBF4BA5EC8", "target": "Znamy się krótko, a mam wrażenie, jakby za nami było całe życie pełne przygód. Nie zapomnimy ich." },
     { "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_CYMET_000_002", "hash": "C3E5DDF0AAB5600F", "target": "Może powinnyśmy namalować nowe malowidło ku waszej czci, by zachować pamięć dla przyszłych pokoleń. Co sądzicie?" },

@@ -7,7 +7,7 @@
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_02", "hash": "85034C7DCFC41EAF", "target": "Po rozmowach z rozmaitymi mieszkańcami masz o wiele wyraźniejszy obraz inkwizytora. Podziel się ustaleniami z Alphinaudem, który czeka na ciebie na placu." },
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_03", "hash": "E2F37E2A4B96F991", "target": "Alphinaud podejrzewa, że inkwizytor może mieć ukryte zamiary, które wyjdą na jaw, jeśli przejrzycie zebrane świadectwa..." },
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_TODO_00", "hash": "9A6D721823296692", "target": "Wypytać mieszkańców Placówki Whitebrim" },
-    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_TODO_01", "hash": "E3F69FEB7B5EB554", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_TODO_01", "hash": "E3F69FEB7B5EB554", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_000", "hash": "214072FDB01E488D", "target": "Zanim przekonamy lorda Drillemonta, by nam pomógł, chyba musimy przekonać inkwizytora Guillaime, że nie jesteśmy jego wrogami. Tylko jak się do tego zabrać...?" },
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_001", "hash": "48626C8D9EC6B9E3", "target": "Wiemy o zacnym inkwizytorze niewiele albo i nic, choć jest w Coerthas postacią tak wybitną. Może dowiemy się więcej, rozmawiając z ludźmi z Placówki Whitebrim." },
     { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_002", "hash": "4B9FEAB4C01B927A", "target": "Podziel się ustaleniami z Alphinaudem na placu. Jestem pewien, że on ułoży z tego jakąś strategię." },

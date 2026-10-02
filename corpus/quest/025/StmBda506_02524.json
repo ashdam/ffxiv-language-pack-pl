@@ -15,7 +15,7 @@
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_TODO_02", "hash": "5D2B0A76695926B9", "target": "Porozmawiać z kapitanem łodzi Błękitnych" },
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_TODO_03", "hash": "32D404F007BAD556", "target": "Wejść do Doma Castle" },
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_TODO_04", "hash": "9986D9335C3D207B", "target": "Wejść do Doma Castle" },
-    { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_TODO_05", "hash": "E8124C0C3E4AA035", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_TODO_05", "hash": "E8124C0C3E4AA035", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_ALPHINAUD_000_000", "hash": "44573A33F982247B", "target": "Dzień...\\<ziewa>...dobry. Mam nadzieję, że udało ci się dobrze wyspać─a przynajmniej lepiej niż mnie. Chyba zdrzemnąłem się w środku czegoś ważnego, lecz wasza zabawa z lordem Hienem i Gosetsu wyrwała mnie z niespokojnego snu. Wróciłem więc do łóżka." },
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_ALPHINAUD_000_001", "hash": "EBC6ABE57F40A1E0", "target": "Alisaie czuje się znacznie gorzej niż my, ale na pewno dojdzie do siebie─o ile nie przypomnisz jej tamtego widoku." },
     { "gameKey": "quest/025/StmBda506_02524#TEXT_STMBDA506_02524_HIEN_000_020", "hash": "C38121D8C04CA559", "target": "Oto <if(gnum4,ona,on)>. Mam nadzieję, że wczorajszy wieczór nie dał ci się we znaki." },

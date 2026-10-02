@@ -17,7 +17,7 @@
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TODO_03", "hash": "B034A080308747E8", "target": "Wejść do Keeper of the Lake" },
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TODO_04", "hash": "04F59E5AB76F5E30", "target": "Porozmawiać z domańskim wartownikiem" },
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TODO_05", "hash": "45BE6A9D5728CFE4", "target": "Porozmawiać z Alphinaudem we Wschodzących Kamieniach" },
-    { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TODO_06", "hash": "0C49D60C97867CFC", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TODO_06", "hash": "0C49D60C97867CFC", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TATARU_000_000", "hash": "95B27A1821FC4818", "target": "Nasz gość jest właśnie z Antecedentką w Sali Świtu." },
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_TATARU_000_001", "hash": "DC4F7345EF89F1F9", "target": "Nie każmy im dłużej czekać. Idziemy?" },
     { "gameKey": "quest/003/GaiUse504_00366#TEXT_GAIUSE504_00366_LUCIA_000_004", "hash": "5CBE350B4CC376CA", "target": "Dobrze wyglądasz, <split(<string(gstr1)>, ,1)>. Pomówimy, gdy skończę z Antecedentką." },
