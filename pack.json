@@ -6,7 +6,8 @@
     "language is the BCP-47 code; its lower-case form is the last segment of repo and names the",
     "archive. updateUrl is filled in with the first release: once set it is a promise, and an",
     "address that stops answering tells every install that the pack is abandoned.",
-    "issuesUrl is where the plugin sends somebody who found a wrong line."
+    "issuesUrl is where the plugin sends somebody who found a wrong line.",
+    "inventoryExcludedSheets excludes whole sheets from the translation inventory. Existing translations remain in the pack."
   ],
 
   "name": "FFXIV Language Pack (PL)",
@@ -16,5 +17,18 @@
   "repo": "ashdam/ffxiv-language-pack-pl",
   "updateUrl": "https://github.com/ashdam/ffxiv-language-pack-pl/releases/latest/download/gubal-manifest.json",
 
-  "issuesUrl": "https://github.com/ashdam/ffxiv-language-pack-pl/issues"
+  "issuesUrl": "https://github.com/ashdam/ffxiv-language-pack-pl/issues",
+  "inventoryExcludedSheets": [
+    "Action",
+    "ActionTransient",
+    "BNpcName",
+    "ClassJob",
+    "Pet",
+    "Status",
+    "Trait",
+    "TraitTransient",
+    "Item",
+    "EventItem",
+    "EventItemHelp"
+  ]
 }
