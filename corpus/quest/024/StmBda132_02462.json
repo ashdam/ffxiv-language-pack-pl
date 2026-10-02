@@ -3,8 +3,8 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_SEQ_00", "hash": "EFEA7C80F3090C38", "target": "Alphinaud znalazł dla siebie zajęcie w ruchu oporu..." },
-    { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_00", "hash": "1A8E374325B37267", "target": "Porozmawiać z Y'shtolą" },
-    { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_01", "hash": "16E2DBC417426E35", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_00", "hash": "1A8E374325B37267", "target": "Porozmawiać z czarodziejką Y'shtola" },
+    { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_01", "hash": "16E2DBC417426E35", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_02", "hash": "9FFCF997D7E17572", "target": "Porozmawiać z Raubahnem w Castrum Oriens" },
     { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_TODO_03", "hash": "B76CA96EC82020AC", "target": "Porozmawiać z Alisaie" },
     { "gameKey": "quest/024/StmBda132_02462#TEXT_STMBDA132_02462_ALPHINAUD_000_010", "hash": "EE28256D21CC1A11", "target": "I kolejna sprawa załatwiona...<br>Ach, <split(<string(gstr1)>, ,1)>. Słyszałem, że nie brakuje ci zajęć." },

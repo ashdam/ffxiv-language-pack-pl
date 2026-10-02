@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_SEQ_00", "hash": "8126C79057FB7E0A", "target": "Alphinaud wygląda, jakby miał już gotowy plan." },
     { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_TODO_00", "hash": "6FD6B8D8FB213641", "target": "Porozmawiać z Alphinaudem w Oschon's Embrace" },
-    { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_TODO_01", "hash": "7900BA7E327432B1", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_TODO_01", "hash": "7900BA7E327432B1", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_ALISAIE_100_001", "hash": "89C7C67A082DFE00", "target": "Pamiętasz, jak Alphinaud udawał kupca, żeby dostać się do Eulmore? Założę się o dziesięć gil, że znów odegra tę rolę." },
     { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_GRAHATIA_100_002", "hash": "5DB5ECCA4C713071", "target": "Jeśli teoria Alphinauda okaże się słuszna, w pewnym stopniu wyjaśni gwałtowny sprzeciw Egzekutorów wobec pokoju." },
     { "gameKey": "quest/040/LucKmj107_04013#TEXT_LUCKMJ107_04013_ALPHINAUD_000_000", "hash": "CD0A91B572D11558", "target": "Podczas rozmów niezadowolony kupiec powiedział mi, że niedawno do Limsa Lominsa przybył hurtownik kryształów i sprzedaje je znacznie taniej niż konkurencja." },

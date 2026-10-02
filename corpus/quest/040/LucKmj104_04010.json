@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_SEQ_00", "hash": "883ED9423E6AE222", "target": "Alisaie myśli tylko o jednym." },
     { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_TODO_00", "hash": "F13B2B8B0BEAF143", "target": "Porozmawiać z Alisaie w Dowództwie Maelstromu" },
-    { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_TODO_01", "hash": "866335DC27985793", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_TODO_01", "hash": "866335DC27985793", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_GRAHATIA_100_000", "hash": "6227A20A77DD5F3C", "target": "Niestety załoga Kuźni nie mogła zostać dłużej─mają zbyt wiele do zrobienia. Choć spędziliśmy razem niewiele czasu, <italic(1)>cholernie<italic(0)> dobrze było ich zobaczyć!" },
     { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_ALISAIE_000_000", "hash": "374BC9E0946FC7C8", "target": "Nareszcie mamy lekarstwo..." },
     { "gameKey": "quest/040/LucKmj104_04010#TEXT_LUCKMJ104_04010_GRAHATIA_100_001", "hash": "EBDEFCDE92D5EDB8", "target": "Przynajmniej w teorii. Nie będziemy pewni, póki go nie wypróbujemy, ale mam cichą nadzieję, że zadziała." },

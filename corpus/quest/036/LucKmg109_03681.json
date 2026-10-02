@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_SEQ_00", "hash": "13B7D8654EA084D1", "target": "Mimo ścisku w żołądku Chai-Nuzz jest gotowy przemówić do tłumów." },
     { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_TODO_00", "hash": "902131E474DDDA94", "target": "Porozmawiać z Chaddenem" },
-    { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_TODO_01", "hash": "D55CD519A6DD17AB", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_TODO_01", "hash": "D55CD519A6DD17AB", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_TODO_02", "hash": "9D78EA60487B8FF8", "target": "Porozmawiać z Kai-Shirrem" },
     { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_KAISHIRR_000_000", "hash": "CDFC447E9137E370", "target": "Przepraszam, że na niewiele się przydałem. Ale widzieć, jak pan Chai rusza na te Talosy... Robiło to wrażenie, co? Aż człowiek nabiera odwagi." },
     { "gameKey": "quest/036/LucKmg109_03681#TEXT_LUCKMG109_03681_ALPHINAUD_000_005", "hash": "55DD8B3A79E75B04", "target": "Śmiem twierdzić, że przyszłość Eulmore nigdy nie rysowała się jaśniej." },

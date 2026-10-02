@@ -9,7 +9,7 @@
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_SEQ_04", "hash": "B871681D187E6B2D", "target": "Towarzysze przyjmują odkrycie Krile bez zaskoczenia, choć rozumieją powagę sytuacji. Po krótkiej rozmowie wpadają na nowy pomysł: umieścić swe dusze w auracycie, co teoretycznie pozwoli ci bezpiecznie przenieść je przez szczelinę z powrotem do Źródła, tak jak zwykłe przedmioty. Potrzebna będzie jednak wiedza o zachowywaniu i przenoszeniu dusz, której nikt z obecnych nie posiada. Na szczęście Kryształowy Egzarcha może znać kogoś, kto pomoże." },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TODO_00", "hash": "051A573B71FAA000", "target": "Porozmawiać z F'lhaminn w Domu Splendorów" },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TODO_01", "hash": "357CAD209B799113", "target": "Porozmawiać z Tataru we Wschodzących Kamieniach" },
-    { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TODO_02", "hash": "7944894B20BF9302", "target": "Porozmawiać z Kryształowym Egzarchą w Ocular" },
+    { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TODO_02", "hash": "7944894B20BF9302", "target": "Porozmawiać z Kryształowym Egzarchą w sali Ocular" },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TATARU_000_000", "hash": "D952E3033BC19011", "target": "<split(<string(gstr1)>, ,1)>! Na bogów, jak dobrze znów widzieć <if(gnum4,panią,pana)>. Mam nadzieję, że udało się porządnie odpocząć?" },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_Q1_000_500", "hash": "00C59488DE0636FD", "target": "Co powiesz?" },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_A1_000_500", "hash": "6E910CEE1B9DFEBC", "target": "Odpoczynek aż nadto mi wystarczył!" },

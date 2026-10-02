@@ -3,11 +3,11 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_SEQ_00", "hash": "C1B84E9E9300DD2F", "target": "Almet dziwnie milczy." },
-    { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_00", "hash": "39174B9485BCAC69", "target": "Porozmawiać z Uriangerem" },
+    { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_00", "hash": "39174B9485BCAC69", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_01", "hash": "1CDF884DC483AA6A", "target": "Podać Runarowi antidotum na truciznę" },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_02", "hash": "A156CA40FA0E3333", "target": "Podać Runarowi drugą dawkę antidotum" },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_03", "hash": "FCED362F57A6FE25", "target": "Podać Runarowi trzecią dawkę antidotum" },
-    { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_04", "hash": "7F3C8D24EE5F7D56", "target": "Porozmawiać z Uriangerem" },
+    { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_TODO_04", "hash": "7F3C8D24EE5F7D56", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_THANCRED_000_000", "hash": "B80F6ADC807FF025", "target": "..." },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_RYNE_000_005", "hash": "3B538977DFB707DD", "target": "Dlaczego to zrobiła?" },
     { "gameKey": "quest/033/LucKmc117_03338#TEXT_LUCKMC117_03338_URIANGER_000_010", "hash": "E52373A72170B7B4", "target": "Ach, Y'shtolo... Gdybyśmy przybyli choć kilka kroków wcześniej." },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_SEQ_00", "hash": "DDDCD3D40B33B28A", "target": "Alisaie rozmyśla o tym, ile pracy pozostało po bitwie." },
     { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_TODO_00", "hash": "FF17744E08146D63", "target": "Pomóc rannym" },
-    { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_TODO_01", "hash": "B9D37C7317C9792B", "target": "Porozmawiać z Lyną" },
+    { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_TODO_01", "hash": "B9D37C7317C9792B", "target": "Porozmawiać z dowódczynią Lyna" },
     { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_ALPHINAUD_000_000", "hash": "60F182438EB6A1C7", "target": "Wytrzymaj jeszcze chwilę..." },
     { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_URIANGER_000_005", "hash": "367B1AEA09249DE9", "target": "Musisz pozostać bez ruchu." },
     { "gameKey": "quest/036/LucKmd102_03607#TEXT_LUCKMD102_03607_YSHTOLA_000_010", "hash": "CB523C49CE442E18", "target": "Weź głęboki oddech. Właśnie tak..." },

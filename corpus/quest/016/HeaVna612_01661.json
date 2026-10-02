@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_SEQ_02", "hash": "43E6FF41807B3767", "target": "Alphinaud chce zapytać ser Aymerica, czy można pożyczyć Oko. Wróć do Ishgardu i porozmawiaj z lordem dowódcą w Zgromadzeniu Rycerzy Niebios." },
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_SEQ_03", "hash": "A0934A62E4398F81", "target": "Aymeric zgadza się porozmawiać z Estinienem w sprawie Oka. W międzyczasie odnajdź Cida na przystani sterowców i podziel się z nim wiedzą o koncentratorze eterycznym." },
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_SEQ_04", "hash": "E90B07C55CB6EC1A", "target": "Mając wreszcie wiedzę potrzebną do budowy eterycznego tarana oraz odpowiednie źródło energii, Cid z wyraźną przyjemnością zabiera się do pracy." },
-    { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_TODO_00", "hash": "5A1FA38253CE45B8", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_TODO_00", "hash": "5A1FA38253CE45B8", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_TODO_01", "hash": "09BE4D3BDDC2E600", "target": "Porozmawiać z Aymerikiem w Zgromadzeniu Rycerzy Niebios" },
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_TODO_02", "hash": "318A0C5B67935389", "target": "Porozmawiać z Cidem na przystani sterowców w Ishgardzie" },
     { "gameKey": "quest/016/HeaVna612_01661#TEXT_HEAVNA612_01661_ALPHINAUD_000_000", "hash": "446311D6A34EC7DE", "target": "Dzięki twojemu jak zwykle bohaterskiemu wysiłkowi wiemy już, jak zbudować eteryczny taran." },

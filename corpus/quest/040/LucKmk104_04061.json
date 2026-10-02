@@ -11,7 +11,7 @@
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TODO_00", "hash": "31279DF07BD8AEEA", "target": "Uzyskać dostęp do terminalu na Flagship" },
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TODO_01", "hash": "4843B44AFE87A47B", "target": "Porozmawiać z Alisaie" },
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TODO_02", "hash": "743B65B360C365BE", "target": "Ponownie porozmawiać z Alisaie" },
-    { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TODO_03", "hash": "D4DF8AC17444EB06", "target": "Porozmawiać z G'rahą Tią" },
+    { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_TODO_03", "hash": "D4DF8AC17444EB06", "target": "Porozmawiać z uczonym G'raha Tia" },
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_ALISAIE_000_000", "hash": "14FD4796399CC537", "target": "Możliwe, że więzy osłabiły skutki zniewolenia, ale Tiamat pozostawała pod wpływem Bahamuta przez <italic(1)>tysiące<italic(0)> lat. To, że przez cały ten czas zachowała rozsądek, świadczy o niezwykłej sile woli." },
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_GRAHATIA_000_005", "hash": "7E05376BA5FC6380", "target": "Alisaie i ja zostaniemy tutaj, by poczynić niezbędne przygotowania. Jeśli naczynie duszy nie zadziała, wiecie, gdzie mnie znaleźć. Powodzenia." },
     { "gameKey": "quest/040/LucKmk104_04061#TEXT_LUCKMK104_04061_ALPHINAUD_000_010", "hash": "1DFAFB48E5C42108", "target": "Cid i jego współpracownicy zawsze sprawiają wrażenie, że obsługa allagańskich urządzeń jest taka prosta..." },

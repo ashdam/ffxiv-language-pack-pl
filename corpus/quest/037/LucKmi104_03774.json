@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_SEQ_00", "hash": "9EC874F7437D5D46", "target": "Tataru ma zakłopotaną minę. Najwyraźniej chce cię o coś poprosić." },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_00", "hash": "E83B12613BD3305E", "target": "Porozmawiać z Tataru" },
-    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_01", "hash": "AFF3DC4ED8B76555", "target": "Dostarczyć chleb archonta Kryształowemu Egzarsze w Ocular" },
-    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_02", "hash": "3B7EC1BDC6D58D43", "target": "Porozmawiać z Uriangerem" },
+    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_01", "hash": "AFF3DC4ED8B76555", "target": "Dostarczyć chleb archonta Kryształowemu Egzarsze w sali Ocular" },
+    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_02", "hash": "3B7EC1BDC6D58D43", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_KRILE_000_000", "hash": "3CC6826D354C9729", "target": "Daleka droga za tobą, więc odpocznij, póki możesz." },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TATARU_000_010", "hash": "F038867BF7A95814", "target": "Ehm... <split(<string(gstr1)>, ,1)>? Czy mogę prosić o chwilę? Skoro Krile idzie szukać tego swojego eksperta..." },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TATARU_000_011", "hash": "0EE27EEBD64C2B04", "target": "Chciałam wysłać naszym przyjaciołom na Pierwszym prezent... A ponieważ możemy trochę poczekać, pomyślałam, że może zechce mi <if(gnum4,pani,pan)> pomóc." },

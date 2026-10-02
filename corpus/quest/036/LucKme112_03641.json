@@ -3,8 +3,8 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_SEQ_00", "hash": "72C39A9E958E8CAB", "target": "Alphinaud zamierza udać się do Amity." },
-    { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_00", "hash": "F2ADDF5B373B6941", "target": "Porozmawiać z Y'shtolą" },
-    { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_01", "hash": "07D8E9E5F0268111", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_00", "hash": "F2ADDF5B373B6941", "target": "Porozmawiać z czarodziejką Y'shtola" },
+    { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_01", "hash": "07D8E9E5F0268111", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_02", "hash": "09804F6745665BA8", "target": "Nasycić kamień serca magią" },
     { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_TODO_03", "hash": "54483FD40CDACE5D", "target": "Porozmawiać z Chai-Nuzzem" },
     { "gameKey": "quest/036/LucKme112_03641#TEXT_LUCKME112_03641_ALPHINAUD_000_000", "hash": "0DC560F4BB2E0188", "target": "Cóż, wygląda na to, że zostaliśmy tu tylko my." },

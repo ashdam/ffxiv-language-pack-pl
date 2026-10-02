@@ -11,7 +11,7 @@
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_SEQ_06", "hash": "F799D06BBC744A9B", "target": "Porucznik Edelstein wydaje się uradowany twoją obecnością, ale nastrój szybko mu rzednie, gdy opowiada o kilku imperialnych ładunkach wybuchowych znalezionych na terenie zakładu. Choć wierzy, że Płomienie zdołają zażegnać zagrożenie, otrzymał niepokojące doniesienia zwiadu o wojskach garleańskich i raz jeszcze zwraca się do ciebie o pomoc." },
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_00", "hash": "F80C556148C423FD", "target": "Porozmawiać z Moenbrydą" },
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_01", "hash": "B189B7386C0FE419", "target": "Porozmawiać z Moenbrydą raz jeszcze" },
-    { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_02", "hash": "8305B4C4CE9394CE", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_02", "hash": "8305B4C4CE9394CE", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_03", "hash": "257BE9E8D23398CD", "target": "Porozmawiać z Wilredem w Ceruleum Processing Plant" },
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_TODO_04", "hash": "F54EB98209B151A9", "target": "Zdać relację Edelsteinowi" },
     { "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_SYSTEM_100_000", "hash": "87801A6284FAAF44", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },

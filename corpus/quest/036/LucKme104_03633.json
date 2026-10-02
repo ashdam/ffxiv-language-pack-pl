@@ -7,7 +7,7 @@
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_TODO_01", "hash": "BE260D61FA72A23E", "target": "Porozmawiać z Irvithem" },
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_TODO_02", "hash": "477090A58112F815", "target": "Policzyć zapas desek" },
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_TODO_03", "hash": "A1E7D6D3D3FCBEF6", "target": "Porozmawiać z Irvithem" },
-    { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_TODO_04", "hash": "14B8E6CEFB33EC63", "target": "Porozmawiać z Uriangerem" },
+    { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_TODO_04", "hash": "14B8E6CEFB33EC63", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_ALPHINAUD_000_000", "hash": "7FB8DFB9AC916083", "target": "The Ladder znajduje się na północny zachód od Wright. Ruszajmy tam, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_ALPHINAUD_000_010", "hash": "00407EF1B00EBDB6", "target": "The Ladder to solidna konstrukcja, ale po dwudziestu latach bezczynności wiele może zawieść. Sprawdźmy wszystko dwa razy." },
     { "gameKey": "quest/036/LucKme104_03633#TEXT_LUCKME104_03633_YSHTOLA_000_015", "hash": "876868EDCF5B9E78", "target": "Bottom Rung, tak nazywają to miejsce. Nadzwyczaj trafnie." },

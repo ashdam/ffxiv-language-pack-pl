@@ -3,12 +3,12 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_SEQ_00", "hash": "40BF9075932217C0", "target": "Kryształowy Egzarcha jest wreszcie gotów porozmawiać o losie twoich towarzyszy." },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_00", "hash": "F0A54E61DFFBC336", "target": "Porozmawiać ze strażnikiem bramy Crystarium" },
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_00", "hash": "F0A54E61DFFBC336", "target": "Porozmawiać z postacią Crystarium gatekeep" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_01", "hash": "F0887B58E583B71C", "target": "Porozmawiać z Kryształowym Egzarchą" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_02", "hash": "172193CC75BB1C6F", "target": "Porozmawiać z Kryształowym Egzarchą" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_03", "hash": "20B333AF5CBA0640", "target": "Porozmawiać z Kryształowym Egzarchą" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_04", "hash": "8C002693DB2B5F47", "target": "Porozmawiać z zarządcą pokoi w Pendants" },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_05", "hash": "464D6653FD447382", "target": "Porozmawiać z Kryształowym Egzarchą w Ocular" },
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_05", "hash": "464D6653FD447382", "target": "Porozmawiać z Kryształowym Egzarchą w sali Ocular" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GARLONDMAN03279_100_000", "hash": "7DE3AAF4188D5521", "target": "Przechowałem urządzenie, które udało ci się znaleźć. Chcesz znów z niego skorzystać...?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q0_100_000", "hash": "71D36ABC3DD8B1B5", "target": "Dotknąć nadajnika i przenieść się na Pierwszy?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_000", "hash": "90B14ED695202C82", "target": "Zgodnie z moją prośbą poznajesz już nieco ten świat. Pora, bym wywiązał się ze swojej części umowy i wyjaśnił, co spotkało twoich towarzyszy." },
@@ -28,13 +28,13 @@
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_SYSTEM_000_035", "hash": "5DD80FA3364BE6E6", "target": "Dzięki paktowi z Feo Ul możesz teraz korzystać na Pierwszym z usług moogli pocztowych, tablic targowych i dzwonków przywołania." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_040", "hash": "1B6050FDD553D030", "target": "Witaj w Pendants, <if(gnum4,pani,panie)>. Przybywa <if(gnum4,pani,pan)> z Egzarchą...?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_050", "hash": "6C2DE2A6CF18F69F", "target": "Ach, jesteś─właśnie kończyłem załatwiać sprawę twojego zakwaterowania. Przez cały pobyt będzie czekał na ciebie prywatny pokój w Pendants. Korzystaj z niego wedle uznania." },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_051", "hash": "075482ADDF1956FD", "target": "Gdy zechcesz odpocząć, zarządca zaprowadzi cię do pokoju. Nabierz sił, a niebawem spotkamy się w Ocular." },
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_051", "hash": "075482ADDF1956FD", "target": "Gdy zechcesz odpocząć, zarządca zaprowadzi cię do pokoju. Nabierz sił, a niebawem spotkamy się w sali Ocular." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_052", "hash": "D2CD13CE0324C45A", "target": "Sądzę, że omówiliśmy już wszystkie praktyczne sprawy..." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_053", "hash": "F23CAF04A0937DEF", "target": "...Dziękuję, że <if(gnum4,odpowiedziałaś,odpowiedziałeś)> na moje wezwanie, <split(<string(gstr1)>, ,1)>. Nie otuli nas kojąca noc, ale życzę ci mimo to spokojnych snów." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_060", "hash": "B32673EC7E384171", "target": "Miło mi <if(gnum4,panią,pana)> poznać. Witam w <if(gnum4,pani,pana)> nowym domu w Pendants." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_061", "hash": "ED7479F27E031B3A", "target": "Pokój jest gotowy. Czy zechce <if(gnum4,pani,pan)> odpocząć?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q3_000_062", "hash": "EA3E02CDFB74A690", "target": "Udać się do swojego pokoju?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_CRYSTALGATEKEEPER_000_070", "hash": "B6DEB8DEE565FB75", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>. Egzarcha czeka w środku." },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q4_000_071", "hash": "E022D82FA4ADDAB3", "target": "Wejść do Ocular?" }
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q4_000_071", "hash": "E022D82FA4ADDAB3", "target": "Wejść do sali Ocular?" }
   ]
 }

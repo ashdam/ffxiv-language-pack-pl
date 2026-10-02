@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_SEQ_00", "hash": "5A77044884384975", "target": "Lyna spogląda poważnie w górę. Nietrudno zgadnąć, o czym myśli." },
-    { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_00", "hash": "664AC103D7BD525D", "target": "Porozmawiać z Thancredem" },
+    { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_00", "hash": "664AC103D7BD525D", "target": "Porozmawiać z towarzyszem Thancred" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_01", "hash": "620CEB19C85D3487", "target": "Poszukać Minfilii" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_02", "hash": "E90D257D6680DA65", "target": "Zwrócić uwagę Minfilii gestem /poke" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_TODO_03", "hash": "0496D02F5ABAB56F", "target": "Zebrać zioła lecznicze" },

@@ -3,10 +3,10 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_SEQ_00", "hash": "E6CD6F4E2AADEE8E", "target": "Alphinaud chce pomóc kapitan Lynie." },
-    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_00", "hash": "1416E16959B3A472", "target": "Porozmawiać z Lyną" },
-    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_01", "hash": "9EA68279194053BA", "target": "Porozmawiać z Lyną w Fort Jobb w Lakeland" },
+    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_00", "hash": "1416E16959B3A472", "target": "Porozmawiać z dowódczynią Lyna" },
+    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_01", "hash": "9EA68279194053BA", "target": "Porozmawiać z dowódczynią Lyna w Fort Jobb w Lakeland" },
     { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_02", "hash": "E61CA4C5B27CEF4D", "target": "Porozmawiać ze zwiadowcą z Crystarium" },
-    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_03", "hash": "EE47CAA6DE014531", "target": "Porozmawiać z Lyną" },
+    { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_TODO_03", "hash": "EE47CAA6DE014531", "target": "Porozmawiać z dowódczynią Lyna" },
     { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_MYSTERYVOICE_000_000", "hash": "34438297D1DC27AC", "target": "Może mi się tylko wydaje, ale Lyna ostatnio jest wobec mnie dość... opryskliwa. Chyba nie gniewa się jeszcze za tę historię z filetem z łososia?" },
     { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_YSHTOLA_000_001", "hash": "F4A23AF042CE13B3", "target": "Pomyśleć, że po powrocie będziemy musieli stawić czoła nie tylko Zenosowi, lecz także nowej Broni Ultima. \\<wzdycha> Dlaczego wszyscy nasi wrogowie upierają się przy powrotach zza grobu?" },
     { "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_URIANGER_000_002", "hash": "561583B3CFB29AA2", "target": "Na kryształowym fundamencie białego auracytu wznieśliśmy nie więzienie, lecz schronienie dla duszy. Gdybyż Moenbryda mogła ujrzeć cuda zrodzone z jej badań." },

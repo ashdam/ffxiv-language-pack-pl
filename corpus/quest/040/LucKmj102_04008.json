@@ -3,8 +3,8 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_SEQ_00", "hash": "D410D545BE8E329B", "target": "G'raha Tia rozgląda się z błyskiem oczekiwania w oku." },
-    { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_00", "hash": "59E0FC5218EFB8C6", "target": "Porozmawiać z G'rahą Tią" },
-    { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_01", "hash": "9EAC1A3BAD25A6F9", "target": "Ponownie porozmawiać z G'rahą Tią" },
+    { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_00", "hash": "59E0FC5218EFB8C6", "target": "Porozmawiać z uczonym G'raha Tia" },
+    { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_01", "hash": "9EAC1A3BAD25A6F9", "target": "Ponownie porozmawiać z postacią G'raha Tia" },
     { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_02", "hash": "DC2671AF91ADD487", "target": "Znaleźć miejsce zastoju eteru błyskawic i pokonać pojawiające się lightning sprites" },
     { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_03", "hash": "B9F318AAC83C7F65", "target": "Zbadać miejsce zastoju eteru błyskawic i zdobyć skoncentrowany odłamek błyskawic" },
     { "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_TODO_04", "hash": "6049F50C4A9F4DA4", "target": "Dostarczyć skoncentrowany odłamek błyskawic G'rasze Tii" },

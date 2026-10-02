@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_SEQ_00", "hash": "55B7FA2B14B88715", "target": "Almet jest gotowa poprowadzić cię przez ruiny." },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_00", "hash": "EB0FE23875EF97E0", "target": "Porozmawiać z Almet" },
-    { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_01", "hash": "8E4DF90D555235EE", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_01", "hash": "8E4DF90D555235EE", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_02", "hash": "7A707E75EB5C0097", "target": "Użyć glinianych tabliczek przy inskrypcjach" },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_03", "hash": "10D5826F6C064EB1", "target": "Dostarczyć gliniane tabliczki Y'shtoli" },
-    { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_04", "hash": "74B0CFA8D09F43DB", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_04", "hash": "74B0CFA8D09F43DB", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_TODO_05", "hash": "112323303E30E27F", "target": "Porozmawiać z Almet" },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_YSHTOLA_000_000", "hash": "64D569DA869AFFDB", "target": "Musimy się spieszyć. Qitana Ravel i Strażnik Światła czekają." },
     { "gameKey": "quest/033/LucKmc114_03335#TEXT_LUCKMC114_03335_ALMET_000_010", "hash": "85AD7344B0D2E364", "target": "To, czego szukacie, leży w sercu K'mul Astropolis." },

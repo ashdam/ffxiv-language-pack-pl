@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_SEQ_00", "hash": "09A71B40E1F4524A", "target": "Urianger ma posępną minę." },
-    { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_TODO_00", "hash": "FDD11B706BF4D422", "target": "Porozmawiać z Y'shtolą" },
+    { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_TODO_00", "hash": "FDD11B706BF4D422", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_TODO_01", "hash": "6F5841EAD1B6CC33", "target": "Znaleźć pierwszy posąg w ruinach Ronka" },
     { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_TODO_02", "hash": "ECD7480BC73FC10F", "target": "Znaleźć drugi posąg w ruinach Ronka" },
     { "gameKey": "quest/033/LucKmc111_03332#TEXT_LUCKMC111_03332_TODO_03", "hash": "D9DA7C2248C94821", "target": "Znaleźć trzeci posąg w ruinach Ronka" },

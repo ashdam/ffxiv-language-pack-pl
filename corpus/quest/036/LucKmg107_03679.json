@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_SEQ_00", "hash": "1CE2DAA15ABA36C6", "target": "Alphinaud z marsową miną rozważa, gdzie najlepiej kontynuować poszukiwania." },
     { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_00", "hash": "DD7CAFBC060FA8D1", "target": "Porozmawiać z Hastelotem" },
-    { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_01", "hash": "371C4868BA124E1F", "target": "Porozmawiać z Alphinaudem" },
+    { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_01", "hash": "371C4868BA124E1F", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_02", "hash": "4B2FE874B584B156", "target": "Poszukać Chai-Nuzza" },
     { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_03", "hash": "72B6C30BCA7A75E1", "target": "Porozmawiać z Tristolem" },
     { "gameKey": "quest/036/LucKmg107_03679#TEXT_LUCKMG107_03679_TODO_04", "hash": "50523F52F39B9ADE", "target": "Porozmawiać z Wrendenem" },
