@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil500_00638",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_00", "hash": "9D6BC80F0C5270F0", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_01", "hash": "1788FF63C2B4A298", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_02", "hash": "C843754FD487DD19", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_TODO_00", "hash": "1F770C17B0A9296A", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_000", "hash": "76D7A8D86C4AC882", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_001", "hash": "BC6CCC4840BB1164", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_002", "hash": "B1CE4E2AF462370B", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_003", "hash": "61AAA79180150464", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_010", "hash": "24C4E154FC32119C", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_011", "hash": "627EBED364274E2D", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_012", "hash": "BB668E319F218D1A", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_013", "hash": "89A31ABC91790EC4", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SYSTEM_014", "hash": "22EB495213FCF6F2", "target": "" }
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_00", "hash": "9D6BC80F0C5270F0", "target": "Swynbroes chce rozpowszechnić tajniki tworzenia materii." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_01", "hash": "1788FF63C2B4A298", "target": "W Bonfire Swynbroes proponuje nauczyć cię ekstrakcji materii z mocno zużytego wyposażenia. Porozmawiaj z nim ponownie, by rozpocząć naukę." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_02", "hash": "C843754FD487DD19", "target": "Znasz już zasady ekstrakcji materii. Zastosuj wiedzę w praktyce i wydobądź materię ze starego elementu wyposażenia." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_TODO_00", "hash": "1F770C17B0A9296A", "target": "Porozmawiać ze Swynbroes" },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_000", "hash": "76D7A8D86C4AC882", "target": "Co powiesz, jeśli zdradzę ci, że martwe przedmioty mogą mieć duszę? Wierz lub nie, ale mogą. Tyle że nie jest to ich własna dusza, lecz dusza ich <italic(1)>właściciela<italic(0)>." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_001", "hash": "BC6CCC4840BB1164", "target": "Broń i pancerze, które wiernie nam służą, gromadzą naszą duchową energię. Tak powstaje łączący nas z nimi <italic(1)>spiritbond<italic(0)>." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_002", "hash": "B1CE4E2AF462370B", "target": "Tę duchową energię można wydobyć i przekształcić w materię, szczególny rodzaj kryształu, który osadza się w wyposażeniu, by poprawić jego właściwości." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_003", "hash": "61AAA79180150464", "target": "Dobrze znam zasady ekstrakcji materii. Jeśli chcesz poznać ten proces, z przyjemnością cię go nauczę." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_010", "hash": "24C4E154FC32119C", "target": "Możemy zaczynać naukę? Dobrze. Jak już zapewne rozumiesz, materia to skrystalizowana postać duchowej energii." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_011", "hash": "627EBED364274E2D", "target": "Ta energia pochodzi z ludzkiej psychiki─z natury nieprzewidywalnej─więc wytworzone kryształy mogą się różnić. W praktyce oznacza to, że nie poznasz dokładnych właściwości kamienia, dopóki nie weźmiesz go do ręki." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_012", "hash": "BB668E319F218D1A", "target": "Sama materia niewiele ci da. Trzeba wydobyć jej moc, a osiąga się to przez osadzenie jej w wyposażeniu. Wiedz jednak, że wymaga to zręcznych rąk rzemieślnika." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_013", "hash": "89A31ABC91790EC4", "target": "Zawsze możesz poprosić kogoś o osadzenie materii za ciebie. Jeśli jednak wolisz zrobić to samodzielnie, polecam rozmowę z F'hobhas. To <italic(1)>jej<italic(0)> dziedzina." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SYSTEM_014", "hash": "22EB495213FCF6F2", "target": "Aby wyjąć materię z przedmiotu, zaznacz jego ikonę i wybierz Retrieve Materia. Istnieje szansa na odzyskanie materii." }
   ]
 }

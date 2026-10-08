@@ -13,7 +13,7 @@
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_01", "hash": "8E692233499194F1", "target": "Podążyć za podejrzanym" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_02", "hash": "1F3AC7003DDD8E3D", "target": "Podążyć za podejrzanym" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_03", "hash": "0D1CFCCB5FC80693", "target": "Podążyć za podejrzanym" },
-    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_04", "hash": "B2DE9F72C8E2DC14", "target": "Zdać relację Drillemontowi" },
+    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_04", "hash": "B2DE9F72C8E2DC14", "target": "Zdać relację postaci Drillemont" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_000", "hash": "BB6D716E53CAA1DE", "target": "Zdaje się, że zawsze jesteśmy o krok w tyle, a zwierzyna wciąż tuż poza zasięgiem. Chciałbym wierzyć, że karta się odwraca, ale przyznam, że mam pewne wątpliwości. Wspólne działanie <italic(1)>może<italic(0)> się powieść tam, gdzie inne zawiodły... ale równie dobrze skończy się tak samo." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_001", "hash": "9BC11F9DD273CDCE", "target": "Na szczęście nie brak nam innych dróg. Inkwizytor Guillaime wciąż chyba tkwi ci w pamięci?" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_002", "hash": "01DFBD9B5BCB3799", "target": "Nam z pamięci nie wyszedł. Wiele myśleliśmy o tym, jakim cudem heretyk tak długo pozostawał nieodkryty, i o tym, co zrobić, by podobna wyrwa w naszej straży się nie powtórzyła." },

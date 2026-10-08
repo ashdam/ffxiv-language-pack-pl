@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubSea906_00059",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_00", "hash": "93D283E50CE6FA63", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_01", "hash": "6A5BBFBE27459545", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_02", "hash": "77AA15F0F4B11AA8", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TODO_00", "hash": "92C88EFBE4BAC283", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_01", "hash": "E10798DEF7D95A5C", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_02", "hash": "126CA84EC24392CA", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_01", "hash": "2DC86BE6911289F2", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_02", "hash": "1F52CDB15698CC6C", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_03", "hash": "2C460DC47F8BC0E1", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_04", "hash": "065A21061848088C", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_05", "hash": "0806CE446A3DC021", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_006", "hash": "13AAF1AAFA721BAE", "target": "" },
-    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_007", "hash": "ED30EE0ECF1C222E", "target": "" }
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_00", "hash": "93D283E50CE6FA63", "target": "Swygskyf uważa, że możesz już wziąć udział w guildhest." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_01", "hash": "6A5BBFBE27459545", "target": "Guildhest to specjalne operacje organizowane przez gildie poszukiwaczy przygód i nadzorowane przez nadzorców bojowych. Aby dowiedzieć się o nich więcej, porozmawiaj z nadzorczynią bojową Tiroro." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_02", "hash": "77AA15F0F4B11AA8", "target": "Nadzorczyni bojowa Tiroro wyjaśnia, że guildhest sprawdzą twoją zdolność współpracy przy realizacji wspólnego celu. Jeśli nie zamierzasz szukać przygód wiecznie w pojedynkę, warto wziąć udział w tych operacjach choć raz." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TODO_00", "hash": "92C88EFBE4BAC283", "target": "Porozmawiać z Battlewarden Tiroro" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_01", "hash": "E10798DEF7D95A5C", "target": "A tak przy okazji, ktoś o takiej krzepie jak ty może się zainteresować guildhest." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_02", "hash": "126CA84EC24392CA", "target": "Pogadaj z nadzorczynią bojową Tiroro, wyjaśni ci szczegóły. Nie martw się, <if(gnum4,dziewczyno,chłopcze)>─jeśli zwątpi w twoje umiejętności, wyprowadzę ją z błędu." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_01", "hash": "2DC86BE6911289F2", "target": "Wieści szybko rozchodzą się po Swiftperch. Chce <if(gnum4,pani,pan)> dowiedzieć się czegoś o guildhest, prawda?" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_02", "hash": "1F52CDB15698CC6C", "target": "Co to guildhest? To po prostu <italic(1)>zlecenie<italic(0)> od <italic(1)>Gildii<italic(0)> Poszukiwaczy Przygód, jasne? Kiedy zgłoszone gildii zadanie jest trochę za poważne na leve, ale nie dość poważne, by angażować Wielką Kompanię, uznaje się je za guildhest i przekazuje mnie." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_03", "hash": "2C460DC47F8BC0E1", "target": "Ale proszę nie dać się zwieść pozorom. Te zadania wcale nie są proste. Większość odbywa się na ciasnym terenie, a <italic(1)>wszystkie<italic(0)> wymagają doskonałej współpracy między <if(gnum4,panią,panem)> a towarzyszami broni." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_04", "hash": "065A21061848088C", "target": "A co dostanie <if(gnum4,pani,pan)> w zamian za nadstawianie karku? Oprócz promiennego uśmiechu nadzorczyni bojowej Tiroro Tiro? Sławę, fortunę, to co zwykle." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_05", "hash": "0806CE446A3DC021", "target": "Zakładam więc, że dołączy <if(gnum4,pani,pan)> do naszej następnej operacji?" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_006", "hash": "13AAF1AAFA721BAE", "target": "Odblokowano Duty Finder! Ta funkcja pozwala uczestniczyć w zadaniach dla wielu graczy bez samodzielnego organizowania drużyny." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_007", "hash": "ED30EE0ECF1C222E", "target": "Aby otworzyć okno Duty Finder, wybierz <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> w kategorii <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> w <colortype(500)><edgecolortype(501)>menu głównym<edgecolortype(0)><colortype(0)>." }
   ]
 }

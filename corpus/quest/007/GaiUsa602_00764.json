@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa602_00764",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_00", "hash": "66880BC203FA644A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_01", "hash": "4583C091B617CAB2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_02", "hash": "B3C4B466210532FC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_TODO_00", "hash": "433AAA49FA13DC05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_000", "hash": "2B4781DCBCB7726E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_001", "hash": "9252333BF76BB840", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_002", "hash": "1B3069AE50CAF501", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_010", "hash": "FA23682DA35547DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_011", "hash": "ECA1EA926C332A9A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_012", "hash": "3297BA10A8922423", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_013", "hash": "64F5525A0A55A704", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_020", "hash": "C15635A8B8E8B76B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_021", "hash": "ABC4265AFB1896C5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_00", "hash": "66880BC203FA644A", "target": "Nedrick ma intrygującą wiadomość dla kogoś spragnionego przygód." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_01", "hash": "4583C091B617CAB2", "target": "Nedrick informuje cię, że Nieśmiertelne Płomienie werbują poszukiwaczy przygód do zbadania Sunken Temple of Qarn. Udaj się do wejścia świątyni i odszukaj Bibimu." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_02", "hash": "B3C4B466210532FC", "target": "Bibimu zezwala ci na zbadanie Sunken Temple of Qarn. Przygotuj się na liczne wyzwania, które czekają w środku.<br><br>※Do Sunken Temple of Qarn można wejść przez Duty Finder." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_TODO_00", "hash": "433AAA49FA13DC05", "target": "Porozmawiać z Bibimu w Sunken Temple of Qarn" },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_000", "hash": "2B4781DCBCB7726E", "target": "Witaj, <if(gnum4,poszukiwaczko przygód,poszukiwaczu przygód)>! Wyglądasz na kogoś, kto szuka nowych pól bitewnych, by doskonalić rosnące umiejętności. Nie pytaj, skąd Nedrick to wie─po prostu wie!" },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_001", "hash": "9252333BF76BB840", "target": "Powiedz, znasz może Sunken Temple of Qarn? Nie będę ci miał za złe, jeśli nie. W końcu ruiny wyłoniły się dopiero wtedy, gdy Katastrofa rozdarła ziemię. W każdym razie to dziś popularny cel poszukiwaczy przygód szukających nowych terenów do zbadania." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_002", "hash": "1B3069AE50CAF501", "target": "Jeśli chcesz do nich dołączyć, wybierz się do południowej części Thanalan i odwiedź świątynię. Ponieważ czyha w niej wiele niebezpieczeństw, Nieśmiertelne Płomienie pilnie strzegą tego miejsca. Lalafell o imieniu Bibimu powinien jednak cię wpuścić." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_010", "hash": "FA23682DA35547DA", "target": "Witaj w Sunken Temple of Qarn─a przynajmniej w tym, co z niej zostało. Starożytni mieszkańcy Belah'dii czcili tu boginię słońca, Azeymę, lecz duża część historii świątyni pozostaje tajemnicą." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_011", "hash": "ECA1EA926C332A9A", "target": "Wysłaliśmy w głąb zespół badawczy, ale z przykrością muszę przyznać, że prace posuwają się w ślimaczym tempie─o ile w ogóle się posuwają." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_012", "hash": "3297BA10A8922423", "target": "Wygląda na to, że mieszkańcy Belah'dii naszpikowali świątynię najróżniejszymi podstępnymi pułapkami─zapewne po to, by odstraszyć rabusiów." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_013", "hash": "64F5525A0A55A704", "target": "Werbujemy poszukiwaczy przygód do pomocy przy rozbrajaniu pułapek, ale ostrzegam: wielu z tych, którzy weszli, jeszcze nie wróciło. Jeśli zechcesz zapuścić się w głąb, z chęcią przyjmiemy twoją pomoc." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_020", "hash": "C15635A8B8E8B76B", "target": "Odblokowujesz Duty Finder! Ta funkcja pozwala podejmować zadania wieloosobowe bez samodzielnego tworzenia drużyny." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_021", "hash": "ABC4265AFB1896C5", "target": "Aby otworzyć okno Duty Finder, wybierz <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> w sekcji <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> w <colortype(500)><edgecolortype(501)>menu głównym<edgecolortype(0)><colortype(0)>." }
   ]
 }

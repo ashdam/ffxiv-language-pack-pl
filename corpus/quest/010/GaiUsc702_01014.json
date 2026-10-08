@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc702_01014",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_02", "hash": "6D97BDC0E1A6EE3C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_TODO_00", "hash": "8E22D06DF2B27721", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_000", "hash": "22C5D97E7D4DFF52", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_001", "hash": "FD7C39910D22E4AB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_020", "hash": "08E6E765FA36FAF2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_021", "hash": "BDDD32A37AC1B6FD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_022", "hash": "A8D4664AE574176D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_023", "hash": "F1D4CD1F7DC04298", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030", "hash": "C313CE7C8BB696A0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031", "hash": "3DE48FF93F83F9C8", "target": "" }
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "Nedrick zna miejsce, w którym <if(gnum4,doświadczona poszukiwaczka przygód,doświadczony poszukiwacz przygód)> może doskonalić swoje umiejętności." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "Według Nedricka miejsce zwane Aurum Vale może stanowić odpowiednie wyzwanie przy twoich dokonaniach. Dolina leży na południowym zachodzie centralnej wyżyny Coerthas. Udaj się tam i odszukaj mężczyznę o imieniu Willielmus." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_02", "hash": "6D97BDC0E1A6EE3C", "target": "Willielmus niechętnie pozwala ci wejść do Aurum Vale. Podejmij wyzwanie, lecz stale pamiętaj o śmiercionośnych wyziewach!<br><br>※Do Aurum Vale można wejść przez Duty Finder." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_TODO_00", "hash": "8E22D06DF2B27721", "target": "Porozmawiać z Willielmus przy Aurum Vale" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_000", "hash": "22C5D97E7D4DFF52", "target": "Nie mogę tu zrobić dwóch kroków, żeby nie usłyszeć: <split(<string(gstr1)>, ,1)> to, <split(<string(gstr1)>, ,1)> tamto. Jakby <if(gnum4,była z ciebie jakaś cholerna bohaterka,był z ciebie jakiś cholerny bohater)>!" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_001", "hash": "FD7C39910D22E4AB", "target": "...Ale żartuję. Nawet ja widzę, że aż cię nosi, by znaleźć nowe pole walki i doskonalić swoje umiejętności. Na szczęście znam idealne miejsce: Aurum Vale. Ruszaj na południowy zachód przez centralną wyżynę Coerthas i odszukaj Willielmusa─powiedz mu, że przysyła cię Nedrick." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_020", "hash": "08E6E765FA36FAF2", "target": "Witaj, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Czekaj, nic nie mów─przysyła cię Nedrick." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_021", "hash": "BDDD32A37AC1B6FD", "target": "Powiedz mi, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód─wiesz, skąd wzięła się tak kusząca nazwa Aurum Vale? Pozwól, że cię oświecę." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_022", "hash": "A8D4664AE574176D", "target": "Jaskinia obfituje w siarkę i rudę mythrilu. Reagując z wodami gruntowymi, wydzielają one złociste opary. Piękny widok─dopóki nie zorientujesz się, że te przeklęte śmiercionośne chmury wypalają ci pierś od środka." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_023", "hash": "F1D4CD1F7DC04298", "target": "Jeśli nadal chcesz ryzykować życiem, nie będę cię powstrzymywał. Ale postaraj się nie zginąć─wyciągnąłem z tej doliny dość trupów, by starczyło mi na całe życie." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030", "hash": "C313CE7C8BB696A0", "target": "Odblokowano Duty Finder! Ta funkcja pozwala brać udział w zadaniach dla wielu graczy bez samodzielnego zbierania drużyny." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031", "hash": "3DE48FF93F83F9C8", "target": "Aby otworzyć okno Duty Finder, wybierz <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> w sekcji <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> w <colortype(500)><edgecolortype(501)>menu głównym<edgecolortype(0)><colortype(0)>." }
   ]
 }

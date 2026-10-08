@@ -11,7 +11,7 @@
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_TODO_00", "hash": "8AD079A09A419316", "target": "Porozmawiać z Alboise" },
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_TODO_01", "hash": "1D1825ED8E181964", "target": "Porozmawiać z Astidienem" },
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_TODO_02", "hash": "B8CD33181CA042C4", "target": "Porozmawiać z Goudernoux" },
-    { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_TODO_03", "hash": "46C82120D71EFAC1", "target": "Porozmawiać z Drillemontem" },
+    { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_TODO_03", "hash": "46C82120D71EFAC1", "target": "Porozmawiać z Drillemont" },
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_BRUNADIER_000_000", "hash": "54D272A88545E7BE", "target": "Trudno o gorszą porę, <if(gnum4,wędrowniczko,wędrowcze)>. Cała uwaga lorda Drillemonta skupia się teraz na Stone Vigil." },
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_BRUNADIER_000_001", "hash": "FD5897F645477BF3", "target": "W każdym razie eskortowanie gości nie należy do moich obowiązków. Proszę wziąć swoje listy i pokazać je... ser Alboise. Tak, ser Alboise z pewnością się <if(gnum4,panią,panem)> zajmie─proszę jej szukać w magazynie po drugiej stronie dziedzińca." },
     { "gameKey": "quest/009/GaiUsb901_00924#TEXT_GAIUSB901_00924_ALBOISE_000_010", "hash": "044098521C08E603", "target": "Ser Brunadier kazał <if(gnum4,pani,panu)> rozmawiać ze mną? Nie wiem, czemu uznał, że będę bardziej pomocna, ale zapewniam, że się myli." },
