@@ -13962,6 +13962,708 @@
       "gameKey": "ContentFinderConditionTransient#964",
       "hash": "C7E1E96AE0C2CAD5",
       "why": "Ascian to poprawny dopełniacz liczby mnogiej rzeczownika Ascianin w wyrażeniu bóg Ascian; nie zmieniać na liczbę pojedynczą."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TODO_00",
+      "hash": "F0F4BDA0AAA9278F",
+      "why": "Battlewarden Ribald is the exact NPC label in an objective. The glossary keeps NPC labels in English."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/001/SubCts817_00162#TEXT_SUBCTS817_00162_ERAL_000_012",
+      "hash": "7BA383475BD5DB3D",
+      "why": "The straw hat describes the woman to find. It does not refer to an inventory item or require equipment."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/001/SubCts817_00162#TEXT_SUBCTS817_00162_ERAL_000_015",
+      "hash": "885B26D591414C80",
+      "why": "The straw hat describes the woman to find. It does not refer to an inventory item or require equipment."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/001/SubCts817_00162#TEXT_SUBCTS817_00162_SEQ_02",
+      "hash": "95071BE065ADDD74",
+      "why": "The straw hat describes the woman to find. It does not refer to an inventory item or require equipment."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_KEITHA_063",
+      "hash": "1F70AF7A079B554C",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_KEITHA_065",
+      "hash": "71403EE0985EC72E",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_LUQUELOT_000_051",
+      "hash": "0A8B7B0AEF94A5BB",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_MARGAULT_000_030",
+      "hash": "296578E92708F76D",
+      "why": "The line describes the plant as food. It does not require the inventory item Krakka Root."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_MARGAULT_000_039",
+      "hash": "6C786E10E081D93C",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SEQ_04",
+      "hash": "9A3FAFD72E090381",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SEQ_05",
+      "hash": "5BAD6A5C6B5809C5",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SEQ_07",
+      "hash": "491489A72A650D78",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SYSTEM_000_055",
+      "hash": "330D1202E3292CAB",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SYSTEM_000_065",
+      "hash": "DAAFC782FD9EEEC2",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_SYSTEM_000_070",
+      "hash": "28F5C40B1DDC5E08",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_TODO_03",
+      "hash": "A22ABB510D0DC363",
+      "why": "The line refers to the quest specimen, EventItem 2001359, not Item 8165. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_POPMESSAGE_000_000",
+      "hash": "E50B802438AEEA52",
+      "why": "Wciaz and nadal both preserve the source meaning. The target is valid Polish; it needs no wording change."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/011/SubFst911_01162#TEXT_SUBFST911_01162_LUQUELOT_000_012",
+      "hash": "6FCFCECC21859492",
+      "why": "The line refers to the fresh harvested quest bunch, EventItem 2000085, not the bought summon item 4868. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/011/SubFst911_01162#TEXT_SUBFST911_01162_SEQ_02",
+      "hash": "BB02EE429851B8B1",
+      "why": "The line refers to the fresh harvested quest bunch, EventItem 2000085, not the bought summon item 4868. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/011/SubFst911_01162#TEXT_SUBFST911_01162_SEQ_03",
+      "hash": "D5513E8247109CB8",
+      "why": "The line refers to the fresh harvested quest bunch, EventItem 2000085, not the bought summon item 4868. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/011/SubFst911_01162#TEXT_SUBFST911_01162_TODO_01",
+      "hash": "1FE0A0D30ACA4316",
+      "why": "The line refers to the fresh harvested quest bunch, EventItem 2000085, not the bought summon item 4868. Transparent EventItem names use Polish."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/012/SubCts801_01210#TEXT_SUBCTS801_01210_JANDELAINE_000_083",
+      "hash": "AD818814879C2BDB",
+      "why": "Crystal bell is an interactive label for EObjName 2004358 and Item 13061. It remains in English; the time unit bell does not apply."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/012/SubCts801_01210#TEXT_SUBCTS801_01210_SEQ_05",
+      "hash": "42CE1D84A4B288E0",
+      "why": "Crystal bell is an interactive label for EObjName 2004358 and Item 13061. It remains in English; the time unit bell does not apply."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/004/ChrHdb501_00490#TEXT_CHRHDB501_00490_TODO_01",
+      "hash": "6F1CEA50B98A584D",
+      "why": "Scholars' Walk is a map label. Scholar does not name a job in this row."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TODO_00",
+      "hash": "6A596D0EAEA4B40D",
+      "why": "Battlewarden Lost Rabbit is the NPC label in this objective. Keep the full English label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_TODO_04",
+      "hash": "C60F4F5631C21376",
+      "why": "Scholars' Walk is a map label. Scholar does not name a job in this row."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/004/ChrHdb504_00493#TEXT_CHRHDB504_00493_JULYAN_000_210",
+      "hash": "BF31F31632174DA5",
+      "why": "The crystals are narrative fuel for an NPC to keep Hildibrand warm. The row does not name a player inventory item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/004/ChrHdb504_00493#TEXT_CHRHDB504_00493_SEQ_05",
+      "hash": "9846987857ABE09A",
+      "why": "The crystals are narrative fuel for an NPC to keep Hildibrand warm. The row does not name a player inventory item."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_00",
+      "hash": "B3BD1CF9D9AA5F24",
+      "why": "Weavers' Guild is the map label in this objective. Weaver does not name the player's job."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/012/ChrHdb101_01204#TEXT_CHRHDB101_01204_Q2A1_000_1",
+      "hash": "ABE4D960FF007002",
+      "why": "Wild rose is the Scions password in this reply. It does not name the Red Mage weapon."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/012/ChrHdb104_01207#TEXT_CHRHDB104_01207_JOJONPA_000_080",
+      "hash": "1D54AE4D7D928B00",
+      "why": "The phrase describes the Eleazar family relic or its copy. It does not name Item 1652; Japanese identifies a different story sword."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/012/ChrHdb104_01207#TEXT_CHRHDB104_01207_SEQ_02",
+      "hash": "841281FEC3A796C9",
+      "why": "The phrase describes the Eleazar family relic or its copy. It does not name Item 1652; Japanese identifies a different story sword."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/012/ChrHdb104_01207#TEXT_CHRHDB104_01207_SEQ_04",
+      "hash": "F8EDAC9A7B4D6488",
+      "why": "The phrase describes the Eleazar family relic or its copy. It does not name Item 1652; Japanese identifies a different story sword."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_006",
+      "hash": "88C5E21B15112BC9",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_007",
+      "hash": "8AD83AD8DDE89F9A",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_06",
+      "hash": "A66E9AF5388BC2A2",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_07",
+      "hash": "7040976C089FDB9C",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/004/ManFst007_00447#TEXT_MANFST007_00447_Q1_000_1",
+      "hash": "FEFEBFA8E5FA7236",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/004/ManFst007_00447#TEXT_MANFST007_00447_Q3_000_1",
+      "hash": "36A4AD7D05979EB1",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/004/ManFst008_00448#TEXT_MANFST008_00448_Q1_000_040",
+      "hash": "271836EF59B6CA86",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubFst120_00700#TEXT_SUBFST120_00700_SEQ_04",
+      "hash": "0D574D113A3C3B5E",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubFst120_00700#TEXT_SUBFST120_00700_TODO_01",
+      "hash": "63C55970C5CA28D9",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_04",
+      "hash": "42112669B5845A06",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_TODO_01",
+      "hash": "0420F265BC40E6D4",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/009/GaiUsc404_00979#TEXT_GAIUSC404_00979_SYSTEM_000_030",
+      "hash": "A4AB86868CA0FF88",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/009/GaiUsc404_00979#TEXT_GAIUSC404_00979_SYSTEM_000_031",
+      "hash": "4B0A1A9C30972380",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/010/GaiUsc608_01008#TEXT_GAIUSC608_01008_Q1_000_100",
+      "hash": "547DE821102A874B",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/010/GaiUsc609_01009#TEXT_GAIUSC609_01009_Q1_000_100",
+      "hash": "CE45039AD87E36D2",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/011/SubFst911_01162#TEXT_SUBFST911_01162_TODO_04",
+      "hash": "501001AB88666184",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/015/SubCts821_01560#TEXT_SUBCTS821_01560_TODO_07",
+      "hash": "6C2C98C1C0D639C8",
+      "why": "The Polish wording has the same meaning and keeps the required names and macros. Both forms are valid in context."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_BRIARDIEN_000_109",
+      "hash": "7F5B150FE4C411BE",
+      "why": "The NPC uses his own flint to light a fire. This is a narrative tool, not a player inventory item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_HILDIBRAND_000_206",
+      "hash": "C8BBB2563F5D9CD9",
+      "why": "The dialogue describes the purple dragon pepper plant and its quest crop. It does not name Item 4838."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_LEWENHART_000_205",
+      "hash": "EE3FDFCBD476C578",
+      "why": "The dialogue describes the purple dragon pepper plant and its quest crop. It does not name Item 4838."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_SUNDHIMAL_000_301",
+      "hash": "2D1EAAE4EEB31DF2",
+      "why": "Bloody murder is an idiom that describes screaming. It does not name the machinist weapon."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb303_01440#TEXT_CHRHDB303_01440_LEWENHART_000_081",
+      "hash": "E94422AD71FD9964",
+      "why": "The dialogue describes the purple dragon pepper plant and its quest crop. It does not name Item 4838."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb303_01440#TEXT_CHRHDB303_01440_NASHUMHAKARACCA_000_082",
+      "hash": "B2340CFCA9920722",
+      "why": "The dialogue describes the purple dragon pepper plant and its quest crop. It does not name Item 4838."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb303_01440#TEXT_CHRHDB303_01440_SEQ_04",
+      "hash": "D0A4DD2BE2BA86AC",
+      "why": "The dialogue describes the purple dragon pepper plant and its quest crop. It does not name Item 4838."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TODO_00",
+      "hash": "14D0FCDB7E65D998",
+      "why": "Battlewarden Tiroro is the exact NPC label in an objective. The Polish profession term applies to narrative text."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/SubCts104_01411#TEXT_SUBCTS104_01411_SEQ_01",
+      "hash": "4F0E7ECED133252A",
+      "why": "Seventh Heaven names the tavern where Bloezoeng works. The glossary gives Siódme Niebo for the tavern. It does not name Item 12634."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts819_01558#TEXT_SUBCTS819_01558_ALYS_000_002",
+      "hash": "58B49BB909A46A3A",
+      "why": "Seventh Heaven names the tavern where Alys serves patrons. The glossary gives Siódme Niebo for the tavern. It does not name Item 12634."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts819_01558#TEXT_SUBCTS819_01558_SEQ_01",
+      "hash": "4AD1008636496F6E",
+      "why": "Seventh Heaven names the tavern where Alys serves patrons. The glossary gives Siódme Niebo for the tavern. It does not name Item 12634."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/015/SubCts820_01559#TEXT_SUBCTS820_01559_SEQ_01",
+      "hash": "E69161603C2F59C1",
+      "why": "Seventh Heaven names the tavern where Alys serves patrons. The glossary gives Siódme Niebo for the tavern. It does not name Item 12634."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SYSTEM_000_021",
+      "hash": "9F1E8693B5A84F77",
+      "why": "Paladin is a client job label in a list of available jobs. The Polish profession term applies to narrative text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/032/SubGsc107_03201#TEXT_SUBGSC107_03201_JANSHIOFEAST_000_011",
+      "hash": "03C12C36EBF5BE64",
+      "why": "Doman mahjong is the client name of the game. Doman does not refer to a person in this row."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SEQ_02",
+      "hash": "6C4A861BA79221C1",
+      "why": "The row names freshly prepared blood orange juice, the narrative quest drink. It does not name the ingredient Item 7595."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SWYRGEIM_000_004",
+      "hash": "C98FD11C7BCE3954",
+      "why": "The row names freshly prepared blood orange juice, the narrative quest drink. It does not name the ingredient Item 7595."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_TODO_01",
+      "hash": "261C8B48510D7666",
+      "why": "The row names freshly prepared blood orange juice, the narrative quest drink. It does not name the ingredient Item 7595."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_TODO_04",
+      "hash": "9395B329E46E920E",
+      "why": "Relacja and raport both refer to reporting back. Each objective retains the visible NPC name Drillemont."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubCts108_00096#TEXT_SUBCTS108_00096_TODO_01",
+      "hash": "B7B29E30BECEBFB9",
+      "why": "The objective identifies Bibimu at the entrance to Sunken Temple of Qarn. Przy and w both identify the quest location without changing the contact."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_006",
+      "hash": "4806B521D02828D1",
+      "why": "Each target unlocks Duty Finder and states that the player need not form a party. The wording varies without changing the feature."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_007",
+      "hash": "852669E61845AAED",
+      "why": "Sekcja and kategoria identify the same Duty menu section. Each target retains the Duty Finder labels and menu path."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/002/SubFst070_00220#TEXT_SUBFST070_00220_SYSTEM_000_15",
+      "hash": "39BAF204027FDA91",
+      "why": "Dziennik describes the journal and Journal names the menu entry. Each target retains Duty and Initiate and gives the same menu action."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/006/SubSea901_00693#TEXT_SUBSEA901_00693_SYSTEM_000_15",
+      "hash": "7B3D148B02BE9C5B",
+      "why": "Dziennik describes the journal and Journal names the menu entry. Each target retains Duty and Initiate and gives the same menu action."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/006/SubWil150_00687#TEXT_SUBWIL150_00687_SYSTEM_000_15",
+      "hash": "DF86AE1915E744FD",
+      "why": "Dziennik describes the journal and Journal names the menu entry. Each target retains Duty and Initiate and gives the same menu action."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_020",
+      "hash": "7B246DEABFF32ADE",
+      "why": "Each target unlocks Duty Finder and states that the player need not form a party. The wording varies without changing the feature."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_021",
+      "hash": "57996398CDB57C3C",
+      "why": "Sekcja and kategoria identify the same Duty menu section. Each target retains the Duty Finder labels and menu path."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_TODO_00",
+      "hash": "2F71B7E1D65A9AAA",
+      "why": "The objective identifies Bibimu at the entrance to Sunken Temple of Qarn. Przy and w both identify the quest location without changing the contact."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_SEQ_04",
+      "hash": "15988B907A9EE4C6",
+      "why": "Each target announces the shared adventures and wishes lasting friendship. Both name macros remain unchanged."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_TODO_01",
+      "hash": "C713D2EF656051EF",
+      "why": "Both word orders instruct the player to name the chocobo. The action and object remain unchanged."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/008/GaiUsb501_00870#TEXT_GAIUSB501_00870_SYSTEM_000_030",
+      "hash": "FB00DF41DC76DA2A",
+      "why": "Each target unlocks Duty Finder and states that the player need not form a party. The wording varies without changing the feature."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/008/GaiUsb501_00870#TEXT_GAIUSB501_00870_SYSTEM_000_031",
+      "hash": "F9073CAFC29AC0C6",
+      "why": "Sekcja and kategoria identify the same Duty menu section. Each target retains the Duty Finder labels and menu path."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030",
+      "hash": "BB8DE842EBDB58E4",
+      "why": "Each target unlocks Duty Finder and states that the player need not form a party. The wording varies without changing the feature."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031",
+      "hash": "1CCA6A5AB29AC3C0",
+      "why": "Sekcja and kategoria identify the same Duty menu section. Each target retains the Duty Finder labels and menu path."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_030",
+      "hash": "34DBDF1EB86CA308",
+      "why": "Each target unlocks Duty Finder and states that the player need not form a party. The wording varies without changing the feature."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_031",
+      "hash": "24BE602C7BA5A215",
+      "why": "Sekcja and kategoria identify the same Duty menu section. Each target retains the Duty Finder labels and menu path."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/012/ChrHdb101_01204#TEXT_CHRHDB101_01204_Q2A4_000_4",
+      "hash": "21E410B8E00D17BA",
+      "why": "Nic and Nic. give the same empty answer choice. Final punctuation does not change the choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts806_01421#TEXT_SUBCTS806_01421_SYSTEM_000_030",
+      "hash": "DFD60D96A647A384",
+      "why": "Both targets unlock glamour dressers in inn rooms. Pokoje gospód and pokoje gościnne identify the same inn accommodation."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts806_01421#TEXT_SUBCTS806_01421_SYSTEM_000_031",
+      "hash": "9F9CADED0FDFEF5F",
+      "why": "Each target refers to the dressers in the preceding instruction and retains item conversion and quick-use ensembles."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts807_01422#TEXT_SUBCTS807_01422_SYSTEM_100_030",
+      "hash": "9195CB730D1B03DF",
+      "why": "Receptury and przepisy both refer to the recipes in the tomes. Both targets retain the instruction to use the tomes."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SEQ_00",
+      "hash": "A3945A48B976792C",
+      "why": "The definite article can be implicit or expressed as tego. Each target describes the same troubled adventurer."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_000",
+      "hash": "43E75DB26F416954",
+      "why": "Each target identifies adventurers with retainer problems in the same three cities. City names can follow the head noun miastach or use Polish case forms."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_001",
+      "hash": "81A64344D30907A2",
+      "why": "Each target states that the rewards do not depend on which adventurer the player helps. The choice remains unrestricted."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_0050",
+      "hash": "BBF4BEC948B85C3B",
+      "why": "Ventures and wyprawy venture identify the same retainer activity. Each target unlocks dispatch for employed retainers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_0051",
+      "hash": "79019666232E3DC5",
+      "why": "Each target tells the player to summon the selected retainer and follow the instructions. Na wyprawę makes the stated purpose explicit."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_POPMESSAGE_000_000",
+      "hash": "656D2C7804169BE5",
+      "why": "Wciąż and nadal both mean that the enemy remains nearby. Both targets retain the warning."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SEQ_00",
+      "hash": "5A06D60C0D5D6BD4",
+      "why": "The definite article can be implicit or expressed as tego. Each target describes the same troubled adventurer."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_000",
+      "hash": "A6AE66B7CD04D4C3",
+      "why": "Each target identifies adventurers with retainer problems in the same three cities. City names can follow the head noun miastach or use Polish case forms."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_001",
+      "hash": "0B4ADC9A81B1AAFD",
+      "why": "Each target states that the rewards do not depend on which adventurer the player helps. The choice remains unrestricted."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_0050",
+      "hash": "B69028918C6C2E18",
+      "why": "Ventures and wyprawy venture identify the same retainer activity. Each target unlocks dispatch for employed retainers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_0051",
+      "hash": "6901CCD91C688DDA",
+      "why": "Each target tells the player to summon the selected retainer and follow the instructions. Na wyprawę makes the stated purpose explicit."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_POPMESSAGE_000_000",
+      "hash": "77F876ED86F7CB63",
+      "why": "Wciąż and nadal both mean that the enemy remains nearby. Both targets retain the warning."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_SEQ_00",
+      "hash": "FB45A7116CF0795D",
+      "why": "The definite article can be implicit or expressed as tego. Each target describes the same troubled adventurer."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_SYSTEM_000_000",
+      "hash": "0DDEA62F2432B53F",
+      "why": "Each target identifies adventurers with retainer problems in the same three cities. City names can follow the head noun miastach or use Polish case forms."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_SYSTEM_000_001",
+      "hash": "59CBB5DA044E24B0",
+      "why": "Each target states that the rewards do not depend on which adventurer the player helps. The choice remains unrestricted."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_SYSTEM_000_0050",
+      "hash": "FCBC32C71C444221",
+      "why": "Ventures and wyprawy venture identify the same retainer activity. Each target unlocks dispatch for employed retainers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/014/SubCts813_01434#TEXT_SUBCTS813_01434_SYSTEM_000_0051",
+      "hash": "4DD4AFC28066FC1B",
+      "why": "Each target tells the player to summon the selected retainer and follow the instructions. Na wyprawę makes the stated purpose explicit."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/015/SubCts106_01525#TEXT_SUBCTS106_01525_TODO_03",
+      "hash": "2232D770CC9612F7",
+      "why": "Relacja and raport both refer to reporting back. Each objective retains the visible NPC name Drillemont."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051",
+      "hash": "CDACD925FFCEF96C",
+      "why": "Zadanie and misja both refer to this quest. Each target requires the listed conditions."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_Q1_000_000",
+      "hash": "F296EBBF0626D074",
+      "why": "Co powiesz? and Co odpowiesz? both introduce the player dialogue choices. Neither changes the available answers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SYSTEM_000_050",
+      "hash": "6E258024A142F7D8",
+      "why": "Both targets unlock glamour dressers in inn rooms. Pokoje gospód and pokoje gościnne identify the same inn accommodation."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SYSTEM_000_051",
+      "hash": "948BA7F03BFCC527",
+      "why": "Each target refers to the dressers in the preceding instruction and retains item conversion and quick-use ensembles."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/SubCts897_03018#TEXT_SUBCTS897_03018_SYSTEM_000_063",
+      "hash": "C459C8B644BC26B9",
+      "why": "Receptury and przepisy both refer to the recipes in the tomes. Both targets retain the instruction to use the tomes."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/032/SubGsc107_03201#TEXT_SUBGSC107_03201_Q1_000_000",
+      "hash": "EB368C1C01C2A966",
+      "why": "Co powiesz? and Co odpowiesz? both introduce the player dialogue choices. Neither changes the available answers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_051",
+      "hash": "9BE030B874B9044F",
+      "why": "Zadanie and misja both refer to this quest. Each target requires the listed conditions."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/SubCts828_04764#TEXT_SUBCTS828_04764_TODO_00",
+      "hash": "525552545C1FBE6C",
+      "why": "Czekać, zaczekać and poczekać give the same objective. Wskazany and wyznaczony identify the same designated place."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGyr301_05187#TEXT_KINGYR301_05187_Q1_000_000",
+      "hash": "806BADADF8B9D0AF",
+      "why": "Co powiesz? and Co odpowiesz? both introduce the player dialogue choices. Neither changes the available answers."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGyr301_05187#TEXT_KINGYR301_05187_Q2_000_000",
+      "hash": "C517B0071150CA8B",
+      "why": "Co powiesz? and Co odpowiesz? both introduce the player dialogue choices. Neither changes the available answers."
     }
   ]
 }

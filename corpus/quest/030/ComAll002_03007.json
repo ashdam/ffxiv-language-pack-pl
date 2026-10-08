@@ -2,14 +2,14 @@
   "conversation": "quest/030/ComAll002_03007",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "" }
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "Softknox opowiedziała ci o Rival Wings, nowej grze wojennej wykorzystującej machiny goblinów. Jeśli taka bojozabawa przyprawia cię o sercołomot, możesz dowiedzieć się więcej od Softknox... albo od razu wkroczyć do akcji.<br><br>※Do Astragalos można wejść przez Duty Finder." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "Pszsz... Szkoo...<br>Softknox przychodzi do wilczego miejsca, dowiaduje się, że wierzchniacy mają wiele sercołomotów na myśl o bojozabawie." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "Softknox widzi szansę na pilny interes. Oferuje goblorękoużyczanie, żeby wierzchniacy mieli <italic(1)>lepszą<italic(0)> bojozabawę. Mocno chrupać kości i rozbijać stal!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "Teraz rodzi się nowa bojozabawa o nazwie „Rival Wings”! Machiny goblowyrobu pomagają wierzchniakom wspólnie robić wielką rozróbę!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "Jeśli wierzchniak chce napełnić mózgoskrzynię wiedzą o Rival Wings, Softknox chętnie daje mnóstwo językotrzepów!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "Pszsz... Szkoo... Gobliny robią nową bojozabawę, żeby dawać wiele sercołomotów. Czy wierzchniak ma dość mocny pęcherz, żeby spróbować?" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "Aby podjąć to zadanie, musisz spełniać następujące wymagania:" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "※ Musisz mieć co najmniej 30. poziom jako Uczeń Wojny lub Magii." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "※ Musisz należeć do Wielkiej Kompanii i mieć odblokowany tryb Feast." }
   ]
 }

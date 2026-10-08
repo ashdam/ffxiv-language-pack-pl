@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsa907_00802",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_00", "hash": "06F024E26DB2284E", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_01", "hash": "47C59927545571FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_02", "hash": "4F3238714A9897DF", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TODO_00", "hash": "AD7F617C3E5EBC13", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_000", "hash": "641D88628A603907", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_001", "hash": "06A6ACA0232626A0", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_002", "hash": "8366548F9113CA77", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020", "hash": "6441E2F38BD36146", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021", "hash": "096FAF41592A17A8", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022", "hash": "127395BE909CF1D9", "target": "" }
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_00", "hash": "06F024E26DB2284E", "target": "Tyoh Moui chce zezwolić ci na przejście przez bramę White Wolf Gate." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_01", "hash": "47C59927545571FC", "target": "W uznaniu twoich niedawnych dokonań kapral Węży Tyoh Moui udostępnia ci bramę White Wolf Gate. Aby przejść, okaż przepustkę strażnikowi Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_02", "hash": "4F3238714A9897DF", "target": "Po okazaniu przepustki uzyskujesz prawo swobodnego przejścia przez bramę White Wolf Gate. Kiedy zechcesz z niej skorzystać, wystarczy porozmawiać z Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TODO_00", "hash": "AD7F617C3E5EBC13", "target": "Porozmawiać z Franchemontiaux" },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_000", "hash": "641D88628A603907", "target": "<split(<string(gstr1)>, ,1)>, zgadza się? Z wielkim zainteresowaniem śledzę <if(gnum4,pani,pana)> dokonania." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_001", "hash": "06A6ACA0232626A0", "target": "Służba dla <switch(gnum70,Limsy Lominsy,Gridanii,Ul'dah)> przynosi <if(gnum4,pani,panu)> chlubę, lecz wierzę, że największe osiągnięcia dopiero nadejdą. Pokładając tak wielkie nadzieje, zezwalam na przejście przez <switch(gnum70,gridańską,naszą,gridańską)> bramę White Wolf Gate." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_002", "hash": "8366548F9113CA77", "target": "Proszę wziąć tę przepustkę i pokazać ją strażnikowi Franchemontiaux. Proszę dobrze przygotować się do przyszłych walk, a jestem pewna, że wkrótce znów usłyszę o <if(gnum4,pani,pana)> czynach." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020", "hash": "6441E2F38BD36146", "target": "Przez bramę White Wolf Gate mogą przechodzić tylko posiadacze przepustek. To dla twojego dobra: straszliwe bestie za nią rozszarpałyby nieprzygotowanego poszukiwacza przygód." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021", "hash": "096FAF41592A17A8", "target": "Masz dokumenty? Zobaczmy... Tak, wszystko wygląda na zgodne z przepisami." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022", "hash": "127395BE909CF1D9", "target": "Bezpiecznej drogi, <split(<string(gstr1)>, ,1)>. Kiedy znowu zechcesz przejść, wystarczy powiedzieć." }
   ]
 }

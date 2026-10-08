@@ -2,19 +2,19 @@
   "conversation": "quest/012/SubCts102_01216",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_00", "hash": "37A97814F38D5D1B", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_01", "hash": "E5763F351E21369D", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_02", "hash": "94347881E1971441", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_TODO_00", "hash": "B0B10661C08CC678", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_000", "hash": "A57C1B56FD0D970E", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_001", "hash": "CFB6028D6F193AE5", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_002", "hash": "62C898D2278DE1E1", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_003", "hash": "B521010E4B976266", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_010", "hash": "435F75FBABC7B3A6", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_011", "hash": "922EC81BA79264BC", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_012", "hash": "0D8389191CE40500", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_013", "hash": "C793606AD69C9B9D", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_014", "hash": "3DE4BAFB472C7DC0", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_015", "hash": "AAC98B5F0BA9E6C3", "target": "" }
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_00", "hash": "37A97814F38D5D1B", "target": "Hugubert z Myta Upiora ma wieści, którymi chce podzielić się w największej tajemnicy." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_01", "hash": "E5763F351E21369D", "target": "Ściszonym głosem Hugubert opowiada o złych wieściach z kopalni Copperbell. Potworne olbrzymy, które miały zostać wyparte w mroczne głębiny, powróciły, a wielu pełnych nadziei górników zapłaciło życiem za zbyt szybki powrót do pracy. Informator zachęca cię do rozmowy z Kamienną Pochodnią strzegącą wejścia do kopalni w rejonie Western Thanalan, by sprawdzić, czy można zaradzić sytuacji." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_02", "hash": "94347881E1971441", "target": "Dumny strażnik Kamiennych Pochodni niechętnie przyznaje, że olbrzymy znów nękają kopalnię, a jego osławiony oddział nie jest w stanie im sprostać. Jeśli nowe zagrożenie nie zostanie szybko zażegnane, całe wydobycie stanie pod znakiem zapytania. Wygląda na to, że Copperbell ponownie potrzebuje twojej pomocy.<br><br>※Do Copperbell Mines (Hard) można wejść przez Duty Finder." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_TODO_00", "hash": "B0B10661C08CC678", "target": "Porozmawiać z Kamienną Pochodnią przy Copperbell Mines" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_000", "hash": "A57C1B56FD0D970E", "target": "Ostatnio do tego zapomnianego przez bogów miejsca przybywa coraz więcej gości. Większość to zaprawieni w boju ludzie szukający godnej próby swego męstwa. Chyba mogę zaliczyć cię do ich grona?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_001", "hash": "CFB6028D6F193AE5", "target": "Słuchaj, nie wiesz tego ode mnie, ale podobno Copperbell Mines ostatnimi czasy niewiele różnią się od ósmego piekła." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_002", "hash": "62C898D2278DE1E1", "target": "Kamienne Pochodnie wmawiają nam, że panują nad sytuacją, ale mój znajomy górnik ma inne zdanie. Mówi, że Pochodnie znacznie lepiej radzą sobie z uciszaniem plotek niż olbrzymów, jeśli rozumiesz, o co mi chodzi." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_003", "hash": "B521010E4B976266", "target": "Dlaczego ci to zdradzam? Boję się o życie przyjaciela, a także o własne, jeśli te ogromne potwory wydostaną się na powierzchnię. Jeśli szukasz wyzwania, może <italic(1)>przypadkiem<italic(0)> trafisz do Copperbell i zaoferujesz swoje usługi?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_010", "hash": "435F75FBABC7B3A6", "target": "<if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód? Wbrew bezpodstawnym plotkom zapewniam, że twoje skromne umiejętności są tu zbędne. Żadne olbrzymy nie wróciły do kopalni, a nawet <italic(1)>gdyby<italic(0)>, Kamienne Pochodnie szybko i sprawnie uporałyby się z zagrożeniem, jak to mamy w zwyczaju... hm?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_011", "hash": "922EC81BA79264BC", "target": "Ekhm. Nie wiem, co właśnie dotarło do twoich uszu, ale z pewnością <italic(1)>nie<italic(0)> był to rozpaczliwy krzyk nieszczęsnego górnika pożeranego przez krwiożerczego olbrzyma rodem z przeklętych głębin." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_012", "hash": "0D8389191CE40500", "target": "...Ach, do siedmiu piekieł! To prawda, wszystko! Myśleliśmy, że już po nich, ale się myliliśmy! Strasznie, potwornie się myliliśmy! Straciliśmy czujność i teraz Copperbell roi się od przeklętych potworów, jeden gorszy od drugiego." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_013", "hash": "C793606AD69C9B9D", "target": "W tym chaosie straciliśmy już dziesiątki ludzi. Nieliczni, którzy wrócili żywi, twierdzą, że nawet dawniej potulne spriggans oszalały i całymi stadami rzucają się na biednych górników. Tyle z bycia zwiastunami bogactwa i szczęścia, co?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_014", "hash": "3DE4BAFB472C7DC0", "target": "Kamienne Pochodnie niechętnie korzystają z siły obcych, ale sumienie nie pozwala mi dłużej stawiać głupiej dumy ponad życiem dobrych ludzi." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_015", "hash": "AAC98B5F0BA9E6C3", "target": "Już raz <if(gnum4,odzyskałaś,odzyskałeś)> tę kopalnię. Pochodnie─nie, cały naród Ul'dah─byłyby ci dozgonnie wdzięczne za powtórzenie tego czynu. Błagam, <if(gnum4,przyjaciółko,przyjacielu)>: wypędź te potwory w głębiny, by nigdy więcej nie wróciły." }
   ]
 }

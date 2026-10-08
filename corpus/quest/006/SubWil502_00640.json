@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil502_00640",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "" }
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "Dowiadujesz się, że Mutamix zna tajemne techniki związane z materią..." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "Mutamix zgadza się nauczyć cię swoich tajemnych technik osadzania materii. Goblin wymaga jednak dowodu odpowiedniego doświadczenia. Pokaż swoje umiejętności, osadzając przed nim osiem sztuk materii." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "Wymagana liczba sztuk materii została osadzona. Porozmawiaj z Mutamixem ponownie, by poznać jego tajemną wiedzę." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "Mutamix przekazuje ci zaawansowane techniki osadzania materii, dzięki którym można umieścić w przedmiocie więcej sztuk materii niż zwykle. Pamiętaj jednak, że sukces nie jest gwarantowany, a porażka oznacza utratę materii." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "Osadzić materię przed Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "Porozmawiać z Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "Pszsz... Szkoo...<br><if(gnum4,Wierzchniaczka materiozłączaczką,Wierzchniak materiozłączaczem)>?" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "<if(gnum4,Wierzchniaczka,Wierzchniak)> chce złączać dużo-dużo, tak? Wtedy Mutamix napełni mózgoskrzynię <if(gnum4,wierzchniaczki,wierzchniaka)> tajemnymi wiedzeniami o materii!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "...Ale najpierw <if(gnum4,wierzchniaczka,wierzchniak)> musi pokazać gotowość. Trzeba pokazowo-złączyć osiem sztuk materii, potem znów wymienić językotrzepy z Mutamixem." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "Pszsz... Szkoo...<br><if(gnum4,Wierzchniaczka,Wierzchniak)> ma dobrą złączosztukę! Mutamix da <if(gnum4,wierzchniaczce,wierzchniakowi)> tajemne wiedzenia o słowowiązaniu!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "Zwykle bojonarzędzie mieści tylko mało materii. Ale jeśli <if(gnum4,wierzchniaczka,wierzchniak)> użyje tajemnej złączosztuki, jedno bojonarzędzie pomieści dużo materii... może." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "Mutamix nauczy <if(gnum4,wierzchniaczkę,wierzchniaka)> tajemnej złączosztuki... ale trzeba trzymać w mózgoskrzyni, że czasem wychodzi niepoprawnie." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "Czy bojonarzędzie <if(gnum4,wierzchniaczki,wierzchniaka)> pomieści dużo materii? Czy materia zmieni się w drobnookruszki? Tajemna złączosztuka nie dla tych ze słabym pęcherzem!" }
   ]
 }
