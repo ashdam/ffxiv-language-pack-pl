@@ -14664,6 +14664,288 @@
       "gameKey": "quest/051/KinGyr301_05187#TEXT_KINGYR301_05187_Q2_000_000",
       "hash": "C517B0071150CA8B",
       "why": "Co powiesz? and Co odpowiesz? both introduce the player dialogue choices. Neither changes the available answers."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#122.3",
+      "hash": "653978D2AF559AC3",
+      "why": "This is a clan selection label. Keep its English name as required by the glossary; Polish clan forms apply to prose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#130.3",
+      "hash": "F512B218690A88ED",
+      "why": "This is a clan selection label. Keep its English name as required by the glossary; Polish clan forms apply to prose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#132.3",
+      "hash": "E18C0FD0EE986121",
+      "why": "This is a clan selection label. Keep its English name as required by the glossary; Polish clan forms apply to prose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#138.3",
+      "hash": "A086CD9D4D3F2629",
+      "why": "This is a clan selection label. Keep its English name as required by the glossary; Polish clan forms apply to prose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#178.5",
+      "hash": "ED0D6600A42D8017",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#180.3",
+      "hash": "BCC40200E1AB09F1",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#180.5",
+      "hash": "C86E30E4794068C9",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#1804.5",
+      "hash": "BCD4FDA9C973AB21",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#1805.5",
+      "hash": "585E84FE79AFD87C",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#1806.5",
+      "hash": "61C7CA7B3C65F03E",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#182.3",
+      "hash": "7DB77CAEFBA878F0",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#182.5",
+      "hash": "99EAEA333F871462",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#184.3",
+      "hash": "A61DACB549383987",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#184.5",
+      "hash": "7E1775A85B86266C",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#186.3",
+      "hash": "31DE5C2D8713AE87",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#188.3",
+      "hash": "FCDDC8AEE679BA0A",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#188.5",
+      "hash": "414A5654B79E123C",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#190.3",
+      "hash": "449EDE68F68E29E3",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#190.5",
+      "hash": "B7D2F4D97704BD66",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#192.3",
+      "hash": "9D1B25310166C800",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#192.5",
+      "hash": "B8D82671AD3A7346",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#532.3",
+      "hash": "5ABD333C56EC3529",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#533.3",
+      "hash": "ABCB08ED2387234F",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#534.3",
+      "hash": "3FACCF4857095767",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#535.3",
+      "hash": "51A9A80458E7941C",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#536.3",
+      "hash": "469AF0BB872FBC30",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#537.3",
+      "hash": "BC0BDE59A112C47F",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#538.3",
+      "hash": "1646AEE5AE457121",
+      "why": "These are class or job system names in character creation. Keep the English labels; translate the surrounding descriptions."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Lobby#701.3",
+      "hash": "1C7F235782AF7A01",
+      "why": "High Summoner identifies an attire preset. It is part of the outfit name, not a reference to the Summoner job."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#155.3",
+      "hash": "2914AD2FB969769E",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#157.3",
+      "hash": "17384E58FCF8F556",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#159.3",
+      "hash": "36FAD6B9327D3885",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#161.3",
+      "hash": "0E13681A2061BC98",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#163.3",
+      "hash": "56DD2E6C01459792",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#165.3",
+      "hash": "0A3DDD4DEE140F6D",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#167.3",
+      "hash": "A3F3471759920D4C",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#169.3",
+      "hash": "081B03AC5594ABCB",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#171.3",
+      "hash": "044BDAF19A8AE647",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#173.3",
+      "hash": "D796846D0AA91362",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#175.3",
+      "hash": "170F0BFECFE8B330",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#177.3",
+      "hash": "5CEAF906106CB195",
+      "why": "This is the epithet of the selected patron deity. Translate the epithet; it does not name the wall-mounted furnishing."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#684.3",
+      "hash": "D80B1D89126D42CD",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#696.3",
+      "hash": "D603A9E047CF6B5A",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#700.3",
+      "hash": "99B8C76C32FB9CCF",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#703.3",
+      "hash": "C6057B259B96C077",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#704.3",
+      "hash": "6D5DAF3B17C1E4C5",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Lobby#705.3",
+      "hash": "E08BB2DB7CEC597D",
+      "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
     }
   ]
 }
