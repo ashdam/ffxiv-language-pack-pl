@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 92150,
-  "total": 524543,
+  "translated": 93171,
+  "total": 528215,
   "percent": 17.6,
-  "chars": 48800290,
+  "chars": 48837347,
   "unresolved": 5455,
   "groups": [
     {
@@ -381,7 +381,7 @@
     {
       "expansion": null,
       "content": "Title screen, character creation (`Lobby`)",
-      "translated": 1,
+      "translated": 1022,
       "total": 1022
     },
     {
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 1393,
-      "total": 165355
+      "total": 169027
     }
   ],
   "excludedFromLocalization": [
@@ -413,7 +413,7 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 0,
+      "translated": 22,
       "total": 1012
     }
   ],
