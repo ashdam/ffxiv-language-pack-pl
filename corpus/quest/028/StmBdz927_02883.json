@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz927_02883",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "" }
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "J'zula Tia ma kłopotliwe zadanie dla poszukiwacza przygód." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Użyć wytrzymałych worków konopnych do schwytania osłabionych stworzeń yabby" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Dostarczyć miotające się worki konopne postaci J'zula Tia" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "Jesteś <split(<string(gstr1)>, ,1)>, prawda? <if(gnum4,Słynna żołnierka i poszukiwaczka przygód,Słynny żołnierz i poszukiwacz przygód)>? Może za wiele sobie pozwalam, ale przydałaby mi się twoja pomoc z pewnym problemem." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "Mam schwytać dwa paskudne stworzenia wodne i muszę przyznać, że mnie to przerasta. Jednak dla kogoś takiego jak ty będzie to pewnie tylko lekka rozgrzewka przed <if([gnum11<12],<if([gnum11<4],kolacją,śniadaniem)>,<if([gnum11<17],obiadem,kolacją)>)>." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "Widzisz te potworne stworzenia yabby, które łażą na południe od White Aisle? Mam duże worki konopne, w których możesz je tu przywlec. Tylko najpierw trochę je zmęcz─jeśli będą miały choć odrobinę sił do walki, rozprują worki tymi swoimi kolczastymi ogonami." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "Jak mówiłem, zanim wepchniesz stworzenia yabby do worków, porządnie je osłab. I uważaj na ogony!" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "Udało ci się schwytać dla mnie te stworzenia yabby?" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "Ho, ho, ale żywiołowe szczypacze─lepiej zamknę je w zagrodzie, zanim się wydostaną. Dobrze jednak, że są takie złośliwe." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "Pytasz dlaczego? Cóż, między nami, planujemy użyć stworzeń yabby jako tajnej broni do siania zamętu w imperialnych obozach wojskowych. Chętnie zobaczyłbym minę garleańskiego oficera, gdyby jedno z tych cudeniek zaczęło szaleć w jego namiocie dowodzenia." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "Pytasz dlaczego? Cóż, planujemy użyć stworzeń yabby do szkolenia nowych rekrutów. Nigdy nie wiadomo, kiedy Imperium spróbuje odzyskać utracone ziemie, a odrobina doświadczenia bojowego jest lepsza niż żadna." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "Dziękuję, <split(<string(gstr1)>, ,1)>. Męczyło mnie już zaszywanie dziur w tych ogromnych workach..." }
   ]
 }

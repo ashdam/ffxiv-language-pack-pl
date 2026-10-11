@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz921_02877",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "" }
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "Munifrid szuka <if(gnum4,doświadczonej poszukiwaczki,doświadczonego poszukiwacza)> przygód do ważnego zadania." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Zabić zu nestling" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Złożyć raport postaci Munifrid" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, <if(gnum4,pani żołnierskie czyny są dobrze znane,pana żołnierskie czyny są dobrze znane)>. Dzisiaj jednak chciałbym skorzystać z bogatych doświadczeń w poszukiwaniu przygód." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "Część naszej trasy patrolowej najwyraźniej znalazła się na terytorium przerażającego stworzenia zu nestling. Nie możemy jednak po prostu omijać tego terenu: zostawilibyśmy imperialnym zwiadowcom nieobserwowaną drogę wejścia." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "Moi ludzie i ja chętnie staniemy twarzą w twarz z każdym wojskowym przeciwnikiem. Ale żaden trening nie przygotował nas do walki z wrogiem, który może szybować przez wąwozy i bezkarnie spadać na nas z góry." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "Mój towarzysz tutaj omal nie stracił ręki podczas takiego ataku. Obawiam się, że to tylko kwestia czasu, aż stworzenie kogoś zabije... chyba że najpierw zabije je <if(gnum4,pani,pan)>." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "Pisklę obserwuje swoje włości z wąskiego skalnego słupa na północnym wschodzie. Proszę odnaleźć tego drapieżnika i położyć kres zagrożeniu dla naszych patroli." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "Może w końcu sami je pokonamy, ale zbyt wiele naszej krwi splami te skalne ściany. Mam jednak nadzieję, że dla <if(gnum4,tak wybitnej pogromczyni,tak wybitnego pogromcy)> potworów nie będzie to wielkie wyzwanie..." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "Więc pisklę nie żyje? Wiedziałem, że wybrałem <if(gnum4,właściwą kobietę,właściwego mężczyznę)> do tego zadania." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "Jestem wdzięczny za przybycie, zanim ktokolwiek stracił życie przez tego potwornego ptaka. Dziękujemy!" }
   ]
 }

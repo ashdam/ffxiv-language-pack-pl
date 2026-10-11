@@ -2,19 +2,19 @@
   "conversation": "quest/029/StmBdy104_02922",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "" }
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "Zapach twojego ciała zwrócił uwagę Sumitsubo." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "Porozmawiać z postacią kindly Kojin" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "Hmm...? \\<pociąga nosem> Pachniesz rybami. Czy to znaczy, że zajmujesz się rybołówstwem tam, na górze?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "Jeśli lubisz polować na ryby tam, na górze, to z pewnością spodoba ci się też polowanie na nie tutaj, na dole." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "Pod wodą nie można jednak używać wędek i kołowrotków. Potrzebny ci harpun, żeby szybko i bezgłośnie ugodzić zdobycz, tak jak przedstawiciele ludu Kojin. Pewnie nazywacie to... spearfishing?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "Chcesz nauczyć się techniki spearfishing? Jeśli zobaczysz na zewnątrz któregoś z moich Błękitnych braci, z pewnością chętnie pokaże ci, jak to się robi." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "Ktoś, kto poluje i pachnie rybami tak jak ty, odnajdzie się w technice spearfishing jak Kojin w wodzie. Jestem pewien, że moi Błękitni bracia z radością pokażą ci, jak to się robi." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "Chcesz polować na ryby harpunem? To przecież równie łatwe jak oddychanie pod wodą. A skoro nie masz sinej twarzy, widzę, że opanujesz tę umiejętność w mgnieniu oka." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "Najpierw musisz poszukać miejsca, gdzie gromadzą się ryby. Gdy znajdziesz odpowiednią ławicę, ustabilizuj harpun i zaatakuj szybkim, płynnym pchnięciem." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "Oto cała sztuka połowu harpunem, zamknięta w muszli. Oczywiście te wyjaśnienia na nic się nie zdadzą, jeśli nie masz harpuna do ćwiczeń. Proszę, weź jeden z moich." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "Rozejrzyj się, a pewnie znajdziesz w pobliżu obiecującą zdobycz. Żegnaj, <if(gnum4,przyjaciółko,przyjacielu)>, i udanych łowów." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "Możesz teraz łowić ryby za pomocą techniki spearfishing. W tym celu najpierw musisz wyposażyć się w spearfishing gig jako narzędzie dodatkowe." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "Używając akcji Fathom, możesz odnajdywać łowiska teeming waters podczas eksploracji oceanu." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "Z narzędziem spearfishing gig w ręku możesz korzystać z łowisk teeming waters, aby łowić ryby." }
   ]
 }

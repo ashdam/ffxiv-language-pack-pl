@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz815_01945",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_00", "hash": "61DA59A7FB0358BD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_01", "hash": "72BE0B2446CEF4F4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_02", "hash": "A63474D7F4DB7DDA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_03", "hash": "365CE2E19F1667CE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_00", "hash": "CE98B461940B1EEE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_01", "hash": "567034BD29A67934", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_000", "hash": "A232F11E7549AB46", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_001", "hash": "9DE319FE5480E372", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_002", "hash": "C63384E2336B181A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_010", "hash": "03111E06D2E936C2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_020", "hash": "D4FCEEEB74A79AAD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_021", "hash": "2E104E02CE6B8632", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_022", "hash": "2642A1CCB20131B7", "target": "" }
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_00", "hash": "61DA59A7FB0358BD", "target": "Halfsix wierci się niespokojnie." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_01", "hash": "72BE0B2446CEF4F4", "target": "Eteryt w Idyllshire może tracić stabilność i wymaga dokładnej kontroli. Halfsix nie ma jednak rozdzielaczy przepływu eteru potrzebnych do analizy. Podobnie jak wiele rzeczy w rozwijającej się osadzie, one też najwyraźniej znajdują się gdzieś w Arkhitekton. Halfsix prosi cię więc o udanie się tam i przeszukanie garnków Illuminati w poszukiwaniu trzech takich narzędzi." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_02", "hash": "A63474D7F4DB7DDA", "target": "Zdobywasz trzy rozdzielacze przepływu eteru, a przy okazji rozprawiasz się z kilkoma Illuminati. Wróć z nimi do Halfsixa w Idyllshire." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_03", "hash": "365CE2E19F1667CE", "target": "Halfsix dziękuje ci za przysługę. Dzięki twoim staraniom eteryt w Idyllshire z pewnością będzie się obracał jeszcze przez wiele lat." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_00", "hash": "CE98B461940B1EEE", "target": "Przeszukać Illuminati pots w Arkhitekton w poszukiwaniu rozdzielaczy przepływu eteru" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_01", "hash": "567034BD29A67934", "target": "Dostarczyć rozdzielacze przepływu eteru postaci Halfsix" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_000", "hash": "A232F11E7549AB46", "target": "Pszsz... Szkoo... Halfsix ma bardzo ważne zadanie dla <if(gnum4,niezawodnej wierzchniaczki,niezawodnego wierzchniaka)>, trzeba zrobić z szybkością!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_001", "hash": "9DE319FE5480E372", "target": "Eteryt Idyllshire potrzebuje przeglądu, może też konserwacji. Jeśli gobliny nie sprawdzą i nie naprawią małych problemów, obracanie może zadrżeć i stanąć─albo będzie bardzo wielkie bum! Ale Halfsix nie ma właściwych narzędzi..." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_002", "hash": "C63384E2336B181A", "target": "<if(gnum4,Wierzchniaczko,Wierzchniaku)>, nie ma czasu do stracenia! Halfsix potrzebuje rozdzielaczy przepływu eteru. Najbliższe w bazie Illuminati! No, no, napadnij ich garnki z zapasami!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_010", "hash": "03111E06D2E936C2", "target": "Pośpiesz się, <if(gnum4,wierzchniaczko,wierzchniaku)>! Rozdzielacze przepływu eteru są gdzieś w Arkhitekton!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_020", "hash": "D4FCEEEB74A79AAD", "target": "Czy <if(gnum4,wierzchniaczka,wierzchniak)> ma rozdzielacze przepływu eteru?" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_021", "hash": "2E104E02CE6B8632", "target": "Pszsz... Szkoo... Dziękuję, <if(gnum4,wierzchniaczko,wierzchniaku)>! Z nimi Halfsix może robić konserwację!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_022", "hash": "2642A1CCB20131B7", "target": "Wierzchniaki z Sharlayanu robią wirujące eteryty, używają sprytnych dawnych wiedz. Jeśli goblostado użyje narzędzi i części zostawionych przez dawnych wierzchniaków, eteryt Idyllshire będzie się obracał przez wiele, wiele lat!" }
   ]
 }

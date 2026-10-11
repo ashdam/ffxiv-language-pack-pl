@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz111_01760",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "" }
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "Jantellot chce, byś na własnej skórze <if(gnum4,poznała,poznał)> życie w Convictory." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "Jantellot chce pokazać ci, jak wygląda życie w Convictory, i proponuje małe polowanie. Choć żołnierze Convictory zabijają smoki, Jantellot radzi rozgrzać się przed starciem z samą Drawańską Hordą. Na początek proponuje polowanie na rheums. Znajdź i zabij trzy." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "Wyruszasz w góry i zabijasz rheums zgodnie z poleceniem. Wróć do Jantellota w Convictory i powiedz, że czas na coś bardziej smoczego." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "Jantellot gratuluje ci udanych łowów. Wygląda na to, że rheums nie miały z tobą szans. Ale smoki to zupełnie inna sprawa. Proponuje kolejną rozmowę, jeśli zechcesz spróbować prawdziwego polowania." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "Zabić rheums" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "Zdać raport postaci Jantellot" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "Pamiętam cię─jak mógłbym zapomnieć? To ty, <if(gnum4,dziewczyna,chłopak)> w towarzystwie Lazurowego Smoczego Rycerza! Skoro już tu jesteś, może przed odejściem spróbujesz sił w polowaniu? Zobacz, jak wygląda życie nas, żołnierzy Convictory." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "Drawańska Horda jest silniejsza, niż się spodziewasz. Jeśli nie masz lat doświadczenia─tak jak ja─rozsądnie zacząć od czegoś prostego i stopniowo przejść do smoków. Proponuję rheums. Zabij trzy i wróć tutaj. Potraktuj to jako rozgrzewkę!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "Horda pochłonęła życie niejednego zbyt pewnego siebie młodego żołnierza. Lepiej zacząć od czegoś bezpieczniejszego: zabij trzy rheums i wróć do mnie." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "Już po tych rheums? Jak poszło? Stawiały duży opór?" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "Dobra robota, <if(gnum4,dziewczyno,chłopcze)>! Widać, że Lazurowy Smoczy Rycerz nie podróżuje z amatorami. Wygląda na to, że te rheums stawiły za mały opór nawet jak na porządną rozgrzewkę!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "Widać, że znasz się na rzeczy. Jeśli chcesz spróbować sił w polowaniu na smoki, porozmawiaj ze mną jeszcze kiedyś." }
   ]
 }

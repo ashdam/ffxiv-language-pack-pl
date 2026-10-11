@@ -14946,6 +14946,918 @@
       "gameKey": "Lobby#705.3",
       "hash": "E08BB2DB7CEC597D",
       "why": "This is an outfit preview preset, not an inventory item request. Translate the equipment descriptor and keep the set identifier."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/021/HeaVny002_02112#TEXT_HEAVNY002_02112_SANUVANU_000_007",
+      "hash": "8786B5D3FD7209E6",
+      "why": "The coming storm is a weather metaphor for the Vundu threat, not the Machinist weapon."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_02",
+      "hash": "365DF982E4C5C295",
+      "why": "House Fortemps knight is the literal English NPC label in a quest objective."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/026/StmBdz005_02639#TEXT_STMBDZ005_02639_TODO_01",
+      "hash": "B5D38D9A982BD569",
+      "why": "Garlean drones is the literal English target label in a quest objective."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/026/StmBdz005_02639#TEXT_STMBDZ005_02639_TODO_02",
+      "hash": "DD8CAB4BD7DF9969",
+      "why": "Garlean drones is the literal English target label in a quest objective."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/022/ChrHdb622_02227#TEXT_CHRHDB622_02227_TODO_01",
+      "hash": "2FD37781C01AE4E1",
+      "why": "The name Nashu is indeclinable; both forms with or without postać are grammatical."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_Q2_000_000",
+      "hash": "85562C7AE16E1854",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_Q1_000_000",
+      "hash": "40C8DDBBF6E18487",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_Q2_000_000",
+      "hash": "C9B48D22E77516BB",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_TODO_01",
+      "hash": "7FE2485094753866",
+      "why": "The name Nashu is indeclinable; both forms with or without postać are grammatical."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_TODO_03",
+      "hash": "FA7B1AA4B41BF4D9",
+      "why": "The name Nashu is indeclinable; both forms with or without postać are grammatical."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_TODO_05",
+      "hash": "5E162E190274AB6D",
+      "why": "The name Nashu is indeclinable; both forms with or without postać are grammatical."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_Q1_000_004",
+      "hash": "50D0DC43F3E94398",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_Q1_000_094",
+      "hash": "8C955CD62C853F07",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_TODO_01",
+      "hash": "7D1EB47E3E7487E5",
+      "why": "The name Nashu is indeclinable; both forms with or without postać are grammatical."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_A3_000_003",
+      "hash": "697F19AECF4A36CE",
+      "why": "Nic with or without a full stop is a valid choice label."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_Q1_000_000",
+      "hash": "CA57D662D82720D1",
+      "why": "Co powiesz and Co odpowiesz are valid Polish prompts for a dialogue choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_Q2_000_000",
+      "hash": "6CE42244438FA544",
+      "why": "Co zrobisz and Co zrobić are valid Polish prompts for an action choice."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_Q3_000_000",
+      "hash": "7523FD176576F0CD",
+      "why": "Co zrobisz and Co zrobić are valid Polish prompts for an action choice."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/026/StmBdz113_02663#TEXT_STMBDZ113_02663_TODO_03",
+      "hash": "612F48AD0ABBA3C0",
+      "why": "Garlean soldier is the literal English NPC label in a quest objective."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_TODO_02",
+      "hash": "F9DCCBA863703D6D",
+      "why": "Wolf Burglar is the literal English NPC label in a quest objective."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_TODO_00",
+      "hash": "1E94FC4FBDAF8CD7",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_TODO_02",
+      "hash": "4BAE6BBB43F40AF4",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_TODO_03",
+      "hash": "C957B96DE0029DE2",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_TODO_06",
+      "hash": "67129C33F40227CD",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/026/StmBdz111_02661#TEXT_STMBDZ111_02661_POP_MESSAGE_100_040",
+      "hash": "DE7F6EBA38773205",
+      "why": "Both Polish messages describe an attack on the player."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_Q1_000_058",
+      "hash": "B528D9E2BBCBB2A4",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q1_000_000",
+      "hash": "0E12AC7BE076C424",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q2_000_000",
+      "hash": "229DA30EAC258D20",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q4_000_000",
+      "hash": "2BA8B4962FFA2CF3",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q5_000_000",
+      "hash": "D11A3225E1E95373",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q6_000_000",
+      "hash": "7ED4AD0016C10F89",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q7_000_000",
+      "hash": "BE6474083C875AA9",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/021/HeaVny809_02118#TEXT_HEAVNY809_02118_SEQ_01",
+      "hash": "94596ED6B1A81651",
+      "why": "Keep literal English NPC and map labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/021/HeaVny809_02118#TEXT_HEAVNY809_02118_SYSTEM_000_030",
+      "hash": "9EDA58895FE2F3EA",
+      "why": "Keep literal English NPC and map labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/021/HeaVny809_02118#TEXT_HEAVNY809_02118_TODO_00",
+      "hash": "AE9D857248C0749B",
+      "why": "Keep literal English NPC and map labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/022/HeaVny004_02202#TEXT_HEAVNY004_02202_SEQ_03",
+      "hash": "180F6A0F1FE451A4",
+      "why": "Keep literal English NPC and map labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/023/HeaVny104_02386#TEXT_HEAVNY104_02386_SEQ_01",
+      "hash": "2CEF686BD8B52E09",
+      "why": "Keep literal English NPC and map labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/026/StmBdz114_02664#TEXT_STMBDZ114_02664_TODO_01",
+      "hash": "AF70A62D8B743289",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/023/ChrHdb641_02369#TEXT_CHRHDB641_02369_CYR_000_096",
+      "hash": "E6066A9E3B89280D",
+      "why": "Keep the English map label; wild rose names a flower in this scene."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/023/ChrHdb641_02369#TEXT_CHRHDB641_02369_HILDIBRAND_000_030",
+      "hash": "1C66191362F607AC",
+      "why": "Keep the English map label; wild rose names a flower in this scene."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb731_03094#TEXT_CHRHDB731_03094_Q1_000_000",
+      "hash": "31EF88C21B1667A7",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_Q1_000_000",
+      "hash": "1F70D7A57FF786C4",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha101_03725#TEXT_LUCKHA101_03725_Q1_000_000",
+      "hash": "A557B1EBECB680FB",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q2_000_000",
+      "hash": "580B14D7BD5A25E1",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q3_000_000",
+      "hash": "72EA9BC238FA8379",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q4_000_000",
+      "hash": "F641ACDE4C22E91C",
+      "why": "Both Polish prompts are valid dialogue choices."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/031/ChrHdb741_03150#TEXT_CHRHDB741_03150_TODO_03",
+      "hash": "0A229B8A7D86D209",
+      "why": "Keep the English NPC label in quest objectives."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/022/HeaVny103_02282#TEXT_HEAVNY103_02282_RAYAOSENNA_000_011",
+      "hash": "950390C35E3956EA",
+      "why": "White Mage names the player job in this conditional dialogue."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_SEQ_02",
+      "hash": "D06AEAC7254FC054",
+      "why": "Keep the English map and NPC group labels in these references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_TODO_04",
+      "hash": "B7ABCB34450E8E2F",
+      "why": "Keep the English map and NPC group labels in these references."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_POP_MESSAGE",
+      "hash": "A3DBD6F3798D2BD7",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb741_03150#TEXT_CHRHDB741_03150_Q1_000_000",
+      "hash": "D3BC5D9859A9C834",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb741_03150#TEXT_CHRHDB741_03150_Q2_000_000",
+      "hash": "AB1C45248FF62A4A",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_Q1_000_000",
+      "hash": "0FD30B240FDB3226",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/LucKha104_03728#TEXT_LUCKHA104_03728_Q1_000_000",
+      "hash": "D9671D289F7EE046",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_Q1_000_000",
+      "hash": "6EABD69594D81E37",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKha201_03955#TEXT_LUCKHA201_03955_Q1_000_000",
+      "hash": "737B8A49F1FEA9C5",
+      "why": "Both Polish prompt or attack-message variants are valid in their contexts."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/028/StmBdz823_02851#TEXT_STMBDZ823_02851_TODO_01",
+      "hash": "3CF1F0C80FC2E634",
+      "why": "Highlander merchant jest dosłowną etykietą NPC w celu zadania."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/021/HeaVny003_02113#TEXT_HEAVNY003_02113_TODO_01",
+      "hash": "FFD93831E7E6F980",
+      "why": "Allagan teleporter jest dosłowną etykietą obiektu z główką urządzenie w celu zadania."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_TODO_03",
+      "hash": "14F76DA3EE2B02D0",
+      "why": "Etykieta NPC pozostaje po angielsku; dzika róża jest hasłem, nie bronią Wild Rose."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_A1_000_003",
+      "hash": "384B5569F8A90718",
+      "why": "Etykieta NPC pozostaje po angielsku; dzika róża jest hasłem, nie bronią Wild Rose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_MELKOKO_000_084",
+      "hash": "4D12C84A3DC5593E",
+      "why": "Seventh Sage jest nazwą sklepu, nie profesją Sage."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_MELKOKO_000_098",
+      "hash": "A553A6AC57A9BD57",
+      "why": "Seventh Sage jest nazwą sklepu, nie profesją Sage."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_SEQ_04",
+      "hash": "DDDC7E4DE710A7A7",
+      "why": "Seventh Sage jest nazwą sklepu, nie profesją Sage."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_SEQ_05",
+      "hash": "6FD6F5A733E55465",
+      "why": "Seventh Sage jest nazwą sklepu, nie profesją Sage."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_ZRANMAIA_000_099",
+      "hash": "1D613BF5CB125CE6",
+      "why": "Seventh Sage jest nazwą sklepu, nie profesją Sage."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_KEZULITZCAN_000_058",
+      "hash": "CB3C06C012984BE8",
+      "why": "Dopełniacz Allagan jest poprawną odmianą polskiej nazwy Allaganie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_PHILIOT_000_037",
+      "hash": "76F3958A29CEC0B9",
+      "why": "Dopełniacz Allagan jest poprawną odmianą polskiej nazwy Allaganie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_SEQ_02",
+      "hash": "C30BA957D59716A7",
+      "why": "Dopełniacz Allagan jest poprawną odmianą polskiej nazwy Allaganie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_SEQ_05",
+      "hash": "2985BCCCB7B33CB1",
+      "why": "Dopełniacz Allagan jest poprawną odmianą polskiej nazwy Allaganie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_SEZULTOTOLOC_000_060",
+      "hash": "BD98F2E282B7FCCD",
+      "why": "Dopełniacz Allagan jest poprawną odmianą polskiej nazwy Allaganie."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/013/SubCts003_01389#TEXT_SUBCTS003_01389_TODO_01",
+      "hash": "010C82EC84772E2A",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/022/HeaVny103_02282#TEXT_HEAVNY103_02282_TODO_01",
+      "hash": "2C8B290914CE1D92",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_TODO_03",
+      "hash": "C0FC54372E7122B0",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_POPMESSAGE_100_010",
+      "hash": "399D269DFFA676AB",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/ChrHdb731_03094#TEXT_CHRHDB731_03094_TODO_00",
+      "hash": "6A919BA466704663",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_Q2_000_097",
+      "hash": "C6C5F7DC7B8F0A93",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_Q3_000_118",
+      "hash": "E6010AEED88523CF",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_Q4_000_134",
+      "hash": "A8875A92128049AB",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_Q5_000_156",
+      "hash": "A217B76E5FD56F08",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_TODO_01",
+      "hash": "396170541888D036",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_Q1_000_000",
+      "hash": "A9A754BB6DA3BEDB",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_TODO_00",
+      "hash": "E1E0B011A19425E6",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_TODO_03",
+      "hash": "4AA5F48B942F1477",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_Q1_000_000",
+      "hash": "20765A115CFC90A3",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_Q2_000_000",
+      "hash": "AC2861F42CE930A9",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_Q3_000_000",
+      "hash": "96F9732A50C6E595",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKha202_03956#TEXT_LUCKHA202_03956_Q1_000_000",
+      "hash": "5386A2B5D70DE5AB",
+      "why": "Wariant jest poprawny w kontekście; synonimiczne pytania i opisowe główki przed angielskimi etykietami są dopuszczalne."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_TODO_04",
+      "hash": "95FE204581109716",
+      "why": "Doman Enclave jest dosłowną angielską nazwą miejsca w interfejsie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/031/StmBdy503_03141#TEXT_STMBDY503_03141_SYSTEM_000_100",
+      "hash": "10CDB7FC462844CF",
+      "why": "Doman Enclave jest dosłowną angielską nazwą miejsca w interfejsie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_SYSTEM_000_070",
+      "hash": "9E7A24DA5790D13D",
+      "why": "Doman Enclave jest dosłowną angielską nazwą miejsca w interfejsie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/031/StmBdy005_03142#TEXT_STMBDY005_03142_SEQ_01",
+      "hash": "EBDDA50120099177",
+      "why": "Dravanian Hinterlands jest dosłowną angielską nazwą miejsca w interfejsie."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/020/HeaVny804_02098#TEXT_HEAVNY804_02098_LYDIRLONA_000_001",
+      "hash": "EF8F92A6E33C1304",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/020/HeaVny804_02098#TEXT_HEAVNY804_02098_SEQ_01",
+      "hash": "6B8753DB9EB0F90F",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_01",
+      "hash": "AB52C4086FAE0716",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/022/HeaVnr291_02254#TEXT_HEAVNR291_02254_SEQ_02",
+      "hash": "3D6709D7C8D3FE84",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/023/HeaVnr391_02340#TEXT_HEAVNR391_02340_SEQ_02",
+      "hash": "D08AECC577D5CA46",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/022/HeaVny301_02203#TEXT_HEAVNY301_02203_ALYS_000_000",
+      "hash": "B950CE774B1854A0",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/022/HeaVny301_02203#TEXT_HEAVNY301_02203_SEQ_01",
+      "hash": "630E388F9C57081F",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/022/HeaVny302_02289#TEXT_HEAVNY302_02289_ALYS_000_000",
+      "hash": "099F3E533470C73B",
+      "why": "Dravanian Hinterlands jest nazwą strefy. Seventh Heaven oznacza gospodę, nie przedmiot."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_A1_000_001",
+      "hash": "279C0F05ACE6AFCE",
+      "why": "Liczba adresatów zależy od sceny; zachować formę pojedynczą lub mnogą."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_A1_000_001",
+      "hash": "B293B5F469B17C3C",
+      "why": "Liczba adresatów zależy od sceny; zachować formę pojedynczą lub mnogą."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/024/StmBda111_02451#TEXT_STMBDA111_02451_TODO_00",
+      "hash": "D6112A1898C5C832",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/024/StmBda111_02451#TEXT_STMBDA111_02451_TODO_03",
+      "hash": "3F1A43885DE3D722",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/024/StmBda113_02453#TEXT_STMBDA113_02453_TODO_03",
+      "hash": "CFA536BCA8BA7C1D",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/024/StmBda131_02461#TEXT_STMBDA131_02461_TODO_00",
+      "hash": "A54D7E9A8C99810E",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda604_02530#TEXT_STMBDA604_02530_TODO_02",
+      "hash": "6874ED7EDF3651A1",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda607_02533#TEXT_STMBDA607_02533_TODO_01",
+      "hash": "88D3D67CCB0C7780",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda607_02533#TEXT_STMBDA607_02533_TODO_02",
+      "hash": "864D36168AAB59CF",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda608_02534#TEXT_STMBDA608_02534_SEQ_02",
+      "hash": "7C313D91D976C319",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda608_02534#TEXT_STMBDA608_02534_TODO_02",
+      "hash": "88F3A3ACCA3BE4D0",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda620_02546#TEXT_STMBDA620_02546_TODO_05",
+      "hash": "9AB9929D27E7DC47",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/025/StmBda706_02553#TEXT_STMBDA706_02553_TODO_06",
+      "hash": "9A68202F6DDB854B",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/SubCts610_03005#TEXT_SUBCTS610_03005_TODO_00",
+      "hash": "176572924F0453E5",
+      "why": "Żeńskie imię M'naago jest nieodmienne; obie formy celu zachowują etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/022/HeaVny004_02202#TEXT_HEAVNY004_02202_TODO_00",
+      "hash": "189DB0EAAAED47C4",
+      "why": "Obie formy celu zachowują etykietę NPC i nazwę instancji; rzeczownik arboretum jest opcjonalny."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBdy005_03142#TEXT_STMBDY005_03142_TODO_02",
+      "hash": "4C67D54E9DFD827D",
+      "why": "Obie formy celu zachowują etykietę NPC i nazwę instancji; rzeczownik arboretum jest opcjonalny."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_02",
+      "hash": "F0F47E133924A78B",
+      "why": "Warianty czasownika czekać i określenia miejsca mają ten sam sens."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/026/StmBdy001_02632#TEXT_STMBDY001_02632_Q1_000_050",
+      "hash": "8F0267BC1CBCAD38",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/030/StmBdy004_03077#TEXT_STMBDY004_03077_Q1_000_000",
+      "hash": "82C1F492D4BFA5CC",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBdy005_03142#TEXT_STMBDY005_03142_Q1_000_000",
+      "hash": "B94D358B48839C4C",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBdy503_03141#TEXT_STMBDY503_03141_Q1_000_006",
+      "hash": "A085BE0EA85ED6EA",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_Q1_000_000",
+      "hash": "E6E3A4495F296930",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_Q1_000_000",
+      "hash": "AD3F083CE6D2BF2E",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_Q1_000_000",
+      "hash": "0CB76E2BCD27E444",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKha301_03999#TEXT_LUCKHA301_03999_Q1_000_000",
+      "hash": "81A3FF448683C39C",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_Q1_000_000",
+      "hash": "6D9A1261F7626DFD",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKha303_04001#TEXT_LUCKHA303_04001_Q1_000_000",
+      "hash": "770BB3C5377AECFC",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKha304_04002#TEXT_LUCKHA304_04002_Q1_000_000",
+      "hash": "CB0AF39FED82B150",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_POPMESSAGE_000_000",
+      "hash": "FD4EADC48D380165",
+      "why": "Oba komunikaty poprawnie informują o ataku na gracza."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/021/HeaVny809_02118#TEXT_HEAVNY809_02118_SEQ_00",
+      "hash": "C8B38731FE601CDF",
+      "why": "Zmiana szyku zdania zachowuje sens i obraz zdumionego nieznajomego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_00",
+      "hash": "1FD36C59C7D266B2",
+      "why": "Zmiana szyku zdania zachowuje sens i obraz zdumionego nieznajomego."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/015/SubCts004_01526#TEXT_SUBCTS004_01526_TODO_01",
+      "hash": "3C50B340F3C97213",
+      "why": "Cel misji zachowuje angielską etykietę miejsca Moraby Drydocks; Stocznia Moraby dotyczy prozy."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/022/HeaVny102_02248#TEXT_HEAVNY102_02248_TODO_00",
+      "hash": "985131E1CFBBFBCA",
+      "why": "Cel misji zachowuje angielską etykietę miejsca Moraby Drydocks; Stocznia Moraby dotyczy prozy."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_04",
+      "hash": "F7D60A264B88E390",
+      "why": "Zdać relację i Złożyć raport zachowują sens celu oraz dosłowną etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz414_02737#TEXT_STMBDZ414_02737_TODO_04",
+      "hash": "977607A301B43A9B",
+      "why": "Zdać relację i Złożyć raport zachowują sens celu oraz dosłowną etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz415_02738#TEXT_STMBDZ415_02738_TODO_03",
+      "hash": "C24760A4C6756C7C",
+      "why": "Zdać relację i Złożyć raport zachowują sens celu oraz dosłowną etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz416_02739#TEXT_STMBDZ416_02739_TODO_05",
+      "hash": "DA29B7D4F1C85B28",
+      "why": "Zdać relację i Złożyć raport zachowują sens celu oraz dosłowną etykietę NPC."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz309_02705#TEXT_STMBDZ309_02705_Q1_100_091",
+      "hash": "40C1B9854677AA67",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz309_02705#TEXT_STMBDZ309_02705_Q2_100_151",
+      "hash": "2D7050B9DD469617",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz310_02706#TEXT_STMBDZ310_02706_Q1_000_100",
+      "hash": "701703E9B0AD19C6",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz310_02706#TEXT_STMBDZ310_02706_Q2_000_160",
+      "hash": "C707534BBB01897A",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz310_02706#TEXT_STMBDZ310_02706_Q3_000_200",
+      "hash": "387A0DC499FD0628",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz311_02707#TEXT_STMBDZ311_02707_Q1_000_160",
+      "hash": "19369FD408D9F27D",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_Q1_000_000",
+      "hash": "F155506A9726EAB7",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz415_02738#TEXT_STMBDZ415_02738_Q1_000_000",
+      "hash": "B4959B3765AAB882",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz417_02740#TEXT_STMBDZ417_02740_Q1_000_000",
+      "hash": "29848412CDFBCFB7",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz425_02748#TEXT_STMBDZ425_02748_Q1_000_000",
+      "hash": "0E27C9CECD71B99C",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz613_02791#TEXT_STMBDZ613_02791_Q1_000_000",
+      "hash": "46A7D07B1C523F51",
+      "why": "Co powiesz i Co odpowiesz są poprawnymi wariantami pytania dialogowego."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz410_02733#TEXT_STMBDZ410_02733_POP_MESSAGE_000_022",
+      "hash": "E825D7F04E49C810",
+      "why": "Warianty poprawnie informują o ataku; Coś cię atakuje odpowiada scenie z potworem."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz416_02739#TEXT_STMBDZ416_02739_POPMESSAGE_100_030",
+      "hash": "26DBE8179D6777C8",
+      "why": "Warianty poprawnie informują o ataku; Coś cię atakuje odpowiada scenie z potworem."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz426_02749#TEXT_STMBDZ426_02749_POPMESSAGE_100_030",
+      "hash": "41B75D5CD44DE025",
+      "why": "Warianty poprawnie informują o ataku; Coś cię atakuje odpowiada scenie z potworem."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/027/StmBdz428_02751#TEXT_STMBDZ428_02751_POPMESSAGE_100_042",
+      "hash": "6B3892988BFA2D64",
+      "why": "Warianty poprawnie informują o ataku; Coś cię atakuje odpowiada scenie z potworem."
     }
   ]
 }

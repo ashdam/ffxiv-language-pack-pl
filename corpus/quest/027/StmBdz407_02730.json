@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz407_02730",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SEQ_00", "hash": "B468E2FCAEAD5E9B", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_00", "hash": "1F061214AFEA73C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_01", "hash": "1360181A68B716F1", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_000", "hash": "BEB415578AA99C28", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_001", "hash": "44B2B932EE450BFC", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_002", "hash": "C316986858338969", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_003", "hash": "E0CBDBEE42E9614F", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_004", "hash": "8F6ACDB2063860AC", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_005", "hash": "C26D7EE9688BDEEF", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_010", "hash": "F3CC477897153A37", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_011", "hash": "111099F031403290", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_012", "hash": "BB0F1500F19626B7", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_013", "hash": "B22AE3CA44B3E13B", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_014", "hash": "EADFDF2DD4D04E72", "target": "" }
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SEQ_00", "hash": "B468E2FCAEAD5E9B", "target": "Kohagi chciałaby, by twoje ciosy padały wolno, a potem szybko." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_00", "hash": "1F061214AFEA73C4", "target": "Zdobyć wątroby węży wodnych ze stworzeń water serpent" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_01", "hash": "1360181A68B716F1", "target": "Dostarczyć wątroby węży wodnych postaci Sentei" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_000", "hash": "BEB415578AA99C28", "target": "Czy mogłabym poprosić o pomoc w pewnym kłopocie? Chodzi o węże wodne, które ostatnio opanowały rzekę One River." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_001", "hash": "44B2B932EE450BFC", "target": "Dawniej występowały tylko dalej na zachodzie, ale z jakiegoś powodu część dotarła bliżej Namai." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_002", "hash": "C316986858338969", "target": "Odpowiednio przyrządzone są naprawdę smakowite. Jest ich jednak w rzece znacznie więcej, niż ktokolwiek zdołałby ugotować. Ich liczebność trzeba ograniczyć w inny sposób." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_003", "hash": "E0CBDBEE42E9614F", "target": "Proszę zabić dla mnie kilka. Tyle, by nie zagarnęły całej rzeki dla siebie. Och, a jeśli uda się zdobyć trochę ich wątrób, proszę dostarczyć je mojemu mężowi, Sentei." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_004", "hash": "8F6ACDB2063860AC", "target": "Znajdzie go <if(gnum4,pani,pan)> w chacie Drunken Toad na wschodzie." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_005", "hash": "C26D7EE9688BDEEF", "target": "Jeśli uda się zdobyć trochę ich wątrób, proszę dostarczyć je mojemu mężowi, Sentei, w chacie Drunken Toad." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_010", "hash": "F3CC477897153A37", "target": "Ma <if(gnum4,pani,pan)> do mnie jakąś sprawę, <if(gnum4,podróżniczko,podróżniku)>?" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_011", "hash": "111099F031403290", "target": "Wątroby węży wodnych! Ale skąd pomysł, żeby mi je przynieść?" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_012", "hash": "BB0F1500F19626B7", "target": "Ach, to moja żona <if(gnum4,panią,pana)> przysłała? Serdecznie dziękuję. Zaraz je ugotuję i zjem." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_013", "hash": "B22AE3CA44B3E13B", "target": "Kiedy zarabiałem na życie, przewożąc ryż w górę i w dół rzeki, zabijałem napotkane węże wodne i zabierałem je do domu, by ugotować. Oczywiście skończyło się to, gdy Cesarstwo zablokowało rzekę One River." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_014", "hash": "EADFDF2DD4D04E72", "target": "Dziś dzięki naturze i życzliwym przybyszom, takim jak <if(gnum4,pani,pan)>, mam co położyć na stole. Bardzo dziękuję." }
   ]
 }

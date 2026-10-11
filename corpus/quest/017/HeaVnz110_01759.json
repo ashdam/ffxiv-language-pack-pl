@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz110_01759",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_00", "hash": "A181B6587C4CDA2A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_01", "hash": "379A5FA18AE6CB8A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_03", "hash": "E63FAD8020514CCD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_00", "hash": "88ECFE855E2E18AB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_01", "hash": "AA2C1038FD1C4AA3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_000", "hash": "FD03EE20AD3ADC58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_001", "hash": "98F1DECF75737DEA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_002", "hash": "610ED296B358F74E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_010", "hash": "93BDD553F310C5BF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_030", "hash": "4B58E8B73D275821", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_031", "hash": "7CA56B208DB5187F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_032", "hash": "772B21A8B7030CA1", "target": "" }
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_00", "hash": "A181B6587C4CDA2A", "target": "Luciae spogląda na zaspy z ponurą miną." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_01", "hash": "379A5FA18AE6CB8A", "target": "Polar bears zakradają się do Convictory i dobierają do zapasów żywności. Luciae prosi cię o zmniejszenie ich liczby poprzez zabicie czterech bestii." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "Zabijasz cztery polar bears, znacznie ograniczając zagrożenie dla Convictory. Wróć do Luciae z tą wiadomością." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_03", "hash": "E63FAD8020514CCD", "target": "Luciae jest zachwycona, że ktoś wreszcie rozprawił się z polar bears. Najwyraźniej szlachcice, których o to prosiła, nie zamierzają polować na inne bestie niż smoki, nawet gdy te bestie bez skrupułów plądrują ich zapasy..." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_00", "hash": "88ECFE855E2E18AB", "target": "Zabić polar bears" },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_01", "hash": "AA2C1038FD1C4AA3", "target": "Zdać raport postaci Luciae" },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_000", "hash": "FD03EE20AD3ADC58", "target": "Chcesz pomóc, tak? Cóż, jest mnóstwo do zrobienia─do zabicia zresztą też. Na pewno widzisz, że smoki nie są jedynym problemem, z którym się tu zmagamy." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_001", "hash": "98F1DECF75737DEA", "target": "Weźmy choćby polar bears. Szukają łatwego posiłku, zwabione zapachem naszych ognisk, a potem plądrują zapasy." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_002", "hash": "610ED296B358F74E", "target": "Dasz radę trochę je przetrzebić? Zabicie czterech powinno wystarczyć. Oczywiście otrzymasz zapłatę za trud." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_010", "hash": "93BDD553F310C5BF", "target": "Już po tych polar bears? Zabij cztery, a dostaniesz uczciwą zapłatę." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_030", "hash": "4B58E8B73D275821", "target": "No proszę! Zdecydowanie można na tobie polegać bardziej niż na jakimkolwiek szlachetce, którego spotkałam." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_031", "hash": "7CA56B208DB5187F", "target": "Widzą tylko smoki, choć wciąż im powtarzam, że jeśli nikt nie zajmie się niedźwiedziami, nie zostanie nam ani okruszek do jedzenia. Ale czy mnie słuchają? Hmpf." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_032", "hash": "772B21A8B7030CA1", "target": "Myślę, że wszystkim tutaj przydałoby się trochę twoich cech. Obiecałam zapłatę i dotrzymuję słowa. Ufam, że uznasz to za uczciwe wynagrodzenie za swój trud." }
   ]
 }

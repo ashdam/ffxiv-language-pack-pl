@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz401_02724",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_SEQ_00", "hash": "A665C3A433C0FDFA", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_00", "hash": "C6EEE45DBF4E9EA4", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_01", "hash": "31BF0D3989E5BD01", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_000", "hash": "11EC9129AB0E6600", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_001", "hash": "8379C20159EB1D3C", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_002", "hash": "6E784407BA74522D", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_010", "hash": "2EB95D9D17DB6433", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_020", "hash": "FC42EA6C7D25459B", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_021", "hash": "2DFC784619920EE4", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_022", "hash": "15F43482A4C99EF2", "target": "" }
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_SEQ_00", "hash": "A665C3A433C0FDFA", "target": "Fukata ma nadzieję, że lubisz cuchnące zapachy." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_00", "hash": "C6EEE45DBF4E9EA4", "target": "Rozlać śmierdzącą ciecz z wiadra we wskazanych miejscach" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_01", "hash": "31BF0D3989E5BD01", "target": "Złożyć raport postaci Fukata" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_000", "hash": "11EC9129AB0E6600", "target": "Witam, <if(gnum4,podróżniczko,podróżniku)>. Potrzebuję pomocy, jeśli ma <if(gnum4,pani,pan)> czas. Choć należę do Domańskiego Frontu Wyzwolenia, jestem też dumnym mieszkańcem Namai i mam własne obowiązki wobec wioski." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_001", "hash": "8379C20159EB1D3C", "target": "Kazano mi pilnować tego źródła i pod żadnym pozorem nie opuszczać posterunku. Mam jednak jeszcze inne zadanie związane z wioską." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_002", "hash": "6E784407BA74522D", "target": "Liczyłem, że <if(gnum4,mogłaby pani,mógłby pan)> wykonać je za mnie. Proszę wziąć tę ciecz i rozlać ją po tamtej okolicy. Będę wdzięczny!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_010", "hash": "2EB95D9D17DB6433", "target": "Proszę rozlać tę ciecz po tamtej okolicy. Będę wdzięczny!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_020", "hash": "FC42EA6C7D25459B", "target": "Już gotowe? Fantastycznie!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_021", "hash": "2DFC784619920EE4", "target": "Zapewne zastanawia się <if(gnum4,pani,pan)>, dlaczego ta ciecz tak cuchnie. Cóż, to mieszanka składników o silnym zapachu: między innymi zwierzęcych wnętrzności, żywicy i czosnku. Doskonale odstrasza bestie." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_022", "hash": "15F43482A4C99EF2", "target": "Jeden z moich towarzyszy z rebelii nauczył mnie ją przyrządzać. Och, i warto wyszorować ubranie... pomyślmy... trzy <italic(1)>porządne<italic(0)> prania powinny wystarczyć." }
   ]
 }
