@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_SEQ_02", "hash": "E1FE8190CD93E183", "target": "Według Dowarego Yuyuhase i Trzeci Oddział zmierzają do Halatali. Udaj się na poligon we wschodnim Thanalanie i spotkaj z Hozanem przy wejściu." },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_SEQ_03", "hash": "E0881DA6E8014AF1", "target": "Hozan donosi, że Ilberd wszedł do Halatali chwilę przed twoim przybyciem─to dowód, że Raubahn jest w środku." },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_TODO_00", "hash": "D3A4E887A6097D48", "target": "Porozmawiać z Dowarem w Highbridge" },
-    { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_TODO_01", "hash": "112FE365034E68C4", "target": "Porozmawiać z Hozanem" },
+    { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_TODO_01", "hash": "112FE365034E68C4", "target": "Porozmawiać z postacią Hozan" },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_HIGIRI_000_000", "hash": "C3D3BA0E01898394", "target": "Krótko przed przybyciem <if(gnum4,pani,pana)> nadeszła do mnie wieść z Limsy Lominsy o poszukiwaniach generała Raubahna." },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_HIGIRI_000_001", "hash": "56D59FD2B0F9EDBD", "target": "Jak zapewne mówiła pani admirał, niedawno przeniesiono go z celi w Marasaja Pit." },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_HIGIRI_000_002", "hash": "C019846A37204028", "target": "W tym samym czasie widziano Yuyuhasego i Trzeci Oddział opuszczających Wschodzące Kamienie." },

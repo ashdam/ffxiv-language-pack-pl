@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny813_02122",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "" }
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "Ardolain ma dla ciebie dobre wieści od przywódcy klanu Centurio." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "Ardolain informuje cię, że przywódca klanu Centurio polecił uznać cię za <if(gnum4,pełnoprawną łowczynię,pełnoprawnego łowcę)> i dopuścić do polowań na elitarne cele. Poleca ci wrócić do tablicy Clan Hunt board i obejrzeć wiszące na niej zlecenia na takie cele." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "Oglądasz tablicę Clan Hunt board i przeglądasz dostępne zlecenia. Aby dowiedzieć się więcej o Clan Hunt lub wymienić Centurio Seals na wyjątkowe przedmioty, porozmawiaj z Ardolainem w gospodzie Forgotten Knight. W przeciwnym razie możesz ryzykować życie i zdrowie, tropiąc najpodlejsze potwory mroźnej północy i zdobywając sławę wśród łowców elitarnych celów." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "Obejrzeć tablicę Clan Hunt board" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Mam dla ciebie dobre wieści." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "Dostałem wiadomość od ser Leaudaste'a, przywódcy klanu Centurio. Wygląda na to, że śledził twoje postępy i uważa, że już niemal pora rozwinąć skrzydła jako <if(gnum4,pełnoprawna łowczyni,pełnoprawny łowca)> elitarnych celów." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "Ser Leaudaste urodził się w szlacheckiej rodzinie, ale zostawił to wszystko, by wyruszyć na łowy, tropić najzacieklejszych wrogów i tępić ich dla dobra królestwa. Ludzie nazywają go pierwszym uczonym łowcą. Uznanie ze strony takiego człowieka to nie byle co." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "Tylko nie pozwól, żeby uderzyło ci to do głowy. Te elitarne cele są na zupełnie innym poziomie niż wszystko, na co zdarzało ci się dotąd polować. Ruszanie na nie bez namysłu to pewna droga do spotkania ze Stwórcą. Przyznajemy im rangi według ich zabójczości, tak samo jak Wielkie Kompanie." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "Zlecenia na te elitarne cele znajdziesz na tablicy Clan Hunt board obok pozostałych. Możesz brać dowolne zlecenie, ale upewnij się, że wiesz, co robisz, zanim wyruszysz na łowy. Każda z tych bestii to wcielony koszmar!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "Kiedy pojawi się nowy elitarny cel, wywiesimy zlecenie na tablicy Clan Hunt board. Zawsze warto wypytać towarzyszy z klanu o cel przed wyruszeniem na łowy─jak mówią, wiedza to potęga, a potęgi ci trzeba, by pokonać te bestie." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "Tablicę Clan Hunt board pokrywają zlecenia ze szczegółami poszukiwanych potworów. Z pełnymi uprawnieniami członkowskimi klanu Centurio możesz teraz brać zlecenia na elitarne cele!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "Możesz teraz brać z tablicy Clan Hunt board zlecenia na elitarne cele klanu." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "Za pokonanie elitarnych celów rangi S, A i niektórych rangi B otrzymasz Centurio Seals. Te pieczęcie można wymieniać na wyjątkowe przedmioty." }
   ]
 }

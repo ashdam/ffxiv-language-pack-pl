@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz019_01744",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_00", "hash": "7E99CFFF767A2E5D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_01", "hash": "E92119D02FD878A7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_02", "hash": "96457FD2DBD6637A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_03", "hash": "03D5DD95B0876013", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_00", "hash": "4F42E02FA3AA4BCB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_01", "hash": "5869F6B9D0CF3C8F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_000", "hash": "7B0A0825B0FAF320", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_001", "hash": "5AC6E9835A9D4F3B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_002", "hash": "01FA773527615967", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_010", "hash": "F0624CFF1028C310", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_030", "hash": "C8D378D0F712AAFF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_031", "hash": "890FB8AE4942CBED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_032", "hash": "A13C5173DD89B9D6", "target": "" }
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_00", "hash": "7E99CFFF767A2E5D", "target": "Ingaret mamrocze coś o naprawie mostu." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_01", "hash": "E92119D02FD878A7", "target": "Ingaret ma przegonić upland mylodons z drugiej strony Black Iron Bridge. Most wymaga naprawy, ale rzemieślnicy nie mogą bezpiecznie pracować, gdy w pobliżu czyhają potwory. Ingaret nie jest pewna, czy poradzi sobie z tyloma bestiami naraz. Zabij trzy z nich, a ona wykończy resztę." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_02", "hash": "96457FD2DBD6637A", "target": "Szybko rozprawiasz się z mylodons. Wróć do Ingaret, aby mogła wykonać swoją część zadania." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_03", "hash": "03D5DD95B0876013", "target": "Ingaret dziękuje ci za pomoc i wypłaca twoją część nagrody za bestie. Opowiada też o farmie po drugiej stronie mostu. Podupadła, ale jeśli uda się całkowicie przegonić mylodons, być może da się ją odbudować." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_00", "hash": "4F42E02FA3AA4BCB", "target": "Zabić upland mylodons" },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_01", "hash": "5869F6B9D0CF3C8F", "target": "Zdać raport postaci Ingaret" },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_000", "hash": "7B0A0825B0FAF320", "target": "Czy mogę prosić o chwilę rozmowy? Niedawno jeden z robotników rodu Dzemael poprosił mnie o rozprawienie się z mylodons, które sprawiają kłopoty." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_001", "hash": "5AC6E9835A9D4F3B", "target": "Black Iron Bridge ledwie przetrwał Katastrofę. Pilnie wymaga naprawy, ale upland mylodons kręcą się zbyt blisko─rzemieślnicy nie mogą bezpiecznie pracować. Ktoś musi je zabić... Mylodons, rzecz jasna! Nie rzemieślników!<br>Poprosiłabym smoczych rycerzy, ale są tak zajęci, że znaleźliby czas dopiero za kilka tygodni. Zajęłabym się tym sama, lecz tych bestii jest tak wiele, że boję się, iż mnie otoczą i pokonają." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_002", "hash": "01FA773527615967", "target": "Jest <if(gnum4,pani zdolną kobietą,pan zdolnym mężczyzną)>. Czy zechce <if(gnum4,pani,pan)> nieco przerzedzić ich szeregi? Wystarczy zabić, powiedzmy, trzy, a myślę, że sama poradzę sobie z resztą." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_010", "hash": "F0624CFF1028C310", "target": "Mylodons są tuż na północ od Black Iron Bridge. Zabicie trzech bestii powinno mi pozwolić wykończyć resztę. Proszę uważać na siebie." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_030", "hash": "C8D378D0F712AAFF", "target": "Już trzy zabite? Serdecznie dziękuję. Mam nadzieję, że obyło się bez obrażeń? Proszę to przyjąć. To część zapłaty za tę pracę." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_031", "hash": "890FB8AE4942CBED", "target": "Przy okazji, czy była okazja zobaczyć farmę po drugiej stronie mostu? Przez te mylodons trudno się tam dostać, więc most pozostawiono na pastwę losu." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_032", "hash": "A13C5173DD89B9D6", "target": "Gdy naprawimy most, być może kiedyś uda się odbudować tę farmę." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "quest/018/HeaVnz401_01819",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "" }
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "Mogret pilnie potrzebuje kąpieli." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "Popularne kąpielisko moogle'ów zajęły potwory zwane hropkens, pół ryby, pół smoki. Zabij trzy, by rozproszyć resztę i pozwolić Mogret wreszcie umyć się pod skrzydłami." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "Zabijasz hropkens, choć ich zapach nadal tkwi w twoim nosie. Wróć do Mogret i powiedz jej, że woda znów jest bezpieczna." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "Mogret jest zachwycona wiadomością i wyjaśnia, że nie znosi zapachu surowych ryb. Sugeruje, że może <italic(1)>tobie<italic(0)> też przydałaby się kąpiel." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "Zabić hropkens" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "Zdać raport postaci Mogret" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "Zdarza ci się kąpać w wodach na północnym wschodzie? Oczywiście nie, bo banda potężnych hropkens atakuje każdego, kto się zbliży, kupo! Jeśli zabijesz kilka, może reszta się przestraszy i da mi czas na kąpiel." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "Te pół smoki, pół ryby na pewno nie potrzebują tej wody tak jak <italic(1)>ja<italic(0)>. Przepłosz je, żebym wreszcie mogła się umyć." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "Wielkie dzięki, <if(gnum4,dzielna poszukiwaczko przygód,dzielny poszukiwaczu przygód)>! Wreszcie mogę się wykąpać bez smrodu surowych smoczych ryb atakującego zmysły. \\<węszy> ...Wiesz, kąpiel mogłaby też, eee... <italic(1)>odświeżyć<italic(0)> ciebie, kupo!" }
   ]
 }

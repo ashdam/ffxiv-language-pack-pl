@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz705_01909",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "" }
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "Ganu Vali nerwowo rozgląda się przekrwionymi oczami." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "Ganu Vali nie może zmrużyć oka przez owady bzyczące w całym Ok' Zundu. Prosi cię o zebranie trzech kępek bulgotrawy, które pomogą ograniczyć liczbę owadów i zapewnić mu tak potrzebny odpoczynek." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "Zbierasz bulgotrawę, która najwyraźniej nie może się doczekać pożarcia jak największej liczby owadów. Dostarcz ją Ganu Vali, zanim padnie z wyczerpania." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "Dostarczasz mięsożerne rośliny Ganu Vali, który zdaje się odzyskiwać zdrowe zmysły. Plemię Zundu we wszystkim dąży do harmonii z naturą, a nakarmienie bulgotrawy pozwala upiec dwie pieczenie na jednym ogniu." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "Zebrać bulgotrawę we wskazanych miejscach" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "Dostarczyć bulgotrawę postaci Ganu Vali" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "Ganu Vali nie może uciec przed nieustającą burzą bzyczących owadów i pragnie snu bardziej niż deszczu podczas letniej suszy. Ganu Vali wie, jak uciszyć ich brzęczenie, ale z wyczerpania majaczy. Czy istota z dołu pójdzie zamiast Ganu Vali?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "Na wschodzie rośnie bulgotrawa, która pożera owady tak, jak pisklęta Vanu zajadają mięso wamouracampa. Istota z dołu przyniesie Ganu Vali trzy kępki, a burza w uszach zmieni się w cichą mżawkę." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "Ganu Vali pragnie ciszy takiej, jaka zapada pod bezchmurnym nocnym niebem. Istota z dołu przyniesie bulgotrawę, by uciszyć burzę bzyczących owadów." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "Bezsenne noce zmieniają umysł Ganu Vali w kłębowisko mgły. Czy istota z dołu przynosi rośliny, których Ganu Vali szuka?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "Istota z dołu wreszcie przynosi odpoczynek. Zmartwienia Ganu Vali stają się pokarmem dla bulgotrawy, a wielkie koło natury obraca się bez przeszkód." }
   ]
 }
