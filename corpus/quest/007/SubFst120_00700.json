@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/SubFst120_00700",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/007/SubFst120_00700#TEXT_SUBFST120_00700_SEQ_00", "hash": "2A801BD4E46F2E8C", "target": "Vorsaile uważa, że najwyższy czas przydzielić ci własnego chocobo." },
     { "gameKey": "quest/007/SubFst120_00700#TEXT_SUBFST120_00700_SEQ_01", "hash": "3A5140CA9F2FD2D5", "target": "Aby otrzymać własnego chocobo, musisz okazać Cingurowi dokument Serpent Chocobo Issuance. Możesz go uzyskać, wymieniając company seals u kwatermistrza Węży. Oby udało ci się odłożyć trochę pieczęci..." },

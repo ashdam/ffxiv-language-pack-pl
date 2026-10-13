@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/HeaVny803_02097",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SEQ_00", "hash": "341D7165B1CE8FC8", "target": "Lydirlona ma propozycję dla osoby o twoich osiągnięciach." },
     { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SEQ_01", "hash": "1155828A73994DE5", "target": "Lydirlona uważa, że nauka techniki aetherial reduction może przynieść ci korzyści. Choć sama nie potrafi wyjaśnić jej szczegółów, wie, kto to zrobi: Kokosamu, jeden z wielu uczniów mistrza Mutamixa. Odszukaj go przy ognisku Bonfire w rejonie Central Thanalan, aby odebrać lekcję." },

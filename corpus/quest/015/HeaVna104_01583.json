@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/HeaVna104_01583",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/015/HeaVna104_01583#TEXT_HEAVNA104_01583_SEQ_00", "hash": "8FB7D95FAC353A91", "target": "Lord Artoirel nie pali się do wyjaśnienia ci swojej misji." },
     { "gameKey": "quest/015/HeaVna104_01583#TEXT_HEAVNA104_01583_SEQ_01", "hash": "95F0E5915E3F55B8", "target": "Ser Artoirel de Fortemps, najstarszy syn hrabiego Edmonta, nie spodziewał się towarzystwa podczas misji pomocy rodom Durendaire i Dzemael. Zresztą z powodu odwiecznej rywalizacji ishgardzkich rodów i bez tego nie był nią zachwycony. Co gorsza, skoro hrabia przydzielił cię do pomocy synowi, Artoirel sądzi, że ojciec nie ufa mu na tyle, by powierzyć mu zadanie samodzielnie. Mimo to zamierza uszanować jego wolę. Każe ci dołączyć do niego przy stajni chocobo w Foundation, skąd wyruszycie do Falcon's Nest." },

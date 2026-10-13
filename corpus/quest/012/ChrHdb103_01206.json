@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/ChrHdb103_01206",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_SEQ_00", "hash": "45B9AEAFF74C8CBE", "target": "Wymond uważa, że najlepiej będzie, jeśli pomożesz inspektorowi Hildibrandowi w śledztwie." },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_SEQ_01", "hash": "2B216B399AF196DA", "target": "Według Wymonda ofiarą, której szuka inspektor Hildibrand, jest zamożna kobieta o imieniu Yellow Moon. Ze względu na jej zamiłowanie do luksusu często można ją spotkać w Gildii Tkaczy, gdzie przymierza nowe stroje. Idź porozmawiać z Yellow Moon─przy odrobinie szczęścia inspektor Hildibrand wkrótce się tam zjawi." },

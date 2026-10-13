@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/HeaVny104_02386",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/023/HeaVny104_02386#TEXT_HEAVNY104_02386_SEQ_00", "hash": "E32054497F94AB81", "target": "Midnight Dew uważa, że jesteś <if(gnum4,właściwą kobietą,właściwym mężczyzną)> do tego zadania." },
     { "gameKey": "quest/023/HeaVny104_02386#TEXT_HEAVNY104_02386_SEQ_01", "hash": "18D632AE861D93D3", "target": "Na twój widok oczy Midnight Dew rozbłyskują. Roegadynka opowiada, że ma znaleźć chętnego i zdolnego poszukiwacza przygód, który wejdzie do biblioteki Great Gubal Library i odzyska pewien tom w skórzanej oprawie z zakazanych zbiorów na najwyższych piętrach. Sprawę komplikuje beztrosko otwarte wejście, przez które wdarły się hordy pomiotów Otchłani i innych niemiłych gości. Znając opowieści o twoich wyczynach, Midnight Dew uważa, że świetnie nadajesz się do oczyszczenia biblioteki i przyniesienia tomu. Jeśli chcesz zaoferować pomoc, udaj się do regionu Dravanian hinterlands i spotkaj się z nią przed wejściem do biblioteki." },

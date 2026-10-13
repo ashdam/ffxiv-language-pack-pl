@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/JobRel005_01140",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/011/JobRel005_01140#TEXT_JOBREL005_01140_SEQ_00", "hash": "A4BDD35A542A68D9", "target": "Ealdwine, niezrównany łowca skarbów, wydaje się nieco nieswój." },
     { "gameKey": "quest/011/JobRel005_01140#TEXT_JOBREL005_01140_SEQ_01", "hash": "0BA72DD520618A60", "target": "Bełkocząc, Ealdwine uprzejmie proponuje ci swoją ostatnią mysterious map, ale przypomina sobie, że nie może jej oddać. Zamiast tego prosi, by zanieść ją jego matce w Mycie Upiora. Dostarcz mapę bezpiecznie Brangwine, nim biedny Ealdwine dostanie krwawy łomot." },

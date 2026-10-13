@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/ComAll002_03007",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "Softknox opowiedziała ci o Rival Wings, nowej grze wojennej wykorzystującej machiny goblinów. Jeśli taka bojozabawa przyprawia cię o sercołomot, możesz dowiedzieć się więcej od Softknox... albo od razu wkroczyć do akcji.<br><br>※Do Astragalos można wejść przez Duty Finder." },
     { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "Pszsz... Szkoo...<br>Softknox przychodzi do wilczego miejsca, dowiaduje się, że wierzchniacy mają wiele sercołomotów na myśl o bojozabawie." },

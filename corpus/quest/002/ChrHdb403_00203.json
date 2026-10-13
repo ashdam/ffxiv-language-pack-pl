@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ChrHdb403_00203",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ChrHdb403_00203#TEXT_CHRHDB403_00203_SEQ_00", "hash": "9AB3294FE85D18E2", "target": "Hildibrand najwyraźniej trochę się spieszy." },
     { "gameKey": "quest/002/ChrHdb403_00203#TEXT_CHRHDB403_00203_SEQ_01", "hash": "64B97DB96DEBFA94", "target": "Nie mając już żadnych tropów w śledztwie, Hildibrand chce wrócić na miejsce turnieju i zapoznać się z zasadami zawodów, by stanąć do walki z honorem godnym dżentelmena. Towarzysz inspektorowi w drodze powrotnej do Koloseum." },
