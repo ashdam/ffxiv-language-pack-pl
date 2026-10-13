@@ -1,10 +1,10 @@
 {
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "translated": 100507,
-  "total": 528700,
-  "percent": 19,
-  "chars": 48864412,
-  "unresolved": 5504,
+  "total": 533035,
+  "percent": 18.9,
+  "chars": 49326980,
+  "unresolved": 5585,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -406,7 +406,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 1393,
-      "total": 169504
+      "total": 173839
     }
   ],
   "excludedFromLocalization": [
@@ -420,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 22,
-      "total": 1015
+      "total": 1025
     }
   ],
   "futureLocalization": [
