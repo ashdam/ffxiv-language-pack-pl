@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdy501_03086",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_SEQ_00", "hash": "A0F16CCDD87F5990", "target": "Kozakura pracuje jak opętana." },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_SEQ_01", "hash": "CC2C0722C78EB3A6", "target": "Podczas wizyty w enklawie spotykasz Kozakurę, wysoką urzędniczkę Shazenkai. Wyjaśnia ci, że jej organizacja ma wspierać odbudowę i ożywienie osady. Aby pomóc w tych staraniach, masz na prośbę jej i lorda Hiena udać się do Myta Upiora, schronienia Domańczyków w Eorzei, i wezwać ich do powrotu do ojczyzny. Sprawę tę trzeba oczywiście omówić także ze Slafbornem z Gildii Poszukiwaczy Przygód." },
