@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKyb003_03599",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "" }
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "Halldor nie posiada się z radości na twój widok." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "Porozmawiaj z Xylle." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "Hej, <if(gnum4,pogromczyni,pogromco)>. Założę się, że cele two-nut zaczynają cię nudzić?" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "Tak, może z początku przyspieszały tętno i dodawały wigoru, ale z czasem dreszcz emocji zawsze przemija." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "Dobrze wiem, co czujesz! Dla mnie nic nie jest bardziej ekscytujące niż dotarcie do granic własnych możliwości. Walka kłem i pazurem, gdy broń się łamie, a ty chwytasz, co popadnie, byle przeżyć!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "Kimże jesteśmy, by odmawiać ci tej wyjątkowej rozrywki!? Dlatego poleciłem cię do celów three-nut! Bądź <if(gnum4,dumna,dumny)>! Wkrótce zatańczysz z samą śmiercią!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "Idź porozmawiać z Xylle. Na pewno będzie zachwycona, mogąc nadać ci ten cudowny przywilej!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "Chcesz więc polować na cele three-nut? Tak pomyślałam na twój widok. Poza tym Halldor dzień i noc domagał się dla ciebie pozwolenia." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "Ilekroć mowa o tobie i twoich wyczynach, przepełnia go żarliwy zapał. Zupełnie jakby przeżywał twoje opowieści... W każdym razie jeśli chcesz większych wyzwań, dostaniesz je." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "Pamiętaj o większym ryzyku związanym z tymi celami. <if(gnum4,Martwa,Martwy)> albo potwornie <if(gnum4,okaleczona,okaleczony)> na nic nam się nie przydasz." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "Zlecenia three-nut Clan mark są już dostępne." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "Możesz teraz przyjmować z tablicy Clan Hunt zlecenia three-nut mark." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "Nowe misje i elitarne zlecenia Clan mark będą dostępne u Halldora w Crystarium po osiągnięciu poziomu 80." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "Na co czekasz!? Czeka przygoda, w której zajrzysz śmierci w oczy! Natychmiast do Xylle!" }
   ]
 }

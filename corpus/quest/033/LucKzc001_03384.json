@@ -2,16 +2,16 @@
   "conversation": "quest/033/LucKzc001_03384",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "" }
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Seanardowi przyda się pomoc przy pilnych naprawach." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "Nałóż zaprawę wzmacniającą na uszkodzone mury." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "Zdaj relację Seanardowi." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "Hej! Jeśli nie masz teraz innego zajęcia, może pomożesz? Przydzielili mnie do napraw, a przy takim stanie tego miejsca to zdecydowanie nie praca dla jednego człowieka." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "To nic trudnego. Weź to wiadro zaprawy, znajdź kilka zniszczonych miejsc w murach i porządnie je załataj. Dzięki! Przy naszych uszczuplonych szeregach każda pomoc się liczy!" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "Prawdę mówiąc, po tym wszystkim cały fort wymaga porządnych napraw. Ale przy takich brakach ludzi i zaopatrzenia możemy zająć się tylko najpilniejszymi sprawami." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "Widziałem, jak ciężko pracujesz! Będę dziś spał spokojniej, wiedząc, że najgorsze dziury w murach wyglądają jak nowe." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "Znasz może historię Imperative? Niemal sto lat temu zbudowały go elfy, które wówczas rządziły Lakeland. Po Potopie stał się jedną z naszych głównych twierdz obronnych przeciw pożeraczom grzechów." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "Ten fort dostał porządnie w kość, ale nadal stoi, strzegąc Crystarium i jego mieszkańców. A naszym zadaniem jest <italic(1)>utrzymać<italic(0)> go w całości, bez względu na braki ludzi i materiałów." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "Oczywiście bez hojnej pomocy ochotników takich jak ty nie dalibyśmy rady. Masz prawdziwy talent do napraw. Może zechcesz dołączyć do straży jako etatowy łatacz murów?" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "Ahahaha! Żartuję, rzecz jasna. I tak zabrałem ci dziś dość czasu. Dziękuję i uważaj na siebie." }
   ]
 }

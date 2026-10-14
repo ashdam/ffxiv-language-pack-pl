@@ -2,16 +2,16 @@
   "conversation": "quest/038/SubCts652_03891",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_SEQ_00", "hash": "CE29449279CA886E", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_000", "hash": "A4579595C4D3678C", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_001", "hash": "A622F7BB05972F3B", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_002", "hash": "A90D5C4E2C7BFFE1", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_010", "hash": "77B9A3E27F4439B4", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_020", "hash": "37F5FFE77C3AF0D8", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_021", "hash": "8CEE23FA2135811B", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_022", "hash": "8E3034AA6BDC5673", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_023", "hash": "B8073192A00AF906", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_024", "hash": "D14E96D778CF0A8C", "target": "" }
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_SEQ_00", "hash": "CE29449279CA886E", "target": "Hautdilong nie może dłużej powstrzymywać się od podzielenia pewną wiadomością." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "Porozmawiaj z Arvide'em." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_000", "hash": "A4579595C4D3678C", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,2)>, nareszcie! Razem z Ehll Tou myśleliśmy, jak odwdzięczyć się za całą pomoc." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_001", "hash": "A622F7BB05972F3B", "target": "Po długim namyśle poprosiliśmy mistrza Arvide'a o wyjątkowy przedmiot specjalnie dla <if(gnum4,pani,pana)>. Oby nie zepsuł niespodzianki." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_002", "hash": "A90D5C4E2C7BFFE1", "target": "Ostatnio mówił, że praca dobiega końca. Może już skończył? Oby prezent się spodobał!" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_010", "hash": "77B9A3E27F4439B4", "target": "Pomysł mój i Ehll Tou powinien <if(gnum4,panią,pana)> mile zaskoczyć. Mistrz Arvide pewnie już skończył. Powinien być na targu w New Nest." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_020", "hash": "37F5FFE77C3AF0D8", "target": "Ach, witaj! Rozmowa z Hautdilongiem już za tobą? Proszę!" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_021", "hash": "8CEE23FA2135811B", "target": "Ehll Tou bardzo nalegała na taki kształt rogu. Zadąć wystarczy, a mała smoczyca przyleci u twego boku, gdziekolwiek jesteś." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_022", "hash": "8E3034AA6BDC5673", "target": "Choć chyba już nie mogę nazywać jej małą. Naturalne, że wraz ze wzrostem rośnie pragnienie poznawania świata." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_023", "hash": "B8073192A00AF906", "target": "Dlatego chciała ci go dać. Pokaż jej każdy zakątek cywilizowanego świata i najróżniejszych ludzi. Potrzebuje szerokiej wiedzy, by przedstawić pobratymcom pełny obraz naszego ludu." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_024", "hash": "D14E96D778CF0A8C", "target": "Gdy zgodziłem się pomóc, nie wiedziałem, że dołożę rękę do czegoś znacznie większego ode mnie. Cokolwiek wyniknie z jej starań, to zaszczyt mieć w nich udział. Dziękuję za szansę." }
   ]
 }

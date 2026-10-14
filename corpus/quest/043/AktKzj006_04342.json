@@ -2,19 +2,19 @@
   "conversation": "quest/043/AktKzj006_04342",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_SEQ_00", "hash": "A42388EE3ED3572A", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_TODO_00", "hash": "A26F2D2E75385B61", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_TODO_01", "hash": "40004CBCAB378791", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_000", "hash": "753F0D98C59DDBE4", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_001", "hash": "AAB2D8D397C406A5", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_002", "hash": "7C6C7EB5D2866516", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_003", "hash": "2E5CF98A46424BA0", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_004", "hash": "3CA571A7255280AF", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_005", "hash": "421ED67AE23826F6", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_010", "hash": "94683B02D4D43CAE", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_011", "hash": "2308C5951FA729AB", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_012", "hash": "142413455B27C2FB", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_013", "hash": "0DB841CCD574E4D1", "target": "" },
-    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_014", "hash": "5A714F7D187E94B3", "target": "" }
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_SEQ_00", "hash": "A42388EE3ED3572A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Myślący przedstawiciel ludu Ea wyraźnie pogrążył się w zadumie." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_TODO_00", "hash": "A26F2D2E75385B61", "target": "Pokonaj dwóch drifting Ea, aby zwabić unified Ea, a następnie go zabij." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_TODO_01", "hash": "40004CBCAB378791", "target": "Porozmawiaj z myślącym przedstawicielem ludu Ea." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_000", "hash": "753F0D98C59DDBE4", "target": "Jak dobrze, że tu jesteś, cielesna istoto, potrzebujemy bowiem twojej pomocy." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_001", "hash": "AAB2D8D397C406A5", "target": "Z pewnością widzisz moich pobratymców błąkających się po tamtejszej dziczy. Jak rozumiem, łączą swoje duchy w jedność, licząc, że rozcieńczą świadomość, a tym samym wymażą smutki." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_002", "hash": "7C6C7EB5D2866516", "target": "Niestety powstały w ten sposób amalgamat bez wątpienia pragnie wchłonąć kolejne umysły. Jeśli inni przedstawiciele ludu Ea się zbliżą, może wciągnąć nas w tę rosnącą masę wbrew naszej woli." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_003", "hash": "2E5CF98A46424BA0", "target": "Twoja cielesna postać zdaje się przeważać nad zdolnościami umysłu, więc tobie nic nie grozi. Zniszcz, proszę, zbiorową świadomość, zanim zabije nas wszystkich." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_004", "hash": "3CA571A7255280AF", "target": "Cieszy mnie twoja gotowość. Sądzę, że jeśli unicestwisz dwie błąkające się dusze, amalgamat się pojawi. Pamiętaj jednak, że choć twój umysł jest bezpieczny, mogą ci grozić inne niebezpieczeństwa, gdy zrozumie twoje zamiary." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_005", "hash": "421ED67AE23826F6", "target": "Według moich szacunków amalgamat powinien pojawić się po wymazaniu dwóch błąkających się dusz." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_010", "hash": "94683B02D4D43CAE", "target": "Widzę, że rozprawienie się z amalgamatem nie zajęło ci długo. Oczywiście każdy przedstawiciel ludu Ea ma prawo wybrać, kiedy chce zakończyć swoje istnienie. Lecz zmuszanie do tego innych, choćby nieumyślnie, to zupełnie inna sprawa." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_011", "hash": "2308C5951FA729AB", "target": "Całe to zdarzenie skłoniło mnie do rozważań nad własnym końcem... Ach, wybacz. Zapomniałem, że twojemu ludowi nie jest dane o tym decydować." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_012", "hash": "142413455B27C2FB", "target": "Prawdę mówiąc, zazdroszczę wam. Każdego dnia ruszać przed siebie z wigorem, nie wiedząc, kiedy wasze życie niespodziewanie zgaśnie... To musi być niesamowite uczucie." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_013", "hash": "0DB841CCD574E4D1", "target": "...Przepraszam, jeśli wprawiłem cię w zakłopotanie. Nie przywykłem do rozmów ze śmiertelnikami." },
+    { "gameKey": "quest/043/AktKzj006_04342#TEXT_AKTKZJ006_04342_THINK04342_000_014", "hash": "5A714F7D187E94B3", "target": "Wiedz, że doceniam twoją pomoc. Dzięki tobie mam wiele do przemyślenia o śmierci, a może raczej o życiu." }
   ]
 }
