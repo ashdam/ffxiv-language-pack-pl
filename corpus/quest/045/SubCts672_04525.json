@@ -2,18 +2,18 @@
   "conversation": "quest/045/SubCts672_04525",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_004", "hash": "0369946A93F872D5", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_005", "hash": "7408B2E6BF9E3BB8", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_010", "hash": "804DCCFA6F341A5C", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020", "hash": "83FAA893CAEBD898", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021", "hash": "FE382307BDEB3BC2", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022", "hash": "A575D2BB3F6C80B8", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023", "hash": "742E0EC35E44920F", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024", "hash": "87346EA29C9AEBFB", "target": "" }
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "Meryld obserwuje cię czujnie z uśmiechem, który niepokojąco przypomina uśmiech Tataru." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "Porozmawiaj ze służącą rodu Leveilleur." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,2)>, cóż za miła niespodzianka. Jak zwykle zjawia się <if(gnum4,pani,pan)> w idealnej chwili." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "Pani Ameliance powierzyła mi dla <if(gnum4,pani,pana)> prezent, komplet ubrań, który, jak miała nadzieję, przypadnie <if(gnum4,pani,panu)> do gustu." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "Zanim przekażę strój, chciałabym upewnić się, że dobrze leży. Bardzo przepraszam za kłopot, ale czy mogę prosić o rozmowę z tamtą służącą?" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_004", "hash": "0369946A93F872D5", "target": "Ten podarunek wyraża oczywiście wdzięczność pani Ameliance za <if(gnum4,pani,pana)> czyny. Mam jednak nadzieję, że przyjmie go <if(gnum4,pani,pan)> także jako wyraz podziękowania od nas, służby." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_005", "hash": "7408B2E6BF9E3BB8", "target": "I jeśli mogę dodać jeszcze jedno... Proszę nadal opiekować się panem Alphinaudem i panną Alisaie." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_010", "hash": "804DCCFA6F341A5C", "target": "Gdy znajdzie <if(gnum4,pani,pan)> chwilę, proszę zgłosić się do służącej w sprawie wszelkich poprawek stroju." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020", "hash": "83FAA893CAEBD898", "target": "Witam, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,2)>. Mam tu strój dla <if(gnum4,pani,pana)>." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021", "hash": "FE382307BDEB3BC2", "target": "Pani Ameliance ma doskonałe oko do miar, ale proszę pozwolić mi sprawdzić, czy nie potrzeba żadnych poprawek." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022", "hash": "A575D2BB3F6C80B8", "target": "Hmm... Tak, ramiona powinny dobrze leżeć... Długość rękawów też nie powinna stanowić problemu." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023", "hash": "742E0EC35E44920F", "target": "Krótko mówiąc: doskonale!" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024", "hash": "87346EA29C9AEBFB", "target": "To chyba wystarczy. W imieniu całej służby rodu Leveilleur życzę <if(gnum4,pani,panu)> bezpiecznej podróży!" }
   ]
 }

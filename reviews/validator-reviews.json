@@ -15858,6 +15858,2064 @@
       "gameKey": "quest/027/StmBdz428_02751#TEXT_STMBDZ428_02751_POPMESSAGE_100_042",
       "hash": "6B3892988BFA2D64",
       "why": "Warianty poprawnie informują o ataku; Coś cię atakuje odpowiada scenie z potworem."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_FOREIGNER04313_000_155",
+      "hash": "72F7890847C1857B",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_RESEARCHER04329_000_000",
+      "hash": "21D4B9F2EA286056",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/044/AktKzf201_04497#TEXT_AKTKZF201_04497_YEZAHN_000_002",
+      "hash": "B2C848A06811A1C1",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_099",
+      "hash": "2534369FBF213116",
+      "why": "The reflexive possessive swojej refers to either player gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_A2_000_002",
+      "hash": "2712394C2A581BFA",
+      "why": "Jednej osoby expresses one person of either gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_ANDEN_000_020",
+      "hash": "E9F151D83A05ECC1",
+      "why": "The Polish greeting uses a neutral address for either player gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/050/KinGzc301_05085#TEXT_KINGZC301_05085_ANFROY_000_104",
+      "hash": "3370F582F5936220",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/051/KinGzd201_05110#TEXT_KINGZD201_05110_TYATROH_000_002",
+      "hash": "F79B06CF5B2AA8B8",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_000",
+      "hash": "12EAC872C0C1B4CB",
+      "why": "The Polish sentence is neutral for either player gender. The source gender branch adds no required data."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SAILOR05309_000_001",
+      "hash": "B4F61404430BDA47",
+      "why": "The Polish address is neutral for both player genders."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/053/KinGkd006_05314#TEXT_KINGKD006_05314_KETENRAMM_000_205",
+      "hash": "D499050C311BD58E",
+      "why": "The Polish address is neutral for both player genders."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/054/KinGdd101_05405#TEXT_KINGDD101_05405_FEOUL_000_055",
+      "hash": "909197318F0898B3",
+      "why": "Sadzonka has feminine grammatical agreement for either player gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TIISOLJA_000_021",
+      "hash": "C1F9737C39DA45BF",
+      "why": "The Polish sentence uses a neutral address for either player gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_SHALLOWMOOR_100_002",
+      "hash": "61FD23CE77F7A90A",
+      "why": "The Polish sentence uses a neutral address for either player gender."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_YNAZQHA_000_312",
+      "hash": "1553946D118A63DC",
+      "why": "The Polish sentence uses a neutral reference for either player gender."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_SYSTEM_000_150",
+      "hash": "52D16ABD05D2B8A0",
+      "why": "The travel instruction keeps the exact Moraby Drydocks label under the glossary exception."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TODO_00",
+      "hash": "46D50CB028E994AD",
+      "why": "The objective keeps the exact Moraby Drydocks label under the glossary exception."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_TODO_00",
+      "hash": "E42D20730768170D",
+      "why": "Liściarzem is the Polish instrumental form of liściarz. The objective also keeps the exact loquacious leafman NPC label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/048/AktKct303_04804#TEXT_AKTKCT303_04804_SYSTEM_000_032",
+      "hash": "8D7C03323718939D",
+      "why": "Fisher's Intuition is a status name kept as an interface label. It does not name the Fisher class here."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/048/AktKct303_04804#TEXT_AKTKCT303_04804_SYSTEM_000_044",
+      "hash": "22DA6DC52C0B6535",
+      "why": "Fisher's Intuition is a status name kept as an interface label. It does not name the Fisher class here."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_MOWEN_100_010",
+      "hash": "E8648BDCB0C3E8BB",
+      "why": "Source names the lake in Lakeland. It does not name the Source world."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_SEQ_01",
+      "hash": "D9FD1B617D30A8FA",
+      "why": "Source names the lake in Lakeland. It does not name the Source world."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_MURFURLUR_000_001",
+      "hash": "DF371C678EA655D6",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_PELUPELUFISHER05058_000_012",
+      "hash": "24B7FCF1AD2C5374",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_SEQ_01",
+      "hash": "28DDFCC0A2B17CBE",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_SEQ_02",
+      "hash": "0190B4966CA6B69A",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_SEQ_04",
+      "hash": "A8E86ECFE9682535",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_TODO_03",
+      "hash": "4345CEDFE4DDC662",
+      "why": "Karvarhur the First is a place name kept as a map label. It does not name the First shard."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_SYSTEM_000_105",
+      "hash": "5F1B1AB07D2EB98E",
+      "why": "Phantom Monk is a separate job label. Keep its English interface name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_ARCHIVE_000_200",
+      "hash": "1150E8A86106A829",
+      "why": "Voidsent contract names Item 48008. Keep the item label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_SYSTEM_100_029",
+      "hash": "B13DE63B4B73F250",
+      "why": "Voidsent contract names Item 48008. Keep the item label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_TODO_00",
+      "hash": "1547479C9F32CA50",
+      "why": "Voidsent contract names Item 48008 in the objective. Keep the item label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/033/LucKza018_03360#TEXT_LUCKZA018_03360_CARPENTER03360_000_020",
+      "hash": "987D699A0BA41C13",
+      "why": "Fire crystal describes crushed crystal used as quest material, not an inventory label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/035/LucKzi201_03560#TEXT_LUCKZI201_03560_SEQ_05",
+      "hash": "F9C4C79BDE5A86E9",
+      "why": "The mineral sample is phosphorite EventItem 2002692, as shown by Japanese and French. It is not Item 38282."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/038/SubCts650_03889#TEXT_SUBCTS650_03889_EHLLTOU_000_005",
+      "hash": "DB2DCE513BC7DFED",
+      "why": "Precious materials describes resources in general. It does not name Item 43913."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_LOPORRITSA04241_000_021",
+      "hash": "E92602321F0A9FCE",
+      "why": "The dialogue names the carrot variety in prose. The /Say instructions keep the exact English phrase carrot of happiness."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_LOPORRITSB04241_000_032",
+      "hash": "5E094A22FCB6A05A",
+      "why": "The dialogue names the carrot variety in prose. The /Say instructions keep the exact English phrase carrot of happiness."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_LOPORRITSC04241_000_041",
+      "hash": "3D4371F2363CBF6B",
+      "why": "The dialogue names the carrot variety in prose. The /Say instructions keep the exact English phrase carrot of happiness."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_YAWNINGWAY_000_051",
+      "hash": "16038497BF06243D",
+      "why": "The dialogue names the carrot variety in prose. The /Say instructions keep the exact English phrase carrot of happiness."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/045/AktKze104_04519#TEXT_AKTKZE104_04519_SEQ_02",
+      "hash": "6228254D7FE11A9E",
+      "why": "The quest crystals come from EObj 2012513. They are not the inventory resource Item 13."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/045/AktKze104_04519#TEXT_AKTKZE104_04519_TODO_02",
+      "hash": "DDE5BF8CB9B0FD36",
+      "why": "The quest crystals come from EObj 2012513. They are not the inventory resource Item 13."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/047/AktKct102_04731#TEXT_AKTKCT102_04731_CHORAZOI_000_051",
+      "hash": "46A94701D1C2B4E5",
+      "why": "Precious materials describes the supplied components, not Item 43913."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006",
+      "hash": "20BDF3437178F8A8",
+      "why": "Ice crystals and fire sprites form a figurative sales comparison, not an item delivery."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_EOTYR_000_095",
+      "hash": "A05EEB43575ACD38",
+      "why": "Generous gifts describes the food Anden gave to the fae. It does not name Item 22744."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGyx101_05013#TEXT_KINGYX101_05013_SEQ_02",
+      "hash": "93CE276EBD9A5D91",
+      "why": "Thousand needles describes sabotender attacks. It does not name the weaver tool Item 2452."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGyx101_05013#TEXT_KINGYX101_05013_ZEYCIHAN_000_012",
+      "hash": "E9378010577E938F",
+      "why": "Thousand needles describes sabotender attacks. It does not name the weaver tool Item 2452."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_BOONEWAMAGE05051_000_040",
+      "hash": "BE750DBD8C81BC20",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_BOONEWAMAGE05051_000_044",
+      "hash": "8E4ADAAF2455CA96",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_NOPLI_000_003",
+      "hash": "229B9A361FE91C98",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_NOPLI_000_009",
+      "hash": "5F77BCF58D8E2C26",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_NOPLI_000_033",
+      "hash": "8FF08B35F8871147",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_NOPLI_000_036",
+      "hash": "C2AAB5DB9DF43FF0",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_01",
+      "hash": "2AF5424331C921A3",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_04",
+      "hash": "E8FF87F447387E02",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_031",
+      "hash": "0E67466FB973A380",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_038",
+      "hash": "C122BC61178E703C",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_081",
+      "hash": "634DD8405E246C02",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_052",
+      "hash": "A73F055583A3EDAA",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_084",
+      "hash": "F45FD80F47618B3C",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_NOPLI_000_011",
+      "hash": "4F785E57982808D8",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_NOPLI_000_043",
+      "hash": "1828960D6A74CE62",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_NOPLI_000_072",
+      "hash": "70D31A483E60216E",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_SEQ_01",
+      "hash": "FE4CA8CBE2D4A04E",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_SEQ_04",
+      "hash": "41F70B309533A28B",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_YOKHUYENEMYA_000_049",
+      "hash": "40E908DDEE6C65BC",
+      "why": "Corrupted crystals describes the aether crystals imported from Eorzea by Nopli and Gigimolu. It does not name the collectible Item 45046."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_SEARCHINGWAY_100_026",
+      "hash": "5E45BBE7C067781E",
+      "why": "Searchingway recalls the name of the carrot variety in prose. This is not an item label or a /Say instruction."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/053/KinGkd003_05311#TEXT_KINGKD003_05311_ARCHIVE_100_013",
+      "hash": "F756C70467126BBD",
+      "why": "Coffin lid is the lid of the sarcophagus where Archive slept, not the lumber item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_NAMINGWAY_000_054",
+      "hash": "5D448D7B7A6F3FC0",
+      "why": "Survey drone is a proposed exploration device, not the collectible item."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/033/LucKza103_03373#TEXT_LUCKZA103_03373_Q1_000_000",
+      "hash": "088D7A7C2DB35004",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_Q1_000_000",
+      "hash": "12DECDCABEE980E7",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/034/LucKzd101_03427#TEXT_LUCKZD101_03427_Q1_000_000",
+      "hash": "0BBBBAF7C4817254",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/034/LucKzf102_03479#TEXT_LUCKZF102_03479_Q1_000_060",
+      "hash": "F4AB6DE46CFB9230",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/034/LucKzf103_03480#TEXT_LUCKZF103_03480_Q1_000_020",
+      "hash": "F8BEA10298AA2A2B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKya001_03595#TEXT_LUCKYA001_03595_Q1_000_000",
+      "hash": "BA00D47E1BEABB71",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_Q1_000_000",
+      "hash": "8B8E8266D04AC262",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_Q1_000_000",
+      "hash": "8006D976E9B17297",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_Q1_000_000",
+      "hash": "DDDB85FF02F6A013",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_Q2_000_000",
+      "hash": "04BD461F0D4BB8BB",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_Q3_000_000",
+      "hash": "91684637A1310CCE",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_Q4_000_000",
+      "hash": "11DA8177370F691D",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi103_03558#TEXT_LUCKZI103_03558_Q1_000_000",
+      "hash": "0CA5F4F7D909A809",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi103_03558#TEXT_LUCKZI103_03558_Q2_000_000",
+      "hash": "D5025E8B5332BC7E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi103_03558#TEXT_LUCKZI103_03558_Q3_000_000",
+      "hash": "61EC7D7B3D907930",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzi104_03559#TEXT_LUCKZI104_03559_Q2_000_000",
+      "hash": "095A3DFCB7583697",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzj101_03588#TEXT_LUCKZJ101_03588_Q1_000_000",
+      "hash": "AD57ED89E1745797",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzj101_03588#TEXT_LUCKZJ101_03588_Q2_000_000",
+      "hash": "9541EF336035790C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_Q1_000_000",
+      "hash": "08701361F9228416",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/035/LucKzk003_03594#TEXT_LUCKZK003_03594_Q1_000_000",
+      "hash": "C4031F67FFB36443",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_Q1_000_020",
+      "hash": "9A4FD81D291CB1F1",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_Q1_000_000",
+      "hash": "A6AE1247276927BC",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_Q1_000_000",
+      "hash": "BBFA1A593261DD46",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_Q2_000_000",
+      "hash": "AEF3C514C0B77850",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/LucKht001_03848#TEXT_LUCKHT001_03848_Q1_000_000",
+      "hash": "8A5A1B24184BECC0",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/LucKht001_03848#TEXT_LUCKHT001_03848_Q2_000_000",
+      "hash": "A2B3E1EC850B0466",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/LucKht012_03893#TEXT_LUCKHT012_03893_Q1_000_000",
+      "hash": "E34670AFAC5B333C",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/LucKht013_03894#TEXT_LUCKHT013_03894_Q1_000_000",
+      "hash": "CAA4B574A0F956C9",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/038/SubCts650_03889#TEXT_SUBCTS650_03889_Q1_000_000",
+      "hash": "6D14FA8082086381",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKht022_03983#TEXT_LUCKHT022_03983_Q1_000_000",
+      "hash": "9AEF21EC4A4900AC",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_Q1_000_000",
+      "hash": "FFAFA60AC09AD7CE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_Q2_000_000",
+      "hash": "6ABED728AD3AB3A2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_Q1_000_000",
+      "hash": "B90FE6F3E4885EC8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_Q2_000_000",
+      "hash": "1D533F20E98B7F26",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/041/AktKyx101_04167#TEXT_AKTKYX101_04167_Q1_000_000",
+      "hash": "F9EEC2B26E1C5D7C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/041/AktKyx201_04168#TEXT_AKTKYX201_04168_Q1_000_000",
+      "hash": "365F38FFA69AF9F1",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/041/AktKyx201_04168#TEXT_AKTKYX201_04168_Q2_000_000",
+      "hash": "14F69161CBDA63FD",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/041/AktKyx201_04168#TEXT_AKTKYX201_04168_Q3_000_000",
+      "hash": "43D0C6AC64E68485",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_A1_000_005",
+      "hash": "8DC53FD8E3A42A73",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_Q1_000_000",
+      "hash": "94CA392F35050247",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_Q1_000_000",
+      "hash": "8547BC5E53714F26",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_Q1_000_000",
+      "hash": "93ACCDFE11935ED7",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_A2_100_004",
+      "hash": "2B53FC6EF3FCC15C",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_A3_100_005",
+      "hash": "F6145C1D2694A688",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_Q1_000_100",
+      "hash": "40C11B6AEFF380C4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_Q2_100_000",
+      "hash": "C60CA9B280B9EB06",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_Q3_200_000",
+      "hash": "9EDC6D4A7D342D8F",
+      "why": "The companion is the woman in blue. Keep the Polish feminine noun towarzyszka."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_Q1_000_000",
+      "hash": "72E26370B7DAABB5",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_Q1_000_000",
+      "hash": "873C4FE7D78C2570",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzk001_04354#TEXT_AKTKZK001_04354_Q1_000_100",
+      "hash": "CD90CF759FB9C35A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzk002_04355#TEXT_AKTKZK002_04355_Q1_000_100",
+      "hash": "BAF1FEFB61CE4FCD",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/043/AktKzk002_04355#TEXT_AKTKZK002_04355_TODO_00",
+      "hash": "552EBF41B031FB6D",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_Q1_000_000",
+      "hash": "F013C28D4F5E94F0",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_Q2_000_000",
+      "hash": "EA13B90A1A7DAD8E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_Q1_000_004",
+      "hash": "9C970FE776AA7204",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza202_04490#TEXT_AKTKZA202_04490_A2_000_002",
+      "hash": "9C40115AB3C1A675",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza202_04490#TEXT_AKTKZA202_04490_A2_000_003",
+      "hash": "FCAEC4E690AE4426",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza202_04490#TEXT_AKTKZA202_04490_Q1_000_042",
+      "hash": "6BC4864D5BE275A4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza202_04490#TEXT_AKTKZA202_04490_Q2_000_073",
+      "hash": "C40643A98021587B",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza204_04492#TEXT_AKTKZA204_04492_Q1_000_046",
+      "hash": "BC3265AE984B96F4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKza204_04492#TEXT_AKTKZA204_04492_TODO_00",
+      "hash": "AC24F665DA224174",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzc101_04498#TEXT_AKTKZC101_04498_A2_000_003",
+      "hash": "3A653DCA30EE2CB4",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzc101_04498#TEXT_AKTKZC101_04498_Q1_000_000",
+      "hash": "B7941344C4349569",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzc101_04498#TEXT_AKTKZC101_04498_Q2_000_000",
+      "hash": "651C339CD6CDDD34",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf102_04494#TEXT_AKTKZF102_04494_Q1_000_033",
+      "hash": "2562DAFE9C4A249E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_Q1_000_016",
+      "hash": "81EF54E2EE1DCA20",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_Q2_000_045",
+      "hash": "E52A749FBB99A67E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_Q1_000_036",
+      "hash": "136302EADD7CC829",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_Q2_000_055",
+      "hash": "60E49BF82691BB63",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf201_04497#TEXT_AKTKZF201_04497_Q1_000_012",
+      "hash": "2D5E461A3055FB42",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzf201_04497#TEXT_AKTKZF201_04497_Q2_000_069",
+      "hash": "D197E25DEC3A9089",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzi101_04484#TEXT_AKTKZI101_04484_Q1_000_000",
+      "hash": "23A29F9BEAB25A77",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzi101_04484#TEXT_AKTKZI101_04484_Q2_000_000",
+      "hash": "2DD8D5117D1C3C6D",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/044/AktKzi101_04484#TEXT_AKTKZI101_04484_Q3_000_000",
+      "hash": "A6BD16EBFFE9A2B9",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze101_04516#TEXT_AKTKZE101_04516_Q1_000_000",
+      "hash": "816EF637EA182235",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze101_04516#TEXT_AKTKZE101_04516_Q2_000_000",
+      "hash": "CDB59F6063A6A46A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze101_04516#TEXT_AKTKZE101_04516_Q3_000_000",
+      "hash": "800C0EB9B2E9CD36",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze103_04518#TEXT_AKTKZE103_04518_TODO_02",
+      "hash": "FF4CEB19B9A1CB79",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze104_04519#TEXT_AKTKZE104_04519_Q1_000_000",
+      "hash": "242A916A6CE7EA1E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKze104_04519#TEXT_AKTKZE104_04519_Q2_000_000",
+      "hash": "0227C4E4D262F0D5",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKzg101_04507#TEXT_AKTKZG101_04507_A1_000_002",
+      "hash": "560A3662E65BEF43",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKzg101_04507#TEXT_AKTKZG101_04507_A1_000_003",
+      "hash": "42FD5059C05A380C",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKzg101_04507#TEXT_AKTKZG101_04507_Q1_000_000",
+      "hash": "450C766651577A3E",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/AktKzg101_04507#TEXT_AKTKZG101_04507_Q2_000_000",
+      "hash": "A8F72020993B702C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q1_000_000",
+      "hash": "FCBE8E21918559C0",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q2_000_000",
+      "hash": "D76DE2A381A5E3E2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q3_000_000",
+      "hash": "2C1877904B28DD4C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q4_000_000",
+      "hash": "DD00D9A46BFF7883",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q5_000_000",
+      "hash": "1900E1AD921CD2F4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q6_000_000",
+      "hash": "D070E1C8989A5898",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q7_000_000",
+      "hash": "A9D89EAD9963EA21",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q8_000_000",
+      "hash": "9BE7E3A27986EDC1",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q9_000_000",
+      "hash": "AA4648CC92B448FD",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_A4_000_001",
+      "hash": "DCD32AEBFABF9436",
+      "why": "Nashu is the same NPC with or without the optional noun postać."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_A4_000_003",
+      "hash": "15A02B1531582EA2",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_Q1_000_000",
+      "hash": "7341FAFA8AAA7147",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_Q2_000_000",
+      "hash": "A87F0CE8A79D0D32",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_Q3_000_000",
+      "hash": "A3DE9C0CB354D9F4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_Q4_000_000",
+      "hash": "51C52593EF00E8ED",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_TODO_03",
+      "hash": "FFAE1EA999F3F75F",
+      "why": "Nashu is the same NPC with or without the optional noun postać."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_TODO_08",
+      "hash": "07C6AFB55107A884",
+      "why": "Nashu is the same NPC with or without the optional noun postać."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_Q1_000_000",
+      "hash": "BDAF1CB2FE7D726A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/SubCts671_04524#TEXT_SUBCTS671_04524_A1_000_003",
+      "hash": "610A40A6DA380A6F",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/SubCts671_04524#TEXT_SUBCTS671_04524_Q1_000_000",
+      "hash": "572D8EC067921082",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/045/SubCts671_04524#TEXT_SUBCTS671_04524_Q2_000_000",
+      "hash": "1D285AE01C999A13",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_Q1_000_058",
+      "hash": "97856598A5CCD7BA",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_TODO_00",
+      "hash": "694F77B8EFC46248",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_Q1_000_019",
+      "hash": "EC236FF7DF197A44",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_Q1_000_000",
+      "hash": "ECE6091ACD16CE43",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_Q2_000_000",
+      "hash": "03575E77A0E7DBBC",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_Q1_000_000",
+      "hash": "D2807B8C506A74AF",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_Q2_000_000",
+      "hash": "46D02B9B1869ABFA",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_Q3_000_000",
+      "hash": "E35C6074156D71DD",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_A6_000_002",
+      "hash": "3C38AAAD18456F6A",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_A6_000_003",
+      "hash": "A16FB8AB3233510D",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q1_000_000",
+      "hash": "70C68EFC3A0F9087",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q2_000_000",
+      "hash": "9B94C6A110FD5AEB",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q3_000_000",
+      "hash": "4BB4F7561F25B604",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q4_000_000",
+      "hash": "471C85AD83042B51",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q5_000_000",
+      "hash": "8E792FA823BBE5CE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_Q6_000_000",
+      "hash": "16411C57644E3BAE",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_SYSTEM_000_103",
+      "hash": "89311FCD2E0FBB54",
+      "why": "Polish agreement depends on the companions. Use towarzyszami for a group with a male member and towarzyszkami for an all-female group."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_TODO_01",
+      "hash": "158CBAB00F2C05AB",
+      "why": "Nashu is the same NPC with or without the optional noun postać."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_A1_000_002",
+      "hash": "B904A4F89AFE4A72",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_A1_000_003",
+      "hash": "11680BE0FBE93872",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_Q1_000_000",
+      "hash": "AA854C4EAE04882E",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_Q2_000_000",
+      "hash": "FF5679041DA734B6",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_SYSTEM_000_080",
+      "hash": "C7239E5BDBF1FB92",
+      "why": "Polish agreement depends on the companions. Use towarzyszami for a group with a male member and towarzyszkami for an all-female group."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_SYSTEM_000_093",
+      "hash": "8CBE827D461621A9",
+      "why": "Hildibrand and Nashu require oboje. Namingway and the bud require obaj. Keep agreement with the companions in each quest."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/046/ChrHdb822_04642#TEXT_CHRHDB822_04642_SYSTEM_100_093",
+      "hash": "D14573ADB5DCB733",
+      "why": "Hildibrand and Nashu require oboje. Namingway and the bud require obaj. Keep agreement with the companions in each quest."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_Q2_000_000",
+      "hash": "F09E602B19560375",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct102_04731#TEXT_AKTKCT102_04731_Q1_000_000",
+      "hash": "6CFAAF75329B336E",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct103_04732#TEXT_AKTKCT103_04732_Q1_000_000",
+      "hash": "A50F839283C2A620",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct103_04732#TEXT_AKTKCT103_04732_Q2_000_000",
+      "hash": "C7DCF814243F19C8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct201_04767#TEXT_AKTKCT201_04767_Q2_000_000",
+      "hash": "92C4A652E81226A4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct202_04768#TEXT_AKTKCT202_04768_Q1_000_000",
+      "hash": "04E0B0C3065C27C1",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct202_04768#TEXT_AKTKCT202_04768_Q2_000_000",
+      "hash": "EE181077480C7F71",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKct203_04769#TEXT_AKTKCT203_04769_Q1_000_000",
+      "hash": "6FE71CB1CF3B8866",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKva201_04733#TEXT_AKTKVA201_04733_Q1_000_008",
+      "hash": "80049B5F80E31803",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKva201_04733#TEXT_AKTKVA201_04733_Q2_000_037",
+      "hash": "94ECC0ABB1758347",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_Q1_000_004",
+      "hash": "DB14764FE3243587",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_Q2_000_039",
+      "hash": "B063E754D7F9CB4B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_A2_000_002",
+      "hash": "C5D2EABB2D5BC8DF",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_A2_000_003",
+      "hash": "8A8F4FC3B1D5994E",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_Q1_000_000",
+      "hash": "4966121064A07EE5",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_Q2_000_000",
+      "hash": "DBDE7D06182F391A",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_Q4_000_000",
+      "hash": "90A122F52F644C0B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_Q5_000_000",
+      "hash": "3F2FA4B4B84A17A8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_Q6_000_000",
+      "hash": "32F7BE3A5C5BE0A3",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_Q1_000_000",
+      "hash": "E5A5547046C0A008",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_SYSTEM_100_281",
+      "hash": "8C33AB5002A318EF",
+      "why": "The accepted variants require the same combat class and minimum level 90. The noun phrase can be neutral or agree with player gender."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_Q1_000_000",
+      "hash": "918590214BDD3B24",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_Q2_000_000",
+      "hash": "46CA3155BF6C31DC",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_TODO_03",
+      "hash": "79BF1BA4ADE84E54",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/ChrHdb842_04755#TEXT_CHRHDB842_04755_Q2_000_000",
+      "hash": "D8FC8EE8F5CB217D",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_Q1_000_025",
+      "hash": "930B1766E2718FC2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_Q2_000_038",
+      "hash": "25D1C15EE97EF57C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_Q1_000_003",
+      "hash": "E8723E1A947BFC50",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_Q2_000_015",
+      "hash": "952D3B4EE24BBC4A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/AktKct301_04802#TEXT_AKTKCT301_04802_Q1_000_000",
+      "hash": "555FB8F6E90461E8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/AktKct301_04802#TEXT_AKTKCT301_04802_TODO_00",
+      "hash": "ED72DB00B3322238",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/AktKct302_04803#TEXT_AKTKCT302_04803_Q1_000_000",
+      "hash": "F2708264604270A7",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/AktKct302_04803#TEXT_AKTKCT302_04803_Q2_000_000",
+      "hash": "553E33AB51DDCDF2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/AktKct303_04804#TEXT_AKTKCT303_04804_Q1_000_000",
+      "hash": "3ACCF102863B2C05",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/ChrHdb852_04800#TEXT_CHRHDB852_04800_Q1_000_000",
+      "hash": "F538D3F824D32BAA",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_Q1_000_008",
+      "hash": "C400EB9D773D1890",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_Q2_000_069",
+      "hash": "809B02F97B06C98C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/SubCts606_04816#TEXT_SUBCTS606_04816_Q1_000_023",
+      "hash": "66C7E7436054B6F9",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/048/SubCts606_04816#TEXT_SUBCTS606_04816_Q3_000_329",
+      "hash": "A325A7E3B8049F0A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGyx101_05013#TEXT_KINGYX101_05013_Q1_000_000",
+      "hash": "7736830913A44EBF",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_TODO_00",
+      "hash": "9CBD00FA9C4AD352",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_Q1_000_000",
+      "hash": "4759FB2782468D15",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb203_05053#TEXT_KINGZB203_05053_Q1_000_000",
+      "hash": "F460CFFA1140E401",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_Q2_000_000",
+      "hash": "D83387BD245C329A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_Q3_000_000",
+      "hash": "890661CDE7D0034A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_Q4_000_000",
+      "hash": "B6FF6E2F704EAFB1",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_TODO_01",
+      "hash": "9E96F31B32A1D309",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_Q1_000_000",
+      "hash": "4A365ED4FDBB1A46",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_TODO_01",
+      "hash": "E063BC23EA623602",
+      "why": "The survey objectives use equivalent Polish verbs and require defeating the enemies that appear."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_Q1_000_000",
+      "hash": "2BE34E95021D8553",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb303_05057#TEXT_KINGZB303_05057_Q1_000_000",
+      "hash": "E800C6150A55D06A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_Q1_000_000",
+      "hash": "276E34B3EFAE2755",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_Q1_000_000",
+      "hash": "E5F1991C651B028B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzc201_05081#TEXT_KINGZC201_05081_Q1_000_100",
+      "hash": "E04B30E77CD06E0E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzc201_05081#TEXT_KINGZC201_05081_TODO_02",
+      "hash": "D751B84DBF002A5D",
+      "why": "Zbadać and rozejrzeć się are equivalent objectives for the marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_CHOICE1Q1_100_060",
+      "hash": "130E7989205E164B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_00",
+      "hash": "D4E4EECE1BA5BDF1",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd201_05110#TEXT_KINGZD201_05110_Q1_000_000",
+      "hash": "ED5283147F107949",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd201_05110#TEXT_KINGZD201_05110_Q2_000_000",
+      "hash": "1C4DAE44B9771F98",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd203_05112#TEXT_KINGZD203_05112_Q1_000_000",
+      "hash": "EB35F25D08004CE0",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd203_05112#TEXT_KINGZD203_05112_Q2_000_000",
+      "hash": "B000F3FD3168138A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd203_05112#TEXT_KINGZD203_05112_TODO_01",
+      "hash": "8F13C7104F6A743B",
+      "why": "Zbadać and rozejrzeć się are equivalent objectives for the marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd302_05115#TEXT_KINGZD302_05115_TODO_01",
+      "hash": "94610099DBAA3C99",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd303_05116#TEXT_KINGZD303_05116_Q1_000_000",
+      "hash": "93F1CF9481F0B085",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzd401_05118#TEXT_KINGZD401_05118_Q1_000_000",
+      "hash": "5A2D802F537FFEDB",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGze201_05140#TEXT_KINGZE201_05140_Q1_000_000",
+      "hash": "0A71D11918469395",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGze201_05140#TEXT_KINGZE201_05140_Q2_000_000",
+      "hash": "CAAC6C2865250583",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzh001_05174#TEXT_KINGZH001_05174_Q1_000_016",
+      "hash": "49A69EB1669EDCB8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_Q1_000_016",
+      "hash": "1C09F6D34AA4BD2C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_Q1_000_018",
+      "hash": "749288BE8B033EAE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_Q1_000_000",
+      "hash": "5C13C0EB54118160",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_01",
+      "hash": "893B77C9D998D52C",
+      "why": "Osoba and postać refer to the same NPC Wawlika."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGsf102_05240#TEXT_KINGSF102_05240_Q1_000_000",
+      "hash": "F8D7BC6F781E866E",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGsf102_05240#TEXT_KINGSF102_05240_TODO_00",
+      "hash": "B4E341C3078BFD54",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_Q1_000_001",
+      "hash": "8EF369219D0A7FB0",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_Q1_100_000",
+      "hash": "B8A3D452EECB477D",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_A5_000_001",
+      "hash": "298957A644F8A121",
+      "why": "The response option uses first person Porozmawiam. The quest objectives use imperative Porozmawiaj."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_A5_000_003",
+      "hash": "5FA1C42407C776E9",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_Q1_000_000",
+      "hash": "F289FBCB5A2D3F83",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_Q3_000_000",
+      "hash": "6C96A734858E74E8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_Q4_000_000",
+      "hash": "5BE415C41CC9C92D",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_Q5_000_000",
+      "hash": "C8F82961752F35A9",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_000_051",
+      "hash": "8700C13422D6073D",
+      "why": "The variants give the same warning about an event that cannot be skipped and pending Duty Finder registrations."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_Q1_000_000",
+      "hash": "01A2A04C5EC119D2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_Q2_000_000",
+      "hash": "2C9AE18572922F9D",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd002_05310#TEXT_KINGKD002_05310_Q1_000_000",
+      "hash": "8CF14B9C6E1A3E1A",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd002_05310#TEXT_KINGKD002_05310_Q2_000_000",
+      "hash": "606481FC33B86D02",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd003_05311#TEXT_KINGKD003_05311_Q1_000_000",
+      "hash": "32C61A1946F6C556",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_Q1_000_000",
+      "hash": "999F818FE09C221F",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_Q2_000_000",
+      "hash": "40FF47E52AC02887",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_Q1_000_000",
+      "hash": "6F42485200C60666",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_Q1_000_000",
+      "hash": "0F00C414381F26F9",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_Q2_000_000",
+      "hash": "5FFFEEA9B9792F73",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGdd101_05405#TEXT_KINGDD101_05405_Q1_000_043",
+      "hash": "54EB36B933BDF5DA",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGdd103_05407#TEXT_KINGDD103_05407_Q1_000_047",
+      "hash": "2DD9E6E7FCC53112",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGdd103_05407#TEXT_KINGDD103_05407_TODO_00",
+      "hash": "91D2FD16F904B815",
+      "why": "Zaczekać, poczekać and czekać give the same waiting objective. Wskazane and wyznaczone name the same marked location."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_Q0_000_000",
+      "hash": "08067F9030F09804",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_Q1_000_000",
+      "hash": "7A088875E5730C15",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_Q2_000_000",
+      "hash": "F437B5921EBFAEF4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf202_05461#TEXT_KINGSF202_05461_Q1_000_000",
+      "hash": "A59C58560C4445C0",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf202_05461#TEXT_KINGSF202_05461_Q2_000_000",
+      "hash": "FAAFF76F70D8FD1B",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGsf202_05461#TEXT_KINGSF202_05461_Q3_000_000",
+      "hash": "F41046557812BDEB",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_Q1_000_000",
+      "hash": "614845F7786780C4",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_Q2_000_000",
+      "hash": "A60A5558F75290D3",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_Q3_000_000",
+      "hash": "1874A828CC99333C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_Q4_000_000",
+      "hash": "AD488665E21EB074",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGva101_05441#TEXT_KINGVA101_05441_Q5_000_000",
+      "hash": "818BED2B877C83DE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_A5_000_001",
+      "hash": "D443F57F55610EB2",
+      "why": "Porozmawiać and pogawędzić are equivalent small-talk menu choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_A5_000_003",
+      "hash": "8F4581F2DC604672",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q1_000_000",
+      "hash": "6F6ED29B013B1765",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q3_000_000",
+      "hash": "5364F7110CCD5276",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q4_000_000",
+      "hash": "0613A0072217F5AE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q5_000_000",
+      "hash": "D121535474470120",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q6_000_000",
+      "hash": "2604B537A3DF968C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_071",
+      "hash": "AFD7F50ED8FD0624",
+      "why": "The variants give the same warning about an event that cannot be skipped and pending Duty Finder registrations."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_001",
+      "hash": "4234635F40A14704",
+      "why": "Porozmawiać and pogawędzić are equivalent small-talk menu choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_003",
+      "hash": "EF3F7DCC7B39209C",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q1_000_000",
+      "hash": "E349F59260D2B070",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q2_000_000",
+      "hash": "E684DF9E6A319EF3",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q4_000_000",
+      "hash": "D701D7C319199711",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q5_000_000",
+      "hash": "37C854066B0477CD",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_077",
+      "hash": "F26567B5D4128E11",
+      "why": "The variants give the same warning about an event that cannot be skipped and pending Duty Finder registrations."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_A2_000_001",
+      "hash": "12034032C7B7EF30",
+      "why": "Porozmawiać and pogawędzić are equivalent small-talk menu choices."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_A2_000_002",
+      "hash": "BF3D8BFC55FFFA62",
+      "why": "Rozstać się is the same menu choice with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_A2_000_003",
+      "hash": "89C6441B789FABBA",
+      "why": "Nic is the same response with or without a final full stop."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q1_000_000",
+      "hash": "C1A91AF199B628B2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q1_100_100",
+      "hash": "99D092A0D92FC4CB",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q2_000_000",
+      "hash": "079F37128D59414E",
+      "why": "Co zrobisz and Co zrobić are equivalent action prompts."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q2_100_100",
+      "hash": "95B39310DECE98DC",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q4_000_000",
+      "hash": "2571D1E3EC9F1767",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q5_000_000",
+      "hash": "BCD153815CCDAAC6",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_041",
+      "hash": "D235ED2D7DB6D360",
+      "why": "Polish agreement depends on the companion group. The variants require the companions to be nearby before continuing."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_045",
+      "hash": "C2A9032E87043058",
+      "why": "Polish agreement depends on the companions. Use towarzyszami for a group with a male member and towarzyszkami for an all-female group."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_101",
+      "hash": "43E82650DB4C7A53",
+      "why": "The variants give the same warning about an event that cannot be skipped and pending Duty Finder registrations."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_100_052",
+      "hash": "BC0791A20A800900",
+      "why": "Hildibrand and Nashu require oboje. Namingway and the bud require obaj. Keep agreement with the companions in each quest."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_Q1_000_000",
+      "hash": "2917FF9B55E938FE",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_TODO_00",
+      "hash": "6D6BBC5D78B5CCAD",
+      "why": "The response option uses first person Porozmawiam. The quest objectives use imperative Porozmawiaj."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_TODO_03",
+      "hash": "9FC4BD8D7E90E8DE",
+      "why": "The response option uses first person Porozmawiam. The quest objectives use imperative Porozmawiaj."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_Q1_000_000",
+      "hash": "A9A5E20A1E26612C",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd104_05514#TEXT_KINGKD104_05514_Q1_000_000",
+      "hash": "8B18A22AB72FE656",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd105_05515#TEXT_KINGKD105_05515_Q1_000_000",
+      "hash": "4D8620C0FCA2CCC2",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd105_05515#TEXT_KINGKD105_05515_Q2_000_000",
+      "hash": "E017AC7AA04252D8",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd105_05515#TEXT_KINGKD105_05515_Q3_000_000",
+      "hash": "423307E9616AAEED",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_Q1_000_000",
+      "hash": "49C8086C1A08D597",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/055/KinGkd108_05518#TEXT_KINGKD108_05518_Q1_000_000",
+      "hash": "91F7F5930C787BAF",
+      "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
     }
   ]
 }

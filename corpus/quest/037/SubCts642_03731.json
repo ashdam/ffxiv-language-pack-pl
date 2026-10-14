@@ -2,16 +2,16 @@
   "conversation": "quest/037/SubCts642_03731",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_SEQ_00", "hash": "2380228B28C34775", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_TODO_00", "hash": "3067DD7D54930337", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_000", "hash": "4CE137DB3816FF1E", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_001", "hash": "8454352D8B5F540A", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_002", "hash": "0FC3D2858DC418EA", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_010", "hash": "20CB12BF56B4256E", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_020", "hash": "80361FADBFBA27A0", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_021", "hash": "9A8194CBADD7F78A", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_022", "hash": "96D226E008B45EF1", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_023", "hash": "3AD28012E835544B", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_024", "hash": "840CDC5343B61440", "target": "" }
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_SEQ_00", "hash": "2380228B28C34775", "target": "Anfrigg może na chwilę odłożyć shaker, jeśli zagadniesz go rozmową." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_TODO_00", "hash": "3067DD7D54930337", "target": "Porozmawiaj z Lereberdem." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_000", "hash": "4CE137DB3816FF1E", "target": "Dobrze, że oszczędza mi <if(gnum4,pani,pan)> szukania. Poproszono mnie o przekazanie pewnej wiadomości." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_001", "hash": "8454352D8B5F540A", "target": "Jeden z przebudowanych statków powietrznych właśnie rusza w pierwszy komercyjny lot do Crystarium. Zaproszono cię jako honorowego pasażera!" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_002", "hash": "0FC3D2858DC418EA", "target": "Po <if(gnum4,pani,pana)> wkładzie to tylko sprawiedliwe. Gdy zechce <if(gnum4,pani,pan)> wejść na pokład, proszę pomówić z Lereberdem, tym krzykliwie odzianym głupkiem przy Xylem Lift. Uprzedzam, ma zwykle minę tak kwaśną, że zważyłaby mleko z dwudziestu kroków." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_010", "hash": "20CB12BF56B4256E", "target": "Przy Xylem Lift zwykle stoi facet wyglądający, jakby ukradł matce zasłony i uszył z nich płaszcz. Lereberd. Trudno o bardziej odrażającego drania." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_020", "hash": "80361FADBFBA27A0", "target": "Na statek powietrzny? Hmpf!" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_021", "hash": "9A8194CBADD7F78A", "target": "Jest <if(gnum4,pani,pan)> z tych przepoconych żołnierzy? Czy zajmuje się szkutnictwem i z braku lepszego zajęcia całymi dniami wbija gwoździe z furią, jakby osobiście <if(gnum4,panią,pana)> skrzywdziły? Hm? Która możliwość?" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_022", "hash": "96D226E008B45EF1", "target": "Dlaczego dano wam dożywotnie przepustki za tę waszą partaninę, nie pojmuję. Oczywiście to nie moja sprawa. Motłoch pozostaje motłochem." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_023", "hash": "3AD28012E835544B", "target": "\\<wzdycha> Z obowiązku informuję, że wszyscy pasażerowie są stąd prowadzeni na najwyższy poziom Eulmore, gdzie znajduje się lądowisko. Dalej mogą przejść tylko uprawnieni do wejścia na pokład." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_024", "hash": "840CDC5343B61440", "target": "Niestety władze nie zapewniły należytej recepcji i muszę stać godzinami jak nędzny lokaj. \\<wzdycha> Jeśli nie zamierza już <if(gnum4,pani,pan)> mnie nudzić, statek czeka. <if(gnum4,<italic(1)>Łaskawa pani<italic(0)>,<italic(1)>Łaskawy panie<italic(0)>)>." }
   ]
 }
