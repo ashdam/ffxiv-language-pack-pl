@@ -5,6 +5,18 @@
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
+    {"en": "instinctual combo", "pl": "kombinacja instynktowna I", "protect": false, "note": "Pierwszy poziom kombinacji beastmaster; EventTutorial#11.1."},
+    {"en": "intentional combo", "pl": "kombinacja instynktowna II", "protect": false, "note": "Drugi poziom kombinacji beastmaster; EventTutorial#12.1."},
+    {"en": "infinitive combo", "pl": "kombinacja instynktowna III", "protect": false, "note": "Trzeci poziom kombinacji beastmaster; EventTutorial#13.1."},
+    {"en": "instinctual affinity", "pl": "typ instynktowny", "protect": false, "note": "Typ chowańca określający dostępne akcje; EventTutorialPage#35.2."},
+    {"en": "enmity", "pl": "wrogość", "protect": false, "note": "Mechanika walki określająca wybór celu przez przeciwnika."},
+    {"en": "durability", "pl": "trwałość", "protect": false, "note": "Trwałość ekwipunku i przedmiotów podczas wytwarzania; odróżniać od integrity."},
+    {"en": "integrity", "pl": "wytrzymałość", "protect": false, "note": "Pozostała wytrzymałość złoża lub obiektu; nie mylić z durability ekwipunku."},
+    {"en": "collectability", "pl": "wartość kolekcjonerska", "protect": false, "note": "Wartość przedmiotu kolekcjonerskiego, nie rzadkość ani jakość HQ."},
+    {"en": "desynthesis", "pl": "desynteza", "protect": false, "note": "Rozkład przedmiotów na materiały; dokładne etykiety interfejsu pozostają angielskie."},
+    {"en": "mettle", "pl": "męstwo", "protect": false, "note": "Punkty postępu w Bozji; w zwykłej prozie dobierać wyraz do kontekstu."},
+    {"en": "tomestone", "pl": "tomolit", "protect": false, "note": "Ogólne określenie nośnika lub waluty. Pełne nazwy walut i etykiety Item pozostają angielskie."},
+    {"en": "territory token", "pl": "żeton terytorium", "protect": false, "note": "Waluta zawartości beastmaster; liczbę podawać bez zmiany danych makra."},
     {"en": "Cosmic Exploration Initiative", "pl": "Inicjatywa Eksploracji Kosmosu", "protect": false, "note": "Nazwa przedsięwzięcia w prozie; nazwy przycisków i kategorii pozostają angielskie."},
     {"en": "exotablet", "pl": "egzotablet", "protect": false, "note": "Urządzenie do obsługi eksploracji kosmosu; odmieniać egzotabletu, egzotabletem."},
     {"en": "survey pod", "pl": "kapsuła badawcza", "protect": false, "note": "Kapsuła Namingwaya; nie postać Pod ani nazwa przedmiotu."},

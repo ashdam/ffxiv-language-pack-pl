@@ -17916,6 +17916,2076 @@
       "gameKey": "quest/055/KinGkd108_05518#TEXT_KINGKD108_05518_Q1_000_000",
       "hash": "91F7F5930C787BAF",
       "why": "Co powiesz and Co odpowiesz are equivalent dialogue prompts. The translation does not change the available responses."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10109",
+      "hash": "6CD86473A9DE76A6",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10786",
+      "hash": "6500E050C410E858",
+      "why": "The Polish clause gives the count of other Infrastructure Index entries. It needs no English other/others distinction; both entry and count references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1086",
+      "hash": "B23709F8FCA900ED",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10902",
+      "hash": "7089CBB9074006EC",
+      "why": "The Polish clause labels the count of first-time party members. The member/members and was/were choices are unnecessary; member count and item reward references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10903",
+      "hash": "6013F1A6113BFDA4",
+      "why": "The Polish clause labels the count of first-time party members. The member/members and was/were choices are unnecessary; member count and item reward references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10904",
+      "hash": "EBFFAB5EB9060240",
+      "why": "The Polish clause labels the count of first-time party members. The member/members and was/were choices are unnecessary; member count and item reward references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#10965",
+      "hash": "7DACB8DDD4EC8EEA",
+      "why": "The Polish counter labels use the same noun form for every count. Both silver and bronze coffer counts remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1110",
+      "hash": "9CE7A02BE6AF10E9",
+      "why": "The Polish line casting message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1111",
+      "hash": "0439F1E5ED9DF597",
+      "why": "The Polish putting away a rod message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11165",
+      "hash": "1A5574FF044CC622",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11187",
+      "hash": "9717A1A4E3B3ECFF",
+      "why": "The Polish clause gives the count of other Infrastructure Index entries. It needs no English other/others distinction; both entry and count references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1121",
+      "hash": "545AFFD210F53F7E",
+      "why": "The Polish recasting a line message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11322",
+      "hash": "B2D54D0697D771D3",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#113",
+      "hash": "B1DB597AF146AD9F",
+      "why": "The Polish annoyance message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11406",
+      "hash": "A16298BC22CC8520",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11407",
+      "hash": "A608A34A3F24D0DE",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11415",
+      "hash": "02969DB5D3DD0B9E",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11427",
+      "hash": "4569CAC57A34D605",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11431",
+      "hash": "2BBB687DBABE5DEB",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#11459",
+      "hash": "09B35A2182957BB9",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1201",
+      "hash": "41145DACD4AAF34F",
+      "why": "The Polish clause labels the number of lost materia. It retains the loss count and conditional visibility without an English was/were distinction."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1202",
+      "hash": "222733ACDC4594CF",
+      "why": "Polish uses the impersonal loss message with the unit szt. materii. The lost-quantity value remains; English was/were selection is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#122",
+      "hash": "91AC09E78A60A5AC",
+      "why": "The Polish pointing at oneself message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#129",
+      "hash": "EBA74026ADC6603E",
+      "why": "The Polish encouraging oneself beside a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1300",
+      "hash": "162511A5E04FBEE1",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1361",
+      "hash": "93F8F771F13103F9",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1369",
+      "hash": "4CF1CA15A58B2069",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1380",
+      "hash": "B7DDBCB77240CA3C",
+      "why": "The removed PlaceName column 1 selects English in, on or at. Polish uses w lokacji and keeps the actual PlaceName reference and its ID."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1388",
+      "hash": "E296A212E61F8093",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1438",
+      "hash": "C90BE214EC8C07CB",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1439",
+      "hash": "0A60AF054B9F993D",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#143",
+      "hash": "C10C277C57A5DCE3",
+      "why": "The Polish showing oneself off message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1444",
+      "hash": "2A741C52064450A6",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1445",
+      "hash": "13B0D97B7A79EC48",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1446",
+      "hash": "A9B18082CA57FB92",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1447",
+      "hash": "F68D10F4E61672EB",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1450",
+      "hash": "83D681A1972A1F53",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1451",
+      "hash": "662B7B1AE0D0C8C3",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1452",
+      "hash": "9F335E369500EBB7",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1517",
+      "hash": "99774682E8C17050",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#151",
+      "hash": "09A7992679C1CCC5",
+      "why": "The Polish joy before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1524",
+      "hash": "61EA5C605064C2DF",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#152",
+      "hash": "1D855546F26732C0",
+      "why": "The Polish disappointment before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1532",
+      "hash": "45F8168802F404D1",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1629",
+      "hash": "49C73D1818523F0E",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1630",
+      "hash": "3768B6AAB7EEC3AC",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#166",
+      "hash": "B0228615AC3AB51A",
+      "why": "The Polish closing eyes before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#167",
+      "hash": "FB291F98838B1F23",
+      "why": "The Polish tears message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#173",
+      "hash": "287D241EB6437A75",
+      "why": "The Polish sharing worry message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#1930",
+      "hash": "7DCDB684BB9F3DB6",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2009",
+      "hash": "F392C8DD5C362D12",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2012",
+      "hash": "3BDC4D3661DB6738",
+      "why": "The Polish countdown uses the invariant unit s. The place and countdown value remain; English second/seconds selection is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2018",
+      "hash": "32B1EF32DDB53DD5",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2113",
+      "hash": "8ECAAE0354B9C00B",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2169",
+      "hash": "E402E5F9FB586AB9",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#222",
+      "hash": "947B291A0E4EC82A",
+      "why": "The Polish pointing at oneself message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#229",
+      "hash": "041E0FCCA637CD20",
+      "why": "The Polish encouraging oneself message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#243",
+      "hash": "7DD8E3BE929A586C",
+      "why": "The Polish self-admiration message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2637",
+      "hash": "B54C7CE942D8CFDB",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2638",
+      "hash": "CE08F488B04B83BE",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2639",
+      "hash": "B75E9BF164920BEF",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2642",
+      "hash": "1967965ED6BC4AAB",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2656",
+      "hash": "C50A381151CC64C4",
+      "why": "The Polish clause presents the original slot or party count as digits. English spelled numbers and party/parties branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#266",
+      "hash": "B1EA3D863B5523B9",
+      "why": "The Polish closing eyes message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#270",
+      "hash": "397DEA05B48A4D22",
+      "why": "The Polish clenched teeth message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#271",
+      "hash": "26EB7FACF463B352",
+      "why": "The Polish furrowed brow message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2772",
+      "hash": "7CB8FD0A77BA4EFF",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#2870",
+      "hash": "CF11D964FDAB5EBE",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#287",
+      "hash": "ADBED23439C194F5",
+      "why": "The Polish offering a hand message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#294",
+      "hash": "0EB9DBBC26B8C016",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3244",
+      "hash": "A8741A88F5016919",
+      "why": "Polish uses the invariant abbreviation pkt for quota points. All point, quantity, and item selectors remain; the English plural suffix selector is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3507",
+      "hash": "FC97DE05F4784A5D",
+      "why": "Polish uses the invariant heading Zasoby znikają for the gathering location. The location selector remains; its English singular/plural verb selector is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3508",
+      "hash": "807F00AB442189C6",
+      "why": "Polish uses the fixed heading zasoby są już wyczerpane for the gathering location. The location selector remains; its English singular/plural copula selector is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3588",
+      "hash": "7191F867333A6484",
+      "why": "Polish uses the invariant heading Zasoby znikają for the gathering location. The location selector remains; its English singular/plural verb selector is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3905",
+      "hash": "478F589C1F57A676",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3906",
+      "hash": "605444428D5B8015",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3915",
+      "hash": "F1CD332D0BFD269E",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3919",
+      "hash": "42FB8BFF1718BD24",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3980",
+      "hash": "42F7D8EB19525538",
+      "why": "The Polish impersonal discard or inventory clause needs no was/were distinction. The original item references and available-space count remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#3981",
+      "hash": "50F4AB63FFC1997E",
+      "why": "The Polish impersonal discard or inventory clause needs no was/were distinction. The original item references and available-space count remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4201",
+      "hash": "0ADF4FBEC3273CCD",
+      "why": "The Polish clause presents the original slot or party count as digits. English spelled numbers and party/parties branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4328",
+      "hash": "F4282F49FD699943",
+      "why": "The removed class conditions select the English articles a and an. Polish uses no article; ClassJob and its original index are retained."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4385",
+      "hash": "3C712EC5ED144208",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4386",
+      "hash": "A4A80F021DC4553D",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4390",
+      "hash": "BAB49923385DB0AE",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4420",
+      "hash": "3E5797E72FF332B0",
+      "why": "Polish makes the Grand Company the subject of zajmuje teren. The company and place selectors remain; English has/have selection for the place is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4421",
+      "hash": "EA75E2C0C9BB1AC8",
+      "why": "Polish uses the fixed subject teren in the occupation message. The place selector remains; English is/are selection for the place is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4424",
+      "hash": "7F7954A5A4BB9607",
+      "why": "The Polish clause presents the original slot or party count as digits. English spelled numbers and party/parties branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4428",
+      "hash": "7A90F17C3138CFBD",
+      "why": "The Polish clause presents the original slot or party count as digits. English spelled numbers and party/parties branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4435",
+      "hash": "26E2DDF4278E0154",
+      "why": "The Polish clause presents the original slot or party count as digits. English spelled numbers and party/parties branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4466",
+      "hash": "97056675B2F3DC76",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4506",
+      "hash": "FA46EC54FC232D42",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4507",
+      "hash": "AFCC811ECDC19FCB",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4546",
+      "hash": "B3E683FC3683A874",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4644",
+      "hash": "4F92BD67A12EFF46",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#469",
+      "hash": "06E31F91E5C17FCA",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4739",
+      "hash": "DA4CB1460C23A6A8",
+      "why": "The Polish putting away cards message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4761",
+      "hash": "8CB704534F8551B5",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#4796",
+      "hash": "7334608083228F43",
+      "why": "The Polish clause presents the original count as digits after a count label. English spelled numbers and singular/plural branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5180",
+      "hash": "56D0FEE8B68CED17",
+      "why": "The Polish loot roll message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5220",
+      "hash": "B285E75D0E0A40A2",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5221",
+      "hash": "794A71983660908A",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5255",
+      "hash": "202E9EC34328C636",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5260",
+      "hash": "939FD8D45FAF291A",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5261",
+      "hash": "176DE4561E52CE25",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5262",
+      "hash": "17C248B96A8CE6BA",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5263",
+      "hash": "5027A462B83E1349",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5270",
+      "hash": "FA8CDF59D3CEB800",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#549",
+      "hash": "CDC5A8A7DAF5FCDB",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5549",
+      "hash": "F5EC59F94FC3788A",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#555",
+      "hash": "A9E4F311B25F0B50",
+      "why": "Polish uses the collective noun posiłki and states Liczba przeciwników separately. The enemy count remains; English enemy joins/enemies join selection is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#556",
+      "hash": "EE96E651F78A52AE",
+      "why": "The Polish life countdown uses the invariant unit s. The actor and countdown value remain; English second/seconds selection is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5691",
+      "hash": "4ECAB81F37D3BA61",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#5692",
+      "hash": "EC3B71608034F41F",
+      "why": "Polish uses Liczba wyników and Wyświetlono before the retained counts. English match/matches selection is not needed."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#59",
+      "hash": "D173B37CC3C4E842",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#601",
+      "hash": "6610B6DB5D9C5EEF",
+      "why": "The Polish HP restoration message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#602",
+      "hash": "09D5F17C66A6BE8E",
+      "why": "The Polish MP restoration message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#686",
+      "hash": "E28039F2E60030E3",
+      "why": "The removed class conditions select the English articles a and an. The required ClassJob references and indices are retained."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#6997",
+      "hash": "F3FFFF501F7FFE6D",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7101",
+      "hash": "CAE6DB468222300C",
+      "why": "The Polish timer uses fixed unit abbreviations min, godz. or s. All original time values remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7139",
+      "hash": "291A5B2BA5BF8BD1",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7140",
+      "hash": "FF27F8501CB4B94F",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7194",
+      "hash": "649144CAF4EA2502",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#793",
+      "hash": "1223F244C38226E1",
+      "why": "The Polish impersonal clause states the dye failure and retains the affected actor. The source were/was selection has no Polish equivalent."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7978",
+      "hash": "84C5AF8A46B50E2F",
+      "why": "The Polish clause uses an invariant count label or unit abbreviation with the original numeric value. It does not need the English singular/plural branch."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#7987",
+      "hash": "470D6ED22F759358",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8002",
+      "hash": "B2A5B439216E46DB",
+      "why": "The Polish approval of a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8003",
+      "hash": "73A615F49A7F8907",
+      "why": "The Polish approval message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8005",
+      "hash": "401A1E89B6776477",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8022",
+      "hash": "A5AC04DA07B6EA93",
+      "why": "The Polish covering the face message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8023",
+      "hash": "0611D295989D12AF",
+      "why": "The Polish covering the face message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8026",
+      "hash": "E97E6D72144447B0",
+      "why": "The Polish flexing muscles before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8027",
+      "hash": "C8A9843C935D80A5",
+      "why": "The Polish flexing muscles message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8041",
+      "hash": "106F1F2DEDEB1796",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8042",
+      "hash": "D915B7593C1E20C7",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8043",
+      "hash": "6DE077CC88D96486",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8048",
+      "hash": "DC6FBBBFD11F5EBB",
+      "why": "The Polish inner strength before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8049",
+      "hash": "EB120EDBCE4B8B9B",
+      "why": "The Polish inner strength message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8058",
+      "hash": "921060B8DDD084E3",
+      "why": "The Polish breathing exercises before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8059",
+      "hash": "E0383498B509AE90",
+      "why": "The Polish breathing message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8072",
+      "hash": "A98D335F66C5F370",
+      "why": "The Polish relaxing a pose before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8073",
+      "hash": "F7479F4327BD814A",
+      "why": "The Polish relaxing a pose message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8092",
+      "hash": "26BF12436725F8CB",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8094",
+      "hash": "93764F832710C0A2",
+      "why": "The Polish furrowed brow at a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8095",
+      "hash": "F0F12EC4B2CC42C0",
+      "why": "The Polish furrowed brow message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8100",
+      "hash": "1C4FF8FA2067FEBF",
+      "why": "The Polish kneeling breathlessly before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8101",
+      "hash": "F8ED051C77E4B615",
+      "why": "The Polish kneeling breathlessly message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8105",
+      "hash": "EF517E512AF524C8",
+      "why": "The Polish raising a hand message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8116",
+      "hash": "F34E9252D9D0A59E",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8117",
+      "hash": "0961953E6392F45C",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8138",
+      "hash": "2535C980EA48D276",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8139",
+      "hash": "2041C5A39BED722A",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8146",
+      "hash": "E166EEA5C761D631",
+      "why": "The Polish raising a fist before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8147",
+      "hash": "B215E14BE41B3606",
+      "why": "The Polish raising a fist message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8164",
+      "hash": "341CB491C51CB4BA",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8165",
+      "hash": "6807FC3F0844DF5B",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8168",
+      "hash": "4CBC1A7611F0C0C9",
+      "why": "The Polish reading a book message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8183",
+      "hash": "F19195F55154711F",
+      "why": "The Polish watching the surroundings message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8185",
+      "hash": "8FB45B0C9EA0A5F1",
+      "why": "The Polish asking dark forces for aid message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8194",
+      "hash": "D440B1F3C6AF8420",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8195",
+      "hash": "0D911CC1CF459D76",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8199",
+      "hash": "A51D99495378E5D9",
+      "why": "The Polish painting at the feet message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8203",
+      "hash": "47D87B1F76F36D0E",
+      "why": "The Polish painting at the feet message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8205",
+      "hash": "7CBF99EDB086278B",
+      "why": "The Polish painting at the feet message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8207",
+      "hash": "705CD5536B5A4CF8",
+      "why": "The Polish painting at the feet message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8216",
+      "hash": "AF6E8D8223135563",
+      "why": "The Polish holding the head message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8217",
+      "hash": "7AF02DA731FEF843",
+      "why": "The Polish holding the head before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8222",
+      "hash": "BBF39FCFFD3B63C6",
+      "why": "The Polish sheathing a weapon message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8223",
+      "hash": "A51AB875C44490CB",
+      "why": "The Polish sheathing a weapon before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8224",
+      "hash": "DDE0F70A61F8D39B",
+      "why": "The Polish drawing a weapon message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8225",
+      "hash": "766FE5909AB75BB9",
+      "why": "The Polish drawing a weapon before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8228",
+      "hash": "178075F7C4F741A2",
+      "why": "The Polish resolve message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8229",
+      "hash": "D14D53D0F574BA01",
+      "why": "The Polish resolve before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8230",
+      "hash": "7963C052D793A4E7",
+      "why": "The Polish addressing the audience message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8232",
+      "hash": "A58DDD52F0864E68",
+      "why": "The Polish addressing the audience message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8234",
+      "hash": "2A297D76DC467955",
+      "why": "The Polish baring teeth message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8235",
+      "hash": "C1C76AAA0B564114",
+      "why": "The Polish baring teeth at a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8240",
+      "hash": "509937E81FB64ECD",
+      "why": "The Polish team spirit message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8241",
+      "hash": "38CB62352CADCAD9",
+      "why": "The Polish team spirit before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8252",
+      "hash": "BA4A76F2AF68ED29",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8253",
+      "hash": "03BB97B56DED969E",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8266",
+      "hash": "22CC82D6891E66E8",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8267",
+      "hash": "56E928BFC62BB5CA",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8274",
+      "hash": "DD83198571862A47",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8275",
+      "hash": "7D6318276072D633",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8282",
+      "hash": "5FFF96B44EFC8C7F",
+      "why": "The Polish hanging the head message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8283",
+      "hash": "521DE7913FB45882",
+      "why": "The Polish hanging the head before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8284",
+      "hash": "602DD70A580B11EB",
+      "why": "The Polish making a heart message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8285",
+      "hash": "1049C12AD42435BE",
+      "why": "The Polish making a heart before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8290",
+      "hash": "C161F543AB706E6F",
+      "why": "The Polish victory news message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8291",
+      "hash": "945C20FBAB63BD23",
+      "why": "The Polish victory news before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8296",
+      "hash": "B3F2EEF9AE9BFD99",
+      "why": "The Polish waiting for orders message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8297",
+      "hash": "B9F40FD7016360B5",
+      "why": "The Polish waiting for orders from a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8312",
+      "hash": "0E9CAC02979DAA66",
+      "why": "The Polish taking a self-portrait message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8313",
+      "hash": "609692E1E9FB7AA5",
+      "why": "The Polish taking a self-portrait before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8322",
+      "hash": "A464B77B01E25FA1",
+      "why": "The Polish holding a tomestone message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8323",
+      "hash": "6DF169B4F4FCEB52",
+      "why": "The Polish holding a tomestone message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8340",
+      "hash": "029BA6A4979FEFD0",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8341",
+      "hash": "B16D8F1372FC1BC9",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8348",
+      "hash": "28440B525418D7D8",
+      "why": "The Polish falling over message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8349",
+      "hash": "034DA3F983883004",
+      "why": "The Polish being knocked over message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8364",
+      "hash": "19846DD5A60BEC8C",
+      "why": "The Polish hands on the cheeks message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8365",
+      "hash": "DDCD5402B84E4243",
+      "why": "The Polish hands on the cheeks before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8366",
+      "hash": "1C565BF52B0B71EB",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8367",
+      "hash": "5679A5009289051D",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8374",
+      "hash": "40C1AED351B725E6",
+      "why": "The Polish holding a book message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8375",
+      "hash": "A952A7DF97A9F564",
+      "why": "The Polish holding a book before a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8383",
+      "hash": "2EAC69F9C05A9A25",
+      "why": "The Polish checking a map message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8384",
+      "hash": "7C93B74FC3F9ECDD",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8385",
+      "hash": "4E164F3932F22D67",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8388",
+      "hash": "18E3EEA006235B72",
+      "why": "The Polish conducting message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8389",
+      "hash": "9DA30C0A0FBC3C28",
+      "why": "The Polish clause uses a body part without a gendered possessive or uses the reflexive possessive swoj. Actor and target selectors remain; English her/his branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8394",
+      "hash": "B7A3E690D36AB26B",
+      "why": "The Polish looking over a shoulder message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#8395",
+      "hash": "6420B1B646CDE9E8",
+      "why": "The Polish looking over a shoulder at a recipient message uses gender-neutral present-tense or reflexive wording. The removed branches select only English actor-gender possessives; actor, recipient, and value selectors remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#916",
+      "hash": "A8CE6711A663047F",
+      "why": "The Polish timer uses fixed unit abbreviations min or s. All original time values and thresholds remain; English singular/plural unit branches are unnecessary."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#9540",
+      "hash": "97AEEB0BA606C58D",
+      "why": "The Polish quantity label does not inflect with the count. The count and all item, place or currency references remain."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "LogMessage#9972",
+      "hash": "FBC702A35634178D",
+      "why": "Polish does not need the English a/an article branch. Both building IDs remain in their MJIText references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10052",
+      "hash": "11EDF7C926EBF79F",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10053",
+      "hash": "1C01DCE43D6C74B9",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10054",
+      "hash": "6411EB0FDBC617EB",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10058",
+      "hash": "DE39698A089E1AD7",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10280",
+      "hash": "88077814291D1AFC",
+      "why": "Ascian prime is the exact boss label in a combat cue. Do not replace part of this label with the generic noun Ascianin."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10281",
+      "hash": "716FB8A4885FCAF4",
+      "why": "Ascian prime is the exact boss label in a combat cue. Do not replace part of this label with the generic noun Ascianin."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10282",
+      "hash": "31A7515B291CD317",
+      "why": "Ascian prime is the exact boss label in a combat cue. Do not replace part of this label with the generic noun Ascianin."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#10283",
+      "hash": "F6A1975F4BA8B4A9",
+      "why": "Ascian prime is the exact boss label in a combat cue. Do not replace part of this label with the generic noun Ascianin."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#1090",
+      "hash": "3F65E6B902F062E7",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#1091",
+      "hash": "F91D89378EE00558",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#1092",
+      "hash": "2036F174F50C80E2",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#1093",
+      "hash": "B93770703A24A4E3",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#11400",
+      "hash": "8A0F29245380002F",
+      "why": "Master's Bestiary is the exact interface name. Master is part of this name, not a form of address."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#11458",
+      "hash": "21BA362292F9E675",
+      "why": "Master's Bestiary is the exact system menu label. The glossary rendering pan applies to a form of address, not this label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#2367",
+      "hash": "EAF7E151A7B797CE",
+      "why": "Silverscales warder is the exact enemy label in a combat cue. Keep the full label in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3201",
+      "hash": "0DD52296B2B018FE",
+      "why": "Lord of the Bramble Patch is the exact enemy name in a combat cue. The place-name translation does not replace part of an enemy label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3202",
+      "hash": "E224E853FB7F2ED8",
+      "why": "Lord of the Bramble Patch is the exact enemy name in a combat cue. The place-name translation does not replace part of an enemy label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3575",
+      "hash": "5E9D9D9CEAAABB15",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3633",
+      "hash": "0E65AB0548FE3D79",
+      "why": "Soul of the Dragoon is the exact name of the equipped soul crystal, not a generic reference to the job. Item names remain in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3634",
+      "hash": "071CBEE9B719BB35",
+      "why": "Soul of the Dragoon is the exact name of the equipped soul crystal, not a generic reference to the job. Item names remain in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3635",
+      "hash": "508D7A06E042EB70",
+      "why": "Soul of the Dragoon is the exact name of the equipped soul crystal, not a generic reference to the job. Item names remain in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3636",
+      "hash": "4CE536BC5E1C9D02",
+      "why": "Soul of the Dragoon is the exact item name. Keep the full item label in English; this is not a generic job reference."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3637",
+      "hash": "77FC110891593B22",
+      "why": "Soul of the Dragoon is the exact item name. Keep the full item label in English; this is not a generic job reference."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3639",
+      "hash": "E4B0C22343501C21",
+      "why": "Soul of the Dragoon is the exact name of the equipped soul crystal, not a generic reference to the job. Item names remain in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3681",
+      "hash": "AF9A952FB87D576C",
+      "why": "Soul of the Scholar is the exact name of the soul crystal that wakes the faerie. Item names remain in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#5301",
+      "hash": "CF82195D9FF6CE29",
+      "why": "Soul of the Warrior is the exact item name. Keep the full item label in English; this is not a generic job reference."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#5336",
+      "hash": "C16568C245BCB3CD",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#5753",
+      "hash": "BE19F5E186131D86",
+      "why": "Faux Commander is the NPC label. The Commander glossary entry concerns Grand Company ranks, not this NPC name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#5864",
+      "hash": "FF263865DAF5BCA6",
+      "why": "Adventurer plate is an interface feature name. It does not refer to an adventurer in narrative text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#5883",
+      "hash": "B317AABC7C5525B2",
+      "why": "Adventurer plate is an interface feature name. It does not refer to an adventurer in narrative text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#7106",
+      "hash": "9BF8D7D5D017C413",
+      "why": "Sala Nowicjusza is present as Sali Nowicjusza after the preposition do. The Polish genitive form is correct."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#7107",
+      "hash": "9BF5B1578243200C",
+      "why": "Sala Nowicjusza is present as Sali Nowicjusza after the preposition do. The Polish genitive form is correct."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#7534",
+      "hash": "946F8A5E867B6214",
+      "why": "Main ceruleum tank is an exact Rival Wings supply label in a branch listing supply types. Keep the label in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#7926",
+      "hash": "C7E30B690A923D7E",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#7927",
+      "hash": "ECC50870D3070118",
+      "why": "Blue Mage identifies the playable class in system requirements or its log. The glossary policy keeps English class labels in system text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9309",
+      "hash": "941E207631C741AE",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9310",
+      "hash": "F8E1DF380A957563",
+      "why": "The message refers to a class or job as a game system. The class-name policy in the Polish glossary keeps these names in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9311",
+      "hash": "04FF5463AF8A7AC7",
+      "why": "Blue Mage identifies the playable class in system requirements or its log. The glossary policy keeps English class labels in system text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9312",
+      "hash": "5CE5A90F9465B580",
+      "why": "Blue Mage identifies the playable class in system requirements or its log. The glossary policy keeps English class labels in system text."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9772",
+      "hash": "1090023686FF98E2",
+      "why": "Eden's Promise is the exact boss name in a combat cue. It does not refer to the title Promise translated as Pretendent."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9773",
+      "hash": "AF4BBB1C3A5CF3A4",
+      "why": "Eden's Promise is the exact boss name in a combat cue. It does not refer to the title Promise translated as Pretendent."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9844",
+      "hash": "CB4BF333920BC136",
+      "why": "Crystal of Light is a targetable combat object. Keep its English label so the player can identify the object to destroy."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9860",
+      "hash": "07335D9C29B9FF27",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9882",
+      "hash": "8D7F7A0646DAAF07",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9892",
+      "hash": "186C02ABD558295A",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#9893",
+      "hash": "4459D13960B7303E",
+      "why": "Endsinger is the exact boss name in a combat cue. The glossary permits English boss labels in this context."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#10014",
+      "hash": "EE75633312CD65F8",
+      "why": "The tank is a carried mission device, not the Miscellany item. The Polish glossary translates ceruleum tank as zbiornik ceruleum for devices in prose."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#10315",
+      "hash": "7D6065F81F69AD57",
+      "why": "Ice shards are ice formations in the encounter, as confirmed by French amas de glace and Japanese 氷塊. They are not the inventory crafting crystal."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2239",
+      "hash": "FD074EEBA7F4710F",
+      "why": "Corrupted crystals are encounter crystals attached to the player body, not the inventory item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2544",
+      "hash": "FF4A66BB629E7FC3",
+      "why": "Corrupted crystals are environmental obstacles that break to open a path, not the inventory item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2545",
+      "hash": "28498C63C387E9AE",
+      "why": "Corrupted crystals are environmental obstacles that break to open a path, not the inventory item."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2779",
+      "hash": "AC5ABC071A3C8038",
+      "why": "The ice crystal is an elemental amplifier that supplies Buer during the encounter, not an inventory crafting crystal."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2780",
+      "hash": "E4E03A3345025463",
+      "why": "The wind crystal is an elemental amplifier that supplies Buer during the encounter, not an inventory crafting crystal."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#2781",
+      "hash": "96FA92CB51F6259C",
+      "why": "The lightning crystal is an elemental amplifier that supplies Buer during the encounter, not an inventory crafting crystal."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "LogMessage#9880",
+      "hash": "C394033D1D046E4A",
+      "why": "The text describes removing the fuel tank from a magitek reaper, as confirmed by Japanese. It does not name the inventory fuel Item 10155."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_SYSTEM_000_077",
+      "hash": "B465A5249475F814",
+      "why": "Orthos tomestones is the exact plural label of Item 38942. Keep the full item label; tomolit applies to generic references."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentsTutorialPage#23",
+      "hash": "AEDEE91A290E0795",
+      "why": "The heading uses the Polish locative Sali Nowicjusza. Hall of the Novice in the body is the exact menu entry used to open the feature."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentsTutorialPage#24",
+      "hash": "1C79973A104F2C12",
+      "why": "The heading uses the Polish locative Sali Nowicjusza. Hall of the Novice in the body is the exact menu entry used to open the feature."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowTo#290",
+      "hash": "14A0B9A7652FA631",
+      "why": "Phoenix Down is the exact name of the revival item. Phoenix is not a reference to the summon in this tutorial title."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1210.4",
+      "hash": "ED6B4C45E54BA3C5",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1220.4",
+      "hash": "5B6800DA58766D2B",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1221.4",
+      "hash": "F0A81EE84B14EA0F",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1222.4",
+      "hash": "B8EFD1E63E1BDFD6",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1223.4",
+      "hash": "075E6C5EA0796679",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1490.4",
+      "hash": "6498408641931327",
+      "why": "Crystal bell is the exact housing object label used to summon Jandelaine. The glossary entry bell applies only to units of time."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#153.4",
+      "hash": "B57C1FF8C64317D1",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1550.4",
+      "hash": "8322D6444E6DD998",
+      "why": "Master Recipes is an exact crafting-log category. Master here denotes advanced craftsmanship, not the honorific pan."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1861.4",
+      "hash": "81A78F200EC55970",
+      "why": "Sanctum of the Twelve is an exact destination label. Do not replace part of this navigation reference with the standalone deity-group name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1871.4",
+      "hash": "C9722EA197A4E8BF",
+      "why": "The Twelve occurs only within the place name Sanctum of the Twelve. The full place label remains in English for navigation."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#1880.4",
+      "hash": "94E7426C3CEE9394",
+      "why": "Sanctum of the Twelve is the exact ceremony venue label. Keep the destination identifiable in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2111.4",
+      "hash": "910A664687634AC9",
+      "why": "Amber-encased vilekin is the exact item name. It does not describe ordinary vilekin in narrative prose."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2260.4",
+      "hash": "09AF5535E6A34B6A",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2330.4",
+      "hash": "7366C5A93BC8B842",
+      "why": "Dravanian Hinterlands is an exact region label used to locate Astragalos. The generic adjective drawański does not replace part of the map label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2591.4",
+      "hash": "1FC894DD17150C98",
+      "why": "Phoenix Down and Phoenix Down Not Allowed are the item name and its exact Duty Finder restriction label. Phoenix is not a reference to the summon."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2592.4",
+      "hash": "3B98E06150A6F50A",
+      "why": "Phoenix down is the exact item name. It does not refer to the creature Phoenix translated as Feniks."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2594.4",
+      "hash": "374762E2D262ADD0",
+      "why": "Master's Bestiary is the exact system menu label. The glossary rendering pan applies to a form of address, not this label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2595.4",
+      "hash": "A2D58C6337957F51",
+      "why": "Master's Bestiary is an exact interface name. Master is not a form of address in this name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#2598.4",
+      "hash": "41AD86469BC2310B",
+      "why": "Master's Bestiary is the exact system menu label. The glossary rendering pan applies to a form of address, not this label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#401.4",
+      "hash": "40C408E13D504C97",
+      "why": "Lancer 01 is an exact Hunting Log entry used as an example. The class name is a system label, not a reference to a person."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#404.4",
+      "hash": "DBD5C63C1448C268",
+      "why": "Lancer 01 is an exact Hunting Log entry used as an example. The class name is a system label, not a reference to a person."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "HowToPage#890.4",
+      "hash": "B720AD2F8D97146E",
+      "why": "The tutorial refers to the playable class and its mechanics, not a narrative occupation. The glossary policy keeps English class and job names in system explanations."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "HowTo#195",
+      "hash": "84BA634385CC3D7B",
+      "why": "This is a descriptive tutorial title about invitations to a bonding ceremony. It is not an inventory item label; tutorial titles are localized."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "HowTo#260",
+      "hash": "5AAFC00CF7A02C70",
+      "why": "Mannequins is a descriptive tutorial category title, not an inventory item reference. Tutorial titles are translated."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "HowToPage#170.4",
+      "hash": "3234D4D85324096C",
+      "why": "Crescent moon describes the shape of the rested-experience icon. It does not refer to the unrelated Item 41490."
+    },
+    {
+      "rule": "macros-parity source vs pl",
+      "gameKey": "ContentFinderConditionTransient#243",
+      "hash": "EBB4B6740BCF284D",
+      "why": "Neutralna konstrukcja „żadna istota walcząca w pojedynkę” zachowuje znaczenie obu wariantów płci bez makra zaimka."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#63",
+      "hash": "01979755397D113B",
+      "why": "Ascian jest poprawnym dopełniaczem liczby mnogiej od Ascianin: z wiedzy Ascian."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#692",
+      "hash": "56CE78BFE5DDA0BC",
+      "why": "The Source oznacza jezioro w Norvrandt, nie świat pierwotny. Wyjątek jest zapisany w haśle Source."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#739",
+      "hash": "413953FAAEB5826E",
+      "why": "Ascian to poprawny biernik liczby mnogiej od Ascianin w zdaniu „historia zapamięta Ascian jako złoczyńców”."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#73",
+      "hash": "3B6CD0E896668C21",
+      "why": "Ascian to poprawny dopełniacz liczby mnogiej od Ascianin w wyrażeniu „wiedzy Ascian”."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "ContentFinderConditionTransient#33",
+      "hash": "5870ED8A421E8BC3",
+      "why": "The coming storm is a metaphor for the threat to the Zundu, not the firearm name."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "ContentFinderConditionTransient#72",
+      "hash": "12281D8179EF1BBE",
+      "why": "Corrupted crystals are bulk material loaded into warships, not the exact Item label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "ContentFinderConditionTransient#93",
+      "hash": "510464A874BCE772",
+      "why": "Corrupted crystals describe the crystals filling the impact caverns, not the exact Item label."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#277",
+      "hash": "5D7DB00B0567A40D",
+      "why": "Dravanian Hinterlands is the full region name. Keep this map label in English; do not replace part of it with the generic adjective drawański."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ContentFinderConditionTransient#73",
+      "hash": "41F2EA84E46B0CC9",
+      "why": "Ascian to poprawny dopełniacz liczby mnogiej od Ascianin w wyrażeniu „wiedzy Ascian”."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Balloon#4021",
+      "hash": "03E3F2D69F3286D5",
+      "why": "Eorzean Nimble Warrior is the course name and remains in English."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Balloon#7789",
+      "hash": "4A5B64A098AF98D8",
+      "why": "Endless House jest nazwą obiektu docelowego przejazdu balonem, nie określeniem Wiecznych."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#10089",
+      "hash": "30E4DBD441AB7B0C",
+      "why": "Se dirige al equipo que elimina hongos; no nombra el objeto de inventario."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#1382",
+      "hash": "54A737FCDE5361FB",
+      "why": "Mowa o cle na cytryny, nie o etykiecie przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#2046",
+      "hash": "0D3D43F797C90DB2",
+      "why": "Dragon peppers to składnik potrawy w dialogu; glosariusz dopuszcza smoczą paprykę w prozie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#3222",
+      "hash": "2EBBAB553AAC61A9",
+      "why": "Dragon peppers are a food ingredient in a comparison, not an Item label; the glossary specifies smocza papryka in prose."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#443",
+      "hash": "81119265B3F2CDB7",
+      "why": "This is an order for ordinary wine, not a request to preserve an inventory label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#451",
+      "hash": "A22DD0A0599037E8",
+      "why": "Rat pelts are ordinary ingredients in a sarcastic description of stew, not an item label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#490",
+      "hash": "27C41E9B37682DE4",
+      "why": "El personaje habla de la sexta botella de vino que bebió; sustantivo en prosa, no etiqueta de inventario."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9185",
+      "hash": "F20600D5CC6DC36A",
+      "why": "Pumpkin head to opis przebrania rozmówcy, nie etykieta przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9187",
+      "hash": "56988D9BC583A2B2",
+      "why": "Dyniowe głowy rozważane jako element garderoby w prozie, nie etykieta przedmiotu."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9266",
+      "hash": "1DB494AF2B1EFB95",
+      "why": "Dust filter oznacza filtr w maszynie; wypowiedź opisuje zatkanie elementu, nie wskazuje przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9712",
+      "hash": "2536EE8A887C234F",
+      "why": "Opis materialnego obiektu na miejscu prac, nie etykieta przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9722",
+      "hash": "FA68A36792FFCC14",
+      "why": "This is a request to bring physical glass debris, not an inventory label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9723",
+      "hash": "6E1C8704706C6502",
+      "why": "Material de obra al que se refiere el diálogo, no una etiqueta de inventario."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9724",
+      "hash": "BE4271F0EC590A65",
+      "why": "Opis materialnego obiektu na miejscu prac, nie etykieta przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#9908",
+      "hash": "FF0ECF5DC2B49E4D",
+      "why": "Materiales de obra, no una etiqueta de inventario; se traduce el sustantivo visible."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#11370",
+      "hash": "2F5A40608672A448",
+      "why": "Nazwa zabawy Presents of Mind, nie przedmiotu Fête Present."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#16408",
+      "hash": "B1FEF0CDB7E13C9F",
+      "why": "Invocación a la oscuridad, no el arma Darkness."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#1672",
+      "hash": "72744B8A83D90C6A",
+      "why": "Mowa o skrzyniach cytryn pod tuniką, nie o etykiecie przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#19323",
+      "hash": "76C1F2112B9742DF",
+      "why": "Opis materialnego obiektu na miejscu prac, nie etykieta przedmiotu w interfejsie."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#3277",
+      "hash": "E212039C750C83BA",
+      "why": "Gastornis eggs are used in a simile, not as an inventory label."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#4703",
+      "hash": "0F23F180E82AF650",
+      "why": "Bloody murder is an exclamation and does not name the firearm."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#6379",
+      "hash": "6B75F2C9F5453546",
+      "why": "Grito de ataque Diamond Dust, no el objeto del mismo nombre."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "Balloon#6930",
+      "hash": "7F5B5DC472F1072F",
+      "why": "Nimble Warrior es el nombre del circuito, no una referencia a la profesión de guerrero."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "NpcYell#11260",
+      "hash": "F93BED1F6A8CC4F1",
+      "why": "Isle of Endless Summer es el nombre del lugar, no los Wieczni de Living Memory."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "NpcYell#6418",
+      "hash": "F641CBE399C581E2",
+      "why": "Isle of Endless Summer es el nombre del lugar, no los Wieczni de Living Memory."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#113",
+      "hash": "5647DDFDA2142371",
+      "why": "Dragon peppers are listed as ingredients in a recipe, not used as an Item label; the glossary specifies smocza papryka in prose."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "Balloon#6487",
+      "hash": "A09AC849CC31E0E3",
+      "why": "Wahoo jest okrzykiem radości, nie nazwą ryby."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#11963",
+      "hash": "68F19BDB796F4EDF",
+      "why": "Nazwa zabawy Presents of Mind, nie przedmiotu Fête Present."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#11965",
+      "hash": "5F635F39D1BBAADB",
+      "why": "Nazwa zabawy Presents of Mind, nie przedmiotu Fête Present."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#11968",
+      "hash": "08D8BC7F65AA7E56",
+      "why": "Nazwa zabawy Presents of Mind, nie przedmiotu Fête Present."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#5035",
+      "hash": "887328628F13DAA0",
+      "why": "Papryki w opisie posiłku i odgłosów z wychodka, nie etykieta przedmiotu."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "NpcYell#5592",
+      "hash": "1C2606C6859648C3",
+      "why": "Spear of the Fury to metafora oddziału jako włóczni Halone, nie etykieta broni."
     }
   ]
 }

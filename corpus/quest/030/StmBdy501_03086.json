@@ -93,7 +93,7 @@
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_DOWARE_000_117", "hash": "0EDB3907071447D0", "target": "Ale <if(gnum4,pani,pan)> z pewnością zna jej imię? Proszę mi powiedzieć, abym mógł należycie z nią porozmawiać przed powrotem do ojczyzny." },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_Q3_000_118", "hash": "0D4C36913591E1D8", "target": "Co powiesz?" },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_119", "hash": "79C0D1DC03B56ED4", "target": "Aelina? Zdaje się, że handluje bronią bożków i tym podobnymi rzeczami." },
-    { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_120", "hash": "56195E42A754FB7C", "target": "Auriana? <if(gnum4,Nie wiedziałam,Nie wiedziałem)>, że zbiera pan tomestones." },
+    { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_120", "hash": "56195E42A754FB7C", "target": "Auriana? <if(gnum4,Nie wiedziałam,Nie wiedziałem)>, że zbiera pan tomolity." },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_121", "hash": "0820237BF7946359", "target": "Laraina? Od kiedy zbiera pan narzędzia rytualne?" },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_122", "hash": "62DE12D9D8939A7F", "target": "G'jusana? Czyli interesują pana Zodiakalni Śmiałkowie?" },
     { "gameKey": "quest/030/StmBdy501_03086#TEXT_STMBDY501_03086_A3_000_123", "hash": "03E97AC8E6E32525", "target": "Papana? Och, czyli Zodiakalni Śmiałkowie <italic(1)>naprawdę<italic(0)> pana interesują?" },
