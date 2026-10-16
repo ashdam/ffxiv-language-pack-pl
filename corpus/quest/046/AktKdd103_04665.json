@@ -75,7 +75,7 @@
     { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_KOHRABNTAH_000_074", "hash": "C2FC9D51B6B81E7F", "target": "NOAH, i z pewnością sama Noah, cieszy się na dalszą współpracę!" },
     { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_KOHRABNTAH_000_075", "hash": "0B4F5B31B2E1E1DC", "target": "Pora wrócić do Eight Sentinels. Och, mam tyle pytań! Jeśli będzie nas <if(gnum4,pani,pan)> potrzebować, zapewne łatwo nas znajdzie pogrążone w fascynującej rozmowie." },
     { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_SYSTEM_000_076", "hash": "3EEB143FB98F0096", "target": "Gratulacje! Eureka Orthos zostało ukończone." },
-    { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_SYSTEM_000_077", "hash": "21AC14DC1F9373B6", "target": "Kamienie Orthos tomestones można wymieniać u węzła syntezy na cztery rodzaje akcesoriów." },
+    { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_SYSTEM_000_077", "hash": "21AC14DC1F9373B6", "target": "Przedmioty Orthos tomestones można wymieniać u węzła syntezy na cztery rodzaje akcesoriów." },
     { "gameKey": "quest/046/AktKdd103_04665#TEXT_AKTKDD103_04665_SYSTEM_000_078", "hash": "39DC641E2C14032C", "target": "Jeśli porozmawiasz z Koh Rabntah, mając wszystkie cztery akcesoria założone lub w ekwipunku, zdobędziesz osiągnięcie i rzadki przedmiot." }
   ]
 }
