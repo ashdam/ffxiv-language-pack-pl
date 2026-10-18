@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy106_02937",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "Estrild z gospody Shiokaze Hostelry nadal bacznie przygląda się przechodniom w poszukiwaniu rekrutów." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "Estrild z Gospody Shiokaze nadal bacznie przygląda się przechodniom w poszukiwaniu rekrutów." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_TODO_00", "hash": "10E863236FDDB15E", "target": "Porozmawiać z postacią Wlveva" },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_001", "hash": "44A0C235630EB83E", "target": "Na dobrych bogów! Nie co dzień widzę kogoś tak silnego. Jestem Estrild z klanu Centurio i zapraszam cię do udziału w naszym Hunt!" },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_002", "hash": "EACC63482F77D389", "target": "Ach, ale znam tę twarz. Tak, tak, to ty jesteś <if(gnum4,tą wichrzycielką,tym wichrzycielem)>, <if(gnum4,której postępowanie nie pozwala awansować,którego postępowanie nie pozwala awansować)> w naszych szeregach. <split(<string(gstr1)>, ,1)>, prawda?" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_012", "hash": "E4683927B5F94594", "target": "Niech tak będzie. Dopilnuję, by dwugwiazdkowe zlecenia były dla ciebie dostępne. Pamiętaj jednak, że będą znacznie trudniejsze od znanych ci jednogwiazdkowych polowań. Przygotuj się." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "Dwugwiazdkowe zlecenia Veteran Clan mark bills są już dostępne." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Możesz teraz podejmować dwugwiazdkowe zlecenia Veteran Clan mark bills z tablic Clan Hunt board w Kugane i Rhalgr's Reach." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Po osiągnięciu poziomu 66 Estrild w gospodzie Shiokaze Hostelry udostępni nowe misje i trzygwiazdkowe zlecenia Veteran Clan mark bills." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Po osiągnięciu poziomu 66 Estrild w Gospodzie Shiokaze udostępni nowe misje i trzygwiazdkowe zlecenia Veteran Clan mark bills." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_015", "hash": "097C5B53E561D179", "target": "Sprawdź, czy klan nie przydzieli ci zleceń odpowiedniejszych dla twoich umiejętności. Gdy łowca rośnie w siłę, polowanie też musi być trudniejsze!" }
   ]
 }

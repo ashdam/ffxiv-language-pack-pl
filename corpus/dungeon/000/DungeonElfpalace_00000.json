@@ -2,6 +2,6 @@
   "conversation": "dungeon/000/DungeonElfpalace_00000",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonElfpalace_00000#TEXT_DUNGEONELFPALACE_00000_BEQLUGG_000_000", "hash": "8EC524F123089164", "target": "" }
+    { "gameKey": "dungeon/000/DungeonElfpalace_00000#TEXT_DUNGEONELFPALACE_00000_BEQLUGG_000_000", "hash": "8EC524F123089164", "target": "Dość długo plugawiliście te sale.<br>Chodź, Lugus! Nasi <italic(1)>goście<italic(0)> wciąż pragną towarzystwa." }
   ]
 }

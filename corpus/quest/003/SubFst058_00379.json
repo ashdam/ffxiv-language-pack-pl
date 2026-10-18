@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_00", "hash": "034805DFE34A80F6", "target": "Theodore szuka poszukiwacza przygód, który dostarczy wiadomość." },
-    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_01", "hash": "819AEFC378EC6F01", "target": "Mimo starań, by nie patrzeć w dół, Theodore dostrzegł cienistą postać w lesie na północ od Zapomnienia Matrony. Przekaż Roseline to, co widział." },
+    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_01", "hash": "819AEFC378EC6F01", "target": "Mimo starań, by nie patrzeć w dół, Theodore dostrzegł cienistą postać w lesie na północ od Lety Matrony. Przekaż Roseline to, co widział." },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_02", "hash": "D91F7BC4AA7F2E71", "target": "Roseline widziała coś podobnego, ale uważa, że to nic ważnego. Gdyby jednak trafiło ci się coś niezwykłego, prosi o pokazanie jej tego. Przeszukaj lasy na północy w poszukiwaniu śladów cienistej postaci." },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_03", "hash": "8AA70ABAC56CB551", "target": "Obok wciąż ciepłych resztek starego ogniska znajdujesz zniszczoną skórzaną torbę. Dostarcz torbę Roseline i posłuchaj, co ma do powiedzenia." },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_SEQ_04", "hash": "9C2BEE74D66393C5", "target": "Z początku Roseline uznaje torbę za nic więcej niż zgubioną sakwę podróżnego. Po głębszym namyśle uważa jednak za wysoce podejrzane, by podróżny rozbijał obóz w lesie pełnym groźnych bestii, skoro Łąki Bentbranch dałyby bezpieczne schronienie. Dziękuje ci za czujność i postanawia mieć się na baczności." },

@@ -2,7 +2,7 @@
   "conversation": "quest/049/KinGmd107_04918",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_SEQ_00", "hash": "762E25CB510FF7ED", "target": "Erenville chce już ruszać na równinę Pyariyoanaan Plain." },
+    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_SEQ_00", "hash": "762E25CB510FF7ED", "target": "Erenville chce już ruszać na Równinę Pyariyoanaan." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_00", "hash": "B72AA4C31049FAB4", "target": "Porozmawiać z Erenville" },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_01", "hash": "99F4203BF7F4A607", "target": "Porozmawiać z osobą Wawlika" },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_02", "hash": "E9D77B7DEF34DAC3", "target": "Porozmawiać z osobą Hhwato" },

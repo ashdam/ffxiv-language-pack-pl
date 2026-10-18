@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SEQ_00", "hash": "5C9555671DAE95D7", "target": "Alisaie wyraźnie potrzebuje przerwy od nauki." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_00", "hash": "041F515D871B701E", "target": "Porozmawiać z Alisaie" },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_01", "hash": "21E38A2C2884BDD3", "target": "Porozmawiać z klientami Last Stand w towarzystwie Alisaie" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_01", "hash": "21E38A2C2884BDD3", "target": "Porozmawiać z klientami Ostatniego Bastionu w towarzystwie Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_02", "hash": "1F07BA3233AF90FB", "target": "Porozmawiać z właścicielem kawiarni Dickon w towarzystwie Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_03", "hash": "D8537AC8C38B27F5", "target": "Postawić właściwe danie na stole pierwszego klienta" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_04", "hash": "FF9223596C8CCCC9", "target": "Postawić właściwe danie na stole drugiego klienta" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_07", "hash": "91E51DB95FC0041A", "target": "Ponownie porozmawiać z Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_000", "hash": "7AC70424261B1015", "target": "Masz ochotę na przerwę i herbatę, <split(<string(gstr1)>, ,1)>? Ja z pewnością." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_001", "hash": "7B51622BDE300C5D", "target": "Naprawdę, kark i ramiona zaraz mi skamienieją, jeśli nie rozprostuję nóg i trochę się nie przejdę..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_002", "hash": "51A252FB8E5266CB", "target": "Znasz Last Stand w porcie, prawda? Spotkajmy się przy stolikach na zewnątrz. Postawię ci kawę. Mają całkiem dobrą!" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_002", "hash": "51A252FB8E5266CB", "target": "Znasz Ostatni Bastion w porcie, prawda? Spotkajmy się przy stolikach na zewnątrz. Postawię ci kawę. Mają całkiem dobrą!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_010", "hash": "9A4C3C1CCF560C49", "target": "Widzę, że tłok jak zawsze. Jakie to sharlayańskie, że nie powstała żadna inna kawiarnia dla smakoszy, by konkurować o klientów..." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_011", "hash": "A6EC2A1C6ADBC834", "target": "Właściwie ten tłum podsunął mi pomysł: zanim złożymy zamówienie, może zadamy kilka pytań i sprawdzimy nastroje w mieście?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_012", "hash": "FB9D10697276F60C", "target": "Ciekawi mnie, co zwykli obywatele mówią o Telophoroi. Może nawet dowiemy się czegoś nowego. Warto spróbować, nie sądzisz?" },
@@ -23,7 +23,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A1_000_023", "hash": "9BC48FEA9BE1DD18", "target": "Nic." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_025", "hash": "0F981FDEA9BBFB1C", "target": "Ktoś w kawiarni powinien zechcieć z nami porozmawiać. Popytajmy!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_Q2_000_030", "hash": "E0864B418A7EAFBD", "target": "Na pewno chcesz rozstać się z Alisaie?" },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_031", "hash": "3A48EC48792AAB45", "target": "Bohaterskie życie nie daje wytchnienia, co? Zrób, co musisz. Poczekam na ciebie w Last Stand." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_031", "hash": "3A48EC48792AAB45", "target": "Bohaterskie życie nie daje wytchnienia, co? Zrób, co musisz. Poczekam na ciebie w Ostatnim Bastionie." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_035", "hash": "55B9D1D82908CFE2", "target": "Dobrze. Wracamy do przerwanych poszukiwań?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SYSTEM_000_040", "hash": "B8AB4E7DC77E3D9F", "target": "Alisaie jeszcze nie dotarła. Zanim przejdziesz dalej, upewnij się, że jest przy tobie." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SYSTEM_000_049", "hash": "6D5AB0C08B3B2373", "target": "Alisaie chce usłyszeć, co mają do powiedzenia mieszkańcy. Przyprowadź ją, zanim rozpoczniesz rozmowę." },
@@ -44,7 +44,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_090", "hash": "0B8043DF7004501E", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Co dziś podać?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_091", "hash": "D0C759B090D5E5DF", "target": "Chwila, czy ja tam widzę pannę Alisaie!? O rety, ile to już czasu!?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_092", "hash": "8EBFE9147E08A769", "target": "Zdecydowanie za dużo..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Poznaj Dickona, właściciela Last Stand. Kiedy studiowałam w Studium, czasem wpadałam do jego kawiarni między zajęciami." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Poznaj Dickona, właściciela Ostatniego Bastionu. Kiedy studiowałam w Studium, czasem wpadałam do jego kawiarni między zajęciami." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_094", "hash": "3A05C04274745221", "target": "Teraz wydaje się, jakby minęły wieki. Pamiętam wieści, że ty i młody pan Alphinaud odpłynęliście do Eorzei, ale potem już nie wracaliście." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_095", "hash": "712A2022509A98C3", "target": "Ostatnio ludzie plotkują, że ojciec wyrzekł się was obojga. Wszystko w porządku w domu?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_096", "hash": "9E30CB785BB1F85B", "target": "To...skomplikowane. Nie spodziewałam się, że zupełnie obcy ludzie tak szybko poznają naszą sytuację. Każdy chyba ma własne zdanie..." },
@@ -91,7 +91,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_158", "hash": "95E489103AC20889", "target": "To na koszt lokalu? Bo nie zapłacę za pieczonego homara, którego nie zamawiałam. A teraz, gdzie mój omlet?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_159", "hash": "BE5BBBDF7D3793BE", "target": "Na bogów, umieram z głodu! Jeszcze nigdy obsługa nie była tak powolna..." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_160", "hash": "48B7C841AD800E7A", "target": "Wiem, że tego nie zamawiałam, ale zaczynam żałować. Pachnie obłędnie..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_161", "hash": "014480225EDA31E9", "target": "Last Stand naprawdę robi najlepsze omlety na świecie. Najbardziej puszyste jajka. Najbardziej kwaskowy sos. Mogłabym je jeść codziennie przez cały rok!" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_161", "hash": "014480225EDA31E9", "target": "Ostatni Bastion naprawdę robi najlepsze omlety na świecie. Najbardziej puszyste jajka. Najbardziej kwaskowy sos. Mogłabym je jeść codziennie przez cały rok!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_Q6_000_170", "hash": "3C423095457DFC8D", "target": "Co podasz?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A6_000_171", "hash": "84525EE8364D1A8A", "target": "Homara pieczonego w piecu." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A6_000_172", "hash": "713F06F55E91588F", "target": "Wytworną pogawędkę z uśmiechem." },
@@ -111,7 +111,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_201", "hash": "3B076F4B0160A7E8", "target": "Ciekawe... Nie wiedzą chyba nic o Ostatnich Dniach poza mglistymi wiadomościami z gazet." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_202", "hash": "50DF47B18EE7B3F5", "target": "Nawet Dickon nic nie wiedział, a to najlepsze źródło plotek w mieście. Hmm... Jeśli Forum skrywa jakąś wiedzę, świetnie dopilnowało, by nikt nie szepnął jej niewłaściwej osobie." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_203", "hash": "DA0C6764AB439736", "target": "Tak czy inaczej, dziękuję za świetne odegranie roli! Proszę─obiecana kawa." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_204", "hash": "F396BFE13850DB3D", "target": "Ale wypijmy gdzie indziej, dobrze? Może za magazynem Peristyle, z dala od plotkarzy i ich niewyparzonych języków..." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_204", "hash": "F396BFE13850DB3D", "target": "Ale wypijmy gdzie indziej, dobrze? Może za Perystylem, z dala od plotkarzy i ich niewyparzonych języków..." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_210", "hash": "1BAE4E48D50BCC0D", "target": "Tak, tutaj będzie dobrze. Osłonięte od wiatru i cudzych spojrzeń." }
   ]
 }

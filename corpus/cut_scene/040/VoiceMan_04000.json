@@ -174,7 +174,7 @@
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001770_ZENOS", "hash": "DA12C1F58EADB867", "target": "Proszę, proszę..." },
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001780_ZENOS", "hash": "9A837B6F63952823", "target": "Odsuń się, pilus. Ta ma w sobie potencjał." },
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001790_FORDOLA", "hash": "CD2C011ACAF98DBF", "target": "Proszę uważać, mój panie. Nie jest taka jak pozostali." },
-    { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001800_ZENOS", "hash": "CC911F14D5A6AAF5", "target": "Hm. Nie zawiedź mnie, dziewczyno. Bo cię zabiję." },
+    { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001800_ZENOS", "hash": "CC911F14D5A6AAF5", "target": "Hm. Nie zawiedź mnie, <if(gnum4,dziewczyno,chłopcze)>. Bo cię zabiję." },
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001810_CONRAD", "hash": "D6CDDEC2B40D53F5", "target": "Na siedem piekieł... To on! Zenos!" },
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001820_LYSE", "hash": "E3DCDFE2629D3AF6", "target": "Namiestnik? Och... jesteś trupem!" },
     { "gameKey": "cut_scene/040/VoiceMan_04000#TEXT_VOICEMAN_04000_001840_ZENOS", "hash": "38B088C6A4934BA4", "target": "Tyle zapału... a taka pustka w środku." },

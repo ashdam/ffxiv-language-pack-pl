@@ -2,8 +2,8 @@
   "sheet": "RideShootingTextData",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "RideShootingTextData#1", "hash": "57EE70B8946369CD", "target": "" },
-    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "" },
-    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "" }
+    { "gameKey": "RideShootingTextData#1", "hash": "57EE70B8946369CD", "target": "Strzał" },
+    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "Przygotuj palec na spuście. Czas zdobyć dodatkowe punkty!<br>Uważaj na rubinowe bomby i zestrzel jak najwięcej celów." },
+    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "To już koniec etapu premiowego. Meta jest blisko, tak trzymaj!" }
   ]
 }

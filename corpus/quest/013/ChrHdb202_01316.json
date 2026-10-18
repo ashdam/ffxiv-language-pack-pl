@@ -43,6 +43,6 @@
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_067", "hash": "BBC39A28769D6BB9", "target": "To... \\<dyszy> \\<dyszy> To taniec rodu Manderville, przekazywany z ojca na syna." },
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_068", "hash": "46AB95AC84F9A74A", "target": "Gdybym zatańczył w zasięgu wzroku tego, kogo szukamy, nie zdołałby się powstrzymać i wyszedłby z ukrycia." },
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_069", "hash": "B8D7837B4FE732DD", "target": "Niestety, ja─\\<łapie oddech>─nie rozciągnąłem wcześniej nóg jak należy. <if(gnum4,Szanowna pani,Szanowny panie)>, nie widzę innego wyjścia: proszę <italic(1)>osobiście<italic(0)> zatańczyć za mnie! Choć to rażące─ba, <italic(1)>niewybaczalne<italic(0)>─pogwałcenie rodzinnych tradycji, muszę przekazać <if(gnum4,pani,panu)> taniec Manderville!" },
-    { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SYSTEM_000_300", "hash": "E3E2A21C63B96744", "target": "Poznajesz gest <colortype(500)><edgecolortype(501)>Manderville Dance<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SYSTEM_000_300", "hash": "E3E2A21C63B96744", "target": "Poznajesz gest <colortype(500)><edgecolortype(501)>Taniec Manderville<edgecolortype(0)><colortype(0)>!" }
   ]
 }

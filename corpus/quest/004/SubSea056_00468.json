@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_00", "hash": "46532086F0F2201D", "target": "Pfrewahl potrzebuje kogoś, kto odzyska skradzione narzędzia rolnicze." },
-    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_01", "hash": "BDEF06141EB25BB6", "target": "Piraci ukradli narzędzia rolnicze z Tiller's Rest. Pfrewahl prosi o rozprawienie się z Łupieżcami, którzy kręcą się w okolicy, i odzyskanie narzędzi." },
-    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_02", "hash": "F81277F0666377F6", "target": "Skradzione narzędzia rolnicze wróciły w twoje ręce. Dostarcz je Pfrewahlowi w Tiller's Rest." },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_01", "hash": "BDEF06141EB25BB6", "target": "Piraci ukradli narzędzia rolnicze z Wytchnienia Oracza. Pfrewahl prosi o rozprawienie się z Łupieżcami, którzy kręcą się w okolicy, i odzyskanie narzędzi." },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_02", "hash": "F81277F0666377F6", "target": "Skradzione narzędzia rolnicze wróciły w twoje ręce. Dostarcz je Pfrewahlowi we Wytchnieniu Oracza." },
     { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_03", "hash": "EFC1514A32C90086", "target": "Pfrewahl mówi, że widział, jak Sevrin ukradkiem zadaje się ze złodziejskimi piratami. Powiadom Staelwyrna o zdrajcy w jego szeregach." },
     { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_04", "hash": "4A3F1D44BF842984", "target": "Farmy Summerford są na razie bezpieczne, ale nikt nie zazna spokoju, dopóki Sevrin tu pozostaje." },
     { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_TODO_00", "hash": "059DE66997CF81B5", "target": "Odzyskać skradzione narzędzia rolnicze od piratów" },

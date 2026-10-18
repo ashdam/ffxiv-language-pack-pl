@@ -2,8 +2,8 @@
   "conversation": "quest/004/SubSea105_00402",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_00", "hash": "CDF9D48B2A1E9D1D", "target": "Wyrkrhit, operator Skylift, potrzebuje kogoś, kto odzyska ładunek porzucony przez przerażonego woźnicę i dostarczy go adresatowi." },
-    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_01", "hash": "8A185A38910291F0", "target": "Woźnica tak się przestraszył jakiegoś koszmarnego stworzenia, które wyskoczyło ze środka jego ładunku, że zrzucił towar na pobocze i uciekł z powrotem do Skylift. Poszukaj porzuconej sadzonki kukurydzy milionowej gdzieś przy drodze do Swiftperch." },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_00", "hash": "CDF9D48B2A1E9D1D", "target": "Wyrkrhit, operator Podniebnej Windy, potrzebuje kogoś, kto odzyska ładunek porzucony przez przerażonego woźnicę i dostarczy go adresatowi." },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_01", "hash": "8A185A38910291F0", "target": "Woźnica tak się przestraszył jakiegoś koszmarnego stworzenia, które wyskoczyło ze środka jego ładunku, że zrzucił towar na pobocze i uciekł z powrotem do Podniebnej Windy. Poszukaj porzuconej sadzonki kukurydzy milionowej gdzieś przy drodze do Swiftperch." },
     { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_02", "hash": "69250F7BF50049A9", "target": "Udało się odzyskać porzuconą sadzonkę kukurydzy milionowej. Ruszaj dalej do Swiftperch w Western La Noscea i dostarcz ładunek wyczekującemu Lyulfowi." },
     { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_03", "hash": "6F2A70F76BB358E0", "target": "Przybywasz do Swiftperch i zastajesz mieszkańców równie pozbawionych życia jak okoliczne pola. Jedynie Lyulf zdaje się mieć cel, ale dopiero się okaże, czy jego starania, by tchnąć w osadę odrobinę życia, wydadzą owoce... czy raczej kolby." },
     { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_TODO_00", "hash": "5854C50DCD5A8348", "target": "Odzyskać sadzonkę kukurydzy milionowej" },

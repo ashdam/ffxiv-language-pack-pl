@@ -82,7 +82,7 @@
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TERRORIST_ZAKO_ANY_BATTLETALK_005_001", "hash": "94C9D09C35CA9982", "target": "Tam są! Nikt nie może uciec!" },
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_005_002", "hash": "90FA7B1D5BB5E9D1", "target": "Biegnijcie dalej! Ja ich zatrzymam!" },
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_005_003", "hash": "DECFA05D74FEAE78", "target": "Nie sam! <split(<string(gstr1)>, ,1)>─trzymaj się ser Aymerica i lorda Artoirela!" },
-    { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004", "hash": "0CC03E49D15C0725", "target": "Tędy, <split(<string(gstr1)>, ,1)>! Do Quire!" },
+    { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004", "hash": "0CC03E49D15C0725", "target": "Tędy, <split(<string(gstr1)>, ,1)>! Do Chóru!" },
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_004", "hash": "F1A2C9F26CE9FB5C", "target": "No dalej! Zobaczmy, komu sprzyja Furia!" },
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_005", "hash": "758B79DC434F37AF", "target": "Ser Aymeric wciąż jest ranny, <split(<string(gstr1)>, ,1)>! Jeśli się nie pospieszymy, padnie!" },
     { "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_006", "hash": "49145C7B9E5427DE", "target": "O Halone, osądź nas! Wywyższ prawych i strąć nikczemnych!" },

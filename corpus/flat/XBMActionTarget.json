@@ -2,11 +2,11 @@
   "sheet": "XBMActionTarget",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "XBMActionTarget#1", "hash": "7D1952EE4999AA4D", "target": "" },
-    { "gameKey": "XBMActionTarget#2", "hash": "96DE13DB4B3F1E21", "target": "" },
-    { "gameKey": "XBMActionTarget#3", "hash": "A827174F0701CE35", "target": "" },
-    { "gameKey": "XBMActionTarget#4", "hash": "752FF7CD8837DBDD", "target": "" },
-    { "gameKey": "XBMActionTarget#5", "hash": "B57BAD43E4491E4D", "target": "" },
-    { "gameKey": "XBMActionTarget#6", "hash": "C2CB3F72665E63ED", "target": "" }
+    { "gameKey": "XBMActionTarget#1", "hash": "7D1952EE4999AA4D", "target": "Siebie" },
+    { "gameKey": "XBMActionTarget#2", "hash": "96DE13DB4B3F1E21", "target": "Podłoże" },
+    { "gameKey": "XBMActionTarget#3", "hash": "A827174F0701CE35", "target": "Największa wrogość" },
+    { "gameKey": "XBMActionTarget#4", "hash": "752FF7CD8837DBDD", "target": "Losowy" },
+    { "gameKey": "XBMActionTarget#5", "hash": "B57BAD43E4491E4D", "target": "Gracz" },
+    { "gameKey": "XBMActionTarget#6", "hash": "C2CB3F72665E63ED", "target": "Sojusznicy" }
   ]
 }

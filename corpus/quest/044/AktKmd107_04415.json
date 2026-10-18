@@ -18,7 +18,7 @@
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_MATSYA_000_005", "hash": "07A4830F05855D2B", "target": "C-Co!? Czy to była Mehvan!?" },
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_ALISAIE_000_010", "hash": "0969E3C0531A6F5C", "target": "Tam! Drzewa zasłaniały mi widok, ale jestem pewna, że widziałam kogoś uciekającego przed bestią!" },
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_ALISAIE_000_011", "hash": "7D1042A0747219C0", "target": "<split(<string(gstr1)>, ,1)>, idź z Matsyą i przeszukajcie brzeg rzeki! Alphinaud i ja obejdziemy ją od południa!" },
-    { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_MATSYA_000_020", "hash": "35E9815C82829559", "target": "Dotarliśmy do Font of Maya... Może kryją się w ruinach?" },
+    { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_MATSYA_000_020", "hash": "35E9815C82829559", "target": "Dotarliśmy do Źródła Mayi... Może kryją się w ruinach?" },
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_SYSTEM_000_030", "hash": "7F2969051D2DBA4B", "target": "Przed tobą unosi się martwe ciało Mehvan, zmiażdżone i okaleczone. Śmierć musiała nadejść szybko." },
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_SYSTEM_000_031", "hash": "3929BDB12DBD8A33", "target": "Nigdzie jednak nie widać jej malutkiej córki..." },
     { "gameKey": "quest/044/AktKmd107_04415#TEXT_AKTKMD107_04415_SYSTEM_000_035", "hash": "AEF776696DE6A5DB", "target": "Nie możesz już nic zrobić dla nieszczęsnej Mehvan. Jej dziecko jednak można jeszcze ocalić..." },

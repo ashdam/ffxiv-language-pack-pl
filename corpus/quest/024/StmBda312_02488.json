@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_SEQ_00", "hash": "A808E5748FDCB3F7", "target": "Alisaie, podobnie jak jej brat, uwielbia, gdy plan się udaje." },
     { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_00", "hash": "81C655AB447A391D", "target": "Pójść za Alisaie na Isle of Zekki" },
-    { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_01", "hash": "B3EBE6426FAF93FE", "target": "Odszukać i zabić Czerwonych Kojin w pobliżu Dive" },
+    { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_01", "hash": "B3EBE6426FAF93FE", "target": "Odszukać i zabić Czerwonych Kojin w pobliżu Zanurzenia" },
     { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_02", "hash": "D082E6FD52A2F9C6", "target": "Odszukać i zabić Czerwonych Kojin w innej części Isle of Zekki" },
     { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_03", "hash": "E39F3432B5E98D8B", "target": "Odszukać Lyse" },
     { "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_TODO_04", "hash": "11724FB10BF319D7", "target": "Spotkać się z Alisaie" },

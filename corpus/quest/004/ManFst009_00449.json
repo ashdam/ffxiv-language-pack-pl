@@ -24,7 +24,7 @@
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000040_KANESENNA", "hash": "79894DD00ACF09EA", "target": "Niech żywiołaki obdarzą <if(gnum4,ją,go)> swą łaską!" },
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000050_KANESENNA", "hash": "39641FC2E46A00E8", "target": "Ta jasność..." },
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000060_KANESENNA", "hash": "C8070AB097C954DD", "target": "Czyżby to był... Kryształ Światła?" },
-    { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000070_KANESENNA", "hash": "5544DCD11554518C", "target": "Proszę mi powiedzieć prawdę─czy Kryształ-Matka <if(gnum4,pani,panu)> się objawił? Czy Jego Światło <if(gnum4,panią,pana)> otuliło?" },
+    { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000070_KANESENNA", "hash": "5544DCD11554518C", "target": "Proszę mi powiedzieć prawdę─czy Matczyny Kryształ <if(gnum4,pani,panu)> się objawił? Czy Jego Światło <if(gnum4,panią,pana)> otuliło?" },
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000080_KANESENNA", "hash": "247A4845D50F48F3", "target": "Czy w ostatnim czasie <if(gnum4,doświadczyła pani,doświadczył pan)> wrażeń podobnych do choroby eterycznej?" },
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000090_KANESENNA", "hash": "461659A7E15667F5", "target": "Że też Hydaelyn przemówiła wprost do <if(gnum4,tej kobiety,tego mężczyzny)>..." },
     { "gameKey": "quest/004/ManFst009_00449#TEXT_MANFST009_00449_000100_KANESENNA", "hash": "87FEA9BD0C0ED472", "target": "Byli niegdyś nieustraszeni poszukiwacze przygód, którzy walczyli w imię Eorzei." },

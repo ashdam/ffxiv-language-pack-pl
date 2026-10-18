@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy108_02939",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SEQ_00", "hash": "48789ADF015D8EEF", "target": "Estrild z gospody Shiokaze Hostelry niezmiennie bacznie przygląda się przechodniom w poszukiwaniu rekrutów." },
+    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SEQ_00", "hash": "48789ADF015D8EEF", "target": "Estrild z Gospody Shiokaze niezmiennie bacznie przygląda się przechodniom w poszukiwaniu rekrutów." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_TODO_00", "hash": "5F23ED4B9F38881A", "target": "Porozmawiać z postacią Wlveva" },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_001", "hash": "A844EE68F8F5A0DF", "target": "Miło cię widzieć, <split(<string(gstr1)>, ,1)>. Mam wieści, którymi od dawna chcę się z tobą podzielić." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_002", "hash": "5C70CF854D976AA2", "target": "Chodzi o tę przeklętą Wlvevę. Miała czelność zganić mnie za zapraszanie przechodniów do klanu Centurio. Chciałam tylko, by każdy zainteresowany poznał dreszczyk emocji towarzyszący Hunt." },

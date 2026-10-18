@@ -2,18 +2,18 @@
   "conversation": "content/DeepDungeon2Gacha",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_000", "hash": "15A8C1C636A8FAF4", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_010", "hash": "560645FA96634DDC", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_020", "hash": "AAFDBBED6748B6FD", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_TITLE", "hash": "A44D8AECD63B1C3D", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_GACHA", "hash": "229DC1EBC1603060", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_ABOUT", "hash": "088FEE9C063B9EFC", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_EXIT", "hash": "E207ECCD0D13858C", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_050", "hash": "61B6B76353F6F3F6", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_051", "hash": "EA964FB5D4BD846C", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_055", "hash": "86827CBE20E39DCF", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_056", "hash": "292936D25483475B", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_060", "hash": "C626897D3BD12BA9", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_061", "hash": "8D16204A7F781F5C", "target": "" }
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_000", "hash": "15A8C1C636A8FAF4", "target": "Czego tu węszysz? Nie ma nic dla ciebie, więc zjeżdżaj!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_010", "hash": "560645FA96634DDC", "target": "Masz dla mnie worek czy dwa błyskotek do obejrzenia?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_020", "hash": "AAFDBBED6748B6FD", "target": "Ach, <if(gnum4,bohaterka wróciła,bohater wrócił)>! Jakie skarby pokażesz mi <if([gnum11<12],<if([gnum11<4],dziś w nocy,tego ranka)>,<if([gnum11<17],dzisiaj,dziś w nocy)>)>?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_TITLE", "hash": "A44D8AECD63B1C3D", "target": "Co zrobisz?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_GACHA", "hash": "229DC1EBC1603060", "target": "Wyceń przedmiot z przeklętego skarbu." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_ABOUT", "hash": "088FEE9C063B9EFC", "target": "Zapytaj o przeklęty skarb." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_EXIT", "hash": "E207ECCD0D13858C", "target": "Nic." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_050", "hash": "61B6B76353F6F3F6", "target": "Według słów Kyusei Heaven<-->on<-->High skrywa mnóstwo magicznie zapieczętowanych skarbów." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_051", "hash": "EA964FB5D4BD846C", "target": "Rzecz w tym, że nie wiadomo nawet, co jest w worku, dopóki go nie otworzysz. A do tego trzeba rozproszyć zamykającą go magię. Na twoje szczęście świetnie sobie radzę ze zrywaniem zaklęć!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_055", "hash": "86827CBE20E39DCF", "target": "„Przeklęty skarb” to używane przez Kyusei określenie kosztowności w tych workach. Nie wiem, skąd je wziął, ale ostatnio bardziej interesuje się historią Zachodu. Może stąd?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_056", "hash": "292936D25483475B", "target": "Tak czy inaczej, zanim wycenię zawartość, muszę rozproszyć magię chroniącą worki. Magiczne pole wewnątrz wieży jakoś wzmacnia pieczęcie, dlatego o wiele łatwiej je usunąć po wyniesieniu worków na zewnątrz." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_060", "hash": "C626897D3BD12BA9", "target": "Podczas wypraw do głębokiego lochu gracze od czasu do czasu znajdą przedmioty z przeklętego skarbu─kosztowności zapieczętowane potężną magią." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_061", "hash": "8D16204A7F781F5C", "target": "Wartość przedmiotów znalezionych w Heaven<-->on<-->High poznasz, przedstawiając je rzeczoznawczyni Konfederacji." }
   ]
 }

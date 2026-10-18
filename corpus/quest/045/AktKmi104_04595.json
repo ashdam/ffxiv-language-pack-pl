@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_SEQ_00", "hash": "A96D60429F599E70", "target": "Estinien patrzy na ciebie przenikliwie." },
-    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_00", "hash": "7ED53E53FDEDA934", "target": "Zebrać informacje na tarasach hydromantic terraces" },
-    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_01", "hash": "051B42E0F422A330", "target": "Porozmawiać z satrapą Varshahn w sali Seat of the Foremost" },
-    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_02", "hash": "9413346B14183E84", "target": "Porozmawiać z Zero na tarasach hydromantic terraces" },
+    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_00", "hash": "7ED53E53FDEDA934", "target": "Zebrać informacje na Tarasach Hydromancji" },
+    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_01", "hash": "051B42E0F422A330", "target": "Porozmawiać z satrapą Varshahn w Siedzibie Najwyższych" },
+    { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_02", "hash": "9413346B14183E84", "target": "Porozmawiać z Zero na Tarasach Hydromancji" },
     { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_TODO_03", "hash": "60DC561C2BAF1CCC", "target": "Porozmawiać z Zero" },
     { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_YSHTOLA_000_001", "hash": "4DA77B81266CFE73", "target": "Memoria, Golbez i jego arcydemony... Mamy teraz więcej pytań niż odpowiedzi. Ale to znak, że czynimy postępy." },
     { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_VARSHAHN_000_005", "hash": "D1807DCA9411B11F", "target": "Jeśli Azdaja jest zdana na łaskę Golbeza, musimy go znaleźć. Mam nadzieję, że wiedza Zero pomoże nam w poszukiwaniach..." },

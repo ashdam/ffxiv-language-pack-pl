@@ -94,7 +94,7 @@
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004150_TATARU", "hash": "54022F6F62AA5AD0", "target": "<if(gnum4,Była już pani,Był już pan)> tam wcześniej... ale przypuszczam, że „niedaleko podstawy” niewiele wyjaśnia." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004160_TATARU", "hash": "660BBCBFDDE637A3", "target": "Ale jak znaleźć go teraz, gdy wieża jest zamknięta?" },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004170_TATARU", "hash": "6ACB286D9DD06FFA", "target": "Czy nie słyszałam przypadkiem, że wejście do wieży zablokowano?" },
-    { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004180_TATARU", "hash": "01D7A42597CBB2E9", "target": "Musi być jakiś sposób... Jeśli ktoś go zna, to Cid i badacze z Saint Coinach's Find." },
+    { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004180_TATARU", "hash": "01D7A42597CBB2E9", "target": "Musi być jakiś sposób... Jeśli ktoś go zna, to Cid i badacze z Wykopalisk Świętego Coinacha." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004190_TATARU", "hash": "33BE8340A502632B", "target": "Proszę się nie martwić. Znajdziemy ten drogowskaz." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004200_SYSTEM_NONE_VOICE", "hash": "A2853B44206A9CB7", "target": "Tymczasem w cesarskim pałacu..." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_004210_ROBEMAN", "hash": "14050AC52F585BD9", "target": "...Mam nadzieję, że miałeś dobry powód, by opuścić front." },

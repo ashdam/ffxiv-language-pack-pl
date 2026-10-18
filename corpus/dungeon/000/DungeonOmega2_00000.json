@@ -2,11 +2,11 @@
   "conversation": "dungeon/000/DungeonOmega2_00000",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_000", "hash": "DB05DD4286A98B24", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_001", "hash": "C77F37632A320A0C", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_002", "hash": "647245988C2968FF", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_003", "hash": "6659F672BF19E0B9", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_004", "hash": "B1685F17AB7A45EF", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_005", "hash": "11A6F5B26FCFCF1F", "target": "" }
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_000", "hash": "DB05DD4286A98B24", "target": "Ta moc była moja... Zdobyłem to, co niezmierzone, a teraz nadszedł mój koniec." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_001", "hash": "C77F37632A320A0C", "target": "\\<bul> To nie ma sensu..." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_002", "hash": "647245988C2968FF", "target": "Mówisz, że to nie koniec? Ruszamy dalej... razem?" },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_003", "hash": "6659F672BF19E0B9", "target": "\\<bip> Przyjąłem. Akceptuję twoją propozycję." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_004", "hash": "B1685F17AB7A45EF", "target": "Doceniam wasz wkład w mój eksperyment. Bez waszej nieugiętej siły nigdy nie odkryłbym tego nowego potencjału." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_005", "hash": "11A6F5B26FCFCF1F", "target": "Wyruszę w podróż, obserwując i zapisując wszystko, co napotkam. Żegnajcie, śmiertelnicy. Ten świat może mnie wiele nauczyć..." }
   ]
 }

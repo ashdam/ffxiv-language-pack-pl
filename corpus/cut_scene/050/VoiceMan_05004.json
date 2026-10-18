@@ -182,7 +182,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001680_EULMOREPEOPLEB", "hash": "6EF01716A35A885E", "target": "Czy możemy jakoś pomóc?" },
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001690_EULMOREPEOPLEB", "hash": "F40E56AD47CDE370", "target": "Ryzykowaliście życiem, żeby przywrócić nam rozum. J-Ja przynajmniej chcę spłacić ten dług. Zacząć od nowa, jak powiedziałeś." },
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001700_YSHTOLA", "hash": "2A9522A7EB00B6C5", "target": "Vauthry uciekł na Mt. Gulg i zamierzamy ruszyć za nim. Czy ktoś z was zna drogę?" },
-    { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001710_EULMOREPEOPLEC", "hash": "EFE87184EAE85857", "target": "Na Mt. Gulg można dostać się tylko przez Bright Cliff. Macie statek powietrzny?" },
+    { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001710_EULMOREPEOPLEC", "hash": "EFE87184EAE85857", "target": "Na Mt. Gulg można dostać się tylko przez Jasny Klif. Macie statek powietrzny?" },
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001720_YSHTOLA", "hash": "6CC49AD26DFA2C6F", "target": "Lot rozważymy tylko w ostateczności. Gdyby zaatakowano nas w powietrzu, trudno byłoby się obronić." },
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001730_YSHTOLA", "hash": "8579B96EF1B94122", "target": "Jeśli to możliwe, wolimy iść lądem. Czy jest jakaś droga?" },
     { "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_001740_EULMOREPEOPLED", "hash": "72D4382E28F9D307", "target": "The Ladder to jedyna droga w górę i w dół urwiska, ale od dawna nie działa." },

@@ -7,7 +7,7 @@
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_TODO_01", "hash": "14DB1241F5498240", "target": "Dostarcz Archive'owi próbkę kamienia przesyconego eterem." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_KETENRAMM_000_001", "hash": "69CC611C35AB7BFA", "target": "Jeśli mamy rozwikłać tajemnice wyspy, musimy poznać prawdę o rozsianych po niej ruinach. Dokładnie obejrzyj budowle na południe od obozu i przekaż Archive'owi swoje odkrycia." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_002", "hash": "9EE49ADB23C2E3DF", "target": "Ruiny wystające ponad drzewa na południe od obozu to cel twojej następnej wyprawy! Wracaj szybko i opisz mi ich dawną świetność." },
-    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SYSTEM_000_005", "hash": "EDEBE19942DF09E1", "target": "Aby kontynuować to zadanie, musisz odblokować odpowiednie wpisy w Occult Record." },
+    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SYSTEM_000_005", "hash": "EDEBE19942DF09E1", "target": "Aby kontynuować to zadanie, musisz odblokować odpowiednie wpisy w Dzienniku okultystycznym." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_010", "hash": "83B6A33A84E783A4", "target": "Co wyjawiły ruiny? Nie pomijaj żadnego szczegółu!" },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_011", "hash": "AAAA8BF0E0086BA7", "target": "Hoho... W głowie aż szumi mi od uwolnionej wiedzy! Badana przez ciebie budowla wygląda mi na twierdzę Amdaporu." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_012", "hash": "0B1A31AA4A1A44F5", "target": "Magowie Amdaporu słyną z opracowania białej magii, skupionej na leczeniu i oczyszczaniu. W głębi takich właśnie twierdz doskonalili swój magiczny kunszt." },
@@ -33,6 +33,6 @@
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_KETENRAMM_000_205", "hash": "4832F1B726647664", "target": "Myślałem, że Iris pochodzi z Nymu. Sądzisz, że ten, kto ją przywołał, potrafi też kierować golemami Amdaporu?" },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_206", "hash": "99AF1DD75C2BAA1E", "target": "Istotnie. Mamy do czynienia z kimś, kto dorównuje moim niemałym talentom. Niestety nie mogę sięgnąć do reszty wiedzy na ten temat." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_207", "hash": "F7584999E5AFB207", "target": "Obawiam się, że wymaga to od ciebie kolejnych badań w terenie. Zważywszy na wszystko, co widzieliśmy, na wyspie są zapewne ślady innych cywilizacji. Spróbuj znaleźć ruiny trzech różnych cywilizacji. To powinna być dostateczna próba!" },
-    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SYSTEM_000_215", "hash": "CD3E9C20E03E1481", "target": "Aby podjąć kolejne zadanie, musisz odblokować odpowiednie wpisy w Occult Record." }
+    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SYSTEM_000_215", "hash": "CD3E9C20E03E1481", "target": "Aby podjąć kolejne zadanie, musisz odblokować odpowiednie wpisy w Dzienniku okultystycznym." }
   ]
 }

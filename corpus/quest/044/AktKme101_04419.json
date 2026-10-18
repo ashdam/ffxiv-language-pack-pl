@@ -17,7 +17,7 @@
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_030", "hash": "4FB9F1755C22881D", "target": "Weź to, <split(<string(gstr1)>, ,1)>─moje naczynie duszy." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_031", "hash": "23DF16DB0741FB6D", "target": "Teraz oczywiście jest puste, ale powinno pozwolić ci obsługiwać systemy wieży w Umbilicusie." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_032", "hash": "4FDEB2569B4B07FD", "target": "Jeśli pozostał choć najmniejszy fragment esencji Elidibusa, powinno dać się go odnaleźć." },
-    { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_033", "hash": "5A32944867F1E777", "target": "Aby dostać się do Umbilicusa, poproś o pomoc Lynę. Zapewne nadal trzyma straż przy Accensor Gate." },
+    { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_033", "hash": "5A32944867F1E777", "target": "Aby dostać się do Umbilicusa, poproś o pomoc Lynę. Zapewne nadal trzyma straż przy Bramie Accensor." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_034", "hash": "92B5329FA4991543", "target": "Gdyby ona lub ktokolwiek inny zapytał o mnie, powiedz im... że żyję pełnią życia. Że jestem szczęśliwy mimo wszystkich trudności." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_GRAHATIA_000_035", "hash": "38D21C39BB4830A0", "target": "...Cóż, pora ruszyć, każde w swoją stronę. Jeśli bogowie pozwolą, niebawem znów się zobaczymy." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_LYNA_000_040", "hash": "1113FD548E23A68C", "target": "<split(<string(gstr1)>, ,1)>! <if(gnum4,Wróciła pani,Wrócił pan)>!" },

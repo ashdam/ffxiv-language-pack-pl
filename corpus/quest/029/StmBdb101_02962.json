@@ -26,6 +26,6 @@
     { "gameKey": "quest/029/StmBdb101_02962#TEXT_STMBDB101_02962_ARENVALD_000_031", "hash": "18C7125FE51F7F83", "target": "Ale choć przeszukali każdą komnatę od świtu do zmierzchu, nie znaleźli ani monety. Chciwość minęła im równie szybko, jak przyszła, a skarbiec szalonego króla pozostał tylko tym─legendą." },
     { "gameKey": "quest/029/StmBdb101_02962#TEXT_STMBDB101_02962_ALPHINAUD_000_032", "hash": "06EFE4D9AAA9F2FF", "target": "Widzę jednak, że nie zamierzasz na tym zakończyć opowieści." },
     { "gameKey": "quest/029/StmBdb101_02962#TEXT_STMBDB101_02962_ARENVALD_000_033", "hash": "25D89E77D9E0B199", "target": "A który szanujący się poszukiwacz przygód by zamierzał!? Wyobraźcie sobie: nasza trójka rozwiązuje zagadkę sprzed dziesiątek lat! Serce wam nie przyspiesza na samą myśl?" },
-    { "gameKey": "quest/029/StmBdb101_02962#TEXT_STMBDB101_02962_SYSTEM_000_100", "hash": "B1670C1900C8BAB2", "target": "Odblokowano emotkę <colortype(500)><edgecolortype(501)>Box<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/029/StmBdb101_02962#TEXT_STMBDB101_02962_SYSTEM_000_100", "hash": "B1670C1900C8BAB2", "target": "Odblokowano emotkę <colortype(500)><edgecolortype(501)>Boksowanie<edgecolortype(0)><colortype(0)>!" }
   ]
 }

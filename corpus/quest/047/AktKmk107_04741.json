@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_SEQ_00", "hash": "CCDBF09815E3EA49", "target": "Urianger chce jak najszybciej dołączyć do Y'shtoli." },
-    { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_TODO_00", "hash": "19AE7A515A8F0AD0", "target": "Porozmawiać z czarodziejką Y'shtola przy Drowning Brand" },
+    { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_TODO_00", "hash": "19AE7A515A8F0AD0", "target": "Porozmawiać z czarodziejką Y'shtola przy Zatapiającym Ostrzu" },
     { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_TODO_01", "hash": "1DAFB1677D941A37", "target": "Zbadać okolicę" },
     { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_TODO_02", "hash": "325BC8105AE2BF8F", "target": "Porozmawiać z Zero" },
     { "gameKey": "quest/047/AktKmk107_04741#TEXT_AKTKMK107_04741_MYSTERIOUSPERSON_000_000", "hash": "901FDCBF938AC634", "target": "Y'shtola, tak?" },

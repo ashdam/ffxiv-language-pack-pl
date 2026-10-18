@@ -27,7 +27,7 @@
     { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_THANCRED_000_055", "hash": "D84CB89A631A80EA", "target": "Nie wątpię, że fort wytrzyma kolejny atak pożeraczy grzechów, ale powrotu wojsk Eulmore już nie odeprze." },
     { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_THANCRED_000_056", "hash": "24AAF0D35B79271A", "target": "Mimo skromnych sił strażnicy mogą wykorzystać ukształtowanie terenu. Może przekonam kapitana do zastawienia paru pułapek." },
     { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_RYNE_000_060", "hash": "40EC768A8DD3711A", "target": "Thancred i ja trafialiśmy już na ruiny takich kościołów. Chciałabym zobaczyć, jak wyglądały przed Potopem. Podobno okna były dziełami sztuki..." },
-    { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_URIANGER_000_070", "hash": "6D20068118C63BA1", "target": "Wśród tych ruin odnajdziemy kościół Church of the First Light, a w jego uświęconych murach poszukiwaną tablicę." },
+    { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_URIANGER_000_070", "hash": "6D20068118C63BA1", "target": "Wśród tych ruin odnajdziemy Kościół Pierwszego Światła, a w jego uświęconych murach poszukiwaną tablicę." },
     { "gameKey": "quest/033/LucKmc101_03322#TEXT_LUCKMC101_03322_URIANGER_000_071", "hash": "90602D96CA65451C", "target": "Czas nas nagli, <if(gnum4,przyjaciółko,przyjacielu)>. Spieszmy się." }
   ]
 }

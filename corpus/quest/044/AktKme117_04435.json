@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_SEQ_00", "hash": "A544F42FBB8A5844", "target": "Emet-Selch najwyraźniej chce pozostać na miejscu." },
     { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_00", "hash": "2A8E94E2F5ADC74A", "target": "Poszukać Meteion w okolicy" },
-    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_01", "hash": "79A6F8DE1F392602", "target": "Poszukać Meteion poniżej ogrodów Hungering Gardens" },
-    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_02", "hash": "7348194B5FFC6C14", "target": "Poszukać Meteion na północ od ogrodów Hungering Gardens" },
-    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_03", "hash": "96E4B9F39ABBB112", "target": "Poszukać Meteion na wschód od ogrodów Hungering Gardens" },
+    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_01", "hash": "79A6F8DE1F392602", "target": "Poszukać Meteion poniżej Głodnych Ogrodów" },
+    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_02", "hash": "7348194B5FFC6C14", "target": "Poszukać Meteion na północ od Głodnych Ogrodów" },
+    { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_03", "hash": "96E4B9F39ABBB112", "target": "Poszukać Meteion na wschód od Głodnych Ogrodów" },
     { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_TODO_04", "hash": "3EED97533BA80360", "target": "Porozmawiać z badaczem Hermes" },
     { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_HYTHLODAEUS_000_000", "hash": "A80DC138EFDF2B72", "target": "Hm? Czemu zawsze myślę o przyszłości? Po prostu chcę cieszyć się wszystkim, co życie ma do zaoferowania!" },
     { "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_VENAS_000_005", "hash": "2C2F63DF9E899C55", "target": "Byłam gotowa wkroczyć w razie potrzeby, ale widać, że masz za sobą wiele starć z potwornymi przeciwnikami." },

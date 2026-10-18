@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_SEQ_00", "hash": "CDD6DE9D13B3154E", "target": "Y'shtola pragnie ponownie wprawić eter w ruch." },
-    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_00", "hash": "119A07D95D284D65", "target": "Porozmawiać z Y'shtolą w House of the Crooked Coin" },
+    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_00", "hash": "119A07D95D284D65", "target": "Porozmawiać z Y'shtolą w Domu Krzywej Monety" },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_01", "hash": "5E81A5C14D21DDF9", "target": "Porozmawiać z Hienem" },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_02", "hash": "5898A163DAADAFC2", "target": "Porozmawiać z Alisaie w Kienkan" },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_TODO_03", "hash": "C7523BEEC72C6779", "target": "Porozmawiać z Thancredem w Ala Mhigan Quarter" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_KIENKANGATEKEEPER03028_100_003", "hash": "D2C860BAC1B0944E", "target": "Lord Hien oczekuje twojego przybycia. Mogę cię zaprowadzić?" },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_EVENTAREA_WARP_100_004", "hash": "85ECA1ACC495ECF5", "target": "Wejść do Kienkan?" },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_020", "hash": "9486D909C87C0702", "target": "Mamy potrzebną zgodę. Pora wykorzystać moc Nhaamy." },
-    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_021", "hash": "1640EE067969CA8D", "target": "Jeśli eter popłynie zgodnie z planem, pozostanie już tylko sprowadzić inżynierów z Kuźni do ruin. Chodźmy zatem do House of the Crooked Coin." },
+    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_021", "hash": "1640EE067969CA8D", "target": "Jeśli eter popłynie zgodnie z planem, pozostanie już tylko sprowadzić inżynierów z Kuźni do ruin. Chodźmy zatem do Domu Krzywej Monety." },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_HIEN_000_030", "hash": "D28AA860076E76CF", "target": "Nie miałbym pojęcia, jak obudzić taką machinę, a co dopiero nią kierować. Ale ja nie jestem Archontem z Sharlayanu." },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_040", "hash": "F95FCC4C275B1212", "target": "Zaczynam od razu. Lepiej się odsuń." },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_050", "hash": "B30B20C769A722B4", "target": "Kierowanie tak ogromnymi ilościami eteru jest, mówiąc oględnie, wyczerpujące. Przez jakiś czas będę działać powoli." },
@@ -63,6 +63,6 @@
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_304", "hash": "5BB371594A09FD9A", "target": "W <italic(1)>Thanalan<italic(0)>? Hm." },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_305", "hash": "32C6BC4D1A37206D", "target": "Skoro podczas obrad dotknęło to tylko nas, miałam podejrzenia. Jeśli głos przemówił także do Uriangera, nie ma już wątpliwości: ktoś celowo wybrał Dziedziców." },
     { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_YSHTOLA_000_306", "hash": "F8BE19BF129AFFE4", "target": "Pytanie, kto to zrobił i w jakim celu. Musimy jak najszybciej znaleźć odpowiedź." },
-    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_SYSTEM_000_500", "hash": "513E86A2ACE05D0B", "target": "Nauczono cię gestu <colortype(500)><edgecolortype(501)>Endure<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/031/StmBde106_03148#TEXT_STMBDE106_03148_SYSTEM_000_500", "hash": "513E86A2ACE05D0B", "target": "Nauczono cię gestu <colortype(500)><edgecolortype(501)>Wytrwanie<edgecolortype(0)><colortype(0)>!" }
   ]
 }

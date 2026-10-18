@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_SEQ_00", "hash": "8BCAF3BE2F628E10", "target": "Ta owca wygląda, jakby chciała ci coś przekazać." },
-    { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_TODO_00", "hash": "51C8A918F048B887", "target": "Porozmawiaj z liściarzem loquacious leafman." },
+    { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_TODO_00", "hash": "51C8A918F048B887", "target": "Porozmawiaj z gadatliwym liściarzem." },
     { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_TODO_01", "hash": "893912FB23616364", "target": "Porozmawiaj z Andenem." },
     { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_SHEEP04715_000_001", "hash": "E8436D6A66A2FB06", "target": "Bee! Bee, bee! Beeeeee!" },
     { "gameKey": "quest/047/SubCts680_04715#TEXT_SUBCTS680_04715_SHEEP04715_000_002", "hash": "DE9ED896F2328EEF", "target": "\\<szeleści> Beeeeee!" },

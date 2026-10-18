@@ -6,7 +6,7 @@
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_TODO_00", "hash": "B839619D1773B766", "target": "Porozmawiaj z postacią Zawpya." },
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_000", "hash": "42BCD90EBEE37E2D", "target": "Ach, <split(<string(gstr1)>, ,1)>, dobrze, że jesteś! Zawpya mówił, że musi z tobą porozmawiać." },
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_001", "hash": "8206750581E3A380", "target": "Dlaczego po prostu sam cię nie znalazł? Wiem tyle co ty..." },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "W każdym razie znajdziesz go na Shaaloani Station. Szerokiej drogi!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "W każdym razie znajdziesz go na Stacji Shaaloani. Szerokiej drogi!" },
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_010", "hash": "D92F3E24648AACC9", "target": "Wybacz, ale Zawpya nie powiedział mi, dlaczego cię szukał. Powinien być na stacji." },
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_020", "hash": "67727349ABD3544F", "target": "<split(<string(gstr1)>, ,1)>! W samą porę. Widzisz, mam pewien problem..." },
     { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_021", "hash": "CF92058083EF9AEA", "target": "Chodzi o pociąg Dawnblazer. Wiem, że wybuchł na służbie, ale za nic nie mogę zapomnieć o tym pancernym aniele!" },

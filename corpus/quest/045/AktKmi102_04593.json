@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_SEQ_00", "hash": "3E87EB125821EADF", "target": "Na twarzy Varshahna maluje się spokojna determinacja." },
-    { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_TODO_00", "hash": "B516DE17EFC9FD0D", "target": "Zebrać informacje na tarasach hydromantic terraces" },
+    { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_TODO_00", "hash": "B516DE17EFC9FD0D", "target": "Zebrać informacje na Tarasach Hydromancji" },
     { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_TODO_01", "hash": "DE3C78E898BA5094", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_TODO_02", "hash": "3195CF25B773A741", "target": "Poszukać bystrego pomiotu Otchłani w bloku carcere IV" },
     { "gameKey": "quest/045/AktKmi102_04593#TEXT_AKTKMI102_04593_TODO_03", "hash": "F84A2A5B1508CF9C", "target": "Porozmawiać z czarodziejką Y'shtola" },

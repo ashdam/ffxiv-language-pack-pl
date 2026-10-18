@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_00", "hash": "FAE32D7769E63428", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Roztargniony archiwista wydaje się czymś zmartwiony." },
-    { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_01", "hash": "2F9A4A7DDF068288", "target": "N'welhi Tia prosi cię o pomoc w odzyskaniu pewnego okazu, który uciekł z Archeionu. Zgadzasz się poszukać w Thirty-third Facet malutkich trolli, które zeszły na złą drogę.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },
+    { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_01", "hash": "2F9A4A7DDF068288", "target": "N'welhi Tia prosi cię o pomoc w odzyskaniu pewnego okazu, który uciekł z Archeionu. Zgadzasz się poszukać w Trzydziestej Trzeciej Fasecie malutkich trolli, które zeszły na złą drogę.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_02", "hash": "FB78BF5E95045F13", "target": "Nie udaje ci się znaleźć trolla, ale nie cały tunel został jeszcze przeszukany. Na wszelki wypadek ruszasz dalej." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_03", "hash": "A7A1026314953531", "target": "Po dokładnym zbadaniu tunelu staje się jasne, że trolla nigdzie nie widać. Może został bliżej Archeionu." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SEQ_04", "hash": "6BE60D19CFE0BE30", "target": "N'welhi Tia opowiada o spotkaniu z kimś, kto podobno widział okaz. Według tego świadka troll niewielkich rozmiarów ukrywa się w Mornveil Forest." },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_000_003", "hash": "83E521D4730D7141", "target": "Archeion przechowuje rozmaite próbki i okazy zebrane z całego świata. Jeden z takich okazów właśnie uciekł!" },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_000_004", "hash": "07CC9B4DC813032D", "target": "A konkretnie młody troll. Och, oby nie dopadły go miejscowe drapieżniki." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_000_005", "hash": "61638127B44719AD", "target": "Posłuchaj, obiecuję zapłatę, więc czy możesz pomóc mi odzyskać okaz?" },
-    { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_000_006", "hash": "B9DD2960AB1D9FBE", "target": "Dziękuję! Będę nadal szukał w tej okolicy. Ty sprawdź Thirty-third Facet." },
+    { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_000_006", "hash": "B9DD2960AB1D9FBE", "target": "Dziękuję! Będę nadal szukał w tej okolicy. Ty sprawdź Trzydziestą Trzecią Fasetę." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_NWELHITIA_100_006", "hash": "54F0D7A8B4AD2193", "target": "Gdy już dokładnie się rozejrzysz, spotkajmy się przy Archeionie i omówmy wyniki poszukiwań." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SYSTEM_100_007", "hash": "9A4BFDFC4CAC3D0E", "target": "Nie widzisz żadnych trolli, ani małych, ani dużych. Może nieco głębiej..." },
     { "gameKey": "quest/044/AktKza101_04480#TEXT_AKTKZA101_04480_SYSTEM_100_008", "hash": "9F53D92B8B59A180", "target": "Zbiegłego trolla nigdzie nie widać. Może N'welhi Tia miał więcej szczęścia." },

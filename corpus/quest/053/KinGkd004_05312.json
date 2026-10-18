@@ -2,7 +2,7 @@
   "conversation": "quest/053/KinGkd004_05312",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_SEQ_00", "hash": "1BAA9F8A16A42849", "target": "Ketenramm nadzoruje prace w obozie wyprawy." },
+    { "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_SEQ_00", "hash": "1BAA9F8A16A42849", "target": "Ketenramm nadzoruje prace w Expedition Base Camp." },
     { "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_SEQ_01", "hash": "E1005033758ADB0B", "target": "Zastajesz Ketenramma w dobrze już urządzonym obozie, na którego skraju Archive najwyraźniej coś znalazł. Zaciekawiony odkrywca prosi cię o rozmowę z osobliwym towarzyszem na wypadek, gdyby miał ważne informacje do przekazania." },
     { "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_SEQ_02", "hash": "5DD4B64386EDCAD9", "target": "Uczony przemieniony w tonberry z zapałem przeszukuje stertę gruzu, z której wyciąga kryształ do obejrzenia. Gdy tylko na niego spoglądasz, Archive oznajmia, że przypomniał sobie wszystko, co niegdyś wiedział o znalezisku. Uwolniwszy w ten sposób część zapieczętowanej wiedzy, wyjaśnia, że kryształ, odłamek duszy, pozwala korzystać z dawnych technik walki i sztuk magicznych, po czym nalega, by przypiąć go do stroju." },
     { "gameKey": "quest/053/KinGkd004_05312#TEXT_KINGKD004_05312_TODO_00", "hash": "3EC6B06437ACDFE3", "target": "Porozmawiaj z Archive'em." },

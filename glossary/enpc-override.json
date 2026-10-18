@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {"gameKey": "ENpcResident#1005160.0", "en": "Ifrit", "pl": "Ifryt"},
+    {"gameKey": "ENpcResident#1005160.2", "en": "Ifrit", "pl": "Ifryt"},
+    {"gameKey": "ENpcResident#1007017.0", "en": "Titan", "pl": "Tytan"},
+    {"gameKey": "ENpcResident#1007017.2", "en": "Titan", "pl": "Tytan"},
+    {"gameKey": "ENpcResident#1010064.0", "en": "Shiva", "pl": "Sziwa"},
+    {"gameKey": "ENpcResident#1010064.2", "en": "Shiva", "pl": "Sziwa"},
+    {"gameKey": "ENpcResident#1011901.0", "en": "Shiva", "pl": "Sziwa"},
+    {"gameKey": "ENpcResident#1011901.2", "en": "Shiva", "pl": "Sziwa"},
+    {"gameKey": "ENpcResident#1012913.0", "en": "Shiva", "pl": "Sziwa"},
+    {"gameKey": "ENpcResident#1012913.2", "en": "Shiva", "pl": "Sziwa"}
+  ]
+}

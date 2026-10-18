@@ -33,7 +33,7 @@
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_BLOISIRANT_100_022", "hash": "3BB508E744733EF8", "target": "Wstęp do Thousand Maws of Toto<-->Rak jest zwykle ograniczony, ale wobec niedoli starszego sylfów zrobię wyjątek. Zbierz drużynę ratunkową i wejdź, gdy tylko będziesz w gotowości." },
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000010_HYDAELYN", "hash": "5453DC8D1BB8BDC0", "target": "Ciemność..." },
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000020_LAHABREAANCIENT", "hash": "6758DBC4D6A94140", "target": "<colortype(547)>Hahahaha...<colortype(0)>" },
-    { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000030_LAHABREAANCIENT", "hash": "368890B9510B6D6E", "target": "<colortype(547)>Oto przychodzi do mnie <if(gnum4,potężna pogromczyni,potężny pogromca)> Ifrita.<colortype(0)>" },
+    { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000030_LAHABREAANCIENT", "hash": "368890B9510B6D6E", "target": "<colortype(547)>Oto przychodzi do mnie <if(gnum4,potężna pogromczyni,potężny pogromca)> Ifryta.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000040_LAHABREAANCIENT", "hash": "9198D78C2F17FDDB", "target": "<colortype(547)>...Z obliczem, które zdradza zrozumienie.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000050_LAHABREAANCIENT", "hash": "598E052C99CC4E45", "target": "<colortype(547)>Intrygująca moc, to Echo. Muszę starannie dobierać słowa.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst306_00514#TEXT_MANFST306_00514_000060_LAHABREAEORZEA", "hash": "594D8DD4B9A219E7", "target": "Może zdołam, jeśli zniżę się do prostackiej mowy mego gościa. Nareszcie się spotykamy." },
