@@ -87,7 +87,7 @@
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_Q3_000_000", "hash": "227C4A6B5F72AA9E", "target": "Co zrobisz?" },
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_001", "hash": "843574B8596E5B3E", "target": "Porozmawiać" },
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_002", "hash": "E51E658FF3BA6DDB", "target": "Utworzyć drużynę i wejść do Amaurot" },
-    { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_003", "hash": "216FADFB2C5E9E81", "target": "Nic" },
+    { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_A3_000_003", "hash": "216FADFB2C5E9E81", "target": "Nic." },
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_ALPHINAUD_000_110", "hash": "85F4F8ECD112A546", "target": "Daj tylko znak, <split(<string(gstr1)>, ,1)>. Żadne przerażające widoki nie zawrócą nas z obranej drogi." },
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_ALISAIE_000_115", "hash": "0421F04102632AED", "target": "Nie będę prosiła cię, by ograniczać siły─na to już za późno. Postaram się tylko zgasić najgroźniejsze iskry, zanim cię dosięgną." },
     { "gameKey": "quest/036/LucKmf111_03654#TEXT_LUCKMF111_03654_THANCRED_000_120", "hash": "8ED2EB7995101C2F", "target": "Jestem gotów, kiedy tylko zechcesz, <split(<string(gstr1)>, ,1)>. Jeśli żąda dowodu, stoczymy z nim walkę, jakiej jeszcze nie widział." },

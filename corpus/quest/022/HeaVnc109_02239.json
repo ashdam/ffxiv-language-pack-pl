@@ -58,6 +58,6 @@
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_120", "hash": "10AAACC411407776", "target": "Pożegnania już za tobą?" },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_121", "hash": "35A17DF71231F8A7", "target": "Znam Raubahna od lat, ale nie przypominam sobie, by po porażce wyglądał kiedyś na tak szczęśliwego." },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_122", "hash": "32C3A25DF77600F4", "target": "No proszę! Wszystko zaczyna układać się po naszej myśli, prawda? Ishgardczycy odnieśli symboliczne zwycięstwo, a Sojusz Eorzejski tylko się wzmocnił. Masz powód do dumy, <split(<string(gstr1)>, ,1)>. To twoja zasługa." },
-    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Uczysz się emotki <colortype(500)><edgecolortype(501)>Victory<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Uczysz się emotki <colortype(500)><edgecolortype(501)>Zwycięstwo<edgecolortype(0)><colortype(0)>!" }
   ]
 }

@@ -6,7 +6,7 @@
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_00", "hash": "AF14BD9E8A8E6C2D", "target": "Zdobyć sadzonkę" },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_01", "hash": "F169EB962E204176", "target": "Zdobyć fiolkę octu drzewnego" },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_02", "hash": "70A13D422762560C", "target": "Dostarczyć sadzonkę i fiolkę octu drzewnego postaci Gyotai" },
-    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_000", "hash": "DEFDF70B46FBAF1E", "target": "Powiedz, <if(gnum4,spotkałaś,spotkałeś)> już Namazu mieszkających w dworze Yuzuka Manor?" },
+    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_000", "hash": "DEFDF70B46FBAF1E", "target": "Powiedz, <if(gnum4,spotkałaś,spotkałeś)> już Namazu mieszkających w Dworze Yuzuka?" },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_001", "hash": "3556D2102A95CCA1", "target": "Dwór znajduje się na południowy zachód od Namai. Pierwotnie był domem zamożnej rodziny, lecz zamordowano ją podczas ataku Cesarstwa." },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_002", "hash": "22239E012E6147C9", "target": "Dziś mieszka tam grupa Namazu. Od czasu do czasu odwiedzają Namai, by handlować z nami rybami. Zainteresowały ich niektóre tutejsze drzewa, więc pomyślałam, że w zamian podaruję im sadzonkę." },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_003", "hash": "2FE2144BB6E50A02", "target": "Droga do dworu jest jednak długa i pełna niebezpieczeństw..." },

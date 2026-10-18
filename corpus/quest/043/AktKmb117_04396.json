@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_00", "hash": "C61DC0216233BE8E", "target": "G'raha Tia rozmyśla nad cudem techniki, który właśnie oglądasz." },
-    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_01", "hash": "63A5261566DB5D97", "target": "Wyrywasz G'rahę Tię z głębokiego zamyślenia. Informuje cię, że urządzenie, którym Fandaniel przeniósł siebie i Zenosa na księżyc, jest allagańskiej konstrukcji. Po chwili rozważań nad przywiązaniem Ascianina do życia, które wiódł jako Amon, dodaje ci otuchy i żegna cię.<br><br>※Jeśli opuścisz Nethergate, możesz tam wrócić, rozmawiając z postacią Lente's arrow w Enceladeum." },
+    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_01", "hash": "63A5261566DB5D97", "target": "Wyrywasz G'rahę Tię z głębokiego zamyślenia. Informuje cię, że urządzenie, którym Fandaniel przeniósł siebie i Zenosa na księżyc, jest allagańskiej konstrukcji. Po chwili rozważań nad przywiązaniem Ascianina do życia, które wiódł jako Amon, dodaje ci otuchy i żegna cię.<br><br>※Jeśli opuścisz Bramę Zaświatów, możesz tam wrócić, rozmawiając z postacią Lente's arrow w Enceladeum." },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_02", "hash": "996B3804A97337FD", "target": "Dzięki doświadczeniu z podobnymi urządzeniami teleportacyjnymi nie masz powodu wątpić w bezpieczeństwo tego. Mimo wszystko odczuwasz pewną ulgę, gdy fala eterycznej energii bezboleśnie przenosi cię na księżyc." },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_03", "hash": "210E9382D79CDDE6", "target": "Ledwie docierasz na księżyc, słyszysz przywołujący cię dziwny, przejmujący głos. Czy to sojusznik, o którym mówiła Hydaelyn, czy ktoś inny...?" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SEQ_04", "hash": "BC9EEE4AD8FFEB2D", "target": "Podchodzisz do wysokiej postaci błąkającej się w pobliżu, lecz atakują cię widma rozpaczy. To dowód, że w poszukiwaniu przyjaznej twarzy przydałoby ci się więcej ostrożności. Jednak wobec braku lepszego planu..." },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_TODO_02", "hash": "0D938D3615C069AE", "target": "Porozmawiać z postacią ancient spirit" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_TODO_03", "hash": "E6B9E95C4EEED19A", "target": "Ponownie porozmawiać z postacią ancient spirit" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_TODO_04", "hash": "4072B532CCD4074E", "target": "Rozejrzeć się w wyznaczonym miejscu" },
-    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_TODO_05", "hash": "F21FABFD3F368319", "target": "Poszukać źródła głosu w Watcher's Palace" },
+    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_TODO_05", "hash": "F21FABFD3F368319", "target": "Poszukać źródła głosu w Pałacu Strażnika" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_ALPHINAUD_000_000", "hash": "BAF05AD9EB55EE26", "target": "Wierzę w ciebie. Teraz i zawsze." },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_ALISAIE_000_005", "hash": "E50B62E9C63AA4A3", "target": "Zatrzymaj się tutaj na chwilę, proszę." },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_ALISAIE_000_006", "hash": "CC482CB1E7BEE961", "target": "...Modlitwa na szczęście. Teraz nie możesz przegrać!" },

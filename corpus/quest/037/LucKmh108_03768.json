@@ -97,7 +97,7 @@
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_A1_000_500", "hash": "158B4D16B2DB915C", "target": "Tak jest, proszę pani." },
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_A2_000_500", "hash": "E10E484265EE21E7", "target": "Ale czuję się dobrze..." },
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_THANCRED_000_137", "hash": "59C50FB3A606142C", "target": "Po prostu grzecznie chodź, <split(<string(gstr1)>, ,1)>. Zaufaj mi." },
-    { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_YSHTOLA_000_138", "hash": "51AE1A9E673439B8", "target": "W takim razie zostawiam staruszków pod twoją opieką. Reszta spotka się z wami później przy Split Hull." },
+    { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_YSHTOLA_000_138", "hash": "51AE1A9E673439B8", "target": "W takim razie zostawiam staruszków pod twoją opieką. Reszta spotka się z wami później przy Rozłupanym Kadłubie." },
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_THANCRED_000_138", "hash": "D53E61CB0D047B9C", "target": "\\<wzdycha> Dobra rada─nigdy nie daj tego po sobie poznać. Kiedy zrozumie, że trafiła w czuły punkt, zapamięta to. Na bogów, jak ona to zapamięta..." },
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_THANCRED_000_139", "hash": "3C163BCA72EBBAD0", "target": "Tak czy inaczej, skoro musimy odpocząć, znam w Sullen miejsce, które nadaje się do tego lepiej niż większość. Chodź ze mną." },
     { "gameKey": "quest/037/LucKmh108_03768#TEXT_LUCKMH108_03768_URIANGER_000_140", "hash": "9F375EF3464DDF70", "target": "Z wiekiem przychodzi mądrość─a przynajmniej taką mam nadzieję." },

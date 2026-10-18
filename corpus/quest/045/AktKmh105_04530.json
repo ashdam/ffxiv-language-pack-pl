@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_SEQ_00", "hash": "A619D8CE186F5972", "target": "Y'shtola przygląda się bramie Otchłani okiem badaczki." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_TODO_00", "hash": "328FF2C79D4910E4", "target": "Porozmawiać z czarodziejką Y'shtola" },
-    { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_TODO_01", "hash": "96FEF075A614CC22", "target": "Porozmawiać z satrapą Varshahn w High Crucible of Al-Kimiya" },
+    { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_TODO_01", "hash": "96FEF075A614CC22", "target": "Porozmawiać z satrapą Varshahn w Wielkim Tyglu Al-Kimiya" },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_TODO_02", "hash": "E8FA1DF0F62C4A22", "target": "Ponownie porozmawiać z satrapą Varshahn" },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_GRAHATIA_000_000", "hash": "0F3B10A2652F9786", "target": "Może zostanę jeszcze chwilę..." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_URIANGER_000_001", "hash": "4EFDB604A0759E0D", "target": "Nawet w uczonych murach Sharlayanu nie wolno otwierać wrót do otchłani. Zbyt wielkie to niebezpieczeństwo..." },
@@ -18,7 +18,7 @@
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_VARSHAHN_000_065", "hash": "BF7EEA9D62D86886", "target": "Minęły tysiąclecia, odkąd widziałem ją po raz ostatni. Lecz w pamięci wciąż widzę Azdaję, wyraźnie i żywo..." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_YSHTOLA_000_070", "hash": "40188C80CB52A79A", "target": "A więc nie tylko poszerzyli szczelinę, ale też nauczyli się nią sterować jak bramą..." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_YSHTOLA_000_071", "hash": "435A0126553BB046", "target": "Zdumiewające. Czy mogłabym dowiedzieć się czegoś więcej o tym, jak tego dokonano?" },
-    { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_VARSHAHN_000_072", "hash": "1CC6DE441C2EEE46", "target": "Powiem wam, co wiem. Najpierw jednak muszę wrócić do High Crucible i zadbać o zastąpienie strażników, których tak sprawnie zniszczyliście. Brama nie może pozostać bez obrony." },
+    { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_VARSHAHN_000_072", "hash": "1CC6DE441C2EEE46", "target": "Powiem wam, co wiem. Najpierw jednak muszę wrócić do Wielkiego Tygla i zadbać o zastąpienie strażników, których tak sprawnie zniszczyliście. Brama nie może pozostać bez obrony." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_YSHTOLA_000_073", "hash": "AF57382E25BD3DEA", "target": "Ach, wybacz─być może nieco poniósł nas zapał do odkrywania tajemnic skarbca. Jeśli konstrukty można naprawić, chętnie pomożemy..." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_VARSHAHN_000_074", "hash": "B8DE952BCC740DFA", "target": "To nie będzie konieczne. Tak jak mam zapasowe ciała dla siebie, tak trzymamy kopie strażników na takie okazje. W każdym razie powinniśmy wrócić do Radz<-->at<-->Han." },
     { "gameKey": "quest/045/AktKmh105_04530#TEXT_AKTKMH105_04530_GRAHATIA_000_100", "hash": "BEA4D6AC45C2B5CF", "target": "Nie chcę dłużej kazać Krile czekać, ale nie potrafię odejść, nie wysłuchawszy dalszej opowieści Vrtry..." },

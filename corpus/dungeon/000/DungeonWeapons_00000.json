@@ -2,12 +2,12 @@
   "conversation": "dungeon/000/DungeonWeapons_00000",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000", "hash": "BD2F396EDC9B4B9D", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010", "hash": "D17F9FAC4150A65E", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_200_010", "hash": "E4452B530A4FBB62", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_000_010", "hash": "BF0DB42D04B22625", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "CAE8C9E7C0219259", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "0F04076CB1F9C114", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "5952AFD2D632E0FB", "target": "" }
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000", "hash": "BD2F396EDC9B4B9D", "target": "Wykryto wroga. Rozpoczynam atak!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010", "hash": "D17F9FAC4150A65E", "target": "A więc to jest Emerald Weapon..." },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_200_010", "hash": "E4452B530A4FBB62", "target": "Czekam na ciebie, <if(gnum4,bohaterko,bohaterze)> Eorzei!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_000_010", "hash": "BF0DB42D04B22625", "target": "Patrz, ojcze! Oto moc, którą władamy!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "CAE8C9E7C0219259", "target": "Cel w zasięgu wzroku. Unieruchom go salwą pocisków!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "0F04076CB1F9C114", "target": "Wykryto zagrożenie, odpowiadam ogniem!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "5952AFD2D632E0FB", "target": "Pole powstrzymujące nie wytrzyma!" }
   ]
 }

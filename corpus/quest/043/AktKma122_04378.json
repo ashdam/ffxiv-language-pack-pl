@@ -41,11 +41,11 @@
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_086", "hash": "0F9DB851E7AF16E4", "target": "Rezydencja satrapy znajduje się w dzielnicy Dharma, najwyżej położonej części Radz<-->at<-->Han." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_087", "hash": "E2EE3002F1ECD138", "target": "Zwykle polecam drogę przez bazary na północy miasta. Jednak z powodu stanu alarmowego większość sklepów jest zamknięta, a eteryt wyłączony." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_088", "hash": "B9FD5434FB7AC04C", "target": "Dlatego wskażę inną trasę. Proszę najpierw wejść po schodach obok fontanny, a następnie skręcić w lewo." },
-    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_089", "hash": "BFB16E84325C4F98", "target": "Dalej są kolejne schody. Na ich szczycie zaczyna się ulica Paksa's Path." },
+    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_089", "hash": "BFB16E84325C4F98", "target": "Dalej są kolejne schody. Na ich szczycie zaczyna się Ścieżka Paksy." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_090", "hash": "C525F32315A38A82", "target": "Proszę przejść przez duże drzwi po prawej, by dotrzeć do Ruveydah Fibers. W środku będzie kolejny wartownik, który udzieli dalszych wskazówek." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ESTINIEN_000_091", "hash": "1D88F5B40A35BBC2", "target": "Innymi słowy, idziemy w górę. Brzmi dość prosto." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_100", "hash": "A82B43229B29B362", "target": "Powtórzyć wskazówki? Oczywiście. Aby dojść do pałacu Meghaduta, proszę najpierw wejść po schodach obok fontanny, a potem skręcić w lewo." },
-    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_101", "hash": "FB230D34CD1FA5AD", "target": "Dalej są kolejne schody. Na ich szczycie zaczyna się ulica Paksa's Path." },
+    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_101", "hash": "FB230D34CD1FA5AD", "target": "Dalej są kolejne schody. Na ich szczycie zaczyna się Ścieżka Paksy." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_102", "hash": "7E577FBDC869C992", "target": "Proszę przejść przez duże drzwi po prawej, by dotrzeć do Ruveydah Fibers. W środku będzie kolejny wartownik, który udzieli dalszych wskazówek." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_A3_000_110", "hash": "02FB339CF2645F72", "target": "<colortype(548)>Porozmawiać o okazałym portalu.<colortype(0)>" },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ESTINIEN_000_115", "hash": "6D831A66A3338BE1", "target": "Wartownik powiedział wyraźnie. Idziemy w górę." },
@@ -85,6 +85,6 @@
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALPHINAUD_000_220", "hash": "7FB22FE1C2C46AD2", "target": "Raz jeszcze przepraszamy. Mam nadzieję, że nie zmusiliśmy was do przedwczesnego zakończenia rozmowy." },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALISAIE_000_230", "hash": "2B589155A929ABCC", "target": "Więc o czym rozmawialiście z Vrtrą?" },
     { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALISAIE_000_231", "hash": "E9E564100F02DD6B", "target": "...O niczym? Dobrze, skoro tak twierdzisz." },
-    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALISAIE_000_232", "hash": "2CABFA86992F472B", "target": "Reszta poszła już do High Crucible. Dogonimy ich." }
+    { "gameKey": "quest/043/AktKma122_04378#TEXT_AKTKMA122_04378_ALISAIE_000_232", "hash": "2CABFA86992F472B", "target": "Reszta poszła już do Wielkiego Tygla. Dogonimy ich." }
   ]
 }

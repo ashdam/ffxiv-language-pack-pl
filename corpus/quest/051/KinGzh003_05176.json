@@ -44,7 +44,7 @@
     { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_026", "hash": "83524CBDD6700C52", "target": "Ostatnią wskazówkę o księżniczce czekającej na powrót napisałam dlatego, że księżniczki mieszkają w zamkach. Właśnie tam czekałam!" },
     { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_027", "hash": "B1D114141BAEE1F6", "target": "Założę się, że chcesz też usłyszeć o haśle! „Chcę być twoim kanarkiem” to kod używany, gdy trzeba coś zachować w tajemnicy. To tytuł starej sztuki o księżniczce zakochanej w prostym człowieku." },
     { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_028", "hash": "ECEC0CE7E99AEAF3", "target": "To świetne w tej grze. Nie tylko bawi, ale też doskonale przedstawia Yesterland każdemu nowo przybyłemu!" },
-    { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_029", "hash": "76E73CBD7A1F8AE4", "target": "Wszyscy znają Bergmähr-Ring i esperance wheels, prawda? Chciałam zabrać ludzi poza utarte szlaki i nauczyć ich naszego hasła." },
+    { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_029", "hash": "76E73CBD7A1F8AE4", "target": "Wszyscy znają Bergmähr-Ring i Koła Nadziei, prawda? Chciałam zabrać ludzi poza utarte szlaki i nauczyć ich naszego hasła." },
     { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_030", "hash": "93D985B2D19E0827", "target": "Chociaż chyba już go nie potrzebuję... Mimo wszystko cieszę się, że <if(gnum4,zagrałaś,zagrałeś)> w moją grę!" },
     { "gameKey": "quest/051/KinGzh003_05176#TEXT_KINGZH003_05176_GIRL05176_000_031", "hash": "75BBD7701B962634", "target": "Chyba pójdę jeszcze raz obejść okolicę. Było fajnie! Dziękuję!" }
   ]

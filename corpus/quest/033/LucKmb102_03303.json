@@ -34,7 +34,7 @@
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_052", "hash": "DB9800E875C19440", "target": "Zgadza się." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_100_052", "hash": "C1B445330990D101", "target": "Oddział podzielimy na dwie grupy. Jedna wyruszy z Fort Jobb, druga z Ostall Imperative. <if(gnum4,Pani,Pan)> z Alphinaudem dołączy do pierwszej." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_053", "hash": "5621473ACB8565EB", "target": "<split(<string(gstr1)>, ,1)> wyruszy natomiast z drugą grupą. Razem ze mną." },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_054", "hash": "44BE0B370444CC08", "target": "Zanim zajmiecie stanowiska, zgłoście się do Chessamile w Spagyrics." },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_054", "hash": "44BE0B370444CC08", "target": "Zanim zajmiecie stanowiska, zgłoście się do Chessamile w Spagiryce." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_055", "hash": "B90CC7017EEF7637", "target": "Da wam serum chroniące przed proszkiem nasennym." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_ALPHINAUD_000_056", "hash": "A72AD56F65541854", "target": "Ruszajmy zatem. Uważaj na siebie, <if(gnum4,przyjaciółko,przyjacielu)>. Spotkamy się w terenie." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_057", "hash": "29586299048BCA04", "target": "Do Imperative jest daleko, więc może <if(gnum4,pani,pan)> skorzystać z amaro w ptaszarni. Oczywiście po odebraniu serum." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_SEQ_00", "hash": "796E0EE96E26CF0D", "target": "Załatwiwszy swoje sprawy, Alphinaud pyta o twoje." },
-    { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_TODO_00", "hash": "69506704026DA64B", "target": "Porozmawiać z Uriangerem w Bookman's Shelves" },
+    { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_TODO_00", "hash": "69506704026DA64B", "target": "Porozmawiać z Uriangerem przy Półkach Uczonego" },
     { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_TODO_01", "hash": "0598C69209D67450", "target": "Dostarczyć przygasły Kryształ Światła Seto" },
     { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_TODO_02", "hash": "A469556898A1221C", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/037/LucKmi110_03780#TEXT_LUCKMI110_03780_CHAINUZZ_000_001", "hash": "EC0AA542E8432FE0", "target": "Słyszałem, że statek powietrzny rozbił się w Amh Araeng. Nieważne. Najważniejsze, że jesteście cali i zdrowi." },

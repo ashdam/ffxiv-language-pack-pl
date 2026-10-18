@@ -2,8 +2,8 @@
   "sheet": "GCShopItemCategory",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "GCShopItemCategory#1", "hash": "A41502E825F251DE", "target": "" },
-    { "gameKey": "GCShopItemCategory#2", "hash": "CAA505BE22EB8BE3", "target": "" },
-    { "gameKey": "GCShopItemCategory#3", "hash": "67FB7C7F9646C3E1", "target": "" }
+    { "gameKey": "GCShopItemCategory#1", "hash": "A41502E825F251DE", "target": "Zaopatrzenie wojskowe" },
+    { "gameKey": "GCShopItemCategory#2", "hash": "CAA505BE22EB8BE3", "target": "Broń" },
+    { "gameKey": "GCShopItemCategory#3", "hash": "67FB7C7F9646C3E1", "target": "Pancerz" }
   ]
 }

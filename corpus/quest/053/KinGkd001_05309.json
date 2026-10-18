@@ -126,7 +126,7 @@
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_605", "hash": "7B147C4C4DE9A297", "target": "Och, pomyślałem też, że dam ci dziennik na zapisywanie odkryć po drodze." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_606", "hash": "34F54D6D7F2E18BC", "target": "Pewnie nie braknie ludzi chętnych przeczytać o twoich tutejszych wyczynach. Zapełnij te strony, żeby mieli nad czym się pochylić." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_607", "hash": "703B12C59903F980", "target": "Jeśli podczas wyprawy zechcesz wrócić do Tuliyollal, skorzystaj z prądu eterycznego przy zacumowanym statku. Odpowiadający mu prąd w porcie High Tide Harbor pozwala wrócić na Occult Crescent." },
-    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_608", "hash": "FFD64A3A821A10E4", "target": "<colortype(500)><edgecolortype(501)>Occult Record<edgecolortype(0)><colortype(0)> jest teraz dostępny w Collection, w części Duty głównego menu." },
+    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_608", "hash": "FFD64A3A821A10E4", "target": "<colortype(500)><edgecolortype(501)>Dziennik okultystyczny<edgecolortype(0)><colortype(0)> jest teraz dostępny w Collection, w części Duty głównego menu." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_609", "hash": "10A7B85B6C31DF61", "target": "W miarę badania Occult Crescent dziennik będzie uzupełniany o nowe wpisy dotyczące ważnych pojęć i postaci." }
   ]
 }

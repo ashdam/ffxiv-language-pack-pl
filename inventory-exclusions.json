@@ -1,5 +1,7 @@
 {
-  "_comment": ["Format: https://github.com/ashdam/ffxiv-corpus-en/blob/main/docs/inventory-exclusions.md"],
+  "_comment": [
+    "Format: https://github.com/ashdam/ffxiv-corpus-en/blob/main/docs/inventory-exclusions.md"
+  ],
   "excludedSheets": [
     "Action",
     "ActionTransient",
@@ -13,5 +15,120 @@
     "EventItem",
     "EventItemHelp"
   ],
-  "exclusion_groups": []
+  "exclusion_groups": [
+    {
+      "why": "Internal animation labels. Do not translate them.",
+      "rows": [
+        {
+          "gameKey": "DefaultTalk#589824.20",
+          "hash": "7D7A1CB32DD91A98"
+        },
+        {
+          "gameKey": "DefaultTalk#589824.21",
+          "hash": "D7079EEABE7D6AE9"
+        },
+        {
+          "gameKey": "DefaultTalk#589824.22",
+          "hash": "31F3F1B37E036B99"
+        },
+        {
+          "gameKey": "DefaultTalk#589828.20",
+          "hash": "D898EBA77F7CD5DC"
+        },
+        {
+          "gameKey": "DefaultTalk#589828.21",
+          "hash": "B174AAE68C8E9907"
+        },
+        {
+          "gameKey": "DefaultTalk#589829.20",
+          "hash": "69AAFF1FA9942A36"
+        },
+        {
+          "gameKey": "DefaultTalk#589829.21",
+          "hash": "0311A9D0D0AAE01F"
+        },
+        {
+          "gameKey": "DefaultTalk#589830.20",
+          "hash": "BFB9110CBE4010CA"
+        },
+        {
+          "gameKey": "DefaultTalk#589830.21",
+          "hash": "13B7D3B63DECAE77"
+        },
+        {
+          "gameKey": "DefaultTalk#589831.20",
+          "hash": "2097D150F589E346"
+        },
+        {
+          "gameKey": "DefaultTalk#589832.20",
+          "hash": "8AEAC3082EF73F3C"
+        },
+        {
+          "gameKey": "DefaultTalk#589833.20",
+          "hash": "5C9868E91E97B15E"
+        },
+        {
+          "gameKey": "DefaultTalk#589834.20",
+          "hash": "82ABCA580BE6136A"
+        },
+        {
+          "gameKey": "DefaultTalk#589826.20",
+          "hash": "E5E657884E0FC552"
+        },
+        {
+          "gameKey": "DefaultTalk#589826.21",
+          "hash": "63C58FF617835EFF"
+        },
+        {
+          "gameKey": "DefaultTalk#589826.22",
+          "hash": "8FF9870FF589B0BC"
+        }
+      ]
+    },
+    {
+      "why": "Internal test dialogue. Do not translate it.",
+      "rows": [
+        {
+          "gameKey": "DefaultTalk#589842.20",
+          "hash": "6A6B927FE3E4774F"
+        },
+        {
+          "gameKey": "DefaultTalk#589843.20",
+          "hash": "5B03E2467E087CE1"
+        },
+        {
+          "gameKey": "DefaultTalk#589841.20",
+          "hash": "CBC0F0EAAD2B3856"
+        },
+        {
+          "gameKey": "DefaultTalk#589838.20",
+          "hash": "A3284B0006B67D60"
+        },
+        {
+          "gameKey": "DefaultTalk#589838.21",
+          "hash": "6A72B646FD995BBF"
+        },
+        {
+          "gameKey": "DefaultTalk#589838.22",
+          "hash": "D697BDDE8CED44E5"
+        },
+        {
+          "gameKey": "DefaultTalk#589839.20",
+          "hash": "4DDCF2F7BF44D606"
+        },
+        {
+          "gameKey": "DefaultTalk#590128.20",
+          "hash": "CC824655B5E4CA41"
+        },
+        {
+          "gameKey": "DefaultTalk#590128.21",
+          "hash": "5A12221A88323622"
+        },
+        {
+          "gameKey": "DefaultTalk#590128.22",
+          "hash": "24BAAA4F1A116F7A"
+        }
+      ]
+    }
+  ]
 }

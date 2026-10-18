@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_SEQ_00", "hash": "6EB58090CACEC880", "target": "Thancred wodzi wzrokiem po rozległym, osuszonym obszarze przed wami." },
-    { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_TODO_00", "hash": "D228C3FABD75806E", "target": "Poszukać czegoś niezwykłego na Norvrandt Slope" },
+    { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_TODO_00", "hash": "D228C3FABD75806E", "target": "Poszukać czegoś niezwykłego na Stoku Norvrandt" },
     { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_TODO_01", "hash": "76D0E22DF8603D7E", "target": "Porozmawiać z młodym Ondo" },
     { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_TODO_02", "hash": "0F9CF62AE7EFA44D", "target": "Porozmawiać z uczonym Alphinaud" },
     { "gameKey": "quest/036/LucKmf105_03648#TEXT_LUCKMF105_03648_TODO_03", "hash": "5A51EBE5566256E7", "target": "Pokonać blue swimmer" },

@@ -55,7 +55,7 @@
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_Q1_000_000", "hash": "BB4A6F28272CDBCE", "target": "Co zrobisz?" },
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_001", "hash": "B6E2B88B1D5D4C0F", "target": "Porozmawiać" },
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_002", "hash": "DF31DAC15D5CD055", "target": "Utworzyć drużynę i ruszyć do Paglth'an" },
-    { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_003", "hash": "8BCC5574541AAD92", "target": "Nic" },
+    { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_A1_000_003", "hash": "8BCC5574541AAD92", "target": "Nic." },
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_ALPHINAUD_000_130", "hash": "5B27CDC2E953FE55", "target": "Pokonując Lunar Bahamuta i jego hordy, pomożemy też Arenvaldowi i Fordoli. Chodźmy!" },
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_ALISAIE_000_135", "hash": "C1D9D8FADBEC2CC0", "target": "Czy Fandaniel tu jest, czy nie, z pewnością stoi za tym atakiem. Tym bardziej chcę dopilnować, by poniósł klęskę." },
     { "gameKey": "quest/040/LucKmk105_04062#TEXT_LUCKMK105_04062_GRAHATIA_000_140", "hash": "354B9F9C5D2A8D4C", "target": "Równiny Paglth'an dadzą nam otwarte pole bitwy. Wróg może być liczny, ale przynajmniej nie będziemy musieli walczyć również z <italic(1)>terenem<italic(0)>." },

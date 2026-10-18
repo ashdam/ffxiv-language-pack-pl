@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_SEQ_00", "hash": "03DA6D214C010AE7", "target": "Wyprawa na Księżyc dobiegła końca, a Y'shtola pragnie wrócić na Etheirys." },
-    { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_TODO_00", "hash": "AF576BD436A9F473", "target": "Porozmawiać z towarzyszem Thancred przy Nethergate" },
+    { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_TODO_00", "hash": "AF576BD436A9F473", "target": "Porozmawiać z towarzyszem Thancred przy Bramie Zaświatów" },
     { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_TODO_01", "hash": "312527E41998B07C", "target": "Porozmawiać z dowódczynią Lucia w obozie Camp Broken Glass" },
     { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_TODO_02", "hash": "C148A704EBF895BD", "target": "Porozmawiać z Krile w budynku Baldesion Annex" },
     { "gameKey": "quest/044/AktKmc110_04408#TEXT_AKTKMC110_04408_TODO_03", "hash": "74E39C2D4CB67B45", "target": "Zaczekać we wskazanym miejscu" },

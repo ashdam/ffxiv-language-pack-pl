@@ -67,6 +67,6 @@
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_ALISAIE_000_151", "hash": "AB3B3FA373113EAD", "target": "A jak lepiej pokazać swoją wartość niż... znaleźć ludzi z przyziemnymi problemami i zaoferować im fachową pomoc?" },
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_LYSE_000_152", "hash": "3D8338E55D42BF43", "target": "Nie pierwszy raz zdobędziemy czyjeś zaufanie, pomagając tu i tam. I dobrze wiesz, że nie ostatni." },
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_LYSE_000_153", "hash": "F4996BE22578E4FF", "target": "Rozejrzę się po zachodniej części Onokoro. Wy zajmijcie się wschodnią. Powodzenia!" },
-    { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_SYSTEM_000_154", "hash": "069936017F934B2F", "target": "Uczysz się emotki <colortype(500)><edgecolortype(501)>Eastern Bow<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_SYSTEM_000_154", "hash": "069936017F934B2F", "target": "Uczysz się emotki <colortype(500)><edgecolortype(501)>Wschodni ukłon<edgecolortype(0)><colortype(0)>!" }
   ]
 }

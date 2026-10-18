@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonCrystaltower3_00000",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "" }
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "Kto zakłóca ten mrok?<br>Ach, śmiertelnicy z krainy światła.<br>Nie zabłądziliście tu bez celu..." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "Jestem Cloud of Darkness.<br>Czego nie zaduszę, to pożrę.<br>Czego nie zdołam pożreć, to zniszczę." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "Przymierze jest wieczne.<br>Wszyscy śmiertelnicy w obliczu potopu ciemności<br>pogrążą się bez życia w Otchłani!" }
   ]
 }

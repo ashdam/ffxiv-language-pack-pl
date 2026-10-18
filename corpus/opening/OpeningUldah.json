@@ -2,16 +2,16 @@
   "conversation": "opening/OpeningUldah",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "" }
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "No już, <if(gnum4,koleżanko,kolego)>! Obiecuję, że to ci się opłaci!" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "Dopiero po przyjeździe, a Ul'dah już nie przypadło <if(gnum4,pani,panu)> do gustu? Zanim zapadnie decyzja o wyjeździe, proszę skorzystać z gościny Quicksand." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "Stać! Jeszcze bez wpisu do gildii, prawda? Tak też sądzę. Proszę udać się do Quicksand, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód─rejestracja jest obowiązkowa." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "Chwileczkę, czy to nie <if(gnum4,pani jechała,pan jechał)> powozem, który właśnie przybył? Wszyscy nowi poszukiwacze przygód muszą zarejestrować się w gildii, zanim ruszą zwiedzać miasto." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "Witaj w Ul'dah, promiennym symbolu dobrobytu wznoszącym się z pustyń Thanalanu." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "Postępuj zgodnie z instrukcjami, aby poruszać postacią i zmieniać położenie kamery." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "Gdy zechcesz kontynuować, porozmawiaj z Wymondem." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "Wybierz sposób sterowania, którego chcesz używać." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "Wybierz sposób sterowania." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "Mysz/klawiatura." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "<if([gnum75>1],Kontroler,Gamepad)>." }
   ]
 }

@@ -91,6 +91,6 @@
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_THANCRED_000_101", "hash": "68F9D42967C8BA2B", "target": "Każdy ma swoje talenty. Moje to gładka gadka i cichy krok. Obiecuję dać znać, gdy tylko dowiem się czegoś ważnego." },
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_YSHTOLA_000_102", "hash": "177D222C2C6122C6", "target": "Pamiętaj, by powiadomić także mnie. Wyruszę do Domy, gdy tylko znajdę odpowiedni statek kompanii East Aldenard. Wrócę jednak, jeśli zajdzie potrzeba." },
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_ALISAIE_000_103", "hash": "ABEF0A87D2EAF4E5", "target": "Wpadnij, gdy znów będziesz w okolicy, <split(<string(gstr1)>, ,1)>. Przy odrobinie szczęścia będę miała dla ciebie boleśnie szczegółowy raport od Alphinauda." },
-    { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_104", "hash": "1898648144ADF7C5", "target": "Poznajesz emote <colortype(500)><edgecolortype(501)>Ponder<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_104", "hash": "1898648144ADF7C5", "target": "Poznajesz emote <colortype(500)><edgecolortype(501)>Zaduma<edgecolortype(0)><colortype(0)>!" }
   ]
 }

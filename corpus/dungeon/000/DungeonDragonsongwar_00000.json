@@ -2,10 +2,10 @@
   "conversation": "dungeon/000/DungeonDragonsongwar_00000",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000", "hash": "02F41F1C1BFCD918", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001", "hash": "299A81544BA17071", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001", "hash": "B131B52C852AB2C2", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002", "hash": "23D029AFE902B610", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002", "hash": "78BA1A119B8A89CA", "target": "" }
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000", "hash": "02F41F1C1BFCD918", "target": "Tak kończy się inny rozdział ich historii.<br>Czego możemy się nauczyć, <if(gnum4,droga słuchaczko,drogi słuchaczu)>, z tej odmienionej Smoczej Pieśni?" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001", "hash": "299A81544BA17071", "target": "Czy ludzkie, czy smocze, każde życie jest cenne,<br>a utrata bliskich na zawsze okrywa mrokiem serca tych, którzy pozostali." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001", "hash": "B131B52C852AB2C2", "target": "Śmierć nie jest jednak końcem tego, co zostało dokonane.<br>Wspólne wspomnienia, dzielona miłość, odziedziczona nadzieja..." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002", "hash": "23D029AFE902B610", "target": "To wszystko daje nam siłę, by kroczyć ku jutru,<br>a największym tego dowodem jest wędrówka <if(gnum4,Wojowniczki,Wojownika)> Światła." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002", "hash": "78BA1A119B8A89CA", "target": "Z fantastycznych dzieł wędrownego minstrela<br><italic(1)>Heavensward: Nowa wizja<italic(0)>" }
   ]
 }

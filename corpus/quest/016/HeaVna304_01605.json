@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_00", "hash": "1865F81558E217D2", "target": "Dowódca oddziału ma obiecujący trop, który pomoże ci odnaleźć panią Lodowe Serce." },
-    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_01", "hash": "176156C867E0EDCF", "target": "Dowódca przypomina sobie znalezioną w gospodarstwie korespondencję, która może zawierać wskazówkę co do miejsca pobytu pani Lodowego Serca. Przeszukaj Gorgagne Mills i zbierz listy heretyków." },
+    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_01", "hash": "176156C867E0EDCF", "target": "Dowódca przypomina sobie znalezioną w gospodarstwie korespondencję, która może zawierać wskazówkę co do miejsca pobytu pani Lodowego Serca. Przeszukaj Młyny Gorgagne'a i zbierz listy heretyków." },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_02", "hash": "ACDE599ADC1D7FF4", "target": "Zbierasz pokaźny stos listów heretyków. Wróć do dowódcy oddziału i dołóż swoje znaleziska do jego zbioru." },
-    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_03", "hash": "78E20D4BFADA7A99", "target": "Przekazujesz rycerzowi zebrane listy heretyków, a Ishgardczyk szybko je przegląda. To skrupulatny zapis kontaktów między heretykami z Gorgagne Mills a ich towarzyszami w Akh Afah Amphitheatre. Liczne prośby o zaopatrzenie wskazują, że amfiteatr nadal służy ludziom Lodowego Serca za bazę..." },
+    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_SEQ_03", "hash": "78E20D4BFADA7A99", "target": "Przekazujesz rycerzowi zebrane listy heretyków, a Ishgardczyk szybko je przegląda. To skrupulatny zapis kontaktów między heretykami z Młynów Gorgagne'a a ich towarzyszami w Akh Afah Amphitheatre. Liczne prośby o zaopatrzenie wskazują, że amfiteatr nadal służy ludziom Lodowego Serca za bazę..." },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_TODO_00", "hash": "A51A102964B34420", "target": "Zebrać listy heretyków" },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_TODO_01", "hash": "A5115E6E0A2BAC7C", "target": "Przekazać listy heretyków dowódcy oddziału" },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_000", "hash": "AE51B94EABCEC9F8", "target": "Szuka <if(gnum4,pani,pan)> pani Lodowego Serca, prawda? Dokumenty, które odkryliśmy, nim bestie poraniły moich towarzyszy, wyglądały na korespondencję." },
@@ -18,7 +18,7 @@
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_ESTINIEN_000_012", "hash": "A41C36CBBDA3D15C", "target": "Gdzie są te przeklęte kartki...? Wolałbym walczyć z czterdziestoma aevis, niż dalej ich szukać!" },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_020", "hash": "F909E97F4A2352E9", "target": "Udało się <if(gnum4,pani,panu)> odzyskać dużo listów heretyków?" },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_021", "hash": "4B7E9EA1E9EAD02B", "target": "Doskonale. Razem ze znaleziskami pana Leveilleura i ser Estiniena mamy już ponad tuzin listów." },
-    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_022", "hash": "CFEF9A1FBCA34AC5", "target": "Cóż my tu mamy... Hm. Każda z tych stron opisuje kontakty między heretykami z Gorgagne Mills a ich towarzyszami w Akh Afah Amphitheatre." },
+    { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_022", "hash": "CFEF9A1FBCA34AC5", "target": "Cóż my tu mamy... Hm. Każda z tych stron opisuje kontakty między heretykami z Młynów Gorgagne'a a ich towarzyszami w Akh Afah Amphitheatre." },
     { "gameKey": "quest/016/HeaVna304_01605#TEXT_HEAVNA304_01605_KIGHTLEADER01605_000_023", "hash": "8D34583140F4F2B4", "target": "Proszą o żywność, ubrania i najróżniejsze zapasy. Ludzie Lodowego Serca muszą nadal przebywać w ruinach, które uznaliśmy za opuszczone..." }
   ]
 }

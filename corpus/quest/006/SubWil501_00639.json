@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_00", "hash": "19FB0598FDF71565", "target": "F'hobhas chce nauczyć cię osadzania materii." },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_01", "hash": "1B71811969521EF4", "target": "W Bonfire F'hobhas proponuje nauczyć cię osadzania materii w wyposażeniu. Porozmawiaj z nią ponownie, by rozpocząć naukę." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_01", "hash": "1B71811969521EF4", "target": "Przy Ognisku F'hobhas proponuje nauczyć cię osadzania materii w wyposażeniu. Porozmawiaj z nią ponownie, by rozpocząć naukę." },
     { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_02", "hash": "FBF42ED62EE7FFD3", "target": "Znasz już zasady osadzania materii. Zastosuj tę wiedzę i spróbuj osadzić materię w wyposażeniu." },
     { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_TODO_00", "hash": "395BC875535DE254", "target": "Porozmawiać z F'hobhas" },
     { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_000", "hash": "8A191B8EDCF95DC2", "target": "O, witaj. Widzę, że tak jak ja należysz do Uczniów Dłoni." },

@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy107_02938",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild z gospody Shiokaze Hostelry uparcie przygląda się przechodniom w poszukiwaniu rekrutów." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild z Gospody Shiokaze uparcie przygląda się przechodniom w poszukiwaniu rekrutów." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Porozmawiać z postacią Wlveva" },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "No proszę, to <split(<string(gstr1)>, ,1)>. Podejdź, niech sama zobaczę, jak daleko <if(gnum4,zaszłaś,zaszedłeś)> od naszego ostatniego spotkania." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "Tak jak myślałam. Wyglądasz na znacznie silniejszą osobę niż poprzednio. Polowania dobrze ci zrobiły. Mam nadzieję, że i ty dobrze się na nich <if(gnum4,spisałaś,spisałeś)>." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_012", "hash": "C6D260E181A7B7AF", "target": "Pamiętaj jednak, że żadne ostrzeżenia nie wystarczą. Potwory, na które będziesz polować, nie są zwykłymi bestiami. Są piekielne. Nieustępliwe. Zanim się z nimi zmierzysz, musisz dobrze znać zarówno swoje możliwości, jak i ich." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_100_013", "hash": "6BEFF889542D9ABB", "target": "Trzygwiazdkowe zlecenia Veteran Clan mark bills są już dostępne." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_013", "hash": "0BC1C858A8C3A1B4", "target": "Możesz teraz podejmować trzygwiazdkowe zlecenia Veteran Clan mark bills z tablic Clan Hunt board w Kugane i Rhalgr's Reach." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "Po osiągnięciu poziomu 70 Estrild w gospodzie Shiokaze Hostelry udostępni nowe misje i elitarne zlecenia Veteran Clan mark bills." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "Po osiągnięciu poziomu 70 Estrild w Gospodzie Shiokaze udostępni nowe misje i elitarne zlecenia Veteran Clan mark bills." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_015", "hash": "9705F6FAE570A6BC", "target": "Pora wyruszyć na jeszcze groźniejsze polowania. Nasze trzy gwiazdki czekają. Idź znów porozmawiać z Wlvevą. Oby bogowie pozwolili ci wrócić z życiem." }
   ]
 }

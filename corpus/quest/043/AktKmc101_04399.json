@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_SEQ_00", "hash": "D83DBC16C44A7BE8", "target": "Strażnik chce omówić z tobą poważne sprawy." },
-    { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_00", "hash": "9FFF81BB25A37ECE", "target": "Poszukać towarzyszy w Watcher's Palace" },
+    { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_00", "hash": "9FFF81BB25A37ECE", "target": "Poszukać towarzyszy w Pałacu Strażnika" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_01", "hash": "5BE85D6FCF0C5E53", "target": "Zbadać przygaszony kryształ" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_02", "hash": "123572A41450577C", "target": "Zbadać słabo świecący kryształ" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_03", "hash": "DF0D338A963BE903", "target": "Zbadać kryształ świecący ciepłym blaskiem" },

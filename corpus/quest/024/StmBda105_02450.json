@@ -23,6 +23,6 @@
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MEFFRID_000_065", "hash": "59C826238AD2112A", "target": "Uszczypnij mnie, jeśli śnię, bo przysiągłbym, że to się naprawdę dzieje. Cała Eorzea nareszcie walczy o wyzwolenie Ala Mhigo!" },
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_070", "hash": "7BA9737694EA9F16", "target": "A więc M'naago i Meffrid mają mieć nas pod opieką." },
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_071", "hash": "65D9B442D588FF7C", "target": "Nie wiemy, czego potrzebują, więc każde zadanie będzie równie dobre. Wybieraj, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080", "hash": "36C2E90EA4B7F9D7", "target": "Twój <colortype(500)><edgecolortype(501)>aether compass<edgecolortype(0)><colortype(0)> może teraz wykrywać prądy eteryczne w nowych regionach! Aether compass znajdziesz w Collection, w sekcji Duty głównego menu." }
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080", "hash": "36C2E90EA4B7F9D7", "target": "Twój <colortype(500)><edgecolortype(501)>kompas eteryczny<edgecolortype(0)><colortype(0)> może teraz wykrywać prądy eteryczne w nowych regionach! Kompas eteryczny znajdziesz w Collection, w sekcji Duty głównego menu." }
   ]
 }

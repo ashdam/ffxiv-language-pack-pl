@@ -2,19 +2,19 @@
   "sheet": "InclusionShopWelcomText",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#2", "hash": "D7729256658FC2CB", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#3", "hash": "EE1DF3E673173DED", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#4", "hash": "4C3964472CDF648E", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#5", "hash": "6FF4A1E39591C0E9", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#6", "hash": "417F62945792CA71", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#7", "hash": "18F79648161014BB", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#8", "hash": "B0C93FE0B67B3C89", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#9", "hash": "9E855C6BFBE6F730", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#10", "hash": "954B731C58DBB138", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#11", "hash": "E30CB3681DD33816", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#12", "hash": "DEF9E0B95A364B3E", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#13", "hash": "749ED62CA23CAB03", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#14", "hash": "7F949954D8D4186F", "target": "" }
+    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "Rozmaite wspaniałości " },
+    { "gameKey": "InclusionShopWelcomText#2", "hash": "D7729256658FC2CB", "target": "Tutaj możesz wymienić allagańskie tomolity i inne drobiazgi na luksusowe towary dostępne w Butiku Wspaniałości pani Mowen. Możesz mieć pewność, że każdy przedmiot starannie przygotowali utalentowani rzemieślnicy i pixie─uczciwość ponad wszystko! " },
+    { "gameKey": "InclusionShopWelcomText#3", "hash": "EE1DF3E673173DED", "target": "Zjednoczona Wymiana Talonów" },
+    { "gameKey": "InclusionShopWelcomText#4", "hash": "4C3964472CDF648E", "target": "Tutaj możesz wymieniać talony rzemieślników i zbieraczy na rozmaite miejscowe skarby i przydatne towary z importu. Niezależnie od fachu znajdziesz wszystko, czego potrzebujesz, i jeszcze więcej tutaj, w Zjednoczonej Wymianie Talonów!" },
+    { "gameKey": "InclusionShopWelcomText#5", "hash": "6FF4A1E39591C0E9", "target": "Iluminator talonów zbieraczy" },
+    { "gameKey": "InclusionShopWelcomText#6", "hash": "417F62945792CA71", "target": "Zajrzyj przez stary iluminator, a ujrzysz panoramę zaopatrzenia pożądanego przez Uczniów Ziemi na całym świecie. Zarzucamy szerokie sieci, więc przyjmujemy wszystkie talony zbieraczy!" },
+    { "gameKey": "InclusionShopWelcomText#7", "hash": "18F79648161014BB", "target": "Zapasy kwatermistrza" },
+    { "gameKey": "InclusionShopWelcomText#8", "hash": "B0C93FE0B67B3C89", "target": "Wymień ciężko zdobyte żetony na broń i inne zaopatrzenie, które dobrze ci posłuży w nadchodzących zaciekłych bitwach. Oby światło Kryształu prowadziło cię... aż do końca kryształowej linii!" },
+    { "gameKey": "InclusionShopWelcomText#9", "hash": "9E855C6BFBE6F730", "target": "Sklep osobliwości Lor Ul" },
+    { "gameKey": "InclusionShopWelcomText#10", "hash": "954B731C58DBB138", "target": "Wymień talony rzemieślników i zbieraczy na wszelkiego rodzaju błyskotki! Mamy całkiem pokaźną kolekcję, więc poświęć chwilę, by zaspokoić swój śmiertelny głód <italic(1)>rzeczy<italic(0)>." },
+    { "gameKey": "InclusionShopWelcomText#11", "hash": "E30CB3681DD33816", "target": "Wymiana talonów Thesauros" },
+    { "gameKey": "InclusionShopWelcomText#12", "hash": "DEF9E0B95A364B3E", "target": "...Z przyjemnością prowadzimy wymianę talonów rzemieślników i zbieraczy w imieniu Domu Splendorów Roweny. W razie potrzeby proszę śmiało zwrócić się o pomoc." },
+    { "gameKey": "InclusionShopWelcomText#13", "hash": "749ED62CA23CAB03", "target": "Wymiana w Old Sharlayan" },
+    { "gameKey": "InclusionShopWelcomText#14", "hash": "7F949954D8D4186F", "target": "Po części dzięki interesom z Domem Splendorów Roweny zdobyliśmy wprost zdumiewający wybór rzadkich artykułów i doskonałych towarów─wszystko dostępne w zamian za allagańskie tomolity i inne osobliwości!" }
   ]
 }

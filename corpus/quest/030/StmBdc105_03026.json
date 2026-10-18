@@ -36,7 +36,7 @@
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_ASAHI_000_045", "hash": "D9B2472437365A71", "target": "Czyż stoję przed <if(gnum4,sławną pogromczynią,sławnym pogromcą)> eikonów? Co za zaszczyt." },
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_MAXIMA_000_050", "hash": "AA7E841D7EFE9DDD", "target": "Lord Hien okazuje wielkoduszność w zwycięstwie. Biorąc pod uwagę trudną historię naszych narodów, nie spodziewaliśmy się takiej gościnności." },
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_HIEN_000_060", "hash": "8D18D0077610DE6B", "target": "Przeprowadzimy naszych gości przez rzekę do enklawy." },
-    { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_HIEN_000_061", "hash": "8F872A7F22DBDA92", "target": "Yugiri, idź przodem do przystani przy Yuzuka Manor i dopilnuj, by promy były gotowe." },
+    { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_HIEN_000_061", "hash": "8F872A7F22DBDA92", "target": "Yugiri, idź przodem do przystani przy Dworze Yuzuka i dopilnuj, by promy były gotowe." },
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_HIEN_000_070", "hash": "C8C5553C965E4DDF", "target": "Gdy zejdziemy na ląd, udamy się prosto do mojej sali, gdzie będziemy mogli rozmawiać w spokoju." },
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_ASAHI_000_075", "hash": "C507192C281C2805", "target": "Jakże wiele zniszczeń widzieliśmy po drodze... Gorzka cena wojny." },
     { "gameKey": "quest/030/StmBdc105_03026#TEXT_STMBDC105_03026_MAXIMA_000_080", "hash": "585685245BC9B3A8", "target": "Wiele czytałem o architekturze i geologii Domy... Słowa nie oddają im sprawiedliwości." },

@@ -4,12 +4,12 @@
   "entries": [
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_SEQ_00", "hash": "0C99ACF834F0B626", "target": "Archive czeka na relację o rozmaitych zabytkach architektury na wyspie." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_TODO_00", "hash": "F2B895313ECCEAAA", "target": "Zdobądź próbkę kamienia przesyconego eterem w Wanderer's Haven." },
-    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_TODO_01", "hash": "A3BCD391D2B230D2", "target": "Zdobądź próbkę kamienia przesyconego eterem w skrystalizowanych jaskiniach." },
+    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_TODO_01", "hash": "A3BCD391D2B230D2", "target": "Zdobądź próbkę kamienia przesyconego eterem w Crystallized Caverns." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_TODO_02", "hash": "247B7CF51C59EB21", "target": "Zdobądź próbkę kamienia przesyconego eterem w spowitym cieniem mieście." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_TODO_03", "hash": "4C5DB475B4E656A6", "target": "Dostarcz Archive'owi próbki kamienia przesyconego eterem." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_KETENRAMM_000_001", "hash": "E3C46DFA6B3CCF43", "target": "Wygląda na to, że na wyspie są nie tylko ruiny Amdaporu. Jeśli podczas wypraw natrafisz na inne budowle, zanotuj cechy ich architektury." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_002", "hash": "BF5B216300B8AFC1", "target": "Wróć do mnie po zbadaniu ruin trzech różnych stylów architektonicznych! Taka próba powinna wystarczyć." },
-    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_SYSTEM_000_005", "hash": "68AE2C121B06570B", "target": "Aby kontynuować to zadanie, musisz odblokować odpowiednie wpisy w Occult Record." },
+    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_SYSTEM_000_005", "hash": "68AE2C121B06570B", "target": "Aby kontynuować to zadanie, musisz odblokować odpowiednie wpisy w Dzienniku okultystycznym." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_010", "hash": "1E0071AF402C9B56", "target": "Nie sposób pomylić tego błysku w twoich oczach: cóż za cuda architektury musiały się im ukazać! Podziel się odkryciami." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_011", "hash": "F4E7DA49DCC3497A", "target": "Intrygujące... Nadmorskie budowle z twojej opowieści bez wątpienia pochodzą z Nymu. Wszędzie rozpoznałbym zaokrągloną architekturę mojej ojczyzny." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_012", "hash": "A5DFC9CBCC0835C9", "target": "Ogromna piramida opanowana przez pomioty Otchłani wygląda na dzieło inżynierów z Mhach. Może pamiętasz, że to starożytne miasto było kolebką czarnej magii. Natomiast opis komnat wyciętych w samej skale odpowiada stylowi Skalli." },
@@ -34,6 +34,6 @@
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_208", "hash": "1584919C456779A0", "target": "W tym właśnie rzecz. Nasz tajemniczy architekt <italic(1)>nie chciał<italic(0)> gości, ponieważ, eee..." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_KETENRAMM_000_209", "hash": "D081D60F54F469CD", "target": "To też zapieczętowane? Jak na samozwańczego mądrego starca, niezbyt wiele masz tej mądrości." },
     { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_ARCHIVE_000_210", "hash": "D5D8B3210DB76894", "target": "<split(<string(gstr1)>, ,1)>, obawiam się, że znów potrzebuję twoich oczu... i najwyraźniej nieskończonego apetytu na odkrycia. Wyrusz dalej i poszukaj niezbadanych dotąd ruin. Razem przywrócimy mojemu źródłu wiedzy dawną świetność!" },
-    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_SYSTEM_000_215", "hash": "24F62DFB5667DCAE", "target": "Aby podjąć kolejne zadanie, musisz odblokować odpowiednie wpisy w Occult Record." }
+    { "gameKey": "quest/053/KinGkd008_05316#TEXT_KINGKD008_05316_SYSTEM_000_215", "hash": "24F62DFB5667DCAE", "target": "Aby podjąć kolejne zadanie, musisz odblokować odpowiednie wpisy w Dzienniku okultystycznym." }
   ]
 }

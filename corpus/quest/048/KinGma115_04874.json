@@ -31,7 +31,7 @@
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_515", "hash": "780FF7B22B9FBBB5", "target": "W takim razie szykuj się na zostanie kupczynią!" },
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_516", "hash": "72A577D47AC8A22D", "target": "Patrz, już prawie jesteśmy!" },
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_017", "hash": "2C59282F82ECFA83", "target": "<if(gnum4,Dotarłyśmy,Dotarliśmy)>... i to bez ani jednego śmierdzącego incydentu." },
-    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_100_019", "hash": "7D333B0F10F7B597", "target": "Odesłałam alpaki do zajazdu Icuvlo's Inn, więc do wioski wrócimy główną drogą pieszo." },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_100_019", "hash": "7D333B0F10F7B597", "target": "Odesłałam alpaki do Gospody Icuvlo, więc do wioski wrócimy główną drogą pieszo." },
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_018", "hash": "1F48267B2407E853", "target": "Skoro mowa o własnej drodze... Zostałaś adoptowana przez Sługę Świtu, prawda, Trzecia Pretendentko?" },
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_019", "hash": "FBE09D96E8FF7A69", "target": "Tak było." },
     { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_020", "hash": "C0688B2000F41888", "target": "To może mnie zrozumiesz. Też byłam sierotą─Tobli mnie przygarnął. Właściwie przygarnął wszystkich pracowników hodowli." },

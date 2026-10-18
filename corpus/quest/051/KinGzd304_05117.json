@@ -19,7 +19,7 @@
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_SHIIDILJA_000_010", "hash": "BBD71B8811D52781", "target": "Robienie tych bomb trwało dłużej, niż sądziłam! Czy już je <if(gnum4,pani wypróbowała,pan wypróbował)>?" },
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_GOTOLLJA_000_020", "hash": "991D0857C4D5607D", "target": "Jak poszło? Zadziałały nasze bomby dymne?" },
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_SHIIDILJA_000_021", "hash": "50F2E2E61C09B3E5", "target": "Dzięki niebiosom! Teraz nie musimy już martwić się walką z wivre." },
-    { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_GOTOLLJA_000_022", "hash": "327E8EFA3791CD2E", "target": "Wzorowałem bomby na tych używanych przez koboldów za morzem. Proszę mi wierzyć, wyciągnęły mnie z niejednej trudnej sytuacji." },
+    { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_GOTOLLJA_000_022", "hash": "327E8EFA3791CD2E", "target": "Wzorowałem bomby na tych używanych przez lud Kobold za morzem. Proszę mi wierzyć, wyciągnęły mnie z niejednej trudnej sytuacji." },
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_GOTOLLJA_000_023", "hash": "C425905CA9A91570", "target": "Nigdy nie sądziłem, że kiedyś użyję ich w domu. He. Cieszę się." },
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_BAKOOLJA_000_024", "hash": "0AC360277C6DB91C", "target": "Jak rozumiem, bomby dymne okazały się sukcesem? Mam nadzieję, że podzielisz się z resztą z nas." },
     { "gameKey": "quest/051/KinGzd304_05117#TEXT_KINGZD304_05117_GOTOLLJA_000_025", "hash": "F3B01F96EB0DFD29", "target": "A po co hodowcy wivre środek odstraszający wivre?" },
