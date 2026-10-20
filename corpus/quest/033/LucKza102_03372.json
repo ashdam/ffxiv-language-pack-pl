@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza102_03372",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_00", "hash": "EB96BFA09C87A37B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Eueliss jest gotowa przyjąć kolejne zadanie Sai-Lewqa." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_01", "hash": "61BAA453998582EB", "target": "Eueliss pyta Sai-Lewqa o drugie zadanie, najwyraźniej związane z opieszałym Talosem. Podążaj za nią i uwolnij wskazanego Talosa od natrętnych drapieżników.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

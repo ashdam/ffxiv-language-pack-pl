@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/SubCts104_01411",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/014/SubCts104_01411#TEXT_SUBCTS104_01411_SEQ_00", "hash": "BC2A25A3993FBF17", "target": "Bloezoeng obserwuje cię ze swojego kąta. Masz wrażenie, że ma na myśli niebezpieczne zadanie." },
     { "gameKey": "quest/014/SubCts104_01411#TEXT_SUBCTS104_01411_SEQ_01", "hash": "F2AAE8496BD729B5", "target": "Twoje wędrówki prowadzą cię do Bloezoenga, miejscowego kucharza z Siódmego Nieba. Okazuje się, że macie wspólnego znajomego: Dyrstweitza, właściciela Latającego Rekina w Costa del Sol. Dyrstweitz poprosił o pomoc dla swojego przyjaciela Wheiskaeta. W imię przyjaźni odszukaj Wheiskaeta w rejonie Eastern La Noscea i dowiedz się, co go trapi." },

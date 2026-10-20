@@ -1,6 +1,6 @@
 {
   "sheet": "HousingPlacement",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "HousingPlacement#1", "hash": "17660DFA9277B380", "target": "Po umieszczeniu przedmiotu nie można już wystawić na sprzedaż.<br><colortype(508)><edgecolortype(509)>Następujące działania także mogą spowodować utratę niektórych części i wyposażenia:<br>  - Usunięcie tego przedmiotu przez innego gracza<br>  - Odejście lub usunięcie z wolnej kompanii<br>  - Zakończenie współdzielenia posiadłości<br>  - Wyburzenie posiadłości<edgecolortype(0)><colortype(0)><br><br>Na pewno chcesz kontynuować?" },
     { "gameKey": "HousingPlacement#2", "hash": "01A407570B89DD3E", "target": "Po umieszczeniu tego przedmiotu nie można go odzyskać.<br><colortype(508)><edgecolortype(509)>Następujące działania także mogą spowodować utratę niektórych części i wyposażenia:<br>  - Usunięcie tego przedmiotu przez innego gracza<br>  - Odejście lub usunięcie z wolnej kompanii<br>  - Zakończenie współdzielenia posiadłości<br>  - Wyburzenie posiadłości<edgecolortype(0)><colortype(0)><br><br>Na pewno chcesz kontynuować?" },

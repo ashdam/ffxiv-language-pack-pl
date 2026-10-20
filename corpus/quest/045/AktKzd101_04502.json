@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/AktKzd101_04502",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKzd101_04502#TEXT_AKTKZD101_04502_SEQ_00", "hash": "5ADD142CB2669923", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Galla rozgląda się wokół, lecz za czym... albo za kim?" },
     { "gameKey": "quest/045/AktKzd101_04502#TEXT_AKTKZD101_04502_SEQ_01", "hash": "89628958265410B0", "target": "Galla z I Legionu niedawno dotarła wraz z uchodźcami do Camp Broken Glass. Miała nadzieję, że będzie wśród nich mały rudowłosy chłopiec. Przed jej wyjazdem odmawiał opuszczenia Tertium i Galla sądzi, że zapewne nadal tam jest. Prosi o pomoc w przekonaniu go do dołączenia do rodaków w waszym obozie, gdzie otrzyma jedzenie i ciepło.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },

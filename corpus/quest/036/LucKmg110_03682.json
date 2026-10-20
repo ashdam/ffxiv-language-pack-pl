@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKmg110_03682",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SEQ_00", "hash": "515047F3B3BE6BD9", "target": "Alphinaud uśmiecha się z zadowoleniem. Wygląda na to, że sytuacja w Eulmore go cieszy." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SEQ_01", "hash": "78508AEE31EFB63A", "target": "Eulmore pozostaje w zdolnych rękach pana Chai, przyszłość rysuje się jasno, a nawet Kai-Shirr, który tyle wycierpiał, znalazł swoje miejsce i cel. Nadal jednak są problemy wymagające rozwiązania, przede wszystkim los twoich towarzyszy z grona Dziedziców. Alphinaud proponuje powrót do Crystarium. Ma nadzieję, że badania Beq Lugga przyniosły postęp." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzh101_03525",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh101_03525#TEXT_LUCKZH101_03525_SEQ_00", "hash": "7AB265958E1A85AD", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Horthur martwi się o jednego z górników." },
     { "gameKey": "quest/035/LucKzh101_03525#TEXT_LUCKZH101_03525_SEQ_01", "hash": "3F0AE4B9E3F32D44", "target": "Horthur, jedna z ważniejszych postaci wśród górników Twine, martwi się o Kee-Satta, jedynego Mystela w osadzie. Młodzieniec jest podobno opryskliwy i małomówny. Nie kopie też z innymi, wybierając miejsca, gdzie raczej nie znajdzie nic cennego. Horthur sądzi, że skoro Kee-Satt nie chce zwierzać się kolegom, może podzieli się troskami z kimś z zewnątrz, takim jak ty.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

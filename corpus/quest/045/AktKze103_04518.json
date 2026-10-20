@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/AktKze103_04518",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKze103_04518#TEXT_AKTKZE103_04518_SEQ_00", "hash": "5EC92F888E6EF3A6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Dreamingway pali się do następnego zadania, czymkolwiek by było." },
     { "gameKey": "quest/045/AktKze103_04518#TEXT_AKTKZE103_04518_SEQ_01", "hash": "A4A215089FD231AA", "target": "Kolejnym zadaniem Dreamingwaya jest naprawa automatu opiekuńczego. Potrzebuje do tego części zamiennych z Ostatniego Widoku Heimdalla. Pędzi bez namysłu, a tobie pozostaje ruszyć za nim, by zupełnie go nie zgubić.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },

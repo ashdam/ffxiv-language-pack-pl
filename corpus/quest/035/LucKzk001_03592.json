@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzk001_03592",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzk001_03592#TEXT_LUCKZK001_03592_SEQ_00", "hash": "3F12A96F47903FEC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Pracownik biura patrzy na ciebie jak na zagubione dziecko..." },
     { "gameKey": "quest/035/LucKzk001_03592#TEXT_LUCKZK001_03592_SEQ_01", "hash": "B52168EA9A7D33B2", "target": "Biuro Architekta zajmuje się między innymi zatwierdzaniem i regulacją „koncepcji” mieszkańców Amaurot. Najwyraźniej posiedli oni moc kreacji, nadając kształt wszystkiemu, co potrafią sobie wyobrazić. Aby dowiedzieć się więcej, pracownik zachęca cię do rozmowy z osobami czekającymi na rozpatrzenie zgłoszeń.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

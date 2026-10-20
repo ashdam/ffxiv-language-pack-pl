@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/AktKmh110_04535",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKmh110_04535#TEXT_AKTKMH110_04535_SEQ_00", "hash": "B0FC30FD19E79E46", "target": "Y'shtola rozważa kolejny etap przygotowań do wejścia do Otchłani." },
     { "gameKey": "quest/045/AktKmh110_04535#TEXT_AKTKMH110_04535_SEQ_01", "hash": "B2D284BE5BE1CCE9", "target": "Y'shtola, z ulgą przyjąwszy bezpieczny koniec doświadczenia, zastanawia się, jak najlepiej wzmocnić talizman przed waszą wyprawą do Otchłani. Nie chcąc dalej obciążać alchemików z Great Work, postanawiacie przedstawić problem placówce Kuźni Garlonda w Rhalgr's Reach. Jeśli ktokolwiek znajdzie rozwiązanie, będzie to Cid i jego pomysłowi inżynierowie." },

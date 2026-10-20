@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzi101_03556",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_00", "hash": "A8701C1D8690D23A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Beott wita cię w wiosce Tomra." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_01", "hash": "C09C0FDFA257775E", "target": "Beott wita cię we wiosce Tomra serdecznym „lali-ho”. Martwi ją jednak, że syn Ronitt nie przestrzega krasnoludzkich manier i grozi mu wykluczenie. Błaga o zaprzyjaźnienie się z niemiłym chłopcem, licząc, że niezwykła obecność obcej osoby wydobędzie go z kolczastej skorupy...<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

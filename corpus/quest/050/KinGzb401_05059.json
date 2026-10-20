@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzb401_05059",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_SEQ_00", "hash": "0EDB1144B8E278CC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Murfurlur szuka nowego klienta." },
     { "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_SEQ_01", "hash": "CB49F7C454D78F64", "target": "Choć pochwały po pierwszym zleceniu dodały mu otuchy, Murfurlur nie chce biernie czekać na nowych klientów. Zamierza ruszyć do Wachunpelo i sam oferować usługi. Nadal jednak obawia się, że przestraszy mieszkańców. Znów liczy na ciebie. Pyta, czy znasz kupców Pelupelu, którzy mogliby zechcieć wynająć ochroniarza. Na szczęście znasz odpowiednią osobę: Nopliego, który niedawno wszedł w posiadanie zapasu skażonych kryształów.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

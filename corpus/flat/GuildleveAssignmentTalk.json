@@ -1,6 +1,6 @@
 {
   "sheet": "GuildleveAssignmentTalk",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "GuildleveAssignmentTalk#1.30", "hash": "BBE019C313271D61", "target": "Witam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Zajmuję się wydawaniem zleceń guildleve." },
     { "gameKey": "GuildleveAssignmentTalk#1.31", "hash": "FA8F8ADC0520E44E", "target": "Przepraszam, <if(gnum4,proszę pani,proszę pana)>, ale nie wolno mi wydawać zleceń guildleve osobom, które dopiero zaczynają życie poszukiwacza przygód." },

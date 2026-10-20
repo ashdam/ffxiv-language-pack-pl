@@ -1,6 +1,6 @@
 {
   "sheet": "ContentsTutorialPage",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "ContentsTutorialPage#1", "hash": "E830D57B6DA83F15", "target": "<colortype(7)><edgecolortype(3)>Zasady walki na Bozjan Southern Front różnią się od tych, które znasz. Kolejne strony szczegółowo wyjaśniają, czego możesz się spodziewać na polu bitwy.<edgecolortype(0)><colortype(0)><br><br><colortype(14)>Przeczytaj je uważnie i dobrze zrozum, aby zyskać przewagę nad IV Legionem Imperium.<colortype(0)>" },
     { "gameKey": "ContentsTutorialPage#2", "hash": "0C061B19DF66DA33", "target": "<colortype(7)><edgecolortype(3)>■Synchronizacja poziomu<edgecolortype(0)><colortype(0)><br><br>Choć na Bozjan Southern Front można wejść od poziomu 71, podczas zadania wszyscy gracze zostają zsynchronizowani do poziomu 80. Poziom przedmiotów również jest odpowiednio dostosowywany.<br><br><colortype(14)>* Podczas zadania dostępne są także wszystkie akcje profesji odblokowywane do poziomu 80.<colortype(0)>" },

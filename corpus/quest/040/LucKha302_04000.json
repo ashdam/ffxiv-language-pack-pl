@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKha302_04000",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_SEQ_00", "hash": "9BE51B3F037E8A09", "target": "Conon chciałby poradzić się ciebie w sprawie urzeczywistnienia pewnego pomysłu." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_SEQ_01", "hash": "7DBA3FE08AD16E38", "target": "Conon dziękuje za wysłuchanie prośby i przedstawia plan, który chce zrealizować: uczcić zakończenie odbudowy i bezinteresowny wkład lorda Francela niespodziewanym koncertem okolicznościowym. Pozyskał już do tej sprawy Marcelloixa, a przedsiębiorczy zaopatrzeniowiec przygotował wiele instrumentów. Na koniec proponują coś, co uczyni tę okazję wyjątkową─chcą, <if(gnum4,byś wraz z Francelem zagrała,byś wraz z Francelem zagrał)> na scenie duet. Nie wiedzą jednak, jaki instrument młody lord lubi najbardziej. Na ich prośbę obiecujesz zapytać Foncrineau, by zdobyć potrzebną informację." },

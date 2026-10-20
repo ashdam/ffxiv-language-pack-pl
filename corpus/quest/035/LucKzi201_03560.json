@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzi201_03560",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi201_03560#TEXT_LUCKZI201_03560_SEQ_00", "hash": "0E17444FFF89E964", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Ronitt cieszy się na twój widok." },
     { "gameKey": "quest/035/LucKzi201_03560#TEXT_LUCKZI201_03560_SEQ_01", "hash": "664A5025621CB9FC", "target": "Ronitt ponownie dziękuje za pomoc w poprawie krasnoludzkich manier. Teraz ambitny kowal chce znaleźć porządny trunek, by należycie podsycić wynalazczy zapał. Wzmianka o piwie z Wright budzi jego ciekawość. Prosi o towarzyszenie mu w rozmowie z sołtysem wioski.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

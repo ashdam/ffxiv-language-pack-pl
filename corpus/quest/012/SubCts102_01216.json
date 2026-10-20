@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/SubCts102_01216",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_00", "hash": "37A97814F38D5D1B", "target": "Hugubert z Myta Upiora ma wieści, którymi chce podzielić się w największej tajemnicy." },
     { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_01", "hash": "E5763F351E21369D", "target": "Ściszonym głosem Hugubert opowiada o złych wieściach z kopalni Copperbell. Potworne olbrzymy, które miały zostać wyparte w mroczne głębiny, powróciły, a wielu pełnych nadziei górników zapłaciło życiem za zbyt szybki powrót do pracy. Informator zachęca cię do rozmowy z Kamienną Pochodnią strzegącą wejścia do kopalni w rejonie Western Thanalan, by sprawdzić, czy można zaradzić sytuacji." },

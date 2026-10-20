@@ -1,6 +1,6 @@
 {
   "conversation": "quest/043/AktKzk002_04355",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzk002_04355#TEXT_AKTKZK002_04355_SEQ_00", "hash": "1BDB85696A43DB4E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Dociekliwy przedstawiciel ludu Omicron pragnie zrozumieć pewne zjawisko." },
     { "gameKey": "quest/043/AktKzk002_04355#TEXT_AKTKZK002_04355_SEQ_01", "hash": "5AF3522EA3EBFE21", "target": "Dociekliwy przedstawiciel ludu Omicron prosi o pomoc w eksperymencie badającym, jak bliscy mogą pozytywnie wpływać na zdolności bojowe. Nie mogąc przepuścić takiej okazji, cierpliwie czekasz na jego powrót z wybranym „partnerem”.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },

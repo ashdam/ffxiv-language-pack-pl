@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzd401_05118",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd401_05118#TEXT_KINGZD401_05118_SEQ_00", "hash": "A87B3A3DC9ECE476", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Coś niepokoi Gotoll Ja." },
     { "gameKey": "quest/051/KinGzd401_05118#TEXT_KINGZD401_05118_SEQ_01", "hash": "6BE5E79D297F54C6", "target": "Gotoll Ja opowiada o dziwnym uzbrojonym Xbr'aal kręcącym się w pobliżu Mamook. Zważywszy na napiętą historię ich ludów, twój przyjaciel Mamool Ja liczy, że jako neutralna osoba trzecia bezpiecznie porozmawiasz z podejrzanym przybyszem.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

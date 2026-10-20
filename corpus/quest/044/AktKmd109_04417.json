@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/AktKmd109_04417",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_00", "hash": "D55D5C5CD1E8367C", "target": "Matsya patrzy na ciebie, jakby chciał coś powiedzieć." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_01", "hash": "654132632E2ECA91", "target": "Wioska Palaka's Stand zaznaje chwili spokoju, więc zostawiacie ją pod opieką Nidhany, Matsyi i alchemików. Ruszacie w stronę Radz<-->at<-->Han, zatrzymując się po drodze, by spotkać Estiniena." },

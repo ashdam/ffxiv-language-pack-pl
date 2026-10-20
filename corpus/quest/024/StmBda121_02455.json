@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/StmBda121_02455",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda121_02455#TEXT_STMBDA121_02455_SEQ_00", "hash": "3CDC9C5588B08F04", "target": "Meffrid zastanawia się, czy jeszcze go pamiętasz." },
     { "gameKey": "quest/024/StmBda121_02455#TEXT_STMBDA121_02455_SEQ_01", "hash": "F6B2046A264D3122", "target": "Meffrid, którego znasz z Quarrymill, choć zdaje się, że było to całe życie temu, opowiada o swoich późniejszych losach─jak rozwiązał oddział ruchu oporu w Gridanii, wrócił do Gyr Abanii i dołączył do ludzi Conrada w Rhalgr's Reach. Z czasem powierzono mu rekrutację. Teraz chce odwiedzić Ala Gannha─rodzinną wioskę Lyse. Gdy ona się o tym dowiaduje, nalega, by pójść z wami. Meffrid nie ma powodu odmawiać." },

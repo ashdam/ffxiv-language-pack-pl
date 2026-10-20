@@ -1,6 +1,6 @@
 {
   "conversation": "quest/031/StmBdg102_03185",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SEQ_00", "hash": "D4945FE9660AA6FC", "target": "Choć Raubahn wzywa pilnie, żołnierz Ruchu Oporu cierpliwie czeka na twój znak." },
     { "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_SEQ_01", "hash": "453A54D5962987E9", "target": "Żołnierz Ruchu Oporu informuje cię, że Raubahn jest gotów omówić strategię. Kiwasz głową, a on prowadzi cię do kwatery Sojuszu." },

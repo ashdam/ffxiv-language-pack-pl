@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzh001_05174",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzh001_05174#TEXT_KINGZH001_05174_SEQ_00", "hash": "77EAE32C258DB833", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Wytrwały przewodnik ma chyba niedokończoną sprawę." },
     { "gameKey": "quest/051/KinGzh001_05174#TEXT_KINGZH001_05174_SEQ_01", "hash": "475D8697771DC864", "target": "Na ulicach Canal Town spotykasz bardzo podekscytowanego młodego przewodnika. Chętnie opowiada, jak jego ostatnie zwiedzanie nagle dobiegło końca, gdy klienci przestali istnieć. Nie chce zostawić pracy niedokończonej, więc zaprasza cię na wycieczkę w ich miejsce. Prosi o spotkanie przy Fontannie Oddania.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/040/VoiceMan_04002",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_000010_TANSUI", "hash": "09499B7A7EB4C176", "target": "Panowie! Słyszałem, że nie przyjęliście zbyt życzliwie próśb mojego towarzysza." },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_000020_TANSUI", "hash": "9EDA01F9649836C9", "target": "Wiem, że Konfederacja i jej obyczaje nie budzą waszej sympatii. Ale jeśli odmówicie zapłaty Rubinowej Dziesięciny, nie możemy zapewnić wam bezpieczeństwa na tych wodach." },

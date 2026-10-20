@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/ChrHdb202_01316",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SEQ_00", "hash": "FD5CCCFD043EC817", "target": "Rozbity zabytkowy wazon nie powstrzyma inspektora Hildibranda przed wypełnieniem misji." },
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SEQ_01", "hash": "74E5FB1DC3922783", "target": "Według inspektora Hildibranda wazon może odtworzyć pewien mistrz złotnictwa─człowiek równie groźny, co utalentowany, w którego dłoniach młot jest narzędziem tworzenia i niszczenia. Złotnika zapewne znajdziesz w Bluefog, dokąd często udaje się po materiały. Rozpocznij tam poszukiwania wraz z towarzyszami─w tym nowo pozyskanym Gilgameshem i jego wierną towarzyszką Enkidu." },

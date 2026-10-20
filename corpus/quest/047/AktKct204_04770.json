@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/AktKct204_04770",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKct204_04770#TEXT_AKTKCT204_04770_SEQ_00", "hash": "07C020A3C117AD20", "target": "Grenoldt nie może się doczekać uczczenia olśniewających dokonań Chora-Zoi." },
     { "gameKey": "quest/047/AktKct204_04770#TEXT_AKTKCT204_04770_SEQ_01", "hash": "7B91D17C15AEC5B9", "target": "Z dumą w oczach Grenoldt ponownie dziękuje za twój ogromny wkład w dzieła Chora-Zoi. Uważa jednak, że same słowa to za mało, i proponuje <if(gnum4,wam obu,wam obojgu)> ucztę we Wędrownych Schodach. Wraz z Mowen i Quinnaną cieszycie się rzadką chwilą wytchnienia. Z zainteresowaniem obserwujecie, jak Grenoldt, mimowolnie ośmielony winem pomylonym z sokiem z fioletowej marchwi, próbuje wyrazić długo skrywane uczucia do Mowen, po czym pada na podłogę. Wspólnymi siłami pozostałej czwórki wleczecie legendarnego kowala do Crystalline Mean i czekacie, aż odzyska zmysły." },

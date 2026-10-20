@@ -1,6 +1,6 @@
 {
   "sheet": "MassivePcContentTextData",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "MassivePcContentTextData#101", "hash": "D89488D63CFC5378", "target": "Pomyślne usunięcie szkód jest już bliskie! Nie traćcie ducha podczas wykonywania swoich misji!" },
     { "gameKey": "MassivePcContentTextData#102", "hash": "EFB5142E884C8F2A", "target": "Dziękujemy wszystkim za sprawne naprawy i gratulujemy. Czerwony alarm został odwołany." },

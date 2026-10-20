@@ -1,6 +1,6 @@
 {
   "conversation": "quest/055/KinGkd101_05511",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/055/KinGkd101_05511#TEXT_KINGKD101_05511_SEQ_00", "hash": "BCF343BB5588DDF3", "target": "Posłaniec wyprawy chce z tobą porozmawiać." },
     { "gameKey": "quest/055/KinGkd101_05511#TEXT_KINGKD101_05511_SEQ_01", "hash": "782614478B243AC2", "target": "W porcie High Tide Harbor posłaniec wyprawy przedstawia podsumowanie twoich dotychczasowych przygód na Occult Crescent. Gdy tylko potwierdzasz zgodność opisu, prosi cię o powrót na wyspę, by sprawdzić, jak radzą sobie Ketenramm i załoga. Z głową pełną wspomnień poprzednich przygód na South Horn szykujesz się do kolejnej podróży ku odległym brzegom." },

@@ -1,6 +1,6 @@
 {
   "conversation": "content/DeepDungeonGacha",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "Choć sprawa potworów w ruinach jest bardzo ważna, pozostawię ją poszukiwaczom przygód. Bardziej interesują mnie jeszcze nieodkryte artefakty pogrzebane w środku." },
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "Były już wyprawy do ruin, prawda? Czy trafiły się osobliwe worki, szczelnie zamknięte magią pałacu? Aby poznać wartość tych skarbów, proszę przynieść je do mnie, a złamię pieczęć, która je zamyka." },

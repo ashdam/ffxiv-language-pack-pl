@@ -1,6 +1,6 @@
 {
   "sheet": "DynamicEvent",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "DynamicEvent#1.11", "hash": "851E96AC3B94E58F", "target": "Wypalić ogniem" },
     { "gameKey": "DynamicEvent#1.12", "hash": "E2281394847AAA61", "target": "Najnowszy podstęp Clarricie to posłanie do walki odrażającego potwora roślinnego o nazwie Peerifool. Sam jego mdlący smród odstraszy wszystkich prócz najdzielniejszych wojowników, a nawet oni z trudem zniosą jego nieustający napór." },

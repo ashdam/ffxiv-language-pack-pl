@@ -1,6 +1,6 @@
 {
   "conversation": "dungeon/000/DungeonTamtara_00000",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_000", "hash": "DE8C27ADFFC0D811", "target": "Patrz, Avere! Wszyscy ci ludzie przyszli, by podarować ci swoje dusze! Czyż to nie miłe z ich strony?" },
     { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_001", "hash": "8E682F23EF1C7899", "target": "Nawet <split(<string(gstr1)>, ,1)> tu jest! Teraz twoje marzenie, by stać się jak <if(gnum4,ona,on)>, może się spełnić!" },

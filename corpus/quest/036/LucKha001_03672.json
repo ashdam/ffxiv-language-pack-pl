@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKha001_03672",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_SEQ_00", "hash": "D93008F9A38FC5C3", "target": "Ogłoszenie w wyeksponowanym miejscu od razu przyciąga twoją uwagę." },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_SEQ_01", "hash": "7EF0FDE9C07058BC", "target": "Z ogłoszenia dowiadujesz się, że w ishgardzkiej dzielnicy Firmament rozpoczęto wielką odbudowę i potrzeba rąk do pracy. Zainteresowani mają zgłosić się do Thomelina w dzielnicy Brume, który zaprowadzi ich na miejsce." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/031/StmBdf102_03180",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_SEQ_00", "hash": "6FCF6FA7FCC51223", "target": "Wiadomości z Ala Mhigo wprawiły Alisaie w stan nerwowego oczekiwania." },
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_00", "hash": "5E7067AFA8264EEC", "target": "Porozmawiać ze strażnikiem Ruchu Oporu w Ala Mhigan Quarter" },
