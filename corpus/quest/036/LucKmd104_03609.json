@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKmd104_03609",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmd104_03609#TEXT_LUCKMD104_03609_SEQ_00", "hash": "250E6FC6BD60DC7B", "target": "Thancred najwyraźniej chce już opuścić lecznicę." },
     { "gameKey": "quest/036/LucKmd104_03609#TEXT_LUCKMD104_03609_SEQ_01", "hash": "33778B1672823BDC", "target": "Thancred prosi, by udać się do sali Ocular, podczas gdy on i Minfilia zgromadzą pozostałych Dziedziców na spotkanie. Przed rozstaniem przypomina ci o przekazaniu Egzarsze słów wsparcia od żołnierza─najlepiej na osobności, zanim przybędą inni." },

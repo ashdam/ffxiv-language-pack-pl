@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/AktKza201_04489",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_SEQ_00", "hash": "12D80E6A486D329E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Ogul rozgląda się z trwogą." },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_SEQ_01", "hash": "1017AC62CB48BCF7", "target": "Przerażona przybyciem na wyspę zamieszkaną przez lud Matanga, Ogul rozpaczliwie próbuje zarobić na podróż odpływającym statkiem. Prosi, by towarzyszyć jej u Kancany, kobiety, która podobno oferuje dobrze płatną pracę.<br><br>※Poziom trudności tego zadania dostosowano do twojego aktualnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzd101_03427",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd101_03427#TEXT_LUCKZD101_03427_SEQ_00", "hash": "9ED740F858F15F2C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Sandman chce cię o coś prosić, o ile zdoła dość długo nie zasnąć." },
     { "gameKey": "quest/034/LucKzd101_03427#TEXT_LUCKZD101_03427_SEQ_01", "hash": "53D459A6EBC63783", "target": "Młody amaro przybywa do Il Mheg, zwabiony kryształami przyzywającymi tych, u których przebudziły się dawno zapomniane zdolności gatunku. Nie spodziewa się jednak innych podobnych sobie i ucieka, gdy Sandman go wita. Ponieważ do niedawna służył ludziom, Sandman liczy, że zaufa tobie. Masz go odnaleźć i sprowadzić do Wolekdorf.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

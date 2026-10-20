@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/HeaVna202_01600",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_SEQ_00", "hash": "6A51FEE209DE94E5", "target": "Higiri chce ci pomóc." },
     { "gameKey": "quest/016/HeaVna202_01600#TEXT_HEAVNA202_01600_SEQ_01", "hash": "056E4968EB8CE11C", "target": "Higiri informuje, że Śmiałkowie Trzeciego Oddziału pod wodzą Yuyuhasego niedawno opuścili Wschodzące Kamienie. Ich cel to doprowadzić Raubahna na egzekucję. Udaj się do Highbridge i odszukaj Dowarego, który opowie ci o ruchach oddziału." },

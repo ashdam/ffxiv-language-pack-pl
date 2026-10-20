@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKmd107_03612",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmd107_03612#TEXT_LUCKMD107_03612_SEQ_00", "hash": "C5D3E690F52BFE29", "target": "Thaffe jest gotów poprowadzić was do Twine, gdzie możecie spotkać tajemniczego Magnusa." },
     { "gameKey": "quest/036/LucKmd107_03612#TEXT_LUCKMD107_03612_SEQ_01", "hash": "7D3DB954632B905F", "target": "Przed wyruszeniem do Twine rozmawiasz z Thaffem. Zastanawia go nieobecność towarzysza, o którym wiesz sporo, bo niedawno udało ci się go pokonać. Jeryk ma się nim zająć, a Thaffe poprowadzi was do miasteczka." },

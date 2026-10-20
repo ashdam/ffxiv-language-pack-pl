@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdc106_03027",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdc106_03027#TEXT_STMBDC106_03027_SEQ_00", "hash": "2E6FD0BE2AE91357", "target": "Alisaie zastanawia się, jak najlepiej wykorzystać przerwę w nużących negocjacjach." },
     { "gameKey": "quest/030/StmBdc106_03027#TEXT_STMBDC106_03027_SEQ_01", "hash": "865AC05E0DB05BB0", "target": "Alisaie proponuje odwiedzić mieszkańców Domy, gdy nadchodzi Yugiri w towarzystwie Asahiego. Podczas gdy lord Hien rozważa wymianę jeńców, Asahi chce zwiedzić Yanxia. A któż lepiej mógłby mu towarzyszyć niż <if(gnum4,sławna Wojowniczka,sławny Wojownik)> Światła? Choć w towarzystwie Yugiri z pewnością byłby bezpieczny, widać, że oboje liczą na twoją obecność. Zgadzasz się do nich dołączyć, podobnie jak Alisaie, i we czworo ruszacie do Monzen." },

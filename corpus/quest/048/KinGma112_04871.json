@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/KinGma112_04871",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/048/KinGma112_04871#TEXT_KINGMA112_04871_SEQ_00", "hash": "9070140860392FC6", "target": "Postać approachable Pelu czeka na twoje pytania." },
     { "gameKey": "quest/048/KinGma112_04871#TEXT_KINGMA112_04871_SEQ_01", "hash": "265B57560CBBA540", "target": "Dowiadujesz się od postaci approachable Pelu, że niedawna burza uczyniła drogę do regionu Urqopacha niemal nieprzejezdną. Oferuje jednak sposób na pokonanie trudnego terenu i każe podążyć za sobą." },

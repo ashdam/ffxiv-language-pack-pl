@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGze301_05144",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze301_05144#TEXT_KINGZE301_05144_SEQ_00", "hash": "A6ED615F6FB6F888", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Wesanpe z Sheshenewezi Springs nie może doliczyć się jednej osoby od transportu." },
     { "gameKey": "quest/051/KinGze301_05144#TEXT_KINGZE301_05144_SEQ_01", "hash": "F349DBA29BB3D23D", "target": "Jedna ze współpracownic Wesanpe przy wydobyciu ceruleum nie wróciła z wyprawy do Tuliyollal Trailhead, choć jej rroneek i wóz najwyraźniej pokonały drogę. Mężczyzna prosi cię o odszukanie śladów zaginionej Kayamene.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

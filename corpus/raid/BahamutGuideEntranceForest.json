@@ -1,6 +1,6 @@
 {
   "conversation": "raid/BahamutGuideEntranceForest",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "raid/BahamutGuideEntranceForest#TEXT_BAHAMUTGUIDEENTRANCEFOREST_ANAELLE_000_000", "hash": "AAABCCC1E209C87C", "target": "Na szczęście żadne siły imperialne nie blokują <if(gnum4,pani,panu)> drogi do tego fragmentu Dalamudu, ale proszę nie lekceważyć niebezpieczeństw czających się na zewnątrz. O zagrożeniach wewnątrz wiem niewiele. Poza boleśnie oczywistą radą, by przygotować się na najgorsze, trudno mi coś dodać." },
     { "gameKey": "raid/BahamutGuideEntranceForest#TEXT_BAHAMUTGUIDEENTRANCEFOREST_Q1_000_010", "hash": "92E70A01B3353958", "target": "Co chcesz zrobić?" },

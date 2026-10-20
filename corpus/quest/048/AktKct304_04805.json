@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/AktKct304_04805",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_SEQ_00", "hash": "261C6368E472452D", "target": "Grenoldt myśli o zobowiązaniach.<br>※Zmiana klasy lub profesji uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_SEQ_01", "hash": "6A199A7EE621C902", "target": "Po krótkim świętowaniu ukończenia twojego wspaniałego narzędzia Chora-Zoi szybko porusza temat przyszłego ślubu Grenoldta i Mowen. Choć legendarny kowal początkowo wątpi, czy będzie godnym małżonkiem, Mowen dodaje narzeczonemu otuchy. Oboje biorą ślub nad brzegiem Source. Wiedząc, że praca może ich rozdzielać, przysięgają sobie wierność z parą miniaturowych czajników. Po ceremonii wyczuwasz, że Grenoldt chce jeszcze z tobą porozmawiać i wyrazić wdzięczność za twój niezachwiany wysiłek we współpracy i dochowanie powierzonych sekretów.<br><br>※Pamiętaj, że postępy w tej misji wymagają tej samej klasy lub profesji, którą <if(gnum4,miałaś,miałeś)> podczas jej przyjęcia." },

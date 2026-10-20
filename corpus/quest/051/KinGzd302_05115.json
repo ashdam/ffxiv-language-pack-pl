@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzd302_05115",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd302_05115#TEXT_KINGZD302_05115_SEQ_00", "hash": "8DCCA1DA2C3244BB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Shiidil Ja chyba wie, od czego zacząć sprawę wivre." },
     { "gameKey": "quest/051/KinGzd302_05115#TEXT_KINGZD302_05115_SEQ_01", "hash": "B3C89A39AF6185A3", "target": "Shiidil Ja chce przeszukać miejsce ataku w poszukiwaniu wskazówek wyjaśniających agresję wivre. Ona lepiej zna teren, ale ty masz większe doświadczenie w odpieraniu rozdrażnionych bestii. Zgadzasz się więc usunąć zagrożenia z dróg prowadzących do cenoty za Gajem Golmajiik.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

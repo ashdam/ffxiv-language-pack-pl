@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/SubGsc107_03201",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/032/SubGsc107_03201#TEXT_SUBGSC107_03201_SEQ_00", "hash": "08B23B908AA31B7E", "target": "Sądząc po tym, jak Lewena zgrzyta zębami i mamrocze do siebie, coś wyraźnie ją niepokoi." },
     { "gameKey": "quest/032/SubGsc107_03201#TEXT_SUBGSC107_03201_SEQ_01", "hash": "532823A7673F94FA", "target": "Lewena, stała bywalczyni Gold Saucer, jest wyraźnie wzburzona. Przerywasz jej nerwowy monolog i dowiadujesz się, że powodem frustracji są przeciwnicy z jej ostatniej partii mahjonga. Ta niedawno sprowadzona z Domy gra przyciąga najróżniejszych uczestników, w tym samozwańcze mistrzynie takie jak Lewena. Z nadzieją, że zapewnisz jej godną rywalizację, radzi ci zasięgnąć informacji przy Manderville Tables." },

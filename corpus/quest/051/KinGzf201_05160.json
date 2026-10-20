@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzf201_05160",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf201_05160#TEXT_KINGZF201_05160_SEQ_00", "hash": "C97F458875122FF6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nakente jak zwykle martwi się o młodą podopieczną." },
     { "gameKey": "quest/051/KinGzf201_05160#TEXT_KINGZF201_05160_SEQ_01", "hash": "DFA4BA8FB266DDA6", "target": "Nakente prosi cię o poszukanie Shaloaci, młodej Shetona zarządzającej Yyupye's Halo. Ostatnio widziano ją samotnie idącą na wzgórze na wschód od gospodarstwa. Nakente obawia się, że może być w niebezpieczeństwie.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

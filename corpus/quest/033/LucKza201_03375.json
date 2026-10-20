@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza201_03375",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza201_03375#TEXT_LUCKZA201_03375_SEQ_00", "hash": "9B56776B309075FE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Ghen Gen wierci się jeszcze bardziej niż zwykle." },
     { "gameKey": "quest/033/LucKza201_03375#TEXT_LUCKZA201_03375_SEQ_01", "hash": "0E060F72E7A71C2F", "target": "Ghen Gen prosi o interwencję w sprawie syna, Ghun Guna. Młody Mord słynie z pracowitości, ale pracuje zbyt ciężko i odpoczywa tylko na wyraźne polecenie. Kupiec prosi, by udać się do Czerwonego Karawanseraju i nakłonić go do przerwy, zanim zapracuje się na śmierć.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

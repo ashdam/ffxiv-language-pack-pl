@@ -1,6 +1,6 @@
 {
   "sheet": "EventTutorialPage",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "EventTutorialPage#11.1", "hash": "EAB55E605DAD83A2", "target": "Na czym polega przenoszenie" },
     { "gameKey": "EventTutorialPage#11.2", "hash": "0329CD95882D0B85", "target": "Niektóre zadania wymagają przeniesienia przedmiotów we wskazane miejsce.<br><br>Podczas takiego zadania twoje akcje będą ograniczone i otrzymasz efekt statusu <colortype(506)><edgecolortype(507)>Transporting<edgecolortype(0)><colortype(0)>.<br><br>Uważaj na ataki, bo będą wyczerpywać twoje siły." },

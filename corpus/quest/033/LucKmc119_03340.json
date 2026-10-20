@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKmc119_03340",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_SEQ_00", "hash": "1B8114022ED107CD", "target": "Wejście do Qitana Ravel jest otwarte, a Almet chce wyprawić cię w drogę." },
     { "gameKey": "quest/033/LucKmc119_03340#TEXT_LUCKMC119_03340_SEQ_01", "hash": "26C378D43D7FE763", "target": "Eulmorańczycy zostali odparci. Almet namawia was, by dotrzeć do Qitana Ravel, nim zbiorą siły. Razem z Dziedzicami ruszacie na wschód szlakiem kwiatów wiodącym do wejścia." },

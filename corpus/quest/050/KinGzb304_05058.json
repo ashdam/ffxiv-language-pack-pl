@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzb304_05058",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_SEQ_00", "hash": "DF8D47524C3EC3A5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Murfurlur wreszcie zebrał odwagę, by rozpocząć nową karierę." },
     { "gameKey": "quest/050/KinGzb304_05058#TEXT_KINGZB304_05058_SEQ_01", "hash": "598E203B7656DA50", "target": "Nadeszła pora, by Murfurlur znalazł klienta. Chce, żeby jego wysiłki odbyły się na twoich oczach. Ponieważ rybacy Pelupelu czasem przechodzą przez Worlar's Echo w drodze do Karvarhur Pierwszej, Yok Huy sądzi, że któryś może zechcieć wynająć ochroniarza. Pozostaje mieć nadzieję, że się nie myli.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

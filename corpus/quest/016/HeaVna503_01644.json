@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/HeaVna503_01644",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_00", "hash": "283B0240E2D44D46", "target": "Alphinaud zamierza rozpocząć poszukiwania w Blue Window." },
     { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_01", "hash": "E9DE34A6A0EEA746", "target": "Alphinaud uważa, że pora na dobre przeszukać wyspy w poszukiwaniu <italic(1)>Soleil<italic(0)>. Podążaj za nim na wschód i użyj /lookout, by wypatrywać zaginionego statku powietrznego." },

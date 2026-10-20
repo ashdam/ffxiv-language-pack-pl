@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubRoc902_00017",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_00", "hash": "63215B3DD3EEE768", "target": "Voilinaut, przedstawiciel Gildii Poszukiwaczy Przygód przydzielający lokalne levequest w Placówce Whitebrim, szuka kogoś do wykonywania guildleve." },
     { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_01", "hash": "F95AD3690FE70BCB", "target": "Aby sprawdzić, czy poradzisz sobie z rozmaitymi guildleve, które ma do zaoferowania, Voilinaut wymaga wykonania zadania próbnego." },

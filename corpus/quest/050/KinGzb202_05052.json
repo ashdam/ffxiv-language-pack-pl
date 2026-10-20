@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzb202_05052",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_00", "hash": "07D05BD7363E55EF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nopli chce położyć kres niecnym planom niegodziwego handlarza." },
     { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_01", "hash": "DD4C2857E787CD4A", "target": "Aby nikt więcej nie padł ofiarą oszustwa, Nopli prosi cię o odnalezienie handlarza w Gospodzie Icuvlo. To Lalafell o imieniu Gigimolu.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
