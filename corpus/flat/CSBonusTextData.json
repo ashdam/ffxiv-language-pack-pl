@@ -2,15 +2,15 @@
   "sheet": "CSBonusTextData",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "CSBonusTextData#1", "hash": "E4FE765317D26796", "target": "Skarbiec moogle'a" },
-    { "gameKey": "CSBonusTextData#2", "hash": "DF9FF2AFC2137C4C", "target": "Pierwsze łowy na genezę" },
-    { "gameKey": "CSBonusTextData#3", "hash": "3A9F658BAAC28CA3", "target": "Drugie łowy na genezę" },
-    { "gameKey": "CSBonusTextData#4", "hash": "02D74CA4FA519C58", "target": "Łowy na goetię" },
-    { "gameKey": "CSBonusTextData#5", "hash": "E58E44A96433407F", "target": "Łowy na fantasmagorię" },
-    { "gameKey": "CSBonusTextData#6", "hash": "481F6927BB4FAFCC", "target": "Łowy na alegorię" },
-    { "gameKey": "CSBonusTextData#7", "hash": "B07C2C6BCA76231D", "target": "Łowy na objawienie" },
-    { "gameKey": "CSBonusTextData#8", "hash": "F4B7063AD2F62AE7", "target": "Łowy na aforyzmy" },
-    { "gameKey": "CSBonusTextData#9", "hash": "83A1A374B64B6B4D", "target": "Pierwsze łowy na astronomię" },
-    { "gameKey": "CSBonusTextData#10", "hash": "A7D661A4AC0EA2A2", "target": "Drugie łowy na astronomię" }
+    { "gameKey": "CSBonusTextData#1", "hash": "E4FE765317D26796", "target": "Kolekcja MogMog" },
+    { "gameKey": "CSBonusTextData#2", "hash": "DF9FF2AFC2137C4C", "target": " — Stworzenie nowego wymiaru, cz. 1" },
+    { "gameKey": "CSBonusTextData#3", "hash": "3A9F658BAAC28CA3", "target": " — Stworzenie nowego wymiaru, cz. 2" },
+    { "gameKey": "CSBonusTextData#4", "hash": "02D74CA4FA519C58", "target": " — Złoty grymuar" },
+    { "gameKey": "CSBonusTextData#5", "hash": "E58E44A96433407F", "target": " — Spotkanie z fantazją" },
+    { "gameKey": "CSBonusTextData#6", "hash": "481F6927BB4FAFCC", "target": " — Badacze osobliwych opowieści" },
+    { "gameKey": "CSBonusTextData#7", "hash": "B07C2C6BCA76231D", "target": " — Drogowskaz ku objawieniu" },
+    { "gameKey": "CSBonusTextData#8", "hash": "F4B7063AD2F62AE7", "target": " — Święte pismo we mgle" },
+    { "gameKey": "CSBonusTextData#9", "hash": "83A1A374B64B6B4D", "target": " — Droga ku astronomii, cz. 1" },
+    { "gameKey": "CSBonusTextData#10", "hash": "A7D661A4AC0EA2A2", "target": " — Droga ku astronomii, cz. 2" }
   ]
 }

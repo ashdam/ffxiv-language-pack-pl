@@ -1,0 +1,341 @@
+{
+  "sheet": "GcArmyExpedition",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "GcArmyExpedition#1.8",
+      "hash": "3B8332A212A94E81226132A7750D780F685F2CF1A16A6950137FF10E85AAADCE",
+      "target": "Patrol miasta"
+    },
+    {
+      "gameKey": "GcArmyExpedition#1.9",
+      "hash": "68F10A0F546267CEBF139851BDB71ACDAA5A335FF544F56E188E881CB45BE057",
+      "target": "Przeprowadzić regularny patrol <switch(lnum1,Limsy Lominsy,Gridanii,Ul'dah)>. Odwiedzić wskazane punkty i zapewnić bezpieczeństwo w mieście."
+    },
+    {
+      "gameKey": "GcArmyExpedition#2.8",
+      "hash": "92EAF61F72AE7D839BFA7EB3790F171ACA901625D8F061D326C83F807886752B",
+      "target": "Meldunek do posterunku"
+    },
+    {
+      "gameKey": "GcArmyExpedition#2.9",
+      "hash": "7D2EF1DED94580740421FCF135F3551EC91F388C66984AEF0FC4E356BCAF7CD9",
+      "target": "Udać się z meldunkiem do <switch(lnum1,Bramy De Nevelle,Obozu Szkoleniowego Bannock,Przejścia Sagolii)>. Dostarczyć dokumenty wojskowe oddziałowi stacjonującemu w tym miejscu."
+    },
+    {
+      "gameKey": "GcArmyExpedition#3.8",
+      "hash": "CFBD664576CE0266C12B32B54FB7B391E0578D747BAE24094A4322461EA6CAB4",
+      "target": "Patrol dróg wokół miasta"
+    },
+    {
+      "gameKey": "GcArmyExpedition#3.9",
+      "hash": "259604D9616866358F62055F50BBA92D26E4D2A60AA4C6FDEE488EA959FE72DB",
+      "target": "Patrolować główne drogi w <switch(lnum1,Centralnej La Noscei,centralnej części Czarnego Lasu,Centralnym Thanalanie)>. Niezwłocznie eliminować potwory zagrażające mieszkańcom, podróżnym i karawanom."
+    },
+    {
+      "gameKey": "GcArmyExpedition#4.8",
+      "hash": "34BA0B649D540A203DBEEE4C6E2400F99FD5E2D06B896C385E70B37B103632B1",
+      "target": "Rozpoznanie wojsk plemiennych"
+    },
+    {
+      "gameKey": "GcArmyExpedition#4.9",
+      "hash": "F66AFDE5B4BB08FBCDD90DF3BBB68649A5D7BE5F49D8205A084C70932913CBE4",
+      "target": "Otrzymano doniesienia o <switch(lnum1,koboldach w Dolnej La Noscei,Ixalach w Południowym Czarnym Lesie,Amalj'aa w Centralnym Thanalanie)>. Natychmiast udać się na miejsce, rozpoznać ruchy wroga i zdać raport."
+    },
+    {
+      "gameKey": "GcArmyExpedition#5.8",
+      "hash": "2FF7F043F691484FF29AA0243ACE9BED1F1986E53EBB568BD6CFF7A30680BB92",
+      "target": "Eskorta oddziału zaopatrzenia"
+    },
+    {
+      "gameKey": "GcArmyExpedition#5.9",
+      "hash": "921CE9550FF2CE08F832C4ED22AE8ADC9F8F0E65482C657C80BC173CC7788625",
+      "target": "Eskortować oddział zaopatrzenia do <switch(lnum1,Obozu w Dolinie Czaszek,posterunku obserwacyjnego Amarise,Obozu Drybone)>. Przez cały czas zachować czujność i zapewnić bezpieczeństwo konwoju."
+    },
+    {
+      "gameKey": "GcArmyExpedition#6.8",
+      "hash": "9EA057B4C2E81F6C080C67C20A1A643520CAE694AA182AF957F47FF3198907C2",
+      "target": "Likwidacja szkodników"
+    },
+    {
+      "gameKey": "GcArmyExpedition#6.9",
+      "hash": "365B8BC03A0243FA68F8D34DC97856A5CC4F766EB2320AE5E7D7AC3C13D73624",
+      "target": "Mieszkańcy <switch(lnum1,Centralnej La Noscei,centralnej części Czarnego Lasu,Centralnego Thanalanu)> proszą o likwidację <switch(lnum1,goobbue,treantów,olbrzymich żółwi)>. Natychmiast udać się na miejsce i powstrzymać dalsze szkody."
+    },
+    {
+      "gameKey": "GcArmyExpedition#7.8",
+      "hash": "F6CA763423EDFA73A38DFD2FAAB709B736AAC0555F21640E3CA8A56C6ABE493A",
+      "target": "Kluczowa misja: pomniejsze istoty Pustki"
+    },
+    {
+      "gameKey": "GcArmyExpedition#7.9",
+      "hash": "538710846DC34CE712C9017C13168FAABE51A1D04DBB93D6DD88B99393A9C1FC",
+      "target": "W <switch(lnum1,Dolinie Szeptów,Więzieniu Warren,Studni Nophiki)> dostrzeżono cienie przypominające pomniejsze istoty Pustki. Zlekceważone mogą zagrozić mieszkańcom. Natychmiast udać się na miejsce i zgładzić je wszystkie."
+    },
+    {
+      "gameKey": "GcArmyExpedition#8.8",
+      "hash": "CECED20741A092113E9E09C2D50C91C0801522B42799730190ED70E3C632A002",
+      "target": "Wsparcie oddziałów frontowych"
+    },
+    {
+      "gameKey": "GcArmyExpedition#8.9",
+      "hash": "04CCF2FD656CDB3D8CD71434E1A0443BA837B4CE1D11D69D4ACFBEA5CF6D3E6D",
+      "target": "Garnizon w <switch(lnum1,Obozie w Dolinie Czaszek,posterunku obserwacyjnym Eugenii,Małym Ala Mhigo)> prosi o wsparcie. Pomóc miejscowym oddziałom w odparciu <switch(lnum1,koboldów,Ixalów,Amalj'aa)>."
+    },
+    {
+      "gameKey": "GcArmyExpedition#9.8",
+      "hash": "E0AEA39BA821D855F5144BF341879EECA0DB6BC2816477BD067D349C5C3D74A2",
+      "target": "Eskorta oficera"
+    },
+    {
+      "gameKey": "GcArmyExpedition#9.9",
+      "hash": "435D5678428DF24A984CEE6880393BEBD992D9E20E2934DB287699268E1303E1",
+      "target": "Oficer <switch(lnum1,Zakonu Bliźniaczej Żmii,Oddziału Nieśmiertelnych,Zakonu Czarnego Wiru)> przybędzie do naszego miasta na ważne spotkanie. Powitać go na lądowisku i zapewnić mu przewodnictwo oraz eskortę przez cały pobyt."
+    },
+    {
+      "gameKey": "GcArmyExpedition#10.8",
+      "hash": "3C9161D7203B89243D5E6ACECF358C62B352C224346878FF418F81BD1BC3EA5E",
+      "target": "Patrol odległych dróg"
+    },
+    {
+      "gameKey": "GcArmyExpedition#10.9",
+      "hash": "E395DC95EA846795C54CBC40C4A6826D26430C917DD8FA36A0089D4AC2660A66",
+      "target": "Patrolować główne drogi w <switch(lnum1,Wschodniej La Noscei,Południowym Czarnym Lesie,Południowym Thanalanie)>. Zachować czujność i chronić szlaki niezbędne do przewozu zaopatrzenia."
+    },
+    {
+      "gameKey": "GcArmyExpedition#11.8",
+      "hash": "F8DDF9431A500666550A1619E9EAD49FA3555506FFF5374E3E4F4938F75834DB",
+      "target": "Rozpoznanie bojem twierdzy"
+    },
+    {
+      "gameKey": "GcArmyExpedition#11.9",
+      "hash": "ABB96CBEF1B4A46477944D4B816F836FBCE34C9EAA9B388D0CDC91B2514A6D18",
+      "target": "Przeprowadzić rozpoznanie bojem <switch(lnum1,wykopalisk koboldów,obozu drwali Ixalów,obozu wojsk Amalj'aa)>. Spodziewane jest przeciwdziałanie wrogich plemion. Odpierać ataki i przywieźć zdobyte informacje."
+    },
+    {
+      "gameKey": "GcArmyExpedition#12.8",
+      "hash": "F76C7200E0DF81CF0988BF947B9665B8E99FBB5B4D2735029884969574F5F55C",
+      "target": "Poszukiwanie zaginionych"
+    },
+    {
+      "gameKey": "GcArmyExpedition#12.9",
+      "hash": "8FC14AE5E880789B31F497D575026AF70AB99B403DA4A8FCBF92FE67F03F0E18",
+      "target": "Żołnierze sojuszniczego oddziału zaginęli w <switch(lnum1,Zewnętrznej La Noscei,Północnym Czarnym Lesie,Północnym Thanalanie)>. Ze względu na silne wpływy wroga szybko przeprowadzić poszukiwania i akcję ratunkową."
+    },
+    {
+      "gameKey": "GcArmyExpedition#13.8",
+      "hash": "DA215C5A38B25251EF7F12122D985C14F8057158F8FB5D87321C2F03875D6715",
+      "target": "Wspólne manewry sojuszników"
+    },
+    {
+      "gameKey": "GcArmyExpedition#13.9",
+      "hash": "ABD17651EBE4E5CFCE5EB78D9AFC558D74223948F479C5CA76C9418427C93DA6",
+      "target": "Odbędą się wspólne manewry z <switch(lnum1,Oddziałem Nieśmiertelnych,Zakonem Czarnego Wiru,Zakonem Bliźniaczej Żmii)>. Wziąć w nich udział jako przedstawiciele <switch(lnum1,Zakonu Czarnego Wiru,Zakonu Bliźniaczej Żmii,Oddziału Nieśmiertelnych)> i dowieść doskonałości naszej armii."
+    },
+    {
+      "gameKey": "GcArmyExpedition#14.8",
+      "hash": "1AC606849465147FE7848FE9DA1F11729BF1E7057267DF5FBCFF7E2F511C0BF3",
+      "target": "Kluczowa: zdobądź kryształy"
+    },
+    {
+      "gameKey": "GcArmyExpedition#14.9",
+      "hash": "635ADEEA4C4B86488333E0F51B539817FD5DB1D6930636C2C42FD8AAC8DA59FA",
+      "target": "Aby udaremnić przyzwanie <switch(lnum1,Titana,Garudy,Ifrita)> przez wrogie plemiona, rozpoczęto operację zdobycia kryształów w <switch(lnum1,wykopaliskach koboldów,obozie drwali Ixalów,obozie wojsk Amalj'aa)>. We współpracy z sojuszniczymi oddziałami przeniknąć do twierdzy i przejąć cel operacji."
+    },
+    {
+      "gameKey": "GcArmyExpedition#15.8",
+      "hash": "1AC606849465147FE7848FE9DA1F11729BF1E7057267DF5FBCFF7E2F511C0BF3",
+      "target": "Kluczowa: zdobądź kryształy"
+    },
+    {
+      "gameKey": "GcArmyExpedition#15.9",
+      "hash": "635ADEEA4C4B86488333E0F51B539817FD5DB1D6930636C2C42FD8AAC8DA59FA",
+      "target": "Aby udaremnić przyzwanie <switch(lnum1,Titana,Garudy,Ifrita)> przez wrogie plemiona, rozpoczęto operację zdobycia kryształów w <switch(lnum1,wykopaliskach koboldów,obozie drwali Ixalów,obozie wojsk Amalj'aa)>. We współpracy z sojuszniczymi oddziałami przeniknąć do twierdzy i przejąć cel operacji."
+    },
+    {
+      "gameKey": "GcArmyExpedition#16.8",
+      "hash": "78C0372C4D7ED77149722A9DA87B5C103DCF02F6D20045F5293B30B9584F30DC",
+      "target": "Szturm na twierdzę"
+    },
+    {
+      "gameKey": "GcArmyExpedition#16.9",
+      "hash": "8B68CCD355AB4DC1A82833FB2A99A11E41256C3267D3F4257850F0BE6960CE9A",
+      "target": "Rozpoczęto szturm na <switch(lnum1,Uzbrojone Kopalnie U'Ghamaro,osadę Natalan,obóz wojenny Zahar'ak)>. Natychmiast połączyć się z sojuszniczymi oddziałami i wziąć udział w operacji."
+    },
+    {
+      "gameKey": "GcArmyExpedition#17.8",
+      "hash": "8DA5018D0601D5537EC4043CA797BBD480A0E50BEDC8EE4B5B9E7A601541D0D0",
+      "target": "Rozbicie nielegalnego handlu bronią"
+    },
+    {
+      "gameKey": "GcArmyExpedition#17.9",
+      "hash": "49FE31237912394218E069F68C0D09A7DF35855874BC097873C442993ADD3955",
+      "target": "Wywiad donosi o planowanej nielegalnej sprzedaży broni. Udać się na wskazane miejsce transakcji i zatrzymać wszystkich przestępców."
+    },
+    {
+      "gameKey": "GcArmyExpedition#18.8",
+      "hash": "AEF8084A1A32A8466B3C2244026FD0E9F3E24C6007353E2DD5D4AD944B3798A6",
+      "target": "Zbrojne rozpoznanie bazy"
+    },
+    {
+      "gameKey": "GcArmyExpedition#18.9",
+      "hash": "A6B8D2581213E002D4BE2BA68E3445A808DC86BE515478B9CD086CCDCCF74D5B",
+      "target": "Przeprowadzić rozpoznanie bojem w okolicach <switch(lnum1,Castrum Occidens,Castrum Centri,Castrum Meridianum)>. Przywieźć szczegółowe informacje o ruchach miejscowych wojsk imperium."
+    },
+    {
+      "gameKey": "GcArmyExpedition#19.8",
+      "hash": "35D299C92DD6FE8DA5E46FADBFF333247AE52526A2115D50E93134361EA630EC",
+      "target": "Pościg za dezerterem imperium"
+    },
+    {
+      "gameKey": "GcArmyExpedition#19.9",
+      "hash": "9026C1F5BDBD2A6DA77BEEEDB54ED4D02D1E8A9771757D62875BE2C380CCE98A",
+      "target": "W <switch(lnum1,Wschodniej La Noscei,wschodniej części Czarnego Lasu,Północnym Thanalanie)> zauważono osobę, która może być dezerterem imperium. Natychmiast udać się na miejsce, odszukać podejrzanego i go zatrzymać."
+    },
+    {
+      "gameKey": "GcArmyExpedition#20.8",
+      "hash": "B4F7965D40EF4AFD6FDD236F72267FF2F964A1B762B9687EE6C31084B011A925",
+      "target": "Atak wiążący: imperium"
+    },
+    {
+      "gameKey": "GcArmyExpedition#21.8",
+      "hash": "A488DE761691486844C06D98F681CF896C42BBC46365BBB501337D3FA0B803F7",
+      "target": "Odcięcie dostaw plemion"
+    },
+    {
+      "gameKey": "GcArmyExpedition#21.9",
+      "hash": "93F4BFE155DB63F5912F413A29BDFEFCE343C2AA4FCA6EC9A037CCB494F98088",
+      "target": "Rozpocznie się operacja z udziałem znacznych sił w celu przecięcia <switch(lnum1,szlaków zaopatrzenia Sahaginów w Zachodniej La Noscei,szlaków zaopatrzenia Ixalów w Północnym Czarnym Lesie,szlaków zaopatrzenia Amalj'aa w Południowym Thanalanie)>. Wziąć w niej udział zgodnie z rozkazami <switch(lnum1,dowództwa marynarki,zjednoczonego dowództwa,sztabu operacyjnego)>."
+    },
+    {
+      "gameKey": "GcArmyExpedition#22.8",
+      "hash": "1D1B07DCFA79BEDD761A535CD693DF73CC7C1F1CBBE4FF4B924B803C1FC23D5E",
+      "target": "Pościg za przestępcą"
+    },
+    {
+      "gameKey": "GcArmyExpedition#22.9",
+      "hash": "7CBDEA170D4F32DD492A099A1EF16CD63BC9395C30424BF4A54BFA7599C7057E",
+      "target": "Przestępcę poszukiwanego przez <switch(lnum1,Oddział Nieśmiertelnych,Zakon Czarnego Wiru,Zakon Bliźniaczej Żmii)> podobno widziano w <switch(lnum1,La Noscei,Czarnym Lesie,Thanalanie)>. Ścigać go we współpracy z oficerem specjalnym <switch(lnum1,Oddziału Nieśmiertelnych,Zakonu Czarnego Wiru,Zakonu Bliźniaczej Żmii)>."
+    },
+    {
+      "gameKey": "GcArmyExpedition#23.8",
+      "hash": "0ADBB8B4B6A04AD5F3047C0B0A01487FF75D3A1D77EC2F612368C65579D5B805",
+      "target": "Rozbij konwój imperium"
+    },
+    {
+      "gameKey": "GcArmyExpedition#23.9",
+      "hash": "44A2FD55343DAE79BFCDA2BD8DF3BC37D3568468FB6C34718EBEC837ACD65667",
+      "target": "Wywiad dostarczył ważne informacje o oddziale zaopatrzenia imperium. Zniszczyć wrogi oddział zmierzający do <switch(lnum1,Castrum Occidens,Castrum Centri,Castrum Meridianum)>."
+    },
+    {
+      "gameKey": "GcArmyExpedition#24.8",
+      "hash": "8BAF0DF82951A45EA1B662C75DDA8EB07EE0A65336F567ABFBB87AB40BEC50FC",
+      "target": "Likwidacja chimerycznych istot"
+    },
+    {
+      "gameKey": "GcArmyExpedition#24.9",
+      "hash": "432448D052EC168362FC5DC1AD3699F6CA1E4F0E0F216D1974A629AE08ACF0FF",
+      "target": "Na naszym terytorium widziano odrażające chimeryczne istoty. Wytropić <switch(lnum1,minotaura imponujących rozmiarów,lamię władającą potężną magią,niezwykle zaciekłą chimerę)> i bezwzględnie ją zgładzić."
+    },
+    {
+      "gameKey": "GcArmyExpedition#25.8",
+      "hash": "82774A3907566599AAF49395AAA781D5372CF1B7276FDCA0ED1E214AE5D17423",
+      "target": "Wspólna operacja ze Świtem"
+    },
+    {
+      "gameKey": "GcArmyExpedition#25.9",
+      "hash": "20CD04FB1D4133D9725546D48D151BB40F0FE92D3E6265CED2767EC29403D6A6",
+      "target": "We współpracy z Przymierzem Krwi Świtu zbadać oznaki przyzywania bóstw przez <switch(lnum1,koboldy,Ixalów,Amalj'aa)>. Dołączyć do należącej do tej organizacji osoby: <switch(lnum1,Slafswys,Dariustel,Alianne)> i działać według jej poleceń."
+    },
+    {
+      "gameKey": "GcArmyExpedition#26.8",
+      "hash": "21C0599CF38A931D335F8513610701F69E9CE913A7E12BF68BF6D9A2417FE303",
+      "target": "Taktyka przeciw broni magitekowej"
+    },
+    {
+      "gameKey": "GcArmyExpedition#26.9",
+      "hash": "96135BBE1C9E6E5ADF3FE575761579FAF409FBB03B038218F3B5C564C995B53F",
+      "target": "Odbędą się ćwiczenia bojowe z użyciem zdobycznej broni magitekowej imperium. Nasza eskadra ma wziąć w nich udział, aby opracować skuteczniejszą taktykę walki z taką bronią."
+    },
+    {
+      "gameKey": "GcArmyExpedition#27.8",
+      "hash": "484600A2B017C577D6DC750FBD5A4E10661D20C8E361CFD20F05125E7559F450",
+      "target": "Ratowanie zakładników"
+    },
+    {
+      "gameKey": "GcArmyExpedition#27.9",
+      "hash": "3094F47AD461170BF230892679586428EE2B5ADB491DDAB9C5EE6D4A5F825FAF",
+      "target": "Doniesiono o porwaniu cywilów przez <switch(lnum1,piratów Języków Węża Morskiego podległych Sahaginom,oddział opancerzonych balonów Ixalów,porywaczy Amalj'aa zwanych Płomiennymi Kłami)>. Przeniknąć do twierdzy wroga i uwolnić zakładników, zanim zostaną złożeni w ofierze bóstwu."
+    },
+    {
+      "gameKey": "GcArmyExpedition#28.8",
+      "hash": "DD85E9B5DA331C53738A6AAF5B5472780B25DE143117C62250B4200BD674D08F",
+      "target": "Rozbicie uzbrojonej bandy"
+    },
+    {
+      "gameKey": "GcArmyExpedition#28.9",
+      "hash": "BB2795BBE9CC819C4BA8C88760F36F590D2127D9D4B51E1E5731639FB82291DA",
+      "target": "Uzbrojona banda, prawdopodobnie odłam <switch(lnum1,grupy bojowej Mamool Ja,kłusowników zwanych Pazurami Coeurlów,Brygady Trupów — dawnej straży królewskiej Ala Mhigo)>, dopuszcza się bezprawnych działań na naszym terytorium i stanowi poważne zagrożenie. Natychmiast udać się na miejsce i ją rozbić."
+    },
+    {
+      "gameKey": "GcArmyExpedition#29.8",
+      "hash": "CE0993B129A59D66C37B382CA620BDAAC49477A9F38ABC1815ADCABAD6D66549",
+      "target": "Rozbicie nielegalnej sekty"
+    },
+    {
+      "gameKey": "GcArmyExpedition#29.9",
+      "hash": "E3E8E4DBBA5F729B2504A8585B0AA577FC662A6F638AF95EE12A5713547CEDAD",
+      "target": "Apokaliptyczna sekta Ostatni Lud nadal prowadzi nielegalny werbunek. Udając zwykłych mieszkańców, patrolować <switch(lnum1,Limsę Lominsę,Gridanię,Ul'dah)> i zatrzymać członków sekty próbujących was zwerbować."
+    },
+    {
+      "gameKey": "GcArmyExpedition#30.8",
+      "hash": "49A7F5114C545AA04B6D6D50C22A147CCAE0193920EE5DE4068623264A28F95E",
+      "target": "Pustka: nielegalne przyzwania"
+    },
+    {
+      "gameKey": "GcArmyExpedition#30.9",
+      "hash": "134D29698193303496614FC54D2971126731540E832BBFE5C504E82C2400C9D8",
+      "target": "Na naszym terytorium zauważono bezprawnie przyzwane istoty Pustki. Wytropić i bezwzględnie zgładzić <switch(lnum1,istotę typu sukkub,istotę typu trubadur,istotę typu Anchag)>."
+    },
+    {
+      "gameKey": "GcArmyExpedition#31.8",
+      "hash": "5DFED9005D94AE8838D925BE8CB4ACD2DE353FF8711B87396A636498BDD5C403",
+      "target": "Zniszczenie porzuconej broni"
+    },
+    {
+      "gameKey": "GcArmyExpedition#31.9",
+      "hash": "6DE312AC85E236B20CBC154082019B29ED8F7AB95153C75A265615493ABEAE34",
+      "target": "Porzucona przez imperium broń magitekowa z nieznanej przyczyny wymknęła się spod kontroli i zagraża naszemu terytorium. Natychmiast udać się na miejsce i we współpracy z oficerem specjalnym zniszczyć cel."
+    },
+    {
+      "gameKey": "GcArmyExpedition#32.8",
+      "hash": "D1F7BDF4168632B3C500A755BDBAEBBC2DFBAB5DED40D89D1B95BF4BA18B2364",
+      "target": "Usunięcie grupy goblinów"
+    },
+    {
+      "gameKey": "GcArmyExpedition#32.9",
+      "hash": "C0A82F6B89B3D176B40417DF1446A325D44A3D04EBAC12868BEA928D334F9940",
+      "target": "Odłam goblińskich naukowców z Błękitnej Ręki prowadzi na naszym terytorium próby broni mechanicznej. Natychmiast udać się na miejsce i powstrzymać niezatwierdzone eksperymenty."
+    },
+    {
+      "gameKey": "GcArmyExpedition#33.8",
+      "hash": "F77B2E9825AD11683BD30EF940FE67E46687B30934C69E3917A1ABEF1B7E7A5B",
+      "target": "Fałszywy sierżant Żmii"
+    },
+    {
+      "gameKey": "GcArmyExpedition#33.9",
+      "hash": "26E11AE9CAD1239B6FDA8F5E79D6563604AEC35C151D21DDE1C87F515CF33032",
+      "target": "Rosły mężczyzna podający się za sierżanta Zakonu Bliźniaczej Żmii z Gridanii zastrasza niewinnych mieszkańców głośnymi groźbami. W imię honoru armii Sojuszu Eorzei zatrzymać fałszywego sierżanta."
+    },
+    {
+      "gameKey": "GcArmyExpedition#34.8",
+      "hash": "8C949A76F6AC661C4C7098DA27F8CD62F4B7DD99420D763EDAD84A1E6DA30C4E",
+      "target": "Kluczowa: siły specjalne imperium"
+    },
+    {
+      "gameKey": "GcArmyExpedition#34.9",
+      "hash": "9A0F53FC80FF688B88291699195922CC616938DA867B4035BF54133B409804A9",
+      "target": "Wywiad donosi, że oddział specjalny imperium szykuje się do wymarszu w <switch(lnum1,Wschodniej La Noscei,wschodniej części Czarnego Lasu,Północnym Thanalanie)>. Najwyraźniej planuje sabotaż w miastach, aby wywołać chaos na tyłach. Pilnie udać się na miejsce i zniszczyć oddział."
+    }
+  ]
+}

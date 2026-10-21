@@ -1,0 +1,1056 @@
+{
+  "sheet": "BuddyEquip",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "BuddyEquip#0.0",
+      "hash": "8A96BBA5B6A5D81C1BA2BEC7CA958C2727F619939C7F149A66078322C88ED044",
+      "target": "skórzane siodło"
+    },
+    {
+      "gameKey": "BuddyEquip#0.8",
+      "hash": "9B939ACC001033A615EF8207AF902C35A6E5BB2AAD85D9E1E7449D89000BB566",
+      "target": "Skórzane siodło"
+    },
+    {
+      "gameKey": "BuddyEquip#1.0",
+      "hash": "3A8790564D1BCB1B60E4C494045C29A21564E915F30FF6619A7DA62667874DF1",
+      "target": "siodło Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#1.8",
+      "hash": "2E098D9BD5A1D73B5B15F4E5C9AE34CFD44328448B125FB67DD529D6584029FE",
+      "target": "Siodło Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#2.0",
+      "hash": "AECEEC0EDC6E988D447AFFA03E7CD47DD410916B396DA6AA407916E73D6F41D7",
+      "target": "półpancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#2.8",
+      "hash": "EB71A5C169F06862648D250AAEF81D8AF7DA40BD3B6EF647EBECD6C41D640468",
+      "target": "Półpancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#3.0",
+      "hash": "CBE09EF59F7827757DA8650BED98A4D18EBC512829BE7DA2C9C72EAD6ADF2D7E",
+      "target": "pancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#3.8",
+      "hash": "4DF39363E491FA600CFFB9718DDD28A91F82FC3929B42AC812E261F5CB7BECFA",
+      "target": "Pancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#4.0",
+      "hash": "5A7627B5EDED66619954D652C1F876D63F2D1FAAB164960234F530AD1B11E223",
+      "target": "ozdobny pancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#4.8",
+      "hash": "45F8DF86A703C631240DA177285DB04818D015DB70FB33E9ED089787B4109C88",
+      "target": "Ozdobny pancerz Limsy"
+    },
+    {
+      "gameKey": "BuddyEquip#5.0",
+      "hash": "B53F22A5702AEA1BC57642F795F205A20ECD7EF0C545AB5100E852A5F8522CFB",
+      "target": "siodło Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#5.8",
+      "hash": "0900A84BA01D8095C7C26581E379CB475B120469F5FE8397DE67E627FBB5DFD4",
+      "target": "Siodło Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#6.0",
+      "hash": "A3FB600244D2955F7C50D5FE0190BD4CCFC6C932AEEA017ACE991653E1A7190C",
+      "target": "półpancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#6.8",
+      "hash": "D2405AF30F46C94C444CBE06D14277A94706E09FF7366ACD9A707B970ED43C88",
+      "target": "Półpancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#7.0",
+      "hash": "4AC059B7C2A73385AFC3AE778F5DF778621EA06D54EB4CC7046249B63D4E3895",
+      "target": "pancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#7.8",
+      "hash": "DB89EBDE0AF616DCEBECF2BA763427484B21E9D53995F8B011173EA9F94592E8",
+      "target": "Pancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#8.0",
+      "hash": "582A0EBF8D84FFC25AFB7191AEF0627A7E6811AC16B2B6332FC896133B3BB73C",
+      "target": "ozdobny pancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#8.8",
+      "hash": "0A0123ABF71396B7887B98AC88C94179BF917CBDF54458D68A70A1D5005F08A7",
+      "target": "Ozdobny pancerz Gridanii"
+    },
+    {
+      "gameKey": "BuddyEquip#9.0",
+      "hash": "5BDE3453D58463100AD86FDB4D153CB61D3A9A5639C5A30F2F8F42A6A00364BD",
+      "target": "siodło Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#9.8",
+      "hash": "41CAFFBDE978423F80A77630567E8CCB689B3C11B143D9B6741D8C546C7C147F",
+      "target": "Siodło Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#10.0",
+      "hash": "857A54A5992773D89F4E4B6F0FF614E6C3BD2C63399FBA40A1E2064DE45CC559",
+      "target": "półpancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#10.8",
+      "hash": "617C94D96CB0F86F8068F9C91EA65CFF6C9EEABA99584565B60BC0598DA1BFA6",
+      "target": "Półpancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#11.0",
+      "hash": "9A8F0037156E9A9744F40E6DAA0859029C954D90FD840DAD5E9E7D6C263437BC",
+      "target": "pancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#11.8",
+      "hash": "38028B116F832C9E0B41F97E5B2850596BD671B711A1E0A910F99D32F7B27778",
+      "target": "Pancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#12.0",
+      "hash": "E10F2683CCCB7BEF7C1736BDFB4059C07BFC3D3733D851E2308A4D624D646BF4",
+      "target": "ozdobny pancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#12.8",
+      "hash": "047EF290B9E3EB3E00FA20FE1E3421E2EDAC65404ADE93B8D6E98219655CFC68",
+      "target": "Ozdobny pancerz Ul'dah"
+    },
+    {
+      "gameKey": "BuddyEquip#13.0",
+      "hash": "A51DE9C45520828CDE5A94E64EAE98F9F56D8D83532E601F19ADDDB659D5200A",
+      "target": "pancerz paladyna"
+    },
+    {
+      "gameKey": "BuddyEquip#13.8",
+      "hash": "BC28B6767F73AA57E00B1E6DD964CFE19418D9FAA625FE56B5DA208E4285916B",
+      "target": "Pancerz paladyna"
+    },
+    {
+      "gameKey": "BuddyEquip#14.0",
+      "hash": "6B95BFDDC3E2B0149FE4C1C5C4CF2810EFB276B967EEE5469FEBA37C46C3EF0C",
+      "target": "pancerz dragona"
+    },
+    {
+      "gameKey": "BuddyEquip#14.8",
+      "hash": "DBA32864922361BD2876A4D97005F5C7F8FFC8CCA4B1456A3E7E6F8155AD0BD8",
+      "target": "Pancerz dragona"
+    },
+    {
+      "gameKey": "BuddyEquip#15.0",
+      "hash": "B8FFE5873A04B80FE43704FDDBA113A3E8F0512EB843A6CA03134D3657B9C865",
+      "target": "pancerz białego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#15.8",
+      "hash": "56790FB6F58E4BA721ECB0EA48AB1A1956DD1FF141EFB24979372351D642C746",
+      "target": "Pancerz białego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#16.0",
+      "hash": "D6E9F314917E03EE0775415E9464CA3BAD9CD633F5572C41A5370DFD0010B729",
+      "target": "pancerz Sleipnira"
+    },
+    {
+      "gameKey": "BuddyEquip#16.8",
+      "hash": "07D998C077991DD8F9481B9F1AC08EEF29582EF76F8831F761B5C17AA855BBB0",
+      "target": "Pancerz Sleipnira"
+    },
+    {
+      "gameKey": "BuddyEquip#17.0",
+      "hash": "E58AFBDB89F3BE7AF10982D3F1A6C142C5E8708744C39990989ECDFE1F204715",
+      "target": "pancerz behemota"
+    },
+    {
+      "gameKey": "BuddyEquip#17.8",
+      "hash": "D61F40CE3C6372506FF8674E2BFB05FC2A3823C72CFBDC947A8F2F7BDBD86F14",
+      "target": "Pancerz behemota"
+    },
+    {
+      "gameKey": "BuddyEquip#18.0",
+      "hash": "EF9FF2BF3C9A5DB6C53620ACAA29B7D565B6BE38E259939380CCD1C30CE24543",
+      "target": "czapka lotnika"
+    },
+    {
+      "gameKey": "BuddyEquip#18.8",
+      "hash": "DB8882B8268FB527D03813944F159D2F9525363CF5105198BA8E3F2815FCAF79",
+      "target": "Czapka lotnika"
+    },
+    {
+      "gameKey": "BuddyEquip#19.0",
+      "hash": "C0628001C3E59824A9F4AAFC95C071B1E374BE1734ADF294467225617380B902",
+      "target": "pancerz czarnego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#19.8",
+      "hash": "052C83421F69E080BAAF4031244632E753DB5CA715A5FDD63781190D18D93961",
+      "target": "Pancerz czarnego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#20.0",
+      "hash": "EB05F9991EEFB15A31E58F3B508A1F4ECFC9C7B121A89144BB4513D51C157514",
+      "target": "pancerz króla chocobo"
+    },
+    {
+      "gameKey": "BuddyEquip#20.8",
+      "hash": "B2D928B14E52ECD545F960B0CC8CFC561D843010C12A22292174D3F90E8CBC7E",
+      "target": "Pancerz króla chocobo"
+    },
+    {
+      "gameKey": "BuddyEquip#21.0",
+      "hash": "8F152279CCB423DA5735D2C3CA9125A3906BC29AEC449655221C9D774AD305B6",
+      "target": "pancerz Święta Gwiazd"
+    },
+    {
+      "gameKey": "BuddyEquip#21.8",
+      "hash": "373967C5E10B3375BC1D47944FE162BEB98F404DB53A99CA9487159420E17FF9",
+      "target": "Pancerz Święta Gwiazd"
+    },
+    {
+      "gameKey": "BuddyEquip#22.0",
+      "hash": "B910DF64E4842A2287D5BD15B581E54222026FE8E0887E97891E362FE5E860FF",
+      "target": "pancerz Lewiatana"
+    },
+    {
+      "gameKey": "BuddyEquip#22.8",
+      "hash": "0F028033E79AE353956949C26E0FFF5E0FCE2650D2BF60DEA574A7CABE9822C1",
+      "target": "Pancerz Lewiatana"
+    },
+    {
+      "gameKey": "BuddyEquip#23.0",
+      "hash": "B521C6716452A8A86B5E11C058D41A80DD6DDF869ABBC8906C4016407591CDA3",
+      "target": "pancerz światła"
+    },
+    {
+      "gameKey": "BuddyEquip#23.8",
+      "hash": "8D27BC877DF9319C43F2E863186B607EC6730AA8A72966B77BB19048A9F046ED",
+      "target": "Pancerz światła"
+    },
+    {
+      "gameKey": "BuddyEquip#24.0",
+      "hash": "FEA78E5FAF62BE29A2B651194E9EF8C2765EC8CA34C41A4C063C62A3EF6A5F1F",
+      "target": "jajeczny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#24.8",
+      "hash": "6D5A3F669013E331768037235B85878AFE8882C57D432D43D3AE0DE55F45AF82",
+      "target": "Jajeczny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#25.0",
+      "hash": "623A5CB3C977EF05D14CFDC0661C6BE059DC008D9C65C0C63BABFFF203D93372",
+      "target": "pancerz Ramuha"
+    },
+    {
+      "gameKey": "BuddyEquip#25.8",
+      "hash": "C5FD588B42D34E5FA7291DBE70FD4EFC8F71976D2ECACAC65B738CEF634E05CD",
+      "target": "Pancerz Ramuha"
+    },
+    {
+      "gameKey": "BuddyEquip#26.0",
+      "hash": "193F0CB8AA3ACFD473E0AD6CCDB8AECAD13361F450474A048D3247F6BDDC4650",
+      "target": "pancerz z pióropuszem"
+    },
+    {
+      "gameKey": "BuddyEquip#26.8",
+      "hash": "0388F9080D25E43D535DF75BC9BEF2324B36AF04E666E6DF4D9037CC0804340F",
+      "target": "Pancerz z pióropuszem"
+    },
+    {
+      "gameKey": "BuddyEquip#27.0",
+      "hash": "CEB22B6EEAB06A05C51A8BA5F4AD6D5E1732A1A35B8A23545A055A8C132B9DE1",
+      "target": "upiorny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#27.8",
+      "hash": "CD166E692136EA9C25F9F64ABFB10E59724505CDCE452D724A5C07E043647E32",
+      "target": "Upiorny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#28.0",
+      "hash": "6F3BE93290877B145F313521DCB635FA97F1E73E5C3A2457070484346CBB9B7A",
+      "target": "pancerz Shivy"
+    },
+    {
+      "gameKey": "BuddyEquip#28.8",
+      "hash": "6255E412B806543A3C97E7DDED58016D64DB83A83F2D7E93D8581E84E91C65DD",
+      "target": "Pancerz Shivy"
+    },
+    {
+      "gameKey": "BuddyEquip#29.0",
+      "hash": "D635C89ACC617041F66746167756488F02E1A8991FABEAED7CFCE9D6CCB44E8C",
+      "target": "strój hazardzisty"
+    },
+    {
+      "gameKey": "BuddyEquip#29.8",
+      "hash": "67FADA93B8165E4DE5E6F8D027A48912812D8E32642EAB8850582B464711B8CE",
+      "target": "Strój hazardzisty"
+    },
+    {
+      "gameKey": "BuddyEquip#30.0",
+      "hash": "3607B96A662DE0C0E94749F797BFCFF3633DB7E7C7ACD1DF5EC601DC85F6642C",
+      "target": "strój kochanka"
+    },
+    {
+      "gameKey": "BuddyEquip#30.8",
+      "hash": "396700F63EA8E33064075490FE553303CD4FD6EC4532B69D17C1FAC838DDDB96",
+      "target": "Strój kochanka"
+    },
+    {
+      "gameKey": "BuddyEquip#31.0",
+      "hash": "83726CCA96AA7CC00729A58C831F1587C065295B612814E492E44065891F1704",
+      "target": "półpancerz Ishgardu"
+    },
+    {
+      "gameKey": "BuddyEquip#31.8",
+      "hash": "7F8F5B122B642F4FB0A345C93EFE3889ABD39AD0BA35DE7F38B096C9202A6F64",
+      "target": "Półpancerz Ishgardu"
+    },
+    {
+      "gameKey": "BuddyEquip#32.0",
+      "hash": "2458A6B41D3756B0827F1E309F551AFE705F2FD076D567C6F7F9EBE330BEA24D",
+      "target": "pancerz Ishgardu"
+    },
+    {
+      "gameKey": "BuddyEquip#32.8",
+      "hash": "04CA3A7B3CD4C5466663934DFDCC6015E483EEEC82308E188BE2409985B79C77",
+      "target": "Pancerz Ishgardu"
+    },
+    {
+      "gameKey": "BuddyEquip#34.0",
+      "hash": "EA7EDCD1C28F34865A1047230B4685F8445C1CA5C055A877B0E87ADC8C27F131",
+      "target": "pancerz Bismarcka"
+    },
+    {
+      "gameKey": "BuddyEquip#34.8",
+      "hash": "933C8DBCAE93803844F42CBD862482987A64D884844777B467C40D5A8977DEEF",
+      "target": "Pancerz Bismarcka"
+    },
+    {
+      "gameKey": "BuddyEquip#35.0",
+      "hash": "95F05FB08DE335D85A034515F1D5D17CB491BAB2E41F0CC540FB01FC7E8EAECD",
+      "target": "pancerz Ravany"
+    },
+    {
+      "gameKey": "BuddyEquip#35.8",
+      "hash": "1E071DE3CD6F561FB15EB1AEED1D7E7B71939F5DD9F3734DFBD3BD433C6F3307",
+      "target": "Pancerz Ravany"
+    },
+    {
+      "gameKey": "BuddyEquip#36.0",
+      "hash": "DE096F2D70B94D3FE61CE52463AD02236F8A537F68D58D85E0EAD2ECCF7214BD",
+      "target": "szlachecki pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#36.8",
+      "hash": "E6C8BEA5673625BFA0CB82EC68F512DB766EEAF0BCCC2676869EB19DDE8F99BE",
+      "target": "Szlachecki pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#37.0",
+      "hash": "976F0FEFB392776A16B9A1351651094611D9EABFB69E100342447F54D0096850",
+      "target": "ortodoksyjny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#37.8",
+      "hash": "844CC65B76405A0B27DF07A5B5045F4679CE0A93D144BF9ECF5B91B21DB8EC90",
+      "target": "Ortodoksyjny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#38.0",
+      "hash": "47F52F63C81ABD6A5EF46484626F60D520EC6824122DD61B90EE60D38F9D2E39",
+      "target": "pancerz wyżyn"
+    },
+    {
+      "gameKey": "BuddyEquip#38.8",
+      "hash": "57FC6C1DCF196E451DD158365758196823CFC407500E86ED3204B8293301F124",
+      "target": "Pancerz wyżyn"
+    },
+    {
+      "gameKey": "BuddyEquip#39.0",
+      "hash": "BF5F4CAFA6535822A62790C549338996C0943BF2B07856269054AC320BC06417",
+      "target": "pancerz dzikiej róży"
+    },
+    {
+      "gameKey": "BuddyEquip#39.8",
+      "hash": "1BB04CB14F7640C3B62F5DFD8C0B0663986B43CE69D02A937315B5F1629A9FE3",
+      "target": "Pancerz dzikiej róży"
+    },
+    {
+      "gameKey": "BuddyEquip#40.0",
+      "hash": "24C5048A0EDC43CA0B5D60A71B4B89DF9216E91698BABEA755BBD180621DBD23",
+      "target": "pancerz Okrągłego Stołu"
+    },
+    {
+      "gameKey": "BuddyEquip#40.8",
+      "hash": "A2782C2A51E55A7FBC39B99C0546CA79BC56DA182F5BDA4FD103888B5F48DAB2",
+      "target": "Pancerz Okrągłego Stołu"
+    },
+    {
+      "gameKey": "BuddyEquip#41.0",
+      "hash": "72B02FFFC778B8C79BCF9F2682C9C86CACF53CF9857645C1DBC9B0F147E8583A",
+      "target": "pancerz Sephirota"
+    },
+    {
+      "gameKey": "BuddyEquip#41.8",
+      "hash": "4AD3BBC6C3EB187DEAF2D8617EEB04820ED56E5F59AF2D0D9577F0FC7368B9F7",
+      "target": "Pancerz Sephirota"
+    },
+    {
+      "gameKey": "BuddyEquip#42.0",
+      "hash": "115321C92B755918E4F252035D2B047075B7E10DF0780F40C629D2EDE958AEDB",
+      "target": "pancerz łowcy jaj"
+    },
+    {
+      "gameKey": "BuddyEquip#42.8",
+      "hash": "50E911ACA93C0476415170A27F068A935C32715D0F1D7CE1BDE12F5A1E66994C",
+      "target": "Pancerz łowcy jaj"
+    },
+    {
+      "gameKey": "BuddyEquip#43.0",
+      "hash": "CE3189CB4CFC05BB0A3C9047C006CE13D1A088E20B685C5B5E5E98AF21211987",
+      "target": "dalekowschodni pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#43.8",
+      "hash": "AAE11E8B33661ECCBB322331FD0BBDE65B28AD2729BD9BB15F6F48069662E8B0",
+      "target": "Dalekowschodni pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#44.0",
+      "hash": "EE918392B7724C2CB18BAFCBF8A06DE4FF32663D7EFD6CC3661DBE439C3B44AE",
+      "target": "pancerz wyścigowy"
+    },
+    {
+      "gameKey": "BuddyEquip#44.8",
+      "hash": "9CC1F73E4A54E20B9F469A2E44F6738015C75C743DF27BDEFD594660885DFB48",
+      "target": "Pancerz wyścigowy"
+    },
+    {
+      "gameKey": "BuddyEquip#45.0",
+      "hash": "B0A7E50E87D22C836C2F27502C393CF38183EE8CD899418958EC6B798E354ED4",
+      "target": "pancerz Nidhogga"
+    },
+    {
+      "gameKey": "BuddyEquip#45.8",
+      "hash": "9D28139080ACE991FF39A202658FB27F71D5351A22EAC46AFB2E8FE926B95D02",
+      "target": "Pancerz Nidhogga"
+    },
+    {
+      "gameKey": "BuddyEquip#46.0",
+      "hash": "EC5145BFC51050A39BD7CF3C84A3195E7F7B2A34652C84B58CB88F4CB8E5297C",
+      "target": "strój kamerdynera"
+    },
+    {
+      "gameKey": "BuddyEquip#46.8",
+      "hash": "9AF320EAA7F21A216DB269083270C78199C1A99399324E4010DD7D264F1CB196",
+      "target": "Strój kamerdynera"
+    },
+    {
+      "gameKey": "BuddyEquip#47.0",
+      "hash": "CFF9E77B5B93A1FDF300CF42F85E631A7E5C88682B23605E59C85CCB3C5C18CC",
+      "target": "pancerz Sophii"
+    },
+    {
+      "gameKey": "BuddyEquip#47.8",
+      "hash": "900688B388688CE40374D4D644CD8889FE9C266634428BC464C2CB3DB0569DC3",
+      "target": "Pancerz Sophii"
+    },
+    {
+      "gameKey": "BuddyEquip#48.0",
+      "hash": "4FBF377B6692835CABD127F3F1B0E75D8B713D0D31F82D244B5E7BFFE7FC7CCC",
+      "target": "strój pokojówki"
+    },
+    {
+      "gameKey": "BuddyEquip#48.8",
+      "hash": "8EF94AB5B88874ECEC42FE15434AE702F17CF71F07574231FB0312112B0955BC",
+      "target": "Strój pokojówki"
+    },
+    {
+      "gameKey": "BuddyEquip#49.0",
+      "hash": "B4FE970AE080BBF40114A1B133881C1AD81387347BF76B4E5242AFD2B628D70E",
+      "target": "strój pokojówki Manderville'ów"
+    },
+    {
+      "gameKey": "BuddyEquip#49.8",
+      "hash": "8286CF6AC736BBFB96AE36C00D32A653FDC03D77E8293C061F1CAD3957DFC570",
+      "target": "Strój pokojówki Manderville'ów"
+    },
+    {
+      "gameKey": "BuddyEquip#50.0",
+      "hash": "CB00709635F47F8733EAB69CB79FD1258A535F7CDE813BE1BEA6F82BD4204B8F",
+      "target": "anielski pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#50.8",
+      "hash": "2C1FC82B05A8B0B7DAE283EDD9F21FE0BDF875E52DE1D91AF9D902DFD5B898E1",
+      "target": "Anielski pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#51.0",
+      "hash": "1958C5A0F6F1FF5E6ED95B054A5F6AC388D252C22389EF91FF7C6F16A9A2AF42",
+      "target": "demoniczny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#51.8",
+      "hash": "C0F044E99B10B27FA2930FB2C8953D0602101E3ED1EEB6CB255449881822726E",
+      "target": "Demoniczny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#52.0",
+      "hash": "B696CAFBB541823EEBB19C56A920437BE7F2AA6F7D4EFB388ABF16ACED2B96F8",
+      "target": "pancerz Zurvana"
+    },
+    {
+      "gameKey": "BuddyEquip#52.8",
+      "hash": "95A870EF4BD45DC8B95EEDDD45336C2E896643E22DE8373F9EBDE8A58726B673",
+      "target": "Pancerz Zurvana"
+    },
+    {
+      "gameKey": "BuddyEquip#53.0",
+      "hash": "8528DAC2FC31A1073EED88B565FBCA2173F64C13BF9729E52C283DEC7D60DC63",
+      "target": "pancerz Susano"
+    },
+    {
+      "gameKey": "BuddyEquip#53.8",
+      "hash": "1F69B16D7027FFD9D60444173AEA03712FF4FA7DE27049820067A2C92770E20F",
+      "target": "Pancerz Susano"
+    },
+    {
+      "gameKey": "BuddyEquip#54.0",
+      "hash": "030B550AAE339A776C4F48303FFF872414E9B3541B86D056FE72AF091D7F5AFA",
+      "target": "pancerz Ala Mhigo"
+    },
+    {
+      "gameKey": "BuddyEquip#54.8",
+      "hash": "8056EC61C506DB16E4AB2040E8BCAC0E9639B8C81B07FED0AF11F364F1774354",
+      "target": "Pancerz Ala Mhigo"
+    },
+    {
+      "gameKey": "BuddyEquip#55.0",
+      "hash": "7755A66F9004A6A6162A1E1FF2927C60BBBD73D52A88C22302377E14A4EDFF97",
+      "target": "pancerz Lakshmi"
+    },
+    {
+      "gameKey": "BuddyEquip#55.8",
+      "hash": "7A2BA42A00156C45FEFA035E56CADE23552084C35BE7E96E94C4A2AD8690058F",
+      "target": "Pancerz Lakshmi"
+    },
+    {
+      "gameKey": "BuddyEquip#56.0",
+      "hash": "57E11305EA672D5C8B2CF96F3E1B43143BBA6A93F6B49B4BED12F0D55A9182C0",
+      "target": "wschodni pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#56.8",
+      "hash": "CA9A6861D34743779F54DE2BC9CCD70805E91EAC4EB8229EBE97E44757B2DD78",
+      "target": "Wschodni pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#57.0",
+      "hash": "93CC4DECF2C888B2899BF2794C70D88AF77E371A7FE288CE5BE90E8E2438914F",
+      "target": "orientalny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#57.8",
+      "hash": "6C600E630747A78883D055788F4939B80190D0EE6FBFF6C3954FE2FEEB70E5EF",
+      "target": "Orientalny pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#58.0",
+      "hash": "FEA2E57605A56D60F2DE956C2A68D01E1C7DC8CE48D8E396B912AF33BC79162F",
+      "target": "pancerz Nezhy"
+    },
+    {
+      "gameKey": "BuddyEquip#58.8",
+      "hash": "20CD08FDBDCEA7135A12395637993E7EB8EDD00D7153B80FD0C3EB2316A465F2",
+      "target": "Pancerz Nezhy"
+    },
+    {
+      "gameKey": "BuddyEquip#59.0",
+      "hash": "1439312D571886A05037321449C3CDA211EE1C983E1549E6AFB43FE48F081F19",
+      "target": "pancerz Shinryu"
+    },
+    {
+      "gameKey": "BuddyEquip#59.8",
+      "hash": "ED9505657EA9E51A46901ECFEBF07FF5869DA6540F7AF465A327167C63874BE8",
+      "target": "Pancerz Shinryu"
+    },
+    {
+      "gameKey": "BuddyEquip#60.0",
+      "hash": "E9D15290DE5EB49CF278FFFA445C1FB16545F7954C937E64881A6ABDF92813D6",
+      "target": "pancerz Ixiona"
+    },
+    {
+      "gameKey": "BuddyEquip#60.8",
+      "hash": "4AEC95D0444FFA895F9EFC9C9773491636CD308A9C5E2AC6FCCD6335EEAAC6FF",
+      "target": "Pancerz Ixiona"
+    },
+    {
+      "gameKey": "BuddyEquip#61.0",
+      "hash": "BAE737C9271F3034F4B39099268E40C876DB42DC8B094C4305950ACBA69A42FE",
+      "target": "pancerz czerwonego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#61.8",
+      "hash": "85FB22F046C0C801521C60021D5629C92E5DCEA11AEBAD6F8E0DF865E1D453F3",
+      "target": "Pancerz czerwonego maga"
+    },
+    {
+      "gameKey": "BuddyEquip#62.0",
+      "hash": "905C93F994C4EC2B8DCC09E190C34ED884877CF6ED58A4337FC4245281B5B72F",
+      "target": "pancerz Byakko"
+    },
+    {
+      "gameKey": "BuddyEquip#62.8",
+      "hash": "3471070E2C37338F33F8051BADBC1E2A2E68638EE0D3B719A8DE93D36E941258",
+      "target": "Pancerz Byakko"
+    },
+    {
+      "gameKey": "BuddyEquip#63.0",
+      "hash": "FC3F199D43AE8CA4836A77A84645F0B5456838B0E2127F2866B3EF87A50CDF93",
+      "target": "płaszcz przeciwdeszczowy"
+    },
+    {
+      "gameKey": "BuddyEquip#63.8",
+      "hash": "FC37789909532D6E903C58ACF7E50787D3539C70F874577AB2AC92E8A64EAEF1",
+      "target": "Płaszcz przeciwdeszczowy"
+    },
+    {
+      "gameKey": "BuddyEquip#64.0",
+      "hash": "7B016552498D79B4C2A3F71DD74AFD555673434162E199238D3D608DD6B6B122",
+      "target": "pancerz Tsukuyomi"
+    },
+    {
+      "gameKey": "BuddyEquip#64.8",
+      "hash": "8CF7D3ACBD198DED03A429CE83767070E5B37716C826E8AD0B5B3389C628C7D9",
+      "target": "Pancerz Tsukuyomi"
+    },
+    {
+      "gameKey": "BuddyEquip#65.0",
+      "hash": "7D91E26EF80D15DBACCD29A9313AC88A18CA8F3A5CBA33137513D5A5D88FA6AA",
+      "target": "pancerz Suzaku"
+    },
+    {
+      "gameKey": "BuddyEquip#65.8",
+      "hash": "932BECCCED188950E4DB892E9B9F6B8F9BEE29FC9A40316564FEF8B65B6536F7",
+      "target": "Pancerz Suzaku"
+    },
+    {
+      "gameKey": "BuddyEquip#67.0",
+      "hash": "51C022D6E9CD70BA1AF76C035B0F848273214523D6763130A8D3EFAEE13BECBE",
+      "target": "pancerz Seiryu"
+    },
+    {
+      "gameKey": "BuddyEquip#67.8",
+      "hash": "82900891029C7E2515B061365891D8FBE8F8C104819CDF889F8EB3F0B0F7E431",
+      "target": "Pancerz Seiryu"
+    },
+    {
+      "gameKey": "BuddyEquip#68.0",
+      "hash": "BEC807B6460956CAB5FAAC73B3B000B9659A2F414F61358A6E98B388FFD7E05B",
+      "target": "pancerz Yojimbo"
+    },
+    {
+      "gameKey": "BuddyEquip#68.8",
+      "hash": "81BBF9714A239BD1AD13FE91D078B7A0401EB6B2DCAB719AD0AA9A1920781BBD",
+      "target": "Pancerz Yojimbo"
+    },
+    {
+      "gameKey": "BuddyEquip#69.0",
+      "hash": "000ACB5947A1E91850C1142728E7A604197E81BF71EBA93C283D2A421160C3A6",
+      "target": "pancerz Titanii"
+    },
+    {
+      "gameKey": "BuddyEquip#69.8",
+      "hash": "60D70B2DFA4F322A58227B6430D065CA71713228019ED7FAEFC1567C0A4878F4",
+      "target": "Pancerz Titanii"
+    },
+    {
+      "gameKey": "BuddyEquip#70.0",
+      "hash": "2F6939F44C278A5441DA405BEE6AF4148B7C320A323A4E513EF91008D8A3C441",
+      "target": "pancerz Niewinności"
+    },
+    {
+      "gameKey": "BuddyEquip#70.8",
+      "hash": "53A6F8F76120C470DE83634FBE861261C244095D32CBE845B8268CA724EF05B7",
+      "target": "Pancerz Niewinności"
+    },
+    {
+      "gameKey": "BuddyEquip#72.0",
+      "hash": "721364BCCB779F2661E7CF65A72FC36CFF8B6BAC555D3F4E804A6342AE8305F3",
+      "target": "pancerz głębokiego cienia"
+    },
+    {
+      "gameKey": "BuddyEquip#72.8",
+      "hash": "E5A5DA1618B8E224F3502ECF0BF8E49163F97D0088EE41D13D4C51187D047D74",
+      "target": "Pancerz głębokiego cienia"
+    },
+    {
+      "gameKey": "BuddyEquip#73.0",
+      "hash": "D252CEA716FF90D615862BA7002E19AB1A37C784A9A7C8DC4BB7F8C1E56C5EE1",
+      "target": "pancerz Hadesa"
+    },
+    {
+      "gameKey": "BuddyEquip#73.8",
+      "hash": "95DAED0CA82F573D5823AFF0103B1C7E8B3C065E5B4F87AF51DCA974EAC47530",
+      "target": "Pancerz Hadesa"
+    },
+    {
+      "gameKey": "BuddyEquip#74.0",
+      "hash": "5DF5F34D3125EB10F97F6CEAAF7CB39FF2ACC2B009D3576ABBD544DCA4AC4923",
+      "target": "pancerz świętego"
+    },
+    {
+      "gameKey": "BuddyEquip#74.8",
+      "hash": "5193D29E96F853B65333E04902256904644A2C28CD9025979F64A01686CE2FCF",
+      "target": "Pancerz świętego"
+    },
+    {
+      "gameKey": "BuddyEquip#75.0",
+      "hash": "0377CD41B1D1BBF5FE071AD8C57C235C55B918595E9AA19C45012F56BDB81100",
+      "target": "pancerz Ruby Weapon"
+    },
+    {
+      "gameKey": "BuddyEquip#75.8",
+      "hash": "9003D6647411850650CEC0FA56856ABAE0C08123444BBDAAF775995E943C40F0",
+      "target": "Pancerz Ruby Weapon"
+    },
+    {
+      "gameKey": "BuddyEquip#77.0",
+      "hash": "F9C422553BB200AB446C358EC662510844B49AC60692871290A9514A72B780EA",
+      "target": "prawdziwy pancerz światła"
+    },
+    {
+      "gameKey": "BuddyEquip#77.8",
+      "hash": "FBAEF5D08947C49F2A6B7E88FC030A468AF479997E994333D890001E3A605C53",
+      "target": "Prawdziwy pancerz światła"
+    },
+    {
+      "gameKey": "BuddyEquip#78.0",
+      "hash": "BC51D714D668675B2DC37BB438BDE0ABF12E1E3D211E585E9D3705A91EA1347D",
+      "target": "szmaragdowy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#78.8",
+      "hash": "331DF6C220A294928B4F317784B058D39492FCEB8155A985B4A3779DD3B956CD",
+      "target": "Szmaragdowy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#79.0",
+      "hash": "7D70B364D9876537A5C93B487574E21A1731E9811E545F99BCAC5534D587812A",
+      "target": "„Chroń pancerz”"
+    },
+    {
+      "gameKey": "BuddyEquip#79.8",
+      "hash": "E93BDE7C41F7DE1537EDC353CCA2D1BE0AD963DDEF04D8FB3CBD5CAD98393827",
+      "target": "„Chroń pancerz”"
+    },
+    {
+      "gameKey": "BuddyEquip#80.0",
+      "hash": "F414DC17787FBBB99463059B5D98188148D26B13A70328553E9845465EDAD2F7",
+      "target": "pancerz Bozji"
+    },
+    {
+      "gameKey": "BuddyEquip#80.8",
+      "hash": "0AC724EAB70C6869EBCDD412D1F89930225A6053E515714E06AE2C68DDBFF709",
+      "target": "Pancerz Bozji"
+    },
+    {
+      "gameKey": "BuddyEquip#81.0",
+      "hash": "84872616ABA2DF669022E9744520C5938AA8AD88E8E9DE29A7D7EBA41C4ACE3F",
+      "target": "diamentowy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#81.8",
+      "hash": "A39DDC33BF89194371FC5DD4241BC1432D2DA5CE08830A7EC55D0B43B614CC2F",
+      "target": "Diamentowy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#82.0",
+      "hash": "E2CE555709C08F78D69F84A42C16501002CEC1E2E2EA77252D018C52C9455CA6",
+      "target": "pancerz wiecznej ciemności"
+    },
+    {
+      "gameKey": "BuddyEquip#82.8",
+      "hash": "25228EA55DC757692BC101F0A2F41861CDAC7595A603C6A026C1BB4D5A4FBAC4",
+      "target": "Pancerz wiecznej ciemności"
+    },
+    {
+      "gameKey": "BuddyEquip#83.0",
+      "hash": "4943D0364500F694945830B1E81B6098F4E9DE45D2F6FF657955F2BE9AEAF53B",
+      "target": "pancerz boskiego światła"
+    },
+    {
+      "gameKey": "BuddyEquip#83.8",
+      "hash": "C46DD2841D65F5FD487A711DFCC994CFE9382035EF330D203D8B4864A6397A10",
+      "target": "Pancerz boskiego światła"
+    },
+    {
+      "gameKey": "BuddyEquip#84.0",
+      "hash": "D271AFC3FE446E4D897B494A742DEB5ED450881A0248756B176449A2B2A5047A",
+      "target": "strój listonosza"
+    },
+    {
+      "gameKey": "BuddyEquip#84.8",
+      "hash": "2389638AEBF3EC3101EB8259CE0F064EF5A8E2123A435D86FE0DDA8F37E60EC8",
+      "target": "Strój listonosza"
+    },
+    {
+      "gameKey": "BuddyEquip#85.0",
+      "hash": "AEDB0B8DD8E5A746BA5129ED6CF4B0E4A52D32F6CB373014509E545B6B0DF4C9",
+      "target": "pancerz Thavnairu"
+    },
+    {
+      "gameKey": "BuddyEquip#85.8",
+      "hash": "90D54EBB9904A74FBE1286298ECB5F9F30E3759B448C9695621B875A39BB6DD7",
+      "target": "Pancerz Thavnairu"
+    },
+    {
+      "gameKey": "BuddyEquip#86.0",
+      "hash": "0A5B13E2872F18F1175299D0B718AE3BA20617FF3CEA934E910BB0253192ABA9",
+      "target": "pancerz błękitnych piór"
+    },
+    {
+      "gameKey": "BuddyEquip#86.8",
+      "hash": "38CD076C9A80439E19DEF0F35C6DA553B5D0227D6B606473F3F642C0D6BBDE2E",
+      "target": "Pancerz błękitnych piór"
+    },
+    {
+      "gameKey": "BuddyEquip#87.0",
+      "hash": "15CE79CA68588492AF71BB8AAFF35384DA52A1CBCE33B297CAB9C13A8F1AC70C",
+      "target": "wilczy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#87.8",
+      "hash": "69E801B5B53EF8E35B5B3700633C0FCAE49B604F75D41790FA5690EC5D1B8EE0",
+      "target": "Wilczy pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#88.0",
+      "hash": "A7025EA1CF6BAC8103AC70087B00095B478561D06273DD7D57EBCB96FA7EA2C4",
+      "target": "pancerz Barbariccii"
+    },
+    {
+      "gameKey": "BuddyEquip#88.8",
+      "hash": "A1286B473085F85C129BEC3E8239415FE148A9FAAAD354C34393FA0092F124EC",
+      "target": "Pancerz Barbariccii"
+    },
+    {
+      "gameKey": "BuddyEquip#89.0",
+      "hash": "00DC36B315F7E6DC396A1FC9EAA4434AA5263166DB245332F9DCAB0D2F0B8857",
+      "target": "strój pioniera wyspy"
+    },
+    {
+      "gameKey": "BuddyEquip#89.8",
+      "hash": "72403889B6D5058E7A6DE3427B33492E3CBF12C45AD59296E1F48BB5A596A9A7",
+      "target": "Strój pioniera wyspy"
+    },
+    {
+      "gameKey": "BuddyEquip#90.0",
+      "hash": "47938A43A73B5CA402D05B2F3C2E61A727E8018D95FE4C0A8450AB648CC7DD74",
+      "target": "pancerz Rubicantego"
+    },
+    {
+      "gameKey": "BuddyEquip#90.8",
+      "hash": "DC06CDAC7D95BFE853F16D0BD71847468CB3F7352E731C2B90F3AFCDD80F4416",
+      "target": "Pancerz Rubicantego"
+    },
+    {
+      "gameKey": "BuddyEquip#91.0",
+      "hash": "7E570C3999E2D024CA826A0F55C60AE17550FCF6AB5451617A5C8722DBFDF232",
+      "target": "allagański pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#91.8",
+      "hash": "DA21BDF2B514DCEF269F7F547770AE04DF92199D694776E57DC036FF29C2EB3B",
+      "target": "Allagański pancerz"
+    },
+    {
+      "gameKey": "BuddyEquip#92.0",
+      "hash": "607885ABAF66BB74E48CF032FFC97F50D0730A24E7C113F530B6DD278474E6C2",
+      "target": "pancerz Golbeza"
+    },
+    {
+      "gameKey": "BuddyEquip#92.8",
+      "hash": "8CBF3D63546D9869C3AC48FD6D6A9F340C45A84E173577070727796FB5EA0AD7",
+      "target": "Pancerz Golbeza"
+    },
+    {
+      "gameKey": "BuddyEquip#93.0",
+      "hash": "A87E7E5E6596594154595B5DE350D1C02CF4F1CB7FC4643B939B9C88088060BC",
+      "target": "pancerz z kocimi uszami"
+    },
+    {
+      "gameKey": "BuddyEquip#93.8",
+      "hash": "86ADFE71FAB24A1FE004B77DD31DF260ACB82ABBD946D849907A379EF402AC44",
+      "target": "Pancerz z kocimi uszami"
+    },
+    {
+      "gameKey": "BuddyEquip#94.0",
+      "hash": "611814C379998B8E0C6162FF7FE8F5FF7C072854E69CC33CD4664BE40EA7BB5E",
+      "target": "pancerz Zeromusa"
+    },
+    {
+      "gameKey": "BuddyEquip#94.8",
+      "hash": "8F1F65F7ECAE1B60299EEA97B34EA113A76D3C2E72839F89DA2442B6C73CD444",
+      "target": "Pancerz Zeromusa"
+    },
+    {
+      "gameKey": "BuddyEquip#95.0",
+      "hash": "F2A56F0C2816476F9DA4FAC2E411A390F3E2492D5305DD90AC622094E49E212F",
+      "target": "strój podróżnika"
+    },
+    {
+      "gameKey": "BuddyEquip#95.8",
+      "hash": "EE9C284081754173B5562177B3758936AD2A58D4DCB67E28CCACB231EC5888FF",
+      "target": "Strój podróżnika"
+    },
+    {
+      "gameKey": "BuddyEquip#96.0",
+      "hash": "AF0DAE628966CD247B5EAC6C73083587B6AC68E7CAB3D8A2B66C3D2A450F4A59",
+      "target": "strój podróżnika z Turalu"
+    },
+    {
+      "gameKey": "BuddyEquip#96.8",
+      "hash": "E8AD5ED604233519518B6AB49C4798881BBBAE06C6F8B29EC79182D3F1112832",
+      "target": "Strój podróżnika z Turalu"
+    },
+    {
+      "gameKey": "BuddyEquip#97.0",
+      "hash": "2A9A11FA40A1237232178FA260B36628C390AC126C66763C2B1958FABD468B83",
+      "target": "pancerz Valigarmandy"
+    },
+    {
+      "gameKey": "BuddyEquip#97.8",
+      "hash": "31C627C0A5804376C90A67EAE983F035EF5735BC919D8A2000A60CAE585B340F",
+      "target": "Pancerz Valigarmandy"
+    },
+    {
+      "gameKey": "BuddyEquip#98.0",
+      "hash": "8EAD9E3FABE79F9F0E0902A54BEBC9C690198ABA164E015E6D0D5F02FE73F831",
+      "target": "pancerz elektropowy"
+    },
+    {
+      "gameKey": "BuddyEquip#98.8",
+      "hash": "C3184025A7FA65834DBAA1B14BC26D8050C52A3E7DC7E7BEE840754B643B4A25",
+      "target": "Pancerz elektropowy"
+    },
+    {
+      "gameKey": "BuddyEquip#99.0",
+      "hash": "267A0D334B08253517748B2B3E4C50EBF560AD1CF8F0A2B7223C913F8F05547D",
+      "target": "pancerz dzikich ziem"
+    },
+    {
+      "gameKey": "BuddyEquip#99.8",
+      "hash": "4222D1278971EDEECB4CA46F5B3E47B6365D891E2DD39909A020BC96CD8A152D",
+      "target": "Pancerz dzikich ziem"
+    },
+    {
+      "gameKey": "BuddyEquip#100.0",
+      "hash": "8B07A892E3DB01390384C12164A24E40EB342C124E3DB91B0F9B6E42A4E1911C",
+      "target": "pancerz wieczności"
+    },
+    {
+      "gameKey": "BuddyEquip#100.8",
+      "hash": "D127011BCEDA204D6DE316A8E62661B6AAFD0B050B1C1813E127CB9278ED5A66",
+      "target": "Pancerz wieczności"
+    },
+    {
+      "gameKey": "BuddyEquip#101.0",
+      "hash": "3044F3DD4857AFC51E6B43FADB8365A34EEEE3C34E0E1860BF35B7BB3AED5A43",
+      "target": "strój Straganu Gwiazd"
+    },
+    {
+      "gameKey": "BuddyEquip#101.8",
+      "hash": "C04931D2EEA1D3784E923361CEBDED270B0A9F5CBFFBB8A9B926E230A712B34C",
+      "target": "Strój Straganu Gwiazd"
+    },
+    {
+      "gameKey": "BuddyEquip#102.0",
+      "hash": "90CA5D2475D95F988D274DB660A02DAAB661109BA4400649C0FCDBBA4BE29F98",
+      "target": "pancerz rycerza królowej"
+    },
+    {
+      "gameKey": "BuddyEquip#102.8",
+      "hash": "97FA5F6958F0914947F7829E33701324B907707D02317831CD573934261DDCC1",
+      "target": "Pancerz rycerza królowej"
+    },
+    {
+      "gameKey": "BuddyEquip#103.0",
+      "hash": "BEB8012422609B8F3F7FECB3502D3A001352B3D284190681CB14C2C56F5A5144",
+      "target": "pancerz Necrona"
+    },
+    {
+      "gameKey": "BuddyEquip#103.8",
+      "hash": "656325B8A8CDA763F6388153E541FC57799E9C7DE15F8DD2F2364DCE492A8A4F",
+      "target": "Pancerz Necrona"
+    },
+    {
+      "gameKey": "BuddyEquip#104.0",
+      "hash": "ED543CA5ECA4AF9262C2CF8F21AF3AFCA5135A2D29E5130900E05BC501A14758",
+      "target": "pancerz pielgrzyma"
+    },
+    {
+      "gameKey": "BuddyEquip#104.8",
+      "hash": "D9E156A74E14C41AC9076B2CD11A3181CE195B9F3C7A33C68A2F0EA3D5C8DA9B",
+      "target": "Pancerz pielgrzyma"
+    },
+    {
+      "gameKey": "BuddyEquip#105.0",
+      "hash": "952A32C17FE13030DAC55D2B24DD92F86C2C0D966DA99D0C39C5083D75C9F588",
+      "target": "pancerz Glasya Labolasa"
+    },
+    {
+      "gameKey": "BuddyEquip#105.8",
+      "hash": "5A840C652DAD6CB628B44655D4711E47632433A48FBC8A1594B068683DE3C507",
+      "target": "Pancerz Glasya Labolasa"
+    },
+    {
+      "gameKey": "BuddyEquip#106.0",
+      "hash": "DBA42934C1EE03AFE96859637840FCF91DD7DFB5A9D74B996938D0461F3067DF",
+      "target": "pancerz kosmonauty"
+    },
+    {
+      "gameKey": "BuddyEquip#106.8",
+      "hash": "7FCCAC174A94B096506DD1C55838B0BF9935D22905EDF114F26FEBEC2AAF04DE",
+      "target": "Pancerz kosmonauty"
+    },
+    {
+      "gameKey": "BuddyEquip#107.0",
+      "hash": "B8DCAC6169B452B68BED7526C22F2A9397B8BCE0DD24BFE4D517FC2D32EF8432",
+      "target": "pancerz nicości"
+    },
+    {
+      "gameKey": "BuddyEquip#107.8",
+      "hash": "D75659BAE64B489BB4FA8941B2DC16A68DBE0A6BEBBB1F015C0CA2DD49EF9F4B",
+      "target": "Pancerz nicości"
+    },
+    {
+      "gameKey": "BuddyEquip#108.0",
+      "hash": "FAC1BB55D04B1A73BE6689031EAA50E2F68CD5D5EDA02CC2731B36AD1615F110",
+      "target": "strój piknikowy"
+    },
+    {
+      "gameKey": "BuddyEquip#108.8",
+      "hash": "1A18D6C0AF3D8F1A6B1DEAFCB0642807D69DD5B0E3A9461AA698B362B2B47E87",
+      "target": "Strój piknikowy"
+    }
+  ]
+}

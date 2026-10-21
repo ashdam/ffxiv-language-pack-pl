@@ -1,0 +1,66 @@
+{
+  "sheet": "MJIName",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "MJIName#1.0",
+      "hash": "8A5124EE7B99B9610F2139C9CB9C25C9DBC07CB2A0B5CD28C2692E14E6BFDE4B",
+      "target": "Łąki"
+    },
+    {
+      "gameKey": "MJIName#1.2",
+      "hash": "A7D100969B4A891A5399A74866E5B85C3A7BE1D2AD616668580FD6F8039FBE96",
+      "target": "łąki"
+    },
+    {
+      "gameKey": "MJIName#2.0",
+      "hash": "363787CADD75FD8D63E3F04CEC51D9490E1B8AE5136D5B3978B6949F8CF087A6",
+      "target": "Potok"
+    },
+    {
+      "gameKey": "MJIName#2.2",
+      "hash": "064E6ED668F739A40FA0872AE09350B9A173620C0C4C16C1124B3ACA496A96DD",
+      "target": "potok"
+    },
+    {
+      "gameKey": "MJIName#3.0",
+      "hash": "52D0C020A7426F067F9FB0845E2E31A9AC5C7971B48614FD39AC006B87006625",
+      "target": "Las"
+    },
+    {
+      "gameKey": "MJIName#3.2",
+      "hash": "3515C88966087634C000B71633009E60F294B3B98F5B600C0613AD4F7661E518",
+      "target": "las"
+    },
+    {
+      "gameKey": "MJIName#4.0",
+      "hash": "BE5D6E677BB0BA85CC13D07AF261253DAD3AFD017A6CA4FC84CA5DAD255BDF38",
+      "target": "Plaża"
+    },
+    {
+      "gameKey": "MJIName#4.2",
+      "hash": "7056E83CD3FF112FDEBC1C40AED99163EE138B58AB65220489930752454C9288",
+      "target": "plaża"
+    },
+    {
+      "gameKey": "MJIName#5.0",
+      "hash": "08C4812C84F266B6A06C6147DF45537A80CEEE9BF31D41D271C20801904716DB",
+      "target": "Góra"
+    },
+    {
+      "gameKey": "MJIName#5.2",
+      "hash": "52722FFB1BA118B8E8828A5A63A6AB99A75DC525F38C45EC0BA6765C053B90B8",
+      "target": "góra"
+    },
+    {
+      "gameKey": "MJIName#6.0",
+      "hash": "6C038290A4D4F4B995D00A2D82E191A9539CE5665876967FAB8444C3208AD66A",
+      "target": "Jaskinia"
+    },
+    {
+      "gameKey": "MJIName#6.2",
+      "hash": "DF1259563812AB935B29A4B7EBA1681E1A1924251F6F40A6E1EF187418E77284",
+      "target": "jaskinia"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "sheet": "GuardianDeity",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "GuardianDeity#1.0",
+      "hash": "9217E5291D3FA34DFE7AD8AC432C60E6BF939E5562AC1B82CEFB422B58028A60",
+      "target": "Halone"
+    },
+    {
+      "gameKey": "GuardianDeity#1.1",
+      "hash": "D98BAD9BC480852FF110D9A3CA586BAB9B8A0DDE56B0DFC00343972248F84A0B",
+      "target": "Bogini lodowców i wojny, patronka miasta-państwa Ishgard. Włada mocą\nlodu i opiekuje się pierwszym miesiącem astralnym.\nWedług powszechnej wiary jest córką Rhalgra, boga zniszczenia, oraz\nnieprzejednaną przeciwniczką Nophiki, bogini ziemi.\nPrzedstawia się ją jako wojowniczkę o zadziornym usposobieniu, dzierżącą\nwielką tarczę z brązu. Jej symbolem są zwykle włócznie."
+    },
+    {
+      "gameKey": "GuardianDeity#2.0",
+      "hash": "E5A1EC3D01F8CCBEF5CACD71A4FFEC145D5B898ACAE042C7918C59F504473A24",
+      "target": "Menphina"
+    },
+    {
+      "gameKey": "GuardianDeity#2.1",
+      "hash": "0A3654CE27295702F7F30B31113692D92F62269AC7D1110639B5A9B625C14E3F",
+      "target": "Bogini dwóch księżyców i miłosierdzia. Włada mocą lodu i opiekuje się\npierwszym miesiącem umbralnym.\nWedług powszechnej wiary jest młodszą przyrodnią siostrą Azeymy, bogini\nsłońca, oraz ukochaną Oschona, boga gór.\nPrzedstawia się ją jako oddaną służkę z okrągłą patelnią. Jej symbolem\njest zwykle księżycowa tarcza."
+    },
+    {
+      "gameKey": "GuardianDeity#3.0",
+      "hash": "2657DF51FEAD5A381470DED6A36FC4369E045961038BF8FA8DDA53AE020964CC",
+      "target": "Thaliak"
+    },
+    {
+      "gameKey": "GuardianDeity#3.1",
+      "hash": "5D20112554F36989AEAB9A9E60706745A2F3113D6892EAF573EFD5424FF6FF7D",
+      "target": "Bóg rzek i wiedzy, patron miasta-państwa Sharlayan. Włada mocą wody i\nopiekuje się drugim miesiącem astralnym.\nWedług powszechnej wiary jest ojcem Llymlaen, bogini mórz, oraz\nnauczycielem Byregota, boga rzemiosła.\nPrzedstawia się go jako nieśmiałego uczonego z jesionową laską. Jego\nsymbolem jest zwykle zwój."
+    },
+    {
+      "gameKey": "GuardianDeity#4.0",
+      "hash": "F79B3FF86D2776A182CD5F0F25D8B93100C38E6D87E7EF027E3009D91AF27B69",
+      "target": "Nymeia"
+    },
+    {
+      "gameKey": "GuardianDeity#4.1",
+      "hash": "8B02D37917E713DAFA2D9E9CB7A4A078366CE69C78F29B4AECCC560ED321D02F",
+      "target": "Bogini planet i przeznaczenia. Włada mocą wody i opiekuje się drugim\nmiesiącem umbralnym.\nWedług powszechnej wiary jest młodszą siostrą Althyka, boga czasu, oraz\npanią Rhalgra, boga zniszczenia.\nPrzedstawia się ją jako mądrą tkaczkę pod welonem z białego jedwabiu.\nJej symbolem jest zwykle kołowrotek."
+    },
+    {
+      "gameKey": "GuardianDeity#5.0",
+      "hash": "357EA9ACCC9F480B156AC22507A8B2728FBCEF983CAF0508E3F7891789D6DB7B",
+      "target": "Llymlaen"
+    },
+    {
+      "gameKey": "GuardianDeity#5.1",
+      "hash": "E48AA47F71F4D3EDD0A9E12DC4922B5D1E0C46F271D30AEAC61F4CD65DE681FA",
+      "target": "Bogini mórz i żeglugi, patronka miasta-państwa Limsa Lominsa. Włada mocą\nwiatru i opiekuje się trzecim miesiącem astralnym.\nWedług powszechnej wiary jest córką Thaliaka, boga rzek, oraz starszą\nsiostrą Nophiki, bogini ziemi.\nPrzedstawia się ją jako krzepką rybaczkę z potężnym harpunem. Jej\nsymbolem są zwykle fale."
+    },
+    {
+      "gameKey": "GuardianDeity#6.0",
+      "hash": "A34E37A79165460180AC3522B1B43E36846E0B1AC2D163C04B95F4C6F236309C",
+      "target": "Oschon"
+    },
+    {
+      "gameKey": "GuardianDeity#6.1",
+      "hash": "3E01179C5DC5964B054C1EA58C5280443AC61404671EEBE6A875A44EF2920080",
+      "target": "Bóg gór i wędrówki. Włada mocą wiatru i opiekuje się trzecim miesiącem\numbralnym.\nWedług powszechnej wiary jest bratem z wyboru Nald'thala, boga handlu,\noraz bliskim przyjacielem Halone, bogini wojny.\nPrzedstawia się go jako beztroskiego myśliwego z cisowym łukiem. Jego\nsymbolem jest zwykle kij wędrowny."
+    },
+    {
+      "gameKey": "GuardianDeity#7.0",
+      "hash": "30E95C8C823A883D6E486757ED8192CED500911D67C54632D8030EB5A964BBF1",
+      "target": "Byregot"
+    },
+    {
+      "gameKey": "GuardianDeity#7.1",
+      "hash": "AA27B7C4963171E31D98ACDE2D86DC743F510AFF80DB004496AE977FBA0D95DC",
+      "target": "Bóg budownictwa i rzemiosła. Włada mocą błyskawic i opiekuje się\nczwartym miesiącem astralnym.\nWedług powszechnej wiary jest uczniem Thaliaka, boga rzek, oraz starszym\nbratem Halone, bogini wojny.\nPrzedstawia się go jako rzetelnego kowala z dwustronnym żelaznym młotem.\nJego symbolem są zwykle palce dłoni."
+    },
+    {
+      "gameKey": "GuardianDeity#8.0",
+      "hash": "2F725AFC4604FE1A6671A8D3C3D66FB105246D957D7BBE88B0A54D8E5001F971",
+      "target": "Rhalgr"
+    },
+    {
+      "gameKey": "GuardianDeity#8.1",
+      "hash": "14D9275D24E461C02C00C95F02DCC4B4282B06AF54304F1373084B4AD0CA8A90",
+      "target": "Bóg komet i zniszczenia, patron miasta-państwa Ala Mhigo. Włada mocą\nbłyskawic i opiekuje się czwartym miesiącem umbralnym.\nWedług powszechnej wiary jest sługą Nymei, bogini gwiazd, oraz\nprzybranym ojcem Byregota, boga rzemiosła, i Halone, bogini wojny.\nPrzedstawia się go jako bystrego czarownika z mosiężną laską. Jego\nsymbolem jest zwykle spadająca gwiazda."
+    },
+    {
+      "gameKey": "GuardianDeity#9.0",
+      "hash": "94F51F17FEF2B8C7938215F27B226BE2DD91C4AD8030D3467884C5DA0153862D",
+      "target": "Azeyma"
+    },
+    {
+      "gameKey": "GuardianDeity#9.1",
+      "hash": "64822929CC8008B4679015AB917C53C4E7CDC63B10B4162CB8ACCA031B6F741B",
+      "target": "Bogini słońca i sprawiedliwego sądu. Włada mocą ognia i opiekuje się\npiątym miesiącem astralnym.\nWedług powszechnej wiary jest córką Althyka, boga czasu, oraz starszą\nsiostrą Menphiny, bogini miłości.\nPrzedstawia się ją jako szlachciankę o śmiałym usposobieniu, dzierżącą\nzłoty wachlarz. Jej symbolem jest zwykle słoneczna tarcza."
+    },
+    {
+      "gameKey": "GuardianDeity#10.0",
+      "hash": "120192824A350A075FA2219B0BB4122E76B721DADB4BBE4D43D60A5141A4ED23",
+      "target": "Nald'thal"
+    },
+    {
+      "gameKey": "GuardianDeity#10.1",
+      "hash": "5C45D59204A5F3E315433225102D286ADEBAA8B167C6FBF2DD131F78B668121E",
+      "target": "Bóg podziemi i handlu, patron miasta-państwa Ul'dah. Włada mocą ognia i\nopiekuje się piątym miesiącem umbralnym.\nWedług powszechnej wiary jest bóstwem o dwóch obliczach — Naldzie i\nThalu — pojmowanych jako bliźnięta.\nPrzedstawia się go jako przenikliwego kupca z wagą. Jego symbolem są\nzwykle muszle używane jako pieniądze."
+    },
+    {
+      "gameKey": "GuardianDeity#11.0",
+      "hash": "76C26B83458CE877BA8615ADB6457D196656D965980C22E3A03F76104BF083BB",
+      "target": "Nophica"
+    },
+    {
+      "gameKey": "GuardianDeity#11.1",
+      "hash": "66F51CBA6CA18DD81923FA4F7AD38963E9B7880487C06CAD34F2E7F6537AAA6B",
+      "target": "Bogini ziemi i urodzaju, patronka miasta-państwa Gridania. Włada mocą\nziemi i opiekuje się szóstym miesiącem astralnym.\nWedług powszechnej wiary jest córką Azeymy, bogini słońca, oraz młodszą\nsiostrą Llymlaen, bogini mórz.\nPrzedstawia się ją jako pogodną rolniczkę ze stalową kosą. Jej symbolem\njest zwykle świeża zieleń roślin."
+    },
+    {
+      "gameKey": "GuardianDeity#12.0",
+      "hash": "F950A08A59907B9F8A50EFD79E9944FCF9AF294C3520EE41F8D382527B5EB7B2",
+      "target": "Althyk"
+    },
+    {
+      "gameKey": "GuardianDeity#12.1",
+      "hash": "54B64CDC6F70A11B9E474EFB33E5592D3903500180682E2184E7C6DA1115DD4E",
+      "target": "Bóg grawitacji i czasu. Włada mocą ziemi i opiekuje się szóstym\nmiesiącem umbralnym.\nWedług powszechnej wiary jest starszym bratem Nymei, bogini gwiazd, oraz\nojcem Azeymy, bogini słońca, i Menphiny, bogini księżyca.\nPrzedstawia się go jako surowego władcę z wielkim toporem z mitrylu.\nJego symbolem jest zwykle klepsydra."
+    }
+  ]
+}

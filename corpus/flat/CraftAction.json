@@ -1,0 +1,726 @@
+{
+  "sheet": "CraftAction",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "CraftAction#100001.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100001.1",
+      "hash": "E0A04A1D0BDD89E2DDA94930A113CFC219E866C20D30F6E49BEAD4D17B16AC4A",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==8],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100002.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100002.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100003.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100003.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100004.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100004.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100010.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100010.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100015.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100015.1",
+      "hash": "AA37EB6537587A0CAE491886AD0E2724DD3E5642FAB500758D3CFC0212A22D3D",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==9],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100016.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100016.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100017.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100017.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100018.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100018.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100023.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100023.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100030.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100030.1",
+      "hash": "23698A79341310A3817BA008ECF5611EB7F198A93C063EE0D47BBF14ED55A34D",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==10],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100031.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100031.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100032.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100032.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100034.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100034.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100040.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100040.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100045.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100045.1",
+      "hash": "CE8D1DE69285EDEF5F56B0E644CC51E3E676FA53743D444C4910CF26A64EB1BE",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==12],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100046.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100046.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100047.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100047.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100048.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100048.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100053.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100053.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100060.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100060.1",
+      "hash": "0F096017A0297F5343D8DD3FCC86B376EFF76519CE15E07DCD7C5F396FCD1F2E",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==13],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100061.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100061.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100062.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100062.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100064.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100064.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100070.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100070.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100075.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100075.1",
+      "hash": "E78216C4119EE0CFE12C88F8A68B73345F6CFED03CA44493A987C1216841C6AB",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==11],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100076.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100076.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100077.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100077.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100078.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100078.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100082.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100082.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100090.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100090.1",
+      "hash": "7C16BA1D24564F9F14322096CD9DDE7A050EF3D4C6AD0CBDFA433E7CC06C9C4B",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==14],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100091.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100091.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100092.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100092.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100093.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100093.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100099.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100099.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100105.0",
+      "hash": "86BD952FB32CC91CCC92DA807A45BC3BA58D99A2AD4DE08535856D32EBF3CCE7",
+      "target": "Synteza"
+    },
+    {
+      "gameKey": "CraftAction#100105.1",
+      "hash": "536F60BF200DCABDE2BD3631B341DDD1CC97F26EF6E4BFE6C6F50BCBAECF5498",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==15],<if([gnum69>=31],120,100)>,100)><br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100106.0",
+      "hash": "AB9E98D611A581AA0FCBD8FA080B7C7C50E0ABDDA26358E7570080A5E5E66236",
+      "target": "Obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100106.1",
+      "hash": "3C0B17B969C98BF8327760F64C6D1220F8B9113AA37E755A250AD33D11AAE87A",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 100<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100107.0",
+      "hash": "23FBC031B2AEE2EDFF19A407698D2B199ED071F31EBAE3A02F7A935BF12DF827",
+      "target": "Mistrzowska naprawa"
+    },
+    {
+      "gameKey": "CraftAction#100107.1",
+      "hash": "95126A057FE69F022749415AE271FA012887A9CD7A6F42B58026FB53E4D2C6E0",
+      "target": "Przywraca 30 pkt trwałości."
+    },
+    {
+      "gameKey": "CraftAction#100109.0",
+      "hash": "BB9D1A9FCCC236AA2CD7EF0DCB37BE5C826D411908A4EB8974AB71A8B9AB18E5",
+      "target": "Obróbka pośrednia"
+    },
+    {
+      "gameKey": "CraftAction#100109.1",
+      "hash": "397A361500B801DB19C6B34F295B683AD2FA92842516790935FA63C3DB1D0DA3",
+      "target": "Zużywa trwałość, aby podnieść jakość.<br>Skuteczność: 125<br>Szansa powodzenia: 100%<br><colortype(504)><edgecolortype(505)>Warunek kombinacji: <edgecolortype(0)><colortype(0)>Obróbka; <colortype(504)><edgecolortype(505)>Premia kombinacji: <edgecolortype(0)><colortype(0)>koszt spada do 18 CP"
+    },
+    {
+      "gameKey": "CraftAction#100113.0",
+      "hash": "744EA732E226ADC1EDB73AA06F0AA3E38B1F75CB52D644DEADC6F2528AF97853",
+      "target": "Obserwacja"
+    },
+    {
+      "gameKey": "CraftAction#100113.1",
+      "hash": "9EC6A467E4B1DD698E1A25EEF0A2D7A82946805EDC8E393BB778FB73ECC292C2",
+      "target": "Przez 1 krok czeka, nie wykonując pracy."
+    },
+    {
+      "gameKey": "CraftAction#100339.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100339.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100340.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100340.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100341.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100341.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100342.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100342.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100343.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100343.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100344.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100344.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100345.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100345.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100346.0",
+      "hash": "60958728F994D95927BA615ABC350E059DCC8647E33DB15EA71F0095073B9980",
+      "target": "Błogosławieństwo Byregota"
+    },
+    {
+      "gameKey": "CraftAction#100346.1",
+      "hash": "1A19327BDE0AD9164B365409006F023A0C5C84C5B3B506421F31DAD044058EC3",
+      "target": "<colortype(500)><edgecolortype(501)>Wymaga co najmniej 1 kumulacji Wewnętrznego spokoju.<edgecolortype(0)><colortype(0)><br>Zużywa trwałość, aby podnieść jakość. <br>Każda kumulacja Wewnętrznego spokoju dodaje 20 skuteczności. <br>Po użyciu kończy działanie Wewnętrznego spokoju. <br>Skuteczność: 100 (maks. 300)<br>Szansa powodzenia: 100%"
+    },
+    {
+      "gameKey": "CraftAction#100355.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100355.1",
+      "hash": "990C5D4901134400AF4B4E1831DEB60D6E127879F871C49C498FE0D22CCC7B68",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==8],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100356.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100356.1",
+      "hash": "1649E3EC1F8DB852A7C65FB3346738657FB24E397FB546A2B6D8F384C5BA3799",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==9],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100357.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100357.1",
+      "hash": "81B6C4EFC93196470A605A02A4ACD6AF29358D25C46C25C58141BEB3281161F6",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==10],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100358.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100358.1",
+      "hash": "5E14CC480D6074635589204BCE803BE3A9B10B272FE4BE8659144EF8568D61C4",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==11],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100359.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100359.1",
+      "hash": "CC477401E38CB35A4A31EC3E43583C85D758FC44A41375CC75D77DAA06C1CCD9",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==12],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100360.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100360.1",
+      "hash": "2468E99F45087C314314BE7605F405B0E08F8BA8D9A4E55518007E4F2A2E495A",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==13],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100361.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100361.1",
+      "hash": "6BE3A13DF4E6F5118F3B27135FF33CD1A51F4AA833F14FB6C5610AD6FEECEE2F",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==14],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100362.0",
+      "hash": "6698379998D7352D28C53FA6BD0C315216D8E7BF92C21FB6FEF9A9A16F53B6B9",
+      "target": "Pośpieszna obróbka"
+    },
+    {
+      "gameKey": "CraftAction#100362.1",
+      "hash": "F897ADD6AEC3D647D9A9B144A726B9C7C7D258FDC734FBD0CB8929C8CE70765C",
+      "target": "Zużywa trwałość, aby podnieść jakość. Nie zużywa CP, ale ma niską szansę powodzenia.<br>Skuteczność: 100<br>Szansa powodzenia: 60%<if([gnum68==15],<if([gnum69>=96],<br>Dodatkowy efekt: nadaje ci Expedience.<br>Czas działania: 1 krok,)>,)>"
+    },
+    {
+      "gameKey": "CraftAction#100363.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100363.1",
+      "hash": "6D0759CFE9B19611246608762C84F087558C5F3FBB440A2C2C5BC49D136122DF",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==8],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100364.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100364.1",
+      "hash": "AD4D2A398F436A679501B8B9E9F72685FBFF3BEB9235BD4F175BAFFC79E07551",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==9],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100365.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100365.1",
+      "hash": "FF09CCC835250C75AFD365EFEC7B04C9E7AF130E7C25B5C0A3BFA9A906C35E4D",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==10],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100366.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100366.1",
+      "hash": "4F2794DD8ED893C0649565BBE656B683E2CD499CAE2E855523FEDBA45EE7E301",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==11],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100367.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100367.1",
+      "hash": "560DC264015B032C13600BF496C56B90A1D2A66B63E22D4278CF64F62BBD0AB7",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==12],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100368.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100368.1",
+      "hash": "155B00D5F4BF8F9078FD25718D3F874E1D9808BF08458B1BA75C53EE8DD80007",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==13],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100369.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100369.1",
+      "hash": "003769B8F3A3E5AE687BA8D275ABCA622ABBD3A95C2919AC80FBAB7512697AFC",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==14],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100370.0",
+      "hash": "BB43DACECB53C24E236B36804FC237170870ACCD1E702024AC4544F51F734430",
+      "target": "Forsowna synteza"
+    },
+    {
+      "gameKey": "CraftAction#100370.1",
+      "hash": "AE192D5A64A9BCA6FFD66C74146608147FE5D8E37DCEFFF1B53143CD10F9CB52",
+      "target": "Zużywa trwałość, aby zwiększyć postęp.<br>Skuteczność: <if([gnum68==15],<if([gnum69>=63],500,250)>,250)><br>Szansa powodzenia: 50%"
+    },
+    {
+      "gameKey": "CraftAction#100371.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100371.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100372.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100372.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100373.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100373.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100374.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100374.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100375.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100375.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100376.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100376.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100377.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100377.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    },
+    {
+      "gameKey": "CraftAction#100378.0",
+      "hash": "16E992B7E181E7D9CEC4E0EFB91C50FA5102F37F5759E8BC983E26B4BC9B1A74",
+      "target": "Tajniki fachu"
+    },
+    {
+      "gameKey": "CraftAction#100378.1",
+      "hash": "CF9C30D38C2E5AE785A7CB0EF4A876AE5BBFBE1B88F3011F00166249D65C4939",
+      "target": "<colortype(500)><edgecolortype(501)>Tylko przy stanie „Wysoka jakość” lub lepszym.<edgecolortype(0)><colortype(0)><br>Przywraca 20 CP."
+    }
+  ]
+}

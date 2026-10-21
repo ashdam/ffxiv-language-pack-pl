@@ -1,0 +1,86 @@
+{
+  "sheet": "PetAction",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "PetAction#1.0",
+      "hash": "AF16C830C510082F56BD99E3EECB0762309FBF31D47F59FD4D25F81C32D4F0C9",
+      "target": "Odeślij"
+    },
+    {
+      "gameKey": "PetAction#1.1",
+      "hash": "BF0D286AAA10C940DC98D01429601CA5499AE3CF0D1784FEB92A7C94CE425854",
+      "target": "Odsyła chowańca."
+    },
+    {
+      "gameKey": "PetAction#2.0",
+      "hash": "DF4539C7D3EA0744C4D15DE7FAC0108BFD6BF533574498F264249F142E3BDB2A",
+      "target": "Podążaj"
+    },
+    {
+      "gameKey": "PetAction#2.1",
+      "hash": "6ECB624BBB1A92652F2AB43E6DCC603EBF287B68B3FA4B91F6B2EA60F98BD70D",
+      "target": "Chowaniec podąża za tobą."
+    },
+    {
+      "gameKey": "PetAction#3.0",
+      "hash": "E9463DCCF0541A9778589691543FD69249759D5DE6A97CD57D6420C3E5D92BAA",
+      "target": "Przemieść się"
+    },
+    {
+      "gameKey": "PetAction#3.1",
+      "hash": "C5A80A91C21C1304AA1A88DCAC65A57AAA8C801F2C675ED6C1FCEC305E9F2613",
+      "target": "Chowaniec przemieszcza się we wskazane miejsce."
+    },
+    {
+      "gameKey": "PetAction#4.0",
+      "hash": "08FD1DE4B04DF4A2FE763AC67ADE9D0FD7C65202C49BE6ADB5397717FA96504E",
+      "target": "Czekaj"
+    },
+    {
+      "gameKey": "PetAction#4.1",
+      "hash": "BE02B9F60166A59ED08DD91D8C517BAE7405986204E6BF33F3525348F420C460",
+      "target": "Chowaniec czeka w miejscu."
+    },
+    {
+      "gameKey": "PetAction#5.0",
+      "hash": "C8D3FC567BBCBF384407A4CA279787FDB6E73932155E962E562507ACFBF53094",
+      "target": "Czuwaj"
+    },
+    {
+      "gameKey": "PetAction#5.1",
+      "hash": "81D135822753F7A385B177097274EDDD2A75EBA76AF915253D5A989B5115520C",
+      "target": "Chowaniec podejmuje walkę dopiero wtedy, gdy zaatakujesz lub zostaniesz zaatakowany."
+    },
+    {
+      "gameKey": "PetAction#6.0",
+      "hash": "B3EE96C93CE5DE1CAAF8161A254F5FE9553B851649E85C049E2ACE8A6BF7648C",
+      "target": "Tryb bierny"
+    },
+    {
+      "gameKey": "PetAction#6.1",
+      "hash": "6B69C776E79C91E26A29F71B56DB72A0DF3E5986298628F7A22DD54B6EF2A224",
+      "target": "Chowaniec podejmuje walkę wyłącznie na twój rozkaz."
+    },
+    {
+      "gameKey": "PetAction#7.0",
+      "hash": "E901F7CBC9F9586B58A4CCE787C091CBA2B2C9D13EA29F0B36B1BF8B07E61588",
+      "target": "Swobodna walka"
+    },
+    {
+      "gameKey": "PetAction#7.1",
+      "hash": "601E40C5C6D52C1F34BCA51FCBE820035BE3EEB29C93E04E181EC0DD73513A26",
+      "target": "Wydaje chowańcowi rozkaz ataku."
+    },
+    {
+      "gameKey": "PetAction#8.0",
+      "hash": "7E3486C4A10C213AE357CF4080FE4D70A6228F72170FABFA68733C40DFE1A602",
+      "target": "Na rozkaz"
+    },
+    {
+      "gameKey": "PetAction#8.1",
+      "hash": "B071C58511B70BDF15C00FA402DA1EAEED9B2EABF507CC9A57B06492A00AF158",
+      "target": "Wydaje chowańcowi rozkaz ataku. Niektórych akcji używa on jednak dopiero na wyraźny rozkaz."
+    }
+  ]
+}
