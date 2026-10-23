@@ -10419,7 +10419,7 @@
     { "gameKey": "Addon#12821", "hash": "F5E154DF29F8E841", "target": "Główna" },
     { "gameKey": "Addon#12822", "hash": "C8DAA2E04AE22B57", "target": "Dodatkowa 1" },
     { "gameKey": "Addon#12823", "hash": "48FEC82DE6B47BF2", "target": "Dodatkowa 2" },
-    { "gameKey": "Addon#12824", "hash": "3BB4FA321031F1A4", "target": "Czarna lista" },
+    { "gameKey": "Addon#12824", "hash": "3BB4FA321031F1A4", "target": "Zablokowani" },
     { "gameKey": "Addon#12825", "hash": "8A58764B7CC1EEC3", "target": "Pokaż" },
     { "gameKey": "Addon#12826", "hash": "13729CE041C6B745", "target": "Rozwiąż wspólnotę" },
     { "gameKey": "Addon#12827", "hash": "14F4BFC5CC80F50F", "target": "Rozwiąż" },
