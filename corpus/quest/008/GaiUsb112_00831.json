@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb112_00831",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "U'odh Nunh prosi cię o dostarczenie Wheiskaetowi podarunku." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "Skoro sprawy w Forgotten Springs są załatwione, musisz wrócić do Costa del Sol, by dowiedzieć się, gdzie znaleźć trzeci składnik. Ponieważ wkrótce znów spotkasz się z Wheiskaetem, U'odh Nunh poprosił o przekazanie w jego imieniu butelki onyksowej brandewine. Wróć do Wheiskaeta i wręcz mu podarunek od U'odh Nunha." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "Wheiskaet jest zaskoczony podarunkiem i postanawia podziękować staremu towarzyszowi przy najbliższym spotkaniu. Skoro ta sprawa jest załatwiona, możesz porozmawiać z nim o ostatnim składniku." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "Dostarczyć onyksową brandewine Wheiskaetowi" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "Kapitan zawsze lubił tę brandewine. Zrób mi łaskę: dostarcz mu ją w moim imieniu." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "Kiedy wstąpiłem do Kompanii, byłem porywczym, gniewnym młodzikiem. Miał pełne prawo mnie przegnać. Wszystko, co mam, zawdzięczam jego mądrości i hojności." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "Tak, Wheiskaet był nauczycielem twardym, lecz sprawiedliwym. Umiał kształtować ludzi. Podejrzewam, że umie do dziś." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "Pozdrów go ode mnie, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Landenel i U'odh Nunh obaj wyrażali się o tobie z uznaniem. Co cię dziś sprowadza?" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "Aaach, moja ulubiona. Będę musiał osobiście podziękować nunhowi." },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "A teraz został ci tylko jeden składnik. Na szczęście tym razem nie będzie trzeba wyprawiać się po niego do Aldenardu." }
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "Wódz Forgotten Springs, U'odh Nun, ma dla ciebie coś do przekazania." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "U'odh Nun chce, byś zaniósł „<sheet(EventItem,2000649,0)>” Weiskaetowi do Costa del Sol." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "Przekazałeś „<sheet(EventItem,2000649,0)>” Weiskaetowi. To on zdradzi ci, gdzie znaleźć ostatni przysmak." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "Zanieś „<sheet(EventItem,2000649,0)>” Weiskaetowi do Costa del Sol." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "Proszę, zanieś „<sheet(EventItem,2000649,0)>”<br>zastępcy dowódcy Weiskaetowi<br>w Costa del Sol." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "Kiedyś zastępca dowódcy bardzo mi pomógł.<br>Gdy byłem młody i porywczy,<br>ciągle z nim zadzierałem." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "Choć bywałem bezczelny, zastępca dowódcy zawsze<br>uznawał moją „siłę”.<br>Wiele razy znosił moje wybryki…" },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "Masz już dwa z „Trzech Wielkich Przysmaków Eorzei”.<br>Idź zapytać zastępcę dowódcy o ostatni." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "…Wróciłeś od U'odh Nuna.<br>Widzę, że zbieranie przysmaków idzie ci nieźle." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "To…<br>Przecież to moja ulubiona „<sheet(EventItem,2000649,0)>”!<br>Wygląda na to, że U'odh cię polubił." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "A teraz pora na ostatni z „Trzech Wielkich Przysmaków Eorzei”.<br>Daj znać, gdy będziesz gotów, a ruszymy." }
   ]
 }

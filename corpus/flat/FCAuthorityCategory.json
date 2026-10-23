@@ -5,16 +5,16 @@
     { "gameKey": "FCAuthorityCategory#1", "hash": "7E6E41FE7867A741", "target": "Ustawienia" },
     { "gameKey": "FCAuthorityCategory#2", "hash": "3B03BC388A5B90F4", "target": "Członkowie" },
     { "gameKey": "FCAuthorityCategory#3", "hash": "C15DE600CE98B6A9", "target": "Społeczność" },
-    { "gameKey": "FCAuthorityCategory#4", "hash": "E5DA0A78E35CAC27", "target": "Działania" },
+    { "gameKey": "FCAuthorityCategory#4", "hash": "E5DA0A78E35CAC27", "target": "Akcje" },
     { "gameKey": "FCAuthorityCategory#6", "hash": "AD3E64FC60C626A4", "target": "Ustawienia" },
-    { "gameKey": "FCAuthorityCategory#7", "hash": "DBD345E81FEAF0BC", "target": "Posiadłość" },
-    { "gameKey": "FCAuthorityCategory#8", "hash": "344A4050F631D77B", "target": "Personalizacja" },
-    { "gameKey": "FCAuthorityCategory#9", "hash": "749305A644FD1580", "target": "Ogród" },
-    { "gameKey": "FCAuthorityCategory#10", "hash": "46C29BDFE0B95A80", "target": "Chocobo" },
+    { "gameKey": "FCAuthorityCategory#7", "hash": "DBD345E81FEAF0BC", "target": "Działka i dom" },
+    { "gameKey": "FCAuthorityCategory#8", "hash": "344A4050F631D77B", "target": "Wygląd domu" },
+    { "gameKey": "FCAuthorityCategory#9", "hash": "749305A644FD1580", "target": "Uprawy" },
+    { "gameKey": "FCAuthorityCategory#10", "hash": "46C29BDFE0B95A80", "target": "Hodowla chocobo" },
     { "gameKey": "FCAuthorityCategory#11", "hash": "F74D4F72AB63A5FB", "target": "Warsztat" },
-    { "gameKey": "FCAuthorityCategory#12", "hash": "714B445415EB5C93", "target": "Projekty Free Company" },
-    { "gameKey": "FCAuthorityCategory#13", "hash": "69945ECD4A978313", "target": "Statki powietrzne i okręty podwodne" },
-    { "gameKey": "FCAuthorityCategory#14", "hash": "EE6F92561AECAA05", "target": "Orchestrion" },
-    { "gameKey": "FCAuthorityCategory#15", "hash": "8746CD17D503E21D", "target": "Księga wiadomości" }
+    { "gameKey": "FCAuthorityCategory#12", "hash": "714B445415EB5C93", "target": "Projekty kompanii" },
+    { "gameKey": "FCAuthorityCategory#13", "hash": "69945ECD4A978313", "target": "Sterowce i łodzie podwodne" },
+    { "gameKey": "FCAuthorityCategory#14", "hash": "EE6F92561AECAA05", "target": "Orkiestrion" },
+    { "gameKey": "FCAuthorityCategory#15", "hash": "8746CD17D503E21D", "target": "Księga gości" }
   ]
 }

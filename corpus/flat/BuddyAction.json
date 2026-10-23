@@ -1,0 +1,66 @@
+{
+  "sheet": "BuddyAction",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "BuddyAction#2.0",
+      "hash": "164546A9C54814805D81B2474160728961EC0230D8EFE0C5EB1626C7A2B55FE7",
+      "target": "Odeślij"
+    },
+    {
+      "gameKey": "BuddyAction#2.1",
+      "hash": "79E9D06FE3E9283BFC72B119EACDE255B42E4C83FB582070933585D894F5B563",
+      "target": "Odsyła towarzysza."
+    },
+    {
+      "gameKey": "BuddyAction#3.0",
+      "hash": "641D1EF657BDFD9FA2064AB5AE3F0E44186E5161DCD36B63839F3A76A79883BC",
+      "target": "Podążaj"
+    },
+    {
+      "gameKey": "BuddyAction#3.1",
+      "hash": "57F68019544F79BA76BCDB03A5FC4F3C7C14791D142F9547C8E28587A8403EDF",
+      "target": "Nakazuje towarzyszowi podążać za Tobą."
+    },
+    {
+      "gameKey": "BuddyAction#4.0",
+      "hash": "D68398ADB525002235DE41A8CB41B9E145FE126767CE03127C2A24570F36043A",
+      "target": "Swobodna walka"
+    },
+    {
+      "gameKey": "BuddyAction#4.1",
+      "hash": "CFA96A145CF82E832314D24F35DA4E62B924E023FF5434C2C489839F178C21A4",
+      "target": "Nakazuje towarzyszowi walczyć, korzystając ze wszystkich poznanych akcji."
+    },
+    {
+      "gameKey": "BuddyAction#5.0",
+      "hash": "297F4958A1E5A66227A60B44C9361C2A833AE474AA6B91FB8BB553C8F6B0A301",
+      "target": "Tryb obrony"
+    },
+    {
+      "gameKey": "BuddyAction#5.1",
+      "hash": "548C4B0F15EE76D6F459846C1B034A5E1B8BB1CD4D003FE9F2A80958B5245324",
+      "target": "Nakazuje towarzyszowi atakować akcjami poznanymi w dziale „OBROŃCA”."
+    },
+    {
+      "gameKey": "BuddyAction#6.0",
+      "hash": "F77D77EDFA07BFEDE06645DD82C5D75EB10A69B3995D8239D3F76FED8E5AFC18",
+      "target": "Tryb ataku"
+    },
+    {
+      "gameKey": "BuddyAction#6.1",
+      "hash": "7A1B00198A2F4AEF34F5F85C84A4BCFD68F33F55DB9FC5A185BF8863A102A765",
+      "target": "Nakazuje towarzyszowi atakować akcjami poznanymi w dziale „NAPASTNIK”."
+    },
+    {
+      "gameKey": "BuddyAction#7.0",
+      "hash": "D5EE446406BC588373900DA8812E0842F8642ACFA866294C1057FB5F4AFFA882",
+      "target": "Tryb leczenia"
+    },
+    {
+      "gameKey": "BuddyAction#7.1",
+      "hash": "BE8173600373658D3F7A618D2E339B74BA454D23A9F8DA099D674F4E2870404D",
+      "target": "Nakazuje towarzyszowi leczyć akcjami poznanymi w dziale „UZDROWICIEL”."
+    }
+  ]
+}

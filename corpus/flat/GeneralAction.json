@@ -1,0 +1,431 @@
+{
+  "sheet": "GeneralAction",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "GeneralAction#1.0",
+      "hash": "2E1A5EB62078F126A52ED633150D8B5370F77A6904A216C33F0F4DF5289008E6",
+      "target": "Autoatak"
+    },
+    {
+      "gameKey": "GeneralAction#1.1",
+      "hash": "E09E32DFD0EEDE16F44FAFFF37579081D789F1DB9F2EE8F59EC3E156A63307EE",
+      "target": "Automatycznie wykonuje zwykłe ataki w stałych odstępach czasu."
+    },
+    {
+      "gameKey": "GeneralAction#2.0",
+      "hash": "9EE0CA3E24D60EA0B6A3E02892877BC0E2324D377E87ECA76BE1176D73C574E4",
+      "target": "Skok"
+    },
+    {
+      "gameKey": "GeneralAction#2.1",
+      "hash": "33528DADAFB225837EABF8DEBA85D19C167DEE342736B27CD1B23293C4FEF324",
+      "target": "Pozwala przeskakiwać niewielkie różnice wysokości."
+    },
+    {
+      "gameKey": "GeneralAction#3.0",
+      "hash": "D3A9A42A63A9A1E48FD55F35DDBDB87D5F2ADEF7321C0B8C63C6729B283251CB",
+      "target": "Przełamanie limitu"
+    },
+    {
+      "gameKey": "GeneralAction#3.1",
+      "hash": "8502B2CF9F47BD91DA237993418EFCE441142FF366DDB36A7C16ABF0504304C5",
+      "target": "Zużywa pasek limitu, by wykonać potężną akcję.<br>Efekt zależy od roli postaci i poziomu przełamania w chwili użycia.<br><colortype(506)><edgecolortype(507)>Obrońca: <edgecolortype(0)><colortype(0)>zmniejsza obrażenia otrzymywane przez wszystkich członków drużyny.<br>(Obszar: 50 m)<br><colortype(506)><edgecolortype(507)>Walka wręcz: <edgecolortype(0)><colortype(0)>zadaje duże obrażenia jednemu wrogowi.<br><colortype(506)><edgecolortype(507)>Atak dystansowy: <edgecolortype(0)><colortype(0)>zadaje duże obrażenia wrogom w linii przed tobą.<br>(Zasięg: 30 m)<br><colortype(506)><edgecolortype(507)>Magia: <edgecolortype(0)><colortype(0)>zadaje duże obrażenia wrogom na wskazanym obszarze. (Promień: 8 m / 10 m / 15 m)<br><colortype(506)><edgecolortype(507)>Uzdrowiciel: <edgecolortype(0)><colortype(0)>przywraca HP wszystkim członkom drużyny.<br>Na poziomie 3 również wskrzesza.<br>Jeśli wskrzeszana osoba nie ma Osłabienia, zostaje wskrzeszona bez tego efektu. Jeśli ma Osłabienie, jego czas działania zostaje zresetowany. (Obszar: 50 m)"
+    },
+    {
+      "gameKey": "GeneralAction#4.1",
+      "hash": "91ABC474530030D16738A530DAF7642ADB3B67833FE146FE07C7832841EB198A",
+      "target": "Zwiększa twoją szybkość ruchu.<br><colortype(504)><edgecolortype(505)>Czas działania w walce: <edgecolortype(0)><colortype(0)>10 s<br><colortype(504)><edgecolortype(505)>Czas działania poza walką: <edgecolortype(0)><colortype(0)>20 s<br>※ Nie można używać w PvP."
+    },
+    {
+      "gameKey": "GeneralAction#5.0",
+      "hash": "52FA9A3A79BFE35AC4F1172B62B077EDDE16D0E254F146CB39372FA51AB7DF1A",
+      "target": "Rozkładanie przedmiotów"
+    },
+    {
+      "gameKey": "GeneralAction#5.1",
+      "hash": "B3F599F9F34271BE7E418A804F1AD22A54C89485B0D605C6AEEFF8A1505D31F7",
+      "target": "Rozbiera przedmiot, aby odzyskać materiały nadające się do ponownego użycia."
+    },
+    {
+      "gameKey": "GeneralAction#6.0",
+      "hash": "1196B6C538ECC61A658445255DCB19EBE23E05465ACD46C4AA5D995667BD8CFE",
+      "target": "Naprawa"
+    },
+    {
+      "gameKey": "GeneralAction#6.1",
+      "hash": "D3ABCDFFEB96BD7DE822D50D3E29F4199F960403E40C62DBEAD920EDFA5DC390",
+      "target": "Przywraca stan wyposażenia.<br>Wymaga ciemnej materii odpowiedniej dla poziomu wyposażenia."
+    },
+    {
+      "gameKey": "GeneralAction#7.0",
+      "hash": "E68B3B94586DD2CCEC982C0106FF9D1AFEB966F6F202BAE67A439F04078B5B6F",
+      "target": "Teleportacja"
+    },
+    {
+      "gameKey": "GeneralAction#7.1",
+      "hash": "6DA3EBF964C44ECC21C04A8124D674FA72E173D0E2889DCF36640526C9871A95",
+      "target": "Zużywa gile, aby przenieść cię do wcześniej odwiedzonego aetherytu."
+    },
+    {
+      "gameKey": "GeneralAction#8.0",
+      "hash": "6B0143D03864993FDF6922B8BE1C69B93B24BABB9989EDD7533F9EEB680148E0",
+      "target": "Powrót"
+    },
+    {
+      "gameKey": "GeneralAction#8.1",
+      "hash": "A1E01DFA88DB0FAEC1229838DAC7349FC3C7003D9AA2A051ADF4405B3B0D551A",
+      "target": "Przenosi cię do zarejestrowanego punktu powrotu."
+    },
+    {
+      "gameKey": "GeneralAction#9.0",
+      "hash": "58E74428E14B62DB0E86F3D6EA3759095E136264B207810CBA3F86FD3E5358EA",
+      "target": "Losowy wierzchowiec"
+    },
+    {
+      "gameKey": "GeneralAction#9.1",
+      "hash": "B98BE4A6E61C751D8B3C6A82C8E64F457A18474791E1A65E6BE716116E782789",
+      "target": "Przywołuje losowego wierzchowca."
+    },
+    {
+      "gameKey": "GeneralAction#10.0",
+      "hash": "049E9E3B434A04784F522B29D36F1D0E9681ACB01172B238283849BFA42DF3F4",
+      "target": "Losowy minion"
+    },
+    {
+      "gameKey": "GeneralAction#10.1",
+      "hash": "32CC5D4FE5ECB0B3AF2B739EB2AFF51A34FF3C7E624F0D1A3653CCC3A96D1D40",
+      "target": "Przywołuje losowego miniona."
+    },
+    {
+      "gameKey": "GeneralAction#12.0",
+      "hash": "1781935A8F47A0E57368E76EEC68A6EE6581D442056033B57E37BA093493A3B1",
+      "target": "Osadzanie materii"
+    },
+    {
+      "gameKey": "GeneralAction#12.1",
+      "hash": "19C0FEC0074482A263650F32AB2C6CE573AE2C81909C95131D5C755BC3BE41D5",
+      "target": "Wzmacnia wyposażenie przez osadzenie w nim materii — skrystalizowanych myśli."
+    },
+    {
+      "gameKey": "GeneralAction#13.0",
+      "hash": "6EEE00F1BE14BCA440BF6CC8356874C1B66592A0396C24FA1359480F45F24E8F",
+      "target": "Osadzanie materii II"
+    },
+    {
+      "gameKey": "GeneralAction#13.1",
+      "hash": "90EECEAEDF3D0BB3A5B272DF74B26EFABFC7077689561D88283F4651D916B0A8",
+      "target": "Wzmacnia wyposażenie przez osadzenie w nim materii — skrystalizowanych myśli.<br>Pozwala przekroczyć liczbę gniazd materii, lecz takie osadzenie może się nie powieść."
+    },
+    {
+      "gameKey": "GeneralAction#14.0",
+      "hash": "C9F6EBE03D7D188C584DD1018100E7E9B7C554DC94A8D9E44AEAFCE23291232C",
+      "target": "Pozyskiwanie materii"
+    },
+    {
+      "gameKey": "GeneralAction#14.1",
+      "hash": "9C0018B49AFDD1B639190BDB01DD9B20D96380F737A3202359D1B4C97CCB1CF2",
+      "target": "Wydobywa eter myśli utrwalonych w przedmiocie i krystalizuje go w materię."
+    },
+    {
+      "gameKey": "GeneralAction#15.0",
+      "hash": "5930C048F31BAD10DA285D8E03E93E385DD4F0F93468695DFCCC43D34DA00C41",
+      "target": "Farbowanie"
+    },
+    {
+      "gameKey": "GeneralAction#15.1",
+      "hash": "ACEB1F6FA23FBC88D1DC4997FD07C1CCEEC9BDE768F89E569D260F75F2A57057",
+      "target": "Zużywa barwnik, aby zmienić kolor wyposażenia."
+    },
+    {
+      "gameKey": "GeneralAction#16.0",
+      "hash": "3DDE0966084AB6B64AEF4EC17CFF9CCC53DF17ABC65A93C64EBA17621421D52E",
+      "target": "Następny cel"
+    },
+    {
+      "gameKey": "GeneralAction#16.1",
+      "hash": "65C431D421B40D4BB0083E37CC523C9AE0C51B39DC96651374C2F28556B29E37",
+      "target": "Wybiera kolejnych przeciwników, zaczynając od najbliższego."
+    },
+    {
+      "gameKey": "GeneralAction#17.0",
+      "hash": "336E1EE900279FC412CCB6B9C0174E140E96808F96082DE0470692E511A2379E",
+      "target": "Poprzedni cel"
+    },
+    {
+      "gameKey": "GeneralAction#17.1",
+      "hash": "DDC34095B4BA14A04DCB9C2C69CF9045C25D314F9D6F77C534A7AC13F1FFC122",
+      "target": "Przełącza cele w odwrotnej kolejności, zaczynając od najbliższego przeciwnika."
+    },
+    {
+      "gameKey": "GeneralAction#18.0",
+      "hash": "0D1B102A7164771C7CE6E385546445EE5207FFAD8BD66E24318369FF75EE54D9",
+      "target": "Odłóż"
+    },
+    {
+      "gameKey": "GeneralAction#18.1",
+      "hash": "7DD1E4F6B5E99B21CDD91452CCBF6F48E0A6206B8B5DC36B7D4842422DB1C5BE",
+      "target": "Odkłada trzymany przedmiot w bieżącym miejscu."
+    },
+    {
+      "gameKey": "GeneralAction#19.0",
+      "hash": "AFDB2322DE15047AEE7E5C8803A39AEFBE2D09677F98503565877CE5A6ACEE6C",
+      "target": "Odczytaj mapę"
+    },
+    {
+      "gameKey": "GeneralAction#19.1",
+      "hash": "9848971C73063CC445D6EFC087B9CB6A6438082415A75E60B645C0ED764D136C",
+      "target": "Odczytuje starą mapę."
+    },
+    {
+      "gameKey": "GeneralAction#20.0",
+      "hash": "02F700EF4C22C270F1C93A27E8A58D8A3C8BCB05D2116494A178A54BE8A0B114",
+      "target": "Poszukiwanie skarbu"
+    },
+    {
+      "gameKey": "GeneralAction#20.1",
+      "hash": "870635D7014F2EF8F9F0DF3B80EE5CB57DECE430F9EB8D08EF0E5FE10B0D9908",
+      "target": "Przeszukuje otoczenie w poszukiwaniu skrzyni wskazanej na mapie skarbów.<br><colortype(504)><edgecolortype(505)>Obszar: <edgecolortype(0)><colortype(0)>promień 30 m"
+    },
+    {
+      "gameKey": "GeneralAction#21.0",
+      "hash": "6503847955D5CB31301C9E7556CF83888D24CA9B9FC0DCF2B03ADCC2878F265E",
+      "target": "Redukcja eteryczna"
+    },
+    {
+      "gameKey": "GeneralAction#21.1",
+      "hash": "5CBD00BEF7F69C3600638B992A0F1D541CC178D5FAD5AC67F9A1E4EB90E147A9",
+      "target": "Przebiera zebrane przedmioty kolekcjonerskie, aby odkryć nowe przedmioty."
+    },
+    {
+      "gameKey": "GeneralAction#22.0",
+      "hash": "848DA5E1208FA324EE0069D05FE0A2B7FE08922DEDA0581844C8CEB22B84C4CA",
+      "target": "Projekcja wyglądu"
+    },
+    {
+      "gameKey": "GeneralAction#22.1",
+      "hash": "4D770C5ED5542A39AA573A660EADD4C40DE93017B06E03CE99E3B34B63149925",
+      "target": "Zużywa pryzmat projekcji, aby zmienić wygląd wyposażenia."
+    },
+    {
+      "gameKey": "GeneralAction#23.0",
+      "hash": "B94639B25E146169627FBA8CF83430C0C60863D7A007781239551874C6EC10F2",
+      "target": "Zsiądź"
+    },
+    {
+      "gameKey": "GeneralAction#23.1",
+      "hash": "5C3AC1F68574F497353CC945DF90E5C0A742878CF31C3F8F09551E4AAAA9648F",
+      "target": "Pozwala zsiąść z wierzchowca."
+    },
+    {
+      "gameKey": "GeneralAction#24.0",
+      "hash": "85594BECA7552C04E4690AD27F45F19860F0E816EAEF87A46A38B624CB67388C",
+      "target": "Losowy latający wierzchowiec"
+    },
+    {
+      "gameKey": "GeneralAction#24.1",
+      "hash": "E63A03E994B40A01B8433AA8CCA0150CE5245483DAFC758582C1C2735F64EE12",
+      "target": "Przywołuje losowego wierzchowca zdolnego do lotu."
+    },
+    {
+      "gameKey": "GeneralAction#25.0",
+      "hash": "569C04A88D2BE4B1DF145B02F8437E3ACDB653313D66A7CFC864D91A587D7C88",
+      "target": "Płyta projekcji"
+    },
+    {
+      "gameKey": "GeneralAction#25.1",
+      "hash": "E6542B6B0669A5AEBF18FD1072FD7215FE4843EEE5D05335EF0E5F65A948378B",
+      "target": "Nakłada projekcję wyglądu na kilka elementów wyposażenia jednocześnie."
+    },
+    {
+      "gameKey": "GeneralAction#26.0",
+      "hash": "B8864D9C520764FFA9E5419B3A4BDF99906B19B38879CA023FDCC236AC0FFA0F",
+      "target": "Akcja wyprawy I"
+    },
+    {
+      "gameKey": "GeneralAction#26.1",
+      "hash": "5A42753AE48AF299FE2092B7EF0B6D1280EC09A693D500AC4B49ADB150317F2B",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy, np. lochu lub walki z pierwotnym bóstwem."
+    },
+    {
+      "gameKey": "GeneralAction#27.0",
+      "hash": "E70F1CD2D959825A5ACBD530995D04CE11C1DAC3C6E83B116BCD200C312E6793",
+      "target": "Akcja wyprawy II"
+    },
+    {
+      "gameKey": "GeneralAction#27.1",
+      "hash": "5A42753AE48AF299FE2092B7EF0B6D1280EC09A693D500AC4B49ADB150317F2B",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy, np. lochu lub walki z pierwotnym bóstwem."
+    },
+    {
+      "gameKey": "GeneralAction#28.0",
+      "hash": "0720EC30A2A007BA4E2F2F34230FE4C7AA5650D1A085C3858D66AF6D41672763",
+      "target": "Schowaj"
+    },
+    {
+      "gameKey": "GeneralAction#28.1",
+      "hash": "8F8C846C12DD469DCB8FBFCCF8B1AA299B58340612BC059B23399C8B43A2CF0E",
+      "target": "Chowa używane akcesorium."
+    },
+    {
+      "gameKey": "GeneralAction#29.0",
+      "hash": "B88E9744F336E772DD4E7DFCB72C12A720A83F047A0D7D6EAC1BB01439A34478",
+      "target": "Ułóż pasek dodatkowy"
+    },
+    {
+      "gameKey": "GeneralAction#29.1",
+      "hash": "0059287E20B370329E601D917EE8635DC90AA50EC5E2C66A0AB05F6E74297DD6",
+      "target": "Zmienia kolejność akcji na dodatkowym pasku."
+    },
+    {
+      "gameKey": "GeneralAction#30.0",
+      "hash": "B88E9744F336E772DD4E7DFCB72C12A720A83F047A0D7D6EAC1BB01439A34478",
+      "target": "Ułóż pasek dodatkowy"
+    },
+    {
+      "gameKey": "GeneralAction#30.1",
+      "hash": "0059287E20B370329E601D917EE8635DC90AA50EC5E2C66A0AB05F6E74297DD6",
+      "target": "Zmienia kolejność akcji na dodatkowym pasku."
+    },
+    {
+      "gameKey": "GeneralAction#31.0",
+      "hash": "704D99DB7861FBE8537C00017B42F077F34101C5F41BA78F5036B2CD5A1CCD84",
+      "target": "Akcja wsparcia I"
+    },
+    {
+      "gameKey": "GeneralAction#31.1",
+      "hash": "C36D7F21A7A373F468336A60B6DAAC147F656B1ABB12FC2BFCC4F682A58280B0",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy."
+    },
+    {
+      "gameKey": "GeneralAction#32.0",
+      "hash": "D5C718CF6D0A16785AAAA6D750F99C9974AABB788407F7B604A2B13F0F5BAB0B",
+      "target": "Akcja wsparcia II"
+    },
+    {
+      "gameKey": "GeneralAction#32.1",
+      "hash": "C36D7F21A7A373F468336A60B6DAAC147F656B1ABB12FC2BFCC4F682A58280B0",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy."
+    },
+    {
+      "gameKey": "GeneralAction#33.0",
+      "hash": "527BB53740AEDB03655ABCA3C882BFE076CBCF6B12F19D2F56540AAA1ED4EA62",
+      "target": "Akcja wsparcia III"
+    },
+    {
+      "gameKey": "GeneralAction#33.1",
+      "hash": "C36D7F21A7A373F468336A60B6DAAC147F656B1ABB12FC2BFCC4F682A58280B0",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy."
+    },
+    {
+      "gameKey": "GeneralAction#34.0",
+      "hash": "63B7B52719342775F624EA92F0450C3DE7686B735D036A47534EF677AE7BA810",
+      "target": "Akcja wsparcia IV"
+    },
+    {
+      "gameKey": "GeneralAction#34.1",
+      "hash": "C36D7F21A7A373F468336A60B6DAAC147F656B1ABB12FC2BFCC4F682A58280B0",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy."
+    },
+    {
+      "gameKey": "GeneralAction#35.0",
+      "hash": "6332764BB5C42ED30122AD0173F77894CB97A1366E9A88A001954334F07F0120",
+      "target": "Akcja wsparcia V"
+    },
+    {
+      "gameKey": "GeneralAction#35.1",
+      "hash": "C36D7F21A7A373F468336A60B6DAAC147F656B1ABB12FC2BFCC4F682A58280B0",
+      "target": "Wykonuje akcję właściwą dla danej wyprawy."
+    },
+    {
+      "gameKey": "GeneralAction#36.0",
+      "hash": "2F1B27AD919A21237C1FCEC6FD00FC07626FBF0E3E7868931BE186BEE9389F9C",
+      "target": "Cel: atak"
+    },
+    {
+      "gameKey": "GeneralAction#36.1",
+      "hash": "7ECABC7CD954F2994CECE8D769688171EF85D07C790ACCAB927F7E6CFA7F96E4",
+      "target": "Wybiera cel oznaczony znacznikiem ataku 1–8.<br>Gdy oznaczono kilka celów, wybiera najniższy numer."
+    },
+    {
+      "gameKey": "GeneralAction#37.0",
+      "hash": "314927C060BBAA9008804B2FF94EAF74DBEBB714A86B616FC48D3860B30A6CA9",
+      "target": "Cel: unieruchomienie"
+    },
+    {
+      "gameKey": "GeneralAction#37.1",
+      "hash": "197829AD06E2DAE50E8FBE1AF0D8378B269676836330921845B132F63F92E394",
+      "target": "Wybiera cel oznaczony znacznikiem unieruchomienia 1–3.<br>Gdy oznaczono kilka celów, wybiera najniższy numer."
+    },
+    {
+      "gameKey": "GeneralAction#38.0",
+      "hash": "AB05CD99E3B42E3DAEA66DF76B6EE1B6680C1056EDE34EB766AB95F413E556C7",
+      "target": "Cel: pomiń"
+    },
+    {
+      "gameKey": "GeneralAction#38.1",
+      "hash": "F812F68F492620CA4267C00453D367CCEE4C3989F48CD4A0C3C71C9572306B18",
+      "target": "Wybiera cel oznaczony znacznikiem pominięcia 1–2.<br>Gdy oznaczono kilka celów, wybiera najniższy numer."
+    },
+    {
+      "gameKey": "GeneralAction#39.0",
+      "hash": "533A5BD62E7F27F7023DE53C8D5BEF25020A46AF9606850ACABF2EF992F69B98",
+      "target": "Cel: kwadrat"
+    },
+    {
+      "gameKey": "GeneralAction#39.1",
+      "hash": "7D06F99FC112DEA6DD728395C369C6436D78071010288A52E8B463FBE63804DE",
+      "target": "Wybiera cel oznaczony kwadratem."
+    },
+    {
+      "gameKey": "GeneralAction#40.0",
+      "hash": "1236F521AF114F78E81E90F1D7F9BA22656CB4F26665AD54EBED2BC5A3B9C23B",
+      "target": "Cel: koło"
+    },
+    {
+      "gameKey": "GeneralAction#40.1",
+      "hash": "1B70C6414200FB1BFC113EDCFEF183F765BF3E2ABF747530389581F567D994EF",
+      "target": "Wybiera cel oznaczony kołem."
+    },
+    {
+      "gameKey": "GeneralAction#41.0",
+      "hash": "434FC64C926D713F22391DBD4D228617E7DB746A7720BA4F512689FCD27B393C",
+      "target": "Cel: plus"
+    },
+    {
+      "gameKey": "GeneralAction#41.1",
+      "hash": "F87463A577639FCB7C2DB1CE0A51A68E676405F832F83C01764017FF30AE20D4",
+      "target": "Wybiera cel oznaczony plusem."
+    },
+    {
+      "gameKey": "GeneralAction#42.0",
+      "hash": "EAA6F031C4ABB66DC2475F203C03345D990DBA794D2B30AA889E3FE4A83327A6",
+      "target": "Cel: trójkąt"
+    },
+    {
+      "gameKey": "GeneralAction#42.1",
+      "hash": "7FF57EDB8D3A1128040D40F5FA9A2DE30F9BF2DE5DEFC26BAA10FA0F9008794F",
+      "target": "Wybiera cel oznaczony trójkątem."
+    },
+    {
+      "gameKey": "GeneralAction#43.0",
+      "hash": "ED0E074ECF98D9FE551D407523E14D8D22DE02974C745C833B130539AC26D903",
+      "target": "Następna tablica"
+    },
+    {
+      "gameKey": "GeneralAction#43.1",
+      "hash": "DE5759FDC02DE30536E7AEAF6AFB024583E5380695C68E3C2C180BBE20283D0B",
+      "target": "Przełącza tablicę taktyczną na następną tablicę."
+    },
+    {
+      "gameKey": "GeneralAction#44.0",
+      "hash": "19EDC3C1158AB5AF650EE5E13B3FFEF9992C70F6F514DC98A303E08C44F5EB00",
+      "target": "Poprzednia tablica"
+    },
+    {
+      "gameKey": "GeneralAction#44.1",
+      "hash": "3F05474516D86BD4D2181291C9A3CF708C95088B289827533EE7B982B640E1B2",
+      "target": "Przełącza tablicę taktyczną na poprzednią tablicę."
+    }
+  ]
+}

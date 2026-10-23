@@ -1,0 +1,126 @@
+{
+  "sheet": "Relic6Magicite",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "Relic6Magicite#1.0",
+      "hash": "1801BDE642E6313F549BB5F74E7A0C18B6453EF0F47FC34435B88C8B63B482AB",
+      "target": "Mahatma Barana"
+    },
+    {
+      "gameKey": "Relic6Magicite#1.1",
+      "hash": "7C5B1D49E6875FD887FD522123C4B34169D4CC11A6502CC04CB7EB8F7C166972",
+      "target": "asertywność"
+    },
+    {
+      "gameKey": "Relic6Magicite#2.0",
+      "hash": "4D87F0FB70D5FFA1FCE7734F282FFD335B48D92471E16E4E5FB856D54FBE77B2",
+      "target": "Mahatma Byka"
+    },
+    {
+      "gameKey": "Relic6Magicite#2.1",
+      "hash": "8B616AA60AF2D3584E4A55CE68E6BBCA718DBAF025E6FBDB2DCDA0A910B9259F",
+      "target": "posiadanie"
+    },
+    {
+      "gameKey": "Relic6Magicite#3.0",
+      "hash": "2345787C4B619EFF23FCF73365A91EAC10F7C0797FDFD09E579E956AB317848C",
+      "target": "Mahatma Bliźniąt"
+    },
+    {
+      "gameKey": "Relic6Magicite#3.1",
+      "hash": "3691DF861136DA1382B4EAB91166628DAA51C04BA59FBCD07B703109D30F03B4",
+      "target": "myślenie"
+    },
+    {
+      "gameKey": "Relic6Magicite#4.0",
+      "hash": "74AB1E69BE63CC44529309E8AC9CCACBCB798235690FD28F83ABCC220CE2767B",
+      "target": "Mahatma Raka"
+    },
+    {
+      "gameKey": "Relic6Magicite#4.1",
+      "hash": "DEBDB23D9BC10F3EEBB4B30FCB4F487209A79DD1C88D8E49FFC192C8583D916A",
+      "target": "współodczuwanie"
+    },
+    {
+      "gameKey": "Relic6Magicite#5.0",
+      "hash": "D7E1DF429A725AA6D18F6C5B16DDEB5FD21C1BC8CFF32C5B09A56BD8D256F977",
+      "target": "Mahatma Lwa"
+    },
+    {
+      "gameKey": "Relic6Magicite#5.1",
+      "hash": "AD6A450BF4435F8F305481804CA478B0EBC73B03C86F5C19ACEF4B29BEE7658A",
+      "target": "wola"
+    },
+    {
+      "gameKey": "Relic6Magicite#6.0",
+      "hash": "7D18ACACC542E01C640755F5A793AE68BF74E5B836F1C04154C8ECFCE87F61D6",
+      "target": "Mahatma Panny"
+    },
+    {
+      "gameKey": "Relic6Magicite#6.1",
+      "hash": "6E0534AF16E1FE990DB04F7BE375D4A0D743A315CBC9866523CEC7C15D253C62",
+      "target": "analiza"
+    },
+    {
+      "gameKey": "Relic6Magicite#7.0",
+      "hash": "FAD036D1928C16E2DC1F7F4CFDED2D01795DB0AA517BE6989B4637A6ED7F257E",
+      "target": "Mahatma Wagi"
+    },
+    {
+      "gameKey": "Relic6Magicite#7.1",
+      "hash": "EE39E0C2B2FE1CEC731DA4ADCEFCF92ADE549829FF93A2746324E5A6A2BA1A7A",
+      "target": "porównywanie"
+    },
+    {
+      "gameKey": "Relic6Magicite#8.0",
+      "hash": "2184439E486B42C24CA800D27901012587DB5DF2551D78DF126C32502E1F1BC0",
+      "target": "Mahatma Skorpiona"
+    },
+    {
+      "gameKey": "Relic6Magicite#8.1",
+      "hash": "2402136C3CB55CB68990D59CDF549BEC2633B469BD58E079A36A29D5A96D5B9F",
+      "target": "pragnienie"
+    },
+    {
+      "gameKey": "Relic6Magicite#9.0",
+      "hash": "3F69F081A6A1A0BDC368F87F72F17D2815B084ACB1CBCEA7831A6A398E8C6411",
+      "target": "Mahatma Strzelca"
+    },
+    {
+      "gameKey": "Relic6Magicite#9.1",
+      "hash": "9327B46B590A1441BB4A7272B4982906F3983000365E69057B14E0C7BAA5FFB7",
+      "target": "rozumienie"
+    },
+    {
+      "gameKey": "Relic6Magicite#10.0",
+      "hash": "53613481A32BF023738A47B34EC8ACEEC2BF21AE47F2ACD2605D1861D6344456",
+      "target": "Mahatma Koziorożca"
+    },
+    {
+      "gameKey": "Relic6Magicite#10.1",
+      "hash": "3C938455ED7B5CDE283711CBE9A09F3FA86F77BD31F35F5C2781DE7AF41CDD51",
+      "target": "sprawczość"
+    },
+    {
+      "gameKey": "Relic6Magicite#11.0",
+      "hash": "B6C1679B254B6101682EBE69EACF75122965E8FBBBF6409019D5C4E36B04DF60",
+      "target": "Mahatma Wodnika"
+    },
+    {
+      "gameKey": "Relic6Magicite#11.1",
+      "hash": "7C12BD84ACFCEACC8A756BE13D08AF2B1EC193C5411C64B85380EEEC0B1B41F7",
+      "target": "rozpoznawanie"
+    },
+    {
+      "gameKey": "Relic6Magicite#12.0",
+      "hash": "1C8FE7F4B072B83E4288DEDF50BBC11B150904C9901C4030B92516DAC841D88B",
+      "target": "Mahatma Ryb"
+    },
+    {
+      "gameKey": "Relic6Magicite#12.1",
+      "hash": "80EE6E99B2E164533F527312540EC23349C6078019F46A3CF4C838FBD0B784A0",
+      "target": "wiara"
+    }
+  ]
+}

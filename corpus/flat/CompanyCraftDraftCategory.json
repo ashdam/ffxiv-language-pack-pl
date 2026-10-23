@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "CompanyCraftDraftCategory#0", "hash": "ADE780C20E7289DE", "target": "Koła eteryczne" },
-    { "gameKey": "CompanyCraftDraftCategory#1", "hash": "FE6C55C2055DBE6D", "target": "Statki powietrzne i podwodne" },
-    { "gameKey": "CompanyCraftDraftCategory#2", "hash": "00A916D67F7C5D7A", "target": "Domostwa" }
+    { "gameKey": "CompanyCraftDraftCategory#1", "hash": "FE6C55C2055DBE6D", "target": "Sterowce i okręty podwodne" },
+    { "gameKey": "CompanyCraftDraftCategory#2", "hash": "00A916D67F7C5D7A", "target": "Domy" }
   ]
 }

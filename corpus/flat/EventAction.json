@@ -109,7 +109,7 @@
     { "gameKey": "EventAction#105", "hash": "946DA4AC7FA1448C", "target": "Interakcja" },
     { "gameKey": "EventAction#106", "hash": "7EE2D584BE6948E7", "target": "Pomaganie" },
     { "gameKey": "EventAction#107", "hash": "314476FA5DCA429C", "target": "Kierowanie eterem" },
-    { "gameKey": "EventAction#108", "hash": "7BA5ECF4A8CD20A5", "target": "Głaskanie" },
+    { "gameKey": "EventAction#108", "hash": "7BA5ECF4A8CD20A5", "target": "Uspokojenie" },
     { "gameKey": "EventAction#109", "hash": "22F7CB1B3C0F0AA1", "target": "Transportowanie" },
     { "gameKey": "EventAction#110", "hash": "04C1D113F2BA2899", "target": "Dostarczanie" },
     { "gameKey": "EventAction#111", "hash": "B446DA996B26EC99", "target": "Wiercenie" },

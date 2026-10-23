@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb009_00816",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "" }
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "Landenel z Camp Tranquil ma do ciebie prośbę." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "<colortype(533)><edgecolortype(534)><icon(63)>To zadanie zostało zmienione. Porzuć je i przyjmij ponownie od „Landenela” w Camp Tranquil.<edgecolortype(0)><colortype(0)><br><br>※Następne zadanie głównego wątku znajdziesz również w Przewodniku po zadaniach głównych. W menu głównym wybierz „Konfiguracja postaci”, a następnie „Ustawienia interfejsu”, by włączyć lub wyłączyć ten przewodnik." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "Przekazałeś podwładnym Landenela jego wiadomość. Zdaj mu z tego sprawę w Camp Tranquil." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "Po wzmocnieniu straży w okolicy Lower Path osłabła ochrona przy Rootslake, gdzie przebywają „<sheet(BNpcName,34,0)>”. Wygląda na to, że Landenel od początku na to liczył…" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "<colortype(533)><edgecolortype(534)><icon(63)>To zadanie zostało zmienione. Porzuć je i przyjmij ponownie od<br>Landenela w Camp Tranquil.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "<colortype(533)><edgecolortype(534)><icon(63)>To zadanie zostało zmienione. Porzuć je i przyjmij ponownie od<br>Landenela w Camp Tranquil.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "Kto by pomyślał, że przy karmazynowych grzybach czai się<br>tak obrzydliwy potwór!<br>Doprawdy, wcale się tego nie spodziewałem!" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "Nie możemy dalej pilnować żółwi!<br>Przecież przychodzą tu też ludzie zbierać grzyby.<br>Trzeba natychmiast wzmocnić straże w okolicy Lower Path!" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "Idź do moich podwładnych pilnujących okolicy Rootslake<br>i przekaż im, by rozpoczęli patrole<br>w okolicy Lower Path." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "Co takiego? Potwór pojawił się na Lower Path…!<br>Rozumiem. Zgodnie z poleceniem kapitana Landenela<br>wyruszymy patrolować okolicę Lower Path." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "Dziękujemy za przekazanie rozkazu, poszukiwaczu przygód.<br>Naszym obowiązkiem jest chronić podróżnych.<br>Natychmiast wyruszamy strzec Lower Path." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "Dzięki naszej czujności mniej osób próbuje zdobyć<br>„<sheet(EventItem,2000641,0)>”. Znam już wszystkie szczegóły.<br>Teraz wzmocnimy obserwację Lower Path." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "Kukuku… No pięknie, pięknie!!<br>Straże przy „<sheet(BNpcName,34,0)>” są teraz dziurawe jak sito!!<br>To nasza szansa… Aahem." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "…Dziękuję za pomoc w przekazaniu rozkazu.<br>Ja również muszę mieć oko na to,<br>co dzieje się w okolicy Lower Path." }
   ]
 }

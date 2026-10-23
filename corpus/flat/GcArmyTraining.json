@@ -1,0 +1,76 @@
+{
+  "sheet": "GcArmyTraining",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "GcArmyTraining#1.4",
+      "hash": "A4518850E71B062056F9B0F1815D04FC77F67AF4BCF33B67DFF2D77AC785B56A",
+      "target": "Podstawowy: sprawność"
+    },
+    {
+      "gameKey": "GcArmyTraining#1.5",
+      "hash": "25F01F5C25173A5BA14B7CBFFA4C8E63C33840734B10B9AD4C4E171E9F485548",
+      "target": "Łączna sprawność +40"
+    },
+    {
+      "gameKey": "GcArmyTraining#2.4",
+      "hash": "220BDD4638385A0A05D3BC3482F53CC93B2970BF07895CD881C9EAD08DF9762E",
+      "target": "Podstawowy: siła ducha"
+    },
+    {
+      "gameKey": "GcArmyTraining#2.5",
+      "hash": "CEE4D0A403E49F459A798027BAE53A204FC5BBA0616270F1326D327E95A7F1EE",
+      "target": "Łączna siła ducha +40"
+    },
+    {
+      "gameKey": "GcArmyTraining#3.4",
+      "hash": "BF85200EA81620912536665FFFCA788C3B9D163DFC4A9B2B9A3E556DB76877D0",
+      "target": "Podstawowy: taktyka"
+    },
+    {
+      "gameKey": "GcArmyTraining#3.5",
+      "hash": "BC735FB9D8C176F50C566C75E639E5620BD53AAA944BB4888723D61DD674FEE1",
+      "target": "Łączna taktyka +40"
+    },
+    {
+      "gameKey": "GcArmyTraining#4.4",
+      "hash": "9612D0ECD4CB42F1DC4DC59F08057D4C307A6BD8D991A3EB80784865E75AD232",
+      "target": "Łączony: sprawność i siła ducha"
+    },
+    {
+      "gameKey": "GcArmyTraining#4.5",
+      "hash": "F33F636132FEFA247F0100EAAC4600D6EF1EC8104116B44D66BD82FE59E65447",
+      "target": "Łączna sprawność i siła ducha +20"
+    },
+    {
+      "gameKey": "GcArmyTraining#5.4",
+      "hash": "4618ADB11A5D4319E0C72BA0C93931EB04D423B50BE1CDB55CBC9A267BAFDE5E",
+      "target": "Łączony: sprawność i taktyka"
+    },
+    {
+      "gameKey": "GcArmyTraining#5.5",
+      "hash": "3D9922CCC66180003721C50CAA910634DAEF0941DB641FA396E02E7E322A6C56",
+      "target": "Łączna sprawność i taktyka +20"
+    },
+    {
+      "gameKey": "GcArmyTraining#6.4",
+      "hash": "99F4553497A5A41E8FD407E468C7E89D98F04294065344CECF1974FB06A17DD0",
+      "target": "Łączony: siła ducha i taktyka"
+    },
+    {
+      "gameKey": "GcArmyTraining#6.5",
+      "hash": "25344C1D2ABB21528AEE48BDCAC4AE975C14416DBD4A10F100B98F9A05ADF616",
+      "target": "Łączna siła ducha i taktyka +20"
+    },
+    {
+      "gameKey": "GcArmyTraining#7.4",
+      "hash": "60A35B5BE2AFB163FECCB32F22734CC7E6CF561DE0E93D04E58328D061C152DD",
+      "target": "Ogólny"
+    },
+    {
+      "gameKey": "GcArmyTraining#7.5",
+      "hash": "DC937B59892604F5A86AC96936CD7FF09E25F18AE6B758E8014A24C7FA039E91",
+      "target": "Atrybuty bez zmian"
+    }
+  ]
+}

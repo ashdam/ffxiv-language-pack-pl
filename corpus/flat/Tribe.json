@@ -1,0 +1,126 @@
+{
+  "sheet": "Tribe",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    {
+      "gameKey": "Tribe#1.0",
+      "hash": "B99F05FF2E98D180D5BD3657DF719F69632BFEA70313113A0906D9AC28B60998",
+      "target": "Nizinni"
+    },
+    {
+      "gameKey": "Tribe#1.1",
+      "hash": "B99F05FF2E98D180D5BD3657DF719F69632BFEA70313113A0906D9AC28B60998",
+      "target": "Nizinni"
+    },
+    {
+      "gameKey": "Tribe#2.0",
+      "hash": "9EEB9A1B3F485536ED663FBD36BBFA56C6A57CDD712D8B7DD1D164DEB9B8EA1B",
+      "target": "Wyżynni"
+    },
+    {
+      "gameKey": "Tribe#2.1",
+      "hash": "9EEB9A1B3F485536ED663FBD36BBFA56C6A57CDD712D8B7DD1D164DEB9B8EA1B",
+      "target": "Wyżynni"
+    },
+    {
+      "gameKey": "Tribe#3.0",
+      "hash": "8BD9053432C2C220B6213AE51184E69EE6C71D0B7961CE4D12326A1E8CE9E11A",
+      "target": "Leśni"
+    },
+    {
+      "gameKey": "Tribe#3.1",
+      "hash": "8BD9053432C2C220B6213AE51184E69EE6C71D0B7961CE4D12326A1E8CE9E11A",
+      "target": "Leśni"
+    },
+    {
+      "gameKey": "Tribe#4.0",
+      "hash": "4CBA41CE286CC8C10A676118546896FCDC36EBEFCBD864CA62A802D724FB29F2",
+      "target": "Cieniści"
+    },
+    {
+      "gameKey": "Tribe#4.1",
+      "hash": "4CBA41CE286CC8C10A676118546896FCDC36EBEFCBD864CA62A802D724FB29F2",
+      "target": "Cieniści"
+    },
+    {
+      "gameKey": "Tribe#5.0",
+      "hash": "8C86DFAA9193523EC44048806F16871A48880FC0783BCD1661FBDDCC71E87370",
+      "target": "Lud Równin"
+    },
+    {
+      "gameKey": "Tribe#5.1",
+      "hash": "8C86DFAA9193523EC44048806F16871A48880FC0783BCD1661FBDDCC71E87370",
+      "target": "Lud Równin"
+    },
+    {
+      "gameKey": "Tribe#6.0",
+      "hash": "F212C615B0E3AFB515BED4589500176E950761A22D30C8F7509B9A34E08AB1B7",
+      "target": "Lud Wydm"
+    },
+    {
+      "gameKey": "Tribe#6.1",
+      "hash": "F212C615B0E3AFB515BED4589500176E950761A22D30C8F7509B9A34E08AB1B7",
+      "target": "Lud Wydm"
+    },
+    {
+      "gameKey": "Tribe#7.0",
+      "hash": "DF4F188EADEF11701EB54840010834A634C0D42AB2546638EAAEB0ACB62BB72E",
+      "target": "Poszukiwacze Słońca"
+    },
+    {
+      "gameKey": "Tribe#7.1",
+      "hash": "DF4F188EADEF11701EB54840010834A634C0D42AB2546638EAAEB0ACB62BB72E",
+      "target": "Poszukiwacze Słońca"
+    },
+    {
+      "gameKey": "Tribe#8.0",
+      "hash": "C5467B5C4122266E970A578D84769D940176ABBCD542E093F63AF3140B5AFC89",
+      "target": "Strażnicy Księżyca"
+    },
+    {
+      "gameKey": "Tribe#8.1",
+      "hash": "C5467B5C4122266E970A578D84769D940176ABBCD542E093F63AF3140B5AFC89",
+      "target": "Strażnicy Księżyca"
+    },
+    {
+      "gameKey": "Tribe#9.0",
+      "hash": "81C50D2E90050A908F6646A4490EBBCF7E575571C4AFAF42EE4F05F1C7D3B759",
+      "target": "Morskie Wilki"
+    },
+    {
+      "gameKey": "Tribe#9.1",
+      "hash": "81C50D2E90050A908F6646A4490EBBCF7E575571C4AFAF42EE4F05F1C7D3B759",
+      "target": "Morskie Wilki"
+    },
+    {
+      "gameKey": "Tribe#10.0",
+      "hash": "AB947D2D0F69F8B7301F283A97C04A5A11DCE4EDCE5FBFEDB4B39B0BE0D109B1",
+      "target": "Lohengarde"
+    },
+    {
+      "gameKey": "Tribe#10.1",
+      "hash": "AB947D2D0F69F8B7301F283A97C04A5A11DCE4EDCE5FBFEDB4B39B0BE0D109B1",
+      "target": "Lohengarde"
+    },
+    {
+      "gameKey": "Tribe#13.0",
+      "hash": "6C93FBD4B1E8F1DBF43E1D2A12055BB65542802DB859F1B1C9EFF649CD77019C",
+      "target": "Helioni"
+    },
+    {
+      "gameKey": "Tribe#13.1",
+      "hash": "6C93FBD4B1E8F1DBF43E1D2A12055BB65542802DB859F1B1C9EFF649CD77019C",
+      "target": "Helioni"
+    },
+    {
+      "gameKey": "Tribe#14.0",
+      "hash": "70AE358BA50466DBF8E58B5944D730E028A4FFB58529FC36A84B9A8C5EC5C5FE",
+      "target": "Zagubieni"
+    },
+    {
+      "gameKey": "Tribe#14.1",
+      "hash": "70AE358BA50466DBF8E58B5944D730E028A4FFB58529FC36A84B9A8C5EC5C5FE",
+      "target": "Zagubieni"
+    }
+  ]
+}
