@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 296279,
-  "total": 533509,
-  "percent": 55.5,
-  "chars": 49477146,
+  "translated": 356122,
+  "total": 533628,
+  "percent": 66.7,
+  "chars": 49478137,
   "unresolved": 5594,
   "groups": [
     {
@@ -27,7 +27,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 14939,
       "total": 14939
     },
     {
@@ -87,7 +87,7 @@
     {
       "expansion": "Heavensward",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 10290,
       "total": 10290
     },
     {
@@ -141,7 +141,7 @@
     {
       "expansion": "Stormblood",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 12307,
       "total": 12307
     },
     {
@@ -195,7 +195,7 @@
     {
       "expansion": "Shadowbringers",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 6891,
       "total": 6891
     },
     {
@@ -249,7 +249,7 @@
     {
       "expansion": "Endwalker",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 7339,
       "total": 7339
     },
     {
@@ -303,7 +303,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 7958,
       "total": 7958
     },
     {
@@ -362,6 +362,12 @@
     },
     {
       "expansion": null,
+      "content": "Deep Dungeon names",
+      "translated": 0,
+      "total": 4
+    },
+    {
+      "expansion": null,
       "content": "The Unending Journey — the rest is levequest names",
       "translated": 0,
       "total": 7584
@@ -375,7 +381,7 @@
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
-      "translated": 177,
+      "translated": 181,
       "total": 14849
     },
     {
@@ -411,8 +417,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 174264,
-      "total": 174264
+      "translated": 174379,
+      "total": 174379
     }
   ],
   "excludedFromLocalization": [
@@ -450,17 +456,9 @@
       "sheet": "BNpcName",
       "content": "Enemy names",
       "total": 29475,
-      "translated": 22,
-      "pending": 29453,
+      "translated": 28,
+      "pending": 29447,
       "pendingPercent": 99.9
-    },
-    {
-      "sheet": "ClassJob",
-      "content": "Classes and jobs",
-      "total": 87,
-      "translated": 87,
-      "pending": 0,
-      "pendingPercent": 0
     },
     {
       "sheet": "DefaultTalk",
