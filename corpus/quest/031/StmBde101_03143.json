@@ -23,7 +23,7 @@
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALLIANCERECRUIT03143_000_009", "hash": "04410C7D4D3C9213", "target": "Jako najwięksi znawcy naszego wroga bylibyście bardzo cennymi doradcami." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALISAIE_000_010", "hash": "45E01BA6391ADF35", "target": "Oczywiście. Chętnie pomożemy, jak tylko możemy." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALISAIE_000_011", "hash": "30DB8CD1FB4B0636", "target": "Skoro prawie wszyscy są w terenie, to zadanie przypada nam. A to znaczy, że nie pójdę sama. Pójdziesz ze mną, prawda?" },
-    { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_Q1_000_000", "hash": "F17ED05A81895558", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_Q1_000_000", "hash": "F17ED05A81895558", "target": "Co powiesz?" },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_A1_000_001", "hash": "F2514871399D20B2", "target": "Oczywiście." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_A1_000_002", "hash": "7AD64967F17C9D27", "target": "<if(gnum4,Wolałabym,Wolałbym)> nie." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ALISAIE_000_015", "hash": "6B7346DD2F4D461E", "target": "A więc ustalone. Przyjmujemy zaproszenie." },

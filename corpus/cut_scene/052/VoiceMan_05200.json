@@ -249,7 +249,7 @@
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_002290_DUMMYARDBERT", "hash": "7B76F98F7DB291A6", "target": "Gdzie moje maniery? Nie byłoby mnie tu bez ciebie, a jeszcze ci nie podziękowałem!" },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_Q5_000_001_NONE_VOICE", "hash": "CD42317648E2F754", "target": "Co zrobisz?" },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_A5_000_001_NONE_VOICE", "hash": "4BCCD58D0DF563D7", "target": "Wyciągnąć pięść na powitanie." },
-    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_A5_000_002_NONE_VOICE", "hash": "86DD1D3C82BBA73D", "target": "Spytać, czy nie chciałby zobaczyć Seto." },
+    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_A5_000_002_NONE_VOICE", "hash": "86DD1D3C82BBA73D", "target": "Spytać, czy nie chciałby zobaczyć Seta." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_002300_DUMMYARDBERT", "hash": "261E5590BE41402B", "target": "Coś z ręką? Lepiej ją zbadać." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_002310_DUMMYARDBERT", "hash": "00E9C197AE73D925", "target": "Biedaczysko. Będzie nam go brakować." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_Q6_000_001_NONE_VOICE", "hash": "3082903C2BC5668C", "target": "Co powiesz?" },

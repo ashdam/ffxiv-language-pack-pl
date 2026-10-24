@@ -52,7 +52,7 @@
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_SYSTEM_000_102", "hash": "F3D170B5AE3FD4F7", "target": "Podczas przeszukiwania mroku dostrzegasz błysk. Odwracasz kamień i znajdujesz złotą monetę z Voeburtu!" },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_THANCRED_100_102", "hash": "A7BC80FA4A37A823", "target": "Miałem nadzieję, że zgubił monetę bliżej wejścia. Głupi byłem, sądząc, że Pani Fortuna nam sprzyja..." },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_THANCRED_110_102", "hash": "03E83FEF309B206F", "target": "...A może jednak sprzyja. Przynajmniej tobie. W końcu moja pomoc sprowadziła się do marnego towarzystwa." },
-    { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_Q1_000_001", "hash": "3DC22D133697074D", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_Q1_000_001", "hash": "3DC22D133697074D", "target": "Co powiesz?" },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_A1_000_001", "hash": "2CFEE8F9555013E6", "target": "Bez twoich kropli nic by z tego nie wyszło." },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_A1_000_002", "hash": "B1116FD63B93EE0A", "target": "Daj spokój, Thancredzie. Przygotowałeś się do tego znacznie lepiej niż ja." },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_THANCRED_120_102", "hash": "4B971936E3A56C07", "target": "Mówisz tak, ale masz niezaprzeczalny dar radzenia sobie w każdej sytuacji. Wątpię, żebym znalazł monetę bez pomocy." },

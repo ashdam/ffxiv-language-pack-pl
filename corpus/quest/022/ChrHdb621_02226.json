@@ -14,7 +14,7 @@
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_01", "hash": "5BDA46BAAC826E01", "target": "Porozmawiać z postacią Elaisse" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_02", "hash": "05EFC9CEB5A684B0", "target": "Porozmawiać z postacią House Fortemps knight" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_03", "hash": "5CAE8915BFDAC8CB", "target": "Zaczekać z Nashu" },
-    { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_04", "hash": "E533AAE475877AD2", "target": "Porozmawiać z postacią Redwald w Falcon's Nest" },
+    { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_04", "hash": "E533AAE475877AD2", "target": "Porozmawiać z Redwaldem w Falcon's Nest" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_TODO_05", "hash": "BC95431544F84A05", "target": "Przeszukać obszar na południe od Banepool" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_NASHUMHAKARACCA_000_001", "hash": "FA643A598C927B30", "target": "A niech mnie! <string(gstr1)>, we własnej osobie! Jak miło znów się spotkać!" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_NASHUMHAKARACCA_000_002", "hash": "B64BC49C5B84422D", "target": "Chwileczkę─czy to właśnie nazywają szczęśliwym zbiegiem okoliczności? Tak, prawda!? No to postanowione─musi mi <if(gnum4,pani,pan)> pomóc znaleźć inspektora!" },

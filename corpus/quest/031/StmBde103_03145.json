@@ -38,7 +38,7 @@
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_LYSE_000_103", "hash": "8AEF2EB948C60728", "target": "...Tak jak ja." },
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_LYSE_000_104", "hash": "1213D6BB3C130BDB", "target": "Ale tacy ludzie jak my potrzebują kogoś, kto będzie miał na nas oko. Ja miałam Papalymo, a teraz mam przyjaciół w ruchu oporu. Alisaie ma ciebie i Dziedziców." },
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_LYSE_000_105", "hash": "747642E88FF54745", "target": "Zanim zaprotestujesz: nie twierdzę, że ją zaniedbujesz. Wiem, że tak nie jest i nie będzie─ale to moja dobra przyjaciółka. Gdy widzę ją w takim stanie, nie umiem przestać się martwić. Proszę, wspieraj ją, ile tylko trzeba, dobrze?" },
-    { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_Q1_000_000", "hash": "B5DEA123228FF339", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_Q1_000_000", "hash": "B5DEA123228FF339", "target": "Co powiesz?" },
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_A1_000_001", "hash": "CD647CAA418FCA51", "target": "Zostaw to mnie." },
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_A1_000_002", "hash": "5D805DC29187E6B1", "target": "Nie masz się czym martwić. Naprawdę." },
     { "gameKey": "quest/031/StmBde103_03145#TEXT_STMBDE103_03145_LYSE_000_110", "hash": "C2F42F05FD4BD23D", "target": "Dziękuję, <split(<string(gstr1)>, ,1)>. To chyba oczywiste, ale jeśli <italic(1)>ja<italic(0)> mogę w czymś pomóc, wystarczy poprosić." },

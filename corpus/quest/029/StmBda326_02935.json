@@ -15,7 +15,7 @@
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_023", "hash": "9A186C0E85BA734B", "target": "Wygląda na to, że Zenos nie chce pozostawać w Domie dłużej, niż to konieczne. Jeszcze dziś wieczorem zamierza dokonać inspekcji Moon Gates." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_024", "hash": "A9332E8FC5EB611B", "target": "Jego niecierpliwość nam sprzyja. Przybył bez zapowiedzi i nie dał Yotsuyu czasu na przygotowania. W całym zamku panuje zamęt." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_025", "hash": "3B39A77A1F174742", "target": "Żeby nie tracić czasu, zrezygnował z pełnej eskorty i będzie podróżował tylko z garstką żołnierzy. Kami nie mogliby zesłać nam lepszej okazji. <italic(1)>Zabiję<italic(0)> go, <split(<string(gstr1)>, ,1)>. Zabiję." },
-    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_Q1_000_026", "hash": "809A452BD5966FD0", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_Q1_000_026", "hash": "809A452BD5966FD0", "target": "Co powiesz?" },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_A1_000_027", "hash": "6E0F41A1BE240172", "target": "Chyba chcesz powiedzieć, że <italic(1)>razem<italic(0)> go zabijemy." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_A1_000_028", "hash": "F75DC1FC464AE204", "target": "Nie sama." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_029", "hash": "80BE424B219AF383", "target": "...Albo zginiemy, próbując. Rozumie <if(gnum4,pani,pan)> ryzyko." },

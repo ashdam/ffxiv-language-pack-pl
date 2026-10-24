@@ -17,7 +17,7 @@
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_ALPHINAUD_000_020", "hash": "F6B5E5819FACEE64", "target": "A więc, jak mówiłem o tej kobiecie..." },
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_LYSE_000_025", "hash": "9FB7A667EAAB6FC3", "target": "Coś ci się udało? Nie? Mnie też nie..." },
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_STARKWOAD_000_030", "hash": "542975647600215B", "target": "...Nie widziałam cię tu wcześniej. Trzeba być <if(gnum4,odważną kobietą,odważnym mężczyzną)>, żeby bez zaproszenia wejść w takie miejsce." },
-    { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_Q1_000_000", "hash": "6A894D130A2D4C92", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_Q1_000_000", "hash": "6A894D130A2D4C92", "target": "Co powiesz?" },
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_A1_000_001", "hash": "4C47C02B1D182EB0", "target": "Pójdę tam, gdzie kwitnie <italic(1)>dzika róża<italic(0)>." },
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_A1_000_002", "hash": "13F81C393FA823B0", "target": "Tylko ktoś, komu nie brak <italic(1)>odwagi<italic(0)>." },
     { "gameKey": "quest/025/StmBda617_02543#TEXT_STMBDA617_02543_A1_000_003", "hash": "8230D749E09C577B", "target": "Czasy są <italic(1)>ciężkie<italic(0)>, ale ja też mam twardą skórę." },

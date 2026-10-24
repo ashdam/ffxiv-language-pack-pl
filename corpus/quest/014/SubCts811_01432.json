@@ -31,7 +31,7 @@
     { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_PARNELL_000_045", "hash": "78F3723E2326CF81", "target": "Trzeba pamiętać, że większości retainerów wystarcza umiejętności jedynie na najprostsze zadania. Oczywiście zmieni się to w miarę nabierania doświadczenia. Choć brzmi to zawile, w praktyce jest proste. Może warto porozmawiać z retainerami i poznać ich zdanie?" },
     { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_0050", "hash": "975C196F2802D913", "target": "Możesz teraz wysyłać zatrudnionych retainerów na ventures." },
     { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_SYSTEM_000_0051", "hash": "5232735FC1059459", "target": "Przywołaj retainera, którego chcesz wysłać, i postępuj zgodnie z instrukcjami, by rozpocząć." },
-    { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_POPMESSAGE_000_000", "hash": "12B1A2D220492261", "target": "Wróg nadal jest w pobliżu!" },
+    { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_POPMESSAGE_000_000", "hash": "12B1A2D220492261", "target": "Wróg wciąż jest w pobliżu!" },
     { "gameKey": "quest/014/SubCts811_01432#TEXT_SUBCTS811_01432_POPMESSAGE_000_001", "hash": "E55DF5A2A4B30BA7", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

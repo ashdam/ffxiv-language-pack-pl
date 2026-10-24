@@ -31,7 +31,7 @@
     { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_FRYDWYB_000_045", "hash": "09181915590AFC3F", "target": "Zapewniam, że to nic trudnego. Każdy retainer może wyjaśnić szczegóły. Przy następnej rozmowie ze swoim retainerem proszę poruszyć ten temat." },
     { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_0050", "hash": "29282D673E6A1FA3", "target": "Możesz teraz wysyłać zatrudnionych retainerów na ventures." },
     { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_SYSTEM_000_0051", "hash": "3DF2500465C0923D", "target": "Przywołaj retainera, którego chcesz wysłać na wyprawę, i postępuj zgodnie z instrukcjami." },
-    { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_POPMESSAGE_000_000", "hash": "FA01A9B58C794AE0", "target": "Wróg nadal jest w pobliżu!" },
+    { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_POPMESSAGE_000_000", "hash": "FA01A9B58C794AE0", "target": "Wróg wciąż jest w pobliżu!" },
     { "gameKey": "quest/014/SubCts812_01433#TEXT_SUBCTS812_01433_POPMESSAGE_000_001", "hash": "6E9D0945FE778F32", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

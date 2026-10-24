@@ -2,16 +2,16 @@
   "conversation": "quest/002/JobNin350_00214",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_00", "hash": "309F45F943710D36", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_01", "hash": "7C71C822D54C6033", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_02", "hash": "8F8266D56F9ADCA4", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TODO_00", "hash": "D707429195CF2B18", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_000", "hash": "F45B03EB8AA26F25", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_001", "hash": "9A751355264B6F0E", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_005", "hash": "7D63ACAF30EDFD97", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_010", "hash": "DF3E0FC17699EE8D", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_020", "hash": "6DCF3927585AB08B", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_021", "hash": "A03B6F65AC5B0A6B", "target": "" },
-    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_022", "hash": "E712E2CA322BBD5F", "target": "" }
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_00", "hash": "309F45F943710D36", "target": "Tsubame wydaje się bardzo zadowolona z twoich postępów." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_01", "hash": "7C71C822D54C6033", "target": "Twoje zdolności i oddanie drodze shinobi robią na Tsubame ogromne wrażenie. Zastanawia się, czy któregoś dnia jej nie dorównasz. Nadszedł czas kolejnej lekcji. Wejdź do magazynu i porozmawiaj z Oborem." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_SEQ_02", "hash": "8F8266D56F9ADCA4", "target": "Oboro z dumą prezentuje opanowaną przez siebie trudną technikę─zwykły eorzejski ukłon─a potem uczy cię drugiej mudry, <italic(1)>Chi<italic(0)>. Ten gest pozwala przywołać moc samej ziemi. Gdy zechcesz nauczyć się używać go w walce, ponownie porozmawiaj z Oborem." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TODO_00", "hash": "D707429195CF2B18", "target": "Porozmawiać z Oborem" },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_000", "hash": "F45B03EB8AA26F25", "target": "<split(<string(gstr1)>, ,1)>! Nawet nie usłyszałam, jak <if(gnum4,pani,pan)> podchodzi. Z każdym dniem coraz bliżej do prawdziwej sztuki shinobi." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_001", "hash": "9A751355264B6F0E", "target": "Oboro czeka na <if(gnum4,pani,pana)> powrót. Proszę wejść." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_005", "hash": "7D63ACAF30EDFD97", "target": "Dłoń przed tułowiem, skłon w biodrach... Przytomność umysłu, przytomność umysłu..." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_TSUBAME_000_010", "hash": "DF3E0FC17699EE8D", "target": "Łatwość, z jaką przyswaja <if(gnum4,pani,pan)> podstawy naszej sztuki, jest co najmniej imponująca. Proszę nie zaniedbywać ćwiczeń, a pewnego dnia nasze umiejętności się zrównają." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_020", "hash": "6DCF3927585AB08B", "target": "Ach, <split(<string(gstr1)>, ,1)>. Po twoich ruchach widać, jak pilnie ćwiczysz." },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_021", "hash": "A03B6F65AC5B0A6B", "target": "Ale nie tylko ty doskonalisz poznaną technikę. Spójrz na mój eorzejski ukłon, doskonały w równowadze i formie!" },
+    { "gameKey": "quest/002/JobNin350_00214#TEXT_JOBNIN350_00214_OBORO_000_022", "hash": "E712E2CA322BBD5F", "target": "...Ekhm. Pora na następną lekcję. Patrz uważnie na moje dłonie, <split(<string(gstr1)>, ,1)>. Ta mudra pozwala shinobi przywołać energię ziemi─ <italic(1)>Chi<italic(0)> w naszym języku. Zapamiętaj jej formę, a pokażę ci, jak używać jej w walce." }
   ]
 }

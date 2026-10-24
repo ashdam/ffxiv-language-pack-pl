@@ -252,7 +252,7 @@
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_002490_LYSE", "hash": "CDFE9BB7D7FC6B56", "target": "Przepraszam za zwłokę..." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_002500_LYSE", "hash": "6180C25B8D4D2C7F", "target": "No i jak? Wiem, trochę staroświeckie... ale w tradycyjnym stylu. Yda nosiła to, kiedy tylko mogła..." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_002510_LYSE", "hash": "D1F1C614E3268D6F", "target": "Nie udaję, że jestem nią ani nic takiego! Już nigdy. Po prostu... jeśli to ostatnia bitwa o wyzwolenie Ala Mhigo, ona też powinna być jej częścią." },
-    { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_Q1_000_001_NONE_VOICE", "hash": "2FF5CD9004EF9A2E", "target": "Co odpowiesz?" },
+    { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_Q1_000_001_NONE_VOICE", "hash": "2FF5CD9004EF9A2E", "target": "Co powiesz?" },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_A1_000_001_NONE_VOICE", "hash": "86072A6B340A214F", "target": "Pasuje ci." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_A1_000_002_NONE_VOICE", "hash": "569184D0EFC30312", "target": "Nie całkiem w twoim stylu..." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_A1_000_003_NONE_VOICE", "hash": "2C825823EC1B46BE", "target": "..." },

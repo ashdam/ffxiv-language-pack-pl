@@ -46,7 +46,7 @@
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_ALISAIE_000_060", "hash": "D4AAB84F5F5A70D5", "target": "Dzięki twojej pomocy przetrwałam wyprawy do okrętów więziennych. Teraz ja pomogę ci pokonać Wojowników Ciemności." },
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_ALISAIE_000_061", "hash": "21BE51DD1CD79B3D", "target": "Szczerze mówiąc, <split(<string(gstr1)>, ,1)>, nie planowałam jeszcze cię szukać. Wyruszałam w drogę z wielkimi ambicjami. Jak może pamiętasz, obiecałam, że cię nie zawiodę..." },
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_ALISAIE_000_062", "hash": "FD35168F4882E5AC", "target": "Mam nadzieję, że mi wybaczysz, jeśli jednak zawiodę." },
-    { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_Q1_000_063", "hash": "1F5AEEA66845AA13", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_Q1_000_063", "hash": "1F5AEEA66845AA13", "target": "Co powiesz?" },
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_A1_000_064", "hash": "2DEA092A1C161EDD", "target": "Miło, że do nas dołączasz." },
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_A1_000_065", "hash": "69592E450A4022FB", "target": "Chcę cię zapytać o tamten powóz..." },
     { "gameKey": "quest/023/HeaVne103_02343#TEXT_HEAVNE103_02343_A1_000_066", "hash": "40F8DB0DCE3C312E", "target": "Witaj w walce." },

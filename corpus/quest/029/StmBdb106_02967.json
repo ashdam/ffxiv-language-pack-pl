@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_SEQ_00", "hash": "9BAE98CD1602D60C", "target": "Myśli Alphinauda zdają się krążyć już wokół spraw administracyjnych, a nie przygód." },
-    { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_TODO_00", "hash": "507C132B3C732C4C", "target": "Porozmawiać z Bartholomewem w Ul'dah" },
+    { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_TODO_00", "hash": "507C132B3C732C4C", "target": "Porozmawiać z Bartholomew w Ul'dah" },
     { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_TODO_01", "hash": "10B0BB515FC13FF4", "target": "Porozmawiać z Nanamo przed Quicksand" },
     { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_TODO_02", "hash": "459809C46AE09649", "target": "Porozmawiać z Nanamo w pobliżu Stonesthrow" },
     { "gameKey": "quest/029/StmBdb106_02967#TEXT_STMBDB106_02967_TODO_03", "hash": "53128E3F74908224", "target": "Porozmawiać z Nanamo przy Bezbożnym Dziedzicu" },

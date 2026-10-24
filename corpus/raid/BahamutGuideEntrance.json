@@ -9,7 +9,7 @@
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_A1_000_013", "hash": "507C340A4189889D", "target": "Nic." },
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_00105_Q3_000_015", "hash": "831EFDB57F15EBBF", "target": "O co chcesz zapytać?" },
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_00105_A3_000_016", "hash": "7559F346ABCBD3EA", "target": "Warunki wejścia." },
-    { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_00105_A3_000_017", "hash": "CF7F56EA244E0D43", "target": "Nic." },
+    { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_00105_A3_000_017", "hash": "CF7F56EA244E0D43", "target": "O nic." },
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_JBROHKA_000_020", "hash": "B4EC47AA648AA53F", "target": "Według lady Alisaie pod Castrum Occidens ciągnie się przez całe malmy labirynt jaskiń. Czasem słyszę, jak nazywa go „The Binding Coil”, choć nie potrafię powiedzieć dlaczego." },
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_050", "hash": "6480EF5AFB2D37B3", "target": "Binding Coil of Bahamut składa się z wielu lochów, czyli <colortype(500)><edgecolortype(501)>etapów<edgecolortype(0)><colortype(0)>. Na niektórych etapach nie można używać zaklęcia Return." },
     { "gameKey": "raid/BahamutGuideEntrance#TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_051", "hash": "EFF927CF57BF02CB", "target": "Postępy w Binding Coil of Bahamut są zapisywane dla każdego gracza w określonych miejscach. Możesz wznowić wyprawę od miejsca jej przerwania." },

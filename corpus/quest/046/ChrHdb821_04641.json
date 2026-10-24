@@ -106,7 +106,7 @@
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_A6_000_003", "hash": "F020845BB65D0840", "target": "Nic." },
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_093", "hash": "E24F47C630905AB3", "target": "Ooo, aż chce się poskubać te ich puszyste uszka." },
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_DELION_000_094", "hash": "6FAD493EF49584D6", "target": "Notuję wszystko w tej bazie: plany pomieszczeń, personel, abstrakcyjne konstrukcje drzew. Następne wydanie ujawni całą ich operację!" },
-    { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_A6_000_004", "hash": "FB39D21A38BD3FB5", "target": "<colortype(548)>Porozmawiać o eterycie.<colortype(0)>" },
+    { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_A6_000_004", "hash": "FB39D21A38BD3FB5", "target": "<colortype(548)>Porozmawiać o eterycie<colortype(0)>" },
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_095", "hash": "F7AEBACDE7687E29", "target": "Proszę spojrzeć! Mają tu nawet eteryt!" },
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_DELION_000_096", "hash": "7F51359F20559EFF", "target": "Eteryt? Bez wątpienia wygodne narzędzie spotkań z sharlayańskimi współspiskowcami." },
     { "gameKey": "quest/046/ChrHdb821_04641#TEXT_CHRHDB821_04641_DELION_000_097", "hash": "9C77579101F89B1C", "target": "Powiedzą <if(gnum4,pani,panu)>, że eteryty wynaleźli Allagańczycy. Naprawdę był to jeden z wielu sekretów kosmicznej technologii otrzymanych w zamian za wieczną lojalność." },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_SEQ_00", "hash": "FE2A302FCE790970", "target": "Coph-coodg apatycznie oczekuje przybycia pobratymców." },
     { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_TODO_00", "hash": "9E1600428D9FA35A", "target": "Porozmawiać z postacią Coph-coodg" },
-    { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_TODO_01", "hash": "03FE54E01B243904", "target": "Poczekać we wskazanym miejscu" },
+    { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_TODO_01", "hash": "03FE54E01B243904", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_TODO_02", "hash": "B95F381FA6B8285F", "target": "Ponownie poczekać we wskazanym miejscu" },
     { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_TODO_03", "hash": "D9BFCF2EDE22B404", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/044/AktKmg108_04457#TEXT_AKTKMG108_04457_ALPHINAUD_000_000", "hash": "89F504386F681520", "target": "Chyba jest pewna logika w tym, że istoty złożone z energii duchowej mieszkają w kryształach. Mimo to zdumiewa mnie ten widok." },

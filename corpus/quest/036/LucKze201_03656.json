@@ -8,7 +8,7 @@
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_SEQ_03", "hash": "D5BB33F32635F40A", "target": "Szukasz jakiegokolwiek śladu Quinforta, gdy Valan dostrzega coś w oddali. Biegnie tam w nadziei odnalezienia przyjaciela." },
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_SEQ_04", "hash": "3E1A923EFB3B9C1A", "target": "Znajdujesz Quinforta koło Fruit of the Protector w towarzystwie niezwykłego stworzenia. Choć nie umiesz rozpoznać dziwnej bestii, Quinfort jest przekonany, że to wielki wąż z jego snów." },
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_TODO_00", "hash": "324A098627863854", "target": "Porozmawiaj z Quinfortem." },
-    { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_TODO_01", "hash": "3A0373A9F301D505", "target": "Zbadaj wskazany obszar." },
+    { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_TODO_01", "hash": "3A0373A9F301D505", "target": "Zbadać wskazaną okolicę" },
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_TODO_02", "hash": "56D53BCAC16F974C", "target": "Porozmawiaj z Quinfortem." },
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_VALAN_000_001", "hash": "81545BC9C4EC0C24", "target": "Ty jesteś <split(<string(gstr1)>, ,1)>, prawda? Mistrzyni Matoya bardzo cię chwali." },
     { "gameKey": "quest/036/LucKze201_03656#TEXT_LUCKZE201_03656_VALAN_000_002", "hash": "9B94BE6A72617185", "target": "Na pewno masz ważniejsze sprawy, ale potrzebuję pomocy i nie mam do kogo się zwrócić." },

@@ -24,7 +24,7 @@
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_LATGAR_000_034", "hash": "5DE1EE4AB2F56E47", "target": "Jeśli odbierasz towary dla Cassarda, to zły sklep. Nie ma u mnie żadnych zaległych zamówień." },
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_THONTON_000_035", "hash": "79E45D17454FEFCD", "target": "Przybywasz z Cassardem, tak? Dobrze, dobrze, wreszcie mogę przestać myśleć o tym worku. Odbierz swój kolczasty zakup!" },
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_THOLTOL_000_037", "hash": "277A84E538089D45", "target": "Cassard cię przysłał? Tak. Owszem. ...Jaka to miała być ruda?" },
-    { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_Q1_000_000", "hash": "D592C43960739297", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_Q1_000_000", "hash": "D592C43960739297", "target": "Co powiesz?" },
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_A1_000_001", "hash": "596D0A359F4DD476", "target": "Copper ore!" },
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_A1_000_002", "hash": "19742B39DA593369", "target": "Iron ore!" },
     { "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_A1_000_003", "hash": "97D795A7F9823490", "target": "Tin ore!" },

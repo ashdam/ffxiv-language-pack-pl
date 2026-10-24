@@ -55,7 +55,7 @@
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_THANCRED_000_090", "hash": "14C302C22A6549B0", "target": "A więc takie znaleźli rozwiązanie. „Wielkie manewry” na zjednoczenie narodu..." },
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_THANCRED_000_091", "hash": "91AF80D63C7FBC5D", "target": "Ciekawe, jaką rolę wyznaczą w tym wszystkim <italic(1)>tobie<italic(0)>. Tobie, <if(gnum4,której,któremu)> powierzyli swoje tajemnice i na <if(gnum4,której,którym)> tak <italic(1)>mocno<italic(0)> polegają." },
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_THANCRED_000_092", "hash": "1BA94E03D86C82A1", "target": "A kiedy padnie propozycja, zgodzisz się? Znów staniesz po stronie Ishgardu?" },
-    { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_Q2_000_093", "hash": "452DFFCD0EE2B7C9", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_Q2_000_093", "hash": "452DFFCD0EE2B7C9", "target": "Co powiesz?" },
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_A2_000_094", "hash": "CB1EA964B571E7E5", "target": "Zaszliśmy już tak daleko, prawda?" },
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_A2_000_095", "hash": "4AB169211A64BCED", "target": "Stanę po stronie przyjaciół i towarzyszy, nie narodu." },
     { "gameKey": "quest/022/HeaVnc108_02238#TEXT_HEAVNC108_02238_A3_000_096", "hash": "883B8C3FF16371BB", "target": "To zaczyna być trochę za dużo, prawda...?" },

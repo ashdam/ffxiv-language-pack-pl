@@ -11,7 +11,7 @@
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_00", "hash": "677F3962CF259CB4", "target": "Porozmawiać z żołnierzem Marcellinus" },
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_01", "hash": "022CAF7AF82E2F3B", "target": "Porozmawiać z żołnierką Octavia" },
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_02", "hash": "09C39E930D441F72", "target": "Porozmawiać z żołnierzem Jullus" },
-    { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_03", "hash": "EA81732DF8A60E9A", "target": "Poczekać we wskazanym miejscu" },
+    { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_03", "hash": "EA81732DF8A60E9A", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_TODO_04", "hash": "BAC0AF599E451599", "target": "Porozmawiać z dowódczynią Lucia" },
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_MARCELLINUS_100_000", "hash": "9B649A195418882C", "target": "Po co tu jesteś? Żeby śmiać się z naszego nieszczęścia!?" },
     { "gameKey": "quest/043/AktKmb113_04392#TEXT_AKTKMB113_04392_JULLUS_000_000", "hash": "63812195DC9A9207", "target": "Wrócisz ze mną do swojego obozu, gdzie spotkam się z waszym dowódcą i przedstawię żądania lorda Quintusa." },

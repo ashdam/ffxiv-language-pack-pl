@@ -6,7 +6,7 @@
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_00", "hash": "9401AF429F99A2A1", "target": "Porozmawiać z Wuk Lamat" },
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_01", "hash": "E4A16EFE482CD7D5", "target": "Porozmawiać z osobą o imieniu Alphinaud" },
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_02", "hash": "BB69D84EED3D10F6", "target": "Porozmawiać z Erenville" },
-    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_03", "hash": "51A6290825F25FB8", "target": "Zaczekać w wyznaczonym miejscu" },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_03", "hash": "51A6290825F25FB8", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_04", "hash": "0A53FCB7D5CBCF2F", "target": "Porozmawiać z Wuk Lamat" },
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_001", "hash": "4A77E5AB78462123", "target": "Och, mogłabym poprosić Namikkę, żeby potem coś mi ugotowała..." },
     { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_002", "hash": "66136EE6F5B9409C", "target": "Tyle tu wąskich, krętych uliczek. Ale nawet jeśli się zgubisz, wystarczy iść ciągle w górę, a w końcu dotrzesz do pałacu." },

@@ -47,7 +47,7 @@
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_YUGIRI_000_061", "hash": "6A812613F36B4E82", "target": "Dobrze, że <if(gnum4,porozmawiała pani,porozmawiał pan)> z jednym z ocalałych z tamtej rzezi. Aby pokonać wroga, trzeba najpierw poznać jego prawdziwą naturę." },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_YUGIRI_000_062", "hash": "8EEC1C0426236BD9", "target": "Domański Front Wyzwolenia zmagał się z podobnymi trudnościami jak alamhigański ruch oporu. Może nawet większymi, zważywszy na nasze położenie po nieudanym powstaniu." },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_YUGIRI_000_063", "hash": "16371F7058F7810D", "target": "Nas jest garstka, wrogów legiony. My jesteśmy słabi, oni silni. A jednak z <if(gnum4,pani,pana)> pomocą wierzę, że możemy dokonać niemal wszystkiego... Mam tylko nadzieję, że ogrom naszych trudności nie osłabił <if(gnum4,pani,pana)> woli pomocy." },
-    { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_Q1_000_064", "hash": "BA5666E2F144FDEB", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_Q1_000_064", "hash": "BA5666E2F144FDEB", "target": "Co powiesz?" },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_A1_000_065", "hash": "76DFC1565A5CE1D6", "target": "Nigdy. Zwycięstwo będzie nasze!" },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_A1_000_066", "hash": "A1D061B54A070CE8", "target": "Ależ nie. <italic(1)>Uwielbiam<italic(0)> takie wyzwania." },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_A1_000_067", "hash": "94E058274314AA02", "target": "Dopóki mogę liczyć na odpowiednio hojną nagrodę." },

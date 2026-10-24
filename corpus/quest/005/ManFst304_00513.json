@@ -5,7 +5,7 @@
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_00", "hash": "8492899B588D3E31", "target": "Minfilia prosi cię o zbadanie sylfów." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_01", "hash": "B5E293B18DF959C8", "target": "Minfilia prosi cię o ustalenie, z pomocą mocy Echa, zamiarów plemienia sylfów. Przed nawiązaniem kontaktu z drobnymi zwierzoludźmi zamelduj się u komendanta Vorsaile Heuloix w Gnieździe Żmij w Gridanii." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_02", "hash": "B52848D2D869D25B", "target": "Przybywasz do Gniazda Żmij i zastajesz komendanta myślącego na głos. Powiadom go o celu swojej wizyty." },
-    { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_TODO_00", "hash": "FF12A8D7CBC69808", "target": "Porozmawiać z Vorsaile Heuloix w Gnieździe Żmij" },
+    { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_TODO_00", "hash": "FF12A8D7CBC69808", "target": "Porozmawiać z Vorsaile'em Heuloix w Gnieździe Żmij" },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_100010_MINFILIA", "hash": "F12D0FFF7ECB2FB5", "target": "A teraz, gdy mamy już formalności za sobą..." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_100020_MINFILIA", "hash": "2CB3336B922E4259", "target": "...Mamy do ciebie prośbę." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_100030_MINFILIA", "hash": "9FF6AEAA35E4834F", "target": "Urianger. Czy dotarły dokumenty od Uczniów Baldesiona?" },

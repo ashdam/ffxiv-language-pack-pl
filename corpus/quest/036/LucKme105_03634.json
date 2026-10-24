@@ -51,7 +51,7 @@
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_SYSTEM_000_131", "hash": "9076D768CF137409", "target": "Na słońcu suszy się jedzenie. Wygląda na to, że powieszono je niedawno." },
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_SYSTEM_000_132", "hash": "78F9A1E33E2179E9", "target": "Kubki są do połowy puste... albo pełne, zależnie od spojrzenia. Za ladą na piecu stale bulgocze czajnik." },
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_ALPHINAUD_000_140", "hash": "9D43D8CD27546D94", "target": "Co nowego, <split(<string(gstr1)>, ,1)>? Udało ci się znaleźć coś ciekawego?" },
-    { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_Q1_000_000", "hash": "937D9BCFE5F2827C", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_Q1_000_000", "hash": "937D9BCFE5F2827C", "target": "Co powiesz?" },
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_A1_000_001", "hash": "1DCE6884BC0062B4", "target": "Na pewno ktoś tu nadal mieszka." },
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_A1_000_002", "hash": "D47F0A74CFAE2A1F", "target": "Nie udało mi się znaleźć tajemniczej osoby." },
     { "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_A1_000_003", "hash": "FC322E8EBB44E559", "target": "Może to miejsce naprawdę jest opuszczone." },

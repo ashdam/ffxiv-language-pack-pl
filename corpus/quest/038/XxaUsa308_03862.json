@@ -13,7 +13,7 @@
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_TODO_01", "hash": "34294981FEB2D612", "target": "Porozmawiać z Laurentiusem ponownie" },
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_TODO_02", "hash": "15E4D509A4015703", "target": "Porozmawiać z Laurentiusem po raz kolejny" },
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_TODO_03", "hash": "EBAA511C98880F0D", "target": "Porozmawiać z Laurentiusem... <italic(1)>znowu<italic(0)>" },
-    { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_TODO_04", "hash": "9183B2974DC135F5", "target": "Zdać relację Buscarronowi" },
+    { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_TODO_04", "hash": "9183B2974DC135F5", "target": "Złożyć raport Buscarronowi" },
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_SYSTEM_100_000", "hash": "65577EF502E55037", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_BUSCARRON_000_000", "hash": "51DAF96CB04751DC", "target": "Dobrze, że jesteś, przyjacielu. Chcę z tobą o czymś pomówić. Pamiętasz, jak mówiłem, że chyba mamy zdrajcę pośród nas─kogoś, kto pomaga Garleańczykom? Otóż zdaje mi się, że namierzyłem podejrzanego." },
     { "gameKey": "quest/038/XxaUsa308_03862#TEXT_XXAUSA308_03862_BUSCARRON_000_001", "hash": "C96910C7EE79F608", "target": "Mam takiego stałego bywalca, co dawniej jadał rzadką zupę i sączył jedno piwo, bo na drugie go nie było stać. Ale ostatnio zaczął zamawiać moje najlepsze wina i najprzedniejsze kawałki mięsa, jakie tylko zdobędę." },

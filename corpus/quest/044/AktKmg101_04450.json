@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_SEQ_00", "hash": "5506FE1AFC04523E", "target": "Krile ma pilne wieści." },
-    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_00", "hash": "20F4B83A1F2B2CAB", "target": "Porozmawiać z członkiem Forum Fourchenault" },
+    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_00", "hash": "20F4B83A1F2B2CAB", "target": "Porozmawiać z Fourchenaultem" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_01", "hash": "D3035CA115D9B1BF", "target": "Porozmawiać z towarzyszem Alphinaud" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_02", "hash": "60DA44A972FAD604", "target": "Porozmawiać z Tataru" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_03", "hash": "F6EFA84B185AD822", "target": "Poczekać we wskazanym miejscu" },

@@ -11,7 +11,7 @@
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_A1_000_013", "hash": "9E2705A790AF3878", "target": "Nic." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_Q3_000_015", "hash": "B74EBEDD7529A856", "target": "O co chcesz zapytać?" },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_A3_000_016", "hash": "A778237F44F34D1A", "target": "Warunki wejścia do Gordias (Savage)." },
-    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_A3_000_017", "hash": "070C760B9EDBD46F", "target": "Nic." },
+    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_A3_000_017", "hash": "070C760B9EDBD46F", "target": "O nic." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_REDBRIX_000_020", "hash": "C8657FC8B5B1CAAA", "target": "Pszsz... Szkoo... <if(gnum4,Wierzchniaczka dostała,Wierzchniak dostał)> pozwolenie na wejście do środka─choć Redbrix nie wie, po co. Ale Redbrix otworzy drogę, jeśli <if(gnum4,wierzchniaczka poprosi,wierzchniak poprosi)>." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_SYSTEM_000_050", "hash": "902B462DE30FEE6F", "target": "Gordias (Savage) składa się z wielu lochów. W niektórych lochach nie można używać zaklęcia Return." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_SYSTEM_000_051", "hash": "59EB2EE8FBB7EB16", "target": "Postępy w Gordias (Savage) są zapisywane dla każdego gracza w określonych miejscach. Możesz wznowić wyprawę od miejsca jej przerwania." },

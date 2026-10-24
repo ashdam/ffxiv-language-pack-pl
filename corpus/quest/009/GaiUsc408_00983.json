@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_00", "hash": "EFAE860EE8CB4D34", "target": "Wedge jest zdeterminowany, by odnaleźć Biggsa." },
-    { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_01", "hash": "6EDCE7999D345364", "target": "Wedge znów błaga cię o poszukiwanie Biggsa. Choć podpowiedź Abelie nic nie dała, możliwe, że ktoś inny z ishgardczyków stacjonujących w Wieży Monument wskaże owocniejszy kierunek." },
+    { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_01", "hash": "6EDCE7999D345364", "target": "Wedge znów błaga cię o poszukiwanie Biggsa. Choć podpowiedź Abelie nic nie dała, możliwe, że ktoś inny z Ishgardczyków stacjonujących w Wieży Monument wskaże owocniejszy kierunek." },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_02", "hash": "79BE05BD1859CC51", "target": "Ignace podsuwa myśl, że Biggs mógł próbować dotrzeć do Placówki Whitebrim. Jeśli tak, musiałby przejść przez Przełęcz Daniffena, której południowe wejście leży na północny wschód od Wieży Monument." },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_03", "hash": "4ABAA7571567BFCB", "target": "Z pomocą Ydy i Y'shtoli udaje ci się uratować Biggsa z rąk oddziału imperialnych wojsk. Wróć do Wieży Monument i porozmawiaj z Wedge'em." },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_SEQ_04", "hash": "C76541FB2A35DB7F", "target": "Wraz z bezpiecznym powrotem Biggsa trójka trzonu Kuźni Garlonda znów jest razem, a przyszłość dzięki temu spotkaniu wydaje się jaśniejsza. Teraz czas zwrócić myśli ku następnemu wyzwaniu: uratowaniu Minfilii i pozostałych Dziedziców." },

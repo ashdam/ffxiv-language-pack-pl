@@ -5,7 +5,7 @@
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_SEQ_00", "hash": "7CC9D1DDE974F461", "target": "Urianger bardzo cieszy się z twojego towarzystwa." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_00", "hash": "ABBD5F4DC793590A", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_01", "hash": "FE204853E9EE8354", "target": "Stać na straży we wskazanym miejscu i pokonać pojawiających się wrogów" },
-    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_02", "hash": "1961A51C3F2E4517", "target": "Stać na straży we wskazanym miejscu" },
+    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_02", "hash": "1961A51C3F2E4517", "target": "Czuwać we wskazanym miejscu" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_03", "hash": "0DC10FAC6F7BA584", "target": "Porozmawiać z czarodziejem Urianger" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_04", "hash": "6107E88768A610F9", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_05", "hash": "DF9326657E6D2714", "target": "Poszukać Runningway we wskazanym miejscu" },

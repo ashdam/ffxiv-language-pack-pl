@@ -25,7 +25,7 @@
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_HIEN_000_020", "hash": "6B5AFCAC6BBBB565", "target": "...Sekibune Konfederacji wystarczyłby zaś jeden rejs <italic(1)>i<italic(0)> bylibyśmy mniej narażeni na wodzie. O ile, rzecz jasna, przekonamy Rasho, by nam go użyczył." },
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_ALISAIE_000_021", "hash": "AE4C1F01D0CE23B5", "target": "Mogę poprowadzić te rozmowy? Miałam już do czynienia z Rasho i jego piratami." },
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_ALISAIE_000_022", "hash": "825E0D181786365D", "target": "I nie pójdę sama, prawda, <split(<string(gstr1)>, ,1)>?" },
-    { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_Q1_000_000", "hash": "1E7D0C1C0BD35582", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_Q1_000_000", "hash": "1E7D0C1C0BD35582", "target": "Co powiesz?" },
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_A1_000_001", "hash": "E54ABF7E9A8F6E9E", "target": "Możesz na mnie liczyć." },
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_A1_000_002", "hash": "9FB9F1C2BFF5B454", "target": "Chyba nie mam wyboru..." },
     { "gameKey": "quest/030/StmBdd104_03073#TEXT_STMBDD104_03073_ALISAIE_000_023", "hash": "A5956B72452ECD59", "target": "Dzięki.<br>Chętnie znów porozmawiam z piratami. Szkoda tylko, że Lyse nie będzie mogła powtórzyć swojej roli." },

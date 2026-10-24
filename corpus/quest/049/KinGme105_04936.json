@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_SEQ_00", "hash": "4DC3BA8430957E22", "target": "Wuk Lamat obejrzała dzielnicę i jest gotowa ruszyć do miejsca spotkania." },
     { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_00", "hash": "72979CDA504F7460", "target": "Porozmawiać z postacią Wuk Lamat" },
-    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_01", "hash": "B00AB75591B48E6E", "target": "Rozejrzeć się we wskazanym miejscu" },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_01", "hash": "B00AB75591B48E6E", "target": "Zbadać wskazane miejsce" },
     { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_02", "hash": "AD8C72E52E2846C2", "target": "Porozmawiać z postacią blue-scaled Hoobigo child i podążyć za nią w towarzystwie Wuk Lamat" },
     { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_03", "hash": "E7D41C4ECCC7F9C4", "target": "Podążyć za postacią blue-scaled Hoobigo child w towarzystwie Wuk Lamat" },
     { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_04", "hash": "B43ED6F13F612BED", "target": "Porozmawiać z postacią Wuk Lamat" },

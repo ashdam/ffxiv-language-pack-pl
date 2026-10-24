@@ -65,7 +65,7 @@
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_ALISAIE_000_071", "hash": "807FDF599F259471", "target": "Zamiast siedzieć bezczynnie, chyba odwiedzę miasta-państwa i nauczę ich mieszkańców korzystać z porxie." },
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_ALPHINAUD_000_072", "hash": "2D8931FDFFE2D256", "target": "Z pewnością to docenią. Ale może najpierw trochę odpoczniesz? Wtedy łatwiej sprostasz temu, co cię czeka." },
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_GRAHATIA_000_073", "hash": "5446B74D14B4C3B4", "target": "Cóż, <if(gnum4,przyjaciółko,przyjacielu)>... nasz triumf nie trwał długo." },
-    { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_Q1_000_000", "hash": "8905F2D1FBDFB087", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_Q1_000_000", "hash": "8905F2D1FBDFB087", "target": "Co powiesz?" },
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_A1_000_001", "hash": "E2B2D99CEED8196E", "target": "Jak zwykle. Świat <italic(1)>często<italic(0)> potrzebuje ratunku." },
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_A1_000_002", "hash": "2D5202A181F06868", "target": "Och. Nie podoba ci się nasza przygoda?" },
     { "gameKey": "quest/040/LucKmj110_04016#TEXT_LUCKMJ110_04016_A1_000_003", "hash": "40026D64D84DEFB7", "target": "A mnie naprawdę przydałby się odpoczynek..." },

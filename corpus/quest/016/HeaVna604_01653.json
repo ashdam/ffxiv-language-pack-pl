@@ -7,7 +7,7 @@
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_SEQ_02", "hash": "2B94F362AAA80178", "target": "Masz oba przedmioty zamówione przez Tataru. Dostarcz je jej do Carline Canopy." },
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_SEQ_03", "hash": "B8AC397AD7D18DC5", "target": "Tataru z wdzięcznością odbiera oba przedmioty, po czym razem odwiedzacie Y'shtolę. W pokoju gospody zastajecie ją już przytomną i dochodzi do wzruszającego spotkania. Gdy odzyskuje siły i słyszy o waszej sytuacji, przyznaje wprost, że nie wie, jak zbudować taran eteryczny. Zna jednak kogoś, kto może wiedzieć: swoją dawną mistrzynię, Matoyę." },
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TODO_00", "hash": "1530BEE087F026B6", "target": "Porozmawiać z Gevą w Gildii Garbarzy" },
-    { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TODO_01", "hash": "EBACEC5C0166204C", "target": "Porozmawiać z E-Sumi-Yanem w Gildii Zaklinaczy" },
+    { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TODO_01", "hash": "EBACEC5C0166204C", "target": "Porozmawiać z E<-->Sumi<-->Yanem w Gildii Zaklinaczy" },
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TODO_02", "hash": "7E57DCF96D41F1E9", "target": "Dostarczyć przedmioty Tataru do Carline Canopy" },
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TATARU_000_000", "hash": "FCB83CCE01D267AE", "target": "Y'shtola odpoczywa w pokoju gospody. Wciąż jest nieprzytomna, ale oznaki są dobre." },
     { "gameKey": "quest/016/HeaVna604_01653#TEXT_HEAVNA604_01653_TATARU_000_001", "hash": "6E2B2088A6ED954C", "target": "Zaklinacze mówią, że jest zdrowa i wkrótce powinna się obudzić! Czyż to nie wspaniałe?" },

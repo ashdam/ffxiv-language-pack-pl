@@ -11,7 +11,7 @@
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_A1_000_013", "hash": "F52BC014E2F3FF8A", "target": "Nic." },
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_00105_Q3_000_015", "hash": "D8D64C130E6A3DF5", "target": "O co chcesz zapytać?" },
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_00105_A3_000_016", "hash": "99A7E7FD5797DB06", "target": "Warunki wejścia do Midas (Savage)." },
-    { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_00105_A3_000_017", "hash": "4DDFA94620F82904", "target": "Nic." },
+    { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_00105_A3_000_017", "hash": "4DDFA94620F82904", "target": "O nic." },
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_LIGHTKIX_000_020", "hash": "6A26B8D23A7BE78C", "target": "Pszsz... Szkoo...<br><if(gnum4,Wierzchniaczka chce,Wierzchniak chce)> znów wejść do metalowego olbrzyma? Lightkix uważa pomysł za głupi, ale nie zatrzyma <if(gnum4,wierzchniaczki,wierzchniaka)>." },
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_050", "hash": "7B0ACAEF7D775270", "target": "Midas (Savage) składa się z wielu lochów. W niektórych lochach nie można używać zaklęcia Return." },
     { "gameKey": "raid/RaidGuideEntrance32#TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_051", "hash": "503DCBEA9703C304", "target": "Postępy w Midas (Savage) są zapisywane dla każdego gracza w określonych miejscach. Możesz wznowić wyprawę od miejsca jej przerwania." },

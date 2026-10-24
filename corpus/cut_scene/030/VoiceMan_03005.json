@@ -22,7 +22,7 @@
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300020_ALPHINAUD", "hash": "3E1BF092030F421A", "target": "Żołnierze Imperium─i zdążyli już zabezpieczyć teren." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300030_REGULA", "hash": "2A4FC51C2D349C6F", "target": "Pokażcie się natychmiast!" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300040_REGULA", "hash": "819EE34073BCD08B", "target": "A ja spodziewałem się kolejnych zwierzoludzi. Kim jesteście!?" },
-    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300050_VARIS", "hash": "205F392E688A7A00", "target": "Sądziłem, że za zniknięciem naszych zwiadowców stoją ishgardczycy, lecz widzę, że się myliłem." },
+    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300050_VARIS", "hash": "205F392E688A7A00", "target": "Sądziłem, że za zniknięciem naszych zwiadowców stoją Ishgardczycy, lecz widzę, że się myliłem." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300060_VARIS", "hash": "30F07958B2035902", "target": "Tak jak mówiła Roaille. <if(gnum4,Wojowniczka,Wojownik)> Światła lubi zjawiać się w najmniej dogodnej chwili." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300070_REGULA", "hash": "2D76AFAE647BAAAE", "target": "<if(gnum4,Wojowniczka,Wojownik)> Światła? <if(gnum4,Ta,Ten)>, <if(gnum4,która pokonała,który pokonał)> van Baelsara!?" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300080_VARIS", "hash": "2F7B96EA778A263E", "target": "Wygląda na to, że słynna chluba Eorzei również szuka Azys Lla." },

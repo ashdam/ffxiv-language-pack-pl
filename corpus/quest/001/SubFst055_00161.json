@@ -54,7 +54,7 @@
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_082", "hash": "D9CD2C60309942AD", "target": "Tak, ten kolor, ten ciężar... To bez wątpienia jajo Leii." },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_083", "hash": "56C7E89B536DB793", "target": "Nie wiem, jak dziękować." },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_KEITHA_000_084", "hash": "A6330690A3AACDFC", "target": "Przez chwilę się martwiłam, <split(<string(gstr1)>, ,1)>. Dobrze widzieć <if(gnum4,panią,pana)> i jajo całych i zdrowych." },
-    { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_085", "hash": "B0BA0B6D6DC50B95", "target": "...A więc słusznie podejrzewałem, że maczał w tym palce ishgardczyk─choć w rzeczywistości jaja nie uniósł. Cóż, interwencji moogle'a trudno było przewidzieć!" },
+    { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_085", "hash": "B0BA0B6D6DC50B95", "target": "...A więc słusznie podejrzewałem, że maczał w tym palce Ishgardczyk─choć w rzeczywistości jaja nie uniósł. Cóż, interwencji moogle'a trudno było przewidzieć!" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_KEITHA_000_086", "hash": "C087C5AD4B16542B", "target": "A niech mnie... Chyba nie ten sam... czy jednak?" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_087", "hash": "A989C26FFB6CA922", "target": "Czyżbyś już wcześniej spotkała naszego niespodziewanego wybawcę, Keitho?" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_KEITHA_000_088", "hash": "C562A02A869D7BC5", "target": "Może i tak. Jeden z nich uratował mi skórę, gdy nadeszła Katastrofa." },

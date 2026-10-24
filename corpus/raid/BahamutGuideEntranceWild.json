@@ -9,7 +9,7 @@
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_A1_000_013", "hash": "9F42EE06251B7215", "target": "Nic." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_Q3_000_015", "hash": "A81D4D638A82976B", "target": "O co chcesz zapytać?" },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_A3_000_016", "hash": "1553FEC5D5E63D85", "target": "Warunki wejścia do Final Coil of Bahamut." },
-    { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_A3_000_017", "hash": "F29E5298E8AB18B0", "target": "Nic." },
+    { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_A3_000_017", "hash": "F29E5298E8AB18B0", "target": "O nic." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_ERKENRAD_000_020", "hash": "7E45EE5E39F8EA5E", "target": "Pozostają dwa okręty więzienne do unieszkodliwienia. Choć dwa inne są już za <if(gnum4,panią,panem)>, nie ma gwarancji, że tym razem będzie tak samo. Proszę dopilnować pełnych przygotowań." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_050", "hash": "069BE08E7063668F", "target": "Final Coil of Bahamut składa się z wielu lochów, czyli <colortype(500)><edgecolortype(501)>etapów<edgecolortype(0)><colortype(0)>. Na niektórych etapach nie można używać zaklęcia Return." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_051", "hash": "758886D1F5864F5E", "target": "Postępy w Final Coil of Bahamut są zapisywane dla każdego gracza w określonych miejscach. Możesz wznowić wyprawę od miejsca jej przerwania." },
