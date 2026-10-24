@@ -9,7 +9,7 @@
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_SEQ_04", "hash": "4005568801CAA72C", "target": "Mimo wszelkich starań Kurobana łatwo ulega wybranemu przeciwnikowi. Musisz pokonać potwory i ocalić młodego Lupina przed czymś gorszym niż wstyd." },
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_SEQ_05", "hash": "8EE7607C0D6A2A1C", "target": "Po twoim rozprawieniu się z bestiami Kurobana dziękuje ci. Ma nadzieję, że teraz rozumiesz, iż jego sprawa naprawdę jest beznadziejna. Wyraźnie przygnębiony młody Lupin powoli wraca do Namai. Postanawiasz już za nim nie iść i zamiast tego zdać relację Fukudo." },
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_SEQ_06", "hash": "5EBC509F974AD714", "target": "Po wysłuchaniu twojej relacji Fukudo uświadamia sobie, że Kurobana zapewne nigdy nie dorówna bratu jako wojownik. Przypuszcza teraz, że jego talent może leżeć gdzie indziej. Prosi o dłuższy pobyt w Namai i pomoc młodemu Lupinowi w odkryciu innego sposobu przysłużenia się wiosce." },
-    { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_00", "hash": "570DE81CEB957306", "target": "Zaczekać we wskazanym miejscu" },
+    { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_00", "hash": "570DE81CEB957306", "target": "Zaczaić się we wskazanym miejscu" },
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_01", "hash": "25F8C2AFDBE35E31", "target": "Użyć /rally wobec postaci Kurobana" },
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_02", "hash": "EABFE83D8B6E79D6", "target": "Odnaleźć postać Kurobana" },
     { "gameKey": "quest/027/StmBdz413_02736#TEXT_STMBDZ413_02736_TODO_03", "hash": "10C7574E9AC674BA", "target": "Uratować postać Kurobana" },

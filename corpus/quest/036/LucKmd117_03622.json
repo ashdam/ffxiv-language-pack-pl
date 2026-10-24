@@ -31,7 +31,7 @@
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_061", "hash": "D1FB4A06521EDAB7", "target": "Nie mamy więc wyboru. Musimy polegać na Uriangerze i jego tajemnicach." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_062", "hash": "87D7E62BA69234AB", "target": "Jeśli następna walka będzie ostatnią, może jeszcze odegrasz w niej swoją rolę. Ale potrzebujesz wszystkich sił." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_063", "hash": "E2B57C3C67BA3ED1", "target": "Omówię strategię z innymi i dopilnuję przygotowań do drogi. A ty wróć do swojego pokoju i odpoczywaj do tego czasu. Zrozumiano?" },
-    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q1_000_000", "hash": "E86BDBD66B9D0066", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q1_000_000", "hash": "E86BDBD66B9D0066", "target": "Co powiesz?" },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_A1_000_001", "hash": "D86DA0BE600759ED", "target": "...Rozumiem." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_A1_000_002", "hash": "FA2FA2288E4DA646", "target": "Czuję się <italic(1)>dobrze<italic(0)>. Pozwól mi pomóc." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_A1_000_003", "hash": "10C0CB94C03B4E51", "target": "Tak, mamo..." },
@@ -61,7 +61,7 @@
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_914", "hash": "4F7AC1BD544A9F85", "target": "Mógłbym umrzeć szczęśliwy, wiedząc, że ktoś taki wciąż żyje." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_MYSTERYVOICE_000_916", "hash": "C82EE6E7891D284E", "target": "Zaiste. Ale nie dziś. Nie zanim przekażemy naszą wiadomość." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_MYSTERYVOICE_000_917", "hash": "D45ECFB4B33C6E79", "target": "Nie trać wiary, przyjacielu: <italic(1)>znajdziemy<italic(0)> <if(gnum4,ją,go)>..." },
-    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q10_000_920", "hash": "E7CCAB6A580F04FB", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q10_000_920", "hash": "E7CCAB6A580F04FB", "target": "Co powiesz?" },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_A10_000_921", "hash": "F788B6672ECCED1A", "target": "Co za dziwny sen..." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_A10_000_923", "hash": "F6F6CCA8A6170FBA", "target": "Czy to była... przeszłość?" }
   ]

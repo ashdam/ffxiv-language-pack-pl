@@ -9,7 +9,7 @@
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SEQ_04", "hash": "04A3209C7D7FBBA8", "target": "W Gnieździe Żmij wita cię wysoki komendant Węży Heuloix. Ponieważ liczy się czas, pomija uprzejmości i od razu wyjaśnia nadzwyczajne okoliczności, które zmusiły go do wezwania cię. Zbierasz się w sobie na ponure wieści o tym, co może czekać..." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_00", "hash": "9EB78856EF0112FD", "target": "Porozmawiać z Tataru" },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_01", "hash": "D63E6017A3AA9EC2", "target": "Porozmawiać z Minfilią" },
-    { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_02", "hash": "A43AAE3F6D4FFD13", "target": "Porozmawiać z Vorsaile Heuloix w Gnieździe Żmij" },
+    { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_02", "hash": "A43AAE3F6D4FFD13", "target": "Porozmawiać z Vorsaile'em Heuloix w Gnieździe Żmij" },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SYSTEM_100_000", "hash": "3982F6A2479D032F", "target": "Aby przyjąć to zadanie, trzeba porzucić bieżące zadanie głównej fabuły. Otwórz odpowiedni wpis w oknie Journal lub Duty List i wybierz „Abandon”." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SLAFBORN_000_000", "hash": "6E6FEC2680C9343E", "target": "Wracasz odwalić robotę za tuzin chłopa, co? Ha! Żartuję..." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SLAFBORN_000_001", "hash": "BF05EF267D06D3C5", "target": "Nawet ja rozumiem, że <if(gnum4,tak ważna kobieta,tak ważny człowiek)> jak ty nie ma czasu na czarną robotę." },

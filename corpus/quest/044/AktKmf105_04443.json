@@ -5,7 +5,7 @@
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SEQ_00", "hash": "252D62757F3B457D", "target": "Choć bardzo się stara, Urianger nie może uwolnić się od swoich znajomych z ludu Loporrit." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_00", "hash": "A39822F34FD4F184", "target": "Porozmawiać z gościem Singingway" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_01", "hash": "5E79AC0CDF020419", "target": "Udać się we wskazane miejsce i obejrzeć ustrojstwo" },
-    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_02", "hash": "DA2D98D099C8BE1E", "target": "Zbadać wskazane miejsce i pokonać pojawiających się przeciwników" },
+    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_02", "hash": "DA2D98D099C8BE1E", "target": "Zbadać wskazane miejsce i pokonać pojawiających się wrogów" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_03", "hash": "81AA8AF2F30F2093", "target": "Porozmawiać z gościem Growingway" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_04", "hash": "F64C0879CF1D8F92", "target": "Porozmawiać z towarzyszem Urianger" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_05", "hash": "052EC30BDF37D47F", "target": "Porozmawiać z gościem Singingway" },

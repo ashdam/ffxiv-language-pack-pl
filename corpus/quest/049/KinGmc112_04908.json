@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_SEQ_00", "hash": "353C96CB78925E5B", "target": "Wuk Lamat jest zdeterminowana, by znaleźć rozwiązanie problemów miasta Mamook." },
-    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_00", "hash": "A794E08E83E2CA34", "target": "Zaczekać w wyznaczonym miejscu" },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_00", "hash": "A794E08E83E2CA34", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_01", "hash": "3D225D9EC200F346", "target": "Porozmawiać z Erenville" },
     { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_02", "hash": "A3D649E99C851CB5", "target": "Porozmawiać z Wuk Lamat" },
     { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_03", "hash": "F369AE81049F91DE", "target": "Porozmawiać z Wuk Lamat" },

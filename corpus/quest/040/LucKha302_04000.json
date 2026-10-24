@@ -29,7 +29,7 @@
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_MARCELLOIX_000_021", "hash": "A959AF3491A75BF0", "target": "Co więcej, postarałem się o dwa egzemplarze każdego instrumentu. Jeśli lord Francel nabierze ochoty, sądzę, że mało co poruszy serca mieszkańców bardziej niż państwa duet." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_MARCELLOIX_000_022", "hash": "363366EAE99778E8", "target": "Muszę jednak przyznać, że nie wiem, jaki instrument nasz dobroczyńca lubi najbardziej. Czy zechce <if(gnum4,pani,pan)> zapytać o to Foncrineau w moim imieniu? I proszę przypomnieć mu, by nie zdradzał sprawy samemu lordowi Francelowi..." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_Q1_000_000", "hash": "A5AAD986157AB1BC", "target": "Co powiesz?" },
-    { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_A1_000_001", "hash": "63E873ED5E5F5C75", "target": "Zostawcie to mnie." },
+    { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_A1_000_001", "hash": "63E873ED5E5F5C75", "target": "Zajmę się tym." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_A1_000_002", "hash": "16AD54084E087F63", "target": "Postaram się..." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_MARCELLOIX_000_023", "hash": "E8DFC9D307D77AEF", "target": "Bardzo dziękuję! Lepiej wrócę teraz na estradę, by dokończyć przygotowania." },
     { "gameKey": "quest/040/LucKha302_04000#TEXT_LUCKHA302_04000_MARCELLOIX_000_024", "hash": "A1C996C60A052C32", "target": "Obecna tu Mariorie dopilnuje szczegółów koncertu. Jeśli ma <if(gnum4,pani,pan)> jakiekolwiek pytania o wydarzenie, z radością wszystko wyjaśni." },

@@ -22,7 +22,7 @@
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_LYSE_000_022", "hash": "B52241571134C1B1", "target": "<italic(1)>Co<italic(0)>!? Ale to─ Jeśli to żart─ Na bogów, oby to był żart!" },
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_LYSE_000_023", "hash": "6B38EEEBA7789008", "target": "Słuchaj─wiem, co widziałam, jasne? <italic(1)>Wszyscy<italic(0)> to widzieliśmy. A teraz mówisz, że żyje sobie spokojnie w Garlemaldzie!?" },
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_ALISAIE_000_024", "hash": "1CCD7753E515D001", "target": "Wiem, jak niedorzecznie to brzmi. Sama nadal nie mogę w to uwierzyć. Słowom imperialnego wysłannika mogę nie ufać, ale słowom <split(<string(gstr1)>, ,1)> już tak. <if(gnum4,Widziała,Widział)> następcę tronu przez Echo─podczas spotkania, które musiało odbyć się niedawno." },
-    { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_Q1_000_000", "hash": "B0724C5734FAC178", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_Q1_000_000", "hash": "B0724C5734FAC178", "target": "Co powiesz?" },
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_A1_000_001", "hash": "9BA1958405ED01AD", "target": "To był on. To był Zenos." },
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_A1_000_002", "hash": "CE2D963E8D2B7C64", "target": "Zenos żyje." },
     { "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_LYSE_000_025", "hash": "30C27B9F98F04D4A", "target": "Nie, to musiał być─nie wiem─ktoś bardzo podobny. Zenos <italic(1)>nie żyje<italic(0)>. Miał wielką dziurę w szyi! <italic(1)>Pochowaliśmy<italic(0)> go!" },

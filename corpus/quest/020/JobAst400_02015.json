@@ -2,17 +2,17 @@
   "conversation": "quest/020/JobAst400_02015",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_00", "hash": "7A4C0AB6C339C157", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_01", "hash": "26DA4B43E036B828", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_02", "hash": "02990527DBC28572", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_TODO_00", "hash": "5EA0377E85E94520", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_000", "hash": "D7330400D12D5E9A", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_001", "hash": "0BC6657830406EBB", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_002", "hash": "8BAE946278BFF087", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_009", "hash": "76DC5D959C8D5DC6", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_010", "hash": "BC7D83D500ABB79F", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_011", "hash": "B21C7BFC01A0FFD7", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_012", "hash": "8774363A9797C8D3", "target": "" },
-    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_013", "hash": "583EA4FFA30E0F8B", "target": "" }
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_00", "hash": "7A4C0AB6C339C157", "target": "Jannequinard wydaje się nieco zmartwiony. Porozmawiaj z astrologiem i sprawdź, czy coś jest nie tak." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_01", "hash": "26DA4B43E036B828", "target": "Leveva i Quimperain znów wpadli w zasadzkę bandytów. Sharlayańska astrolożka dochodzi teraz do siebie w odnowionej alkowie na pierwszym piętrze Athenaeum." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_02", "hash": "02990527DBC28572", "target": "Lady Leveva chciała wykorzystać wieści o napaści, aby nauczyć uczniów zachowywania wybranych kart w rozkładzie. Plan udał się tylko w połowie. Na szczęście chodzi o twoją połowę. Porozmawiaj z Levevą ponownie, aby kontynuowała lekcję." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_TODO_00", "hash": "5EA0377E85E94520", "target": "Porozmawiać z Levevą na pierwszym piętrze" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_000", "hash": "D7330400D12D5E9A", "target": "Czy wszystko u <if(gnum4,pani,pana)> dobrze, <split(<string(gstr1)>, ,1)>? To przynajmniej u nas <if(gnum4,dwojga,dwóch)>... Ach... To znaczy... Och, nie mogę ukrywać tak ważnych wieści, <split(<string(gstr1)>, ,1)>! Pani Leveva i Quimperain... wczoraj w nocy znów wpadli w zasadzkę bandytów!" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_001", "hash": "0BC6657830406EBB", "target": "Niezawodny Quimperain ponownie dowiódł swej bezcennej wartości. Popisał się tak brawurową rycerskością, że zawstydziłby każdego rycerza Stolicy. Co swoją drogą świadczy o ich opłakanym stanie. Ale o tym porozmawiamy przy innej filiżance herbaty." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_002", "hash": "8BAE946278BFF087", "target": "Kiedy lady Leveva chciała wynająć pokój w tej brudnej gospodzie w Brume, kazałem uprzątnąć nasze żałośnie zaniedbane pierwsze piętro i umeblować je sprzętami z własnego domu. Teraz tam przebywa. Prosiła, żeby <if(gnum4,pani ją odwiedziła,pan ją odwiedził)> zaraz po przybyciu." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_009", "hash": "76DC5D959C8D5DC6", "target": "Dama otrzymała miejsce na pierwszym piętrze, by odzyskać siły. Ku niezadowoleniu kilku moich kolegów astrologów. Phi! Jakby kiedykolwiek tam chodzili... No, poza tym, jak mu tam. Jak on się <italic(1)>nazywa<italic(0)>? Tak czy inaczej, prosiła o odwiedziny zaraz po przybyciu... a jeśli nie przemawia przeze mnie wczorajszy miód, to znaczy teraz." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_010", "hash": "BC7D83D500ABB79F", "target": "Chwileczkę... Wcale nie dziwi <if(gnum4,panią,pana)> mój widok... Jannequinard opowiedział o napaści? Przeklęty głupiec! A przecież kazałam mu trzymać język za zębami! Choć chyba i ja ponoszę część winy, skoro sądziłam, że potrafi wykonać polecenie." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_011", "hash": "B21C7BFC01A0FFD7", "target": "Zapewne zastanawia się <if(gnum4,pani,pan)>, po co sprowadziłam <if(gnum4,panią,pana)> do tych prowizorycznych komnat. Nie, nie chodzi o napady bandytów, które chyba są w tej krainie znacznie częstsze, niż sądziłam." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_012", "hash": "8774363A9797C8D3", "target": "Czasem niebiosa ukazują wizję przyszłości, która jest... nieco odleglejsza od pierwotnego zamiaru. W takich przypadkach gwiazdy się nie mylą. Są tylko... nie po kolei." },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_013", "hash": "583EA4FFA30E0F8B", "target": "Wtasowując więc kartę z powrotem do talii, nie lekceważymy ani nie wypieramy się przyszłości. Odkładamy tylko odczyt przeznaczony na później i zastępujemy go czymś lepiej pasującym do teraźniejszości. Ufam, że opanuje <if(gnum4,pani,pan)> tę technikę szybciej niż Jannequinard." }
   ]
 }

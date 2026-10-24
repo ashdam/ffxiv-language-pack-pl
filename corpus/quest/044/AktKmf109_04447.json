@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_SEQ_00", "hash": "C94E0740C91E8FA3", "target": "Czeka cię bliżej nieokreślone zadanie." },
     { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_TODO_00", "hash": "814C5C9383888A87", "target": "Porozmawiać z towarzyszem G'raha Tia" },
-    { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_TODO_01", "hash": "689520ED619E941D", "target": "Zbadać wyznaczone miejsce i pokonać pojawiających się wrogów" },
+    { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_TODO_01", "hash": "689520ED619E941D", "target": "Zbadać wskazane miejsce i pokonać pojawiających się wrogów" },
     { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_TODO_02", "hash": "541E147D675D3047", "target": "Ponownie zbadać wyznaczone miejsce" },
     { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_TODO_03", "hash": "E2242FC4CE25BCFF", "target": "Porozmawiać z badaczem Kokkol Dankkol" },
     { "gameKey": "quest/044/AktKmf109_04447#TEXT_AKTKMF109_04447_ALPHINAUD_000_000", "hash": "527D8C7468C8E306", "target": "Dziwnie słyszeć, że ktoś mówi tak o ojcu... Ale podejrzewam, że jego równie zdziwiłoby twoje zdanie o mnie." },

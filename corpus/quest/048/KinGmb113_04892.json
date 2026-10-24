@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_SEQ_00", "hash": "44866D8AC4A86832", "target": "Alphinaud prosi cię o pomoc w sprawdzeniu stanu rannych Yok Huy." },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_00", "hash": "FBE45F116F0EF65C", "target": "Porozmawiać z rannymi Yok Huy w wiosce Worlar's Echo" },
-    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_01", "hash": "E462D886B67421F1", "target": "Poczekać w wyznaczonym miejscu" },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_01", "hash": "E462D886B67421F1", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_02", "hash": "33017F93ADF4B955", "target": "Porozmawiać z osobą temple guard" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_03", "hash": "4545F514A492B349", "target": "Porozmawiać z postacią Wuk Lamat" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_001", "hash": "31889D70B94C5A57", "target": "Nie trać przytomności! Zaraz sprowadzimy uzdrowiciela!" },

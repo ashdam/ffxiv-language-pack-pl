@@ -39,7 +39,7 @@
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_EUNAKOTOR_000_206", "hash": "37F41702DFDC897C", "target": "Jako Padjal nie mogę stać bezczynnie, gdy takie okropności zagrażają naszemu leśnemu domowi." },
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_EUNAKOTOR_000_207", "hash": "5F2CE9663AB85538", "target": "Z zapisków tego potwora wyczuwałem jedynie wszechogarniającą obsesję na punkcie życia i śmierci oraz łaknienie mroku." },
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_EUNAKOTOR_000_208", "hash": "A2A938ED1AE96852", "target": "Doszło do spotkania ze straszliwym nekromantą w samym sercu labiryntu. Proszę powiedzieć─co <if(gnum4,pani,pan)> sądzi o nim i jego zamiarach?" },
-    { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_Q2_000_000", "hash": "17F4B59B09499472", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_Q2_000_000", "hash": "17F4B59B09499472", "target": "Co powiesz?" },
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_A2_000_001", "hash": "9AA18B284B6A0756", "target": "Był zwyrodniałym potworem, dla którego zmarli byli tylko zabawkami." },
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_A2_000_002", "hash": "D2DF78F0234B653A", "target": "Był żałosną, wypaczoną istotą, którą kierowały fałszywe ideały." },
     { "gameKey": "quest/023/SubCts712_02388#TEXT_SUBCTS712_02388_A2_000_003", "hash": "222B8FDB6EE9E061", "target": "..." },

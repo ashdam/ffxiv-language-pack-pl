@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SEQ_00", "hash": "10EBADE389708ED4", "target": "Seto ma do ciebie osobistą prośbę." },
-    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_00", "hash": "CDF12CCFFD1F90C3", "target": "Poszukać medalionu Seto" },
-    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_01", "hash": "6993769B391A5CEA", "target": "Oddać medalion Seto" },
-    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_THANCRED_000_000", "hash": "1D1C25E8C8D106F8", "target": "Urianger mówi, że próbujesz przekonać Seto, i zgadzam się, że jesteś <if(gnum4,najodpowiedniejszą kobietą,najodpowiedniejszym mężczyzną)> do tego zadania. Sam dar przekonywania nie zawsze wystarczy." },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_00", "hash": "CDF12CCFFD1F90C3", "target": "Poszukać medalionu Seta" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_01", "hash": "6993769B391A5CEA", "target": "Oddać medalion Setowi" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_THANCRED_000_000", "hash": "1D1C25E8C8D106F8", "target": "Urianger mówi, że próbujesz przekonać Seta, i zgadzam się, że jesteś <if(gnum4,najodpowiedniejszą kobietą,najodpowiedniejszym mężczyzną)> do tego zadania. Sam dar przekonywania nie zawsze wystarczy." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_RYNE_000_005", "hash": "AA48629AA9069146", "target": "Słyszałam przerażający ryk... Wszystko w porządku?" },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_URIANGER_000_010", "hash": "69B5D8A945C122AB", "target": "Cokolwiek Seto dla ciebie szykuje, oby bogowie wiedli cię szczęśliwie." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_020", "hash": "6CBEA434A68DB7D4", "target": "Nie będzie to próba siły, lecz osobista prośba. Wysłuchaj mojej historii." },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_023", "hash": "A4DC4CD72F76F59E", "target": "Straciłem nadzieję na odzyskanie skarbu, lecz gdy zobaczyłem, na co cię stać, pomyślałem, że może uda ci się go odnaleźć." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_024", "hash": "165B25DE74751D4E", "target": "Podczas gdy ja będę rozważał twoją prośbę o trzewiki, czy zechcesz poszukać mego medalionu? Jeśli i tobie się nie uda, pogodzę się z jego utratą na zawsze." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_030", "hash": "F8DB2DCEE6212227", "target": "O ile pamiętam, zgubiłem medalion nad wodą na zachód od zamku. Życzę ci szczęścia." },
-    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SYSTEM_000_040", "hash": "926E95D7DB865A13", "target": "To chyba nie jest medalion Seto." },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SYSTEM_000_040", "hash": "926E95D7DB865A13", "target": "To chyba nie jest medalion Seta." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_050", "hash": "C14A770EF6A52252", "target": "Ach, już wracasz." },
     { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_051", "hash": "847452CBDEDF6ECA", "target": "Jak poszukiwania?" }
   ]

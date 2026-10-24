@@ -15,7 +15,7 @@
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_HOUSEFORTEMPSKNIGHT02242_000_002", "hash": "AB014049CDF372E1", "target": "Ser Aymeric de Borel, przewodniczący Izby Lordów, lord dowódca Rycerzy Świątynnych i wicehrabia rodu Borel, serdecznie zaprasza <if(gnum4,panią,pana)> <split(<string(gstr1)>, ,2)> na kolację w swoim dworze." },
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_HOUSEFORTEMPSKNIGHT02242_000_003", "hash": "773F1D482DA1F06F", "target": "Widzę zdziwienie. Posłaniec zapewnił mnie, że jego lord rozmawiał już o tym wcześniej─kiedy dopinano jeszcze przygotowania do konferencji pokojowej..." },
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_HOUSEFORTEMPSKNIGHT02242_000_004", "hash": "782F8F4B8AC241AD", "target": "Oczywiście w minionych miesiącach trudno było znaleźć czas na rozrywkę. Teraz jednak nastał pokój i lord dowódca nie widzi powodu, by dłużej zwlekać. Co na to <if(gnum4,pani,pan)>?" },
-    { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_Q1_000_005", "hash": "1340DCE103ED0D27", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_Q1_000_005", "hash": "1340DCE103ED0D27", "target": "Co powiesz?" },
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_A1_000_006", "hash": "790D3400A6AD5D48", "target": "Z przyjemnością przyjmę zaproszenie!" },
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_A1_000_007", "hash": "FA9756F43993181E", "target": "Chętnie, ale nie mam pojęcia, co włożyć. Jakieś pomysły?" },
     { "gameKey": "quest/023/HeaVne101_02341#TEXT_HEAVNE101_02341_A1_000_008", "hash": "EBE0173A68B5FAAA", "target": "Szczerze mówiąc, <if(gnum4,wolałabym,wolałbym)> nie iść..." },

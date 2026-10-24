@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_00", "hash": "DC76C34DE969DC18", "target": "Wedge poważnie martwi się o zaginionego towarzysza." },
-    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_01", "hash": "6FB66CA23E92DFF1", "target": "Wedge błaga cię o poszukiwanie Biggsa, który wciąż jest sam na mrozie, z wrogiem na karku. Może ktoś z ishgardczyków stacjonujących w Wieży Monument coś widział. Zacznij od zapytania Abelie." },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_01", "hash": "6FB66CA23E92DFF1", "target": "Wedge błaga cię o poszukiwanie Biggsa, który wciąż jest sam na mrozie, z wrogiem na karku. Może ktoś z Ishgardczyków stacjonujących w Wieży Monument coś widział. Zacznij od zapytania Abelie." },
     { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_02", "hash": "FE7B86927179CDA9", "target": "Abelie wprawdzie nie widziała Biggsa, ale podsuwa myśl, że mógł schronić się w Spojrzeniu Furii, na południe od Wieży Monument. W braku lepszego tropu udaj się tam i zbadaj sprawę." },
     { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_03", "hash": "FEC3779B15A6F600", "target": "Przeszukanie Spojrzenia Furii nie przynosi nic prócz starcia z mściwymi duchami. Zdaj relację Wedge'owi, który czeka na ciebie w Wieży Monument." },
     { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_04", "hash": "75EBD1C21552959E", "target": "Wedge opada z rozczarowania, słysząc twoją relację, ale Lalafell nie jest przez to mniej zdeterminowany, by odnaleźć towarzysza." },

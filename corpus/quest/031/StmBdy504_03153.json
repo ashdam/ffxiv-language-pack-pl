@@ -9,7 +9,7 @@
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_SEQ_04", "hash": "26C2E37FEC2E7114", "target": "Ceremonia była dla wszystkich niezapomnianym przeżyciem. Odzyskanie nie tylko ojczyzny, lecz także tożsamości kulturowej daje Domańczykom nadzieję na przyszłość. Osada osiągnęła też ważny etap w swojej historii: stała się całkowicie samowystarczalna. Dzięki udziałowi w wyzwoleniu Domy i odrodzeniu enklawy zajmujesz miejsce wśród wielkich bohaterów krainy." },
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_00", "hash": "9CB18D00DA7F1A6A", "target": "Porozmawiać z postacią Mitsuba" },
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_01", "hash": "A41E7692AE1DD106", "target": "Porozmawiać z Minazuki" },
-    { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_02", "hash": "6A07986428745AED", "target": "Poczekać w wyznaczonym miejscu" },
+    { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_02", "hash": "6A07986428745AED", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_TODO_03", "hash": "0889EE90F4DD0C5F", "target": "Porozmawiać z postacią Kozakura" },
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_KOZAKURA_000_000", "hash": "5B6669D5518278BF", "target": "Och, <split(<string(gstr1)>, ,1)>! Nie zauważyłam <if(gnum4,pani,pana)>." },
     { "gameKey": "quest/031/StmBdy504_03153#TEXT_STMBDY504_03153_KOZAKURA_000_001", "hash": "582473DCA850FCF5", "target": "Przepraszam, zamyśliłam się. Rozważałam przywrócenie dawnej domańskiej tradycji. Dokładniej, uroczystości żałobnej ku czci zmarłych." },

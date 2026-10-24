@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {"en":"Bozjan","pl":"bozjański","forms":["bozjańskiemu"],"note":"Przymiotnik od Bozja, m.in. front bozjański i bozjański Ruch Oporu."},
+    {"en":"Belahdian","pl":"belahdyjski","forms":["belahdyjskich"]},
+    {"en":"Sharlayans","pl":"Sharlayańczycy","forms":["Sharlayanka","Sharlayankę","Sharlayańczyk","Sharlayańczyka","Sharlayańczykom","Sharlayańczyków","sharlayańscy","sharlayańska","sharlayański","sharlayańskich","sharlayańskiego","sharlayańskiej","sharlayańskiemu","sharlayańskimi","sharlayańską","sharlayańskie"],"note":"Nazwy mieszkańców wielką literą; przymiotnik małą. Nazwa miejsca Sharlayan nie zmienia znaczenia."},
+    {"en":"Turali","pl":"turalijski","forms":["turalijskich","turalijskie","turalijskiego","turalijskiej","turalijskiemu","turalijskim","turalijsko"],"note":"Adjective in prose; the common language is język turalijski."},
+    {"en":"Ala Mhigan","pl":"alamhigański","forms":["Alamhigańczycy","Alamhigańczyk","Alamhigańczyka","Alamhigańczykiem","Alamhigańczykowi","Alamhigańczyków","alamhigańskiego","alamhigańskiemu","alamhigańskich","Alamhigańczykach","Alamhigańczykami","alamhigańskim"]},
+    {"en": "Gridanian", "pl": "gridański", "forms": ["gridańska", "gridańskie", "gridańscy", "gridańskiej", "gridańskiego", "gridańskich", "gridańskim", "Gridańczyk", "Gridańczykiem", "Gridańczycy", "Gridańczyków", "Gridańczanką", "gridańskiemu", "Gridańczykom", "gridańską"], "note": "Przymiotnik małą literą, nazwa mieszkańca wielką; RJP §8.1.2.3."},
+    {"en":"Ishgardian","pl":"ishgardzki","forms":["ishgardzka","ishgardzkie","ishgardzcy","ishgardzkiej","ishgardzkiego","ishgardzkich","ishgardzkim","Ishgardczyk","Ishgardczycy","Ishgardczyków","Ishgardczykami","Ishgardczykom","ishgardzkiemu","ishgardzką","Ishgardczyka","Ishgardczykiem","Ishgardczykowi","ishgardzkimi"],"note":"Przymiotnik małą literą, nazwa mieszkańca wielką; RJP §8.1.2.3."},
+    {"en": "Lominsan", "pl": "lominsański", "forms": ["lominsańska", "lominsańskie", "lominsańskiej", "lominsańskiego", "lominsańskich", "lominsańskim", "Lominsańczyk", "Lominsańczyków", "Lominsańczykom", "Lominsańczycy", "Lominsańczykami", "Lominsańczykowi", "lominsańscy", "lominsańsku"], "note": "Przymiotnik małą literą, nazwa mieszkańca wielką; RJP §8.1.2.3."},
+    {"en": "Ul'dahn", "pl": "uldahski", "forms": ["uldahska", "uldahskie", "uldahskiej", "uldahskiego", "uldahskich", "uldahskim", "Uldahczyk", "Uldahczycy", "Uldahczyków", "uldahską"], "note": "Przymiotnik małą literą, nazwa mieszkańca wielką; RJP §8.1.2.3."}
+  ]
+}

@@ -15,7 +15,7 @@
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_006", "hash": "EC63E272157C5E2C", "target": "Zacznijmy więc od razu od wizyty w gmachu Vault!" },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_020", "hash": "F8AF7773FADA6168", "target": "Więc to gmach Vault, gdzie mieszkali niegdyś najgorsi ludzie... Vidofnir opowiadała, jak uratowała dziecko zrzucone z samego szczytu." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_021", "hash": "3155091E8314B2C7", "target": "Te mury z pewnością wiele widziały. A ty? Masz własne opowieści o tym miejscu?" },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_Q1_000_000", "hash": "92BDD207C22D36ED", "target": "Co odpowiesz?" },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_Q1_000_000", "hash": "92BDD207C22D36ED", "target": "Co powiesz?" },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_A1_000_001", "hash": "5EB1047B16077439", "target": "Przyszło mi tu walczyć z potężnymi wrogami." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_A1_000_002", "hash": "30915FCA8ABD0B27", "target": "<if(gnum4,Straciłam,Straciłem)> tu drogiego przyjaciela." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_A1_000_003", "hash": "409CB735488169A4", "target": "..." },

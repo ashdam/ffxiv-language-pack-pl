@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {"en":"Chaghan","pl":"Chaghan","forms":[]},
+    {"en":"Qerel","pl":"Qerel","forms":[]},
+    {"en":"Galdjent","pl":"Galdjent"},
+    {"en":"Xaela","pl":"Xaela"},
+    {"en":"Hyur","pl":"Hyur","forms":["Hyura","Hyurach","Hyurem"]},
+    {"en":"Roegadyn","pl":"Roegadyn","forms":["Roegadyna","Roegadynem","Roegadynowi","roegadyński"]},
+    {"en":"Lalafell","pl":"Lalafell","forms":["Lalafella","Lalafellowi","Lalafellem","Lalafellu","Lalafellowie","Lalafellów","Lalafellom","Lalafellami","Lalafellach"]},
+    {"en":"Tonawawta","pl":"Tonawawta","forms":[]},
+    {"en":"Doppro","pl":"Doppro","forms":[]},
+    {"en":"Whalaqee","pl":"Whalaqee","forms":[]},
+    {"en":"Miqo'te","pl":"Miqo'te","forms":[]},
+    {"en":"Gnath","pl":"Gnath","forms":["Gnathowie","Gnathów"]},
+    {"en":"Elezen","pl":"Elezen","forms":["Elezena","Elezenem","Elezenie","Elezenów"]},
+    {"en":"Padjal","pl":"Padjal","forms":["Padjala","Padjalem","Padjalowi","Padjalka","Padjalki","Padjalce","Padjalkę","Padjalką","Padjalko"]}
+  ]
+}
