@@ -3,7 +3,7 @@
   "excludedSheets": ["Action", "ActionTransient", "Pet", "Status", "Trait", "TraitTransient", "Item", "EventItem", "EventItemHelp"],
   "exclusion_groups": [
     {
-      "why": "Internal animation labels. Do not translate them.",
+      "why": "Placeholders, development content and text marked as not for translation.",
       "rows": [
         {"gameKey": "DefaultTalk#589824.20", "hash": "7D7A1CB32DD91A98"},
         {"gameKey": "DefaultTalk#589824.21", "hash": "D7079EEABE7D6AE9"},
@@ -20,12 +20,7 @@
         {"gameKey": "DefaultTalk#589834.20", "hash": "82ABCA580BE6136A"},
         {"gameKey": "DefaultTalk#589826.20", "hash": "E5E657884E0FC552"},
         {"gameKey": "DefaultTalk#589826.21", "hash": "63C58FF617835EFF"},
-        {"gameKey": "DefaultTalk#589826.22", "hash": "8FF9870FF589B0BC"}
-      ]
-    },
-    {
-      "why": "Internal test dialogue. Do not translate it.",
-      "rows": [
+        {"gameKey": "DefaultTalk#589826.22", "hash": "8FF9870FF589B0BC"},
         {"gameKey": "DefaultTalk#589842.20", "hash": "6A6B927FE3E4774F"},
         {"gameKey": "DefaultTalk#589843.20", "hash": "5B03E2467E087CE1"},
         {"gameKey": "DefaultTalk#589841.20", "hash": "CBC0F0EAAD2B3856"},
