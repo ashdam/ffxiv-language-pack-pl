@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzh001_03511",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SEQ_00", "hash": "0E4843557CC08FB1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Sveinn znalazł coś niezwykłego w dostawie z kopalni." },
+    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SEQ_00", "hash": "0E4843557CC08FB1", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Sveinn znalazł coś niezwykłego w dostawie z kopalni." },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_00", "hash": "5330DA308DA5DD04", "target": "Pokaż amulet z kociego oka opiekunowi cmentarza." },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_01", "hash": "1EACE221941923AE", "target": "Oddaj amulet z kociego oka jednookiemu górnikowi." },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SVEINN_000_000", "hash": "31E315E7E6C2B873", "target": "Znasz takie amulety? Znalazłem go wśród kamieni z kopalni. Wielu robotników nosi je na szczęście. Pewnie ten, kto go zgubił, zastanawia się, gdzie przepadł." },

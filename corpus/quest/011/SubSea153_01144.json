@@ -2,17 +2,17 @@
   "conversation": "quest/011/SubSea153_01144",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_00", "hash": "804D1D96B9DD48DF", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_01", "hash": "8C99E50C38FFE42E", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_02", "hash": "B6304E3C6E05802E", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_TODO_00", "hash": "64767BBA6B07ABE8", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_000", "hash": "873678D1E21CD53A", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_001", "hash": "355074F07495C6B8", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_002", "hash": "D6093F16B0CC8CDD", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_010", "hash": "961C7580150DB383", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_011", "hash": "06B434205603AC28", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_012", "hash": "154FB85C79A1745C", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_013", "hash": "762BBC22816080FA", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_014", "hash": "550F51733D0C4085", "target": "" }
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_00", "hash": "804D1D96B9DD48DF", "target": "Blada i osowiała S'nairoh ma nową prośbę. Po raz pierwszy nie chodzi o zabicie pół tuzina bestii." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_01", "hash": "8C99E50C38FFE42E", "target": "Po wystrzałach czas na papierkową robotę. S'nairoh ukończyła raport o ponurym incydencie z kolczastymi kretami. Tobie przypada dostarczenie go komandor Falkbrydzie w Obozie Doliny Czaszki." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_02", "hash": "B6304E3C6E05802E", "target": "Raport bezpiecznie trafia do komandor Falkbrydy, której stalowoszarym oczom najwyraźniej niewiele umyka z wydarzeń w Aleporcie. Pozostaje mieć nadzieję, że obcięty żołd i ostre słowa skłonią S'nairoh do poprawy." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_TODO_00", "hash": "64767BBA6B07ABE8", "target": "Dostarczyć raport komandor Falkbrydzie" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_000", "hash": "873678D1E21CD53A", "target": "Witam, <split(<string(gstr1)>, ,1)>. Czy mogę prosić o dostarczenie tego do Obozu Doliny Czaszki? To, eee, mój raport dla komandor Falkbrydy." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_001", "hash": "355074F07495C6B8", "target": "Opisałam wszystko tak szczerze, jak potrafiłam, i <italic(1)>miałam<italic(0)> zameldować się osobiście, ale... Z jakiegoś powodu ledwie starcza mi sił, żeby dojść do cyrulika na przystawienie pijawek, nie mówiąc już o podróży do Doliny Czaszki." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_002", "hash": "D6093F16B0CC8CDD", "target": "Pewnie nie uniknę obcięcia żołdu. Chyba nie wtrącą mnie do aresztu, prawda?" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_010", "hash": "961C7580150DB383", "target": "Ach, znam to imię. Podobno masz już za sobą zasługi dla Maelstromu. Co cię sprowadza do Doliny Czaszki?" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_011", "hash": "06B434205603AC28", "target": "Raport od szeregowej S'nairoh? Nie najlepiej o niej świadczy, że nie pofatygowała się osobiście. Zaczekaj, aż przeczytam." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_012", "hash": "154FB85C79A1745C", "target": "Hm... Przynajmniej nie kręci. Szkoda, że tak się stoczyła od przydziału do Aleportu. Była jedną z pierwszych w swojej grupie awansowanych do drugiej klasy, a teraz..." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_013", "hash": "762BBC22816080FA", "target": "Wiesz, jaki jest największy wróg żołnierza, <split(<string(gstr1)>, ,1)>? Nuda. Podejrzewam, że S'nairoh stchórzyła przed tym przeciwnikiem." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_014", "hash": "550F51733D0C4085", "target": "Rozkażę płatnikowi obciąć jej żołd, ale nie podpiszę nagany. Jeśli nauczy się trzymać z dala od karczem i znajdzie sobie zajęcie, może jeszcze zasłużyć na swoją strawę." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/038/LucKyb007_03842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_001", "hash": "359F283914719408", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_002", "hash": "124FCC4BC41BB087", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_003", "hash": "340D10F5ED8F1FBC", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_004", "hash": "3A2BEE759977E8D9", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_Q1_000_000", "hash": "B06FA4D457145AA8", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_A1_000_001", "hash": "9B9DBB6FF17E39B1", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_A1_000_002", "hash": "1FA1F83F846FDF54", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_007", "hash": "6A0939E233A268B4", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_009", "hash": "AE9A918198155B08", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_100_009", "hash": "45D6AB006299DFDB", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_200_010", "hash": "37A54AC3D04B3E25", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_300_010", "hash": "EB0A7BEFBA75BF78", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_400_010", "hash": "217C71A506084C95", "target": "" },
-    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_010", "hash": "EFED65BEE9CA1A52", "target": "" }
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_001", "hash": "359F283914719408", "target": "Muszę przyznać, że to była niesamowicie porywająca bitwa! Nawet przez myśl mi nie przeszło, że uda mi się zobaczyć tak zajadłą machinę wojenną na własne oczy!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_002", "hash": "124FCC4BC41BB087", "target": "Może dziwi cię, że mieszkańca Eorzei tak cieszy coś, co Garleanie wysłali, by wyrżnąć nas tysiącami. Ale jako zapalony miłośnik wszystkiego, co olbrzymie i mechaniczne, nic na to nie poradzę!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_003", "hash": "340D10F5ED8F1FBC", "target": "Ach, móc pilotować tak wspaniałe dzieło... Może przejść na stronę Imperium i zaoferować swoje usługi? Ekhm! Już od czasów pierwotnej Broni Ultima kocham to połączenie allagijskiej i garleańskiej myśli technicznej. Zapiera dech!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_004", "hash": "3A2BEE759977E8D9", "target": "Do tego stopnia, że wolne chwile w Kuźniach Garlonda przeznaczam na tworzenie serii miniatur! A teraz niedawno pokonany przez ciebie wróg zainspiruje moje kolejne dzieło. Czy zechcesz zaszczycić mnie spojrzeniem na nie, gdy będzie gotowe?" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_Q1_000_000", "hash": "B06FA4D457145AA8", "target": "Co powiesz?" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_A1_000_001", "hash": "9B9DBB6FF17E39B1", "target": "Jeśli tylko tak da się cię uciszyć." },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_A1_000_002", "hash": "1FA1F83F846FDF54", "target": "Nie miej pretensji, jeśli rozbiję to w drobny mak." },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_007", "hash": "6A0939E233A268B4", "target": "Hm? Mówisz coś? Na pewno to były szczere słowa zachęty! Właśnie wsparcie takich miłośników jak ty sprawia, że to hobby daje tyle satysfakcji." },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_009", "hash": "AE9A918198155B08", "target": "Z dumą mogę powiedzieć, że moje dzieła zdobią domy wielu podobnych miłośników machin. Szczególnie popularne są Ultima Weapon miniature i magitek reaper miniature, by wymienić tylko dwa przykłady." },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_100_009", "hash": "45D6AB006299DFDB", "target": "Oczywiście cóż to byłby za inżynier, który tworzy wyłącznie nieruchome ozdoby!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_200_010", "hash": "37A54AC3D04B3E25", "target": "Spójrz! Ten odrestaurowany przeze mnie allagijski relikt z kilkoma własnymi dodatkami otrzymał nazwę: Doświadczalnik Symulacji Walki Rzeczywistej Wirtualności!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_300_010", "hash": "EB0A7BEFBA75BF78", "target": "Dzięki wprowadzanym danym, takim jak obrazy moich modeli i tym podobne, potrafi odtworzyć rozmaite sytuacje bojowe. Oczywiście do badań. Żadnej rozrywki, ależ skąd!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_400_010", "hash": "217C71A506084C95", "target": "Widzę, że aż przebierasz nogami, by spróbować. Nic nie powstrzyma tak nieustraszonych poszukiwaczy przygód!" },
+    { "gameKey": "quest/038/LucKyb007_03842#TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_010", "hash": "EFED65BEE9CA1A52", "target": "Moje najnowsze dzieło wkrótce będzie gotowe. Została tylko jedna czy dwie ostatnie poprawki, więc nigdzie nie odchodź!" }
   ]
 }

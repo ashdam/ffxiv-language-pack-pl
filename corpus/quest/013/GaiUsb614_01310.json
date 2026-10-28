@@ -2,17 +2,17 @@
   "conversation": "quest/013/GaiUsb614_01310",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "" }
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "Maucolyn, rozdarty między ciekawością a pogardą, chce opowiedzieć o dziwnym widoku." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "Maucolyn widział ostatnio miejscowego kupca pląsającego na mrozie i rzucającego śnieżkami. Ponury stajenny uważa to za napad histerii z wychłodzenia. Porozmawiaj z kupcem Duvicauroix i zapytaj o jego samopoczucie." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "Na szczęście w szaleństwie Duvicauroix jest metoda. Kupiec twierdzi, że zabawa w śniegu rozgrzewa ciało i serce w zimowy dzień lepiej niż ogień. Uczy cię rzucania śnieżką przez /throw, pierwszego kroku ku opanowaniu tej krzepiącej rozrywki..." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "Porozmawiać z Duvicauroix" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "Nie wiem, czemu miałoby mnie to obchodzić, ale widziałem gościa rzucającego śnieżkami w bałwana. Po co komu takie błazenady na mrozie, pojęcia nie mam." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "Poszedł po rozum do głowy i nie znalazł, ot co. Lepiej uważaj, żeby <italic(1)>tobie<italic(0)> się to nie przytrafiło, <if(gnum4,dziewczyno,chłopcze)>. Choć <italic(1)>co<italic(0)> dokładnie się stało, tego nie wiem." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "Co? Ja? <italic(1)>Zapytać<italic(0)>? Mam chocobo pod opieką. Jeśli Duvicauroix chce wylać swą mózgową zupę na śnieg, to co mi do tego." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "Tak, tak się nazywa─Duvicauroix. Nie wiem, sprzedaje różności, jeździ po świecie. Co to za życie, za przeproszeniem. Jeśli chcesz go zobaczyć, pewnie kręci się gdzieś w pobliżu." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "Tak cicho stąpasz, co? Pewnie tutejsi myślą, że mróz uderzył mi do głowy. Ha! Nigdy nie widzieli rzucania śnieżkami, te leniwe bękarty." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "Siedź za długo na tyłku przy lichym ogniu, a zaraz zbieleją ci te cholerne kłykcie. Po rzucaniu śnieżkami lepiej się śpi, bez kołysanek pani Mioduchy czy panny Piwnej." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "Co ty na to? Może spróbujesz? To dokładnie tak proste, jak myślisz. Schylasz się, nabierasz trochę białego puchu i <colortype(500)><edgecolortype(501)>rzucasz<edgecolortype(0)><colortype(0)>!" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "Poznajesz gest <colortype(500)><edgecolortype(501)>Rzut<edgecolortype(0)><colortype(0)>!" }
   ]
 }

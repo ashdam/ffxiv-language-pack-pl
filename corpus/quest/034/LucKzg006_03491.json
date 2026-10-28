@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzg006_03491",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_00", "hash": "A89BB7ECF33FCC77", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_01", "hash": "22A34B8DC70B0E6A", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_000", "hash": "92124257C67C4FB8", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_001", "hash": "BE369ECA27E871FC", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_002", "hash": "D39CFFAF34C43643", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_003", "hash": "DCE31518CA771921", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_004", "hash": "A28715904C12164C", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_010", "hash": "2C3CBAFC49CE8A9C", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_020", "hash": "A15AADD921683F56", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_021", "hash": "A9C5955D73ED0AA1", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_022", "hash": "0C34A03AB971E440", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_023", "hash": "C911DF121BE5F8F8", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_024", "hash": "23A382BCA99A79B4", "target": "" }
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Bhol Bol zgrzyta zębami, co jasno świadczy o jego podłym nastroju." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_00", "hash": "A89BB7ECF33FCC77", "target": "Oblać feral lizard lepkim olejem i zabić" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_01", "hash": "22A34B8DC70B0E6A", "target": "Dostarczyć mięso zdziczałej jaszczurki Bhol Bol" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_000", "hash": "92124257C67C4FB8", "target": "Widuję cię tu czasem. Lubisz się przydawać, tak? Jeśli chcesz, mam dla ciebie robotę." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_001", "hash": "BE369ECA27E871FC", "target": "Jakiś czas temu uciekła mi jedna z jaszczurek hodowanych na mięso. Myślałem, że drapieżniki dawno ją pożarły, ale górniczka z Twine mówiła, że ją zaatakowała. Wyrosła na niezłą bestię." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_002", "hash": "D39CFFAF34C43643", "target": "I tu dochodzimy do roboty. Chcę, żeby przestała szkodzić. Innymi słowy, zabij ją. Radzę najpierw zmiękczyć jej skórę tym olejem." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_003", "hash": "DCE31518CA771921", "target": "Kiedy się z nią uporasz, przynieś mi mięso. Szkoda, żeby się zmarnowało." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_004", "hash": "A28715904C12164C", "target": "Podobno kręci się na obrzeżach wioski, na zachodzie. I nawet nie próbuj podrzucić mi mięsa innej jaszczurki. Poznam po zapachu!" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_010", "hash": "2C3CBAFC49CE8A9C", "target": "Większość jaszczurek wygląda tak samo, więc rozróżniamy je po woni. Ta pachnie spaloną skórą, co zgadza się z opisem górniczki z Twine." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_020", "hash": "A15AADD921683F56", "target": "Nie żyje, powiadasz? Udowodnij." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_021", "hash": "A9C5955D73ED0AA1", "target": "Bardzo dobrze. Tyle kłopotów przez tę bestię, że najwyższy czas mieć z niej jakiś pożytek." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_022", "hash": "0C34A03AB971E440", "target": "Zwykle są całkiem niegroźne za młodu, ale ta już wtedy była małą wredną bestią." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_023", "hash": "C911DF121BE5F8F8", "target": "He! Dobrze jej tak za szarpanie przechodniów. Gdyby miała choć trochę rozumu, zniknęłaby na dobre." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_024", "hash": "23A382BCA99A79B4", "target": "Tak czy inaczej, wysuszę to mięso i wyślę je do Twine na przeprosiny. A to powinno być dla ciebie wystarczającą nagrodą." }
   ]
 }

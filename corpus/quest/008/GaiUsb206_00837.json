@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb206_00837",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "" }
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "Służąca P'ebaloh ma kolejne zadanie dla twoich sprawnych rąk." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "P'ebaloh opowiada ci, że na filarach poniżej zagnieździły się uragnite. Podważ je stalowymi szpatułkami, aby móc je bezzwłocznie wytępić." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "Pokonujesz wszystkie mordercze mięczaki. Zdaj sprawę P'ebaloh." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "P'ebaloh ubolewa, że choć należała kiedyś do Kompanii Bohaterów, nawet tak proste zadanie przerasta dziś jej siły. Rany odniesione w walce z bożkiem sięgały głębiej niż skóra, skłaniając ją do zamiany miecza na tacę." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "Użyć stalowych szpatułek na solidnych filarach i zabić uragnites" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "Zdać sprawę P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "Tym razem mam przeciwnika bardziej godnego <if(gnum4,pani,pana)> umiejętności. Na filarach poniżej zagnieździły się uragnite. Sądząc po tym, jak mocno się przytwierdziły, są tam już od dłuższego czasu." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "Te stalowe szpatułki powinny jednak pozwolić oderwać mięczaki, a zarazem oszczędzić nasze słupy. Byłabym zobowiązana za sprawdzenie okolicy i pozbycie się tych małych diabłów." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "Oczywiście zapłata będzie sowita. Serdecznie dziękuję." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "Ach, filary aż lśnią. Dziękuję, <if(gnum4,łaskawa pani,łaskawy panie)>. Niby tylko drobne porządki, a jednak i to przerasta moje siły." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "Kiedyś służyłam w Kompanii Bohaterów, choć trudno w to uwierzyć. Walka z bożkiem zostawiła mi jednak ciężkie rany i ból w sercu. Od tamtej pory zajmuję się bardziej przyziemnymi sprawami, bo straciłam ochotę do rozlewu krwi." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "To życie było dla mnie łaskawe. Zbyt wielu żołnierzy walczy w obronie tego, czego sami nigdy nie zaznają─radości nauki, przyjemności spokoju, poruszenia pięknem─a ja ich zaznałam. Jednak w snach pełnych dymu i stali wciąż słyszę głos kapitana: „Do mnie, do mnie...”." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

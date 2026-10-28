@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil022_00395",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_00", "hash": "B1987F38E708E2AA", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_01", "hash": "98E11731E844C26F", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_02", "hash": "35B22A1841EE0CB3", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_TODO_00", "hash": "32FF2C02BE726205", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_1", "hash": "160A2909CD944258", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_2", "hash": "F6CF080D160CD926", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_3", "hash": "9B7858870402889A", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_4", "hash": "F10E1BDD3958C301", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_10", "hash": "62D5343E1D844C06", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_11", "hash": "4F93159654E1067E", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_12", "hash": "BAC2EC5D5985625E", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_13", "hash": "D30AE3F5313EC638", "target": "" }
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_00", "hash": "B1987F38E708E2AA", "target": "Landebert chce ofiarować ci drobny dowód wdzięczności." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_01", "hash": "98E11731E844C26F", "target": "W podzięce za dostarczenie lekarstwa Landebert daje ci pękniętą wazę o nieustalonej wartości. Może ktoś na Targowisku Szafirowej Alei zdoła ją wycenić." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_02", "hash": "35B22A1841EE0CB3", "target": "Syntgohtowi wystarcza rzut oka, by uznać wazę za bezwartościową. Radzi ci uważnie śledzić zmiany na rynku, bo nawet najzdolniejsi kupcy mogą wszystko stracić, tak jak on." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_TODO_00", "hash": "32FF2C02BE726205", "target": "Znaleźć kupca, który wyceni wazę" },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_1", "hash": "160A2909CD944258", "target": "Mało kto przychodzi tu z własnej woli, a jeszcze mniej osób przynosi lekarstwa. Twoja dobroć zasługuje na nagrodę." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_2", "hash": "F6CF080D160CD926", "target": "Ta waza jest dla nas ważna, ale chcę ci ją dać." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_3", "hash": "9B7858870402889A", "target": "Wiem, to tylko stara ceramika, ale może zainteresuje... kolekcjonerów zabytków." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_4", "hash": "F10E1BDD3958C301", "target": "Są ludzie, którzy płacą za takie przedmioty niezłe pieniądze. Na Targowisku Szafirowej Alei pewnie kogoś takiego znajdziesz." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_10", "hash": "62D5343E1D844C06", "target": "Witam, <italic(1)>witam<italic(0)>! Czego też dziś szuka <if(gnum4,tak wytrawna znawczyni jak pani,tak wytrawny znawca jak pan)>?" },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_11", "hash": "4F93159654E1067E", "target": "Hmm... Proszę pozwolić mi obejrzeć tę wazę." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_12", "hash": "BAC2EC5D5985625E", "target": "...Mam nadzieję, że ten grat nie kosztował majątku! Uchodźcy sprowadzili tyle podobnych rzeczy, że zupełnie zaspokoili dawny popyt." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_13", "hash": "D30AE3F5313EC638", "target": "Rynek jest kapryśny. Kto nie śledzi zmian, może stracić wszystko─tak jak ja. Kiedyś całe dzielnice handlowe nosiły moje imię, nim los i pycha doprowadziły mnie do tego stanu. Oby <if(gnum4,nie musiała pani,nie musiał pan)> uczyć się tego na własnej skórze." }
   ]
 }

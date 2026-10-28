@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzc009_05068",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "" }
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Pracowity cieśla szuka dodatkowej pary szponów, choć w potrzebie wystarczą i dłonie." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "Zebrać wiązki świeżo ściętej trzciny" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "Położyć wiązki świeżo ściętej trzciny we wskazanym miejscu" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "Porozmawiać z pracowitym cieślą" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "Ohokaliy! Masz może wolną chwilę, by podać pomocną dłoń?" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "Trzciny rosną bujniej niż kiedykolwiek, więc nadeszła pora naprawienia naszych zniszczonych przez pogodę dachów." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "Mokre trzciny jednak się nie nadają─ani trochę! Najpierw trzeba je dokładnie wysuszyć, inaczej dachy mogą zapaść się przy pierwszej kropli deszczu." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "Proszę, zbierz świeżo ścięte trzciny złożone obok budynku na wschodzie i zanieś je do Kozanuakiy. Tam osuszy je łagodny wietrzyk. Pomóż nam w tym zadaniu, a obiecuję, że nagroda cię zadowoli!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "Jeśli trzciny zostaną tam, gdzie są, zapewne spleśnieją. Łagodne wiatry Kozanuakiy osuszą je, dzięki czemu nadadzą się do czekającej nas pracy." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "Już gotowe? Tak? Dziękuję─dzięki twoim wysiłkom nasze domy będą bezpieczniejsze!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "Pewnie zastanawiasz się, po co było nosić trzciny przez cały las? Otóż Kozanuakiy znaczy w naszym języku „kraina suchego sanktuarium”." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "Legendy głoszą, że wietrzyk przy sanktuarium jest tak kojący, iż bóstwo Kixaihih odpoczywało niegdyś w pobliżu, dając wytchnienie zmęczonym skrzydłom." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "Kiedy trzciny wyschną, a my połatamy dachy, nasze domy będą lepiej chronione przed żywiołami. Za taki spokój ducha warto zapłacić każdą cenę. Oto więc twoja zasłużona nagroda!" }
   ]
 }

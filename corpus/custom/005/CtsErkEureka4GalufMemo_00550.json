@@ -2,19 +2,19 @@
   "conversation": "custom/005/CtsErkEureka4GalufMemo_00550",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_SYSTEM_100_000", "hash": "20CC12A750A03997", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_SYSTEM_200_000", "hash": "0217761553C12830", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_000", "hash": "9E11D7C71676C760", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_001", "hash": "C4B36496A6E03B26", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_002", "hash": "00F4CC92DF31BFB5", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_003", "hash": "A6B1BB6443A1EB98", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_004", "hash": "F4459D5A6BD80771", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_005", "hash": "C5CB3AE2D5859608", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_006", "hash": "C03B26F70F0668E6", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_007", "hash": "0BE3AE2BAA4C7A95", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_008", "hash": "D01ED90AAD793AA4", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_009", "hash": "5B04602328B1C30B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_010", "hash": "F2CB4DCED3944931", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_YESNO_000", "hash": "09EA27554A836618", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_SYSTEM_100_000", "hash": "20CC12A750A03997", "target": "Na stole leży mnóstwo bezładnie porozrzucanych ksiąg. Żadna nie wydaje się dotyczyć istoty o imieniu Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_SYSTEM_200_000", "hash": "0217761553C12830", "target": "Pod stosem ksiąg znajdujesz pojedynczy arkusz pergaminu─notatkę Galufa Baldesiona." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_000", "hash": "9E11D7C71676C760", "target": "Ja, Galuf Baldesion, spisuję te słowa na wypadek, gdyby wydarzyło się to, co nie do pomyślenia." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_001", "hash": "C4B36496A6E03B26", "target": "Ktokolwiek to czyta, z pewnością wie już o istnieniu bożka o imieniu Eureka i zdolności tej istoty do wykuwania niebezpiecznej broni." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_002", "hash": "00F4CC92DF31BFB5", "target": "Może jednak nie wiedzieć, że owa zdolność nie ogranicza się do narzędzi wojny. Otóż istota ta potrafi stworzyć absolutnie wszystko." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_003", "hash": "A6B1BB6443A1EB98", "target": "Co z tego wynika? Wyobraźmy sobie, że władca tej istoty rozkaże jej stworzyć nowy Matczyny Kryształ. Sądzimy, że bożek spróbuje to uczynić, nawet gdyby miało to oznaczać wyssanie całego eteru z ziemi." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_004", "hash": "F4459D5A6BD80771", "target": "Takie przekucie świata przyniosłoby zniszczenia dorównujące skalą dowolnej Katastrofie. Oto prawdziwe zagrożenie, jakie stanowi istota o imieniu Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_005", "hash": "C5CB3AE2D5859608", "target": "Przez długie lata pilnie strzegliśmy tajemnicy miejsca jej pobytu, lecz pomimo naszych wysiłków w końcu odkryli je Ascianie." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_006", "hash": "C03B26F70F0668E6", "target": "Aby nie dopuścić do wykorzystania bożka w zgubnym celu, wraz z towarzyszami uciekłem się do drastycznych środków. Po wydaniu rozkazu ewakuacji potężną magią zatopiliśmy całą wyspę w Strumieniu Życia." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_007", "hash": "0BE3AE2BAA4C7A95", "target": "Następnie połączyliśmy siły, by pokonać Ascianinkę zwaną Emmerololth. Jej esencję rozproszył wzburzony nurt eteru, by nigdy już nie mogła przybrać kształtu." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_008", "hash": "D01ED90AAD793AA4", "target": "Teraz zaś czekamy na własny koniec. Nawet w tej chwili, gdy piszę te słowa, wyspa Val dryfuje w Strumieniu Życia. Niebawem zleje się z jego nurtem─wraz ze wszystkim, co na niej pozostało." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_009", "hash": "5B04602328B1C30B", "target": "Jeśli jednak te słowa przetrwały, oznacza to, że choć wydawało się to mało prawdopodobne, wyspa jakimś sposobem powróciła do świata materialnego. A zatem istota o imieniu Eureka wciąż stanowi poważne zagrożenie." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_010", "hash": "F2CB4DCED3944931", "target": "To do ciebie trafia moja wiadomość─i do ciebie kieruję najpilniejszą z próśb. Odszukaj Dziedziców Siódmego Świtu i powiadom ich o tych wydarzeniach. Dopilnuj, by istota o imieniu Eureka została zapieczętowana, i strzeż jej przed tymi, którzy użyliby jej mocy do niecnych celów. Od tego zależy los całego świata." },
+    { "gameKey": "custom/005/CtsErkEureka4GalufMemo_00550#TEXT_CTSERKEUREKA4GALUFMEMO_00550_YESNO_000", "hash": "09EA27554A836618", "target": "Przeczytać notatkę Galufa?" }
   ]
 }

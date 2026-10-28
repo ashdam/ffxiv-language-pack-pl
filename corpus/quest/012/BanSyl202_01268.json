@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl202_01268",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "" }
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "Ponnixia chce po prostu zapomnieć o kłopotach." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "Ponnixia nie znajduje ostatnio wiele radości i chce zdobyć senny śluz, by wzmocnić działanie ukochanego mlecznego korzenia. Niestety tę pożądaną substancję zagarniają dla siebie samolubni dotknięci. Zdobądź cztery fiolki śluzu sennej ropuchy, prosto ze źródła lub od odurzonych sylfów, którzy już cieszą się jego rozkoszami." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "Masz już cztery fiolki odrażającego, lecz bardzo cenionego śluzu. Dostarcz je Ponnixii." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "Na widok śluzu oczy Ponnixii rozbłyskują. Mocna mikstura z mlecznego korzenia nie rozwiąże licznych problemów jej ludu, ale przynajmniej przywróci uśmiechy na ich twarzach." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "Pokonać stworzenia dreamtoad lub sylpheed sigh, by zdobyć fiolki śluzu sennej ropuchy" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "Dostarczyć fiolki śluzu sennej ropuchy Ponnixii" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "Czy <if(gnum4,chodząca,chodzący)> wie, co ci tutaj kochają jeszcze bardziej niż mleczny korzeń? Mleczny korzeń z sennym śluzem! Senny śluz daje trzy razy więcej radości z mlecznego korzenia, hi, hi!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "Ale ta tutaj nie ma dziś wiele radości. Dlaczego? Bo dotknięci hodują śliskich i zagarniają cały senny śluz!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "<if(gnum4,Chodząca,Chodzący)> musi ukarać dotkniętych i ukraść senny śluz─nauczyć dotkniętych, żeby nie byli chciwymi!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "...Albo po prostu znaleźć śliskiego i przynieść senny śluz tej tutaj, żeby ta tutaj mogła zapomnieć o troskach." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "Dotknięci hodują śliskich i zagarniają cały senny śluz! <if(gnum4,Chodząca,Chodzący)> musi nauczyć dotkniętych, żeby nie byli chciwymi. Albo po prostu znaleźć śliskiego i przynieść senny śluz tej tutaj, żeby ta tutaj mogła zapomnieć o troskach." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "Ta tutaj nie ma radości, ani odrobiny! Czy <if(gnum4,przyjazna znalazła,przyjazny znalazł)> senny śluz dla tej tutaj?" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "<if(gnum4,Przyjazna,Przyjazny)> przynosi senny śluz! Nareszcie ta tutaj znów może być uśmiechniętą!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "Ci tutaj mają ostatnio wiele trosk. Bez mlecznego korzenia i sennego śluzu ci tutaj byliby posępnymi i zadumanymi, a co to za radość? Hi, hi!" }
   ]
 }

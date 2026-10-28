@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegRoc2LightfeatherProvingGrounds_00280",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_000", "hash": "54BB88541E2F0C87", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_Q1_000_000", "hash": "B9B21FEEC5AE6990", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_001", "hash": "E724A2F89110B3CF", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_002", "hash": "14C86A15FAEB94C9", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_003", "hash": "DB23D9F9D1E667EC", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_010", "hash": "6505D000C77B4A56", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_011", "hash": "C1C912FFFAE41AD2", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_020", "hash": "ADD7DA9D379ABF65", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_021", "hash": "39A14D093F8BB0A0", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_022", "hash": "7592F5ED27833AD0", "target": "" }
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_000", "hash": "54BB88541E2F0C87", "target": "Och! Witaj. Miło widzieć cię na Poligonie Lekkiego Pióra." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_Q1_000_000", "hash": "B9B21FEEC5AE6990", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_001", "hash": "E724A2F89110B3CF", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_002", "hash": "14C86A15FAEB94C9", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_003", "hash": "DB23D9F9D1E667EC", "target": "O nic." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_010", "hash": "6505D000C77B4A56", "target": "Oficjalnie mam oprowadzać gości i odpowiadać na pytania, ale w praktyce rzadko to potrzebne, bo nowe twarze prawie się tu nie pojawiają." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_011", "hash": "C1C912FFFAE41AD2", "target": "Nie narzekam. Całkiem mi odpowiada możliwość swobodnego oglądania walk." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_020", "hash": "ADD7DA9D379ABF65", "target": "Jak można się domyślić po nazwie, Poligon Lekkiego Pióra powstał pierwotnie jako miejsce walk chocobo wyszkolonych do boju." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_021", "hash": "39A14D093F8BB0A0", "target": "Od tamtej pory ród Dzemael pozwala jednak od czasu do czasu wykorzystywać poligon do innych celów." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_022", "hash": "7592F5ED27833AD0", "target": "Inne rody urządzały tu widowiska zarówno dla siebie, jak i dla ogółu. Rycerze Świątynni też organizowali pokazy─a te zawsze cieszą oko, wierz mi." }
   ]
 }

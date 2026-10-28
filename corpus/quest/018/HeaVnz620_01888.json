@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz620_01888",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_00", "hash": "03B1D254B76AA2D4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_01", "hash": "15F9D28F07363448", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_02", "hash": "B8E5F8EDA29525D9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_03", "hash": "19322FD024981048", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_00", "hash": "A6B9678FAA42508E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_01", "hash": "6AE6C87C5F719B50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_000", "hash": "EAA4A2892C58270E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_001", "hash": "A2D138AC246D6940", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_010", "hash": "7A593653A0A93822", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_020", "hash": "5B41D744CEEF2DA3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_021", "hash": "5613D9C2811269CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_022", "hash": "AA4BE3210C8D86CA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_00", "hash": "03B1D254B76AA2D4", "target": "Emont jest zajęty wyrabianiem czegoś." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_01", "hash": "15F9D28F07363448", "target": "Emont próbuje coś wyrobić, lecz niepokoi go ciągłe nękanie przez sleet traps krążące wokół domu. Nie chciałby, żeby zniszczyły coś, nad czym ciężko pracował. Zabij pięć tych bestii, by przywrócić mężczyźnie spokój." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_02", "hash": "B8E5F8EDA29525D9", "target": "Pozbywasz się pięciu potwornych sleet traps z okolicy. Powiadom Emonta, że nie musi już bać się tych strasznych wandali i ich niszczycielskich wybryków." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_03", "hash": "19322FD024981048", "target": "Emont dziękuje ci i wyjaśnia, nad czym pracował. Zanim Katastrofa zamroziła wody, do Przystani Pakuł zawijały niezliczone statki. W tamtych czasach Emont odzyskiwał niepotrzebne lub uszkodzone olinowanie i sprzedawał je innym statkom do napraw i wzmocnień. Choć lód i chłód nie pozwalają już statkom tu docierać, zamierza przygotować duże zapasy olinowania na sprzedaż na dzień, gdy rzeki odmarzną." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_00", "hash": "A6B9678FAA42508E", "target": "Pokonać sleet traps" },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_01", "hash": "6AE6C87C5F719B50", "target": "Zdać sprawę Emontowi" },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_000", "hash": "EAA4A2892C58270E", "target": "Chcesz wiedzieć, co robię? Hmpf. Nieważne. I tak już prawie do niczego się nie przydaje. Chyba tylko zajmuję sobie czymś ręce. Tak czy inaczej, to wymaga czasu i nie chciałbym, żeby zostało zniszczone." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_001", "hash": "A2D138AC246D6940", "target": "Zrób mi przysługę i pozbądź się części sleet traps krążących w okolicy. Te dranie ciągle sprawiają kłopoty. Gdyby udało ci się zabić pięć, o wiele łatwiej byłoby mi chronić dom i dobytek." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_010", "hash": "7A593653A0A93822", "target": "Zabijesz pięć sleet traps krążących w okolicy? Znacznie łatwiej będzie mi pilnować swoich rzeczy." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_020", "hash": "5B41D744CEEF2DA3", "target": "Dziękuję. Myślisz, że oszalałem, prawda─mieszkać w takim miejscu... Tak czy inaczej, chyba powinienem powiedzieć ci, co robię." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_021", "hash": "5613D9C2811269CD", "target": "Dawno temu odzyskiwałem olinowanie i sprzedawałem je przepływającym tędy statkom. Dziś tego nie widać, ale kiedyś to miejsce tętniło życiem." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_022", "hash": "AA4BE3210C8D86CA", "target": "Gdy cały ten lód stopnieje, znów będzie tu jak dawniej. Statki wrócą, a załogi będą się ustawiać po moje olinowanie. Muszę mieć pewność, że będę miał dość zapasów, kiedy to nastąpi." }
   ]
 }

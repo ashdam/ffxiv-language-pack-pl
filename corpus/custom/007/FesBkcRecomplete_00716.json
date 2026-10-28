@@ -2,9 +2,9 @@
   "conversation": "custom/007/FesBkcRecomplete_00716",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "" }
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "Przez ograniczony czas możesz ponownie przeżyć to wydarzenie dzięki funkcji powtarzania wydarzeń sezonowych." },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "Czy chcesz powtórzyć wydarzenie?" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "Jeśli się zgodzisz, następujące zadania znów będą nieukończone:<br>  <sheet(Quest,lnum1,0)><br><if([lnum2==0],,  <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,  <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,Do czasu ponownego ukończenia wymaganego zadania handel z poniższymi postaciami będzie niedostępny:<br>  <head(<ennoun(ENpcResident,3,lnum4,1,1)>)><br>)><if([lnum5==0],,  <head(<ennoun(ENpcResident,3,lnum5,1,1)>)><br>)>Upewnij się, że masz dość czasu. Pamiętaj też, że ta funkcja nie przyznaje nagród za zadania.<br><br>" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "Rozpocząć powtarzanie wydarzenia sezonowego." }
   ]
 }

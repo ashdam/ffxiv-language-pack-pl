@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz222_01791",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_00", "hash": "C0B005ABBB10D724", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_01", "hash": "5235778433C34CF6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_02", "hash": "C4BBE0FD74E269ED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_03", "hash": "D04A174B6530CC13", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_00", "hash": "06E18D92320D8316", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_01", "hash": "9D2E6B5CD463E914", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_000", "hash": "B43331B23E5A217A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_001", "hash": "4AC9F89D37BC8640", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_002", "hash": "8139F713EDF1FDFA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_100_002", "hash": "E8A6F6EA101144CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_010", "hash": "E65D9929D7A23061", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_020", "hash": "3B377184F428D553", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_021", "hash": "6F486061F90B8200", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_022", "hash": "EAB113287814E108", "target": "" }
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_00", "hash": "C0B005ABBB10D724", "target": "Żarłoczny Vath ogląda gniazda Vath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_01", "hash": "5235778433C34CF6", "target": "Żarłoczny Vath wyjaśnia, że choć Vath sami zdobywają pożywienie, nie potrafią zbierać materiałów potrzebnych do budowy i utrzymania gniazd. Prosi o przyniesienie drawańskiej gliny z roju w Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_02", "hash": "C4BBE0FD74E269ED", "target": "Zbierasz glinę w roju Gnathów. Wróć z nią do żarłocznego Vath w Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_03", "hash": "D04A174B6530CC13", "target": "Żarłoczny Vath dziękuje ci za budulec. Dowiadujesz się, że gniazda Gnathów powstają z gliny─wydobywanej głęboko pod Dymiącymi Pustkowiami─zmieszanej z ich śliną." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_00", "hash": "06E18D92320D8316", "target": "Zdobyć drawańską glinę" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_01", "hash": "9D2E6B5CD463E914", "target": "Dostarczyć glinę żarłocznemu Vath" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_000", "hash": "B43331B23E5A217A", "target": "Witaj, <if(gnum4,łowczyni,łowco)>. Udane łowy? W pobliżu jest dużo pysznego mięsa. Jest dużo pysznych owoców. Rzadko brakuje nam jedzenia." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_001", "hash": "4AC9F89D37BC8640", "target": "Brakuje nam schronienia. Budulca nie da się upolować. Nie mamy materiałów. Nie możemy naprawiać domów. Nie możemy wznosić nowych budowli." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_002", "hash": "8139F713EDF1FDFA", "target": "Przynieś nam trochę drawańskiej gliny. Potrzebujemy jej do naprawy domów. W roju Gnathów jest dużo drawańskiej gliny. Przynieś stamtąd trochę. Wystarczą dwie skrzynie." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_100_002", "hash": "E8A6F6EA101144CE", "target": "Niedawno uzgodniliśmy ze smokami dostawy ich gliny. Lecz jeszcze nie wybraliśmy drogi. W roju Gnathów nadal jest dużo gliny. Przynieś dwie skrzynie." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_010", "hash": "E65D9929D7A23061", "target": "Nasze budowle nie mogą czekać. Niszczeją od pogody. Potrzebujemy więcej drawańskiej gliny. Przynieś ją od Gnathów." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_020", "hash": "3B377184F428D553", "target": "Masz drawańską glinę?" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_021", "hash": "6F486061F90B8200", "target": "Dziękujemy, <if(gnum4,łowczyni,łowco)>. Tyle wystarczy." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_022", "hash": "EAB113287814E108", "target": "Drawańska glina to szczególna ziemia. Ziemia spod Dymiących Pustkowi. Gnathowie mieszają ją ze śliną, tworząc gęstą, lepką masę. Doskonale nadaje się do budowania gniazd." }
   ]
 }

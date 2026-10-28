@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz201_01770",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "" }
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "Virgeaume najwyraźniej myśli o chocobo." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "Virgeaume prosi cię o sprawdzenie dwóch zastawionych pułapek. Jedna znajduje się w górze Rzeki Whilom, druga na wschód od Tailfeather. Zobacz, czy udało się w nie złapać chocobo." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "Wygląda na to, że chocobo, które Virgeaume zamierzał schwytać, zabrały przynętę, nie uruchamiając pułapek. Przekaż mu te przykre wieści." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "Choć Virgeaume opłakuje stratę przynęty, dziwi go, że ptakom─i tobie─udało się uniknąć jego sprytnie wykopanych wilczych dołów." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "Zbadać sidła w obu miejscach" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "Zdać sprawę Virgeaume" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "Polowanie na chocobo nie jest tak łatwe, jak się wydaje─te ptaki są stanowczo zbyt sprytne! Zaprojektowałem jednak nowe pułapki i kilka dni temu zastawiłem je wokół Tailfeather. Chyba pora je sprawdzić... Czy <if(gnum4,mogłaby pani,mógłby pan)> zrobić to za mnie?" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "Są dwie. Jedna w górze Rzeki Whilom, druga na wschód od Tailfeather. Wystarczy tam pójść i zobaczyć, czy coś się złapało." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "Pierwsza pułapka jest w górze Rzeki Whilom, a druga na wschód od Tailfeather. Proszę dać znać, czy coś się w nie złapało." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "Pułapka się nie uruchomiła, ale nigdzie nie widać przynęty." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "Pułapka się nie uruchomiła, ale nigdzie nie widać przynęty." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "Ach, więc chocobo zabrały przynętę, nie uruchamiając pułapek... Wygląda na to, że znowu zostałem z niczym." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "Trochę się tego spodziewałem. Dlatego wykopałem doły obok pułapek, licząc, że któryś ptak wpadnie nieopatrznie. Ach, przepraszam... chyba zapomniałem o tym wspomnieć. Ale widzę, że <if(gnum4,ominęła je pani sama,ominął je pan sam)>, podobnie jak chocobo!" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "Prawdę mówiąc, to nie pierwszy raz, gdy chocobo mnie przechytrzył. Opracowuję już nowe pułapki i zamierzam wkrótce je wypróbować. Proszę znów zajrzeć, jeśli <if(gnum4,ma pani,ma pan)> ochotę się przyłączyć." }
   ]
 }

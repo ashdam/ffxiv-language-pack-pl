@@ -2,14 +2,14 @@
   "conversation": "quest/007/GaiUsa501_00753",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_02", "hash": "41608EEF09C31054", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_TODO_00", "hash": "1B63A88A9944D7CB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_000", "hash": "98EC50E56D3F6EAD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_001", "hash": "77D442E4E0A391F4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_010", "hash": "935217CFE841E094", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_020", "hash": "6A184E7E7016B5D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_021", "hash": "9B7813AFA4784097", "target": "" }
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "Claudian musi zdobyć dodatkowe środki na badania." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "Badania Claudiana przyniosły znaczne rezultaty, lecz brakuje mu ludzi i materiałów do odnowienia bezcennych zabytków Belah'dii. Dostarcz streszczenie jego odkryć Kyokyozo w Wytchnieniu Thala, aby przekonać kapłankę do przysłania pomocy." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_02", "hash": "41608EEF09C31054", "target": "Historyczne znaczenie odkryć Claudiana robi na Kyokyozo wielkie wrażenie. Obiecuje niezwłocznie wysłać do Highbridge dodatkowych badaczy i zaopatrzenie." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_TODO_00", "hash": "1B63A88A9944D7CB", "target": "Dostarczyć raport z Highbridge Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_000", "hash": "98EC50E56D3F6EAD", "target": "Ach, witam. Dzięki tej pomocy moje badania wreszcie ruszyły. Tyle odkryć czeka, tyle starożytnych cudów trzeba odnowić! ...A ja mam do pracy tylko dwie ręce." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_001", "hash": "77D442E4E0A391F4", "target": "Gdybym tylko przekonał Zakon o możliwym znaczeniu moich badań, może zechciałby przysłać pomoc. Oto raport z dotychczasowych odkryć. Czy <if(gnum4,mogłaby pani,mógłby pan)> dostarczyć go Kyokyozo w Wytchnieniu Thala?" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_010", "hash": "935217CFE841E094", "target": "Witam. Oby udało się tu znaleźć wytchnienie od trudów wędrówki." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_020", "hash": "6A184E7E7016B5D2", "target": "Raport od Claudiana z Highbridge? Doprawdy miła niespodzianka. Sądziłam, że miną miesiące, zanim ten młodzieniec poczyni znaczące postępy." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_021", "hash": "9B7813AFA4784097", "target": "Cóż to!? Ruiny pochodzą z późnej epoki Belah'dii i kryją grób samego Lalafuto IV? Historyczne znaczenie tych badań przewyższa wszelkie oczekiwania Zakonu. Muszę natychmiast wysłać do Highbridge dodatkowych badaczy i zaopatrzenie!" }
   ]
 }

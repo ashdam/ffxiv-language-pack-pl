@@ -53,7 +53,7 @@
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_MOMOZIGO_000_053", "hash": "939C70F724F92976", "target": "Dają ją jako łapówkę członkowi Mosiężnych Ostrzy, i to dowódcy! Grrr, przeklęty łotr!" },
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_MUSOSAI_000_054", "hash": "F3A4E09100535209", "target": "Teraz wiemy, dlaczego ten nikczemnik działał na widoku i prawo go nie niepokoiło. <split(<string(gstr1)>, ,1)>, nadeszła pora dobyć stali!" },
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_MUSOSAI_100_055", "hash": "86B28545CC2B4F3A", "target": "Chodź, <split(<string(gstr1)>, ,1)>! Czas dobyć stali!" },
-    { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_POPMESSAGE_100_057", "hash": "C521931D8E3B7DC5", "target": "Atakują cię wrogowie!" },
+    { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_POPMESSAGE_100_057", "hash": "C521931D8E3B7DC5", "target": "Ktoś cię atakuje!" },
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_BALLOON_100_058", "hash": "AF837874E33E21C4", "target": "Co oni tu robią!?" },
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_PHELYP_100_060", "hash": "F67EF336D8EF3599", "target": "Łaaaaa! Mamusiuuu!" },
     { "gameKey": "quest/025/JobSam520_02561#TEXT_JOBSAM520_02561_DOUJINDAN02561_100_061", "hash": "D30ECE18227F9BB4", "target": "N-nie krzywdźcie mnie! Poddaję się!" },

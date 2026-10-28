@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz916_01981",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "" }
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "Allagański węzeł ochronny migocze nieregularnie." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "Wśród potoku ostrzeżeń i alarmów allagański węzeł ochronny informuje cię, że droid egzekucyjny wymknął się spod kontroli i musi zostać wycofany z użytku. Odnajdź tę technologiczną grozę i zniszcz ją." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "Unieszkodliwiasz niekontrolowanego droida egzekucyjnego. Przekaż tę informację węzłowi ochronnemu." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "Węzeł ochronny potwierdza, że droid egzekucyjny nie stanowi już zagrożenia, i sugeruje, że podobne zdarzenie miało już miejsce─z przerażającymi skutkami." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "Zniszczyć jednostkę enforcement droid 208" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "Zdać relację węzłowi ochronnemu" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "Niebezpieczeństwo! Niebezpieczeństwo! Brak dostępu do kluczowych systemów bezpieczeństwa Azys Lla." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "Jednostka enforcement droid 208 nie reaguje na polecenia awaryjnego wyłączenia. Zalecane natychmiastowe siłowe zniszczenie sprzętu. Niebezpieczeństwo! Niebezpieczeństwo! Brak dostępu do kluczowych systemów Azys... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "\\<bzzzzzzz> ...systemów bezpieczeństwa. Jednostka enforcement droid 208 nie reaguje na polecenia awaryjnego wyłączenia. Zalecane natychmiastowe siłowe zniszczenie sprzętu. Niebezpieczeństwo! Niebezpieczeństwo! Brak dostępu do... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "\\<bzzzzzzz> Potwierdzono dezaktywację niesprawnego sprzętu ochronnego." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "W uznaniu udziału w zapobieżeniu możliwemu powtórzeniu...\\<bzzzzzzz>...incydentu, podczas którego dwustu dziewięciu cywilów lub badaczy zostało brutalnie...\\<bzzzzzzz>...związane z tym sześćset godzin sprzątania...\\<bzzzzzzz>...zgłoszono kandydaturę do... \\<bzzzzzzz>" }
   ]
 }

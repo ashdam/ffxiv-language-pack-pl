@@ -2,18 +2,18 @@
   "conversation": "quest/039/BanDwa125_03926",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_SEQ_00", "hash": "5487D99CCEEE5655", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_00", "hash": "CAFEE91AA2B84B11", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_01", "hash": "3E3E23AAD2AAC800", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_000", "hash": "7019315F02E1B48E", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_001", "hash": "07833D9052A1EE86", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_002", "hash": "E427CFFB44D82F48", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_003", "hash": "47213FCAF88DAD04", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_010", "hash": "057B6941886F2F3E", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_020", "hash": "0F62B7EC8BC1C4E8", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_030", "hash": "5AB3E79E0B5530DC", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_040", "hash": "E339BF6686395DF1", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_041", "hash": "0C751CB5C34BC9A7", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_042", "hash": "9296D1A39E3C3B08", "target": "" }
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_SEQ_00", "hash": "5487D99CCEEE5655", "target": "Regitt szuka kogoś godnego zaufania do drobnej sprawy.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_00", "hash": "CAFEE91AA2B84B11", "target": "Przekazać sakiewkę z pieniędzmi na grog dostawcy rozmaitości w Sullen" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_01", "hash": "3E3E23AAD2AAC800", "target": "Dostarczyć zapieczętowaną beczkę piwa Regittowi" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_000", "hash": "7019315F02E1B48E", "target": "Etanol Ozogg jeszcze przez jakiś czas wystarczy do napędzania naszych czołgów, ale nawet ona zgadza się, że w przyszłości można go ulepszyć. Sądzimy, że odpowiedź może kryć się w metodach warzenia grogu, które dałoby się przystosować do produkcji nowych paliw." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_001", "hash": "07833D9052A1EE86", "target": "Dlatego postanowiliśmy zbadać jak najwięcej regionalnych trunków. Każdy z tych sfermentowanych przysmaków może kryć klucz do stworzenia bezpiecznego, taniego i łatwego w produkcji zamiennika." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_002", "hash": "E427CFFB44D82F48", "target": "...Pewnie zastanawiasz się, jaka jest w tym wszystkim <italic(1)>twoja<italic(0)> rola. Tym razem prosta: ja daję pieniądze, ty kupujesz grog." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_003", "hash": "47213FCAF88DAD04", "target": "Wiem, wiem, jesteś kimś więcej niż tylko <if(gnum4,dziewczyną,chłopcem)> na posyłki, ale uwierz mi─tylko tobie mogę powierzyć to zadanie. Ruszaj więc do Sullen. Powinien tam czekać facet z naszym zamówieniem." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_010", "hash": "057B6941886F2F3E", "target": "...Beczka dla pana Regitta? Tak, tak, mam ją przygotowaną tutaj. Czy mogę tylko poprosić o zapłatę...?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_020", "hash": "0F62B7EC8BC1C4E8", "target": "Dziękuję <if(gnum4,pani,panu)> i proszę pamiętać: ciężar podnosimy nogami, nie plecami. Życzę miłego dnia." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_030", "hash": "5AB3E79E0B5530DC", "target": "Już wracasz z beczką? Nie było po drodze żadnych, eee, „kłopotów”?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_040", "hash": "E339BF6686395DF1", "target": "...Nadal zapieczętowana! To znaczy, oczywiście, że tak! Wiedziałem, że mogę na tobie polegać!" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_041", "hash": "0C751CB5C34BC9A7", "target": "Gdybym wysłał po ten grog któregoś z Thollów, możesz się założyć o buty swojej babci, że musiałby po drodze przystanąć i „spróbować towaru”. Dlatego musiałem poprosić ciebie." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_042", "hash": "9296D1A39E3C3B08", "target": "Skoro o próbowaniu mowa, chyba sam powinienem skosztować łyczek. Wiesz, tylko żeby się upewnić, że─ Nie! To do badań! Ehem, możesz już iść, <split(<string(gstr1)>, ,1)>!" }
   ]
 }

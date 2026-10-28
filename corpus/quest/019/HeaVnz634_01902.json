@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz634_01902",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "" }
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "Caribault szuka kogoś, kto nie boi się ubrudzić." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "Jakość plonów zależy od gleby, więc Caribault potrzebuje czarnoziemu, by zapewnić obfite zbiory. Prosi cię o pięć korców żyznej ziemi z pastwisk żubrów na wschód od obozu Camp Cloudtop." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "Masz pięć korców czarnoziemu. Zanieś je Caribaultowi, by mógł przygotować glebę pod obfite zbiory." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "Caribault z zachwytem ogląda twoją torbę pełną żyznego czarnoziemu. Zauważa, że jest wyjątkowo bogaty w składniki, może dlatego, że taki świeży. Na odchodne radzi ci się umyć. Zaczynasz podejrzewać, że robota była brudniejsza, niż chciał przyznać." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "Zdobyć korce czarnoziemu" },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "Dostarczyć czarnoziem Caribaultowi" },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "Ach, <split(<string(gstr1)>, ,1)>! W samą porę! Potrzebuję pięciu korców czarnoziemu pod uprawy. Znajdziesz go na wschód stąd, na pastwiskach żubrów. Poszedłbym sam, ale żołądek mi na to nie pozwala. Znaczy, na zbliżanie się do tych olbrzymich bestii." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "Pięć korców czarnoziemu powinno wystarczyć. Tylko uważaj, żeby żubry cię nie stratowały." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "\\<pociąga nosem> Ach, nic nie mów─czarnoziem już jest, prawda? Bez niego nie ma co liczyć na dobre plony." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "Ojej! Dawno nie mieliśmy tak żyznej ziemi. Świetna robota, <split(<string(gstr1)>, ,1)>. Wiedziałem, że mogę na ciebie liczyć." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "Żubry są niebezpieczne, to pewne, ale nie można zaprzeczyć korzyściom z ich, ekhm... <italic(1)>wkładu<italic(0)> w przyrodę. A skoro o tym mowa, może lepiej umyj się przed kolejnymi przygodami." }
   ]
 }

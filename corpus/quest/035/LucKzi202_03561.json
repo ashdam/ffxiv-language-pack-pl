@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi202_03561",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "" }
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Xorutt jest niski, brodaty i gotowy do warzenia piwa." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Odszukać kępy magmowej trawy i zebrać magmowe kwiaty" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Dostarczyć magmowe kwiaty Xoruttowi" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "Lali-ho! Powiedz, czy to nie o tobie─<switch(gnum71,osobie z dalekich stron,osobie z dalekich stron,<if(gnum4,krasnoludce z dalekich stron,krasnoludzie z dalekich stron)>,osobie z dalekich stron,osobie z dalekich stron,osobie z dalekich stron,osobie z dalekich stron,osobie z dalekich stron)>─wszyscy ostatnio mówią?" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "No to jeszcze raz lali-ho i witaj w Tomrze! Zaznasz gościnności Thollów, a odmowy nie przyjmuję!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "Na początek wspólnie uwarzymy krasnoludzkie piwo! Ha, będzie zabawa!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "Większość warzy piwo z jęczmienia, ale nie my, krasnoludy. Używamy nasion magmowej trawy rosnącej na stokach Mt. Gulg." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "Te zielska chłoną morskie powietrze od chwili, gdy wychylą główki z ziemi, aż do zwiędnięcia i śmierci. Dzięki temu nasz trunek ma cierpki smak, jakiego nie znajdziesz w żadnym jęczmiennym piwie!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "A więc poznasz cały proces, dobrze? Wyjdź z wioski i zerwij dla mnie ze cztery dorodne magmowe kwiaty─wiesz, są napchane nasionami!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "...Jak wyglądają magmowe kwiaty? Cóż, są wysokie, pomarańczowe i pewnie trochę błyszczą. Od razu poznasz." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "I co? Masz te kwiaty, o które prosiłem? Czas na warzenie ucieka!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "No, tymi nasionami wypchałbym cały hełm, a jeszcze by zostało! Dobra robota! Następny etap jest trochę trudny, więc zostawmy go fachowcowi. Czyli mnie." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "Ale jeszcze się nie oddalaj! Nasze tradycje to coś więcej niż zbieranie błyszczących kwiatów. Dopiero się rozkręcamy!" }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "custom/009/FesHlwTransform_00946",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "" }
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "Coś knuję? Ja? Nigdy! Ze mnie tylko lubiący zabawę imp, który pomaga innym świętować Noc Wszystkich Świętych! Mogę ci też sprawić <italic(1)>bardzo<italic(0)> przekonujące przebranie na maskaradę. Ehehehe..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "Musisz tylko przypomnieć sobie podróż, niezapomnianą podróż. Przemierz swoje wspomnienia i powiedz, co─a może <italic(1)>kogo<italic(0)>─widzisz..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "Ehehehe... To się nada. Bez obaw, prawie nie zaboli! Po prostu zamknij oczy..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "Przemianę można cofnąć, używając akcji „Unveil” lub usuwając efekt statusu „Przeobrażenie”." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "Wróć z wiadomością od Impresaria... albo nie wracaj wcale. Ehehehe..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "Podejrzany imp oferuje usługi przemiany tylko podczas Nocy Wszystkich Świętych." }
   ]
 }

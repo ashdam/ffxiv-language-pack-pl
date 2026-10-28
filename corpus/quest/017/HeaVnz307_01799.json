@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz307_01799",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_00", "hash": "8B3A60066D0ACB92", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_01", "hash": "21AB4C8EF5A5CF51", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_02", "hash": "37A6ECE27838C023", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_03", "hash": "F58E849068B5CB76", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_00", "hash": "696637E0A76A38CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_01", "hash": "240A299975B5E072", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_000", "hash": "B371B092225E5875", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_001", "hash": "7043D2356F885C8C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_002", "hash": "E53790EFD661B1AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_010", "hash": "4224A8E6A0137C1E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_020", "hash": "BE67EAABF0FB8020", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_030", "hash": "28D040F73DE50C15", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_031", "hash": "75682B9C41DB83A8", "target": "" }
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_00", "hash": "8B3A60066D0ACB92", "target": "Słyszysz burczenie w brzuchu Toh Y Thraha." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_01", "hash": "21AB4C8EF5A5CF51", "target": "Toh Y Thrah słyszał od pobratymców o wybornym smaku mięsa miacid i chce sam go spróbować. Nie jest jednak dość silny, by polować bez narażania się na poważne obrażenia. Zabij napotkane na pustkowiu miacid i zdobądź trzy kawałki mięsa." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_02", "hash": "37A6ECE27838C023", "target": "Zabijasz trzy miacid i zdobywasz mięso. Zanieś je Toh Y Thrahowi, by mógł zaspokoić zarówno głód, jak i ciekawość." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_03", "hash": "F58E849068B5CB76", "target": "Dostarczasz mięso Toh Y Thrahowi. Już po pierwszym kęsie szeroko otwiera oczy ze zdumienia. Oznajmia, że mięso jest doprawdy soczyste, i czeka na dzień, w którym sam będzie mógł na nie polować." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_00", "hash": "696637E0A76A38CE", "target": "Zabić miacid i zdobyć ich mięso" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_01", "hash": "240A299975B5E072", "target": "Dostarczyć mięso Toh Y Thrahowi" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_000", "hash": "B371B092225E5875", "target": "Znasz smak mięsa miacid? Bracia mówią, że to przepyszne stworzenie." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_001", "hash": "7043D2356F885C8C", "target": "Obym miał siłę sam na nie polować. Jeśli spotkasz miacid poza wieżą, przyniesiesz mi ich mięso?" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_002", "hash": "E53790EFD661B1AA", "target": "Przynieś trzy kawałki mięsa. Chcę poznać ich smak." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_010", "hash": "4224A8E6A0137C1E", "target": "Dziś nie polowałem i robię się głodny. Trzy kawałki mięsa miacid powinny napełnić mój brzuch." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_020", "hash": "BE67EAABF0FB8020", "target": "Widzisz gdzieś miacid? Masz ich mięso?" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_030", "hash": "28D040F73DE50C15", "target": "Więc to jest mięso miacid. Wreszcie poznam powód, dla którego moi pobratymcy tak chętnie na nie polują...\\<przełyka><br>To... to jest..." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_031", "hash": "75682B9C41DB83A8", "target": "Takie smakowite, takie kruche! Czekam na dzień, gdy będę mógł do woli objadać się tą bestią." }
   ]
 }

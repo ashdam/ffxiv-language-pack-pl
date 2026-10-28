@@ -2,15 +2,15 @@
   "conversation": "custom/007/RegNor4Unukalhai_00700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_010", "hash": "FF3F7BA4ED1CD1C6", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_020", "hash": "2E2A39F449890794", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_021", "hash": "5EBC8828AB648888", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_022", "hash": "973A1F5572C800D5", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_023", "hash": "6A6A1DD9EB73356A", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_024", "hash": "9465D80383D7F2E1", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_030", "hash": "C3EF9A1B7AAE8701", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_031", "hash": "A3EB48BC846143C4", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_032", "hash": "99BBB5A9549DFAD9", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_033", "hash": "3C60168A2916BB1E", "target": "" }
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_010", "hash": "FF3F7BA4ED1CD1C6", "target": "Praca łowcy nagród z pewnością może mnie wiele nauczyć─zwłaszcza z Taynorem jako przewodnikiem." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_020", "hash": "2E2A39F449890794", "target": "Co? My z trudem utrzymujemy nikłe połączenie z Trzynastym... a <if(gnum4,pani tam była,pan tam był)>!? Niesamowite..." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_021", "hash": "5EBC8828AB648888", "target": "Ileż determinacji musi mieć archontka Y'shtola, by zgłębiać tajniki podróży przez szczeliny między światami. A pomysł stworzenia sztucznego Atomosa można nazwać jedynie natchnionym." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_022", "hash": "973A1F5572C800D5", "target": "Dość powiedzieć, że niczego nie pragnę bardziej niż dołączyć do <if(gnum4,pani,pana)> podczas przyszłych wypraw, ale na razie pozostanę cierpliwie na miejscu. Ma już <if(gnum4,pani,pan)> do dyspozycji osobę zdolną poprowadzić wyprawę, więc moja obecność byłaby zbędna." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_023", "hash": "6A6A1DD9EB73356A", "target": "Poza tym pewne zadania wymagają mojej obecności tutaj, na Pierwszym." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_024", "hash": "9465D80383D7F2E1", "target": "Po pierwsze, chcę dowiedzieć się więcej o metodzie przywrócenia życia regionowi Empty. Mam nadzieję, że to samo da się zrobić na Trzynastym. W tym celu mam już umówione spotkanie z osobami zaangażowanymi w te prace." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_030", "hash": "C3EF9A1B7AAE8701", "target": "Zeromus...? Był wielkim bohaterem dawnych czasów, kochanym przez wszystkich. Nigdy nie przyszłoby mi do głowy, że jego imię ożyje ponownie po dziesięciu tysiącach lat. Dobrze, że ktoś inny o tym imieniu może nam pomóc, choćby tylko za sprawą kryształu memorii." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_031", "hash": "A3EB48BC846143C4", "target": "Fakt, że włada nim ta Zero, uspokaja i dodaje otuchy. Świadomość, że nie jesteśmy osamotnieni w naszych staraniach, czyni naszą pracę tutaj, na Pierwszym, jeszcze ważniejszą." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_032", "hash": "99BBB5A9549DFAD9", "target": "A skoro o tym mowa, niedawno udało mi się porozmawiać z <if(gnum4,pani,pana)> towarzyszami po ich powrocie z regionu Empty. Tylko Urianger mógł wpaść na tak pomysłowe rozwiązanie jak przywoływanie bożków." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_033", "hash": "3C60168A2916BB1E", "target": "Ryne i Gaia to naprawdę potężna para, prawda? Zdolne wojowniczki władające Światłem i Mrokiem. Gdyby ich siła nie była niezbędna do odrodzenia Pierwszego, moja prośba dotyczyłaby ich udziału w naszej wyprawie powrotnej na Trzynasty." }
   ]
 }

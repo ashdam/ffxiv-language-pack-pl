@@ -2,17 +2,17 @@
   "conversation": "quest/030/BanKjn605_03001",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_SEQ_00", "hash": "2302F9900EB5765E", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_01", "hash": "FE7F9F9542596E0E", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_000", "hash": "F2813DA8ED9F4500", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_010", "hash": "1B5C689A8B2679CE", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_011", "hash": "FC30DB16A426F6F3", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_012", "hash": "257A0C6D1D34442F", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_015", "hash": "5436F2D48F3269E9", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_016", "hash": "295E18751B626D71", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_020", "hash": "B88BB4B136D66836", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_021", "hash": "1246F88BF5C145BC", "target": "" }
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_SEQ_00", "hash": "2302F9900EB5765E", "target": "Zukin wygląda na bliskiego paniki.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "Uratować porywczego Kojin na Isle of Zekki" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_01", "hash": "FE7F9F9542596E0E", "target": "Zdać relację Zukinowi" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_000", "hash": "F2813DA8ED9F4500", "target": "<split(<string(gstr1)>, ,1)>, mamy kłopoty! Banda Czerwonych ukradła towar, który mieliśmy dostarczyć do kuźni Kokajiya... a to jeszcze nie najgorsze." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "Jeden z naszych porywczych braci ruszył na Isle of Zekki odzyskać skradzione rzeczy, ale długo nie wraca. Boję się o jego życie. Proszę, znajdź go i sprowadź bezpiecznie do domu!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_010", "hash": "1B5C689A8B2679CE", "target": "Ktoś jeszcze się tu wdarł!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_011", "hash": "FC30DB16A426F6F3", "target": "Zapłacisz za to wtargnięcie!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_012", "hash": "257A0C6D1D34442F", "target": "Niech cię kami porwą!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_015", "hash": "5436F2D48F3269E9", "target": "T-ty z Boskiego Kręgu? Dziękuję za ratunek!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_016", "hash": "295E18751B626D71", "target": "Gdyby nie pomoc w porę, stracilibyśmy nasz towar, o moim życiu nie wspominając. Ale chodźmy stąd, zanim zjawi się więcej Czerwonych." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_020", "hash": "B88BB4B136D66836", "target": "<split(<string(gstr1)>, ,1)>, dobrze cię widzieć w jednym kawałku. Nasz porywczy brat też wrócił przed chwilą, bez szwanku po tej nierozważnej wyprawie. Towar również ocalał." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_021", "hash": "1246F88BF5C145BC", "target": "Już to, że nikt z nas nie ucierpiał, w zupełności by wystarczyło. Tym bardziej się cieszę, że zdołamy dotrzymać handlowych zobowiązań. Z całego serca ci dziękuję." }
   ]
 }

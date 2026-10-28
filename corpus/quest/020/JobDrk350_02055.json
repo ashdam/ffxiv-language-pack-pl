@@ -15,7 +15,7 @@
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_00", "hash": "3AB1D199B1F38F84", "target": "Spotkać się z <if(gnum4,Fray,Frayem)> w Little Ala Mhigo" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_01", "hash": "D245BE8548FE428E", "target": "Porozmawiać z Gundobaldem" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_02", "hash": "9895F8C396428C0A", "target": "Porozmawiać z <if(gnum4,Fray,Frayem)> w Czerwonym Labiryncie" },
-    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_03", "hash": "3D578380D95DE69D", "target": "Umieścić Aldgoat Meat w Czerwonym Labiryncie" },
+    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_03", "hash": "3D578380D95DE69D", "target": "Umieścić mięso aldgoata w Czerwonym Labiryncie" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_04", "hash": "FB95031F3A2E6AED", "target": "Zaczaić się na bestię peiste" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_05", "hash": "BAAACCE90DCDC9E6", "target": "Porozmawiać z <if(gnum4,Fray,Frayem)>" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_06", "hash": "74467B686FFF3FDA", "target": "Spotkać się z <if(gnum4,Fray,Frayem)> na południe od Little Ala Mhigo" },

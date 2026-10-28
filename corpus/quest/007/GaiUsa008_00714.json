@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa008_00714",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "" }
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "Piralnaut, wartownik z Wieży Josselina, chce powierzyć część obowiązków chętnemu poszukiwaczowi przygód." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "Populacja dzików w okolicy wymknęła się spod kontroli. Co gorsza, bestie zaczęły atakować sylfy i miejscowych mieszkańców. Udaj się do Cierniowego Gąszczu i zabij pięć wild boar." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "Zdziczałe świnie nie żyją. Powiadom wartownika o imieniu Piralnaut o sukcesie." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "Wieża Josselina mieści eteryt i góruje nad ważnym węzłem komunikacyjnym, dlatego jej strażnicy muszą zachowywać najwyższą czujność. Zainspirowany twoją odwagą w walce z dzikami, Piralnaut postanawia jeszcze sumienniej pełnić obowiązki." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "Zabić wild boar" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "Zdać raport wartownikowi o imieniu Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "T-te straszliwe ryje... Kły niczym włócznie... I ten kwik! Okropny kwik, pieśń śmierci, która co noc nawiedza moje sny... Czemu, och, czemu porzuciłem dom, żeby przyjechać <italic(1)>tutaj<italic(0)>?" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "...Ahem. Witaj! Po twoim bystrym spojrzeniu poznaję, że chcesz się wykazać. A ja─na twoje szczęście─mam, eee, podrzędne zadanie w sam raz na twoje przeciętne zdolności. Wild boar nękają Cierniowy Gąszcz. Najwyższy czas, by ktoś przetrzebił stado. No? Do roboty." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "P-proszę, przysięgam! Już nigdy nie włożę zbroi z dziczej skóry! Prędzej umrę z głodu, niż zjem najmniejszy kąsek solonej wieprzowiny! Tylko niech znikną!" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "...C-co? Koniec plagi dzików w Cierniowym Gąszczu? Och, <italic(1)>dziękuję ci<italic(0)>. Prawdę mówiąc, od kilku tygodni dręczy mnie straszliwy lęk przed tymi kłowymi potwornościami." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "Ale wiem, że tak być nie może. Wieża Josselina góruje nad ośrodkiem handlu i działań wojskowych. Uchylanie się od obowiązków byłoby ujmą dla bohatera, którego imię nosi. Dziś wlewasz w moje serce niemało odwagi i jestem ci za to wdzięczny." }
   ]
 }

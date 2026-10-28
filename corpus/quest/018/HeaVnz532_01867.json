@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz532_01867",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_00", "hash": "C20759CEE4E06DD7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_01", "hash": "B6DC758AB8E0F2D3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_00", "hash": "4D573125F73A3B5C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_01", "hash": "30C7B7E6E520D1C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_000", "hash": "810AF19920867747", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_001", "hash": "552840FDC3AA9DDC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_002", "hash": "273EC577714D7DB8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_010", "hash": "7B24F2DE8114A74E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_021", "hash": "4D541E0BBB0FBFBA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_00", "hash": "C20759CEE4E06DD7", "target": "Mogok podejrzliwie spogląda w dal." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_01", "hash": "B6DC758AB8E0F2D3", "target": "Mogok sumiennie patroluje teren i dostrzegł coś podejrzanego w oddali. Nie śmie spuścić swojej okolicy z oka, prosi cię więc o przejście przez most i sprawdzenie, czy żaden sługa Nidhogga nie wkradł się niepostrzeżenie do pałacu Zenith." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "Podejrzenia Mogoka się potwierdzają: słudzy Nidhogga atakują cię na twój widok. Łatwo ich pokonujesz, ale sama ich obecność w pałacu Zenith budzi niepokój. Mogok z pewnością zechce usłyszeć o wtargnięciu." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "Mogok jest zaskoczony, że smoki dotarły tak głęboko do pałacu Zenith. Wraca do patrolowania, zachowując szczególną czujność. Dalej pomagaj Straży Pomponów chronić to święte miejsce przed szponami nieokrzesanych smoczych najeźdźców." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_00", "hash": "4D573125F73A3B5C", "target": "Poszukać smoków we wskazanych miejscach" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_01", "hash": "30C7B7E6E520D1C3", "target": "Zdać relację Mogokowi" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_000", "hash": "810AF19920867747", "target": "Och, to <if(gnum4,pani,pan)>! Tutaj wszystko w porządku, kupo!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_001", "hash": "552840FDC3AA9DDC", "target": "Co!? Widziano sługi Nidhogga? A Mogleo jest ranny!? To straszne! Hmm... Teraz sobie przypominam, że <italic(1)>widziałem<italic(0)> coś wielkiego po drugiej stronie mostu..." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_002", "hash": "273EC577714D7DB8", "target": "Ach, wiem, co robić! Będę pilnować tego końca mostu, żeby żaden smok się nie przemknął, a <italic(1)><if(gnum4,pani,pan)><italic(0)> zbada okolicę, kupo. Proszę się nie bać, jestem zdolnym obrońcą!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_010", "hash": "7B24F2DE8114A74E", "target": "Dopilnuję, żeby żaden smok nie zakradł się za <if(gnum4,panią,pana)>. Proszę przejść przez most i sprawdzić, czy nie grasują tam słudzy Nidhogga!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "Pomyśleć, że słudzy Nidhogga mają czelność zapuszczać się aż tutaj! Dziękuję za oczyszczenie pałacu Zenith z ich obecności." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_021", "hash": "4D541E0BBB0FBFBA", "target": "Cóż, wracam na patrol. Żaden smok nie umknie mojemu czujnemu spojrzeniu, kupo!" }
   ]
 }

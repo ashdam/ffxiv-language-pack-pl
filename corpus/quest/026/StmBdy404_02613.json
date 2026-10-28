@@ -2,11 +2,11 @@
   "conversation": "quest/026/StmBdy404_02613",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_000", "hash": "D9A4168D1F2E97C8", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_100_000", "hash": "BC65F0B66DA74B72", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_001", "hash": "C7D1A124E65E26CD", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_010", "hash": "BCB29CE4DAB9C2AB", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_011", "hash": "6958A0E4901AB786", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_012", "hash": "527CFBFFA7CB4123", "target": "" }
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_000", "hash": "D9A4168D1F2E97C8", "target": "Ach, trudno o lepszy moment na przybycie! Z przyjemnością donoszę, że wszystko jest gotowe do przywrócenia bariery, a dzięki naszej wyćwiczonej sprawności obóz stoi niemal pod samymi drzwiami siedziby Uczniów Baldesiona!" },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_100_000", "hash": "BC65F0B66DA74B72", "target": "Zgodnie z tradycją region, w którym leży obóz, otrzymał nazwę: Hydatos, nawiązującą do jego wodnej natury. Jeśli bogowie pozwolą, będzie to ostatni zakątek wyspy, z którym ekspedycja musi się zmierzyć." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_001", "hash": "C7D1A124E65E26CD", "target": "Bez dalszej zwłoki, proszę dać znać, gdy będzie można ruszać. Pani Krile bardzo chce wznowić prace z <if(gnum4,pani,pana)> pomocą!" },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_010", "hash": "BCB29CE4DAB9C2AB", "target": "Uzyskano dostęp do obszaru the Forbidden Land, Eureka Hydatos. Podobnie jak Anemos, Pagos i Pyros, Hydatos można zwiedzać samotnie lub w drużynie liczącej do ośmiu graczy." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_011", "hash": "6958A0E4901AB786", "target": "Aby wyruszyć do Hydatos, porozmawiaj z Rodneyem w Pier #1 w Kugane." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_012", "hash": "527CFBFFA7CB4123", "target": "Pamiętaj, że podczas wszystkich wypraw do obszaru <sheet(ContentFinderCondition,lnum2,43)> obowiązuje synchronizacja poziomu przedmiotów. Wyposażenie przekraczające poziom <sheet(ContentFinderCondition,lnum1,20)> zostanie do niego dostosowane." }
   ]
 }

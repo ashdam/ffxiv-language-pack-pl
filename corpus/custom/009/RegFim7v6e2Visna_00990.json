@@ -2,12 +2,12 @@
   "conversation": "custom/009/RegFim7v6e2Visna_00990",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_000", "hash": "3A5A690F5302260A", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_001", "hash": "F95C4D2D2E4B2EB7", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_002", "hash": "73CD451222845935", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_100", "hash": "12F06C777572517F", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_101", "hash": "0EE1E358191CE3E8", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_200", "hash": "517DB3154B1779BB", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_201", "hash": "54417E18BB058189", "target": "" }
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_000", "hash": "3A5A690F5302260A", "target": "Ach, cóż za miły wietrzyk! Oby stąd żegluga przebiegała już bez przeszkód." },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_001", "hash": "F95C4D2D2E4B2EB7", "target": "Raz trafiliśmy na wyspę wartą fortunę, ale w drodze powrotnej napadły nas sługi. Było ich tak wiele, że nie mieliśmy wyboru i musieliśmy odczepić holowaną wyspę..." },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_002", "hash": "73CD451222845935", "target": "Ale skoro jesteście tu z nami, na pewno damy sobie ze wszystkim radę!" },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_100", "hash": "12F06C777572517F", "target": "<italic(1)>Naglfar<italic(0)> jest już w zasięgu wzroku, więc posuwamy się naprzód, choć wciąż czeka nas spory kawał drogi." },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_101", "hash": "0EE1E358191CE3E8", "target": "Żeby umilić sobie czas, może spróbuję stworzyć nowe urządzenie runiczne na wzór tych ciekawych rzeczy, które macie przy sobie!" },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_200", "hash": "517DB3154B1779BB", "target": "Podróż zbliża się do końca! Oto nasz dom, wodny statek-państwo─<italic(1)>Naglfar<italic(0)>!" },
+    { "gameKey": "custom/009/RegFim7v6e2Visna_00990#TEXT_REGFIM7V6E2VISNA_00990_VISNA_000_201", "hash": "54417E18BB058189", "target": "Wkrótce trzeba będzie przygotować wyspę do przekazania. Gdy się tym zajmiemy, ty i twoi przyjaciele przygotujcie się, by wejść na statek <italic(1)>Naglfar<italic(0)>!" }
   ]
 }

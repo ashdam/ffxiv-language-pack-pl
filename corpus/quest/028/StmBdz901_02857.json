@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz901_02857",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "" }
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "Coś od pewnego czasu nie daje spokoju Raganherowi." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "Obejrzeć wskazane miejsca i zabić wszystkie pojawiające się plague wamouracampa" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "Porozmawiać z Raganherem" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "O, ktoś z tych, co szukają przygód. Jeśli szukasz roboty, przybywasz w samą porę." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "Widzisz tu gdzieś robale? Duże? Mamy plagę larw wamouracampa, a cholerstwa mnożą się szybciej niż króliki w rui." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "Dasz radę się nimi zająć? Zwykle chowają się w jeżynach." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "Zrobisz nam wielką przysługę, pozbywając się tych przeklętych larw wamouracampa. Zwykle chowają się w jeżynach." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "Już po wszystkich? Niech ci bogowie wynagrodzą. Może wreszcie uda nam się coś wyhodować na tym jałowym skrawku ziemi." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "I bez tego ciężko tu w górach. Cały rok wieją zimne wiatry i zabijają wszystko, co ośmieli się wykiełkować. Dołóż te cholerne robale i nieszczęście gotowe." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "Jakbyśmy jeszcze mieli wielu ludzi do uprawy ziemi. Garleańczycy zabierają każdego, kto umie unieść motykę albo wykopać dół. Niedługo nikogo nam nie zostanie." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "Ale nie martw się, <if(gnum4,dziewczyno,chłopcze)>. Skoro te góry nas przez tyle lat nie wykończyły, to chyba nic nie zdoła." }
   ]
 }

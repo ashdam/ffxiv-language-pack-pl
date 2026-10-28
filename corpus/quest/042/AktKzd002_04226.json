@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzd002_04226",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_SEQ_00", "hash": "4E6180424687D8B9", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_00", "hash": "4D093B1A5EA37495", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_01", "hash": "DE6B6EB7972A3A12", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_000", "hash": "6E8E7C2FA6DC629A", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_001", "hash": "B1B95A4C03011327", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_002", "hash": "DCAE715718A2CEC5", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_003", "hash": "09F3B98EE26C94C3", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_005", "hash": "19EFC9AEAED4F03D", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_010", "hash": "46E7CC9D1791A4E7", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_011", "hash": "93B8450B1AB5FB2C", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_012", "hash": "43956C6418FF2FB0", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_014", "hash": "7B83802318FB2AA0", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_015", "hash": "8DB61073A6B90902", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_016", "hash": "8B75A3C4E3A97D91", "target": "" }
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_SEQ_00", "hash": "4E6180424687D8B9", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Inżynier magiteku majstruje przy rzeczach o dość niebezpiecznej naturze." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_00", "hash": "4D093B1A5EA37495", "target": "Schwytać osłabiony automated roader łańcuchem z cermetu" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_01", "hash": "DE6B6EB7972A3A12", "target": "Dostarczyć schwytany automated roader emerytowanemu inżynierowi" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_000", "hash": "6E8E7C2FA6DC629A", "target": "Hej, ty. Tak, ty. Nie ukryjesz przede mną tych dłoni. Widać po nich kawał ciężkiej roboty. Może wyświadczysz staremu inżynierowi przysługę, co?" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_001", "hash": "B1B95A4C03011327", "target": "Pewnie widzisz, jak te bezmyślne maszyny magitek przerażają miejscowych? Tak to bywa, gdy morduje się wszystko jak leci. Chcę pogrzebać w ich wnętrznościach i jakoś przystosować te paskudztwa do naszych potrzeb." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_002", "hash": "DCAE715718A2CEC5", "target": "I tu wkraczasz ty. Schwytaj mi automated magna roader." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_003", "hash": "09F3B98EE26C94C3", "target": "Łańcuch z cermetu powinien wystarczyć do poskromienia maszyny... o ile najpierw dasz temu morderczemu ustrojstwu porządny wycisk. Ruszaj. Zobaczymy, czy masz dość hartu, by spełnić moją prośbę." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_005", "hash": "19EFC9AEAED4F03D", "target": "Na co czekasz? Ruszaj. Złam automatowi mechanicznego ducha i schwytaj go łańcuchem z cermetu. Nie mogę się doczekać wyniku..." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_010", "hash": "46E7CC9D1791A4E7", "target": "Och, z powrotem, i to znacznie szybciej, niż sądziłem. No i? Udało ci się schwytać to, o co prosiłem?" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_011", "hash": "93B8450B1AB5FB2C", "target": "Tak, to właśnie to! Imponujący okaz, prawda? Powstał w Gyr Abanii i porusza się jak istota z krwi i kości─nie z metalu i śrub. To pomnik garleańskiej pomysłowości i wynalazczości." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_012", "hash": "43956C6418FF2FB0", "target": "A wiem, co mówię─brałem udział w jego tworzeniu. Niestety był to mój łabędzi śpiew. Po upadku Ala Mhigo wróciłem do Garlemaldu, by do końca dni gnuśnieć na emeryturze. Myślałem, że na tym skończy się moja historia..." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_014", "hash": "7B83802318FB2AA0", "target": "Lecz nowa znajomość otworzyła kolejny rozdział mojego życia. Pewien jasnowłosy człowiek wiele mnie nauczył o starożytnej technologii allagańskiej. Dzięki tej wiedzy stworzę samodzielnie myślące maszyny magitek─umysłem dorównujące ludziom!" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_015", "hash": "8DB61073A6B90902", "target": "Choć Imperium legło w gruzach, <italic(1)>ja<italic(0)> nie poddam się cicho nadchodzącej nocy. Mam ten luksus, że nie brak mi czasu─żaden zegar mnie nie pogania. Poświęcę każdą daną mi chwilę na tak wspaniałą maszynę, że nikt nie podważy mojego geniuszu!" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_016", "hash": "8B75A3C4E3A97D91", "target": "He. He, he... Maszyny z własnymi myślami i uczuciami! Aż trudno mi opanować zachwyt. Wkrótce wkroczymy we wspaniały nowy świat! Masz szczęście wiedzieć, że twoja pomoc przyczyniła się do jego narodzin. Słusznie się do ciebie zwróciłem. Z całego serca dziękuję." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzd001_05090",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_SEQ_00", "hash": "5948A9FBC951E46C", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_000", "hash": "7542FD674B2A9669", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_001", "hash": "C694717BF6F5BF20", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_002", "hash": "18214F603F5DCF8A", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_003", "hash": "49AE213D38127127", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_005", "hash": "B61140CA11860B0C", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_010", "hash": "22A8EF18413B7419", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_011", "hash": "842953DA3D99AE8E", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_012", "hash": "01144D52118829DD", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_013", "hash": "B74E704F5BFBFDB5", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_014", "hash": "6F612305DB870CCF", "target": "" }
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_SEQ_00", "hash": "5948A9FBC951E46C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Rral Ty'ukuk zmaga się z plagą." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "Pokonać modliszki leaf mantis" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "Porozmawiać z Rralem Ty'ukukiem" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_000", "hash": "7542FD674B2A9669", "target": "Towarzyszy <if(gnum4,pani,pan)> Wuk Lamat, prawda? Krzepkie ramiona, groźne spojrzenie... tak, chyba właśnie takiej osoby szukam do uporania się z drobnym problemem szkodników." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_001", "hash": "C694717BF6F5BF20", "target": "Odkąd burza przetoczyła się przez te strony, wyraźnie przybyło zadziornych modliszek. Jeśli nie powstrzymamy ich rozrostu, mogą zagrozić naturalnej równowadze lasu." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_002", "hash": "18214F603F5DCF8A", "target": "Zazwyczaj posłałbym grupę naszych ludzi, by się nimi zajęła, ale chwilowo brakuje nam rąk. Sądzę jednak, że wykona <if(gnum4,pani,pan)> pracę pary myśliwych." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_003", "hash": "49AE213D38127127", "target": "Poproszę więc o pozbycie się dwóch tych utrapień. Można je znaleźć na południe od naszej wioski─powodzenia, choć wątpię, by było potrzebne." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_005", "hash": "B61140CA11860B0C", "target": "Choć może kusić wybicie ich wszystkich, dwie powinny wystarczyć, by utrzymać ich liczebność w ryzach." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_010", "hash": "22A8EF18413B7419", "target": "Już z powrotem, i to o wiele szybciej, niż sądziłem! Dziś udało się coś zmienić, nawet jeśli nie widać tego na pierwszy rzut oka." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_011", "hash": "842953DA3D99AE8E", "target": "Te stworzenia są żarłoczne. Bezmyślnie pożerają mniejszą zdobycz, by zaspokoić bezdenny głód." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_012", "hash": "01144D52118829DD", "target": "Zwykle większe zwierzęta ograniczają ich liczebność, ale od czasu burzy w lasach grasuje o wiele mniej drapieżników. Modliszki zyskały szansę rozkwitu kosztem wszystkiego innego." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_013", "hash": "B74E704F5BFBFDB5", "target": "Oczywiście rozmnażanie jest naturalną skłonnością żywych istot, lecz przyroda opiera się na kruchej równowadze. Utrzymywanie jej to jeden z obowiązków myśliwego." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_014", "hash": "6F612305DB870CCF", "target": "Dzisiejsza pomoc przywróciła lasowi odrobinę harmonii. Mam nadzieję, że pozwoliła też lepiej zrozumieć naszą więź z ziemią, którą zwiemy domem. Współpraca z kimś z otoczenia Wuk Lamat to zaszczyt!" }
   ]
 }

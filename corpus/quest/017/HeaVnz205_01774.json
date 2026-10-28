@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz205_01774",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_00", "hash": "2DE55A46BCF9E172", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_01", "hash": "842469F5DF21785D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_02", "hash": "C6AA264D7057A7A3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_03", "hash": "A39E10FB69A6DAFD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_00", "hash": "8EA42D707655FE2B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_01", "hash": "1D2262FE5776AF6C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_000", "hash": "CCE580D616381828", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_001", "hash": "4D1EE2E4D5AC86B8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_002", "hash": "093E770A61871D56", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_010", "hash": "9A1448604B56B1E3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_020", "hash": "854A8CCDC691AD0F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_021", "hash": "23E6004590561128", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_022", "hash": "139429E0EAF9C8F3", "target": "" }
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_00", "hash": "2DE55A46BCF9E172", "target": "Aimebert potrzebuje kogoś, kto stoczy za niego walkę." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_01", "hash": "842469F5DF21785D", "target": "Drapieżniki bandersnatch urządzają sobie łatwe uczty ze schwytanych chocobo. Aimebert prosi cię o zabicie trzech tych bestii korzystających z okazji." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_02", "hash": "C6AA264D7057A7A3", "target": "Bestie bandersnatch nie zagrażają już uwięzionym chocobo. Powiadom Aimeberta, że jego schwytane ptaki są teraz bezpieczne." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_03", "hash": "A39E10FB69A6DAFD", "target": "Aimebert cieszy się z dobrych wieści. Żałuje, że chocobo w jego pułapkach padały ofiarą głodnych drapieżników, i jest wdzięczny, że żaden kolejny ptak nie zginie już tak makabrycznie z jego winy." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_00", "hash": "8EA42D707655FE2B", "target": "Zabić bestie bandersnatch" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_01", "hash": "1D2262FE5776AF6C", "target": "Zdać sprawę Aimebertowi" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_000", "hash": "CCE580D616381828", "target": "Do diabła─to już trzeci raz w tym tygodniu! Przeklęte bandersnatch pożerają chocobo, zanim zdążymy zabrać je z pułapek." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_001", "hash": "4D1EE2E4D5AC86B8", "target": "Przeklęte bestie zasmakowały w mięsie chocobo i teraz nie dają im spokoju!" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_002", "hash": "093E770A61871D56", "target": "Widziałem trzy, jak kręciły się w pobliżu niecały dzwon temu, czekając na łatwy posiłek. Jeśli się ich pozbędziesz, może wynagrodzę ci twój trud." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_010", "hash": "9A1448604B56B1E3", "target": "Tutejsze drapieżniki sprawiają, że nasze chocobo są bardziej zajadłe niż w jakimkolwiek innym regionie. Dlatego szkoda stracić choćby jednego ptaka. Pospiesz się i zabij te bandersnatch, zanim pożrą kolejne." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_020", "hash": "854A8CCDC691AD0F", "target": "...Bestie już nie żyją? Wspaniale! Teraz chocobo nie będą już strawą dla bandersnatch!" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_021", "hash": "23E6004590561128", "target": "Choć uczciwie mówiąc, ptaki świetnie potrafią same o siebie zadbać. Padły ofiarą bandersnatch tylko dlatego, że tkwiły w pułapkach. Czuję się z tym cholernie źle..." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_022", "hash": "139429E0EAF9C8F3", "target": "Ale dzięki tobie tych szlachetnych stworzeń nie spotka już tak niegodny koniec." }
   ]
 }

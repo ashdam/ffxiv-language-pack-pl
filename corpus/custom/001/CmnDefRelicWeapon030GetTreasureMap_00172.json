@@ -2,16 +2,16 @@
   "conversation": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_000", "hash": "750C7E5F0C78787A", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_Q1_000_000", "hash": "BB3747B71EC61BC5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_001", "hash": "D7B503CE0546EDA6", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_002", "hash": "6DFF14E31849BDE2", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_005", "hash": "FB88E45CFE6D4FED", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_010", "hash": "42BDC8E3B1E53841", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_011", "hash": "9562223EC1A153C5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_020", "hash": "4D0360675E21D173", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_021", "hash": "91A604DD4D63536C", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_030", "hash": "FDCFFA586EAC4114", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_050", "hash": "88F7DE6E52D2758F", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_000", "hash": "750C7E5F0C78787A", "target": "Chcesz zdobyć nieco materiału Alexandrite, co? Mam tu mapę, która powinna doprowadzić cię do zakopanego zapasu. Za 75 sztuk przedmiotu „<ennoun(Item,3,　28,1,1)>” jest twoja." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_Q1_000_000", "hash": "BB3747B71EC61BC5", "target": "Wymienić 75 sztuk przedmiotu „<ennoun(Item,3,　28,1,1)>” na mapę mysterious map?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_001", "hash": "D7B503CE0546EDA6", "target": "Tak" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_002", "hash": "6DFF14E31849BDE2", "target": "Nie" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_005", "hash": "FB88E45CFE6D4FED", "target": "Proszę─zapieczętowana dla twojego spokoju. Możesz ją rozszyfrować, kiedy zechcesz." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_010", "hash": "42BDC8E3B1E53841", "target": "Zamierzasz zdobyć materiał Alexandrite, tak? Nie mam go przy sobie, ale mam jedną czy dwie mapy, które mogą doprowadzić cię do zapasu─o ile potrafisz je rozszyfrować." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_011", "hash": "9562223EC1A153C5", "target": "...Sądząc po tym, jak przed chwilą <if(gnum4,przechyliłaś,przechyliłeś)> głowę, nie masz bladego pojęcia, o czym mówię. Wróć, gdy już będziesz wiedzieć." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_020", "hash": "4D0360675E21D173", "target": "Nie możesz kupować map mysterious maps, dopóki nie nauczysz się akcji ogólnej <colortype(500)><edgecolortype(501)>Decipher<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_021", "hash": "91A604DD4D63536C", "target": "W tym celu musisz najpierw ukończyć zadanie „Skarby i znoje”." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_030", "hash": "FDCFFA586EAC4114", "target": "Choć chętnie pomogłabym ci ulec zachciankom, nie mogę sprzedać kolejnej mapy mysterious map, dopóki nie rozszyfrujesz tej, którą już masz." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_050", "hash": "88F7DE6E52D2758F", "target": "Cena nie podlega negocjacjom─75 sztuk przedmiotu „<ennoun(Item,3,　28,1,1)>” i ani jednego mniej." }
   ]
 }

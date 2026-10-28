@@ -2,14 +2,14 @@
   "conversation": "custom/005/CtsDkbCharacter2Sub1_00575",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_000", "hash": "30C319F7BD3086EC", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_050", "hash": "82733ED928727BA1", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_100", "hash": "ECF8B02A636DE311", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_150", "hash": "BB4AF48E157E6F9F", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_160", "hash": "ECB67210AD632157", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_200", "hash": "46BA5EAB2FB70D34", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_250", "hash": "626FE667643123C3", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_300", "hash": "BEED9D0C0830C21A", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_350", "hash": "31488E5F2719973F", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_000", "hash": "30C319F7BD3086EC", "target": "\\<bzzz> \\<bzzzzzz>" },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_050", "hash": "82733ED928727BA1", "target": "\\<bip> Witaj, <split(<string(gstr1)>, ,1)>. Dziękuję za zgodę na przywołanie Thiuny do porządku." },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_100", "hash": "ECF8B02A636DE311", "target": "\\<bip> Uprzejmie informujemy, że każde twoje działanie jest obecnie nagrywane. \\<bzzz> Pamiętaj o uśmiechu." },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_150", "hash": "BB4AF48E157E6F9F", "target": "\\<bip> Chwała Allagowi. Niech trwa po wieczne czasy." },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_160", "hash": "ECB67210AD632157", "target": "\\<bip> Woda i węzły nie idą w parze. Dla bezpieczeństwa muszę zachowywać bezpieczną odległość od amaro." },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_200", "hash": "46BA5EAB2FB70D34", "target": "\\<bip> Informujemy, że wymuszone wyłączenie może uszkodzić dane. Zaleca się regularne wykonywanie kopii zapasowych." },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_250", "hash": "626FE667643123C3", "target": "\\<bip> Ograniczono moc jednostki przetwarzającej... Wydajność... obniżona... \\<bzzzzzz>" },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_300", "hash": "BEED9D0C0830C21A", "target": "\\<bzzz> Uderz... Uderz... \\<bzzzzzzz>" },
+    { "gameKey": "custom/005/CtsDkbCharacter2Sub1_00575#TEXT_CTSDKBCHARACTER2SUB1_00575_RECORDSYSTEM_000_350", "hash": "31488E5F2719973F", "target": "\\<bip> Wszystkie dane dotyczące osoby o imieniu <string(gstr1)> zaszyfrowano za pomocą protokołu Protect. \\<bzzz> Twoje dane osobowe są u mnie bezpieczne." }
   ]
 }

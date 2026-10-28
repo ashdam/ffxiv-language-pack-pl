@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma202_01233",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_00", "hash": "E3D15939605805AF", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_01", "hash": "F16A92698AA11197", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_02", "hash": "C2E273361FFC3E6D", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_03", "hash": "DAD253661A71650D", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_00", "hash": "36452556DF88C3C8", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_01", "hash": "3EF23888E4F25D84", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_02", "hash": "97A4B79827FD1ADB", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_000", "hash": "58B0576D4488DD42", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_001", "hash": "0575D5187CB5A651", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_002", "hash": "95D40CEDD4B0C85B", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_010", "hash": "BB4661A829D6D9CA", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_020", "hash": "6180C6A70545C7D3", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_021", "hash": "1209A2FA70483529", "target": "" }
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_00", "hash": "E3D15939605805AF", "target": "Narujj Boh nie może się doczekać, aż przelejesz krew wroga." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_01", "hash": "F16A92698AA11197", "target": "Chcąc osłabić siły Płomiennych Kłów, Narujj Boh poleca ci zabić przeciwników Zanr'ak lancers i Amalj'aa archers w obozie Zanr'ak." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_02", "hash": "C2E273361FFC3E6D", "target": "Żołnierze podlegli Płomiennym Kłom nie żyją. Wróć do Kręgu Popiołu i zdaj sprawę wojownikowi Narujj Boh." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_03", "hash": "DAD253661A71650D", "target": "Zadowolenie maluje się na twojej twarzy, więc Narujj Boh od razu wie, że misja się powiodła. Stawić czoło wrogowi na jego własnej ziemi i zwyciężyć to nie lada wyczyn. Amalj'aa jest wdzięczny, że tak sprawnie walczysz w służbie Bractwa Popiołu." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_00", "hash": "36452556DF88C3C8", "target": "Zabić przeciwników Zanr'ak lancers" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_01", "hash": "3EF23888E4F25D84", "target": "Zabić przeciwników Amalj'aa archers" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_02", "hash": "97A4B79827FD1ADB", "target": "Zdać sprawę wojownikowi Narujj Boh" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_000", "hash": "58B0576D4488DD42", "target": "Porwaniami niewinnych w imię Ifryta Płomienne Kły zasłużyły na miano naszego najbardziej znienawidzonego wroga. To ich potęgę i wpływy najbardziej pragniemy zdruzgotać." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_001", "hash": "0575D5187CB5A651", "target": "Chcę, by twoje umiejętności wojenne doskonaliły się w walce z włócznikami z Zanr'ak i łucznikami Amalj'aa. Przerzedź szeregi żołnierzy podległych Płomiennym Kłom." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_002", "hash": "95D40CEDD4B0C85B", "target": "Żadne uderzenie w serce wrogiego terytorium nie jest wolne od ryzyka, lecz ufam, że Hamujj Gah dobrze wybrał osobę, z którą zawarł sojusz." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_010", "hash": "BB4661A829D6D9CA", "target": "Weź na cel włóczników z Zanr'ak i łuczników Amalj'aa. Osłab siły podlegające dowództwu Płomiennych Kłów." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_020", "hash": "6180C6A70545C7D3", "target": "Choć rysy innych ludów często wprawiają mnie w zakłopotanie, twojego wyrazu twarzy nie sposób pomylić. Zwycięstwo nad wrogiem daje bardzo szczególne zadowolenie." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_021", "hash": "1209A2FA70483529", "target": "Na ziemi wroga odnosisz zwycięstwo. Doprawdy, sprzyja nam szczęście, skoro los zesłał nam kogoś tak biegłego w walce." }
   ]
 }

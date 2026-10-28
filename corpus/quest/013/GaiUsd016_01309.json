@@ -2,18 +2,18 @@
   "conversation": "quest/013/GaiUsd016_01309",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "" }
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "Laraina chce uzupełnić zapasy narzędzi rytualnych." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "Laraina zaoferowała kolejne trzy żetony w zamian za pełny komplet przedmiotów rytualnych. Pokonaj Garudę, Tytana i Ifryta, aby zdobyć trzy makabryczne trofea, o które prosi zaopatrzeniowczyni.<br><br>※Do instancji the Howling Eye (Extreme), the Navel (Extreme) i the Bowl of Embers (Extreme) można wejść za pomocą wyszukiwarki aktywności." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "Znów masz pełny komplet narzędzi rytualnych służących do przywoływania bożków. Dostarcz trofea Larainie w Revenant's Toll w Mor Dhona." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "Otrzymujesz od Larainy kolejne trzy żetony w zamian za komplet przedmiotów rytualnych. Choć zapewne chcesz zdobyć więcej żetonów na zakupy u Roweny, musisz uzbroić się w cierpliwość i poczekać, aż zwierzoludzie znów rozpoczną rytuały przywołania." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "Zdobyć rytualny przedmiot Władczyni Wichru w instancji the Howling Eye (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "Zdobyć rytualny przedmiot Władcy Skał w instancji the Navel (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "Zdobyć rytualny przedmiot Władcy Piekielnych Ogni w instancji the Bowl of Embers (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "Dostarczyć przedmioty rytualne Larainie w Revenant's Toll" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "Ach, <if(gnum4,typowa poszukiwaczka przygód,typowy poszukiwacz przygód)>─nie potrafi oprzeć się urokowi naszych wyjątkowych towarów! Czy dobrze rozumiem, że interesuje <if(gnum4,panią,pana)> zdobycie kolejnych sztuk Rowena's token?" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "Tak się składa, że zalewają nas zamówienia bogatych głupców, którzy <italic(1)>desperacko<italic(0)> pragną ozdobić rezydencje makabrycznymi narzędziami do przywoływania bożków. A zaufanie do naszego najlepszego dostawcy jest pełne. Proszę przynosić towar w pełnych kompletach po trzy, a zrobimy interes." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "Zalewają nas zamówienia na kolejne narzędzia do przywoływania bożków. Proszę przynosić towar w pełnych kompletach po trzy, a zrobimy interes." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "Nie tak prędko, <if(gnum4,proszę pani,proszę pana)>. Jeszcze tylko... Tak, dreszcz na plecach potwierdza autentyczność. Oto obiecane żetony." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "...Hmpf. Rowena pożałuje dnia, w którym zaczęła traktować mnie jak popychadło! Teraz mogę zjednać sobie jej najbogatszych klientów i niech mnie Dwunastu porwie, jeśli nie odbiorę jej wszystkich w dniu otwarcia własnego sklepu!" }
   ]
 }

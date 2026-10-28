@@ -2,17 +2,17 @@
   "conversation": "custom/004/CtsErkEureka1EventSphere4_00470",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_000_001", "hash": "08E6C1097DA8F94B", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_005", "hash": "57B56EC15C030756", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_006", "hash": "A3246EF64D32328B", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_007", "hash": "0DBB1E74A11ED545", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_008", "hash": "86AFCA996B7CEA9E", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_009", "hash": "35AC007418260FC9", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_010", "hash": "FBD1F8656E6249F9", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_011", "hash": "CCC385711AEA54B1", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_012", "hash": "353C3E0A16C1FBC2", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_013", "hash": "F6155B5773915584", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_000_014", "hash": "C3E3A897C0D53672", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_100_014", "hash": "FFD526FFFC9B2D1F", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_000_001", "hash": "08E6C1097DA8F94B", "target": "Mimo usilnych starań nie udaje ci się znaleźć ani skupiska eteru, ani kawałków materiału magicite..." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_005", "hash": "57B56EC15C030756", "target": "No proszę, <if(gnum4,sama bohaterka,sam bohater)> Ruchu Oporu. Chyba nie powinno mnie dziwić, że <if(gnum4,pani,pan)> sobie radzi tak daleko od przystani Port Surgate." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_006", "hash": "A3246EF64D32328B", "target": "Przybyłem w to okropne miejsce, by zbadać zaburzenia prądów eterycznych. Czy <if(gnum4,zechciałaby pani,zechciałby pan)> również wyjawić powód swojego przybycia?" },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_007", "hash": "0DBB1E74A11ED545", "target": "A zatem poszukiwany przez <if(gnum4,panią,pana)> materiał magicite powodował te skupiska? Rozumiem... Miło słyszeć, że Krile wciąż potrafi prowadzić choćby najprostsze badania. Dziękuję za podzielenie się odkryciami." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_008", "hash": "86AFCA996B7CEA9E", "target": "W ramach podziękowania podzielę się <if(gnum4,z panią,z panem)> własnym odkryciem. Czy właśnie tego kamienia <if(gnum4,pani,pan)> szuka?" },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_009", "hash": "35AC007418260FC9", "target": "Proszę go zatrzymać. Nie potrzebuję takich błyskotek. Można go uznać choćby za zapłatę za informacje." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_010", "hash": "FBD1F8656E6249F9", "target": "Ta wyspa zawsze była pełna niebezpieczeństw i śmierci. Choć niegdyś leżała blisko ojczyzny, właśnie dlatego nikt nie kwapił się jej zasiedlić." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_011", "hash": "CCC385711AEA54B1", "target": "Omijanie tych zagrożeń było jednym z powodów, dla których Uczniowie przeznaczyli tyle środków na budowę rozległej sieci eterycznej..." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_012", "hash": "353C3E0A16C1FBC2", "target": "...Odbudowa tej sieci to chwalebne przedsięwzięcie. Życzę <if(gnum4,pani,panu)> i Krile powodzenia. Proszę jej to ode mnie przekazać." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_013", "hash": "F6155B5773915584", "target": "Zamierzam jednak znaleźć własną drogę powrotu do naszej siedziby. Szerokiej drogi, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Odezwę się do <if(gnum4,pani,pana)>, gdy znów będę miał coś do przekazania." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_000_014", "hash": "C3E3A897C0D53672", "target": "Przy bliższych oględzinach okazuje się, że kamień otrzymany od Ejiki rzeczywiście wygląda na kolejny kawałek materiału magicite..." },
+    { "gameKey": "custom/004/CtsErkEureka1EventSphere4_00470#TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_100_014", "hash": "FFD526FFFC9B2D1F", "target": "Zdobyty materiał magicite może być używany z twoją tablicą Magia Board." }
   ]
 }

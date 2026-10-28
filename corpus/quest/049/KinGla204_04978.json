@@ -42,6 +42,6 @@
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_ZEMOWENI_000_128", "hash": "907C8D476B2A0DA7", "target": "Coraz pewniej radzę sobie z literami, więc chętnie poćwiczę na nowych opowieściach. Mam nadzieję, że znajdzie pani to, czego szuka." },
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_129", "hash": "31A2FB60CF03BE84", "target": "Pameka jest zachwycona twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Utalentowaną introligatorkę,Utalentowanego introligatora)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_100_129", "hash": "46F083D65FD22784", "target": "Dostępne jest nowe zadanie będące dalszym ciągiem historii pracowni Listy od Pameki. Po jego ukończeniu lista dostaw dla Pameki w Wachumeqimeqi zostanie zaktualizowana." },
-    { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_130", "hash": "E0BFCD57627937A7", "target": "Aby ukończyć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Promise of Peace”." }
+    { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_130", "hash": "E0BFCD57627937A7", "target": "Aby ukończyć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Obietnica pokoju”." }
   ]
 }

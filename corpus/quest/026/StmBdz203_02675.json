@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz203_02675",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "" }
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "Hiun z podekscytowaniem rozgląda się na wszystkie strony." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "Zebrać gorącą płynną magmę w Hells' Lid" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "Dostarczyć gorącą płynną magmę Hiunowi" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "Cholera! Widzisz to!? Diabeł znów odchrząkuje! Ach─chyba nie znasz tego powiedzenia. Tak tu mówimy, kiedy wybucha Hells' Lid." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "A teraz lepiej ruszajmy. Czasu jest niewiele! Trzeba zebrać gorącą magmę, zanim zacznie stygnąć!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "Zanim ruszymy, uczciwie ostrzegam: jeśli nie znosisz upału albo nie umiesz położyć kilku bestii, lepiej zostań tutaj. Mało kto wraca żywy z tych ciężkich wypraw." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "Rozumiem, że milczenie oznacza zgodę? Dobrze. Masz, weź ten garnek. Napełnij go magmą, ile tylko zdołasz, i przynieś z powrotem. Szybko się nagrzewa, więc uważaj, żeby się nie poparzyć!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "Napełnij garnek magmą, ile tylko się zmieści, i przynieś go z powrotem. Szybko się nagrzewa, więc uważaj, żeby się nie poparzyć!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "Wracasz bez zadrapania i bez oparzeń. Nieźle. Zobaczmy, ile magmy udało ci się przynieść." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "Hoho! Garnek prawie pełny! Dobra robota! Masz niemal tyle co ja, a przecież ze mnie stary wyga." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "Hm? Chcesz wiedzieć, do czego jej użyję? Uczciwe pytanie." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "Według starej legendy miecz wykuty z użyciem płynnej lawy może zabić zarówno człowieka, jak i demona. Dlatego tak właśnie robimy nasze ostrza. My, piraci, wolimy się zabezpieczyć na każdą ewentualność. Na morzu nigdy nie wiesz, co cię spotka." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "Dziękuję za pomoc. Oszczędzasz mi kolejnej wyprawy w to piekielne miejsce i z powrotem. Weź to w nagrodę." }
   ]
 }

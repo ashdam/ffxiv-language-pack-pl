@@ -64,7 +64,7 @@
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_NAMINGWAY_000_078", "hash": "C7D9F0DFDF4BDE3E", "target": "Temperatura w kraterze się zmienia i płynna magma często wypływa spod pozornie ostygłej skorupy. Uważaj, gdzie stąpasz. Nie chciałbym, żeby twoje ulubione buty się stopiły. Ani ulubione stopy." },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_NAMINGWAY_100_078", "hash": "A6423A08C90D49D4", "target": "Żarty na bok, mam nadzieję, że wycieczka dotąd ci się podoba, <split(<string(gstr1)>, ,1)>. Następny przystanek oferuje najpiękniejszy krajobraz!" },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_NAMINGWAY_000_070", "hash": "E1A8C3BE1612EE8D", "target": "Naprzód, do mojego ulubionego miejsca na Phaenna: Iridized Rise. Chodź, chodź, czeka nas lśniąca, migotliwa wspaniałość!" },
-    { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_071", "hash": "815DD27DEF97F16A", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_071", "hash": "815DD27DEF97F16A", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_Q2_000_000", "hash": "ACB9EA6678D426B4", "target": "Obejrzeć widok z Iridized Rise?" },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_NAMINGWAY_100_072", "hash": "1AC2C7CA54026FA0", "target": "Musisz przyznać, że widok jest wspaniały. I pełen obiektów do nazwania!" },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_NAMINGWAY_200_072", "hash": "CF897EF68D8A8E99", "target": "Naturalnie każdemu widokowi przed tobą poświęciłem wiele namysłu. Pytaj śmiało." },
@@ -132,7 +132,7 @@
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SEARCHINGWAY_000_135", "hash": "507909388E9E73BB", "target": "Odezwę się, gdy ustalimy współrzędne. Do tego czasu czeka praca!" },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_150", "hash": "E6E920F4BA6931AD", "target": "Po ukończeniu 50 misji gwiezdnych na Phaenna możesz podjąć dodatkową misję." },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_151", "hash": "921D36040FB44ADD", "target": "Odszukaj Mumukko, by dowiedzieć się, jak jeszcze pomóc inicjatywie." },
-    { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_152", "hash": "FC2ACDB2F5D38DDC", "target": "Ukończ 50 misji gwiezdnych na Phaenna, aby odblokować dodatkową misję." },
+    { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_152", "hash": "FC2ACDB2F5D38DDC", "target": "Ukończ 50 misji gwiezdnych na Phaennie, aby móc przyjąć dodatkowe zadanie." },
     { "gameKey": "quest/054/KinGwk202_05410#TEXT_KINGWK202_05410_SYSTEM_000_153", "hash": "5D6AC680F1F8E607", "target": "Sprawdź egzotablet, aby znaleźć dostępne misje i inne sposoby wsparcia Inicjatywy Eksploracji Kosmosu." }
   ]
 }

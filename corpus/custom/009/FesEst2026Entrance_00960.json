@@ -2,17 +2,17 @@
   "conversation": "custom/009/FesEst2026Entrance_00960",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_000", "hash": "6E075703A3B39EC6", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_001", "hash": "E1E012D61339EA46", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_002", "hash": "F686E42A50A91EEE", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_003", "hash": "D03644A3BC0E5FF5", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_000_000", "hash": "CA55323203D8EB0C", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_100_000", "hash": "6927163DB8E1AC00", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_001", "hash": "93B33CAA420CEAFE", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_002", "hash": "3450EAFA319C5D4B", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_003", "hash": "0B819579CCCC2A00", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_010", "hash": "842F155FD66603CA", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_015", "hash": "F876E11541BEC214", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_INVENTORYMAX_CONFIRM", "hash": "CBA41C8D0D38E658", "target": "" }
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_000", "hash": "6E075703A3B39EC6", "target": "Za zgodą Nonotty zabierzemy <if(gnum4,panią,pana)> na arenę, gdy tylko będzie trzeba." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_001", "hash": "E1E012D61339EA46", "target": "Gdy będzie <if(gnum4,pani gotowa,pan gotowy)>, odprowadzę <if(gnum4,panią,pana)> na jajeczną arenę. Jeśli mogę jeszcze w czymś pomóc, proszę śmiało powiedzieć." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_002", "hash": "F686E42A50A91EEE", "target": "Aby kontynuować to zadanie, musisz najpierw ukończyć cztery etapy minigry „Pęd do porządków”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_003", "hash": "D03644A3BC0E5FF5", "target": "Więcej o minigrze „Pęd do porządków” dowiesz się od przewodniczki jaj." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_000_000", "hash": "CA55323203D8EB0C", "target": "Co zrobisz?" },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_100_000", "hash": "6927163DB8E1AC00", "target": "Co zrobisz?<br>[<colortype(506)><edgecolortype(507)>Najlepszy wynik: <kilo(lnum1,<nbsp>)><edgecolortype(0)><colortype(0)>]" },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_001", "hash": "93B33CAA420CEAFE", "target": "Wziąć udział w minigrze „Pęd do porządków”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_002", "hash": "3450EAFA319C5D4B", "target": "Dowiedzieć się więcej o minigrze „Pęd do porządków”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_003", "hash": "0B819579CCCC2A00", "target": "Nic." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_010", "hash": "842F155FD66603CA", "target": "Przed udziałem w minigrze „Pęd do porządków” musisz anulować oczekujące zgłoszenia w Wyszukiwarce aktywności oraz nabór członków drużyny, a także opuścić drużynę, do której obecnie należysz." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_015", "hash": "F876E11541BEC214", "target": "Twój ekwipunek jest pełny, więc otrzymanie wszystkich nagród może być niemożliwe." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_INVENTORYMAX_CONFIRM", "hash": "CBA41C8D0D38E658", "target": "Mimo to wziąć udział w minigrze „Pęd do porządków”?" }
   ]
 }

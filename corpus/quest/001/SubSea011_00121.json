@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubSea011_00121",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "" }
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "Sisipu z Gildii Rybaków chce zamówić nową łódź rybacką." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "Sisipu pragnie znów wypłynąć w morze i chce zlecić budowę nowej łodzi rybackiej. Prosi cię, by porozmawiać w jej imieniu z mistrzynią kuźni H'naanzą z Gildii Płatnerzy i dowiedzieć się, jak długo potrwa realizacja zamówienia." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "H'naanza z żalem informuje cię, że firma Naldiq & Vymelli's jest obecnie zajęta dużym zamówieniem. Mimo to mistrzyni kuźni obiecuje zrobić, co w jej mocy, przez wzgląd na wieloletnią współpracę obu gildii." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "Porozmawiać z H'naanzą w Gildii Płatnerzy" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "Katastrofa naprawdę odebrała wiatr żaglom rybołówstwa, ale rybacy zaczynają znów wracać na morze. Najwyższa pora, żebym i ja zrobiła to samo." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "Zanim jednak znów wypłynę, muszę zlecić budowę nowej łodzi. Nasza gildia zawsze zamawiała łodzie w firmie Naldiq & Vymelli's, ale ostatnio mają tam potwornie dużo pracy." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "Jeśli szuka <if(gnum4,pani,pan)> zajęcia, może uda się zajrzeć do Gildii Płatnerzy i porozmawiać w moim imieniu z mistrzynią kuźni H'naanzą? Chciałabym wiedzieć, jak długiego oczekiwania możemy się spodziewać." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "Nowa łódź dla Gildii Rybaków? Obawiam się, że nie jest to najlepszy moment..." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "Widzisz, niedawno przyjęliśmy zamówienie na galeon. Już ono samo daje nam wszystkim pełne ręce roboty." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "Ale posłuchaj, zobaczę, co da się zrobić. Gildia Rybaków od dawna należy do naszych najlepszych klientów i nie chciałabym zawieść Sisipu. Może to jeszcze trochę potrwać, ale postaram się, by dostała łódź w rozsądnym terminie." }
   ]
 }

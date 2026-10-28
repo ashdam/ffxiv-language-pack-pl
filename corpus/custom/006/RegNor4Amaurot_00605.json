@@ -2,15 +2,15 @@
   "conversation": "custom/006/RegNor4Amaurot_00605",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_000", "hash": "BCF7CE352922993A", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_Q1_000_000", "hash": "853C7B93C84E6D15", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_001", "hash": "7F5CC2A1FA16A380", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_002", "hash": "D7C1AF52DFDFE04D", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_003", "hash": "1064B8376D940225", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_010", "hash": "816DCE20795653AA", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_011", "hash": "8E6DCDEFB4404C06", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_012", "hash": "9E3E8463B7191F2C", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_020", "hash": "F070DEA6C4F685E1", "target": "" },
-    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_021", "hash": "216D20AAE37E1C88", "target": "" }
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_000", "hash": "BCF7CE352922993A", "target": "<colortype(547)>Coś się stało, <if(gnum4,mała,mały)>? Może nie możesz znaleźć drogi i potrzebujesz pomocy w odszukaniu opiekuna?<colortype(0)>" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_Q1_000_000", "hash": "853C7B93C84E6D15", "target": "O co zapytasz?" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_001", "hash": "7F5CC2A1FA16A380", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_002", "hash": "D7C1AF52DFDFE04D", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_A1_000_003", "hash": "1064B8376D940225", "target": "Nic." },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_010", "hash": "816DCE20795653AA", "target": "<colortype(547)>Chyba tym samym, co większość pozostałych obywateli? Dyskutuję z innymi na różne tematy i próbuję swoich sił w sztuce kreacji. Każdego dnia staram się doskonalić siebie i świat, w którym żyję.<colortype(0)>" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_011", "hash": "8E6DCDEFB4404C06", "target": "<colortype(547)>My, obywatele Amaurotu, jesteśmy bowiem opiekunami tego świata. Strażnikami, którzy opanowali samą moc kreacji. To zaszczyt i obowiązek, których nie traktujemy lekko.<colortype(0)>" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_012", "hash": "9E3E8463B7191F2C", "target": "<colortype(547)>Jesteś jeszcze tak bardzo, bardzo młodą osobą... Nie musisz zaprzątać sobie głowy tak wzniosłymi sprawami. Pilnie się ucz, a z pewnością wyrośniesz na <if(gnum4,dumną obywatelkę i pełną zapału twórczynię,dumnego obywatela i pełnego zapału twórcę)>.<colortype(0)>" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_020", "hash": "F070DEA6C4F685E1", "target": "<colortype(547)>Och, pochodzisz z innego miasta? Nawet jeśli tak, na pewno wiesz, że znajdujesz się w Amaurocie, intelektualnej utopii rozkwitającej w samym sercu naszego świata.<colortype(0)>" },
+    { "gameKey": "custom/006/RegNor4Amaurot_00605#TEXT_REGNOR4AMAUROT_00605_AMOUROTGUIDE00605_000_021", "hash": "216D20AAE37E1C88", "target": "<colortype(547)>Od Capitol, gdzie najwybitniejsze umysły zbierają się, by sprawować rządy, przez Akadaemia Anyder, gdzie miłośnicy wiedzy starają się rozwikłać największe zagadki naszych czasów, po mniejsze, lecz nie mniej cenne instytucje─Amaurot ma wszystko, czego kiedykolwiek potrzebujesz, i jeszcze znacznie więcej.<colortype(0)>" }
   ]
 }

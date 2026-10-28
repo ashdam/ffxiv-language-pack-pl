@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc306_00973",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "" }
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "Elfleda potrzebuje pomocy w przygotowaniach do wydarzenia towarzyskiego sezonu." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "Rozpromieniona na myśl o zbliżającym się ślubie Elfleda prosi cię o zdobycie rdzeni żywiołaków wiatru. Zabij wind sprite i zbierz cztery rdzenie." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "Masz już cztery rdzenie żywiołaków wiatru. Jeśli chcesz się dowiedzieć, po co Elfledzie coś takiego na Ceremony of Eternal Bonding, wróć do Sanctum of the Twelve i przekaż jej rdzenie." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "Elfleda z radością zdradza, że zamierza urządzić dla przyjaciółki burzę różanych płatków. Wizja rozbitych okien i zastępu dam w samitowych sukniach unoszących się w powietrzu skłania cię do sugestii, by użyła tylko jednego rdzenia..." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "Zabić wind sprite i zdobyć ich rdzenie" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "Przekazać rdzenie żywiołaków wiatru Elfledzie" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "Sanctum jest takie... <italic(1)>uświęcone<italic(0)>, prawda? Moja bardzo dobra przyjaciółka─jesteśmy niemal jak siostry─połączy się tu ze swym ukochanym i zaprosiła mnie na ślub. To taki zaszczyt─<if(gnum4,powinna pani,powinien pan)> zobaczyć jej wyprawę!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "Ale zbaczam z tematu! Tak łatwo o to, gdy mowa o sukniach, prawda? Zwłaszcza o meracydyjskim samicie i tej <italic(1)>cudownie<italic(0)> delikatnej koronce, którą robią maleńkie lalafelskie dzieci. I znów to robię! Chciałam zapytać o żywiołaki wiatru, proszę mi wybaczyć." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "A właściwie nie tyle o żywiołaki, ile o ich rdzenie. Potrzebuję czterech. Dlaczego? Och, nie mogę powiedzieć! Dopiero gdy je dostanę. Sekrety są takie zabawne, prawda?" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "Ma <if(gnum4,pani,pan)> rdzenie? Cudownie! Och, to <italic(1)>będzie<italic(0)> wydarzenie towarzyskie sezonu. Jakie to ekscytujące! Z przyjaciółką jesteśmy bardzo blisko─niemal jak siostry, wie <if(gnum4,pani,pan)>!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "Serdecznie dziękuję! Zdradzić mój mały sekret? Skoro tyle <if(gnum4,pani,pan)> dla mnie robi... Użyję ich, kiedy przyjdzie pora na rzucanie płatków róż. To będzie istna burza kwiatów!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "Cztery to za dużo? Na pewno? Och. Cóż, chyba <italic(1)>powinnam<italic(0)> najpierw zrobić próbę, może we własnej posiadłości. To <italic(1)>przecież<italic(0)> wydarzenie towarzyskie sezonu." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna407_03056",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_SEQ_00", "hash": "7867B8DB57DCF22D", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_01", "hash": "E54A4429FB9CCDF5", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_000", "hash": "6200C21EE988B665", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_001", "hash": "1700080481D4FEB2", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_002", "hash": "7623C36B366B1B68", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_010", "hash": "53384843DD273AE9", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_011", "hash": "E796ACB12819ADBB", "target": "" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_012", "hash": "750BCB7B6B9F793D", "target": "" }
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_SEQ_00", "hash": "7867B8DB57DCF22D", "target": "Eshana prosi o rozprawienie się z potworem przy Całunie Jasności.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "Użyć krwistoczerwonych kropli do oczu na stworzeniu formidable foper, a następnie je zabić" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_01", "hash": "E54A4429FB9CCDF5", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_000", "hash": "6200C21EE988B665", "target": "<split(<string(gstr1)>, ,1)>, przy Całunie Jasności czai się stworzenie foper niezwykłych rozmiarów." },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_001", "hash": "1700080481D4FEB2", "target": "Ten most służy do przewożenia towarów z zachodniego brzegu rzeki Velodyna do Rhalgr's Reach. Nie możemy pozwolić, by jakaś potworna bestia uznała go za swoje terytorium. Proszę, udaj się tam i <italic(1)>przekonaj<italic(0)> ją do odejścia." },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_002", "hash": "7623C36B366B1B68", "target": "Nawet zwykłe okazy tego gatunku bywają paskudne, więc zdobyłam alchemiczną miksturę, którą można cisnąć w oko tego przerośniętego potwora. To powinno go znacznie osłabić i ułatwić ci zadanie." },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_010", "hash": "53384843DD273AE9", "target": "Czy ta bestia sprawiła ci kłopoty?" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_011", "hash": "E796ACB12819ADBB", "target": "Dziękuję. Jedno zagrożenie mniej. Gdyby ten potwór zaatakował kogoś na tak wąskim moście, szanse ucieczki byłyby nikłe." },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_012", "hash": "750BCB7B6B9F793D", "target": "Hm. Nie wiem, czy te stworzenia tak cenią sobie tamtejszy widok, ale bez względu na to, ile razy je przeganiamy, prędzej czy później w tym samym miejscu zjawia się następne..." }
   ]
 }

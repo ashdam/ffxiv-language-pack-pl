@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb009_00816",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "" }
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "Landenel ma pilną prośbę do życzliwej osoby." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Landenelem w obozie Camp Tranquil.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "Wszyscy trzej wartownicy udali się na Dolne Ścieżki. Wróć do obozu Camp Tranquil i porozmawiaj z Landenelem." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "Lęgowisko stworzeń adamantoise nie pozostanie długo bez straży. Landenel ponagla cię do działania, jeśli zamierzasz zdobyć jedno z cennych olbrzymich jaj." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Landenelem w obozie Camp Tranquil<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Landenelem w obozie Camp Tranquil<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "Ta plaga agaric flies wymaga całej naszej uwagi. Dziękuję za powiadomienie mnie o niej." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "Jeśli mogę jeszcze nadużyć <if(gnum4,pani,pana)> życzliwości, proszę poinformować moich podwładnych o tym groźnym obrocie spraw." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "Trzech Leśnych Płaczków pełni obecnie straż na Korzennym Rozlewisku. Proszę przekazać każdemu z nich, że mają udać się na Dolne Ścieżki i do odwołania szukać rojów agaric flies." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "Agaric flies? Na Dolnych Ścieżkach? W takim razie nie mogę zwlekać! Dziękuję za przekazanie rozkazów kapitana Landenela!" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "Wiadomość od kapitana?<br>Cholera, to robactwo zagraża podróżnym na trakcie. Natychmiast wyruszam." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "Co takiego? Wszyscy mają szukać agaric flies na Dolnych Ścieżkach? Hmm... Wiem, że ostatnio nie mieliśmy kłopotów z kłusownikami, ale martwię się, czy nie wykorzystają naszej nieobecności. \\<wzdycha> Rozkaz to jednak rozkaz." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "...Rozumiem, że moi ludzie zostali powiadomieni? Znakomita robota, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "Nie możemy jednak zbyt długo odwracać uwagi tych kogutów. Jeśli chce <if(gnum4,pani,pan)> splądrować kurnik, trzeba to zrobić TERAZ." }
   ]
 }

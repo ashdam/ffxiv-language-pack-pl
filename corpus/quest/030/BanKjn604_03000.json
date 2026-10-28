@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn604_03000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "" }
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "Zukin znalazł nowe zastosowanie dla starych skrzyń.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "Sprawdzić pułapki na ośmiornice w pobliżu wraku <italic(1)>Adventure<italic(0)> i zdobyć ośmiornicę" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "Dostarczyć Zukinowi olbrzymią ośmiornicę koromo" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "Mieliśmy trochę starych skrzyń po skarbach, które tylko stały i zbierały kurz. Puściłem wodze fantazji i przerobiłem je na pułapki na ośmiornice. I, nieskromnie powiem, działają znakomicie." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "Chcę teraz podarować naszym przyjaciołom z kuźni Kokajiya coś świeżo złowionego. Sprawdzisz pułapki? Byłbym wdzięczny." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "Zastawiłem trzy przy wraku na południowy zachód stąd. Do którejś na pewno już wpadła ośmiornica. Z góry dziękuję, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "W tej skrzyni nic nie ma." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "W skrzyni kłębią się wijące macki!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "O, jesteś. Czy kami obdarzyli nas połowem?" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "Ho, ho, ale wielka i żywotna ośmiornica! Nasi przyjaciele kowale będą zachwyceni!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "A wspominałem już, że najlepsze pułapki robi się ze starszych skrzyń obrośniętych glonami? Właśnie tak jest. Warto zapamiętać to na przyszłość." }
   ]
 }

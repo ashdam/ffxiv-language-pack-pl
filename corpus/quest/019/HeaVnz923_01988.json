@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz923_01988",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_00", "hash": "00140988C7A14A3B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_01", "hash": "A685DDB264C0A2E1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_02", "hash": "C87BCFA6A50B0F48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_03", "hash": "BD5240B82E200D64", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_00", "hash": "40C4D2D05C30183F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_01", "hash": "77B9563035CCB903", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_000", "hash": "CFF38C0476F331D4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_010", "hash": "07D9AC38B1B3B3DD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_020", "hash": "5F17AE34ADF8B0F1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_021", "hash": "4DDC826323DEFD77", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_022", "hash": "6993E888005A0D3D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_00", "hash": "00140988C7A14A3B", "target": "Allagański węzeł audytowy cicho klika, brzęczy i szumi." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_01", "hash": "A685DDB264C0A2E1", "target": "Allagański węzeł audytowy wykrył w pobliżu kilka niezarejestrowanych przedmiotów i prosi cię o ich odzyskanie do badań. Zbierz pięć pojemników z cermetu, by można było je skontrolować." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_02", "hash": "C87BCFA6A50B0F48", "target": "Pojemniki z cermetu zostały odzyskane. Zanieś je węzłowi audytowemu do badań." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_03", "hash": "BD5240B82E200D64", "target": "Węzeł audytowy zbadał pojemniki i ustalił, że zawierają garleańskie repliki allagańskiej technologii. Niepokojący wydźwięk tego odkrycia łagodzi nieco fakt, że wydają się bardzo kiepskimi kopiami oryginałów." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_00", "hash": "40C4D2D05C30183F", "target": "Zdobyć pojemniki z cermetu" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_01", "hash": "77B9563035CCB903", "target": "Dostarczyć pojemniki węzłowi audytowemu" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_000", "hash": "CFF38C0476F331D4", "target": "Wykryto niezarejestrowane towary. \\<pik> Przedmioty zidentyfikowano jako pojemniki z cermetu pochodzenia garleańskiego. Konieczne dalsze badania. Proszę odzyskać pięć pojemników do testów." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_010", "hash": "07D9AC38B1B3B3DD", "target": "Wykryto niezarejestrowane towary. \\<pik> Proszę odzyskać pięć pojemników z cermetu do testów." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_020", "hash": "5F17AE34ADF8B0F1", "target": "Proszę umieścić niezarejestrowane towary w komorze badawczej do testów. \\<pik>" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_021", "hash": "4DDC826323DEFD77", "target": "Odebrano próbki. Skanowanie... \\<pik> \\<pik> Skanowanie zakończone. Pojemniki najwyraźniej zawierają repliki allagańskich artefaktów technologicznych. Jakość replik jest znacznie niższa od minimalnych standardów allagańskich. Poziom wykonania skrajnie niski." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_022", "hash": "6993E888005A0D3D", "target": "Wielce niefortunne. Trzeba będzie podjąć kroki, by chronić dobre imię allagańskiej innowacyjności i rzemiosła." }
   ]
 }

@@ -55,6 +55,6 @@
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_YUGIRI_000_125", "hash": "A94053D18D7F88BF", "target": "<if(gnum4,Wróciła pani,Wrócił pan)> z Kugane? Jak się miewa Tataru?" },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_ALPHINAUD_000_130", "hash": "5A8D41E6605C8811", "target": "O! Mam wrażenie, że dopiero wczoraj <if(gnum4,tu byłaś,tu byłeś)>. Nasze plany posuwają się naprzód. Masz dokumenty?" },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_ALPHINAUD_000_131", "hash": "9BCA9F6C4BDBF941", "target": "Znakomicie! To wygląda dokładnie na to, czego potrzebujemy." },
-    { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_ALPHINAUD_000_132", "hash": "D9CEEBD2CA91EF7D", "target": "Jeśli eskorta shinobi przeprowadzi nas bezpiecznie przez Moon Gates, bez trudu wyłączę barierę. Dobrze, dobrze─jedno zmartwienie mniej..." }
+    { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_ALPHINAUD_000_132", "hash": "D9CEEBD2CA91EF7D", "target": "Jeśli eskorta shinobi przeprowadzi nas bezpiecznie przez Księżycowe Bramy, bez trudu wyłączę barierę. Dobrze, dobrze─jedno zmartwienie mniej..." }
   ]
 }

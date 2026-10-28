@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa805_00789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "Godwin z Leśnych Płaczków ma raport wymagający pilnego doręczenia." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "Godwin powierzył ci tajny raport o ostatnich wydarzeniach w okolicy Fallgourd Float. Bez zwłoki dostarcz go Vortefaurtowi z Zakonu Dwóch Żmij." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "Raport Godwina opisuje doniesienia o zamaskowanym mężczyźnie, które wywołały niepokój w Fallgourd Float. Czy ta złowroga postać to Ascianin?" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "Dostarczyć raport z Fallgourd Vortefaurtowi" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "Witam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Jeśli nie ma <if(gnum4,pani,pan)> nic przeciwko pracy gońca, mam raport, który trzeba jak najszybciej dostarczyć do Wieży Florentela." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "Uwaga, te informacje są ściśle tajne. Ufam, że raport trafi wprost do rąk porucznika Vortefaurta─<italic(1)>bez<italic(0)> zaglądania do środka." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "Okolica roi się od wyjątkowo dzikich bestii. Radzę omijać je szerokim łukiem, żebym potem nie musiał zbierać <if(gnum4,pani,pańskich)> zwłok z leśnej ściółki." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "Raport od Godwina? Dobrze, zobaczmy... Wędrowny kupiec napadnięty przez bandytów Qiqirn, poszukiwaczowi przygód zdziczały ziz odgryzł rękę i tak dalej... \\<wzdycha> Zwykłe banały." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "Hm? A to co? Doniesienia o zamaskowanym mężczyźnie...? „Dotąd nie zgłoszono ofiar, zaleca się jednak należytą czujność”." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "Zaiste niepokojące wieści─w tych stronach i bez zamaskowanego zbira dość jest niebezpieczeństw. Dziękuję. Proszę się nie obawiać, Zakon będzie wypatrywał tego intruza." }
   ]
 }

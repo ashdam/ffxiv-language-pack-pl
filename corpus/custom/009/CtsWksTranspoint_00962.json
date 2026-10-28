@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsWksTranspoint_00962",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_010", "hash": "D0C8DD97DDD1724B", "target": "" },
-    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_020", "hash": "53F42A861493C88D", "target": "" }
+    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_010", "hash": "D0C8DD97DDD1724B", "target": "Zestrajasz się z odłamkiem Aethernet i zyskujesz dostęp do sieci eterycznej tego regionu." },
+    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_020", "hash": "53F42A861493C88D", "target": "Kolejne odłamki znajdziesz na terenie tego regionu. Zestrajaj się z nimi, by szybciej podróżować po okolicy." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst043_00199",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "" }
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "Paulemont, strażnik z Wieży E-Tatta, szuka pracowitego poszukiwacza przygód do wyszorowania dwóch zabrudzonych drogowskazów." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "Wyczyść dwa zakurzone kamienie milowe przy drodze niedaleko Wieży E-Tatta." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "Brud znika z kamieni milowych. Zdaj raport Q'djawanie w Stajniach Mowy Drzew." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "Ponieważ ubywa drzew nadających się do składania jaj, potwory zaczęły zostawiać lęg na oblepionych brudem drogowskazach i wokół nich. Q'djawana wciąż nie wie, jak zapobiec przemianie kamieni milowych w zastępcze gniazda, ale dzięki twoim wysiłkom problem został choć na chwilę odsunięty." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "Wyczyścić zakurzone kamienie milowe" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "Zdać raport Q'djawanie w Stajniach Mowy Drzew" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "Przychodzi <if(gnum4,pani,pan)> pomóc? W takim razie chętnie oddam jedno zadanie ze swojej chyba nieskończonej listy." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "Proszę udać się drogą na zachód i wyszorować dwa kamienie milowe. Przysięgam na Nophikę, te drogowskazy obrastają brudem w niemal nienaturalnym tempie." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "Po wszystkim proszę porozmawiać z Q'djawaną w Stajniach Mowy Drzew. Ucieszy ją wiadomość, że kamienie są czyste─przynajmniej przez następne trzy godziny..." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "Co takiego? Kamienie milowe wyczyszczone? Dziękuję! Przy tylu obowiązkach bałam się, że będą coraz brudniejsze. A to nie tylko brzydki widok─okoliczne stworzenia lubią składać na nich jaja, gdy tak wyglądają." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "Dlaczego... Cóż, mogę tylko przypuszczać, że brakuje im drzew na gniazda. Tak czy inaczej, nie możemy pozwolić, by potwory wykluwały się z drogowskazów. Te szlaki i tak są już dość niebezpieczne." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "Hmm, może skropienie nalewką z szerszeni odstraszy bestie..." }
   ]
 }

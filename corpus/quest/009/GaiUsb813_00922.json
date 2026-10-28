@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsb813_00922",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "" }
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "Papawazu proponuje kolejne zlecenie i okazję do podziwiania jego osoby, jeśli masz ochotę." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "Dostawy przetworzonego ceruleum wreszcie zostaną wznowione ku zadowoleniu wszystkich stron─może poza coblynami, lecz takie stworzenia nie mają nic do powiedzenia, zwłaszcza martwe. Przekaż wieści Syntgohtowi na Targowisku Szafirowej Alei." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "Syntgoht odczuwa ulgę, choć drażni go podwyżka. Kiedy towar dotrze za kilka dni, powinien móc zrealizować swoje zamówienia." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "Porozmawiać z Syntgohtem na Targowisku Szafirowej Alei" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "<italic(1)>Tak<italic(0)> czy inaczej! Ceruleum musi płynąć. Koniec opóźnień dostaw─kolejny błyskotliwy sukces Papawazu! Och, czy to piórko? Do mojego kapelusza? Bardzo dziękuję!" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "Nooo, możesz powiedzieć Syntgohtowi, że dostawa dotrze za kilka dni. <italic(1)>Nie<italic(0)>stety nastąpi drobny wzrost ceny. Dopłata za bezpieczeństwo, rozumiesz! Wszyscy tak robią." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "Witam, <italic(1)>witam<italic(0)>! Cóż może zainteresować tak wytraw─och, to <if(gnum4,pani,pan)>, <split(<string(gstr1)>, ,1)>. Rozmowa z Papawazu już za <if(gnum4,panią,panem)>? Naprawdę! Powiedział, że to kwestia dni?" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "A więc, <if(gnum4,droga pani,drogi panie)>, wyślą należny mi towar, ale policzą za niego więcej. Życzę Amajinie i <italic(1)>wszystkim<italic(0)> jego synom radości z moich gili. Oby dostali od nich podagry." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "Doceniam uporządkowanie tej sprawy, i to z takim sępem jak Papawazu. Wytrawny pośrednik taki jak ja z pewnością zapamięta tę pomoc przy kolejnych zleceniach!" }
   ]
 }

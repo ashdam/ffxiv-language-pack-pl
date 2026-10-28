@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsc305_00972",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_00", "hash": "76EFD3C496103249", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_01", "hash": "7D7F4712C80321C0", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_02", "hash": "C71CFA2268FB4699", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_03", "hash": "74E977A811D70921", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_00", "hash": "62FD17B324BE3ABE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_01", "hash": "1EC3BED0342C0182", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_000", "hash": "D8A5DFD9E54657E4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_001", "hash": "0663FCB088F6296C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_002", "hash": "C4D130440BBDD476", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_020", "hash": "DC259DD28E1DB505", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_025", "hash": "2AB3AFD7F1BE85E1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_026", "hash": "5688BC25102D51E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_040", "hash": "023AEE066D8CF0B2", "target": "" }
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_00", "hash": "76EFD3C496103249", "target": "Róża to róża to pomocna dłoń, przynajmniej gdy życzliwy botanik dostrzega mężczyznę bliskiego zaprzepaszczenia miłosnych przyrzeczeń." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_01", "hash": "7D7F4712C80321C0", "target": "W przeciwieństwie do <switch(gnum70,botaników pamiętanych z Limsy Lominsy,innych znanych ci gridańskich botaników,botaników wyganiających cię dawniej z morelowych drzew w rodzinnych stronach)> Kain życzliwie dogląda spacerujących po ogrodach. Litując się nad boleśnie zdenerwowanym młodym zakochanym, prosi o dostarczenie mu bukietu róż." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_02", "hash": "C71CFA2268FB4699", "target": "Widok kwiatów uspokaja młodzieńca. Z radosną determinacją rusza do ukochanej. Kain będzie zadowolony─choć nie zaskoczony─gdy o tym usłyszy." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_03", "hash": "74E977A811D70921", "target": "Czy to kwiaty, czy życzliwość obcych wygładziła ścieżkę tej miłości? Kochać to cieszyć się uśmiechem jednej osoby, lecz poślubić kogoś to cieszyć się uśmiechem wielu..." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_00", "hash": "62FD17B324BE3ABE", "target": "Wręczyć róże nerwowemu chłopcu" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_01", "hash": "1EC3BED0342C0182", "target": "Zdać raport Kainowi" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_000", "hash": "D8A5DFD9E54657E4", "target": "Kiedyś pracowałem w ogrodzie ziołowym, a pewna złotniczka montowała nowe łopatki wiatraczka. Zaczęliśmy rozmawiać i wiesz, co zrobiła? Wyszła za mnie, ta figlarka." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_001", "hash": "0663FCB088F6296C", "target": "Dwunastu obdarowuje w tajemniczy sposób, a te ogrody widziały już niejedną zakochaną parę. Łatwo ich rozpoznaję. Przed chwilą był tu jeden─zakochany po uszy, a język związany. Młodość marnuje się na młodych!" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_002", "hash": "C4D130440BBDD476", "target": "No cóż, sam musiałem kiedyś być takim niezdarą, choć w głębi serca nie chcę w to wierzyć. My, zakochane niezdary, musimy się wspierać. Może podrzucisz mu bukiet moich specjalnych róż Azeymy?" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_020", "hash": "DC259DD28E1DB505", "target": "M<-->My jesteśmy dwiema duszami w jednym ciele i─chwila, to nie tak. O nieee, powinieniem był nauczyć się mówić! To znaczy, powinienem, <italic(1)>powinienem<italic(0)>!" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_025", "hash": "2AB3AFD7F1BE85E1", "target": "Nie, dziękuję, jestem zajęty!<br>...Och. Przesyłka─od „przyjaciela szczęśliwej pary”? To jest... piękne. I tak ślicznie pachnie. Dziękuję." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_026", "hash": "5688BC25102D51E3", "target": "Naprawdę dziękuję! Nie potrzebuję przemowy, po prostu dam jej róże i powiem prawdę! Spędziłem ranek w sanktuarium, przyrzekając jej miłość przed Dwunastoma." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_040", "hash": "023AEE066D8CF0B2", "target": "Dobrze poszło, co? Każdemu czasem potrzeba pomocy. My, pracujący w ogrodach, wiemy to lepiej od innych─potężne dęby, delikatne siewki, rośliny egzotyczne i pospolite, wszystkie wymagają opieki. Nawet ty, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód." }
   ]
 }

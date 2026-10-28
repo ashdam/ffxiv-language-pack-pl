@@ -2,17 +2,17 @@
   "conversation": "custom/004/FesHlw2017_00443",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_000", "hash": "287D9C2C2996B836", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_Q1_000_000", "hash": "DBF3487C87049CBF", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_001", "hash": "33E1C983E14A453B", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_002", "hash": "62AD56FBCDCA0D54", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_003", "hash": "5D388A5BA6321FA5", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_010", "hash": "A2819D1FF645266E", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_011", "hash": "89A3D9D500182067", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_012", "hash": "0854A99370882074", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_020", "hash": "99628AE858576EB2", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_021", "hash": "12557C7162C3AD5A", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_022", "hash": "602C2913687F5444", "target": "" },
-    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_023", "hash": "0DB9949E486C67E1", "target": "" }
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_000", "hash": "287D9C2C2996B836", "target": "Witaj, dyniusiu! Mam nadzieję, że dobrze się bawisz podczas obchodów! Jeśli chcesz się czegoś dowiedzieć, pytaj śmiało!" },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_Q1_000_000", "hash": "DBF3487C87049CBF", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_001", "hash": "33E1C983E14A453B", "target": "O Cyrk Kontynentalny." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_002", "hash": "62AD56FBCDCA0D54", "target": "O Noc Wszystkich Świętych." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_A1_000_003", "hash": "5D388A5BA6321FA5", "target": "Nic." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_010", "hash": "A2819D1FF645266E", "target": "Jak wskazuje nasza nazwa, jesteśmy trupą artystów przemierzającą kraj wzdłuż i wszerz. Nasza misja: zmieniać grymasy w uśmiechy!" },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_011", "hash": "89A3D9D500182067", "target": "O tej porze roku zwykle odwiedzamy trzy miasta<-->państwa, by pomóc ich mieszkańcom świętować Noc Wszystkich Świętych." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_012", "hash": "0854A99370882074", "target": "Przygotowaliśmy najróżniejsze ekscytujące wydarzenia, które zachwycą cię, choć jednocześnie napędzą ci strachu! Może na chwilę zapomnisz o codziennych trudach poszukiwania przygód i dołączysz do zabawy?" },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_020", "hash": "99628AE858576EB2", "target": "Legenda głosi, że raz w roku Dwunastu wyprawia w niebiosach wystawną ucztę na cześć świętych. Gdy jednak święci są nieobecni, kraina pozostaje bez ich boskiej ochrony, a istoty ciemności wychodzą tłumnie z ukrycia." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_021", "hash": "12557C7162C3AD5A", "target": "Ludzie, bojąc się o życie, zaczęli zamykać się w domach. Ci, którzy musieli wyjść na zewnątrz, przebierali się za potwory, licząc na to, że prawdziwe monstra ich nie zauważą." },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_022", "hash": "602C2913687F5444", "target": "Przerażająca sprawa, prawda? Ale to już przeszłość, bo dziś mamy dzielnych poszukiwaczy przygód takich jak ty, którzy strzegą naszych miast pod nieobecność świętych!" },
+    { "gameKey": "custom/004/FesHlw2017_00443#TEXT_FESHLW2017_00443_GUIDEHLW2017_000_023", "hash": "0DB9949E486C67E1", "target": "Nie mając już powodu do obaw, ludzie zmienili Noc Wszystkich Świętych w radosne święto. Doprawdy odrażający─eee... <italic(1)>zachwycający<italic(0)> obrót spraw!" }
   ]
 }

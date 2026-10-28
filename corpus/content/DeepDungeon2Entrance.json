@@ -16,7 +16,7 @@
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_TEST_ENTER_MATCHING_Q", "hash": "0095BA6816C47F11", "target": "Na pewno wejść z dobraną drużyną?" },
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_KYUSEI_000_010", "hash": "E6E450622E5960C7", "target": "Czy zamierza <if(gnum4,pani,pan)> wejść do Heaven<-->on<-->High samotnie? Choć Rasho opowiadał mi o <if(gnum4,pani,pana)> sile, obawiam się, że nawet wojownicy tej miary mogą sobie nie poradzić. Czy nie warto przemyśleć tego raz jeszcze?" },
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_TEST_ENTER_SOLO", "hash": "70C5CA79602C4CA1", "target": "Na pewno wejść samotnie?" },
-    { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_ENTER_WHICH_Q", "hash": "173085CF47B648FD", "target": "Z którego poziomu wejdziesz?" },
+    { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_ENTER_WHICH_Q", "hash": "173085CF47B648FD", "target": "Od którego poziomu zaczniesz?" },
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_ENTER_A1", "hash": "59EA68AE3E149CCF", "target": "Poziom pierwszy." },
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_ENTER_A2", "hash": "541F48FF91B9BB1C", "target": "Poziom dwudziesty pierwszy." },
     { "gameKey": "content/DeepDungeon2Entrance#TEXT_DEEPDUNGEON2ENTRANCE_MIDDLE_TOP_MENU_NEXT", "hash": "511A2D34C8AA4565", "target": "Przejdź na następny poziom" },

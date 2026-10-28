@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb106_00825",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "U'khuba Tia wydaje się zniecierpliwiony." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia potrzebuje materiału na groty strzał, a na pustyni oznacza to tylko jedno─rozczłonkowanie niczego niepodejrzewających stworzeń. Po krótkim wykładzie o zawiłościach awansu w plemieniu U prosi cię o zdobycie sześciu kolców russet yarzon." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Sześć kolców yarzon, jeszcze śliskich od krwi i furii, spoczywa w twojej dłoni. Zanieś je U'khubie Tii." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "Świeży zbiór części yarzon trafia do wdzięcznego U'khuby Tii, który coraz pewniej myśli o czekającym go wyzwaniu." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Zabić russet yarzon i zdobyć kolce" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Dać kolce yarzon U'khubie Tii" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "Prawo jest jasne─by zostać nunhem plemienia U, trzeba pokonać obecnego nunha. W moim przypadku oznacza to U'odha Nunha." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Aby jednak zdobyć prawo do wyzwania U'odha, muszę najpierw pokonać U'tykhę. On stoi na mojej drodze, a ja na jego. W ten sposób nunh nie musi bezustannie przyjmować wyzwań." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Lecz żeby pokonać U'tykhę, potrzebuję doskonałej broni. Może i jest głupcem, ale z pewnością nie słabeuszem. Zrobię nowe groty strzał, do czego potrzebne mi kolce yarzon. Pół tuzina powinno wystarczyć." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Masz już kolce yarzon?" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Dziękuję ci. Może cię zaskoczyć cel, do którego polecą te groty. Zapamiętaj dzisiejszą osadę Forgotten Springs. Dawne obyczaje odchodzą równie szybko, jak mkną strzały." }
   ]
 }

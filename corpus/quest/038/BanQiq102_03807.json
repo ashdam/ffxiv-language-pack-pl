@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq102_03807",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_00", "hash": "AD046374663FF82E", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_01", "hash": "0CAE2D2051F3BFE4", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_TODO_00", "hash": "FBA92FAA47572030", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_000", "hash": "8851B4A1DA143898", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_010", "hash": "40FFD7195E72E8F1", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_020", "hash": "406AFA08DC91A2EF", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_030", "hash": "E891D034E1FA3AAB", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_010", "hash": "31564855E10EC60F", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_020", "hash": "462DE25CE2D0ADD4", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_030", "hash": "2D2FF3DF9673A069", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_040", "hash": "28AC8AA3C7A8EAC7", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_050", "hash": "21E2BF8382081CE1", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_051", "hash": "7D83755D97130CB1", "target": "" }
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_00", "hash": "AD046374663FF82E", "target": "Qhoterl Pasol potrzebuje nieco światła w swoim życiu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_01", "hash": "0CAE2D2051F3BFE4", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_TODO_00", "hash": "FBA92FAA47572030", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć splendid flint stones w Astropolii K'mul,Dostarczyć splendid flint stones Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać bags of splendid seeds w Astropolii K'mul,Dostarczyć bags of splendid seeds Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid trout w Czerwonym Kielichu,Dostarczyć splendid trout Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_000", "hash": "8851B4A1DA143898", "target": "Podziemne jaskinie, które badamy, są straszliwie ciemne. Bez jakiegoś źródła światła nie zobaczylibyśmy nawet własnych wąsów, a co dopiero mówić o kopaniu." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_010", "hash": "40FFD7195E72E8F1", "target": "Czy zechce <if(gnum4,pani,pan)> wydobyć dla mnie trochę krzemieni w Astropolii K'mul? Kamienie są potrzebne do krzesania ognia. Jakieś trzy powinny w zupełności wystarczyć." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_020", "hash": "406AFA08DC91A2EF", "target": "Czy zechce <if(gnum4,pani,pan)> zebrać dla mnie nasiona roślin w Astropolii K'mul? Wytłaczamy z nich olej, którym napełniamy lampy. Trzy worki powinny w zupełności wystarczyć." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_030", "hash": "E891D034E1FA3AAB", "target": "Czy zechce <if(gnum4,pani,pan)> złowić dla mnie pstrąga w Czerwonym Kielichu? Pozyskujemy z nich olej, którym napełniamy lampy." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_010", "hash": "31564855E10EC60F", "target": "O, witam. Jak idzie zdobywanie krzemieni? Najłatwiej będzie je znaleźć w Astropolii K'mul." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_020", "hash": "462DE25CE2D0ADD4", "target": "O, witam. Jak idzie zdobywanie nasion? Najłatwiej będzie je znaleźć w Astropolii K'mul." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_030", "hash": "2D2FF3DF9673A069", "target": "O, witam. Jak idzie łowienie pstrąga? Najłatwiej będzie go znaleźć w Czerwonym Kielichu." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_040", "hash": "28AC8AA3C7A8EAC7", "target": "Witam ponownie, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,1)>. Czy mogę liczyć na to, że poszukiwania się powiodły?" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_050", "hash": "21E2BF8382081CE1", "target": "Ach, wspaniale! To wystarczy nam na kilka wypraw!" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_051", "hash": "7D83755D97130CB1", "target": "Być może już <if(gnum4,pani,pan)> wie, że my, Qitari, nie widzimy tak dobrze jak niektóre inne ludy. Musimy więc korzystać z takich rzeczy, by odnaleźć drogę w ciemności. Za ten dar wzroku dziękuję z całego serca." }
   ]
 }

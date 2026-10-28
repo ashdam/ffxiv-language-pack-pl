@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz717_02820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "" }
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "M'linhbo znalazła się między młotem a kowadłem." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Pokonać highland dharas, a potem gold dust dhara, gdy się pojawi" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Zdać sprawę M'linhbo" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "No proszę! To <if(gnum4,pani walczyła,pan walczył)> w Castellum Velodyna, prawda? Było na co popatrzeć. Pewnie ciągle to <if(gnum4,pani słyszy,pan słyszy)>, ale naprawdę przydałby nam się teraz ktoś o takich zdolnościach." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "Na południe stąd pojawiają się dharas i sprawiają nam niemałe kłopoty." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "Próbujemy je trzymać na dystans, ale co jakiś czas trafia się istna góra skał obsypanych złotym pyłem. Wtedy uciekamy z podkulonymi ogonami. Dla <if(gnum4,pani,pana)> kilka dharas to pewnie jak parę much do strącenia." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "Po pokonaniu kilku dharas na pewno zjawi się jedna ze złotych potworności. Zabicie choćby jednej bardzo pomoże nam odzyskać łowiska." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "Proszę dalej tłuc dharas, aż zjawią się te złote stwory. Tylko ostrożnie. Pewnie będą wściekłe za zabicie ich pobratymców." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "Nie trzeba wyjaśnień. Wszystko stąd widziałam. To było równie niezwykłe, jak się spodziewałam." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "Szkoda, że po jakimś czasie te stwory zapewne wrócą. Ludzie mówią, że rodzą się z duchów wojowników poległych w bitwie." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "Ja myślę, że chodzi raczej o tutejszy eter. Ale i tak modlę się o koniec wojny. Proszę na siebie uważać. Będę trzymać kciuki." }
   ]
 }

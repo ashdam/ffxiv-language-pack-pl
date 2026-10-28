@@ -2,19 +2,19 @@
   "conversation": "quest/022/HeaVny212_02281",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_00", "hash": "00B84FCC5C1A6662", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_01", "hash": "3BC6A1FDDCB796FF", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_02", "hash": "68D9F044CD3BFF2B", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_TODO_00", "hash": "CBA90CFF02208002", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_000", "hash": "C14FFA80E6FE9535", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_001", "hash": "9B6D1647B86AEBB1", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_002", "hash": "AE6FFB1BB98BA79F", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_003", "hash": "C745D175563D0385", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_004", "hash": "DF0E834DAB1C5013", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_010", "hash": "8D2749A8B85950E6", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_030", "hash": "08EE9839D6BDFE35", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_040", "hash": "D06704DD37940E0A", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_041", "hash": "544D46346C3C743A", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_042", "hash": "4C49DE51AB0182AC", "target": "" }
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_00", "hash": "00B84FCC5C1A6662", "target": "Unukalhai ma dla ciebie podarunek." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_01", "hash": "3BC6A1FDDCB796FF", "target": "Unukalhai wręcza ci allagański tomolit, który podobno zawiera szczegółowy zapis zaciekłego starcia Sephirota z siłami Allagu. Wyjaśnia, że niezwykła technologia starożytnego imperium może wykorzystać te informacje do stworzenia sztucznego wcielenia potężnego eikona. Pozwoli ci to ponownie doświadczyć walki z wielkim Sephirotem. Zabierz tomolit na Okręt Flagowy w Azys Lla i przedstaw nośnik zapisu węzłowi weryfikacyjnemu." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_02", "hash": "68D9F044CD3BFF2B", "target": "Przedstawiasz tomolit węzłowi weryfikacyjnemu i uruchamiasz coś, co kula określa mianem „symulacji walki”. Zbierz zaufanych towarzyszy i sprawdź swój hart przeciw nieokiełznanej potędze Sephirota.<br><br>※Do Containment Bay S1T7 (Extreme) można wejść przez wyszukiwarkę aktywności." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_TODO_00", "hash": "CBA90CFF02208002", "target": "Przedstawić allagański tomolit teologii węzłowi weryfikacyjnemu na Okręcie Flagowym" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_000", "hash": "C14FFA80E6FE9535", "target": "...Mam coś dla <if(gnum4,pani,pana)>, <if(gnum4,Wojowniczko Światła,Wojowniku Światła)>. Podczas wyprawy przeciw Sephirotowi natknąłem się na pewną relikwię. Sądzę, że najlepiej przysłuży się w <if(gnum4,pani,pańskich)> rękach." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_001", "hash": "9B6D1647B86AEBB1", "target": "To allagańskie urządzenie służące do przechowywania informacji─w tym wypadku zapisu zaciekłego starcia eikona Sephirota z siłami Allagu na wybrzeżach Meracydii." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_002", "hash": "AE6FFB1BB98BA79F", "target": "Po przedstawieniu tomolitu węzłowi weryfikacyjnemu przed Sterownią Triady jego systemy przeanalizują różne aspekty starcia i stworzą sztucznego eikona, z którym można trenować. To rodzaj „pozorowanej bitwy” zakładającej, że Sephirot wyrwał się z kajdan." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_003", "hash": "C745D175563D0385", "target": "Jeśli dobrze rozumiem jego działanie, węzeł powinien móc stworzyć także znacznie silniejsze wcielenie eikona. Odwzorowywałoby to katastrofalne następstwa wchłonięcia przez Sephirota dodatkowego źródła energii─na przykład po pokonaniu innego członka Walczącej Triady. Kuszące wyzwanie dla kogoś o <if(gnum4,pani,pańskich)> umiejętnościach, prawda?" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_004", "hash": "DF0E834DAB1C5013", "target": "Do rozpoczęcia tej bitwy nie potrzeba wiedzy pani Krile o allagańskiej technologii. Wystarczy przedstawić tomolit węzłowi na Okręcie Flagowym i postępować według poleceń kuli. Mam nadzieję, że to doświadczenie przyniesie cenną wiedzę, <if(gnum4,Wojowniczko Światła,Wojowniku Światła)>." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_010", "hash": "8D2749A8B85950E6", "target": "Jak wyjaśniałem, wystarczy przedstawić tomolit węzłowi weryfikacyjnemu na Okręcie Flagowym. Proszę postępować według jego poleceń, a wkrótce znów przyjdzie zmierzyć się z ogromnym Sephirotem!" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_030", "hash": "08EE9839D6BDFE35", "target": "\\<pik> Uruchamianie systemów weryfikacyjnych... Przyjęto żądanie symulacji walki. Oczekiwanie na dane z tomolitu..." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_040", "hash": "D06704DD37940E0A", "target": "\\<pik> Dane przetworzone. Przeciwnik: Sephirot z Walczącej Triady. Określanie parametrów symulacji..." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_041", "hash": "544D46346C3C743A", "target": "\\<pik> \\<bip> OSTRZEŻENIE! Poziom zagrożenia: ekstremalny. Imperium nie ponosi odpowiedzialności za śmierć lub obrażenia wynikające z udziału w symulacjach walki." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_042", "hash": "4C49DE51AB0182AC", "target": "\\<pik> Uruchamianie rozszerzonej rzeczywistości... Rozpoczynanie symulacji walki... Imperium dziękuje za dobrowolny udział w badaniu. Dane pośmiertne posłużą zwiększeniu przeżywalności kolejnych uczestników. Doceniamy to poświęcenie." }
   ]
 }

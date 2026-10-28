@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "DescriptionStandAloneTransient#2.1", "hash": "5A96728954A488B2", "target": "Archiwa" },
     { "gameKey": "DescriptionStandAloneTransient#3.1", "hash": "A4337C7217202974", "target": "New Game+" },
-    { "gameKey": "DescriptionStandAloneTransient#4.1", "hash": "59B1C198051C693D", "target": "Lost Actions" },
+    { "gameKey": "DescriptionStandAloneTransient#4.1", "hash": "59B1C198051C693D", "target": "Zagubione akcje" },
     { "gameKey": "DescriptionStandAloneTransient#5.1", "hash": "BD60958A43A6779A", "target": "Portrety" },
     { "gameKey": "DescriptionStandAloneTransient#6.1", "hash": "B68EE7EE92D33761", "target": "Wizytówka poszukiwacza przygód" },
     { "gameKey": "DescriptionStandAloneTransient#7.1", "hash": "F69D500B571F474C", "target": "Island Sanctuary" },
@@ -25,8 +25,8 @@
     { "gameKey": "DescriptionStandAloneTransient#22.1", "hash": "D3B886407AEDA528", "target": "Głębokie lochy" },
     { "gameKey": "DescriptionStandAloneTransient#23.1", "hash": "52DACA390A98058D", "target": "The Occult Crescent" },
     { "gameKey": "DescriptionStandAloneTransient#24.1", "hash": "43A1DDA5B2FB0C16", "target": "Eksploracja kosmosu" },
-    { "gameKey": "DescriptionStandAloneTransient#25.1", "hash": "DEC13B8E99BE67C6", "target": "Tablica strategiczna" },
-    { "gameKey": "DescriptionStandAloneTransient#26.1", "hash": "41D5E5A0CE0B13B7", "target": "Dziennik zwiedzania" },
+    { "gameKey": "DescriptionStandAloneTransient#25.1", "hash": "DEC13B8E99BE67C6", "target": "Tablica strategii" },
+    { "gameKey": "DescriptionStandAloneTransient#26.1", "hash": "41D5E5A0CE0B13B7", "target": "Dziennik krajoznawczy" },
     { "gameKey": "DescriptionStandAloneTransient#27.1", "hash": "898B4040E88A58CE", "target": "Dostawy na zamówienie" },
     { "gameKey": "DescriptionStandAloneTransient#28.1", "hash": "AE4369A1E451861E", "target": "Crucible of the Unbroken" }
   ]

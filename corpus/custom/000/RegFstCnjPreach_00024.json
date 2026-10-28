@@ -2,19 +2,19 @@
   "conversation": "custom/000/RegFstCnjPreach_00024",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3", "hash": "B4939055A92A4A3A", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4", "hash": "BA8CD4EF42F0EDB6", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5", "hash": "3C313D891CDCECEA", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6", "hash": "4209CFBB33C44F12", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7", "hash": "6B763491441975E3", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8", "hash": "430466C475AF8B31", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9", "hash": "790FD095C50A159A", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_Q1_000_1", "hash": "1DAA6595B36F7B64", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_1", "hash": "BDE873F6EEB28D72", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_2", "hash": "0C9A513BB6663D76", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_3", "hash": "70DDE0AA3083480D", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_4", "hash": "C468CB181F7DE51B", "target": "" }
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "Witam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód, i witam w leśnym państwie Gridanii." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "Czy pragnie <if(gnum4,pani,pan)> zbliżyć się do żywiołaków? Jeśli tak, z przyjemnością pomogę." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3", "hash": "B4939055A92A4A3A", "target": "Wśród zaklinaczy są tacy, którzy potrafią porozumiewać się z żywiołakami. Zwie się ich Słuchaczami, a ja jestem jednym z nich." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4", "hash": "BA8CD4EF42F0EDB6", "target": "Dzięki darowi słyszenia prowadzę mieszkańców Gridanii zgodnie z wolą żywiołaków. Taką odgrywam rolę w zapewnianiu wiecznej harmonii w Lesie Dwunastu." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5", "hash": "3C313D891CDCECEA", "target": "Żywiołaki są wiecznymi strażnikami Lasu Dwunastu. Od niepamiętnych czasów czuwają nad lasem i wszelkim życiem w jego granicach, dbając o zachowanie równowagi natury." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6", "hash": "4209CFBB33C44F12", "target": "Na mocy pradawnego przymierza ludziom pozwolono zamieszkać w Lesie Dwunastu. Tak powstała Gridania, jakieś pięć stuleci temu." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7", "hash": "6B763491441975E3", "target": "Niestety żywiołaki bardzo osłabły podczas katastrofalnych wydarzeń, które zapoczątkowały Siódmą Erę Umbralną. Choć jesteśmy tylko śmiertelnikami, teraz to na nas spoczywa obowiązek chronienia lasu ciałem, umysłem i duchem." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8", "hash": "430466C475AF8B31", "target": "Choć nasze próby i udręki nie mają końca, nigdy nie wolno nam utracić nadziei." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9", "hash": "790FD095C50A159A", "target": "Jak bowiem naucza Arcywieszczka, żywiołaki zawsze nad nami czuwają. Dopóki im ufamy i każdy robi swoje, wszystko będzie dobrze." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_Q1_000_1", "hash": "1DAA6595B36F7B64", "target": "O co zapytasz?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_1", "hash": "BDE873F6EEB28D72", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_2", "hash": "0C9A513BB6663D76", "target": "Czym są żywiołaki?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_3", "hash": "70DDE0AA3083480D", "target": "Co mam zrobić?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_4", "hash": "C468CB181F7DE51B", "target": "Nic." }
   ]
 }

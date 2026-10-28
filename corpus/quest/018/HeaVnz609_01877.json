@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz609_01877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_00", "hash": "84C5066895EAA038", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_01", "hash": "87A14B509DFEA148", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_02", "hash": "BE7C242F7E516983", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_03", "hash": "F4744E9970984E93", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_00", "hash": "6FEB31D3F03CFEC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_01", "hash": "4BB7F42D9EACE5F5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_000", "hash": "22D39FA3E39D8AC7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_001", "hash": "EA5F959ADDE3BBE3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_010", "hash": "7B70D293330BFCDC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_030", "hash": "180AB63B18334AD9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_031", "hash": "F53F83BBEA9C5BEB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_032", "hash": "CA799277D22814EC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_00", "hash": "84C5066895EAA038", "target": "Mogoon ma zmartwioną minę." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_01", "hash": "87A14B509DFEA148", "target": "Mogoon opowiada, że wędrowne anzu zaczęły budować gniazda przy posągu Zagubionego Władcy Ziemi. Pomóż je usunąć, zanim ptaki się rozmnożą i pogrążą okolicę w hałaśliwym chaosie." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_02", "hash": "BE7C242F7E516983", "target": "Gniazda są usunięte. Wróć do Mogoona z dobrymi wieściami." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_03", "hash": "F4744E9970984E93", "target": "Mogoon cieszy się z dostarczonych gniazd. Prosta bestia, taka jak anzu, nigdy nie zdoła docenić piękna i świętości tutejszych posągów." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_00", "hash": "6FEB31D3F03CFEC2", "target": "Usunąć gniazda anzu" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_01", "hash": "4BB7F42D9EACE5F5", "target": "Dostarczyć gniazda Mogoonowi" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_000", "hash": "22D39FA3E39D8AC7", "target": "Te wędrowne anzu nie zatrzymały się przy świętych wodach tylko na łyk wody─pobudowały gniazda wokół posągu, kupo! Wyobraża sobie <if(gnum4,pani,pan)> ten hałas, gdy będzie ich jeszcze więcej?" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_001", "hash": "EA5F959ADDE3BBE3", "target": "Proszę usunąć gniazda, zanim stado hałaśliwych piskląt anzu na zawsze uniemożliwi mi modlitwę, kupo! Proszę się pospieszyć!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_010", "hash": "7B70D293330BFCDC", "target": "Anzu pozakładały gniazda wokół posągu Zagubionego Władcy Ziemi. Proszę się ich pozbyć, zanim wszędzie będą skrzeczeć małe anzu, kupo!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_030", "hash": "180AB63B18334AD9", "target": "Widziałem kilka gniazd wokół Zielonej Darni. Udało się je usunąć?" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_031", "hash": "F53F83BBEA9C5BEB", "target": "...Aż tyle gniazd? I już były w nich jaja, kupopo!? Gdyby nie tak szybkie usunięcie... Wielkie dzięki za pomoc!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_032", "hash": "CA799277D22814EC", "target": "Wreszcie problem anzu jest rozwiązany. Gdyby tylko te tępe ptaki rozumiały świętość tutejszych posągów. Może dzięki niestrudzonemu oddaniu kiedyś zdołam przekonać nawet takie brutale do ich piękna, kupo!" }
   ]
 }

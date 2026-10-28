@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz636_01904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "" }
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "Gildon tkwi po szyję w kłopotach." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "Gildona niepokoją dhalmele, które w ostatnich dniach podeszły blisko obozu. Twierdzi też, że rozmnażają się w zastraszającym tempie. Prosi cię o zabicie czterech, by ich liczebność nie wymknęła się spod kontroli." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "Dhalmele nie żyją. Wróć do obozu Camp Cloudtop i zdaj raport Gildonowi." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "Gildon z ulgą słucha raportu. Podejrzewa, że dhalmele zbliżyły się do obozu Camp Cloudtop z ciekawości. Nie mają złych zamiarów, ale zupełnie nie zdają sobie sprawy ze szkód, jakie wyrządzają rycerzom. Choć z bólem serca, Gildon zamierza je zabijać, gdy zanadto się rozmnożą." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "Zabić dhalmel" },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "Zdać raport Gildonowi" },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "Miło widzieć, <split(<string(gstr1)>, ,1)>. To pewnie żadna niespodzianka, ale znów mamy coś do zrobienia." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "Dhalmele z Ok' Gundu ostatnio podchodzą niebezpiecznie blisko placówki. Jest ich coraz więcej i utrudniają nam pracę. Zabicie czterech byłoby wielką pomocą dla obozu." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "Dhalmele pasą się na polach na północny wschód stąd, choć to niemały kawałek drogi. Zabicie czterech powinno wystarczyć." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "Witam ponownie. Rozumiem, że sprawa dhalmeli załatwiona? Mam nadzieję, że naszym ludziom będzie teraz łatwiej patrolować okolicę." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "Podchodzą do placówki dopiero od niedawna, zapewne z ciekawości. Dhalmele są łagodne, ale tak duże zwierzęta łatwo mogą niechcący zranić naszych ludzi. Z bólem serca je zabijamy, lecz dobro obozu tego wymaga." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/036/FesSum504_03666",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_00", "hash": "807CF578518D8E70", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_01", "hash": "19590E6629DEF93E", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_02", "hash": "80ADB60FD2B4D25E", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_TODO_00", "hash": "1C45BDF983C65BB4", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_000", "hash": "A70DEBFBBA351FBB", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_001", "hash": "B6148C5E6DB3FD12", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_002", "hash": "842A646204AA3C07", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_003", "hash": "9DD62E8124E62450", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_004", "hash": "C0C529AAB8C58E18", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_005", "hash": "183C051E8CF22072", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_006", "hash": "D6E1F1D1A78FEE31", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_010", "hash": "BB970CBA549EFD7F", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_011", "hash": "BDD87F32A492025B", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_012", "hash": "AE6F9105FAEAB1E0", "target": "" }
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_00", "hash": "807CF578518D8E70", "target": "Hildelana szuka kilku dobrych kucharzy." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_01", "hash": "19590E6629DEF93E", "target": "Otrzymujesz zaproszenie do udziału w Iron Culinarian Challenge podczas Festynu Księżycowego Ognia. Zdobądź świeżo złowioną rybę haddock, obtocz w cieście, usmaż na chrupiący, złotobrązowy kolor i dostarcz swoje kulinarne arcydzieło Hildelanie. Dopilnuje, by znalazło godne miejsce w brzuchu zgłodniałego gościa festynu.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_02", "hash": "80ADB60FD2B4D25E", "target": "Robisz dobry użytek ze swoich zdolności kulinarnych, przygotowując doskonałą porcję battered fish o smaku i konsystencji godnych króla. Dostarczasz ją Hildelanie, na której robi należyte wrażenie. Za niezrównane umiejętności posługiwania się patelnią otrzymujesz jeden kupon Faire voucher i zaproszenie do ponownego udziału w wyzwaniu." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_TODO_00", "hash": "1C45BDF983C65BB4", "target": "<if([lnum1<lnum2],Zdobyć danie serving of battered fish,Dostarczyć danie serving of battered fish organizatorce imieniem Hildelana)>" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_000", "hash": "A70DEBFBBA351FBB", "target": "Witam, <if(gnum4,przyjaciółko ceniąca dobre jedzenie,przyjacielu ceniący dobre jedzenie)>! Skoro podchodzi <if(gnum4,pani,pan)> do rozmowy, zapewne chce wziąć udział w jedynym w swoim rodzaju Iron Culinarian Challenge? Och, cóż za szczęśliwy dzień!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_001", "hash": "B6148C5E6DB3FD12", "target": "Proszę się nie martwić, jeśli to pierwszy raz. Zasady są proste. Najpierw wyznaczę konkretne danie. Następnie należy zdobyć potrzebne składniki i zabrać się za gotowanie. Na koniec proszę przynieść mi swoje dzieło do oceny. Jeśli kulinarne dzieło będzie odpowiednie, za trud otrzyma <if(gnum4,pani,pan)> kupon Faire voucher!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_002", "hash": "842A646204AA3C07", "target": "A teraz bez dalszej zwłoki: danie, które <if(gnum4,pani,pan)> dla nas przygotuje, to...battered fish! Tego się <if(gnum4,pani,pan)> nie spodziewa!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_003", "hash": "9DD62E8124E62450", "target": "To prosty, lecz pyszny przysmak, który o tej porze roku cieszy się ogromną popularnością wśród gości festynu. Chrupiący na zewnątrz, delikatnie rozpadający się w środku...jeśli <if(gnum4,pani,pan)> jeszcze go nie zna, naprawdę warto spróbować!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_004", "hash": "C0C529AAB8C58E18", "target": "Wraca <if(gnum4,pani,pan)> do Iron Culinarian Challenge? Znakomicie! Oszczędzę szczegółów, bo wiem, że nie jest już <if(gnum4,pani nowicjuszką,pan nowicjuszem)>." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_005", "hash": "183C051E8CF22072", "target": "Jeśli potrzebuje <if(gnum4,pani,pan)> świeżej ryby haddock, życzliwy rybak nieopodal chętnie odda jedną ze swoich zdobyczy...oczywiście za odpowiednią cenę. A teraz proszę ruszać i stworzyć danie, które podbije serca wszystkich jedzących!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_006", "hash": "D6E1F1D1A78FEE31", "target": "Już nie mogę się doczekać widoku dania battered fish, które <if(gnum4,pani,pan)> dla nas przygotuje!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_010", "hash": "BB970CBA549EFD7F", "target": "Proszę poczuć ten przepyszny aromat! Mogę tylko zakładać, że ma <if(gnum4,pani,pan)> to, o czym myślę?" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_011", "hash": "BDD87F32A492025B", "target": "Ależ proszę spojrzeć! Świeżo złowiona ryba haddock, obtoczona w cieście i usmażona na głęboki złotobrązowy kolor! Gdybym nie pochłonęła dziś już dziesięciu kawałków, chyba nie zdołałabym powstrzymać się od zjedzenia jej na miejscu!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_012", "hash": "AE6F9105FAEAB1E0", "target": "Ale żartuję. Proszę mieć pewność, że to apetyczne dzieło znajdzie godne miejsce w brzuszku jednego z pozostałych gości festynu. Proszę przyjąć kupon Faire voucher w nagrodę i cieszyć się dobrze wykonaną pracą. Do widzenia! Jeśli zechce <if(gnum4,pani,pan)> ponownie popisać się umiejętnościami przy patelni, wie, gdzie mnie znaleźć!" }
   ]
 }

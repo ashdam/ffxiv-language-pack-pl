@@ -2,12 +2,12 @@
   "conversation": "quest/037/SubCts502_03759",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_000", "hash": "FCAF571222CB7301", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_001", "hash": "ECC7A877C6A08F1C", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_002", "hash": "339145C1E17A2794", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_003", "hash": "D1D6D5393B103B81", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_004", "hash": "698C9C43F6218561", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_005", "hash": "FB2877AF87FF1A93", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_006", "hash": "B5A1ABA591C9ED91", "target": "" }
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_000", "hash": "FCAF571222CB7301", "target": "Ach! Nic tak nie przywraca staruszkowi dni dawnej chwały jak patrzenie na morze. Tych dobrych czasów, gdy całe życie było jeszcze przed nim, a największe przygody dopiero miały nadejść..." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_001", "hash": "ECC7A877C6A08F1C", "target": "...Aaa! Nie wiesz, że nie podkrada się tak do starszych? Chcesz mnie wpędzić do przedwczesnego grobu? No, może nie tak całkiem <italic(1)>przedwczesnego<italic(0)>..." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_002", "hash": "339145C1E17A2794", "target": "Ale nic nie mów... Widzę po tobie. Jesteś <if(gnum4,poszukiwaczką przygód,poszukiwaczem przygód)>, i to <if(gnum4,nie byle jaką,nie byle jakim)>, prawda? Nie masz może mojej siwej brody, ale pewnie znajdzie się wspomnienie czy dwa, do których chętnie wrócisz." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_003", "hash": "D1D6D5393B103B81", "target": "Może posiedzisz ze mną chwilę, zanim znów wyruszysz? Czasem właśnie spojrzenie w przeszłość pozwala odnaleźć drogę ku przyszłości." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_004", "hash": "698C9C43F6218561", "target": "Uzyskano dostęp do systemu New Game+. Pozwala on ponownie przeżywać dawne przygody, rozgrywając ukończone zadania z użyciem obecnych danych postaci." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_005", "hash": "FB2877AF87FF1A93", "target": "Aby ponownie rozgrywać dawne zadania w New Game+, otwórz interfejs <colortype(500)><edgecolortype(501)>New Game+<edgecolortype(0)><colortype(0)> w sekcji <colortype(500)><edgecolortype(501)>Aktywność<edgecolortype(0)><colortype(0)> w menu głównym i wybierz rozdział, który chcesz przeżyć na nowo." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_006", "hash": "B5A1ABA591C9ED91", "target": "Pamiętaj, że podczas ponownego rozgrywania zadań w New Game+ obowiązują specjalne zasady i warunki. Szczegółowe informacje znajdziesz w tekście pomocy w menu New Game+." }
   ]
 }

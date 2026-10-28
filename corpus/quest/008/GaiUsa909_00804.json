@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsa909_00804",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_00", "hash": "CBE717078EAC273B", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_01", "hash": "EE559171F2F65B45", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_02", "hash": "9CDAEA5056CD8340", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_03", "hash": "0257A41997B04D31", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_TODO_00", "hash": "A0EBF614E2556212", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_TODO_01", "hash": "E70681933E0DA210", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_000", "hash": "3DD6F084DD80BD0F", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_001", "hash": "FCF56A41920B78EE", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_002", "hash": "982493161E71656A", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_010", "hash": "16B911119F0C3486", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_020", "hash": "7520D087FB7D5B88", "target": "" },
-    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_021", "hash": "CA6BC809994C30B7", "target": "" }
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_00", "hash": "CBE717078EAC273B", "target": "Przyrodniczka Marcette przy Wieży Dunstana potrzebuje pomocy w badaniach." },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_01", "hash": "EE559171F2F65B45", "target": "Marcette prowadzi badania do <italic(1)>Nowej geografii Eorzei<italic(0)>, swojego powstającego kompendium wiedzy. Potrzebuje kapeluszy toadstool, by ukończyć rozdział o grzybach." },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_02", "hash": "9CDAEA5056CD8340", "target": "Masz już kapelusze toadstool. Dostarcz je Marcette." },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_SEQ_03", "hash": "0257A41997B04D31", "target": "Marcette jest niezmiernie zadowolona z siebie i najnowszego odkrycia naukowego─tak bardzo, że całkowicie zapomniała, komu je zawdzięcza..." },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_TODO_00", "hash": "A0EBF614E2556212", "target": "Zdobyć kapelusze toadstool" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_TODO_01", "hash": "E70681933E0DA210", "target": "Dostarczyć kapelusze toadstool Marcette" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_000", "hash": "3DD6F084DD80BD0F", "target": "Masz zaszczyt rozmawiać z Marcette, słynną przyrodniczką i cenioną autorką <italic(1)>Nowej geografii Eorzei<italic(0)>, najobszerniejszego zbioru wiedzy, jaki nasz świat widział─albo kiedykolwiek <italic(1)>zobaczy<italic(0)>." },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_001", "hash": "FCF56A41920B78EE", "target": "Nie znasz <italic(1)>Geografii<italic(0)>? Oczywiście, że nie─jeszcze nie została wydana! I nigdy nie zostanie, jeśli moi asystenci nadal będą się obijać zamiast pracować! Więc do roboty!" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_002", "hash": "982493161E71656A", "target": "<italic(1)>Oczywiście<italic(0)>, że mówię do ciebie! Widzisz tu kogoś innego? Powtarzam po raz siedemdziesięciotysięczny: pięć kapeluszy toadstool, i to szybko!" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_010", "hash": "16B911119F0C3486", "target": "Masz moje kapelusze toadstool? Każda chwila twojej zwłoki pozbawia świat mojej przeogromnej wiedzy!" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_020", "hash": "7520D087FB7D5B88", "target": "Tak, tak, dawaj to. Oczywiście! Dokładnie jak przewidywałam─zagęszczenie zarodników tych grzybów jest wykładniczo większe niż w próbkach sprzed Katastrofy!" },
+    { "gameKey": "quest/008/GaiUsa909_00804#TEXT_GAIUSA909_00804_MARCETTE_000_021", "hash": "CA6BC809994C30B7", "target": "Najwyraźniej tak wyewoluowały, by przystosować się do coraz trudniejszych warunków. Muahahaha! I kolejny wpis do <italic(1)>Nowej geografii Eorzei<italic(0)> gotowy! ...Ekhm, kim ty właściwie jesteś?" }
   ]
 }

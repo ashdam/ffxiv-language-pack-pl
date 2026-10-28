@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb704_00899",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_00", "hash": "1BDDF9940C590122", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_01", "hash": "F9FE2A9A3FF5FB2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_02", "hash": "6D48C8DFBDD37D47", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_03", "hash": "516C557264D67D78", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_00", "hash": "18201ECAC2A13834", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_01", "hash": "76B16B36790E2ABA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_000", "hash": "C3EC5062EFB3FC45", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_001", "hash": "6EDB993FD82EECFD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_020", "hash": "D3B04ED4168B4501", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_100_020", "hash": "A9FC04EDEF6C0AC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_021", "hash": "088F30008E4736B3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_022", "hash": "D0B34648C91BDE1E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_023", "hash": "FF294751023C7F4B", "target": "" }
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_00", "hash": "1BDDF9940C590122", "target": "Na ile sposobów można godnie umrzeć? Corentiaux chce porozmawiać z tobą o tym i nie tylko." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_01", "hash": "F9FE2A9A3FF5FB2B", "target": "Ród Fortemps wyznaczył nagrodę za głowy śnieżnych wilków, które atakują transporty zaopatrzenia. Bestie nie mają jeszcze roku, lecz są zajadłe i zasmakowały w ludzkim mięsie. Zabij cztery stworzenia snow wolf pup i oskóruj je na dowód wykonania zadania." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_02", "hash": "6D48C8DFBDD37D47", "target": "Tam, gdzie były cztery wilki, zostały cztery skóry i rozorany czerwony śnieg. Krew jest już zmyta z twoich rąk. Możesz wrócić z dowodem do rycerza Corentiaux." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_03", "hash": "516C557264D67D78", "target": "Wielu z wielkich rodów woli pozostawić problemy nierozwiązane, niż prosić poszukiwaczy przygód o pomoc─zwłaszcza gdy problemem jest pospolity drapieżnik, a ofiarą jeden czy dziesięciu pospolitych służących. Corentiaux mówi o tym z wyraźną goryczą. To u rycerza niezwykłe, a być może także niebezpieczne..." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_00", "hash": "18201ECAC2A13834", "target": "Zebrać skóry ze stworzeń snow wolf pup" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_01", "hash": "76B16B36790E2ABA", "target": "Zdać raport rycerzowi Corentiaux" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_000", "hash": "C3EC5062EFB3FC45", "target": "Pozwól na słowo. Ród Fortemps właśnie wyznaczył nagrodę za śnieżne wilki nękające nasze transporty zaopatrzenia. Te stworzenia są najgroźniejsze za młodu i gdy głodują, a ten miot czterech sztuk spełnia oba warunki." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_001", "hash": "6EDB993FD82EECFD", "target": "Straciłem przez te wilki dwóch dobrych ludzi. Gdyby byli rycerzami, rogi myśliwskie zabrzmiałyby, zanim ich krew zdążyłaby zbrunatnieć! Chcę, by zostali pomszczeni, a nagroda jest godziwa. Przynieś skóry, a <if(gnum4,oboje,obaj)> dostaniemy to, czego pragniemy." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_020", "hash": "D3B04ED4168B4501", "target": "Po twojej zadowolonej minie wnoszę, że dziś w Coerthas jest o cztery wilki mniej. Pokaż skóry i dopełnij swego triumfu." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_100_020", "hash": "A9FC04EDEF6C0AC6", "target": "To one, spójrz na te znamiona. Gdy te piekielne szczenięta nie żyją, wszyscy nasi ludzie odetchną z ulgą. Jakże podłe jest pogardzanie śmiercią w paszczy żarłocznej bestii! Ci ludzie polegli w bitwie tak samo jak ci na smoczym stosie." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_021", "hash": "088F30008E4736B3", "target": "Kiedy rycerzy jest mało, cierpią ci najniżsi w rodzie─stajenni i praczki, tragarze i gospodarze. Nasz ród łata wszelkie braki poszukiwaczami przygód, ale..." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_022", "hash": "D0B34648C91BDE1E", "target": "Niektóre z pozostałych wielkich rodów wciąż całkiem zamykają bramy przed obcymi albo traktują ich z taką pogardą, że każda przyjęta od nich przysługa musi być nią skażona." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_023", "hash": "FF294751023C7F4B", "target": "Honor tkwi w sprawiedliwym traktowaniu tych, którzy służą sprawie u naszego boku, za życia i po śmierci. Z honoru płynie wszystko, co czyni z chłopca mężczyznę, a z dziewczynki kobietę. Gdy spotkamy Halone w zaświatach, z pewnością osądzi nasz honor, a nie pychę." }
   ]
 }

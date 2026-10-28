@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa209_00732",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "" }
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "Auphiliot z Buscarron's Druthers szuka poszukiwacza przygód, który pomoże mu udaremnić spisek ludu Qiqirn." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "Auphiliot dowiedział się, że rozbójnicy Qiqirn gromadzą wielkie zapasy trucizny, którą zamierzają wykorzystać do napaści na niczego niepodejrzewających podróżnych. Zniszcz pojemniki magazynowe przy użyciu otrzymanych dzbanów zapalających, zanim ucierpi któryś z gości gospody." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "Wszystkie zapasy trucizny rozbójników Qiqirn zostały zniszczone, co zapewnia bezpieczeństwo podróżnym zmierzającym do gospody i z powrotem. Zdaj relację zleceniodawcy o imieniu Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "Auphiliot cieszy się, że udało ci się w porę pokrzyżować jadowite plany rozbójników Qiqirn, niezależnie od ich szczegółów. Wyjaśnia też, że pomysł podsunął Buscarron, który unika bezpośrednich starć, by do lasu mógł kiedyś powrócić prawdziwy pokój." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "Zniszczyć pojemniki magazynowe przy użyciu dzbanów zapalających" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "Zdać raport zleceniodawcy o imieniu Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "Posłuchało się mojej rady i zaprzęgło talenty do roboty w gospodzie, co? To mi się podoba u <if(gnum4,takiej krzepkiej dziewuchy,takiego krzepkiego młodzika)>! No, zakasaj rękawy, bo mam dla ciebie następną robotę." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "Ostatnio żłopałem wyborne piwko Buscarrona i zasłyszałem, że Qiqirn chomikują tu truciznę. Nie wiem, co knują, ale nic dobrego. Weź te dzbany zapalające i wysadź w diabły całe zapasy!" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "Mówisz, że po truciźnie ani śladu? <if(gnum4,Dobra dziewucha,Dobry chłopak)>! Następny kufel stawiam ja." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "Gdyby to ode <italic(1)>mnie<italic(0)> zależało, powywieszałbym tych Qiqirn po kolei za szczurze uszy, ale stary Buscarron nie pozwala. Mówi, że każda bitka, której dziś unikniemy, oszczędza nam kolejnej w przyszłości. I─prawdę mówiąc─zaczynam przyznawać mu rację." }
   ]
 }

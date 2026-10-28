@@ -56,6 +56,6 @@
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_000_060", "hash": "F17DFC1354D4EDB7", "target": "Rozgrzejmy piec i pokażmy profesorowi, na co stać nas─i nasze bochenki!" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_000_061", "hash": "A58148F5059CA503", "target": "Debroye jest uradowana twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Niezastąpioną piekarkę,Niezastąpionego piekarza)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_000_062", "hash": "18A8C771A7C14963", "target": "Dostępne jest nowe zadanie kontynuujące historię Wydziału Medycyny." },
-    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_100_063", "hash": "C14CE4812E1D6648", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć misję głównego scenariusza „Under His Wing”." }
+    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_100_063", "hash": "C14CE4812E1D6648", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć misję głównego scenariusza „Pod jego skrzydłem”." }
   ]
 }

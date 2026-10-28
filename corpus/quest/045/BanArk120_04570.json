@@ -2,15 +2,15 @@
   "conversation": "quest/045/BanArk120_04570",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_SEQ_00", "hash": "DB685D2692685A06", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_00", "hash": "E9BBDCEAC7EC92EA", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_01", "hash": "EABD0D52A6AA7B1B", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_000", "hash": "089FE3E5E72CFB2A", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_001", "hash": "1E24EE98DCD201C9", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_002", "hash": "6DC5C35C3703C015", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_010", "hash": "4C95F1EC1BFF7556", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_011", "hash": "0A1D0E7B5BBE46F5", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_012", "hash": "292B81B064AD2278", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_013", "hash": "7DF63513A1F20A07", "target": "" }
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_SEQ_00", "hash": "DB685D2692685A06", "target": "Maru chce zbudować hipopotamom trwały dom.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_00", "hash": "E9BBDCEAC7EC92EA", "target": "Użyć noża z kamienia giantsgall we wskazanych miejscach, aby zebrać sok z ogromnych drzew" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_01", "hash": "EABD0D52A6AA7B1B", "target": "Dostarczyć Maru naczynia z sokiem ogromnych drzew" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_000", "hash": "089FE3E5E72CFB2A", "target": "Skoro nasze hipopotamy mają już stajnię i wodę, niczego im nie brakuje do szczęścia. Oczywiście musimy to wszystko utrzymywać w dobrym stanie, żeby żyły długo i szczęśliwie." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_001", "hash": "1E24EE98DCD201C9", "target": "Tu potrzebujemy ciebie i tego noża, <split(<string(gstr1)>, ,1)>─udaj się do skupiska ogromnych drzew na zachód od Purusy i zeskrob trochę soku z ich kory. Z trzech powinno wystarczyć na naprawy na jakiś czas." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_002", "hash": "6DC5C35C3703C015", "target": "Zaznaczyłem miejsce na twojej mapie, gdyby jakimś cudem te wielkie konary umknęły twojej uwadze. I pamiętaj─ten sok jest do pracy, nie do jedzenia." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_010", "hash": "4C95F1EC1BFF7556", "target": "Jak poszło? Drzewa szczodrze podzieliły się sokiem?" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_011", "hash": "0A1D0E7B5BBE46F5", "target": "Dziękuję ci bardzo, <split(<string(gstr1)>, ,1)>. To nam się przyda na przyszłość." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_012", "hash": "292B81B064AD2278", "target": "Kiedy ten sok twardnieje, woda odbija się od niego jak miecz od tarczy. Myślę, że po uszczelnieniu nim basenu pozbędziemy się kłopotliwych przecieków. Przynajmniej na jakiś czas." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_013", "hash": "7DF63513A1F20A07", "target": "Trzeba przewidywać problemy, zanim się pojawią, bo inaczej wszystko rozleci się naraz. Będę dalej robił obchody i dam znać, jeśli znów będę potrzebował twoich zdolnych rąk." }
   ]
 }

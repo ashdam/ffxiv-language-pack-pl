@@ -2,18 +2,18 @@
   "conversation": "quest/030/BanAna408_03057",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_SEQ_00", "hash": "A16A42FB4CC9BF4D", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_01", "hash": "36865FB76CC0F0B1", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_000", "hash": "F6BE74BBD38A676C", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_001", "hash": "8823493BA09867DF", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_002", "hash": "93E3B09CCBD491A4", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_005", "hash": "3EB4959928A1DD0A", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_006", "hash": "953F98A891286FBA", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_007", "hash": "20B8F27682E833F0", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_008", "hash": "7829726D87497EFE", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_010", "hash": "F7C901E383541027", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_011", "hash": "728B96F2B62EE339", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_012", "hash": "0A0E467DF2F63C50", "target": "" }
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_SEQ_00", "hash": "A16A42FB4CC9BF4D", "target": "Eshana wydaje się niezwykle płochliwa.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "Przeszukać wskazane miejsca, pokonać duchy impure bhoot i oczyścić je poświęconą słoną wodą" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_01", "hash": "36865FB76CC0F0B1", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_000", "hash": "F6BE74BBD38A676C", "target": "<split(<string(gstr1)>, ,1)>, lepiej trafić się nie dało! Potrzebujemy <if(gnum4,nieustraszonej bohaterki,nieustraszonego bohatera)>─kogoś, kto nie cofnie się przed bezimienną grozą!" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_001", "hash": "8823493BA09867DF", "target": "Doniesiono nam o duchach bhoot, <split(<string(gstr1)>, ,1)>. Siostry z Vira Nilya zleciły nam odpędzenie tych łachmaniastych upiorów." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_002", "hash": "93E3B09CCBD491A4", "target": "Proszę. Udaj się na Pasiaste Wzgórza. Pokonaj napotkane duchy, a potem oblej je tą poświęconą sssłoną wodą. Zrób to dokładnie." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_005", "hash": "3EB4959928A1DD0A", "target": "...Parzyyy!" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_006", "hash": "953F98A891286FBA", "target": "Aaaa!" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_007", "hash": "20B8F27682E833F0", "target": "\\<jęczy> Nie..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_008", "hash": "7829726D87497EFE", "target": "\\<zawodzi> Dosyć..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_010", "hash": "F7C901E383541027", "target": "...Zniknęły? Chyba ich nie... <if(gnum4,dotykałaś,dotykałeś)>, prawda?" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_011", "hash": "728B96F2B62EE339", "target": "Według legend Ananta wystarczy otrzeć się o łachmany takiego ducha, by ściągnąć na siebie klątwę. Włosy się roztopią, łuski zgniją, a oczy staną się mlecznobiałe..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_012", "hash": "0A0E467DF2F63C50", "target": "Dla nas, ceniących piękno ponad wszystko, sama myśl o takich plugawych widmach budzi mdłości. Naprawdę doceniam wykonanie za nas tego odrażającego zadania." }
   ]
 }

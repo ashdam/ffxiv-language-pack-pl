@@ -24,7 +24,7 @@
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_TODO_07", "hash": "824703652BB25004", "target": "Poszukać Mogty" },
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_TODO_08", "hash": "EFE90046EA81B4D7", "target": "Poszukać Mogty" },
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_TODO_09", "hash": "DFB488A726016F7F", "target": "Porozmawiać z Moglinem" },
-    { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_SYSTEM_000_900", "hash": "108DDFF32253F746", "target": "Aby podjąć tę misję, musisz najpierw ukończyć misję głównego scenariusza „Mountaintop Diplomacy”." },
+    { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_SYSTEM_000_900", "hash": "108DDFF32253F746", "target": "Aby podjąć tę misję, musisz najpierw ukończyć misję głównego scenariusza „Dyplomacja na szczycie”." },
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_SANSON_000_000", "hash": "CBBCC873397A86F8", "target": "Ach, to <if(gnum4,pani,pan)>, <split(<string(gstr1)>, ,1)>. Jeśli chodzi o Guydelota, obawiam się, że nie widziałem go, odkąd odszedł w gniewie." },
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_SANSON_000_001", "hash": "DA1C66EDE9E841E1", "target": "Za to <italic(1)>rozmawiałem<italic(0)> z panem Sylvielem. Zgodnie z obietnicą zbadał legendę Coerthas─tę o arcypoecie w niebiosach─i przyszedł przedstawić wyniki." },
     { "gameKey": "quest/017/JobBrd580_01717#TEXT_JOBBRD580_01717_SANSON_000_002", "hash": "A7D698F908763438", "target": "Najwyraźniej „niebiosa” odnoszą się do głosu z nieba. To najpewniej jakieś zjawisko przyrody, takie jak grzmoty i błyskawice." },

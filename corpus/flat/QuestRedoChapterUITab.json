@@ -1,0 +1,14 @@
+{
+  "sheet": "QuestRedoChapterUITab",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "QuestRedoChapterUITab#1", "hash": "321FB055D03A64FE", "target": "Główny scenariusz" },
+    { "gameKey": "QuestRedoChapterUITab#2", "hash": "5E87F11A0480635C", "target": "Wątki poboczne" },
+    { "gameKey": "QuestRedoChapterUITab#3", "hash": "EAC43642D3F6A098", "target": "Kroniki Nowej Ery" },
+    { "gameKey": "QuestRedoChapterUITab#4", "hash": "AC09ABCCCD68F66F", "target": "Misje obrońców" },
+    { "gameKey": "QuestRedoChapterUITab#5", "hash": "F6F0B70FC67747AF", "target": "Zadania DPS" },
+    { "gameKey": "QuestRedoChapterUITab#6", "hash": "535A724151B992EE", "target": "Zadania uzdrowicieli" },
+    { "gameKey": "QuestRedoChapterUITab#7", "hash": "3DADD8C682A1B516", "target": "Zadania rzemieślników" },
+    { "gameKey": "QuestRedoChapterUITab#8", "hash": "3DE2ECA67D58D12D", "target": "Zadania zbieraczy" }
+  ]
+}

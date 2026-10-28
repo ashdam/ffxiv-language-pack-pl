@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanSah201_01390",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_00", "hash": "2145614F3D82F1B2", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_01", "hash": "950CCA2D265E79FB", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_02", "hash": "FDD8CBAC2B59C290", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_03", "hash": "690FEEF5B4A54AA7", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_00", "hash": "480173F87F2D9829", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_01", "hash": "03D13B474231C7F3", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_000", "hash": "AA3DC63002CF88B2", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_001", "hash": "8427CB1087D0A15D", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_002", "hash": "A74B744B357339FA", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_010", "hash": "AB3D21414CE14F81", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_020", "hash": "F018FCE0DA5356A0", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_021", "hash": "8A73DE28DEC422F5", "target": "" }
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_00", "hash": "2145614F3D82F1B2", "target": "Do Houu dotarły ostatnio niepokojące wieści. Potrzebuje pomocy brzegołaza, by uspokoić wody." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_01", "hash": "950CCA2D265E79FB", "target": "Wojownicze zapędy wymagają pomocy uzdrowicieli, więc Koralowe Trójzęby sprowadziły kolejnych czarowników. Houu prosi cię o usunięcie z ich szeregów co najmniej trzech, by ostudzić zapał Trójzębów do walki." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_02", "hash": "FDD8CBAC2B59C290", "target": "Porzucenie praktyki lekarskiej to bolesne doświadczenie. Dobrze, że uzdrowiciele nie żyją i nie mogą go rozpamiętywać. Pokojowo usposobiony Houu z pewnością podzieli twoją ulgę, gdy wrócisz do Wylęgarni Novva i zdasz mu relację." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_03", "hash": "690FEEF5B4A54AA7", "target": "Houu wydaje się rad z odejścia trzech czarowników, choć po przedstawicielu ludu Sahagin nigdy łatwo tego nie poznać. Bez uzdrowicieli opatrujących rannych Koralowe Trójzęby zapewne przez pewien czas będą mniej skłonne do ataków─to kolejne wytchnienie dla lęgu Novva." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_00", "hash": "480173F87F2D9829", "target": "Zabić przeciwników shoaltooth Sahagin" },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_01", "hash": "03D13B474231C7F3", "target": "Złożyć raport Houu" },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_000", "hash": "AA3DC63002CF88B2", "target": "Psssz... Moje oczy i uszy wśród fal donoszą, że Koralowe Trójzęby sprowadziły czarowników z oceanu Indigo Deep." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_001", "hash": "8427CB1087D0A15D", "target": "Z tak potężnymi uzdrowicielami w szeregach z pewnością ruszą do jeszcze większego natarcia. Nie możemy na to pozwolić... ani ja, ani moi bracia z lęgu, a już na pewno nie ojciec lęgu." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_002", "hash": "A74B744B357339FA", "target": "Musisz przekonać tych czarowników do odejścia. Psssz... Nie rozumiem, czemu nie wolą trzymać się bliżej domu." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_010", "hash": "AB3D21414CE14F81", "target": "Psssz... Wejdź w wody Tarliska Sapsa i odpraw nowych uzdrowicieli Koralowych Trójzębów. Nie powinni byli opuszczać oceanu Indigo Deep..." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_020", "hash": "F018FCE0DA5356A0", "target": "Fale przyniosły wieść o twoim sssukcesie. Mamy wobec ciebie dług. Jak radzisz sobie w morzu bez żadnych... bez niczego, pojąć nie mogę. Psssz..." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_021", "hash": "8A73DE28DEC422F5", "target": "Bez pomocy czarowników Koralowe Trójzęby nie odważą się uderzyć pełną siłą. Dla ojca lęgu woda stanie się przez to słodsza." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/002/RegDra2AnyxTrine_00285",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_Q1_000_000", "hash": "108E157B79478116", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_001", "hash": "854346B00DDC6E56", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_002", "hash": "69953E0DF9048C70", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_003", "hash": "3C0688202C67FC60", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_010", "hash": "1225630E95D97A19", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_011", "hash": "0B46EE6023B607C9", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_012", "hash": "94FFE6246807C6CE", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_021", "hash": "B151D0155DB5CDCB", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "" }
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "Dziecię człowieka wkracza do Anyx Trine... Interesujące..." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_Q1_000_000", "hash": "108E157B79478116", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_001", "hash": "854346B00DDC6E56", "target": "Kim jesteś?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_002", "hash": "69953E0DF9048C70", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_003", "hash": "3C0688202C67FC60", "target": "Nic." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_010", "hash": "1225630E95D97A19", "target": "Jam Sehn Y Toh. Moi bracia i siostry tworzą jedność pod wodzą Hraesvelgra. Oczyszczamy to miejsce ze wszystkich, którzy żywią wobec nas złe zamiary." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_011", "hash": "0B46EE6023B607C9", "target": "Pragniemy ciszy i spokoju. Tych, którzy nam ich odmawiają, powitają kły i pazury." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_012", "hash": "94FFE6246807C6CE", "target": "Posłuchaj, śmiertelna istoto. Jeśli zakłócisz spokój naszego domu, dowiemy się o tym..." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "Anyx Trine to dzieło ludzi z zamierzchłych czasów." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_021", "hash": "B151D0155DB5CDCB", "target": "Lecz ludzie dawno już zapomnieli o owocach swej pracy." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "Pochodzenie Anyx Trine nas nie obchodzi. Te ziemie są ciche. Odpowiadają naszym potrzebom. Anyx Trine jest teraz naszym domem." }
   ]
 }

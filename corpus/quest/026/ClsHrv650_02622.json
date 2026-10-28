@@ -16,7 +16,7 @@
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_TODO_03", "hash": "944916F86B9B5F21", "target": "Zebrać informacje w Kugane" },
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_TODO_04", "hash": "C9EFB7D34357F995", "target": "Porozmawiać z Hikinamim w Isari" },
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_TODO_05", "hash": "F59FB0CBF85A5258", "target": "<if([lnum1<lnum2],Zebrać Walker's popotoes na Wschodnim Wybrzeżu Othardu,Dostarczyć Walker's popotoes Edgyth w Idyllshire)>" },
-    { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_SYSTEM_100_000", "hash": "02461633C9FD0328", "target": "Aby rozpocząć tę misję, najpierw ukończ misję głównego wątku fabularnego „Tide Goes in, Imperials Go Out”." },
+    { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_SYSTEM_100_000", "hash": "02461633C9FD0328", "target": "Aby rozpocząć tę misję, najpierw ukończ misję głównego wątku fabularnego „Przypływ nadchodzi, Imperium odchodzi”." },
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_EDGYTH_000_000", "hash": "AFC426E079FA0CA3", "target": "<split(<string(gstr1)>, ,1)>! Popoto rosną znakomicie." },
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_EDGYTH_000_001", "hash": "E1140DAFA54BDEAD", "target": "Jednak jeszcze nie wszystko gotowe! Fufucha przesłała prośbę o wizytę w gildii, by dokładniej omówić krzyżowanie. Czy ma <if(gnum4,pani,pan)> czas, by znów mi towarzyszyć?" },
     { "gameKey": "quest/026/ClsHrv650_02622#TEXT_CLSHRV650_02622_EDGYTH_000_002", "hash": "A475AFD0AE0A5973", "target": "Wspaniale! Jak zwykle spotkajmy się przed gildią. Tym razem chcę spróbować sama znaleźć drogę!" },

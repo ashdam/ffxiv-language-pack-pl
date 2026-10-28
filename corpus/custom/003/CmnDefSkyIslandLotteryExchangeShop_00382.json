@@ -2,6 +2,6 @@
   "conversation": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Z zawodu zajmuję się otwieraniem zamków. Gdy dotarło do mnie, że ludzie przywożą z archipelagu The Diadem zamknięte skrzynki, postanowiłam otworzyć tu warsztat. Chętnie wykorzystam swoje umiejętności na <if(gnum4,pani,pana)> rzecz... jeśli akurat będą potrzebne." }
   ]
 }

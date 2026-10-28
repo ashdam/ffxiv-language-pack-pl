@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb204_00835",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_00", "hash": "2EB9789FDCB041D1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_01", "hash": "E37F4113DAD363BD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_02", "hash": "0345DD577D08B9FB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_03", "hash": "318C23ECCF64783A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_00", "hash": "44B54141F3495852", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_01", "hash": "9AFFF7632553953E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_000", "hash": "1C8216021107CEBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_001", "hash": "12772ABFC9F6D49C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_020", "hash": "569788A5CD813414", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_021", "hash": "633C76E16797DCCE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_POP_MESSAGE_000", "hash": "58E4189AA91D68CF", "target": "" }
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_00", "hash": "2EB9789FDCB041D1", "target": "Fyrilsunn ma pod ręką trochę prowizorycznych materiałów wybuchowych. Cóż mogłoby pójść nie tak?" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_01", "hash": "E37F4113DAD363BD", "target": "Działając na szkodę mieszkańców Costa del Sol, plemię Kobold zaczyna przesuwać swoje podziemne urządzenia rafineryjne bliżej osady. Fyrilsunn nie zamierza bezczynnie znosić tej prowokacji. Przygotował prowizoryczne bomby i prosi, by rzucić nimi w urządzenia i je zniszczyć." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_02", "hash": "0345DD577D08B9FB", "target": "Wysadzasz wszystkie urządzenia rafineryjne plemienia Kobold i pokonujesz zagniewane bomby, które je zasilały. Zdaj sprawę Fyrilsunnowi." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_03", "hash": "318C23ECCF64783A", "target": "Fyrilsunn wita cię serdecznie po powrocie, bo widział stąd zagładę urządzeń. Niepokoi go jednak, że Costa del Sol może być słabo przygotowane na kolejne wrogie działania plemienia Kobold. Wygląda na to, że jeszcze trochę przyda się tu twoja pomoc." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_00", "hash": "44B54141F3495852", "target": "Rzucić prowizoryczne bomby w urządzenia rafineryjne i zabić wszystkich wrogów" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_01", "hash": "9AFFF7632553953E", "target": "Zdać sprawę Fyrilsunnowi" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_000", "hash": "1C8216021107CEBE", "target": "Plemię Kobold coś knuje. Widzisz te ustrojstwa przy drodze na zachód? Postawili swoje cholerne urządzenia rafineryjne zaledwie parę yalmów od naszej plaży! I wiesz, co ja na to? Czas wysadzić je w diabły!" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_001", "hash": "12772ABFC9F6D49C", "target": "Tak się składa, że przygotowałem na tę okazję prowizoryczne bomby. Ale, eee... nigdy żadną nie rzucałem. Widzuję cię tu i wyglądasz na kogoś zaradnego. Weźmiesz je i rzucisz za mnie w te urządzenia?" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_020", "hash": "569788A5CD813414", "target": "Kawał dobrej roboty! Widziałem stąd, jak te przeklęte maszyny wylatywały w powietrze. Masz talent i całe szczęście, bo sami sobie z plemieniem Kobold nie radzimy." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_021", "hash": "633C76E16797DCCE", "target": "Ale dzięki tobie tym razem ich załatwiliśmy! Mam tylko nadzieję, że nie zamierzasz nas wkrótce opuszczać. Na pewno jeszcze będziemy potrzebować twojej pomocy, zanim się to skończy." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_POP_MESSAGE_000", "hash": "58E4189AA91D68CF", "target": "Pojawiają się dwa rozwścieczone osobniki grenade!" }
   ]
 }

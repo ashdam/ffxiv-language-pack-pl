@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb705_00900",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "" }
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "Ser Corentiaux chce omówić z tobą najnowsze trudności w Smoczym Łbie." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "Patrol rycerzy, świeżo po triumfie na froncie, został zwiedziony w zamieci przez stworzenia will-o'-the-wyke. Wielu z tych, którzy wrócili, ma ciężkie odmrożenia. Można zrobić tylko jedno: twoje wprawne ręce muszą zgładzić cztery takie stwory." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "Stworzenia will-o'-the-wyke nie żyją. <if(gnum4,Zwykła poszukiwaczka,Zwykły poszukiwacz)> przygód odnosi sukces tam, gdzie wielkie rody zawiodły, choć jeśli lubisz mieć język, lepiej zachować tę myśl dla siebie. Wróć do rycerza Corentiaux z dobrymi wieściami." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "Raport o śmierci stworzeń will-o'-the-wyke zostaje przyjęty z wielką radością. Dokładając nagrodę do coraz pełniejszej sakiewki, zastanawiasz się, dlaczego tak przenikliwy człowiek jak ser Corentiaux nie widzi tego, co wie każde dziecko szlaku: sama ziemia stała się wroga i oblega zastępy Ishgardu." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "Zabić stworzenia will-o'-the-wyke" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "Zdać raport rycerzowi Corentiaux" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "Słowo, jeśli można. Masz ochotę podjąć się kolejnego zlecenia? Nie pytałbym, gdyby nie było po tobie widać, że odpoczynek dobrze ci zrobił." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "Może dotarły do ciebie pogłoski, ale pewien patrol zgubił się w zamieci i zabłądził do Brzucha Ogra. Nie trzeba dodawać, że nie wszyscy wrócili żywi, a tym, którym się udało, konowały odcinają najróżniejsze kawałki ciała." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "Wzięli stworzenia will-o'-the-wyke za światła obozu i dali się zwabić do jaskini. Mamy wokół dość niebezpieczeństw bez tych drwiących diabłów, które bawią się naszym kosztem." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "Nie możemy dopuścić, by ludzie przestali wierzyć własnym oczom, bojąc się ufać światłom w oddali. Udasz się do Brzucha Ogra i zgładzisz te stworzenia will-o'-the-wyke?" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "Tak szybko wracasz, i to z pełnym sukcesem? Założę się, że te stworzenia will-o'-the-wyke nawet nie wiedziały, co je trafiło! Na Halone, jak dobrze, gdy coś się udaje!" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "Ach, wybacz ten wybuch. To był trudny tydzień... miesiąc... jakiś dłuższy czas. Jak oblężenie, choć żadnego nie ma... a człowiek nie może wiecznie żyć w przygnębiającym napięciu. Sukces, o którym mi donosisz, wiele dla mnie znaczy." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/054/KinGva199_05459",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "" }
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "Aby podjąć to zadanie, musisz najpierw spełnić następujące warunki:" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "1. FINAL FANTASY XIV: Dawntrail musi być zarejestrowane na twoim koncie usługi.<br>2. Musisz ukończyć zadanie „Lektura, która rzuca czar”." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "3. Musisz korzystać z klasy Ucznia Wojny lub Ucznia Magii na poziomie 100. lub wyższym. Profesje typu Ograniczony job są wykluczone." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "WiTaM, <if(gnum4,PoSzUkIwAcZkO pRzYgÓd,PoSzUkIwAcZu PrZyGóD)>! DzIęKuJę <if(gnum4,PaNi,PaNu)> Za PoMoC pRzY dOrYwCzYcH zLeCeNiAcH. nAzYwAm SiĘ mEmOlIvIa I zAjMuJę SiĘ zApIsYwAnIeM <if(gnum4,PaNi,PaNa)> WyPrAw." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "CzY mA <if(gnum4,PaNi,PaN)> DlA mNiE jAkĄś OpOwIeŚć?" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "ZaPiSuJę KaŻdE <if(gnum4,PaNi,PaNa)> SłOwO... uSuWaM zBęDnE sZcZeGóŁy." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "PoDrÓż Na KaRtY <italic(1)>The Merchant's Tale<italic(0)> ZoStAłA zApIsAnA! pRoSzĘ pRzEcZyTaĆ─gWaRaNtUjĘ, żE nIe Ma TaM aNi JeDnEgO bŁęDu!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "Skrócona do minimum wersja twojej relacji sporządzona przez Memolivię zawiera jedynie opisy najzacieklejszych walk." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "JeŚlI zEcHcE <if(gnum4,PaNi,PaN)> ZaPiSaĆ kOlEjNe PoDrÓżE, mOjE pIóRo JeSt W pOgOtOwIu!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "Możesz teraz wejść do <italic(1)>The Merchant's Tale<italic(0)> (Advanced)!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "Wariantowe lochy w wersji zaawansowanej nie obejmują eksploracji, a jedynie serię starć z bossami z odpowiadającego im lochu wariantowego." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "Kolejność bossów wybierają gracze. Z każdym bossem można walczyć wielokrotnie, aż do zwycięstwa." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "Dodatkowe informacje znajdziesz w lewym dolnym rogu okna V&C Dungeon Finder." }
   ]
 }

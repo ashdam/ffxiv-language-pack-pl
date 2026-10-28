@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz503_01838",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "" }
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "Niezadowolony moogle z Moghome z wyraźną dezaprobatą przygląda się liściowi moca." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "Niezadowolony moogle wyjaśnia, że liść moca ma swoje zalety, ale sam nie zbije gorączki przyjaciela. Do lekarstwa trzeba dodać garść lub trzy parzących łusek, świeżo ściętych ze skóry bestii Mists biast. Moogle wręcza ci Moglinoglewię do zeskrobania łusek z ogonów jaszczurów i wysyła cię w drogę." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "Udaje ci się pozbawić miejscowe Mists biast części łusek. Zanieś je niezadowolonemu moogle'owi w Moghome, by mógł przygotować lekarstwo na gorączkę przyjaciela." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "Niezadowolony moogle jest dość zadowolony z przyniesionych łusek. Od razu zaczyna warzyć lekarstwo, które obniży gorączkę przyjaciela. Błąkający się moogle z Moghome na pewno wkrótce stanie na łapki i znów ruszy na wędrówkę." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "Użyć Moglinoglewii, by zdobyć parzące łuski bestii Mists biast" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "Dostarczyć parzące łuski niezadowolonemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "Mam nadzieję, że przyjaciel szybko wyzdrowieje, kupo. Odwiedzę go w Moghome, gdy tylko złapię oddech... \\<chrapie>" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "Tak mi słabo, kupo... T-t-tak zimno..." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "Dzięki za liść moca, ale potrzeba czegoś więcej, by postawić przyjaciela na łapki. Liść przywróci mu siły, lecz tylko parzące łuski obniżą gorączkę, kupo." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "Zapytasz te bestie Mists biast, czy oddadzą nam, powiedzmy... trzy garście? Jeśli się nie zgodzą, zeskrob trochę tą Moglinoglewią─jest tak ostra, że nawet nie zauważą! Powodzenia, kupo!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "Użyj otrzymanej Moglinoglewii, by zeskrobać łuski z ogonów tutejszych bestii Mists biast. Trzy garście powinny wystarczyć, żeby postawić przyjaciela na łapki." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "Jak idą poszukiwania parzących łusek, kupo? Te bestie Mists biast raczej nie oddadzą ich z własnej woli. Ale zajdź je od tyłu i zeskrob trochę otrzymaną Moglinoglewią, a niczego nie zauważą!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "Dziękuję, kupo! Widywałem bardziej lśniące łuski, ale te muszą wystarczyć. Zmieszam je z liściem moca i uwarzę lekarstwo, które wkrótce przywróci blask pomponowi pacjenta!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/037/BanPix123_03711",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_SEQ_00", "hash": "52CDEADCE87518EE", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_00", "hash": "74FB078A0C968A5B", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_01", "hash": "F439D28FBA8F8127", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_001", "hash": "4655D7FB9C918C4D", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_002", "hash": "4976E2F3AF5664BE", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_003", "hash": "6B504BDA1E016E89", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_004", "hash": "FF208057BB7E6C03", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_005", "hash": "5D18DE5A011D1EFA", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_BALLOON_000_010", "hash": "9ADF6EEB825B9766", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_020", "hash": "43E7E8376122E0BA", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_021", "hash": "9BC823364E98BDED", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_022", "hash": "694CC061875BBA82", "target": "" }
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_SEQ_00", "hash": "52CDEADCE87518EE", "target": "Uin Nee zaprząta sobie głowę zaskakująco troskliwą myślą.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_00", "hash": "74FB078A0C968A5B", "target": "Poszukać grzybni olbrzymiego grzyba w Komnatach Ojca Collarda" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_01", "hash": "F439D28FBA8F8127", "target": "Dostarczyć grzybnię olbrzymiego grzyba Uin Nee" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_001", "hash": "4655D7FB9C918C4D", "target": "Powiedz, <if(gnum4,moja ulubiona śmiertelniczko,mój ulubiony śmiertelniku)>, czy zdarzyło ci się mieć kryjówkę? Dzieci śmiertelnych chyba je uwielbiają, więc myślę─czemu nie spróbować? Wyobraź sobie: chowam się w kłodzie na pięć dni i pięć nocy i nikt mnie nie znajduje. <italic(1)>Coś wspaniałego<italic(0)>! Potem dopada mnie nuda, więc wracam." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_002", "hash": "4976E2F3AF5664BE", "target": "W każdym razie podczas tej zabawy przychodzi mi do głowy, że dzieciom w Rak'tika Greatwood zazwyczaj nie wolno opuszczać wiosek. A to znaczy, że nie mogą budować kryjówek! Jasne, mogłyby się ukryć <italic(1)>w<italic(0)> wiosce, ale ktoś by je znalazł." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_003", "hash": "6B504BDA1E016E89", "target": "A jeśli inni mogą je znaleźć, to się nie liczy, prawda? Prawda!? Jeśli byle dorosły może się na nią natknąć, to nie kryjówka, tylko <italic(1)>smutek<italic(0)>." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_004", "hash": "FF208057BB7E6C03", "target": "Od razu zapada więc decyzja: stworzę we śnie idealną kryjówkę dla tych biednych maleństw. A co nadaje się lepiej od jednego z tych olbrzymich grzybów, w których mieszkają Nu Mou? Nic! Nic się lepiej nie nadaje. To było pytanie retoryczne." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_005", "hash": "5D18DE5A011D1EFA", "target": "Niestety w Komnatach Ojca Collarda aż roi się od wyjętych spod prawa, więc nie da się zebrać grzybni. Jeśli nic z tym nie zrobimy, mój genialny plan nigdy nie dojrzeje i... chyba już wiesz, dokąd to zmierza. Zrób to dla dzieci!" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_BALLOON_000_010", "hash": "9ADF6EEB825B9766", "target": "Stój! Kto śmie ruszać nasze grzyby?" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_020", "hash": "43E7E8376122E0BA", "target": "O, jesteś! Wiesz, po twoim wyjściu dociera do mnie, że zabrakło wyjaśnienia, jak odróżnić jedną grzybnię od drugiej. Mam nadzieję, że sobie z tym <if(gnum4,poradziłaś,poradziłeś)>!" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_021", "hash": "9BC823364E98BDED", "target": "Och, świetnie! Ależ z ciebie <if(gnum4,bystra śmiertelniczka,bystry śmiertelnik)>. Powinno się udać wyhodować z tego wielki grzyb, wrzucić go do snu i... voilà! Najlepsza kryjówka na świecie. Nawet nie musimy jej umieszczać w starej wilgotnej jaskini! Wyobraź sobie te możliwości..." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_022", "hash": "694CC061875BBA82", "target": "Chwila─nie muszę ich sobie wyobrażać! Mogę je stworzyć. Haha, fantastycznie!" }
   ]
 }

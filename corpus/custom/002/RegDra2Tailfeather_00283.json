@@ -2,14 +2,14 @@
   "conversation": "custom/002/RegDra2Tailfeather_00283",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_000", "hash": "6EDFDF904B27C3B4", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_Q1_000_000", "hash": "2124DD5880DCEB8F", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_001", "hash": "CEE0A33E6466E208", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_002", "hash": "3A0980AD4A3011F1", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_003", "hash": "2C08C2ABC19A30DE", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_010", "hash": "82D95A1348FFF9CF", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_011", "hash": "CC0D250EB7BCCA90", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_020", "hash": "64F0A093F621C31F", "target": "" },
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_021", "hash": "98AED9A0886C1516", "target": "" }
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_000", "hash": "6EDFDF904B27C3B4", "target": "Och, podróżujesz? Pozwól, że jako jedna z pierwszych powitam cię w osadzie Tailfeather!" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_Q1_000_000", "hash": "2124DD5880DCEB8F", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_001", "hash": "CEE0A33E6466E208", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_002", "hash": "3A0980AD4A3011F1", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_003", "hash": "2C08C2ABC19A30DE", "target": "Nic." },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_010", "hash": "82D95A1348FFF9CF", "target": "A na co to wygląda? Uczę się myślistwa, tak jak moi rodzice! Co prawda jeszcze nie <italic(1)>polowałam<italic(0)>, ale mam pełne ręce roboty, pomagając w obozie." },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_011", "hash": "CC0D250EB7BCCA90", "target": "Zdobywam sprzęt myśliwski, opiekuję się ptakami... Nawet teraz doglądam tego świeżo schwytanego chocobo. Inni myśliwi mówią też, że całkiem nieźle strzelam z łuku!" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_020", "hash": "64F0A093F621C31F", "target": "Myśliwi z całej okolicy urządzają w tym obozie swoją bazę. Jedni mają nadzieję dorobić się fortuny, inni nie mają nic lepszego do roboty. Można tu spotkać najróżniejszych ludzi─ani chwili nudy!" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_021", "hash": "98AED9A0886C1516", "target": "Ten las roi się od dzikich chocobo, a jeśli złapiesz dużego, kupcy z Ishgardu zapłacą za niego krocie w walucie gil! To właśnie ta ekscytacja pozwala nam działać mimo zagrożenia ze strony bestii typu bandersnatch i smoków." }
   ]
 }

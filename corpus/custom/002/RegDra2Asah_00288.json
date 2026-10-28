@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegDra2Asah_00288",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_000", "hash": "6C25AB9605D75CB2", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_Q1_000_000", "hash": "AB46718B6CF156DB", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_001", "hash": "9243177A967742D9", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_002", "hash": "9090E9BFDD1DAB02", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_003", "hash": "F7A43933B0829D57", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_010", "hash": "B5B757DB2BBDC95D", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_011", "hash": "152BD2E3920332E8", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_020", "hash": "3DCF5E3AE702DBA8", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_021", "hash": "0D3A622E4312F60E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_022", "hash": "5A13F7E5B306BDE6", "target": "" }
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_000", "hash": "6C25AB9605D75CB2", "target": "Jesteś z powierzchni? Z pewnością nie <if(gnum4,przybyłaś,przybyłeś)> tu dla kwiatów, kupo! Co więc sprowadza kogoś takiego jak ty do Asah?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_Q1_000_000", "hash": "AB46718B6CF156DB", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_001", "hash": "9243177A967742D9", "target": "Co tu robisz?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_002", "hash": "9090E9BFDD1DAB02", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_003", "hash": "F7A43933B0829D57", "target": "Nic." },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_010", "hash": "B5B757DB2BBDC95D", "target": "Jak to co? Pilnie strzegę Asah, kupo! Jeśli któryś z tych okrutnych smoków ośmieli się zaatakować tutejsze moogle'e, stanę do walki ze wszystkich sił!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_011", "hash": "152BD2E3920332E8", "target": "Wiem, co sobie myślisz: „To czemu fruwasz pośrodku mostu, z dala od niebezpieczeństwa, kupo?”. A ja odpowiem, że to najlepsze miejsce, bo mogę rzucić się do boju niezależnie od tego, z której strony zaatakują smoki!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_020", "hash": "3DCF5E3AE702DBA8", "target": "Moogle'e odpoczywają tu, dając wytchnienie zmęczonym skrzydłom. Widzisz, Asah leży dokładnie między osadą Moghome a pałacem Zenith, a nie można przecież oczekiwać, że ktoś pokona tak długą drogę w jeden dzień! To idealne miejsce na drzemkę albo kilka orzechów kupo!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_021", "hash": "0D3A622E4312F60E", "target": "Ale to nie dzieło moogli, bo wtedy pewnie byłby znacznie mniejszy. Ten most stoi tu od... Cóż, znacznie dłużej, niż potrafię sobie wyobrazić, kupo!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_022", "hash": "5A13F7E5B306BDE6", "target": "Kto go <italic(1)>zbudował<italic(0)>, pozostaje dla nas zagadką. Wielki smok Hraesvelgr żyje o wiele dłużej niż ktokolwiek z nas─na pewno wie wszystko o tym pradawnym miejscu!" }
   ]
 }

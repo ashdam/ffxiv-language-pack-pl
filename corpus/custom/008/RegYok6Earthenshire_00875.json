@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegYok6Earthenshire_00875",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_000", "hash": "B3ADF0FD5BBFCA80", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_001", "hash": "BCDE0FF3571FA94B", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_002", "hash": "F5AA2116CCD279C1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_Q1_000_000", "hash": "608EFBF2D6894D33", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_001", "hash": "74E445BF2AEECA8A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_002", "hash": "8B0D2B37C509300A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_003", "hash": "905B177062451780", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_010", "hash": "BBE30D7C8FD59EB7", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_011", "hash": "FF7F28598AA33DDC", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020", "hash": "59C8D9106B183898", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_021", "hash": "7151A536A51B1850", "target": "" }
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_000", "hash": "B3ADF0FD5BBFCA80", "target": "Pfff... Pfffkohhh... Radowitaj w Earthenshire! Jak Tarnotik może dać dłoniopomoc?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_001", "hash": "BCDE0FF3571FA94B", "target": "Tarnotik uszołapie, że ktoś bliski osobie z nizin dostał błyskokoronę Sługi Świtu. Czy osoba z nizin poleci Earthenshire nowej koronogłowie? Jeśli tak, Tarnotik wszystko <if(gnum4,przybyszce,przybyszowi)> o nim opowie!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_002", "hash": "F5AA2116CCD279C1", "target": "Pomocne dłonie i majstroręce pracują ramię w ramię! Garnkopakt trwa! Kolejny dzień w Earthenshire pełen sapania i dyszenia!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_Q1_000_000", "hash": "608EFBF2D6894D33", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_001", "hash": "74E445BF2AEECA8A", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_002", "hash": "8B0D2B37C509300A", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_003", "hash": "905B177062451780", "target": "Nic." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_010", "hash": "BBE30D7C8FD59EB7", "target": "Tarnotik jest pomocną dłonią. Pomocne dłonie dają majstrorękom dłoniopomoc we wszystkim, czego potrzeba, by wykonać zlecozadania z całym ich sprytokunsztem." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_011", "hash": "FF7F28598AA33DDC", "target": "Trzeba zapewnić majstrorękom idealne, wygodomiłe miejsce pracy... ale niezbyt wygodomiłe, bo inaczej majstroręce nie będą rękotworzyć! Trzeba znaleźć równowagę między nerwokojeniem a szturchopoganiactwem!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020", "hash": "59C8D9106B183898", "target": "Earthenshire to myślowytwór ludu Moblin, zbudowany glinokunsztem ludu Moblin. Teraz mieszkamy tu my, lud Moblin, i garnkoprzysięgli, którym dajemy dom oraz dłoniopomoc." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_021", "hash": "7151A536A51B1850", "target": "Garnkoprzysięgli to sami mistrzowie rzemiosła, a z naszą dłoniopomocą tworzą mnóstwo, mnóstwo arcydzieł. My za nasz wkład mamy mnóstwo, mnóstwo brzękobłysku!" }
   ]
 }

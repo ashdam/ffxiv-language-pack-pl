@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegYok6Okbekbe_00873",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_000", "hash": "040B1074B0521FF1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_001", "hash": "D1A3BD371603E649", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_002", "hash": "2A51E4560343FEBC", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_Q1_000_000", "hash": "C6A3D3EF5DB2DD50", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_001", "hash": "81F426E8538EBB78", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_002", "hash": "213343DF05FE3A45", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_003", "hash": "07DFF74B08C7794F", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_010", "hash": "96E50A2E4E6A094D", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_011", "hash": "595F02461D922949", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_020", "hash": "1DB7FA19B032C9B7", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_021", "hash": "C3029E60039321D2", "target": "" }
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_000", "hash": "040B1074B0521FF1", "target": "Wszyscy skupiają się na odbudowie, ale to nie znaczy, że zapominamy o gościnności. Jeśli więc chcesz zapytać o to miejsce, z przyjemnością odpowiem." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_001", "hash": "D1A3BD371603E649", "target": "Długo nie zapomnę Ihih'hana─chyba że następne święto będzie jeszcze lepsze, ha! Kupcy z bliska i daleka wciąż mówią o powrocie festiwalu, więc może tak właśnie będzie." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_002", "hash": "2A51E4560343FEBC", "target": "Teraz, gdy czuwają nad nami nowi Słudzy Świtu, spodziewam się w Kozama'uka jeszcze większego ruchu niż zwykle. Najlepsze dni Ok'bek'be dopiero nadejdą, możesz mieć pewność!" },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_Q1_000_000", "hash": "C6A3D3EF5DB2DD50", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_001", "hash": "81F426E8538EBB78", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_002", "hash": "213343DF05FE3A45", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_A1_000_003", "hash": "07DFF74B08C7794F", "target": "O nic." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_010", "hash": "96E50A2E4E6A094D", "target": "Moim zadaniem jest pokazywanie przybyszom i kupcom wszystkiego, co oferuje Ok'bek'be." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_011", "hash": "595F02461D922949", "target": "Osiedlili się tu ludzie z najdalszych stron. Niektórym jest tak dobrze, że już nigdy nie wyjeżdżają. Ty też możesz zostać, jak długo zechcesz!" },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_020", "hash": "1DB7FA19B032C9B7", "target": "Ok'bek'be znaczy „wioska wszystkich”. Przybywają tu ludzie nawet z Tuliyollal, by handlować towarami albo wykonywać pracę, do której mają zdolności." },
+    { "gameKey": "custom/008/RegYok6Okbekbe_00873#TEXT_REGYOK6OKBEKBE_00873_UUNUHANU_000_021", "hash": "C3029E60039321D2", "target": "Niektórzy tak lubią te lasy, że przenoszą się do jednej z wiosek Hanu. Rozumiem ich, bo nie ma nic lepszego niż życie przy kojących odgłosach natury." }
   ]
 }

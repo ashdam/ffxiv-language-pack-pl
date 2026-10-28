@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGzf001_05149",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "" }
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Uaauashe ma dla ciebie butelkę z rozpylaczem." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "Rozpylić wzmocniony środek owadobójczy we wskazanych miejscach" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "Porozmawiać z Uaauashe" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "Hej, znam cię! To z tobą Jej Wysokość zwiedzała farmy, prawda? Może teraz coś bardziej praktycznego?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "Przydzielono mi rolę sprzątaczki. Jednym z moich obowiązków jest okresowe rozpylanie środka owadobójczego." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "Proszę─zaznaczyłam na twojej mapie kilka miejsc wymagających oprysku. Weź ten wzmocniony środek owadobójczy i porządnie je spryskaj. Daj znać, kiedy skończysz, dobrze?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "Każde z tych miejsc trzeba dokładnie spryskać, żeby odstraszyć robactwo. Daj znać, kiedy skończysz!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "Witaj z powrotem! Dzięki za pomoc. Teraz przez jakiś czas nie musimy się martwić oglopami!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "Jako sprzątacze odpowiadamy za higienę, wywóz odpadów, recykling─a nawet utrzymanie terenu─wszystko po to, by nasze domy były wolne od bakterii." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "W przeciwieństwie do całkowicie sztucznego Everkeep tutaj, na obrzeżach, mamy <italic(1)>mnóstwo<italic(0)> robaków. Uwierz, jeśli im pozwolimy, od razu się wprowadzą." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "Najgorsze są oglopy. Przenoszą zarazki i choroby, więc trzeba je bezwzględnie tępić. Problem w tym, że są z natury przystosowane do przetrwania nawet w najcięższych warunkach. Trudno je zabić." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "Osobiście uważam je za całkiem urocze, ale jako sprzątacze mamy swoje obowiązki." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "Przy tym, jak szybko się rozmnażają, nigdy nie wytępimy ich całkowicie. Dzięki twojej pracy mamy jednak kilka miesięcy spokoju. Proszę─za dobrze wykonaną robotę." }
   ]
 }

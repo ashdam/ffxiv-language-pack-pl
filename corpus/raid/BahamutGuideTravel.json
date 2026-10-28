@@ -10,7 +10,7 @@
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_051", "hash": "7058C2FFC6C44C2C", "target": "Postępy w Binding Coil of Bahamut są zapisywane dla każdego gracza w określonych miejscach. Możesz wznowić wyprawę od miejsca jej przerwania." },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_052", "hash": "D401AA2AE3FF0694", "target": "Cotygodniowy reset postępów: <setresettime(17,2)><switch(t_wday,niedziela,poniedziałek,wtorek,środa,czwartek,piątek,sobota)> o <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23)>,0)>:00 (czas rzeczywisty)." },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_053", "hash": "9FE00BCF355627F9", "target": "Wejście do Binding Coil of Bahamut wymaga ośmioosobowej drużyny postaci klas bojowych lub magicznych na poziomie co najmniej 50." },
-    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_054", "hash": "688716937B4841BD", "target": "Wszyscy członkowie muszą też ukończyć zadanie „Primal Awakening”." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_054", "hash": "688716937B4841BD", "target": "Wszyscy członkowie muszą też ukończyć zadanie „Przebudzenie bożka”." },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_055", "hash": "2E68706775DCC93A", "target": "Punkt rozpoczęcia określają postępy przywódcy drużyny." },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_056", "hash": "9B5818A988DFEAE9", "target": "Mogą wziąć udział także członkowie drużyny, którzy nie dotarli tak daleko jak jej przywódca, o ile spełniają warunki wejścia." },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_0561", "hash": "DD6657A08D367FCA", "target": "W takim przypadku ich postępy zostaną zaktualizowane do poziomu przywódcy." },
@@ -21,8 +21,8 @@
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_Q2_000_100", "hash": "C62EFD0BF4E98021", "target": "Wejść do <sheet(InstanceContent,lnum1,3)>?" },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_101", "hash": "083638991315C44C", "target": "Tak" },
     { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_102", "hash": "021F1A148BF82037", "target": "Nie" },
-    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_110", "hash": "23694C0488557047", "target": "Nie udało się wejść do <sheet(InstanceContent,lnum2,3)>. Sprawdź, czy ty i twoja drużyna spełniacie wszystkie warunki." },
-    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_210", "hash": "164C9CE9B4A357D0", "target": "" },
-    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_211", "hash": "9A0B6A8D02D268DD", "target": "" }
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_110", "hash": "23694C0488557047", "target": "Nie udało się wejść do instancji <sheet(InstanceContent,lnum2,3)>. Sprawdź, czy ty i twoja drużyna spełniacie wszystkie warunki." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_210", "hash": "164C9CE9B4A357D0", "target": "Ukończono rajd The Binding Coil of Bahamut<br>(osiągnięto maksymalny postęp).<br>Kolejne podejście będzie możliwe po resecie." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_211", "hash": "9A0B6A8D02D268DD", "target": "Postęp resetuje się<br>co <setresettime(17,2)><switch(t_wday,niedzielę,poniedziałek,wtorek,środę,czwartek,piątek,sobotę)> o <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23)>,0)>:00 <if([t_hour>=12],czasu ziemskiego,czasu ziemskiego)>.<br>Przed kolejnym podejściem zaczekaj do resetu." }
   ]
 }

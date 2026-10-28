@@ -2,13 +2,13 @@
   "conversation": "quest/050/KinGyr106_05008",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "" }
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "No proszę, kogo my tu mamy? Zdawało mi się, że znam <if(gnum4,wszystkie wybitne rzemieślniczki i zbieraczki odwiedzające Solution Nine,wszystkich wybitnych rzemieślników i zbieraczy odwiedzających Solution Nine)>. Chcesz podpisać umowę, jak mniemam?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "Nie zaprzątaj sobie głowy szczegółami─zasady są bajecznie proste. Dostarczasz mi towary, a ja płacę ci za nie scrips. <if(gnum4,Taka fachowczyni,Taki fachowiec)> jak ty z pewnością potrafi rozpoznać lukratywną ofertę." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "Tak naprawdę to mieszkańcy Turalu pokazali mi zalety handlu za scrips. Ten system wprowadziła u nich kupczyni imieniem Rowena. Ale mniejsza o to." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "Za swój wkład otrzymasz sowitą zapłatę─oczywiście w scrips─a za zarobek kupisz dowolne towary, jakie wpadną ci w oko. Co ty na to?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "Wspaniale! Po prostu wspaniale. I nie martw się, nie będzie żadnych norm do wyrobienia. Dostarczaj towary, kiedy tylko dopadnie cię natchnienie!" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "Za piękną i dochodową współpracę! Już się cieszę na wspólne interesy." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "\\<wzdycha> <if(gnum4,Jak bardzo przydałaby mi się zdolna rzemieślniczka lub zbieraczka,Jak bardzo przydałby mi się zdolny rzemieślnik lub zbieracz)>... Jak teraz sprzedać te wszystkie towary?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 90. lub wyższym." }
   ]
 }

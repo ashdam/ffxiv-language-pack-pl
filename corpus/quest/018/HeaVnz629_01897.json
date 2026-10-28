@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz629_01897",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "" }
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "W oczach Pierriqueta migocze diabelski błysk." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "Pierriquet potrzebuje trzech pancerzy zoblynów i prosi cię o pomoc w ich zdobyciu. Zabij trzy pobliskie ice zoblyns i zbierz dla niego ich pancerze." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "Zbierasz pancerze, o które prosił Pierriquet. Zanieś mu je do Convictory i dowiedz się, co zamierza z nimi zrobić." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "Pierriquet jest zachwycony podarkiem w postaci pancerzy zoblynów. Zamierza zrobić z nich tanią amunicję, której zapasy łatwo uzupełnić, do starych, sfatygowanych armat, naprawianych przez niego w Obozie u Zbiegu Rzek." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "Pokonać ice zoblyns i zdobyć ich pancerze" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "Dostarczyć pancerze Pierriquetowi" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>, <if(gnum4,łaskawa pani,łaskawy panie)>. Jeśli łaska, czy mogę prosić o pomoc w pewnej sprawie?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "Byłbym wielce wdzięczny za przyniesienie pancerzy zoblynów. Są tu ice zoblyns─od nich można je zdobyć. Potrzebuję co najmniej trzech." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "Trzy pancerze wystarczą, <if(gnum4,łaskawa pani,łaskawy panie)>─jeśli tylko znajdzie się wolna chwila." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "Czy ma <if(gnum4,pani,pan)> te pancerze zoblynów?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "Och, doprawdy wspaniałe są te pancerze. Pięknie dziękuję." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "Otóż znalazłem stare armaty w Obozie u Zbiegu Rzek. Były w opłakanym stanie, ale je naprawiam... Rzecz jasna, nie mam do nich kul armatnich." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "Ale dla chcącego nic trudnego! Te pancerze zoblynów są twarde jak żelazo, a odpowiednio rozbite mają diabelnie ostre krawędzie. Myślę, że po wystrzeleniu z armaty posiekają smocze skrzydła na strzępy!" }
   ]
 }

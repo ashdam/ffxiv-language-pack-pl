@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz507_01842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "" }
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "Mognell ma guz na nosie i bzyczenie w uszach." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "Mognell dostrzegł rój ogromnych owadów, które zamierzają złożyć jaja pod jego punktem obserwacyjnym. Prosi o zabicie trzech expecting damselfly, by ich paskudne potomstwo nie opanowało The Churning Mists." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "Zabijasz trzy expecting damselfly. Wróć do Mognella na szczycie ruin Asah i powiadom go o sukcesie." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "Mognell z ulgą przyjmuje wieść o śmierci ważek. Wyjaśnia, że obce gatunki owadów często pojawiają się w The Churning Mists. Ich jaja przynoszą z dołu powracające smoki, w ziemi między pazurami. Następnym razem Mognell sam zajmie się intruzami... o ile nie zdoła namówić kogoś z przechodzących poszukiwaczy przygód, by wyręczył go w pracy." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "Pokonać wielkie złe robale w Czterech Ramionach" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "Zdać sprawę Mognellowi" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "Ostatnio w Czterech Ramionach latają wielkie złe robale─olbrzymie kolczaste paskudztwa, chyba pełne jaj. Jeśli coś się z nich wykluje, będziemy mieli kłopot! Pozbędziesz się ich dla mnie, kupo?" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "Próbowałem sam je rozgnieść, kupo, ale okazało się, że nie są małe i blisko, tylko wielkie i daleko. Został mi po tym tylko spuchnięty nos..." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "Wielkie złe robale już nie żyją, kupo? Bardzo ci dziękuję!" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "Gdy smoki latają do dolnego świata, często przynoszą jaja owadów albo nasiona duszących chwastów w ziemi między pazurami. A my musimy je potem usuwać. Ani trochę nie liczą się z innymi, kupo!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz520_01855",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "" }
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "Ten symulujący moogle wygląda na zupełnie wyczerpanego." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "Zatroskanego moogle'a osaczyła gromada ciekawskich dragonet. Zabij cztery, żeby dać mu chwilę wytchnienia." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "Dragonet nie żyją i nie będą już deptać moogle'owi po piętach. Zdaj relację symulującemu moogle'owi." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "Symulujący moogle z ulgą przyjmuje wiadomość, że wreszcie może przestać uciekać. Choć lubi być w centrum uwagi, dzikich zwierząt nie należy lekceważyć, zwłaszcza gdy jest ich wiele." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "Zabić dragonet" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "Zdać relację symulującemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "Długo już nie wytrzymam, kupo... Cały dzień macham skrzydłami, uciekając przed tymi nieznośnymi dragonet. Chyba fascynują je moogle'e, bo ciągle za mną latają!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "Wciąż ich przybywa─nie ma rady, trzeba trochę przerzedzić tę gromadę. Gdyby te smocze szczeniaki dostały porządnego łupnia, nauczyłyby się nie dręczyć biednego moogle'a, kupo!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "Długo już im nie pouciekam. Przepędź je dla mnie!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "Wreszcie te szkodniki dały mi spokój! Może następnym razem dragonet nie będą tak zuchwałe. Choć moogle'e są urocze─a <italic(1)>są<italic(0)>─dzikie zwierzęta nie mają prawa oblegać nas jak kawałka mięsa, kupo!" }
   ]
 }

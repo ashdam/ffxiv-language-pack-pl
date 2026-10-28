@@ -108,7 +108,7 @@
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_LUCIANE_000_96", "hash": "4338125EE6EAA450", "target": "Doskonaląc umiejętności w walce, proszę pamiętać, że zawsze z radością oczekujemy <if(gnum4,pani,pana)> powrotu." },
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_POP_MESSAGE", "hash": "EAB6926AD34E60FF", "target": "Wyczuwasz wrogą obecność!" },
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_QIB_TODO_001", "hash": "2E6DD1A830B726CD", "target": "Pokonaj kłusowników!" },
-    { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_TITLE", "hash": "783FCAAA35BF22B4", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„To Catch a Poacher”?" },
+    { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_TITLE", "hash": "783FCAAA35BF22B4", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Złapać kłusownika”?" },
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_YES", "hash": "DED434E5BE356843", "target": "Tak" },
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_NO", "hash": "F1888A9F372C9780", "target": "Nie" },
     { "gameKey": "quest/000/ClsArc004_00070#TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_01", "hash": "87D517D22B2C6D42", "target": "Za Pawah! Brać drani!" },

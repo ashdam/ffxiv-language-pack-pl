@@ -12,9 +12,9 @@
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_010", "hash": "B3FAFB86ADA7B4AB", "target": "Zatem to ty nosisz imię <split(<string(gstr1)>, ,1)>. Estrild mówiła, że przyjdziesz. Wspomniała, że pora spróbować drugiej gwiazdki." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_011", "hash": "3C2C1FB8000B1239", "target": "Wygląda na to, że bardzo cię polubiła. I słusznie. Estrild zawsze rozpływała się na widok <if(gnum4,silnych kobiet,silnych mężczyzn)>. Chyba trudno mieć jej to za złe." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_012", "hash": "E4683927B5F94594", "target": "Niech tak będzie. Dopilnuję, by dwugwiazdkowe zlecenia były dla ciebie dostępne. Pamiętaj jednak, że będą znacznie trudniejsze od znanych ci jednogwiazdkowych polowań. Przygotuj się." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "Dwugwiazdkowe zlecenia Veteran Clan mark bills są już dostępne." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Możesz teraz podejmować dwugwiazdkowe zlecenia Veteran Clan mark bills z tablic Clan Hunt board w Kugane i Rhalgr's Reach." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Po osiągnięciu poziomu 66 Estrild w Gospodzie Shiokaze udostępni nowe misje i trzygwiazdkowe zlecenia Veteran Clan mark bills." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "Dwugwiazdkowe listy gończe weteranów Klanu są już dostępne." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Możesz teraz podejmować dwugwiazdkowe listy gończe weteranów Klanu z tablic polowań klanu w Kugane i Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Po osiągnięciu poziomu 66 Estrild w Gospodzie Shiokaze udostępni nowe misje i trzygwiazdkowe listy gończe weteranów Klanu." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_015", "hash": "097C5B53E561D179", "target": "Sprawdź, czy klan nie przydzieli ci zleceń odpowiedniejszych dla twoich umiejętności. Gdy łowca rośnie w siłę, polowanie też musi być trudniejsze!" }
   ]
 }

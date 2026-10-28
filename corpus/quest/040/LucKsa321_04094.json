@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKsa321_04094",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "" }
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "Ostrze <split(<string(gstr1)>, ,2)>. Czy mogę prosić o chwilę rozmowy?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "<if(gnum4,Pani,Pana)> waleczne czyny na polu bitwy wciąż są wzorem dla wszystkich naszych żołnierzy. Po naradzie moi przełożeni poprosili, by przedstawić <if(gnum4,pani,panu)> najwyższe odznaczenia Ruchu Oporu." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "To odznaczenia przyznawane wyłącznie najwaleczniejszym żołnierzom. Spoczywa na nich błogosławieństwo, które chroni noszących je przed tymi, którzy pragną zguby Bozji." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "Niewielu ma dość męstwa, by ubiegać się o ocenę, ale wierzymy, że Ostrze <split(<string(gstr1)>, ,2)> może zasługiwać na ten najwyższy zaszczyt." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "Gracze, którym przyznano odznaczenia Ruchu Oporu, otrzymają zwiększone atrybuty podczas aktywności z serii Save the Queen." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "Aby otrzymać odznaczenia Ruchu Oporu, trzeba zgromadzić dużo męstwa. Pamiętaj też, że poza zwiększeniem atrybutów nie przyznaje się żadnych innych nagród." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "Poddać się ocenie w celu otrzymania odznaczeń Ruchu Oporu?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "Doskonale, Ostrze <split(<string(gstr1)>, ,2)>. Będziemy z wielkim zainteresowaniem obserwować <if(gnum4,pani,pana)> kolejne czyny na polu bitwy." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "Gdy uzna <if(gnum4,pani,pan)>, że nadszedł czas na otrzymanie odznaczeń, proszę do mnie przyjść. Odpowiednio ocenię <if(gnum4,pani,pana)> dokonania." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "Odblokowano odznaczenia Ruchu Oporu. Istnieją trzy ich rodzaje, z których każdy zwiększa określone atrybuty postaci." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "Aby otrzymać odznaczenia Ruchu Oporu, najpierw zgromadź dość męstwa i porozmawiaj z radcą Ruchu Oporu, aby otrzymać Dowody męstwa. Można je następnie wymienić na wybrane odznaczenia. W każdej chwili możesz zapytać radcę Ruchu Oporu o szczegóły dotyczące odznaczeń." }
   ]
 }

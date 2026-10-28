@@ -14,7 +14,7 @@
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_01", "hash": "17794C69A9E3BD31", "target": "Porozmawiać z Hildibrand na Steps of Nald" },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_02", "hash": "074D8444F8EE3A68", "target": "Porozmawiać z postacią Hildibrand" },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_03", "hash": "DBC64D344941AB54", "target": "Porozmawiać z Nashu Mhakaracca" },
-    { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_04", "hash": "9184E21689BE465A", "target": "Zniszczyć podejrzane skrzynie przy użyciu Nashu's Delight" },
+    { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_04", "hash": "9184E21689BE465A", "target": "Zniszczyć podejrzane skrzynie przy użyciu rozkoszy Nashu" },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_TODO_05", "hash": "2878D1070B06D8F8", "target": "Porozmawiać z postacią Hildibrand" },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_WYMOND_000_000", "hash": "6FD9A343C19D92EC", "target": "Cóż, <split(<string(gstr1)>, ,1)>, możesz równie dobrze ruszyć za nim. Jeśli tego nie zrobisz, będzie rozczarowany." },
     { "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_WYMOND_000_001", "hash": "05C849A9A045CC48", "target": "Ta dama nazywa się Yellow Moon. Lubi w życiu luksus. Możesz bezpiecznie założyć, że niemal codziennie przymierza coś w Gildii Tkaczy. Powodzenia w śledztwie, <if(gnum4,inspektorko,inspektorze)>." },

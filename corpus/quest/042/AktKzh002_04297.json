@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzh002_04297",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_SEQ_00", "hash": "E7F721C5EF576919", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_00", "hash": "9545ADF4CC1E6542", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_01", "hash": "423620FB4886C976", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_000", "hash": "352C36610D6DF3A2", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_001", "hash": "1E39CED82D6C8FD2", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_002", "hash": "4D3217B8DCBAF353", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_003", "hash": "EA55613A448C08EE", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_005", "hash": "CAAAE61C7A563E80", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_006", "hash": "314E4AF989BEB633", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_007", "hash": "A314E02A700F072A", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_008", "hash": "5FBBCA145B1C41D8", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_009", "hash": "854AD05AE6C2FCCB", "target": "" }
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_SEQ_00", "hash": "E7F721C5EF576919", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Ekscentryczna twórczyni ma prośbę do chowańca Azem." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_00", "hash": "9545ADF4CC1E6542", "target": "Schwytać niespokojne rośliny cienką eteryczną liną" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_01", "hash": "423620FB4886C976", "target": "Dostarczyć związane rośliny ekscentrycznej twórczyni" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_000", "hash": "352C36610D6DF3A2", "target": "Ty jesteś zapewne chowańcem Azem. Miałam prośbę do tutejszych obserwatorów, ale skoro wszyscy są bardzo zajęci, może poproszę ciebie." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_001", "hash": "1E39CED82D6C8FD2", "target": "Eksperymentuję z krzyżowaniem różnych roślin. Byłam zachwycona, gdy wreszcie uzyskałam zupełnie nowy gatunek... aż do chwili, kiedy rośliny uniosły się i odleciały." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_002", "hash": "4D3217B8DCBAF353", "target": "Ostatnio widziałam je, gdy kierowały się ku wschodniej części wyspy. Zdołałam schwytać całkiem sporo, ale wciąż brakuje około ośmiu. Pomożesz mi je złapać?" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_003", "hash": "EA55613A448C08EE", "target": "Dziękuję. Masz, użyj tej eterycznej liny, żeby schwytać, powiedzmy, cztery, a ja postaram się zająć resztą." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_005", "hash": "CAAAE61C7A563E80", "target": "Udało ci się schwytać rośliny?" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_006", "hash": "314E4AF989BEB633", "target": "Całe szczęście, choć po chowańcu Azem nie spodziewałabym się niczego innego. Złapałam też swoją połowę, więc wszystkie wróciły całe i zdrowe." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_007", "hash": "A314E02A700F072A", "target": "Pochodzą po części od stworzeń yggdreant. Nic dziwnego, że odziedziczyły oczy, ale ich samodzielna ucieczka była raczej nieoczekiwana." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_008", "hash": "5FBBCA145B1C41D8", "target": "Prawdę mówiąc, nigdy nie miałam dla nich konkretnego zastosowania. Chyba pora nad tym pomyśleć... Biuro Architekta nie zachwyci się moim nowym tworem, jeśli niczemu nie będzie służył." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_009", "hash": "854AD05AE6C2FCCB", "target": "Wobec tego czekają mnie badania. Dziękuję za pomoc i przekaż pozdrowienia Azem." }
   ]
 }

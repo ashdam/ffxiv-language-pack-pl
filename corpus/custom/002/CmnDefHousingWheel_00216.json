@@ -2,9 +2,9 @@
   "conversation": "custom/002/CmnDefHousingWheel_00216",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE", "hash": "E093E802280AB42D", "target": "" },
-    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_SETUP_WHEEL", "hash": "D911A4350C4624DF", "target": "" },
-    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CONVERT_ENERGY", "hash": "8F01E818B1C3407C", "target": "" },
-    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CANCEL", "hash": "30B0113DCBD94586", "target": "" }
+    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE", "hash": "E093E802280AB42D", "target": "Wolne: <num(lnum1)> | Ładowane: <num(lnum2)> | Gotowe: <num(lnum3)><br>Co chcesz zrobić?" },
+    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_SETUP_WHEEL", "hash": "D911A4350C4624DF", "target": "Umieść lub usuń koło eteryczne." },
+    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CONVERT_ENERGY", "hash": "8F01E818B1C3407C", "target": "Przekształć naładowane koło eteryczne." },
+    { "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CANCEL", "hash": "30B0113DCBD94586", "target": "Nic." }
   ]
 }

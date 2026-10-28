@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz321_01813",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_00", "hash": "FBCBD9BA00F967E7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_01", "hash": "547E9EF799402CC9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_02", "hash": "A99352427B4FECF8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_03", "hash": "DC3FF87CA7DE26B9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_TODO_00", "hash": "4D08AA140A43A8FF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_TODO_01", "hash": "E4F54B280EC86353", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_000", "hash": "988CB90B720BA74B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_001", "hash": "C2982ADD4B03A276", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_010", "hash": "3699319662C4BF88", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_020", "hash": "B475FEEB57473741", "target": "" },
-    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_021", "hash": "EA133ABAEC47F618", "target": "" }
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_00", "hash": "FBCBD9BA00F967E7", "target": "Coś bardzo niepokoi Ess Khasa." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_01", "hash": "547E9EF799402CC9", "target": "Mourn, miejsce wiecznego spoczynku smoków, roi się od bestii niegodnych jego świętych komnat. Ess Khas prosi o zabicie pięciu spośród szalejących tam tyrannosaur, vinegaroon i syricta, aby zmniejszyć ich liczebność." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_02", "hash": "A99352427B4FECF8", "target": "Zabijasz bestie szalejące w jaskini. Wróć do Anyx Trine i porozmawiaj z Ess Khasem." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_SEQ_03", "hash": "DC3FF87CA7DE26B9", "target": "Ess Khas z radością słucha, że komnaty Mourn zaznają choć krótkiego spokoju. Wyjaśnia, że pomniejsze smoki zbierają się na wojnę, ściągając do jaskini rozmaite bestie. Tylko najpodlejsze stworzenia mogłyby zbezcześcić takie miejsce. Dziękuje ci za udział w oczyszczeniu jaskini z intruzów." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_TODO_00", "hash": "4D08AA140A43A8FF", "target": "Zabić wrogów w Mourn" },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_TODO_01", "hash": "E4F54B280EC86353", "target": "Zdać raport Ess Khasowi" },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_000", "hash": "988CB90B720BA74B", "target": "Mourn, miejsce wiecznego spoczynku smoków, kala robactwo. Trzeba je usunąć." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_001", "hash": "C2982ADD4B03A276", "target": "Tyrannosaur, vinegaroon, syricta, to bez znaczenia. Zabij pięć bestii i przetrzeb ich szeregi." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_010", "hash": "3699319662C4BF88", "target": "Robactwo plugawiące Mourn trzeba wytępić. Zabij pięć bestii, obojętnie których." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_020", "hash": "B475FEEB57473741", "target": "Dziękuję za pomoc. Robactwo zaczęło się zbierać, by odpowiedzieć na wezwanie wojny." },
+    { "gameKey": "quest/018/HeaVnz321_01813#TEXT_HEAVNZ321_01813_ESSKHAS_000_021", "hash": "EA133ABAEC47F618", "target": "Lecz Mourn to miejsce spoczynku. Nie wolno im kalać tych świętych komnat." }
   ]
 }

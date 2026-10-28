@@ -2,19 +2,19 @@
   "conversation": "quest/015/GaiUsx704_01553",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_00", "hash": "AF661B1D4240A678", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_01", "hash": "05CF930EF5FE71ED", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_02", "hash": "790F8F352DBAF50D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_TODO_00", "hash": "1550C356A28581C4", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SYSTEM_100_000", "hash": "AAB2D0CEA2D2FEE6", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_000", "hash": "72CE2AD66D6BBCAD", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_001", "hash": "9476EF81C1302F7D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_002", "hash": "FD27E09510495C0D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_003", "hash": "E94D4C037721CDC0", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_004", "hash": "A7880F0E69BCE63B", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_005", "hash": "38FE703399E20CDB", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_020", "hash": "B4FA1FDA381A2D90", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_021", "hash": "C2BE4377B6E4A6DB", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_022", "hash": "337BC3E696713F6E", "target": "" }
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_00", "hash": "AF661B1D4240A678", "target": "Wigstan prosi o pomoc we wprowadzeniu swojego planu w życie." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_01", "hash": "05CF930EF5FE71ED", "target": "Wigstan szuka wsparcia plemienia U w powstrzymaniu zagrożenia ze strony Amalj'aa. Obawia się jednak, że nunh wysłucha jedynie kogoś o wiele silniejszego od niego. Udaj się do osady Forgotten Springs i poproś U'odha Nunha o pomoc." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_02", "hash": "790F8F352DBAF50D", "target": "U'odh Nunh wysłuchał twojej prośby. Choć sam nie jest przeciwny planowi, wątpi, by reszta plemienia równie chętnie podjęła współpracę." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_TODO_00", "hash": "1550C356A28581C4", "target": "Porozmawiać z U'odhem Nunhem w osadzie Forgotten Springs" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SYSTEM_100_000", "hash": "AAB2D0CEA2D2FEE6", "target": "Aby przyjąć to zadanie, musisz porzucić obecne. Otwórz odpowiedni wpis w dzienniku lub na liście zadań i wybierz „Abandon”." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_000", "hash": "72CE2AD66D6BBCAD", "target": "Moi drodzy przyjaciele, A'aba i Aulie, przybyli do Dziedziców z gorącym pragnieniem wyzwolenia tej krainy z ciemności─pragnieniem, na które nigdy nie umiałem się zdobyć. Walczyli dzielnie i honorowo... aż nie mogli już walczyć." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_001", "hash": "9476EF81C1302F7D", "target": "Ja nigdy niewiele znaczyłem na polu bitwy. Pragnąłem tylko uczcić poległych towarzyszy─prowadzić dalej ich walkę─ale jak?" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_002", "hash": "FD27E09510495C0D", "target": "Pewnego dnia zrozumiałem. Może marnie radzę sobie w boju, ale umysł mam dość bystry. Postanowiłem opracować plan działania i pozyskać zdolnych sojuszników dla naszej sprawy." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_003", "hash": "E94D4C037721CDC0", "target": "Jedno jest dla mnie jasne─nie możemy dać się rozpraszać plemionom zwierzoludzi, gdy na horyzoncie zbierają się jeszcze groźniejsze chmury. Musimy znaleźć silnych, wiernych sojuszników, którzy powstrzymają to zagrożenie." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_004", "hash": "A7880F0E69BCE63B", "target": "Zna <if(gnum4,pani,pan)> może plemię U? To groźni łowcy i łowczynie. Jestem przekonany, że byliby bezcennymi sojusznikami w walce z Amalj'aa, gdyby tylko udało się ich przekonać." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_005", "hash": "38FE703399E20CDB", "target": "Plemię U szanuje przede wszystkim siłę─obawiam się, że prędzej by mnie wypatroszyli, niż wysłuchali. Ale gdyby przemówiła do nich tak silna osoba jak <italic(1)><if(gnum4,pani,pan)><italic(0)>, wysłuchaliby jej─jestem pewien. Proszę więc o podróż do osady Forgotten Springs i rozmowę z U'odhem Nunhem w moim imieniu." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_020", "hash": "B4FA1FDA381A2D90", "target": "Wraca <if(gnum4,pogromczyni,pogromca)> Tytana. Czegoś chce od plemienia U, tak? Czego szukasz?" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_021", "hash": "C2BE4377B6E4A6DB", "target": "Chcesz więc, byśmy przyłączyli się do walki z Amalj'aa. Hmf. Plemię U nie przepada za jaszczuroludźmi, to prawda. Ale toczy tylko własne bitwy." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_022", "hash": "337BC3E696713F6E", "target": "...Tak powiedzą moi ludzie. Ja nie wzbraniam się przed pomocą, ale znam cię lepiej niż oni." }
   ]
 }

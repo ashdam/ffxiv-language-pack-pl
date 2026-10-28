@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz319_02715",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_SEQ_00", "hash": "C3DEEC70A17F8572", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_00", "hash": "B0D1B2D4477DF3FE", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_01", "hash": "08302C1DE6854AE8", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_000", "hash": "A9052D7A0A42619E", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_001", "hash": "7E5928FA80C0DA2E", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_002", "hash": "B336FA5CE0B49F86", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_003", "hash": "0E5D0968866E60E2", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_004", "hash": "E8A71559521EBBFD", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_010", "hash": "4467C8170D27D7DF", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_011", "hash": "4B1B3F270DE71B96", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_012", "hash": "0AE21669BEFAFFE9", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_013", "hash": "2F05D4E5C6389BC7", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_014", "hash": "0D9C8B3DB02D16D9", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_015", "hash": "4E030C383286213F", "target": "" }
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_SEQ_00", "hash": "C3DEEC70A17F8572", "target": "Motogoe chce wysłać cię na wyprawę." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_00", "hash": "B0D1B2D4477DF3FE", "target": "Zdobyć kamień błogosławieństwa" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_01", "hash": "08302C1DE6854AE8", "target": "Dostarczyć kamień błogosławieństwa do Motogoe" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_000", "hash": "A9052D7A0A42619E", "target": "Ach! Czyż to nie <if(gnum4,poszukiwaczka przygód,poszukiwacz przygód)>! Co <if(gnum4,pani,pan)> powie na poszukiwanie skarbów?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_001", "hash": "7E5928FA80C0DA2E", "target": "To, czego szukam, występuje tylko na odległych wyspach. Większość rozsądnych ludzi ich unika, bo roi się tam od strasznych bestii. Ale takie wyzwanie chyba <if(gnum4,panią,pana)> ucieszy." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_002", "hash": "B336FA5CE0B49F86", "target": "Proszę udać się na Wyspę Bekko. Jedyni, którzy śmią postawić tam stopę, to nieliczni Błękitni Kojin, wychodzący z okolicznego morza i wracający do niego." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_003", "hash": "0E5D0968866E60E2", "target": "Można tam znaleźć tak zwane kamienie błogosławieństwa. Są okrągłe, białe i lekko ciepłe w dotyku. Czy mogę prosić o przyniesienie jednego?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_004", "hash": "E8A71559521EBBFD", "target": "Kamienie błogosławieństwa są na Wyspie Bekko─na południowy wschód stąd. Proszę mi przynieść jeden." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_010", "hash": "4467C8170D27D7DF", "target": "Ach! Czy ten powrót oznacza, że otrzymam swój kamień błogosławieństwa?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_011", "hash": "4B1B3F270DE71B96", "target": "Taki duży, ciepły i gładki. Byłaby z niego doskonała poduszka! ...Oczywiście nie zamierzam go tak używać!" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_012", "hash": "0AE21669BEFAFFE9", "target": "Widzi <if(gnum4,pani,pan)>, kamienie błogosławieństwa to... dary pozostawiane przez morskie ptaki. Znajduje się je tylko na odludziu, bo te płochliwe stworzenia wolą trzymać się z daleka od ludzi." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_013", "hash": "2F05D4E5C6389BC7", "target": "Hm? Co rozumiem przez „dary”? Buahahaha! To oczywiście ptasie gówno! ...Mam nadzieję, że w ruch poszły rękawiczki!" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_014", "hash": "0D9C8B3DB02D16D9", "target": "Brakuje nam nawozu. Gdy zmielimy to na drobny proszek, powinno wystarczyć na wszystkie pola. Te kamienie nie tylko dają nam obfite plony, ale też utrzymują nas przy życiu w sezonach kiepskich połowów, gdy sprzedajemy je w Namai." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_015", "hash": "4E030C383286213F", "target": "Stąd nazwa: kamienie błogosławieństwa. To jeden z wielu darów morza. Proszę, oto zapłata. Dziękuję za pomoc!" }
   ]
 }

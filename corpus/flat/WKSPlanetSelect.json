@@ -1,0 +1,10 @@
+{
+  "sheet": "WKSPlanetSelect",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "WKSPlanetSelect#0", "hash": "7D5E83854C338CA9", "target": "Ten otoczony licznymi kraterami obszar o stabilnych warunkach środowiskowych wybrano na siedzibę kwitnącej dziś bazy Moongate Hub. Po zbudowaniu własnego kosmoportu baza naprawdę stała się bramą ku gwiazdom i jeszcze dalej." },
+    { "gameKey": "WKSPlanetSelect#1", "hash": "8310BF9DC359DC4A", "target": "Kolejny wielki skok projektu w kosmos prowadzi na planetę o olśniewającym krystalicznym krajobrazie, naturalnie bogatą w krzem. Choć warunki na powierzchni nie sprzyjają życiu organicznemu, obfite złoża minerałów są nagrodą wartą wszelkich ewentualnych trudów." },
+    { "gameKey": "WKSPlanetSelect#2", "hash": "9E91B549D71FEC59", "target": "Ta bogata w minerały planeta, po raz pierwszy dostrzeżona przez Stellascope, znajduje się pięć i pół marchewki od układu gwiezdnego Etheirys. Oizys nękają anomalie grawitacyjne, które powoli rozrywają jej powierzchnię. Strzaskane skały unoszą się nad osobliwymi ruinami, najwyraźniej pozostawionymi przez dawno zaginioną cywilizację." },
+    { "gameKey": "WKSPlanetSelect#3", "hash": "1DDB7AF05E4203B9", "target": "Odkryta dzięki mapie nawigacyjnej Euhedronu, ta gęsto zalesiona planeta kryje zarośnięte pozostałości niezliczonych miast. Choć kręte trakty i zdobne iglice na planecie Auxesii spowija dziś cisza, jej budowniczowie najwyraźniej potrafili dokonywać wspaniałych osiągnięć technicznych." }
+  ]
+}

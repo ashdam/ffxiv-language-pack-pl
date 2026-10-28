@@ -2,17 +2,17 @@
   "conversation": "quest/051/KinGzd107_05106",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_003", "hash": "6EFA6AA1105A8858", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_006", "hash": "4DC919C7AD8D8CEE", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_007", "hash": "38E245ACEE68C6BF", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "" }
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kiishel Ja brakuje rąk do pracy i chętnie skorzysta z twoich." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Za pomocą młotka Kiishel Ja zdobyć odłamki lazurowego kryształu" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Dostarczyć Kiishel Ja jej młotek i odłamki lazurowego kryształu" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "Wyglądasz na kogoś, komu niestraszna odrobina pracy fizycznej." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "Potrzebujemy lazurowych kryształów z Cenoty Neyozzote, ale nasi stali pomocnicy zajmują się teraz reformą miasta." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "Cokolwiek miasto postanowi, nadal musimy uprawiać najool. Pożyczę ci młotek. Będę bardzo wdzięczna, jeśli odłupiesz dla mnie dwa kawałki lazurowego kryształu." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_003", "hash": "6EFA6AA1105A8858", "target": "Potrzebne kryształy znajdziesz przy drzewach żywego światła. I nawet nie <italic(1)>myśl<italic(0)> o zgubieniu mojego młotka. Jest więcej wart niż ty." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "Masz kryształy? Poproszę też z powrotem mój młotek." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "Doskonale. Wrzucamy te kryształy do zbiornika, by wzmocnić energię wody, dzięki czemu najool rosną słodsze." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_006", "hash": "4DC919C7AD8D8CEE", "target": "Przy okazji taka woda sprawia, że skórki mocniej świecą. Może to wpływ drzewa żywego światła." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_007", "hash": "38E245ACEE68C6BF", "target": "Świecące skórki potrafią budzić niepokój przybyszów, ale są nieszkodliwe. Jemy najool od stuleci i nigdy nam nie zaszkodziły." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "Zresztą liczy się wnętrze, a nie wygląd. A skoro niewiele innego mamy do jedzenia, moje najool powinny być tak smaczne, jak to tylko możliwe." }
   ]
 }

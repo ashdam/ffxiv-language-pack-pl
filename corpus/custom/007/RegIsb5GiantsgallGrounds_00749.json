@@ -2,19 +2,19 @@
   "conversation": "custom/007/RegIsb5GiantsgallGrounds_00749",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_000", "hash": "A2D8A88C750239DB", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_Q1_000_000", "hash": "328FAD15089DF481", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_001", "hash": "F3408E447FFFC4AE", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_002", "hash": "4AAAE6CB8F180D74", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_003", "hash": "7449CFA33DA8BB1E", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_010", "hash": "B3591C1E95027FB7", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_011", "hash": "410005FB25CEEE43", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_020", "hash": "2EB5F5ACCFDA31FA", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_021", "hash": "C0B952415EFA3D07", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_022", "hash": "F3CD755FB17A9D5D", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_023", "hash": "436F7665E6166FF9", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_024", "hash": "B18095E2DB353177", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_025", "hash": "DD9F31BC6F010EFB", "target": "" },
-    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_026", "hash": "70788319D8C7BF06", "target": "" }
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_000", "hash": "A2D8A88C750239DB", "target": "Coś mi mówi, że nie chodzi ci o zakup rudy giantsgall... Szkoda. O co więc chodzi?" },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_Q1_000_000", "hash": "328FAD15089DF481", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_001", "hash": "F3408E447FFFC4AE", "target": "Kim jesteś?" },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_002", "hash": "4AAAE6CB8F180D74", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_003", "hash": "7449CFA33DA8BB1E", "target": "O nic." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_010", "hash": "B3591C1E95027FB7", "target": "Pracuję tu w kamieniołomie jako kamieniarz, tak jak wcześniej mój ojciec." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_011", "hash": "410005FB25CEEE43", "target": "To niebezpieczna praca, ale jestem dumny, że dostarczamy na Thavnair słynną rudę giantsgall najwyższej jakości." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_020", "hash": "2EB5F5ACCFDA31FA", "target": "Jak zapewne się domyślasz, właśnie tu wydobywamy rudę giantsgall. Jest wytrzymała i przewodzi eter jak żaden inny kamień, więc świetnie nadaje się do wyrobu pancerzy i broni." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_021", "hash": "C0B952415EFA3D07", "target": "Po ciekawsze widoki można by się wybrać do Wylęgarni Hamsa, ale te koszmary z wieży ją zniszczyły. Pewnie to tylko kwestia czasu, nim to samo spotka nas..." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_022", "hash": "F3CD755FB17A9D5D", "target": "Po ciekawsze widoki można by się wybrać do Wylęgarni Hamsa, ale te koszmary z wieży ją zniszczyły. Chwała bogom, że ta przeklęta iglica zniknęła..." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_023", "hash": "436F7665E6166FF9", "target": "My, kamieniarze, ryzykujemy życie, by dostarczać ją Promienistemu Zastępowi, ale kto inny miałby to robić? Jeśli Thavnair ma przetrwać, każdy musi wnieść swój wkład." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_024", "hash": "B18095E2DB353177", "target": "Pilna potrzeba może już minęła, ale my, kamieniarze, nadal mamy pracę do wykonania. Czym byłby Thavnair, gdyby nie handlowano tu rudą giantsgall?" },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_025", "hash": "DD9F31BC6F010EFB", "target": "Niestety wstrzymano pracę w kamieniołomie, bo widziano kulę ognia pędzącą w stronę skały Khadga. Dopóki nie będzie bezpiecznie, nikt nie może wrócić do środka." },
+    { "gameKey": "custom/007/RegIsb5GiantsgallGrounds_00749#TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_026", "hash": "70788319D8C7BF06", "target": "Mimo trudności my, kamieniarze, nie poddajemy się. Wciąż mamy przecież pracę do wykonania. Czym byłby Thavnair, gdyby nie handlowano tu rudą giantsgall?" }
   ]
 }

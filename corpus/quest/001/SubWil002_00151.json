@@ -2,16 +2,16 @@
   "conversation": "quest/001/SubWil002_00151",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "" }
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "Didilata potrzebuje pomocy w spłacie mocno przeterminowanego długu." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "Aby spłacić dług, Didilata jest gotów sprzedać obrączkę zmarłej matki, mimo jej ogromnej wartości sentymentalnej. Zanieś obrączkę do Ossuarium Arrzaneth i poproś Mamane o wycenę." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "Mamane chłodno oznajmia, że obrączka jest fałszywa, po czym żąda opłaty za wycenę. Zgadza się jednak ten jeden raz z niej zrezygnować, a nawet za darmo „pozbyć się” obrączki─co zwalnia cię z długu wobec Ossuarium, ale w niczym nie pomaga Didilacie." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "Zanieść obrączkę Mamane do wyceny" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "Słuchaj, nie m-m-mam pieniędzy pod ręką, ale mam tę obrączkę!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "N-n-nie wygląda na wiele, ale na pewno dostanę za nią dobrą cenę. To obrączka mojej świętej pamięci mamy, n-n-niech bogowie mają ją w opiece. Ale zrozumie!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "Pokaż ją Mamane, tam w Ossuarium, a d-d-dostaniesz pieniądze!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "Witam. Co sprowadza <if(gnum4,panią,pana)> do Ossuarium Arrzaneth?" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "Chce <if(gnum4,pani,pan)> sprzedać tę pamiątkę w imieniu niejakiego Didilaty? Dobrze. To bardzo przykre, gdy trzeba uciekać się do tak drastycznych środków..." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "...a jeszcze bardziej, gdy ów przedmiot jest <italic(1)>fałszywy<italic(0)>. I do tego tak tandetnie i nieudolnie wykonany! Wie <if(gnum4,pani,pan)> też <italic(1)>chyba<italic(0)>, że nasze wyceny nie są darmowe? Zwykle odliczamy opłatę od uzgodnionej wartości." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "Niestety, zważywszy na znikomą wartość tej obrączki, obawiam się, że pozostałby dług wobec nas. Jednak z racji dość niezwykłych okoliczności ten jeden raz zrezygnujemy z opłaty. Proszę nie zaprzątać sobie głowy błyskotką─osobiście dopilnuję jej usunięcia." }
   ]
 }

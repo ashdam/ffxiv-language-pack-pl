@@ -2,15 +2,15 @@
   "conversation": "custom/005/CtsDkbCharacter3Sub2_00577",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000", "hash": "1A4D6FCB8EF4A5CF", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_050", "hash": "359D0032FC6FE625", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_100", "hash": "EE3727E6AEE9BFA8", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_150", "hash": "D2A182D38C79B83F", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_200", "hash": "DB9B7388DB796359", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_220", "hash": "6A712B34001CC7B5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_250", "hash": "5E5393AD175E6BF7", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_300", "hash": "27D87262921D19E1", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_320", "hash": "A2C54F9DBBB3D186", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_350", "hash": "202E265C112EC94A", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000", "hash": "1A4D6FCB8EF4A5CF", "target": "Biedactwo. Ledwie może oddychać. Z naszej strony otrzymał wszelką możliwą pomoc, lecz bez antidotum... Proszę się pospieszyć." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_050", "hash": "359D0032FC6FE625", "target": "Antidotum jest już podane. Teraz możemy tylko czekać." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_100", "hash": "EE3727E6AEE9BFA8", "target": "Trucizna została usunięta z jego organizmu. Aż strach myśleć, co by się stało, gdyby nie <if(gnum4,pani,pana)> obecność." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_150", "hash": "D2A182D38C79B83F", "target": "Skip wraca do zdrowia szybciej, niż można było mieć nadzieję. Proszę spojrzeć, już samodzielnie stoi." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_200", "hash": "DB9B7388DB796359", "target": "Odwiedza <if(gnum4,pani,pan)> Skipa? Ostatnio jest w świetnym nastroju." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_220", "hash": "6A712B34001CC7B5", "target": "Skip niemal całkowicie wyzdrowiał i wszystko wskazuje na to, że dopisuje mu humor. A kiedy go <if(gnum4,pani,pan)> odwiedza, wydaje się jeszcze weselszy." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_250", "hash": "5E5393AD175E6BF7", "target": "Dotarła do mnie wieść, że zamierza <if(gnum4,pani,pan)> zabrać Skipa do Wolekdorf, ale jak <if(gnum4,pani,pan)> widzi, nadal tu jest. Czy Bethric zmienił zdanie?" },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_300", "hash": "27D87262921D19E1", "target": "Znam opowieści o stworzeniach amaro mówiących naszym językiem, ale żeby jedno z nich znalazło się tu, w naszych stajniach..." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_320", "hash": "A2C54F9DBBB3D186", "target": "Dobrze, że Skip może własnymi słowami wyrazić swoje pragnienia." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_350", "hash": "202E265C112EC94A", "target": "W imieniu wszystkich w Temenos Rookery dziękuję <if(gnum4,pani,panu)>. <if(gnum4,Zrobiła pani,Zrobił pan)> dla nas i dla stworzeń amaro więcej, niż można sobie wyobrazić." }
   ]
 }

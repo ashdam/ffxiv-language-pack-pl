@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz927_01992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_00", "hash": "EA747AC758CD7D95", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_01", "hash": "2D103955BC0FDC8F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_03", "hash": "6CC3E2FAF50D6EB7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_00", "hash": "0CEB1F2ACF6C60FB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000", "hash": "3764FC0A786AC2E0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001", "hash": "D326A57194CB0FCD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010", "hash": "725CE5084C147C8D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020", "hash": "3FAFCF05ABB2C4A1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_021", "hash": "8A81146CABA9D4DF", "target": "" }
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_00", "hash": "EA747AC758CD7D95", "target": "Allagański węzeł ulepszeń wydaje się wzburzony." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_01", "hash": "2D103955BC0FDC8F", "target": "Allagański węzeł ulepszeń informuje cię, że kilka smoków uciekło z eksperymentu. Prosi o zabicie wszystkich trzech ulepszonych drapieżników, by usunąć stwarzane przez nie skrajne zagrożenie." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "Likwidujesz zbiegłe okazy. Pozostaje tylko powiadomić węzeł ulepszeń." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_03", "hash": "6CC3E2FAF50D6EB7", "target": "Węzeł ulepszający dziękuje ci za rozprawienie się ze smokami i wyjaśnia, że przeanalizuje incydent, próbując zapobiec jego powtórzeniu." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_00", "hash": "0CEB1F2ACF6C60FB", "target": "Zabić bestie merdragon we wskazanych miejscach" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "Zdać relację węzłowi ulepszeń" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000", "hash": "3764FC0A786AC2E0", "target": "Odbieranie pilnej prośby o pomoc z działu bezpieczeństwa...\\<bzzzzzzz>...katastrofalna awaria...\\<bzzzzzzz>...eksperyment kontroli zachowania smoków." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001", "hash": "D326A57194CB0FCD", "target": "Liczne bestie merdragon uciekły z izolacji i...\\<bzzzzzzz>...nakaz natychmiastowej likwidacji wszystkich trzech obiektów, by uniknąć możliwego... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010", "hash": "725CE5084C147C8D", "target": "\\<bzzzzzzz> ...nakaz natychmiastowej likwidacji wszystkich obiektów, by uniknąć...\\<bzzzzzzz>...zdarzenia. Powtórzenie transmisji. Katastrofalna awaria... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020", "hash": "3FAFCF05ABB2C4A1", "target": "Potwierdzono neutralizację obiektów. Imperium Allagańskie dziękuje za wkład." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_021", "hash": "8A81146CABA9D4DF", "target": "Wstępna ocena wskazuje, że ucieczkę obiektów testowych spowodował podwyższony poziom agresji wywołany w ramach procedur testowych. Zostanie przeprowadzony kompleksowy przegląd, by zapobiec podobnym zdarzeniom w przyszłości i wesprzeć placówkę testowo-badawczą w jej niestrudzonych wysiłkach na rzecz... \\<bzzzzzzz>" }
   ]
 }

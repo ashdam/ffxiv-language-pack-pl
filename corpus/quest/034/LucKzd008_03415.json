@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzd008_03415",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_SEQ_00", "hash": "A54644C3E0660A62", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_00", "hash": "541C28B1489836CF", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_01", "hash": "4584B65075376B43", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_000", "hash": "2101F3A68E2EB812", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_001", "hash": "ACCD91B45C171077", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_002", "hash": "AA5CD538386F8A1A", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_010", "hash": "C4E366E7B8781F08", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_011", "hash": "EBB930C2C32C3119", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_012", "hash": "8A031A49F66CB2AD", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_013", "hash": "40DBA82880037C73", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_014", "hash": "963C61538A6E3EA6", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_015", "hash": "FBA1E0F7229F29E8", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_016", "hash": "FAFE837F9DED3924", "target": "" }
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_SEQ_00", "hash": "A54644C3E0660A62", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Cicho mówiący Nu Mou ma prośbę do podróżnika." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_00", "hash": "541C28B1489836CF", "target": "Położyć wypolerowany miecz przed liściarzem w pobliżu Lyhe Ghiah" },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_01", "hash": "4584B65075376B43", "target": "Zdać sprawę cicho mówiącemu Nu Mou" },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_000", "hash": "2101F3A68E2EB812", "target": "Mam dla <if(gnum4,pani,pana)> zadanie, jeśli zechce się <if(gnum4,pani,pan)> go podjąć." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_001", "hash": "ACCD91B45C171077", "target": "Przy brzegu wyspy, nad którą wznosi się Lyhe Ghiah, stoi liściarz. Proszę położyć przed nim ten miecz. W zamian dam <if(gnum4,pani,panu)> należytą nagrodę." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_002", "hash": "AA5CD538386F8A1A", "target": "Na wyspie, nad którą wznosi się Lyhe Ghiah, stoi liściarz. Proszę położyć przed nim miecz." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_010", "hash": "C4E366E7B8781F08", "target": "Miecz jest już na miejscu? Dziękuję." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_011", "hash": "EBB930C2C32C3119", "target": "Gdyby <if(gnum4,panią,pana)> to ciekawiło, ten liściarz był kiedyś rycerzem Voeburtu. Dzielną duszą, która została bronić zamku przed pożeraczami grzechów, gdy inni uciekali." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_012", "hash": "8A031A49F66CB2AD", "target": "Choć walczył mężnie, ostatecznie zraniło go stworzenie zdolne przemieniać innych. Nim jednak stał się potworem, pixie zmieniła go w liściarza." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_013", "hash": "40DBA82880037C73", "target": "Choć pixie bywają bezduszne, rozumieją chęć obrony własnego domu. Dlatego ulitowały się nad rycerzem i oszczędziły mu losu gorszego od śmierci." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_014", "hash": "963C61538A6E3EA6", "target": "Ja też tam byłem. Lecz strach mnie sparaliżował i mogłem jedynie patrzeć. Ze wstydu przysiągłem rycerzowi, że pewnego dnia znajdę sposób, by go uleczyć." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_015", "hash": "FBA1E0F7229F29E8", "target": "Dopóki ten dzień nie nadejdzie, dbam o jego miecz, aby zawsze był gotowy do ponownego użycia." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_016", "hash": "FAFE837F9DED3924", "target": "Owszem, mogłem równie łatwo sam odnieść miecz. Chciałem jednak, żeby <if(gnum4,pani poznała,pan poznał)> historię rycerza i jego poświęcenia. Myślę też, że ucieszyłoby go towarzystwo innego śmiertelnika." }
   ]
 }

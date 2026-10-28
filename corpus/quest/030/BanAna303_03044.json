@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna303_03044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_SEQ_00", "hash": "BD2E948674FEC5A9", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_00", "hash": "435621C3F9E06743", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_01", "hash": "C067F4E1748774C0", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_000", "hash": "F5EBA79F6EAD1C4B", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_001", "hash": "E23A769E29F520ED", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_002", "hash": "F226D1E23161C9B7", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_003", "hash": "815C184F84D6F30D", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_010", "hash": "C1A52FE3A62C8657", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_011", "hash": "D454AB030D5AF8B9", "target": "" }
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_SEQ_00", "hash": "BD2E948674FEC5A9", "target": "Kolejne zadanie Eshany nie jest dla osób o słabych żołądkach.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_00", "hash": "435621C3F9E06743", "target": "Zbadać wskazane miejsce i pokonać wszystkie ślimaki, które się pojawią" },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_01", "hash": "C067F4E1748774C0", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_000", "hash": "F5EBA79F6EAD1C4B", "target": "Jak dobrze cię widzieć, <if(gnum4,przyjaciółko,przyjacielu)>." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_001", "hash": "E23A769E29F520ED", "target": "Nasi zwiadowcy mieli ostatnio pecha natknąć się na potwornego ślimaka w pobliżu Mrocznego Lasu. Ten odrażający wygląd i żrący śluz─aż chce się wymiotować." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_002", "hash": "F226D1E23161C9B7", "target": "Trzeba się go pozbyć, lecz ze wstydem przyznaję, że straż nie radzi sobie z takimi przeciwnikami. Większość dostaje konwulsji na sam ich widok. A tym, które zdołają podejść bliżej, kwaśna ślina zostawia nieusuwalne blizny." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_003", "hash": "815C184F84D6F30D", "target": "Proszę, błagam cię─udaj się do Mrocznego Lasu i uwolnij nas od tej plagi." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_010", "hash": "C1A52FE3A62C8657", "target": "Już po wszystkim? Ślimak nie żyje?" },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_011", "hash": "D454AB030D5AF8B9", "target": "Z całego serca ci dziękuję. Jeśli straż natknie się na kolejnego, możesz mieć pewność, że znów cię wezwiemy. " }
   ]
 }

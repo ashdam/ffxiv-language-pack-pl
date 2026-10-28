@@ -2,9 +2,9 @@
   "conversation": "custom/004/FesXms2017Mount_00439",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "" }
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "Jak z pewnością <if(gnum4,pani zauważyła,pan zauważył)>, Święto Gwiezdnego Blasku trwa w najlepsze. Czy zechce <if(gnum4,pani,pan)> dołączyć do zabawy? Amh Garanjy szuka w Gridanii kolejnych małych pomocników!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "Obezwładnienie drzewców i odzyskanie skradzionych ozdób może <if(gnum4,pani,pan)> zostawić nam. Wystarczy dosiąść wierzchowca <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> i zafundować tym złodziejom akcję Starburst prosto w twarz!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "Czy zechce <if(gnum4,pani,pan)> zapolować na kolejne drzewce kradnące ozdoby? Wierzchowiec <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> już czeka!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "Czy dosiąść wierzchowca <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)>?" }
   ]
 }

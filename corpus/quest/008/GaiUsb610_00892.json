@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb610_00892",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_00", "hash": "F3E65D3039A5392A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_01", "hash": "3A2D15B4A954F560", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_02", "hash": "C9DFBDD72A5E4148", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_03", "hash": "E1396207C628E7F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_00", "hash": "01A65175CBD7659A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_01", "hash": "5C265CE408DFD5AD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_000", "hash": "C7B059835C4C8C11", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_001", "hash": "263E0E616D20DD04", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_002", "hash": "CFCA93B9974F3BC0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_020", "hash": "E5A3B8B8C57F3BB8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_021", "hash": "92F35C3218F998F2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_022", "hash": "CD313728285F4175", "target": "" }
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_00", "hash": "F3E65D3039A5392A", "target": "Prairillot potrzebuje twojej przysługi, a wywołane tym rozdrażnienie niemal wystarcza za zapłatę." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_01", "hash": "3A2D15B4A954F560", "target": "Gdy bezlitosne zimno smaga Forty Niebiańskiego Ognia, Prairillot z irytacją odkrywa, że nie ma wolnych ludzi do zbierania opału i musi skorzystać z pomocy kogoś, kto szuka przygód. Twoim zadaniem jest zebranie ośmiu wiązek drewna na opał w okolicy fortów." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_02", "hash": "C9DFBDD72A5E4148", "target": "Masz osiem wiązek drewna na opał, suchych i gotowych do pieca. Trzeba je dostarczyć strażnikowi Stephannot na zachodnim wzgórzu, zanim on i jego ludzie zamarzną." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_03", "hash": "E1396207C628E7F7", "target": "Podziękowania strażnika Stephannot brzmią wymuszenie, mimo wyraźnej ulgi z powodu dodatkowego opału na zabójczy nocny chłód. Wielu tutejszych nie ufa obcym i nie lubi poszukiwaczy przygód, co czyni twój pobyt w Coerthas niezbyt spokojnym." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_00", "hash": "01A65175CBD7659A", "target": "Zebrać wiązki drewna na opał w okolicy Fortów Niebiańskiego Ognia" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_01", "hash": "5C265CE408DFD5AD", "target": "Przekazać drewno na opał strażnikowi Stephannot" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_000", "hash": "C7B059835C4C8C11", "target": "Mierzi mnie proszenie o pomoc poszukiwaczy przygód, ale nie mogę opuścić fortu, nie teraz... niech to szlag!" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_001", "hash": "263E0E616D20DD04", "target": "Chętnie nam usłużysz, prawda? Pilnie potrzebujemy drewna na opał, a pomagając nam, możesz wiele zyskać." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_002", "hash": "CFCA93B9974F3BC0", "target": "W okolicy Fortów Niebiańskiego Ognia drewna na opał nigdy nie brakuje. Zbierz osiem wiązek i dostarcz je strażnikowi Stephannot na zachodnim wzgórzu." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_020", "hash": "E5A3B8B8C57F3BB8", "target": "Ileż można czekać, ty mazgaju o bladej gębie! ...Drewno na opał? Kto ci kazał przynosić opał, szczeniaku!? Co z nowymi zapasami z Obozu Smoczy Łeb? I stój prosto, kiedy do ciebie mówię!" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_021", "hash": "92F35C3218F998F2", "target": "Do licha, wziąłem cię za kogoś innego. Jakiś czas temu wysłałem rekruta po zaopatrzenie. Przybywasz aż tutaj, by przynieść więcej opału? Dziękuję ci." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_022", "hash": "CD313728285F4175", "target": "Nie szukamy wygody, rozumiesz, tylko ocalenia życia. Zimno jest zbyt bezlitosne, by długo wytrzymać bez ognia. Dziękuję za przysługę, ale w Coerthas nie ma miejsca dla tych, którym brak dyscypliny i wiary. Zginiesz, a przy okazji być może zagrozisz krucjacie." }
   ]
 }

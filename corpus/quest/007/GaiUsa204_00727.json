@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa204_00727",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "" }
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "Ianna z Buscarron's Druthers prosi o zabicie w jej zastępstwie groźnych bestii." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "Antylopy słyną ze spokoju, ale stada wędrujące po ziemiach na południe od Buscarron's Druthers są ostatnio coraz bardziej agresywne. Ianna twierdzi jednak, że polanie ich zupą z jaj krogulca pozbawia je sił. Udaj się na południe od gospody i z pomocą otrzymanej zupy zabij jedną scarred antelope." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "Agresywna bestia nie żyje. Powiadom Iannę o sukcesie." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "Ianna jest wdzięczna za pomoc w obronie jej drugiego domu. Masz w tych stronach kolejną przyjaciółkę." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "Użyć zupy z jaj krogulca na scarred antelope i ją zabić" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "Zdać raport Iannie" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "Wygląda <if(gnum4,pani,pan)> na kogoś dzielnego. Czy mogę prosić o wykonanie zadania?" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "Niedawno dzieliłam dzban z kupczynią z Ul'dah, która opowiadała o niebezpieczeństwach na szlaku. Najgorsza była podobno sroga bestia, która omal nie rozpruła jej rogami, gdy już sądziła, że dotarła w bezpieczne objęcia lasu." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "Co to za bestia? Trudno uwierzyć, ale... antylopa! Tak, sama nie wierzyłam własnym uszom, lecz najwyraźniej wyjątkowo złośliwa odmiana krąży ostatnio na południe od gospody. Można je poznać po bliznach po zaciekłych walkach z ludźmi i innymi zwierzętami." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "Ach, jeszcze jedno. Oto świeża miska zupy z jaj krogulca, która pomoże w walce. Może to śmieszne, ale zawarte w niej przyprawy odbierają siły tym roślinożernym bestiom. Proszę uważać i nie dać się zwieść ich łagodnym oczom─inaczej następne wypite piwo wypłynie przez niezliczone dziury w ciele." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "Dla poszukiwaczy przygód, kupców i robotników, którzy przychodzą tu na dobre piwo i po miłe towarzystwo, gospoda jest jak drugi dom─a dla niektórych nieszczęśników nawet jedyny." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "Głupotą byłoby nie korzystać z ochrony Leśnych Płaczków i Kołczanu Bogów, ale obrona własnego domu daje szczególną satysfakcję. Ta pomoc napawa nas dziś dumą." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "Pędzi na ciebie wściekły, rogaty koszmar!" }
   ]
 }

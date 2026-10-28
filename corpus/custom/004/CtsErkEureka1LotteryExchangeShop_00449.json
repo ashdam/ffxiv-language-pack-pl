@@ -2,16 +2,16 @@
   "conversation": "custom/004/CtsErkEureka1LotteryExchangeShop_00449",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_000", "hash": "212CA062555EFFF3", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_110_000", "hash": "4AEC159ADFAC89C5", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_000", "hash": "02663E3E75783BCA", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_Q1_000_000", "hash": "3FB8F94BF49BADE4", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_001", "hash": "59CEAA56B5EE1A42", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_002", "hash": "2CFAA2BDA0809339", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_003", "hash": "90F5A7263B65E8C8", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_010", "hash": "9C4AC0FDB09545F2", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_010", "hash": "7BD8A525D37FE4AB", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_011", "hash": "AD2AA1E5C96BE9FC", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_012", "hash": "9ADDAA0EE2F53EFC", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_000", "hash": "212CA062555EFFF3", "target": "Głupio zrobiłam, zaciągając się na firmowy statek płynący na drugi koniec świata. Niełatwo będzie się tu utrzymać..." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_110_000", "hash": "4AEC159ADFAC89C5", "target": "Należysz do drugiej wyprawy? Ja też! Okazało się, że Hancock jednak miał dla mnie pracę. Z nawiązką starczy mi na jedzenie i jeszcze zostanie na odwiedzanie Kogane Dori kilka razy w tygodniu!" },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_000", "hash": "02663E3E75783BCA", "target": "To ciebie wezwano jako „złotą rączkę”, tak? Obawiam się, że na razie nie mogę pomóc. Jeszcze porządkuję własne sprawy..." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_Q1_000_000", "hash": "3FB8F94BF49BADE4", "target": "Co zrobisz?" },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_001", "hash": "59CEAA56B5EE1A42", "target": "Otworzyć skrzynki." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_002", "hash": "2CFAA2BDA0809339", "target": "Zapytać o skrzynki." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_003", "hash": "90F5A7263B65E8C8", "target": "Nic." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_010", "hash": "9C4AC0FDB09545F2", "target": "Hę. Dziwne pytanie. To skrzynki z zamkami. Jeśli chcesz dobrać się do zawartości, przynieś je do mnie, a ci je otworzę." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_010", "hash": "7BD8A525D37FE4AB", "target": "Krótko mówiąc, jeśli podczas eksploracji Eureki znajdziesz jakieś zamknięte skrzynki, mam narzędzia i umiejętności, by je otworzyć. Wystarczy poprosić." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_011", "hash": "AD2AA1E5C96BE9FC", "target": "Skrzynki znalezione w krainie The Forbidden Land, Eureka, mogą otworzyć włamywaczki wyprawy w obozach albo R'ghonati w Kugane." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_012", "hash": "9ADDAA0EE2F53EFC", "target": "Skrzynki mogą zawierać różne przedmioty, w tym wierzchowce, maskotki i materię." }
   ]
 }

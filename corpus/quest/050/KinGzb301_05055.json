@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb301_05055",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_SEQ_00", "hash": "685955D447EE8228", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Murfurlur patrzy na ciebie z mieszaniną czci i niepewności." },
+    { "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_SEQ_00", "hash": "685955D447EE8228", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Murfurlur patrzy na ciebie z mieszaniną czci i niepewności." },
     { "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_SEQ_01", "hash": "3F9BEE8F637BB6E7", "target": "Murfurlur słyszał o twoim zwycięstwie nad Niebiańską Zagładą, lecz nie pojmuje, jak ktoś tak mały zdołał pokonać legendarnego vidraala. Prosi więc o pokaz umiejętności. Podobno na drodze do Shades of Grief wielkie potwory zagrażają podróżnym. Powinny być odpowiednim wyzwaniem. Murfurlur prosi, by spotkać się z nim na miejscu po przygotowaniach.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
     { "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_SEQ_02", "hash": "36C9A237B4AB53BD", "target": "Przed twoim przybyciem jedna z bestii atakuje Murfurlura, lecz ten bez trudu ją pokonuje. Druga ucieka na południowy zachód. Yok Huy powierza ci jej wytropienie." },
     { "gameKey": "quest/050/KinGzb301_05055#TEXT_KINGZB301_05055_SEQ_03", "hash": "C9966D4048DADE29", "target": "Huallepen nie ma szans w starciu z twoją potęgą. Oby Murfurlur wyniósł naukę z tego pokazu siły." },

@@ -2,17 +2,17 @@
   "conversation": "quest/040/LucKsa311_04092",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_003", "hash": "6D761EE4EB2EB909", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_004", "hash": "82E292E9C06F0568", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_010", "hash": "97C13AAFF76FF954", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_011", "hash": "91C95D6BEA16E99A", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_012", "hash": "77DDFEB2EC9446B9", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_030", "hash": "01E68A9F26F722DD", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_031", "hash": "FE07091CE6417939", "target": "" }
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "Dmitar ma dobre wieści z pola bitwy." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Porozmawiać z Dmitarem na Południowym Płaskowyżu" },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "Aby kontynuować to zadanie, musisz osiągnąć rangę Ruchu Oporu <num(lnum1)>." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "Ostrze <split(<string(gstr1)>, ,2)>! Dobrze <if(gnum4,panią,pana)> widzieć. Jak zawsze wieści o <if(gnum4,pani,pana)> zasługach dla ruchu oporu docierają tu wcześniej. Właśnie otrzymaliśmy wiadomość, że bariera nad naszą nową placówką jest gotowa." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "Wreszcie możemy przesunąć linię frontu naprzód. Bez <if(gnum4,pani,pana)> pomocy i wsparcia Kuźni byłoby to niemożliwe." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_003", "hash": "6D761EE4EB2EB909", "target": "Jeśli możemy ruszać, mam <if(gnum4,panią,pana)> zaprowadzić do naszego najnowszego obozu." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_004", "hash": "82E292E9C06F0568", "target": "Gorąco zalecam też zestrojenie się z tutejszym eterytem, jeśli jeszcze to nie nastąpiło. Proszę za mną, obóz leży dokładnie na zachód stąd." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_010", "hash": "97C13AAFF76FF954", "target": "Wszystkie niezbędne obiekty są już na miejscu, w tym eteryt ułatwiający podróżowanie." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_011", "hash": "91C95D6BEA16E99A", "target": "Bajsaljen zamierza zająć jeszcze jedną placówkę, by dalej przesuwać linię frontu. Oczywiście zapewne znów trzeba będzie zabezpieczyć prądy eteru do zasilania kolejnej bariery ochronnej." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_012", "hash": "77DDFEB2EC9446B9", "target": "Mimo to, mając <if(gnum4,panią,pana)> u boku, wierzę, że ruch oporu ostatecznie zwycięży." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_030", "hash": "01E68A9F26F722DD", "target": "Linia frontu ruchu oporu przesuwa się naprzód. Możesz teraz uczestniczyć w nowych potyczkach i krytycznych starciach." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_031", "hash": "FE07091CE6417939", "target": "Kolejne zadanie możesz przyjąć od Mikoto po osiągnięciu rangi Ruchu Oporu <num(lnum1)> lub wyższej." }
   ]
 }

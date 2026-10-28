@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz402_01820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_00", "hash": "569D5F3454BBB53B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_01", "hash": "8BC760C29BAA607F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_02", "hash": "2FD0620BA40B9F48", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_03", "hash": "8E0AEF695E118422", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_00", "hash": "E482F9B3CD7CC020", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_01", "hash": "7C50D7F5F04A0E61", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_000", "hash": "64F68F7792FBE123", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_001", "hash": "81BD5181E224D7EC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_010", "hash": "C1B7AA4E3A7C3A64", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_020", "hash": "C2D70BE80026E11A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_021", "hash": "8F5C113A7917350C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_00", "hash": "569D5F3454BBB53B", "target": "Mogmug gorączkowo fruwa w poszukiwaniu kogoś, kto spełni jego zachcianki." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_01", "hash": "8BC760C29BAA607F", "target": "Mogmug prosi najnowszą osobę w swoim fanklubie─czyli ciebie─o zebranie czterech pnączy sankchinni. Udaj się na północ od Moghome i zbierz pnącza." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_02", "hash": "2FD0620BA40B9F48", "target": "Sankchinni łatwo padają. Zbierz ich pnącza i wróć do Mogmuga." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_03", "hash": "8E0AEF695E118422", "target": "Mogmug jest zadowolony z twojego posłuszeństwa. Chce zrobić z pnączy harfę, którą oczaruje gości święta plonów, powiększając jeszcze armię wielbicieli." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_00", "hash": "E482F9B3CD7CC020", "target": "Zabić sankchinni i zebrać ich pnącza" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_01", "hash": "7C50D7F5F04A0E61", "target": "Dostarczyć pnącza Mogmugowi" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_000", "hash": "64F68F7792FBE123", "target": "...Och! Znowu przyciąga cię moja urzekająca aura! Wielbicieli nigdy za wielu... Wiesz, mam zadanie w sam raz dla nowego członka fanklubu, kupo!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_001", "hash": "81BD5181E224D7EC", "target": "Potrzebuję czterech pnączy sankchinni żyjących na północ od Moghome. Ktoś, kto tak gorąco mnie podziwia, na pewno nie odmówi!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_010", "hash": "C1B7AA4E3A7C3A64", "target": "Nie śmiem pobrudzić tak starannie wypielęgnowanego futerka. Przynieś cztery pnącza sankchinni, a będę dozgonnie wdzięczny!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_020", "hash": "C2D70BE80026E11A", "target": "<if(gnum4,Moja wierna słu─to znaczy <italic(1)>wielbicielka<italic(0)> wróciła,Mój wierny słu─to znaczy <italic(1)>wielbiciel<italic(0)> wrócił)>! Sankchinni sprawiały kłopot, kupo?" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_021", "hash": "8F5C113A7917350C", "target": "Wspaniale! Cudownie! Te piękne pnącza <italic(1)>niemal<italic(0)> przyprawiają mnie o zazdrość. Zrobię z nich najdźwięczniejszą harfę w Moghome! Moogle'e w promieniu wielu malmów zachwycą się moim występem na święcie plonów. Przyjdź i wiwatuj z moimi cudownymi wielbicielami, kupo!" }
   ]
 }

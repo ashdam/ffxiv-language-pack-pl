@@ -2,11 +2,11 @@
   "conversation": "shop/LotteryExchangeShopMycTemporaryItem",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_TITLE", "hash": "C49EA3D02D3EB6C6", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_NOITEM", "hash": "08FD2A8EE0CD1514", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_TITLE", "hash": "396493F138A86AFF", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_NEXT", "hash": "162D136E79DF3279", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_SINGLE", "hash": "1F50E90A8817B6E5", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_MULTI", "hash": "C0FA4C5B75CB9C48", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_TITLE", "hash": "C49EA3D02D3EB6C6", "target": "Ocena forgotten fragments" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_NOITEM", "hash": "08FD2A8EE0CD1514", "target": "Brak elementów do wyświetlenia." },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_TITLE", "hash": "396493F138A86AFF", "target": "Wyniki" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_NEXT", "hash": "162D136E79DF3279", "target": "Dalej" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_SINGLE", "hash": "1F50E90A8817B6E5", "target": "Ocenić przedmiot: <ennoun(Item,3,lnum1,1,1)>?<br><br>Pozostało (<head(<ennoun(Item,3,lnum1,2,1)>)>): <num(lnum3)><br>Pozostałe próby: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_MULTI", "hash": "C0FA4C5B75CB9C48", "target": "Ocenić przedmiot o nazwie „<ennoun(Item,3,lnum1,1,1)>” ×<num(lnum4)>?<br><br>Pozostało (<head(<ennoun(Item,3,lnum1,2,1)>)>): <num(lnum3)><br>Pozostałe próby: <num(lnum2)>" }
   ]
 }

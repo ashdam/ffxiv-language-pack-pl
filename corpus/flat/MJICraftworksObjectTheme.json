@@ -1,0 +1,22 @@
+{
+  "sheet": "MJICraftworksObjectTheme",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "MJICraftworksObjectTheme#1", "hash": "3AD977B87E11D6FD", "target": "Żywność o długiej trwałości" },
+    { "gameKey": "MJICraftworksObjectTheme#2", "hash": "87774365CC7F2D67", "target": "Odzież" },
+    { "gameKey": "MJICraftworksObjectTheme#3", "hash": "BBDEB2C47C8C3412", "target": "Żywność" },
+    { "gameKey": "MJICraftworksObjectTheme#4", "hash": "389B8DE3AA388718", "target": "Słodycze" },
+    { "gameKey": "MJICraftworksObjectTheme#5", "hash": "D430D06679CCBB89", "target": "Artykuły codziennego użytku" },
+    { "gameKey": "MJICraftworksObjectTheme#6", "hash": "55CB23E7B630BBD2", "target": "Wyposażenie wnętrz" },
+    { "gameKey": "MJICraftworksObjectTheme#7", "hash": "3AAABC468318505F", "target": "Broń" },
+    { "gameKey": "MJICraftworksObjectTheme#8", "hash": "E603D58E90A71BCF", "target": "Mikstury" },
+    { "gameKey": "MJICraftworksObjectTheme#9", "hash": "42CF278806F0ED86", "target": "Składniki" },
+    { "gameKey": "MJICraftworksObjectTheme#10", "hash": "570C56F2672B40B8", "target": "Akcesoria" },
+    { "gameKey": "MJICraftworksObjectTheme#11", "hash": "02A1E0F92E923F54", "target": "Wyroby metalowe" },
+    { "gameKey": "MJICraftworksObjectTheme#12", "hash": "C938570616ADD7C6", "target": "Wyroby drewniane" },
+    { "gameKey": "MJICraftworksObjectTheme#13", "hash": "DA54371B2423EC7C", "target": "Tekstylia" },
+    { "gameKey": "MJICraftworksObjectTheme#14", "hash": "DB2F6CB3469F8C5D", "target": "Wyroby zwierzęce" },
+    { "gameKey": "MJICraftworksObjectTheme#15", "hash": "02D62F10740771AB", "target": "Produkty morskie" },
+    { "gameKey": "MJICraftworksObjectTheme#16", "hash": "565CDE13C496C83C", "target": "Wydobyte skarby" }
+  ]
+}

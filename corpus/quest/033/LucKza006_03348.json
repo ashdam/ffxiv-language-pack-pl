@@ -2,18 +2,18 @@
   "conversation": "quest/033/LucKza006_03348",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "" }
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Przenikliwa rzemieślniczka otwarcie ci się przygląda." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "Pokazać przenikliwej rzemieślniczce gest /battlestance" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "Pokazać przenikliwej rzemieślniczce gest /box" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "Proszę wybaczyć to przyglądanie się─nie mogłam nie zauważyć, że ma <if(gnum4,pani,pan)> postawę kogoś wyszkolonego w walce. Czy mogę prosić o pomoc w drobnej sprawie?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "Moja przyjaciółka niedawno wstąpiła do straży. Chciałam wykorzystać swój fach i zrobić jej pancerz wytrzymalszy od standardowego, ale już wysłano ją do Lakeland." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "Oczywiście mam jej wymiary, ale nie wiem, które części stroju wymagają wzmocnienia, a które powinny być luźniejsze, by nie krępować ruchów. Czy pokaże mi <if(gnum4,pani,pan)> kilka typowych postaw?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "Dziękuję! Czy na początek mogę zobaczyć gest <colortype(500)><edgecolortype(501)>Postawa bojowa<edgecolortype(0)><colortype(0)>?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "Nie ma się czego wstydzić─proszę poruszać się jak zwykle." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "Hmm... Chyba muszę zostawić więcej luzu w ramionach. Czy może <if(gnum4,pani,pan)> wyprowadzić też parę ciosów? Tak jak przy geście <colortype(500)><edgecolortype(501)>Boksowanie<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "Może nie muszę tego mówić, ale nie trzeba naprawdę nikogo uderzać. Chcę tylko zobaczyć ruch przy zadawaniu ciosu." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "Rozumiem─cały tułów musi mieć swobodę skrętu. A część rękawic na kostkach przydałoby się chyba trochę bardziej wyściełać..." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "Chyba już wiem, co zmienić. To ogromna pomoc─dziękuję." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "Muszę przyznać, że <if(gnum4,pani,pański)> strój wygląda na bardzo starannie wykonany. Ale gdyby kiedyś trzeba było nowego wyposażenia, proszę przyjść do mnie. Chętnie udzielę zniżki na pracę na zamówienie!" }
   ]
 }

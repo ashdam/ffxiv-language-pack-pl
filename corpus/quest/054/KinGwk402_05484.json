@@ -123,7 +123,7 @@
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SPROUT05484_000_088", "hash": "A73F6A6B3956233E", "target": "...Dziękujemy za życzliwe słowa." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_NAMINGWAY_000_089", "hash": "2759F390116AB85A", "target": "Na koniec poświęćmy chwilę owocnemu związkowi miasta z lasem. Do Full Bloom Gardens!" },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_NAMINGWAY_000_100", "hash": "B59B144316E805A1", "target": "W zieleni jest wiele do odkrycia. Śmiało, rozejrzyj się!" },
-    { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_101", "hash": "655F47D2CA584B71", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_101", "hash": "655F47D2CA584B71", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_Q3_000_000", "hash": "D2A07279FFD58AA2", "target": "Nacieszyć się widokiem?" },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_NAMINGWAY_000_102", "hash": "71903E0CA5BAC2BC", "target": "Na Etheirys rzadko widuje się brukowane drogi tak blisko szumu fontann i lasów." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_NAMINGWAY_000_103", "hash": "365D6A9F0E406CAA", "target": "Czy coś szczególnie przyciąga twój wzrok, <split(<string(gstr1)>, ,1)>?" },
@@ -215,7 +215,7 @@
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SEARCHINGWAY_100_063", "hash": "DBC2B2969ECE8434", "target": "Ale Inicjatywa Eksploracji Kosmosu dopiero wykiełkowała. Gwiazda po gwieździe, kiedyś zapuścimy korzenie w całym wszechświecie!" },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_163", "hash": "26B802A64D68901E", "target": "Po ukończeniu 50 misji gwiezdnych na Auxesia możesz podjąć dodatkową misję." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_164", "hash": "45DA623D6C2601A4", "target": "Odszukaj Mumukko, by dowiedzieć się, jak jeszcze pomóc inicjatywie." },
-    { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_165", "hash": "95652CBF0354B81D", "target": "Ukończ 50 misji gwiezdnych na Auxesia, aby odblokować dodatkową misję." },
+    { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_165", "hash": "95652CBF0354B81D", "target": "Ukończ 50 misji gwiezdnych na Auxesii, aby móc przyjąć dodatkowe zadanie." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_166", "hash": "7A5A3D2B85A94C57", "target": "Sprawdź egzotablet, aby znaleźć dostępne misje i inne sposoby wsparcia Inicjatywy Eksploracji Kosmosu." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_167", "hash": "A6FA92B141772146", "target": "Ponadto coś chyba zaprząta myśli Namingwaya. Porozmawiaj z Searchingwayem, może zdołasz pomóc." },
     { "gameKey": "quest/054/KinGwk402_05484#TEXT_KINGWK402_05484_SYSTEM_000_168", "hash": "D7443170CB9D313F", "target": "Pamiętaj o poziomie swojej postaci, opuszczając strefy eksploracji kosmosu." }

@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz514_02765",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "" }
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "Buqatai upatrzył sobie pewne dobrze strzeżone kości." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "Zdobyć cztery kości zwierzęce" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "Dostarczyć kości zwierzęce Buqataiowi" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "Nie wybierasz się przypadkiem w stronę tamtej góry na zachodzie?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "Muszę zebrać stamtąd trochę kości, ale nie mogę przedrzeć się przez te wszystkie muu shuwuu, które tam gniazdują." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "Nie chcę ich skrzywdzić, a one myślą, że próbuję kraść jaja. Ostatnim razem ledwo uszedłem z życiem." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "Jeśli dasz radę, przynieś mi cztery kości. Obawiam się, że gdy sam znów tam pójdę, nie dopisze mi tyle szczęścia co poprzednio." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "Idź na górę na zachodzie i zbierz dla mnie cztery kości." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "Dobrze widzieć, że nic cię nie zjadło! Udało ci się zdobyć kości?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "Ach tak, ta grubsza należała do steppe dzo. A ta to kość skokowa gulo gulo. Ojej, kość baras!" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "Dziękuję. Zrobię z nich kości do wróżenia." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "Jestem tak zajęty pracą, że nie mam czasu odwiedzać udgan. To może prymitywne, ale kości pozwalają mi nadal radzić się pradawnych bogów." }
   ]
 }

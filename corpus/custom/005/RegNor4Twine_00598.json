@@ -2,18 +2,18 @@
   "conversation": "custom/005/RegNor4Twine_00598",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_000", "hash": "26EF667DCB241BD3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_010", "hash": "3D615A165B75B3DC", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_020", "hash": "EBBF24A4F9746835", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_030", "hash": "1D877A456F524C88", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_Q1_000_000", "hash": "976D781B7DE2E08E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_001", "hash": "7DA50212636A7E63", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_002", "hash": "5A43B20F8F44E104", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_003", "hash": "869C5DEED1C6A10C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_100", "hash": "0CE0F15FEBE89B21", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_101", "hash": "6540591D645DD98E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_200", "hash": "98FAA1DF1051DA6F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_201", "hash": "2D02575EEE547127", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_202", "hash": "B84447723B5674DF", "target": "" }
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_000", "hash": "26EF667DCB241BD3", "target": "Co cię sprowadza do Twine, jeśli wolno spytać?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_010", "hash": "3D615A165B75B3DC", "target": "Choć to przeklęte Światło nie praży nas już bez przerwy, niewiele więcej się tu zmieniło. Większość z nas nadal żyje z dnia na dzień, niezależnie od tego, jak ciężko pracuje." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_020", "hash": "EBBF24A4F9746835", "target": "Tyle nam przyszło z powrotu nocnego nieba! Chociaż było miło, póki trwało. Zresztą w kopalni, przy rozbijaniu skał, wszystko jedno." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_030", "hash": "1D877A456F524C88", "target": "Czy tym razem Światło zniknęło na dobre? Mam taką cholerną nadzieję." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_Q1_000_000", "hash": "976D781B7DE2E08E", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_001", "hash": "7DA50212636A7E63", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_002", "hash": "5A43B20F8F44E104", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_003", "hash": "869C5DEED1C6A10C", "target": "O nic." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_100", "hash": "0CE0F15FEBE89B21", "target": "Jak większość tutejszych pracuję w kopalni." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_101", "hash": "6540591D645DD98E", "target": "Tylko na tym się znam. A prawdę mówiąc, w Amh Araeng niewiele więcej <italic(1)>jest<italic(0)> do poznania." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_200", "hash": "98FAA1DF1051DA6F", "target": "Niewiele osób o tym wie─nawet spośród mieszkańców─ale Twine powstało wspólnym wysiłkiem ludów Ronso i Mystel. Nazwa miasta nawiązuje do ich splecionych ze sobą ogonów." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_201", "hash": "2D02575EEE547127", "target": "Dziś jednak niewiele zostało z tej współpracy. Większość przedstawicieli ludu Mystel przeniosła się przed laty do Eulmore, a teraz pozostała tu tylko jedna czy dwie osoby." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_202", "hash": "B84447723B5674DF", "target": "My, Ronso, nie poddajemy się tak łatwo. Dopóki jest tu praca do wykonania, zostaniemy." }
   ]
 }

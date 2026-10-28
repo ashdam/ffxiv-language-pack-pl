@@ -13,7 +13,7 @@
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_100_005", "hash": "E81744AC1199F2D0", "target": "Na pierwszy rzut oka mogą wyglądać jak zwykłe kamienne ozdoby." },
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_200_006", "hash": "EBD075EC7477B1A2", "target": "Ale jeśli przyjrzycie się <italic(1)>naprawdę<italic(0)> uważnie, zobaczycie coś znacznie ciekawszego!" },
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_020", "hash": "A5EF704829465151", "target": "Chyba <if(gnum4,powinnyśmy,powinniśmy)> zrobić, jak radzi Wuk Lamat." },
-    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_SYSTEM_100_010", "hash": "43332A87FA830622", "target": "Następnego wydarzenia nie można pominąć. Rozważ anulowanie oczekujących zgłoszeń w Duty Finder." },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_SYSTEM_100_010", "hash": "43332A87FA830622", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_Q3_000_000", "hash": "D22F8B688C9BB975", "target": "Obejrzeć kamienne filary?" },
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_010", "hash": "5DBFF2A5A92680C3", "target": "Obrazki...? Zaraz, nie, to glify!" },
     { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_011", "hash": "05B602D419E21C4B", "target": "Chyba opowiadają różne historie. W wielu pojawia się dwugłowy Mamool Ja. Och! Więc to musi być..." },

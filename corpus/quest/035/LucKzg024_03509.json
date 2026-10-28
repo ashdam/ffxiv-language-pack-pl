@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKzg024_03509",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_SEQ_00", "hash": "3EE5FF9DD4550EC8", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_00", "hash": "769FBF98433D7720", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_01", "hash": "1B7E8F7FE73884A0", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_000", "hash": "40A30336E9805558", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_001", "hash": "046FED76EB173F29", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_002", "hash": "DEA48CE174AA6D44", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_003", "hash": "3546601012927AE4", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_010", "hash": "A19A3AB347ACFDF7", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_020", "hash": "70F3C85190A9F6B7", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_021", "hash": "D79E07D0464DF59F", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_022", "hash": "0D75157545999274", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_023", "hash": "F4682068A369FF9A", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_024", "hash": "98B3D19B5F65E065", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_025", "hash": "1CEBAD2EA7549718", "target": "" }
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_SEQ_00", "hash": "3EE5FF9DD4550EC8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zmarszczone brwi Andri sugerują, że próbuje rozwiązać jakiś problem." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_00", "hash": "769FBF98433D7720", "target": "Przeszukać wskazane miejsce i zdobyć pasiasty klejnot" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_01", "hash": "1B7E8F7FE73884A0", "target": "Dostarczyć pasiasty klejnot Andri" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_000", "hash": "40A30336E9805558", "target": "Czemu sprawy sercowe muszą być tak kłopotliwe? Moja ukochana niestety opuściła smagane wiatrem równiny Amh Araeng, by szukać względnie dostatniego życia w Crystarium." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_001", "hash": "046FED76EB173F29", "target": "Boję się, że z czasem jej serce się oddali. Chcę wysłać jej pierścionek na znak naszej wiecznej miłości." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_002", "hash": "DEA48CE174AA6D44", "target": "W końcu kupiłem taki za ciężko oszczędzone pieniądze, a potem odkryłem głęboką rysę na skądinąd pięknym pasiastym klejnocie. Zamiast wydawać <italic(1)>kolejną<italic(0)> fortunę na nowy pierścionek lub kamień, wpadłem na pomysł." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_003", "hash": "3546601012927AE4", "target": "Taniej wynająć kogoś, by zdobył podobny klejnot, i samemu go oprawić. I tu właśnie przyda mi się pomoc. Zapewniam, że oferowana zapłata wynagrodzi wszelkie ryzyko obrażeń w kopalni!" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_010", "hash": "A19A3AB347ACFDF7", "target": "Miejsca, gdzie znajduje się takie kamienie, niezmiennie są pełne zagrożeń. Poszedłbym sam, ale obawiam się, że moja... kondycja zupełnie wyklucza takie wyprawy." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_020", "hash": "70F3C85190A9F6B7", "target": "I co? Jest już dostatecznie olśniewający klejnot?" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_021", "hash": "D79E07D0464DF59F", "target": "Wspaniale! Po prostu przepiękny!" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_022", "hash": "0D75157545999274", "target": "Mam nadzieję, że szukanie nie wiązało się z zagrożeniami. Podobno tworzą je gnomy, a liczbą pasków na upuszczanych kamieniach można zmierzyć ich wiek." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_023", "hash": "F4682068A369FF9A", "target": "Niestety próba zabicia takiej bestii zwykle uszkadza cenne klejnoty wyrastające z jej skalnej skóry. Lepiej i bezpieczniej zbierać te, które odpadły same." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_024", "hash": "98B3D19B5F65E065", "target": "Innymi słowy, gdzie te kamienie, tam i gnomy. Stąd moja niechęć do samodzielnych poszukiwań." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_025", "hash": "1CEBAD2EA7549718", "target": "Jestem pewien, że taki wspaniały dar ucieszy moją ukochaną. A oto uzgodniona zapłata za wzorowy trud." }
   ]
 }

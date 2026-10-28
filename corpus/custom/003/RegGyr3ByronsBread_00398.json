@@ -2,17 +2,17 @@
   "conversation": "custom/003/RegGyr3ByronsBread_00398",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_000", "hash": "4D3BF1A6D8FE0298", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_Q1_000_000", "hash": "047B3AC80FC98401", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_001", "hash": "79454913EDE45399", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_002", "hash": "ABEBE5502324FEB4", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_003", "hash": "A98797EF64630BD7", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_010", "hash": "EF624DDC556ADAE3", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_011", "hash": "C7A62EF1BEE86CB1", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_012", "hash": "DCCEAE799B089A7B", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_020", "hash": "514E3C7FD6C3666A", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_021", "hash": "08CF8A4E4408242E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_022", "hash": "46BD49E2694B289D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_023", "hash": "9F2D3FCBBC54B729", "target": "" }
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_000", "hash": "4D3BF1A6D8FE0298", "target": "Witaj na farmie Chleb Byrona. Przybywasz kupić nasze plony?" },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_Q1_000_000", "hash": "047B3AC80FC98401", "target": "O co zapytasz?" },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_001", "hash": "79454913EDE45399", "target": "Co tu robisz?" },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_002", "hash": "ABEBE5502324FEB4", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_A1_000_003", "hash": "A98797EF64630BD7", "target": "Nic." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_010", "hash": "EF624DDC556ADAE3", "target": "Mam tu pełne ręce roboty przy uprawie ziemi. Choć trudno uznać ją za żyzną, a z każdym rokiem plony są gorsze... Bywają dni, kiedy mam ochotę to rzucić." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_011", "hash": "C7A62EF1BEE86CB1", "target": "Z drugiej strony nie wszyscy możemy znów utrzymywać się z pracy w kamieniołomie, jak dawniej." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_012", "hash": "DCCEAE799B089A7B", "target": "Nie, lepiej będzie, jeśli wszyscy spojrzymy w przyszłość. Dzieci nie podziękują nam za kurczowe trzymanie się przeszłości." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_020", "hash": "514E3C7FD6C3666A", "target": "Tę farmę założył mój dziadek, Byron. Gdy kamieniarstwo zaczęło podupadać, postanowił zająć się rolnictwem, by nadal móc utrzymywać rodzinę." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_021", "hash": "08CF8A4E4408242E", "target": "Nazwa „Chleb Byrona” wzięła się z powiedzenia, które ukuli mieszkańcy: każda matka w Ala Gannha wie, że to dzięki Byronowi ma chleb z masłem." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_022", "hash": "46BD49E2694B289D", "target": "Dziadek w rzeczywistości umarł, zanim zdołał zebrać pierwsze plony. Zostawił farmę ojcu i mnie, a my robiliśmy wszystko, by zaczęła przynosić owoce." },
+    { "gameKey": "custom/003/RegGyr3ByronsBread_00398#TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_023", "hash": "9F2D3FCBBC54B729", "target": "Nigdy nie zapomnę tego, co dziadek dla nas zrobił. Użyźnił tę ziemię własną krwią i potem. Porzucenie jej byłoby z mojej strony hańbą dla jego pamięci." }
   ]
 }

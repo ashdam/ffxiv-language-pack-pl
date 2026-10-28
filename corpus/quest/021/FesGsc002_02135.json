@@ -2,14 +2,14 @@
   "conversation": "quest/021/FesGsc002_02135",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_00", "hash": "8DEF048D67F1E22B", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_01", "hash": "370A56C646BABF6C", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_02", "hash": "3F0965179EC3C191", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_TODO_00", "hash": "D738EE9104C0F349", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_000", "hash": "E22D0BE03F149D2B", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_001", "hash": "9AAE4DFD5553EFCA", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_002", "hash": "8F7F6826DA8CEA66", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GREGE_000_010", "hash": "3383074B55B067ED", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SYSTEM_000_011", "hash": "1C1BF47F65782AEC", "target": "" }
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_00", "hash": "8DEF048D67F1E22B", "target": "Uważny pracownik chce okazać ci uznanie Gold Saucer.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_01", "hash": "370A56C646BABF6C", "target": "Skoro zagadka morderstwa w Gold Saucer została rozwiązana, pora odebrać nagrodę. Uważny pracownik kieruje cię do recepcjonisty o imieniu Grege w Entrance Square, który przechowuje twój upominek.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_02", "hash": "3F0965179EC3C191", "target": "Po osobistych podziękowaniach Grege wręcza ci upominek godny mistrza dedukcji. Korzystaj z niego, ilekroć spłynie na ciebie natchnienie warte podzielenia się ze światem." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_TODO_00", "hash": "D738EE9104C0F349", "target": "Porozmawiać z recepcjonistą o imieniu Grege w Entrance Square" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_000", "hash": "E22D0BE03F149D2B", "target": "Ach, <if(gnum4,bystra poszukiwaczka,bystry poszukiwacz)> przygód, <if(gnum4,która,który)> tak zręcznie <if(gnum4,rozwikłała,rozwikłał)> morderczą zagadkę Gold Saucer! Chyba mogę mówić w imieniu wszystkich uczestników: jesteśmy niezmiernie wdzięczni." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_001", "hash": "9AAE4DFD5553EFCA", "target": "Oczywiście <if(gnum4,pani,pana)> wysiłki zasługują na nagrodę większą niż same słowa. Grege czeka w Entrance Square z upominkiem, który z pewnością okaże się bardzo satysfakcjonujący." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_002", "hash": "8F7F6826DA8CEA66", "target": "Nagroda za znakomicie wykonaną pracę czeka w Entrance Square! Ach, jakże mi szkoda, że nie zobaczę <if(gnum4,pani,pana)> miny przy jej odbieraniu!" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GREGE_000_010", "hash": "3383074B55B067ED", "target": "Ani słowa więcej─Ollier już wszystko wyjaśnił! Ach, ale to już zapewne wiesz. Niemniej dziękuję ci i wręczam nagrodę, na którą tak bardzo zasługujesz! Oby dobrze ci służyła, gdy kolejna nieprzenikniona tajemnica ustąpi przed twoim rozumem!" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SYSTEM_000_011", "hash": "1C1BF47F65782AEC", "target": "Uczysz się emotki <colortype(500)><edgecolortype(501)>Eureka<edgecolortype(0)><colortype(0)>!" }
   ]
 }

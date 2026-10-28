@@ -2,16 +2,16 @@
   "conversation": "quest/013/BanSah101_01379",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_00", "hash": "0F21DECF78FAF9B1", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_01", "hash": "D0AFFCAD0E7D2771", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_02", "hash": "06A129C6895868CA", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_TODO_00", "hash": "7A5BA5D4ADC02651", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_000", "hash": "0DB89FF5D313D335", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_001", "hash": "73CBAAFBADA788C5", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_002", "hash": "6266A48D02CFF14A", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_003", "hash": "D9C61C74E91F6BF5", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_010", "hash": "ADCDAF59EA12489A", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_011", "hash": "992C8F64E4FDAFBC", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_012", "hash": "148B34DD98565BC0", "target": "" }
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_00", "hash": "0F21DECF78FAF9B1", "target": "Fyuu chce wprowadzić śmiercionośne poprawki do planów bojowych Koralowych Trójzębów." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_01", "hash": "D0AFFCAD0E7D2771", "target": "Fyuu dowiedział się, że Voll the Sharkskinned, uznany geniusz taktyki, dołączył do Koralowych Trójzębów. Podejrzewając, że szykują wielki atak na swych bezpłetwych wrogów, młody wojownik Sahagin prosi cię o pokrzyżowanie ich planów przez zabicie nowego stratega. Weź udział w FATE „Rekinado” w Halfstone i przedstaw Fyuu dowód swego czynu." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_02", "hash": "06A129C6895868CA", "target": "Dostarczasz Fyuu przedmiot coral armband. Przekonany, że Voll the Sharkskinned nie żyje, młody wojownik chwali odwagę, jaką wykazuje twoje działanie na szkodę planów Trójzębów." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_TODO_00", "hash": "7A5BA5D4ADC02651", "target": "Dostarczyć Fyuu przedmiot coral armband zdobyty w FATE „Rekinado”" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_000", "hash": "0DB89FF5D313D335", "target": "Psssz... Sprawy przybrały zły obrót. Koralowe Trójzęby pozyskały usługi wojownika Voll the Sharkskinned, znanego wśród ludu Sahagin z taktycznego geniuszu." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_001", "hash": "73CBAAFBADA788C5", "target": "Zatrudnienie ssstratega tej klasy może oznaczać tylko jedno: planują wielki atak na pozycje brzegołazów." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_002", "hash": "6266A48D02CFF14A", "target": "Na szczęście takie plany łatwo pokrzyżować. Zabij Volla, a ich śmiały atak będzie ssskazany na porażkę." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_003", "hash": "D9C61C74E91F6BF5", "target": "Taktyk powinien mieć przy sobie przedmiot coral armband─namacalny sssymbol swej nowej przynależności. Przynieś mi tę ozdobę, a będę wiedział, że zadanie zostało wykonane." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_010", "hash": "ADCDAF59EA12489A", "target": "Psssz... Zabij Volla i przynieś mi jego ozdobę coral armband!" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_011", "hash": "992C8F64E4FDAFBC", "target": "Psssz! Ta ozdoba jest pokryta szkarłatnymi plamami. Mam nadzieję, że to krew Volla, a nie twoja!" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_012", "hash": "148B34DD98565BC0", "target": "Po stracie taktyka Koralowe Trójzęby będą musiały ponownie przemyśleć plan ataku. Jestem... pod wrażeniem. Brak płetw nadrabiasz odwagą." }
   ]
 }

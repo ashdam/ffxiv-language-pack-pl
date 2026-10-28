@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb905_00928",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "Dla niektórych, jak natarczywa ser Oncenedl, ktoś szukający przygód jest jedynie pomywaczem do wyjątkowo makabrycznych zadań." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "Z niemałą pogardą ser Oncenedl każe ci przeszukać ciało heretyka w poszukiwaniu przedmiotów osobistych i dostarczyć je do Bram Sądu. Podobno niektórzy w Świętej Stolicy uważają, że mogą one dostarczyć cennych informacji." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "Pewien poszukiwacz przygód powiedział kiedyś, że nie ma brudnej roboty, są tylko brudne wspomnienia─i czujesz, że niebawem przyjdzie ci sprawdzić tę teorię. Zanieś worek rzeczy osobistych rycerzowi Chaunollet przy Bramach Sądu." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "Ser Chaunollet chwali cię za ograbienie zmarłego i zdaje się mieć nadzieję, że te smutne resztki przerwanego życia przysłużą się sprawie Ishgardu. Nie wiesz, co o tym myśleć, ale praca jest wykonana i czeka cię mycie..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "Przeszukać ciało w poszukiwaniu przedmiotów osobistych" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "Dostarczyć worek rzeczy osobistych rycerzowi Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "Hej, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Żądam twego czasu w imieniu Świętej Stolicy. Przeszukaj ciało na dole i dostarcz wszystkie rzeczy osobiste do Bram Sądu. Za życia był heretykiem, nie musisz się z nim cackać." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "Zwykle zostawiamy ścierwo wronom, ale... jak dobrze wiesz, ostatnio były pewne kłopoty i teraz każą nam grzebać w tych zawszonych kieszeniach." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "Podła to robota, więc zostawiam cię z nią. Założę się, że znajdziesz same gnidy." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "Mów, z czym przychodzisz!" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "Ach, pozostałości po niewiernych, znakomicie. Twoja służba przynosi ci zaszczyt. Miejmy nadzieję, że znajdzie się tu jakaś wskazówka..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "Długo nienawidziłem niewiernych, lecz już nie, bo oni także służą Furii─jeśli nie za życia, to po śmierci. Jakąż litość ma Halone, dając im taką szansę!" }
   ]
 }

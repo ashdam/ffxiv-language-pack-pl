@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz512_01847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_00", "hash": "0D34E354B6934A0E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_01", "hash": "2AA55094D7EE5E6C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_02", "hash": "0AA28E4667EB5C1D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_03", "hash": "4A6F9E8139F4E523", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_00", "hash": "028EBCDC60A591C7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_01", "hash": "29A8F3A7CAE76DEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_000", "hash": "762B221C37BE7B89", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_001", "hash": "50025D68CAE6751C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_010", "hash": "0541525B8E13FCA8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_020", "hash": "6E27C1E07D175512", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_021", "hash": "EE1E9CB9F73B55C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_032", "hash": "AA5AA8D6E630DF3E", "target": "" }
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_00", "hash": "0D34E354B6934A0E", "target": "Mogson chyba znowu o czymś zapomniał." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_01", "hash": "2AA55094D7EE5E6C", "target": "Roztargniony Mogson najwyraźniej znów zostawił kosze. Tym razem w Tharl Oom Khash. Odzyskaj je dla biednego moogle'a, by przestał fruwać w kółko ze zmartwienia." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_02", "hash": "0AA28E4667EB5C1D", "target": "Znajdujesz kosze porozrzucane po Tharl Oom Khash. Niepojęte, jak malutki moogle zamierzał je wszystkie unieść. Wróć do Mogsona i oddaj mu cenne zguby." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_03", "hash": "4A6F9E8139F4E523", "target": "Mogson jest zachwycony odzyskaniem koszy. Dzięki przechowywanym w nich kryształom znów może zająć się majsterkowaniem. Podczas zbierania kryształów usłyszał w oddali ryk smoka i uciekł w popłochu. Teraz, dzięki tobie, nerwowy moogle znów może tworzyć swoje tajemnicze dzieła." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_00", "hash": "028EBCDC60A591C7", "target": "Odzyskać kosze Mogsona" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_01", "hash": "29A8F3A7CAE76DEA", "target": "Dostarczyć kosze Mogsonowi" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_000", "hash": "762B221C37BE7B89", "target": "O nie, znowu to zrobiłem, kupo. Zapomniałem koszy! Proszę, znajdź je dla mnie!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_001", "hash": "50025D68CAE6751C", "target": "Zostawiłem trzy kosze gdzieś w Tharl Oom Khash. Znajdź je, zanim dobiorą się do nich potwory!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_010", "hash": "0541525B8E13FCA8", "target": "Te kosze są dla mnie cenne. Odszukaj je w Tharl Oom Khash, kupo." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_020", "hash": "6E27C1E07D175512", "target": "Jeśli nie odzyskam koszy, cały dzień pójdzie na marne, kupo! Udało ci się je odnaleźć?" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_021", "hash": "EE1E9CB9F73B55C3", "target": "Moje kosze! Dzięki niebiosom, są z powrotem, kupo!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_032", "hash": "AA5AA8D6E630DF3E", "target": "Poleciałem do Tharl Oom Khash po kryształy do majsterkowania. Ale usłyszałem w oddali ryk smoka i uciekłem, zostawiając kosze, kupo!" }
   ]
 }

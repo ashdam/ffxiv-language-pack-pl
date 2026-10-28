@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "HousingUnplacement#1", "hash": "CD1CDD4A19EAFB20", "target": "Usunięcie tego przedmiotu spowoduje jego zniszczenie. Na pewno chcesz kontynuować?" },
-    { "gameKey": "HousingUnplacement#2", "hash": "8359243CCC367315", "target": "Pozwolenie dla postaci <ennoun(ENpcResident,2,lnum1,1,3)> wróci do ekwipunku. Na pewno chcesz kontynuować?" },
+    { "gameKey": "HousingUnplacement#2", "hash": "8359243CCC367315", "target": "Pozwolenie dla postaci „<ennoun(ENpcResident,3,lnum1,1,1)>” wróci do ekwipunku. Na pewno chcesz kontynuować?" },
     { "gameKey": "HousingUnplacement#3", "hash": "EF9A1BBEE54EEDF9", "target": "Pozwolenie expansion of duties permit wróci do ekwipunku. Na pewno chcesz kontynuować?" },
     { "gameKey": "HousingUnplacement#4", "hash": "8EC1DBFC3762A529", "target": "Liczba pozostałych <if([lnum1==1],porcji,porcji)> tego dania: <num(lnum1)>.<br>Po usunięciu nie będzie można go ponownie umieścić. Na pewno chcesz kontynuować?" },
     { "gameKey": "HousingUnplacement#5", "hash": "F10296992CF92D90", "target": "Usunięcie wazonu zniszczy znajdujące się w nim kwiaty. Na pewno chcesz kontynuować?" },

@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsc502_00990",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_00", "hash": "83C5CE1DAF25C8A5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_01", "hash": "7053CE3527F4F4D3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_02", "hash": "79417F3ADB97572C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_TODO_00", "hash": "1447FB99F70C76E4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_000", "hash": "45A086A83C338DA6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_001", "hash": "5ABBA46E25DD36D5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_002", "hash": "C695D69F29839183", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_020", "hash": "2030DC367B1DBD48", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_021", "hash": "0409DCA1FF327B37", "target": "" }
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_00", "hash": "83C5CE1DAF25C8A5", "target": "Według Kakamehi wystarczy zgłosić się do Synów Świętego Coinacha, by znaleźć pracę i pewny zarobek." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_01", "hash": "7053CE3527F4F4D3", "target": "Synowie Świętego Coinacha, uczeni pragnący zgłębić tajemnice starożytnego Imperium Allagańskiego, rozbili obóz na południowy wschód od Myta Upiora. Z gorącym poleceniem kolegi po fachu Kakamehi udaj się na rozmowę z Nazylem Duzylem." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_02", "hash": "79417F3ADB97572C", "target": "Nazyl Duzyl wita cię z otwartymi ramionami i, jak podejrzewasz, sakiewką. Najwyraźniej pracy jest pod dostatkiem, a doświadczenie podpowiada ci, że osełka może się niedługo napracować..." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_TODO_00", "hash": "1447FB99F70C76E4", "target": "Porozmawiać z Nazylem Duzylem" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_000", "hash": "45A086A83C338DA6", "target": "<split(<string(gstr1)>, ,1)>, tak? Słyszę, że wszędzie cię pełno! Też jestem poszukiwaczem przygód. Kakamehi.<br>...No co, nie każdy może mieć takie ciekawe imię jak ty. Słuchaj, mam dla ciebie niezły interes, jeśli chcesz." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_001", "hash": "5ABBA46E25DD36D5", "target": "Na wschód stąd rozbiła obóz banda zwana Synami Świętego Coinacha. Uczone głowy, wiesz, badają to─jak mu tam─Imperium Allagańskie. Podobno jakaś starożytna cywilizacja!" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_002", "hash": "C695D69F29839183", "target": "Pogadaj tam z gościem imieniem Nazyl Duzyl. Na pewno coś dla ciebie znajdzie. Porządni ludzie. Powiedz, że ja cię przysyłam." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_020", "hash": "2030DC367B1DBD48", "target": "Witam serdecznie! Pomoc kogoś zaprzyjaźnionego z Kakamehi na pewno się przyda. Zakładam, że pomoc nam <italic(1)>leży<italic(0)> w kręgu <if(gnum4,pani,pana)> zainteresowań?" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_021", "hash": "0409DCA1FF327B37", "target": "My, Synowie Świętego Coinacha, mamy ostatnio sporo kłopotów, więc chętnie przyjmiemy pomoc. Myślę, że i dla <italic(1)><if(gnum4,pani,pana)><italic(0)> będzie to opłacalne przedsięwzięcie." }
   ]
 }

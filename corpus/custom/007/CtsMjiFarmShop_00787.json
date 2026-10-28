@@ -2,13 +2,13 @@
   "conversation": "custom/007/CtsMjiFarmShop_00787",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_000_000", "hash": "A389ECA2BCB28A1C", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_001", "hash": "9A14C66A89221EE2", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_002", "hash": "CD2A60AEE9A514FC", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_010", "hash": "4B927B6262B7D285", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_100_000", "hash": "D372AD3CC5EC1D97", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_000", "hash": "1C7BDAC5DD93CF22", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_005", "hash": "6DE235BCEF3DEFDD", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_200_000", "hash": "57A9305C1700CE91", "target": "" }
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_000_000", "hash": "A389ECA2BCB28A1C", "target": "Co zrobisz?" },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_001", "hash": "9A14C66A89221EE2", "target": "Wyeksportuję materiały." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_002", "hash": "CD2A60AEE9A514FC", "target": "Dowiem się więcej." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_010", "hash": "4B927B6262B7D285", "target": "Nic." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_100_000", "hash": "D372AD3CC5EC1D97", "target": "C-chcesz wiedzieć, czym się zajmuję? Ale moja nazwa─to chyba oczyw─ekhem. Dobrze. Robię coś bardzo prostego: biorę dowolne zebrane przez ciebie na wyspie materiały i sprzedaję je za cowries w twoim imieniu. Bez obaw, <italic(1)>nigdy<italic(0)> niczego sobie nie zatrzymuję. Zaufaj mi." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_000", "hash": "1C7BDAC5DD93CF22", "target": "Sprzedaj materiały z wyspowego ekwipunku przedsiębiorczemu eksporterowi w zamian za islander's cowries." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_005", "hash": "6DE235BCEF3DEFDD", "target": "Ponadto przedsiębiorczy eksporter może zaoferować seafarer's cowries za rzadkie materiały z twojego wyspowego ekwipunku." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_200_000", "hash": "57A9305C1700CE91", "target": "A witaj, <if(gnum4,przyjaciółko,przyjacielu)> właściciela! (Pssst, tak między nami, może mam coś dla ciebie... jeśli masz cowries.) \\<pik> Och, pomyślny! Jesteś tutaj? Bez obaw, tylko rozmawiam z tą uroczą osobą. (Wścibski koci drań...)" }
   ]
 }

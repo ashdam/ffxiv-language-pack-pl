@@ -20,7 +20,7 @@
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_04", "hash": "94332BE03F3FDC1B", "target": "Porozmawiać z zalęknionym badaczem." },
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_05", "hash": "33A7F58977F6C63C", "target": "Porozmawiać z pozornie niewzruszonym badaczem i pokonać stworzenie mirrorknight." },
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_06", "hash": "2A87265D7836C70D", "target": "Porozmawiać z pozornie niewzruszonym badaczem." },
-    { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_07", "hash": "11FD2E9601952C0B", "target": "Zdać relację Rammbroesowi." },
+    { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_07", "hash": "11FD2E9601952C0B", "target": "Zdać relację Rammbroesowi" },
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_TODO_08", "hash": "F4719343253CB029", "target": "Wrócić do Y'mhitry nad Wodospadem Apkallu." },
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_YMHITRA_000_000", "hash": "3AEC76B0A1595E6B", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Choć miło cię widzieć, obawiam się, że wciąż nie ustaliłam ostatecznego celu Tristana. Wiem tylko, że jest przebiegły i brutalny, a dla osiągnięcia celu nie cofnie się przed niczym." },
     { "gameKey": "quest/010/JobSmn450_01094#TEXT_JOBSMN450_01094_YMHITRA_000_001", "hash": "46AE09D1E8C59517", "target": "Na razie ścigamy jedynie cień tego człowieka. Sądzę, że taki prosty pościg zawsze pozostawi nas o krok za nim." },

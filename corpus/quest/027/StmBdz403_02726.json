@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz403_02726",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "" }
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "Sentei potrzebuje pomocy w schwytaniu drapieżnika." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Rozstawić żelazne potrzaski we wskazanych miejscach" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Zdać sprawę Sentei" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Hej, <if(gnum4,podróżniczko,podróżniku)>! Jeśli masz chwilę, przydałaby mi się pomoc." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "Grzebałem ostatnio w rzeczach i znalazłem te żelazne potrzaski." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Chętnie zrobiłbym z nich użytek i wybrał się na polowanie, ale wiem, że tylko odnowiłoby mi się stare zranienie. Rozstawisz je za mnie?" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "Na tej mapie zaznaczyłem miejsca, gdzie trzeba je rozstawić. Tylko uważaj, żeby podczas rozstawiania nie złapać własnej nogi!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "Miejsca, gdzie trzeba rozstawić potrzaski, znajdziesz na tej mapie. Tylko uważaj, żeby podczas rozstawiania nie złapać własnej nogi!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "Rozumiem, że gotowe? Dziękuję." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "Dawniej nieźle radziłem sobie z toporem. Potrafiłem upolować najróżniejsze dzikie bestie bez tych śmiesznych pułapek. Gdy najechało nas Imperium, też stawiałem opór." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "Ale strzał w nogę położył temu kres. Od czasu do czasu ból powraca i nie mogę się ruszyć, dopóki nie ustąpi. Bez obaw, sprawdzę potrzaski, jak tylko dam radę." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "Proszę, weź to za pomoc." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzi004_03540",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "" }
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Jaimbert potrzebuje ochotnika." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "Zebrać stosy sezonowanego drewna w Top Rung" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "Dostarczyć stosy sezonowanego drewna Jaimbertowi" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "Witaj, <if(gnum4,przyjaciółko,przyjacielu)>! Mam małą prośbę, jeśli znajdziesz chwilę." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "Rozejrzyj się i powiedz, co widzisz. Właśnie! Skały, skały i jeszcze więcej przeklętych skał. Ani jednego drzewa. A to znaczy, że nie ma drewna na domy." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "Od czasu do czasu krasnoludy pozwalają nam przeczołgać się przez swoje „tajne tunele” na niziny, ale taszczyć kłody tymi wąskimi─nie wspominając o stromiźnie─szybami to robota dla głupców." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "Zwłaszcza że w Top Rung zostawiono tyle drewna na zmarnowanie. Po prostu leży i czeka, aż ktoś je zabierze... Oczywiście pod warunkiem, że ma dość odwagi, by przebić się przez wszystkie paskudztwa po drodze. A myślę, że tobie jej nie brakuje!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "No już, <if(gnum4,dziewczyno,chłopcze)>─przynieś mi kilka stosów drewna, a nie pożałujesz!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "Oho! Albo przynosisz mi drewno, albo zamierzasz zbudować sobie chatkę." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "Dziękuję, <if(gnum4,dziewczyno,chłopcze)>─teraz wreszcie będę mógł wrócić do budowania!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "To drewno, które <if(gnum4,przyniosłaś,przyniosłeś)>, wjechało tu windą Ladder w czasach, gdy krasnoludy chętniej handlowały. Wioska Amity była neutralnym miejscem do zawierania umów. Kiedyś planowano ją nawet rozbudować." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "Można więc powiedzieć, że wykorzystujemy drewno zgodnie z przeznaczeniem... choć z kilkuletnim opóźnieniem! Bywaj, <if(gnum4,przyjaciółko,przyjacielu)>, i jeszcze raz dzięki za pomoc!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegWilCampBluefog_00121",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000", "hash": "BD2AA890991673F6", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000", "hash": "C2F38AC49DC04E5E", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001", "hash": "ACF8EA9B2D78FC1C", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002", "hash": "9CFCD983D587E841", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003", "hash": "C5F1767BD4B31AF6", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_010", "hash": "A122A46A12E41612", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_011", "hash": "70BB417F1EF3453D", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_020", "hash": "7B7FD33E54F86AAD", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_021", "hash": "12E2403D45669C35", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022", "hash": "78BCB71E1183EFEA", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050", "hash": "2026D2D566294829", "target": "" }
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000", "hash": "BD2AA890991673F6", "target": "Sierżant Płomieni Cracked Fist, do usług." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000", "hash": "C2F38AC49DC04E5E", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001", "hash": "ACF8EA9B2D78FC1C", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002", "hash": "9CFCD983D587E841", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003", "hash": "C5F1767BD4B31AF6", "target": "O nic." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_010", "hash": "A122A46A12E41612", "target": "Dowodzę tutejszym garnizonem Nieśmiertelnych Płomieni w rejonie Bluefog. To niemała odpowiedzialność, biorąc pod uwagę bliskość terytorium zajętego przez Garlemald." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_011", "hash": "70BB417F1EF3453D", "target": "Żołnierze są stale napięci, a podtrzymywanie ich morale to nieustanna walka. Dość powiedzieć, że wieczny mrok nie poprawia nikomu nastroju. Trochę słońca dobrze by nam wszystkim zrobiło." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_020", "hash": "7B7FD33E54F86AAD", "target": "Niegdyś obóz Camp Bluefog ledwie zasługiwał na wzmiankę na mapie, ale wszystko zmieniło się, gdy Imperium wzniosło stalowe twierdze na północnym krańcu Thanalanu." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_021", "hash": "12E2403D45669C35", "target": "Proszę się nie łudzić, obóz jest teraz jednym z najważniejszych garnizonów Sojuszu. Gdybyśmy utracili tę pozycję, nasze siły na pierwszej linii w Ceruleum Processing Plant zostałyby praktycznie odcięte." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022", "hash": "78BCB71E1183EFEA", "target": "Gdyby <if(gnum4,panią,pana)> to ciekawiło, nazwa Bluefog pochodzi od błękitnawej mgły towarzyszącej wydobyciu tego samego ceruleum." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050", "hash": "2026D2D566294829", "target": "Ach, to <head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> <split(<string(gstr1)>, ,2)>! <if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>─a przynajmniej tak dobry, na jaki pozwala ta ponura okolica. Czy mogę w czymś pomóc?" }
   ]
 }

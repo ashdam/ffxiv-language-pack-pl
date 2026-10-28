@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz830_01960",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_00", "hash": "9D36AF6921E7A42B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_01", "hash": "99337690C4E119D3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_02", "hash": "E1EDFFD976B1F31E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_03", "hash": "BDEA110F885F19ED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_00", "hash": "A23FD114A98368DC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_01", "hash": "413A4741DC0409EE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_000", "hash": "5B5BCD2DA0C72FD2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_001", "hash": "41BF11E64F38EBDD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_002", "hash": "CE85F2170FA9AE7F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_010", "hash": "7A377ABB38EC85BE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_020", "hash": "6F9C023B6A91BD98", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_021", "hash": "5BF01F8B0005CB6E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_022", "hash": "F0B3CBCBE2C301BC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_00", "hash": "9D36AF6921E7A42B", "target": "Feltsmox nadal łowi ryby, jak zawsze..." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_01", "hash": "99337690C4E119D3", "target": "Feltsmox wciąż próbuje złowić rybę i wciąż nie ma szczęścia. Tym razem winą obarcza pobliskie niedźwiedzie sun bear. Twierdzi, że przychodzą do rzeki, zjadają część ryb, a resztę płoszą. Prosi cię o zabicie czterech tych uciążliwych bestii i zebranie ich mięsa." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_02", "hash": "E1EDFFD976B1F31E", "target": "Zabijasz niedźwiedzie sun bear i zbierasz grube kawałki niedźwiedziego mięsa. Oby pozostałe wyciągnęły z tego nauczkę i trzymały się z dala od rzeki. Dostarcz mięso Feltsmox." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_03", "hash": "BDEA110F885F19ED", "target": "Feltsmox dziękuje za zabicie niedźwiedzi, które płoszyły ryby. Chciałaby się upewnić, że wróciły─najlepiej łowiąc wielką, tłustą sztukę na posiłek─lecz jest zbyt głodna, by czekać, aż coś weźmie. Odchodzi więc zjeść zebrane dla niej mięso niedźwiedzi sun bear." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_00", "hash": "A23FD114A98368DC", "target": "Zabić sun bear i zdobyć niedźwiedzie mięso" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_01", "hash": "413A4741DC0409EE", "target": "Dostarczyć niedźwiedzie mięso Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_000", "hash": "5B5BCD2DA0C72FD2", "target": "Pszsz... Szkoo...<br>Pamiętasz Feltsmox? Feltsmox nadal nie złowiła ani jednej ryby! Feltsmox zaczyna być bardzo głodna..." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_001", "hash": "41BF11E64F38EBDD", "target": "To przez pobliskie niedźwiedzie sun bear. Wchodzą do rzeki, zjadają ryby i je płoszą!" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_002", "hash": "CE85F2170FA9AE7F", "target": "Proszę zabić uciążliwe sun bear. Zabić cztery niedźwiedzie i przynieść Feltsmox niedźwiedziomięso." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_010", "hash": "7A377ABB38EC85BE", "target": "Sun bear płoszą ryby, Feltsmox nie może złowić kolacji! Proszę zabić dla Feltsmox kłopotliwe niedźwiedzie i przynieść ich mięso." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_020", "hash": "6F9C023B6A91BD98", "target": "Niedźwiedzie sun bear zabite? Niedźwiedziomięso dla Feltsmox zebrane?" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_021", "hash": "5BF01F8B0005CB6E", "target": "Pszsz... Szkoo...<br>Niedźwiedzi nie ma, łowowody są spokojne. Feltsmox chce łowić ryby, ale najpierw napełni brzuch niedźwiedziomięsem." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_022", "hash": "F0B3CBCBE2C301BC", "target": "Feltsmox bardzo chce zjeść rybę, ale jest zbyt głodna, żeby czekać. Dziękuję <if(gnum4,wierzchniaczce,wierzchniakowi)> za mięso─pierwsze smakomięso Feltsmox od bardzo dawna!" }
   ]
 }

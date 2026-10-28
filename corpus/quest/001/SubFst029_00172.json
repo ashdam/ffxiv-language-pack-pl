@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubFst029_00172",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "" }
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "Arold potrzebuje poszukiwacza przygód, który dostarczy mu hi<-->potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "Arold, Leśny Płaczek stacjonujący przy Wieży Gilberta, został bezlitośnie pogryziony przez wiewiórki i jest w kiepskim stanie. Niestety skończyły mu się hi-potions, a nie może opuścić posterunku, aby kupić więcej u handlarki w Bannock. Pomóż Aroldowi, przynosząc potrzebne lekarstwo." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "Dzięki twojej życzliwości Arold powinien szybko wyzdrowieć. Choć rany się zagoją, przysięga zachować czujność, aby Las Dwunastu znów nie ukarał jego nieostrożności." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "Przekazać hi-potion Aroldowi" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "O bogowie, jak boli...<br>Przyłapałem wcześniej bandę wiewiórek na obgryzaniu płotów. Udało mi się je przepędzić, ale najpierw postanowiły pogryźć <italic(1)>mnie<italic(0)>! I teraz wyglądam tak, jak widać." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "Na domiar złego nie mam ani jednej hi-potion. Wiem, wiem... lekkomyślność. Pamiętam mgliście, że ostatnią zużyłem po jakimś drobnym skaleczeniu wiele księżyców temu... Bogowie raczą wiedzieć, czemu od razu nie kupiłem nowej. Nie ma <if(gnum4,pani,pan)> przypadkiem zapasowej fiolki?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "Jeśli nie ma żadnej pod ręką, handlarka w Bannock powinna mieć je na składzie. Nie mogę opuścić posterunku, więc będę ogromnie wdzięczny za przyniesienie hi-potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "Siedem piekieł, czy te przeklęte wiewiórki zostawiły na mnie choć jedno całe miejsce?<br>Ach, już z powrotem! Jest dla mnie ta hi-potion?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "Dzięki bogom! Mam wobec <if(gnum4,pani,pana)> dług. Proszę, to w podzięce." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "Nie miałem pojęcia, że wiewiórki potrafią <italic(1)>tak mocno<italic(0)> gryźć! Myślałem, że widziałem już wszystko, ale Las Dwunastu wciąż potrafi zaskoczyć. Warto, żebyśmy <if(gnum4,oboje,obaj)> o tym pamiętali." }
   ]
 }

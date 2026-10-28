@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz915_01980",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "" }
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "Allagański węzeł sterylizujący w milczeniu czeka na interakcję z użytkownikiem." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "Allagański węzeł sterylizujący informuje cię, że placówka utraciła połączenie sterujące z pięcioma jednostkami czyszczącymi─maszynami clockwork harvestman. Wymknęły się spod kontroli i stanowią zagrożenie. Zniszcz je." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "Niesprawny sprzęt zostaje zniszczony. Przekaż tę nową informację węzłowi sterylizującemu." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "Po rozebraniu niereagujących maszyn węzeł sterylizujący może wznowić pracę, lecz dowiadujesz się, że termin wymiany systemu minął niezmiernie dawno. Niestety nie możesz nic na to poradzić." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "Zniszczyć maszyny clockwork harvestman" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "Zdać relację węzłowi sterylizującemu" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "\\<pik> \\<pik> Błąd ponownego uruchamiania procedur sanitarnych. Połączenie sterujące z jednostkami czyszczącymi nie działa." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "Wymagany ręczny demontaż jednostek czyszczących. Proszę wycofać z użytku pięć maszyn clockwork harvestman. Wymagany ręczny demontaż jednostek czyszczących. Proszę wycofać z użytku pięć maszyn clockwork harvestman. Ręczny... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "\\<bzzzzzzz> ...jednostek czyszczących wymagany. Proszę wycofać z użytku pięć maszyn clockwork harvestman. Wymagany ręczny demontaż jednostek czyszczących. Proszę wycofać z użytku pięć... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "\\<bzzzzzzz> ...Potwierdzanie kontroli nad wszystkimi jednostkami czyszczącymi... \\<pik> \\<pik> Połączenie sterujące ze wszystkimi jednostkami czyszczącymi mieści się w dopuszczalnych parametrach." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "Termin wymiany tego węzła sterylizującego minął cztery tysiące dziewięćset sześćdziesiąt dwa lata, trzy miesiące i dwanaście dni temu. Aby zminimalizować ryzyko katastrofalnej awarii systemu, proszę wymienić ten węzeł sterylizujący przy najbliższej sposobności." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/055/JobXbm191_05500",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_100_000", "hash": "3701BAAD45E5C635", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_110_000", "hash": "440FBF266E3F0B3C", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_000", "hash": "E46AD913C94CB4E2", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_001", "hash": "662C403196F5F7EF", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_002", "hash": "35D9FCC5BD28D08E", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_003", "hash": "F15721599ED21FDE", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_004", "hash": "9BD432BD62A809DD", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_005", "hash": "E07B189F5C0D1564", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_020", "hash": "E4D02DFD8CA7618D", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_021", "hash": "B43257AE25C46EFA", "target": "" }
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_100_000", "hash": "3701BAAD45E5C635", "target": "Aby podjąć to zadanie, musisz najpierw spełnić następujące warunki:" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_110_000", "hash": "440FBF266E3F0B3C", "target": "1. FINAL FANTASY XIV: Dawntrail musi być zarejestrowane na twoim koncie usługi.<br>2. Musisz korzystać z joba beastmaster.<br>3. Musisz zaprzyjaźnić się z co najmniej dwudziestoma pięcioma bestiami." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_000", "hash": "E46AD913C94CB4E2", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>! Mam ekscytujące wieści o Crucible." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_001", "hash": "662C403196F5F7EF", "target": "Dodano nową planszę! Godną jedynie najbardziej utalentowanych mistrzów walki." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_002", "hash": "35D9FCC5BD28D08E", "target": "Pani Lauda wydaje się szczęśliwsza niż kiedykolwiek. Mówi, że duszom w Crucible świetnie się wiedzie, a nowa plansza pozwoli ambitnym bestiom rozwinąć skrzydła─niektórym całkiem dosłownie!" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_003", "hash": "F15721599ED21FDE", "target": "Co więcej, udało mi się <italic(1)>wyraźnie<italic(0)> usłyszeć, że wspominała o ostatnim przeciwniku: potężnym smoku zwanym „Borgny the Venomous”." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_004", "hash": "9BD432BD62A809DD", "target": "I co powiesz na taką spostrzegawczość? Wciąż dopiero poznaję ten fach, ale musisz przyznać, że mam oko do szczegółów!" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_005", "hash": "E07B189F5C0D1564", "target": "Pewnego dnia wyruszę do Crucible u twego boku, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,1)>! Och, co to będzie za dzień... A do tego czasu nadal przysparzaj nam dumy!" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_020", "hash": "E4D02DFD8CA7618D", "target": "Odblokowano planszę First Master's Board. Aby podjąć wyzwanie, porozmawiaj z Laudą na ranczu Bentbranch Meadows." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_021", "hash": "B43257AE25C46EFA", "target": "Ponadto u kupca Kornago dostępne są nowe towary." }
   ]
 }

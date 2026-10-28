@@ -2,16 +2,16 @@
   "conversation": "quest/027/StmBdz518_02769",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_003", "hash": "47D81111ABE7D058", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_010", "hash": "A5C3864438711A23", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_011", "hash": "58BD973C1354C384", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_012", "hash": "09CB8F8176431F1C", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_013", "hash": "7B5132DCB291C82E", "target": "" }
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "Caur potrzebuje pomocy <if(gnum4,silnej kobiety,silnego mężczyzny)>." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Zdobyć słup z ruin namiotu" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Dostarczyć Caur słup do namiotu" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "Czy mogę cię prosić o pomoc w naprawie naszego namiotu?" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "Główny słup, który go podtrzymuje, od kilku miesięcy coraz bardziej słabnie. Boję się, że długo już nie wytrzyma." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "Jednak niedawno zauważyłam zupełnie dobry słup na południe stąd. Znajdziesz go wśród szczątków namiotu plemienia Kahkol, zniszczonego przez wojowników Buduga." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_003", "hash": "47D81111ABE7D058", "target": "Na południe stąd jest inny słup. Znajdziesz go wśród szczątków namiotu plemienia Kahkol, zniszczonego przez wojowników Buduga." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_010", "hash": "A5C3864438711A23", "target": "Udało ci się znaleźć słup?" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_011", "hash": "58BD973C1354C384", "target": "Och, dziękuję! Powinien wytrzymać jeszcze wiele lat." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_012", "hash": "09CB8F8176431F1C", "target": "Wełny na pokrycia namiotów nigdy nam nie brakuje, ale znalezienie grubych pni na słupy to już zupełnie inna sprawa." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_013", "hash": "7B5132DCB291C82E", "target": "To dla nas naprawdę wielka przysługa. Dziękuję." }
   ]
 }

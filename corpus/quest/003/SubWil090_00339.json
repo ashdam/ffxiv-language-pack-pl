@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil090_00339",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "" }
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "Zuzutyro ma dla ciebie zyskowną propozycję." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "Zuzutyro prosi o czworo oczu węża, czyli po prostu gałki oczne peiste. Zabij tyle tych stworzeń, ile potrzeba, by zdobyć żądaną liczbę." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "Masz już potrzebną liczbę oczu węża. Dostarcz je Zuzutyro w Horizon." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "Zuzutyro z radością przyjmuje czworo oczu i wyjaśnia, że po zanurzeniu w alchemicznym roztworze staną się pięknymi czerwonymi klejnotami. Kupiec udaje się teraz do Gridanii, gdzie zamierza uzyskać za nie wysoką cenę." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "Zabić desert peiste i zdobyć oczy węża" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "Dostarczyć oczy węża Zuzutyro" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "Witaj, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Jeśli masz chwilę, mam propozycję gwarantującą zysk <italic(1)>i<italic(0)> całkowicie legalną." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "Powiedz, wiesz, czym jest peiste? To łuskoskóry podobny do węża, tyle że chodzi na czterech łapach. Zwykle petryfikuje ofiarę straszliwym spojrzeniem, zanim ją dobije." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "Chcę zdobyć ich oczy─zwane „oczami węża”─i potrzebuję kogoś, kto umie radzić sobie z groźną zwierzyną. Jeśli zabijesz kilka bestii i przyniesiesz mi czworo oczu, sowicie cię wynagrodzę." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "Potrzebuję czterech oczu węża. Zabij tyle peiste, ile trzeba, żeby je zdobyć." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "Oczy! Dziękuję ci!<br>...Hm? Pytasz, co z nimi zrobię? Sprzedam, oczywiście! Może na pierwszy rzut oka wyglądają niepozornie, ale zanurzone w alchemicznej miksturze zmieniają się w piękne czerwone klejnoty." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "A te klejnoty osiągają w Gridanii <italic(1)>bardzo<italic(0)> wysokie ceny. W Czarnym Całunie peiste nie występują. Jako kupiec muszę wiedzieć takie rzeczy." }
   ]
 }

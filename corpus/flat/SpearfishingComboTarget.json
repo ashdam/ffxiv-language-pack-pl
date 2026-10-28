@@ -1,0 +1,15 @@
+{
+  "sheet": "SpearfishingComboTarget",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "SpearfishingComboTarget#900.0", "hash": "9243C9E544785837", "target": "Dostrzegasz szafirowy poblask w pobliskich wodach." },
+    { "gameKey": "SpearfishingComboTarget#900.1", "hash": "B40DDDE27BD600D3", "target": "Szafirowy poblask migocze i gaśnie..." },
+    { "gameKey": "SpearfishingComboTarget#900.2", "hash": "F71B392DA9FB6F80", "target": "Znów dostrzegasz szafirowy poblask!" },
+    { "gameKey": "SpearfishingComboTarget#917.0", "hash": "F512A07B6220BFCF", "target": "Wyczuwasz ruchy niespodziewanego drapieżnika!" },
+    { "gameKey": "SpearfishingComboTarget#917.1", "hash": "915EEE08DD583C1E", "target": "Drapieżnik chyba odpłynął..." },
+    { "gameKey": "SpearfishingComboTarget#917.2", "hash": "8F9AC328692E01AD", "target": "Drapieżnik zawrócił!" },
+    { "gameKey": "SpearfishingComboTarget#1013.0", "hash": "8633C9F5FADD8DC9", "target": "Szkarłatna smuga wynurza się z głębin!" },
+    { "gameKey": "SpearfishingComboTarget#1013.1", "hash": "A8095B9B83A72FE4", "target": "Szkarłatna smuga zdaje się rozpływać..." },
+    { "gameKey": "SpearfishingComboTarget#1013.2", "hash": "40B9A07F1608B69D", "target": "Szkarłatna smuga znów się wynurza!" }
+  ]
+}

@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst039_00196",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "" }
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "Galfrid, główny instruktor na placu ćwiczeń Bannock, chce, by pomóc w szkoleniu nowych rekrutów." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Galfridem na placu ćwiczeń Bannock.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "Black efts zostały zabite. Zdaj sprawę Galfridowi na placu ćwiczeń Bannock." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "Po obejrzeniu pokazu twoich umiejętności rekruci wracają do ćwiczeń z nowym zapałem. Nadal doskonal swoje zdolności, by czyny żołnierzy z placu ćwiczeń Bannock nie przyćmiły kiedyś twoich." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Galfridem na placu ćwiczeń Bannock<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Galfridem na placu ćwiczeń Bannock<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "Możemy zamienić słowo? Jest pewna trudna sprawa, w której przydałaby mi się twoja pomoc." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "Pozwól, że wyjaśnię. W pobliskiej rzece żyje kolonia black efts. Wysłałem grupę rekrutów, by je zabili. Ledwie jednak minął dzwon, młodzi wrócili─w histerii, lecz wyraźnie bez draśnięcia─i głośno pomstowali na swój pech, że kazano im walczyć z takimi „piekielnymi potworami”." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "Żałosne. Moja prababcia poradziłaby sobie z eft za pomocą laski i ostrego słowa. Nie do wiary, że takie zadanie mogło przerazić całą grupę sprawnych kobiet i mężczyzn. Pokaż tym trzęsącym się maminsynkom, jak to się robi: idź nad rzekę i zabij cztery z tych stworzeń." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "Znowu cię widzę, <split(<string(gstr1)>, ,1)>. Znakomita robota." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "Kazałem rekrutom patrzeć z brzegu, jak zabijasz efts. Wygląda na to, że twoja sprawność w walce ich natchnęła." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "Albo po prostu nie chcą zostać w cieniu <if(gnum4,poszukiwaczki przygód,poszukiwacza przygód)>─to bez większego znaczenia. <italic(1)>Liczy się<italic(0)> to, że znów ćwiczą z zapałem, a zawdzięczam to tobie. Mam u ciebie dług." }
   ]
 }

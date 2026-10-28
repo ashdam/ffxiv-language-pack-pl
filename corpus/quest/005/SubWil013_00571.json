@@ -2,18 +2,18 @@
   "conversation": "quest/005/SubWil013_00571",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_00", "hash": "E4D2E2A060BDAEBD", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_01", "hash": "1C66008845F6329A", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_02", "hash": "04A997EA317E5B47", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_03", "hash": "BFA6266601344EB3", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_TODO_00", "hash": "5A695847167B44EA", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_TODO_01", "hash": "5345AF8BCCB5EE2A", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_000", "hash": "35A54D4F52E9A5B1", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_001", "hash": "BC508D2817CBA80A", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_002", "hash": "B68A826DAB5C546F", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_003", "hash": "B022DEE316E2940C", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_010", "hash": "7FA557FEB69EC5BE", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_011", "hash": "AD3495B9BDBF2AA1", "target": "" },
-    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_012", "hash": "DB166D8782250A2A", "target": "" }
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_00", "hash": "E4D2E2A060BDAEBD", "target": "Wolkan z Gildii Gladiatorów gorączkowo mamrocze pod nosem o pladze biedronek w okolicy." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_01", "hash": "1C66008845F6329A", "target": "Udaj się do rejonu Western Thanalan i zabij cztery dokuczliwe biedronki." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_02", "hash": "04A997EA317E5B47", "target": "Dzielnie rozprawiasz się z czterema niczego niepodejrzewającymi biedronkami. Wróć do Gildii Gladiatorów i opowiedz Wolkanowi o swym bohaterskim czynie." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_SEQ_03", "hash": "BFA6266601344EB3", "target": "Zabicie kilku nikczemnych biedronek sprawiło, że droga przez Thanalan stała się znacznie bezpieczniejsza dla wędrownych kupców." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_TODO_00", "hash": "5A695847167B44EA", "target": "Zabić biedronki w rejonie Western Thanalan" },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_TODO_01", "hash": "5345AF8BCCB5EE2A", "target": "Zdać raport Wolkanowi w Gildii Gladiatorów" },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_000", "hash": "35A54D4F52E9A5B1", "target": "Przywlokło cię tu za robotą, co? Masz szczęście. Akurat mam coś do zrobienia." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_001", "hash": "BC508D2817CBA80A", "target": "Dzikie biedronki rozrabiają pod miastem jak diabli. Coś je ostatnio tak rozdrażniło, że są zajadlejsze od tura w rui." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_002", "hash": "B68A826DAB5C546F", "target": "Pojedynczo niewiele potrafią, ale w kupie dadzą radę każdemu kupcowi, co dłużej ssał mleko matki, niż wojował." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_003", "hash": "B022DEE316E2940C", "target": "To jak będzie? Ubijesz cztery takie paskudy czy nie?" },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_010", "hash": "7FA557FEB69EC5BE", "target": "Wracasz w jednym kawałku? Najwyższy cholerny czas." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_011", "hash": "AD3495B9BDBF2AA1", "target": "Przyznaję, wyglądasz, jakby miecz trafił w twoje ręce dopiero wczoraj. Ale radzisz sobie nieźle, trzeba ci to oddać." },
+    { "gameKey": "quest/005/SubWil013_00571#TEXT_SUBWIL013_00571_WOLKAN_012", "hash": "DB166D8782250A2A", "target": "To też ci oddam. Nie starczy na noc w najlepszym burdelu w Ul'dah, ale na pewno ci się przyda." }
   ]
 }

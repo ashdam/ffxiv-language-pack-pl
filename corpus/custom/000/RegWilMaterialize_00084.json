@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegWilMaterialize_00084",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_01", "hash": "FE63949E6EE2A7C5", "target": "" },
-    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_02", "hash": "5C40B2F2F2AD29C2", "target": "" }
+    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_01", "hash": "FE63949E6EE2A7C5", "target": "Pshhh...?<br><if(gnum4,Wierzchniaczka chce,Wierzchniak chce)> wyjąć materię? Wystarczy klinopodważyć. Jeśli <if(gnum4,wierzchniaczka ma,wierzchniak ma)> szczęście, materia nie zmieni się w drobniusie kawałki!" },
+    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_02", "hash": "5C40B2F2F2AD29C2", "target": "Aby wyjąć materię z przedmiotu, zaznacz jego ikonę i wybierz Odzyskaj materię. Istnieje szansa, że uda się ją odzyskać." }
   ]
 }

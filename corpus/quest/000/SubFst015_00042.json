@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst015_00042",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_00", "hash": "84E53945BB0F7411", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_01", "hash": "CEFB0A3BB869B501", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_02", "hash": "225AE10B83270040", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_03", "hash": "12A72B63F1D3D9D8", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_TODO_00", "hash": "C016A6D9A642699B", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_TODO_01", "hash": "6B3CF002802E8EBE", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_1", "hash": "5C100A2B025A9A7F", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_2", "hash": "B616DA1B08938060", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_3", "hash": "13311A3F66740FAF", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_4", "hash": "6EDE5D47DA0D7777", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_5", "hash": "7124594DDED4380B", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_10", "hash": "8DDD592765DBC44F", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_11", "hash": "8284F0535F333410", "target": "" },
-    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_12", "hash": "04874233200E0680", "target": "" }
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_00", "hash": "84E53945BB0F7411", "target": "Estaine, opiekunka Amfiteatru Mih Khetto, potrzebuje pomocy poszukiwacza przygód w sprzątaniu." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_01", "hash": "CEFB0A3BB869B501", "target": "Pewnego ranka zapracowana opiekunka Estaine odkrywa w Amfiteatrze Mih Khetto tajemnicze stosy warzyw. Dochodzi do wniosku, że pozostawiły je sylfy, które odwiedzają to miejsce nocami, w dowód wdzięczności dla Gridanii. Pomóż jej pozbierać świeże dary." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_02", "hash": "225AE10B83270040", "target": "Amfiteatr jest posprzątany─przynajmniej do kolejnego przypływu hojności sylfów. Estaine ucieszy wiadomość o ukończeniu zadania." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_03", "hash": "12A72B63F1D3D9D8", "target": "Estaine dziękuje za twoją życzliwość, po czym podkreśla rolę Amfiteatru Mih Khetto w jednoczeniu Gridańczyków. Zastanawia się, czy dla sylfów to miejsce ma podobne znaczenie... a potem rozważa, co zrobić z nadmiarem świeżych warzyw." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_TODO_00", "hash": "C016A6D9A642699B", "target": "Zebrać ofiary z warzyw" },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_TODO_01", "hash": "6B3CF002802E8EBE", "target": "Porozmawiać z Estaine" },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_1", "hash": "5C100A2B025A9A7F", "target": "Witaj. Przychodzisz zobaczyć słynny Amfiteatr Mih Khetto?" },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_2", "hash": "B616DA1B08938060", "target": "Jestem Estaine, opiekunka tego wspaniałego ośrodka gridańskiej kultury. Obawiam się, że muszę poprosić cię o pomoc." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_3", "hash": "13311A3F66740FAF", "target": "To miejsce przyciąga nie tylko <if(gnum4,życzliwe kobiety,życzliwych mężczyzn)> jak ty. Sylfy często zaglądają tu w środku nocy, gdy mieszkańcy już dawno śpią." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_4", "hash": "6EDE5D47DA0D7777", "target": "Nie mamy nic przeciw ich obecności, a one chyba doceniają naszą gościnność. Tak bardzo, że ostatniej nocy zostawiły nam w podzięce... warzywa. <italic(1)>Mnóstwo<italic(0)> warzyw." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_5", "hash": "7124594DDED4380B", "target": "Oczywiście ich hojność bardzo nas cieszy... ale tych warzyw jest tyle, że pozbieranie ich wymaga sporo pracy. A ja i tak mam już pełne ręce roboty. Byłabym więc wdzięczna za każdą pomoc." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_10", "hash": "8DDD592765DBC44F", "target": "Dobra robota. Sama Mih Khetto wyśpiewywałaby twoją chwałę." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_11", "hash": "8284F0535F333410", "target": "Dobrze znała potęgę sztuki. Wiedziała, że może umocnić ducha narodu i zachować jego dzieje dla przyszłych pokoleń. Ten amfiteatr był jej najwspanialszym darem dla Gridanii. Pragnęła, by wszyscy swobodnie z niego korzystali─nie tylko podczas występów i świąt, ale też dzieląc się wspomnieniami i tworząc nowe." },
+    { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_ESTAINE_000_12", "hash": "04874233200E0680", "target": "Ciekawe, czy sylfy właśnie po to tu przychodzą... Choć <italic(1)>naprawdę<italic(0)> wolałabym, żeby znalazły inny sposób okazywania wdzięczności. Nam warzywa się nie przydadzą, ale może Carline Canopy zrobi z nich użytek. W każdym razie dzięki żywiołakom za twoje dzisiejsze przybycie." }
   ]
 }

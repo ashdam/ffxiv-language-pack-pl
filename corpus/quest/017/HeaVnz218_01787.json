@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz218_01787",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_00", "hash": "B3906E5CE686179B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_01", "hash": "680C845923D0E01B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_02", "hash": "B2851D20B9EB21CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_03", "hash": "674B9469F07DDE40", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_00", "hash": "D04B3FFE9B08C3F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_01", "hash": "5758CC2CAD13A3AF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_000", "hash": "9814507D93A1A997", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_001", "hash": "2DA59CB149FF8667", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_010", "hash": "48451F0D413DA0DF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_100_011", "hash": "3FE6AB8B3C25CFAC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_020", "hash": "2F5719B2A6932D25", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_021", "hash": "57C830AA207AB951", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_000_022", "hash": "497B4126182BFCDB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_023", "hash": "F007EC6B13E20CA3", "target": "" }
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_00", "hash": "B3906E5CE686179B", "target": "The Hungerer ukradkiem zerka w stronę Przysięgi Klaczy." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_01", "hash": "680C845923D0E01B", "target": "The Hungerer opisuje ci drzewo rosnące na wzniesieniu przed Przysięgą Klaczy. Jego owoce nie mają sobie równych─a im dojrzalsze, tym lepsze. Te najbardziej dojrzałe spadają z gałęzi na ziemię. Prosi cię o zebranie dla niej trzech takich owoców." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_02", "hash": "B2851D20B9EB21CB", "target": "Znajdujesz drzewo we wskazanym miejscu i zbierasz owoce. Otacza cię słodki zapach przejrzałego miąższu. Zanieś je the Hungerer czekającej w Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_03", "hash": "674B9469F07DDE40", "target": "The Hungerer z zachwytem przyjmuje owoce, lecz stojący nieopodal Cibleroit spogląda na nie z obrzydzeniem. Takie różnice zdań są jednym z wielu przejawów indywidualności, które urozmaicają życie Odłączonych." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_00", "hash": "D04B3FFE9B08C3F7", "target": "Zebrać owoce" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_01", "hash": "5758CC2CAD13A3AF", "target": "Dostarczyć owoce the Hungerer" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_000", "hash": "9814507D93A1A997", "target": "Owoce. Pyszne owoce. Na samą myśl swędzą nas żuwaczki. \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_001", "hash": "2DA59CB149FF8667", "target": "Znasz wzniesienie przy Przysiędze Klaczy? Rośnie tam wielkie drzewo. Ma pyszne owoce. Najdojrzalsze spadają na ziemię, gotowe do zjedzenia. \\<klik> \\<klik> Przynieś nam trzy takie owoce." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_010", "hash": "48451F0D413DA0DF", "target": "Pyszne owoce. Dojrzałe owoce. Przyniesiesz nam owoce? Przy Przysiędze Klaczy. Wielkie drzewo." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_100_011", "hash": "3FE6AB8B3C25CFAC", "target": "Dlaczego tak lubisz te owoce?" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_020", "hash": "2F5719B2A6932D25", "target": "Czujemy owoce! \\<klik> \\<klik> Swędzą nas od nich żuwaczki!" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_021", "hash": "57C830AA207AB951", "target": "Takie słodkie i miękkie... \\<klik> \\<klik> Cudowne owoce. Dziękujemy ci za hojność, <if(gnum4,łowczyni,łowco)>." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_000_022", "hash": "497B4126182BFCDB", "target": "Nie pojmujemy, dlaczego lubisz te owoce. \\<klik> \\<klik> Zapach jest obrzydliwy, a konsystencja jeszcze gorsza." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_023", "hash": "F007EC6B13E20CA3", "target": "Żal nam ciebie. Przez zły gust masz uboższe życie. Ale to dobrze, bo zostanie dla nas więcej owoców! \\<klik> \\<klik> \\<klik> Bycie Odłączonym nie zawsze jest złe, sądzimy." }
   ]
 }

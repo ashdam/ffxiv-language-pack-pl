@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa107_00721",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_00", "hash": "5F867E92BB4A15F1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_01", "hash": "2319FD68795EF46C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_02", "hash": "B40FE4D88342B611", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_03", "hash": "9F5780D93060EA02", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_00", "hash": "0AA643AB865B5A26", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_01", "hash": "A0AE997BA476FDC8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_000", "hash": "556F110F45B0B91F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_001", "hash": "88A03083E0767317", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_002", "hash": "8FC2D729E62CEE4F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_010", "hash": "5A6E1C5F141FB52C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_011", "hash": "C6F5F5C740819A6C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_POP_MESSAGE_000", "hash": "E78FA8A77E325D48", "target": "" }
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_00", "hash": "5F867E92BB4A15F1", "target": "Sylf Laxio potrzebuje pomocy w zabijaniu djigga." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_01", "hash": "2319FD68795EF46C", "target": "Laxio wyjaśnia, że buzzing djigga polują na jego pobratymców, gdy ci wychodzą poza Małą Pociechę, by wygrzewać się w słońcu. Polecił dwóm sylfom zwabić żarłoczne pasożyty i prosi cię o zabicie robactwa." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_02", "hash": "B40FE4D88342B611", "target": "Djigga zostały wytępione. Zdaj raport Laxio w Małej Pociesze." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_03", "hash": "9F5780D93060EA02", "target": "W Małej Pociesze dowiadujesz się, że sylfy potrzebują światła słonecznego, by przeżyć. Dzięki twojej pomocy mogą teraz korzystać ze słońca, nie stając się pożywieniem djigga." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_00", "hash": "0AA643AB865B5A26", "target": "Pokonać buzzing djigga we wskazanym miejscu" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_01", "hash": "A0AE997BA476FDC8", "target": "Zdać raport Laxio w Małej Pociesze" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_000", "hash": "556F110F45B0B91F", "target": "Ci tutaj potrzebują pomocy! Proszę pomóc tym tutaj!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_001", "hash": "88A03083E0767317", "target": "Podli zwani buzzing djigga myślą, że ci tutaj są jedzeniem. Atakują tych tutaj! Atakują zawsze, gdy ci tutaj idą do lasu wygrzewać się w słońcu!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_002", "hash": "8FC2D729E62CEE4F", "target": "Niektórzy z tych tutaj poszli do lasu─do lasu zwabić podłych. Ten tutaj chce, żeby chodzący czekał na podłych─czekał blisko i zabił podłych, którzy przyjdą." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_010", "hash": "5A6E1C5F141FB52C", "target": "Ci tutaj muszą kąpać się w słońcu, żeby przeżyć. Bez słońca ci tutaj zachorują─zachorują i uschną, aż nie zostanie nikt!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_011", "hash": "C6F5F5C740819A6C", "target": "Dzięki chodzącemu ci tutaj znów mogą bezpiecznie kąpać się w słońcu! Chwała chodzącemu!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_POP_MESSAGE_000", "hash": "E78FA8A77E325D48", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

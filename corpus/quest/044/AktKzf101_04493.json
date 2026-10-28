@@ -11,7 +11,7 @@
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_TODO_00", "hash": "4B6D66541231599F", "target": "Porozmawiaj z mieszkańcami." },
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_TODO_01", "hash": "8BDA214C6887F10E", "target": "Zdaj relację Yezahnowi." },
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_TODO_02", "hash": "C716BAA30366BA00", "target": "Porozmawiaj z Pasareen." },
-    { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_TODO_03", "hash": "1A4F56F6A17D8AB5", "target": "Porozmawiaj z Yezahnem." },
+    { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_TODO_03", "hash": "1A4F56F6A17D8AB5", "target": "Porozmawiać z Yezahnem" },
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_YEZAHN_000_000", "hash": "708A64EEBCDE5739", "target": "Ach... Och, wybacz. Potrzebujesz czegoś?" },
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_YEZAHN_000_001", "hash": "0BFDC68A0F66D509", "target": "Zaraz, to ty! <if(gnum4,Ta sama kobieta,Ten sam mężczyzna)>, <if(gnum4,która,który)> <if(gnum4,uratowała,uratował)> dziecko Mehvan. <split(<string(gstr1)>, ,1)>, prawda?" },
     { "gameKey": "quest/044/AktKzf101_04493#TEXT_AKTKZF101_04493_YEZAHN_000_002", "hash": "41C2AB2867D9C031", "target": "Wiedziałem. Jestem Yezahn, alchemik z Great Work. Należę do tych kilku osób, które opiekują się dziewczynką w czasie jej powrotu do zdrowia." },

@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc207_00966",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "Nawiedzone wraki kryją najróżniejsze cenne ładunki, a Erapi Taropi wierzy, że znajdzie w nich przyprawę, która przemieni jego mdłą zupę w wyborną strawę." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "Zmuszony przeczekać najazd duchów na Wyspy Umbry, niezbyt ochoczy szabrownik Erapi Taropi zajmuje się kolacją. Jego zupa rybna pachnie całkiem nieźle, ale mimo to prosi cię o pomoc w jej doprawieniu. Udaj się na Cmentarzysko Statków i przynieś garść dalekowschodnich przypraw z porzuconej skrzynki przypraw." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "Znajdujesz skrzynkę i zabierasz garść jej zawartości. Czy przyprawy zazwyczaj są takie rozmiękłe? Na Dalekim Wschodzie mają doprawdy osobliwe zwyczaje. Oddaj przyprawy w bardziej wprawne ręce Erapiego Taropiego." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "Przekazujesz przyprawy Erapiemu Taropiemu, który odkrywa, że są spleśniałą breją... <italic(1)>po<italic(0)> dodaniu ich do zupy. Woń potrawy gwałtownie odbiera ci apetyt, a biedny Erapi Taropi zaczyna smętnie liczyć gile na świeże zapasy." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "Zebrać dalekowschodnie przyprawy ze skrzynki przypraw" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "Dać przyprawy Erapiemu Taropiemu" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "No to ładnie wdepnąłem. <italic(1)>Łatwa<italic(0)> forsa, mówili. Wystarczy przyjść, zgarnąć wyrzucony na brzeg towar i odejść. „Wszyscy wezmą cię za ducha!” Phi! Może by się udało, gdyby nie te <italic(1)>prawdziwe<italic(0)> łażące trupy." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "Cholernie szkoda, ale żaden łup nie jest wart gniewu tych kościotrupów. Tyle skarbów do zgarnięcia, a ja mogę chwycić co najwyżej chochlę." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "...Co? Trzeba coś jeść, czekając, aż niespokojne duchy powędrują gdzie indziej. Ty też wyglądasz na głodną duszę. Chcesz trochę tej zupy rybnej? Sam ugotowałem!" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "Tylko nie miałem czym jej doprawić poza solą, więc jest trochę mdła. Ja będę jej doglądał, a ty może skoczysz na Cmentarzysko Statków po przyprawy? Widziałem tam coś niezgorszego z Dalekiego Wschodu, zanim musiałem brać nogi za pas przed upiorem." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "Masz je? Zupka ładnie dochodzi. Zawsze umiałem ugotować dobrą zupę rybną..." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "Aha! A nie mówiłem? Wiedziałem, że tam są. Tylko je wrzucę i będzie uczta godna samej admi─" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "\\<węszy> Fuj, śmierdzi jak <italic(1)>nogi<italic(0)>! Ile te przyprawy leżały na Cmentarzysku Statków? \\<wzdycha> Teraz nawet kolacji nie mam." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "Mówiłem im, że to zły pomysł. Łatwa forsa, mówili. Pewnie, że łatwa... dla mieszkańców tej wyspy. Będę musiał kupić od nich więcej popoto i śmietany." }
   ]
 }

@@ -2,8 +2,8 @@
   "conversation": "custom/002/CmnGscDailyLotDescription_00226",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01", "hash": "DFD7DE14286E3E8F", "target": "" },
-    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02", "hash": "3AFF6D18D7E2531D", "target": "" },
-    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03", "hash": "2FA85630F9B3A739", "target": "" }
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01", "hash": "DFD7DE14286E3E8F", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>! Sprzedaję losy Mini Cactpot. Może skusi się <if(gnum4,pani,pan)> na jeden, by sprawdzić, dlaczego mówimy: „Do bogactwa wystarczy jedno zdrapnięcie”?" },
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02", "hash": "3AFF6D18D7E2531D", "target": "Możesz kupić do trzech losów Mini Cactpot dziennie." },
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03", "hash": "2FA85630F9B3A739", "target": "Licznik losów Mini Cactpot resetuje się codziennie o <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23)>,0)>:00 (czas ziemski)." }
   ]
 }

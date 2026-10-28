@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel103_05201",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "" }
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "Yubli martwi się żerowaniem głodnych potworów.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "Rozejrzeć się w miejscu docelowym i pokonać wszystkie u'out, które się pojawią" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "Porozmawiać z Yubli" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "Miło widzieć Dock Poga tak pełne życia i ruchu, ale większy napływ ludzi przyciągnął pewnych... nieproszonych gości." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "Mamy plagę u'out. Jeśli chcemy chronić klientów przed tymi wędrującymi istotami roślinnymi, musimy regularnie zmniejszać ich liczebność..." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "Byłbym wdzięczny za pomoc <if(gnum4,naszej specjalnej doradczyni,naszego specjalnego doradcy)> w tej sprawie! Widziano je na Szlaku Słońca. Proszę rozejrzeć się po okolicy i rozprawić ze wszystkimi u'out, które się pojawią!" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "Dziękuję za zajęcie się tymi istotami roślinnymi. Na razie nasi klienci nie muszą obawiać się ich żarłoczności." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "Właśnie dostarczono nam też wyciąg, który podobno odstrasza u'out i im podobne. Zamierzam rozprowadzić go w okolicy jako dodatkowe zabezpieczenie." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "Niestety takie środki nie są trwałe. Gdy stworzenia wrócą, mam nadzieję znów móc liczyć na <if(gnum4,pani,pana)> pomoc!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanSah310_01409",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "" }
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "Seww chce, by twoje działanie usunęło poważne zagrożenie dla pokoju na tarlisku." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "Według wojownika Seww osławiona kapitan Wężowych Łupieżców, Aermswys the Stained, spiskuje z przywódcami Koralowych Trójzębów. Młody przedstawiciel ludu Sahagin obawia się, że bezczynne przyglądanie się realizacji ich nikczemnych planów sprowadzi na jego lud nieszczęście. Weź udział w FATE „Watch Your Tongue” w Wężowym Języku i przedstaw wojownikowi Seww dowód swojego czynu." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "Straszliwa kapitan została pokonana, a jej coral necklace trafia do wojownika Seww. Potomek Novva potwierdza autentyczność ozdoby i wychwala ogrom twojego dokonania. Choć udaremniasz wszelkie knowania Koralowych Trójzębów, nie powstrzyma ich to przed skorzystaniem z podłych usług kolejnego kapitana, który wyłoni się z szeregów Wężowych Łupieżców..." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "Dostarczyć coral necklace zdobyty w FATE „Watch Your Tongue” wojownikowi Seww" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "Psss... Widziano, jak osławiona kapitan Wężowych Łupieżców, Aermswys the Stained, spotyka się z przywódcami Koralowych Trójzębów." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "Nie wiemy, jakie knują podłe plany, ale nic, w co zamieszana jest ta bezpłetwa bestia, nie wróży dobrze pokojowi na tarlisku." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "Nie sądzę, by mądrze było stać z boku i pozwalać wydarzeniom toczyć się własnym biegiem. Jeśli śmierć jednej odrażającej piratki może oszczędzić mojemu ludowi przyszłej tragedii, niech tak będzie!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "Psss... Kapitan często zamyka się w swojej kajucie, ale możesz spotkać ją na przechadzce w Wężowym Języku. Zabij tę niebezpieczną kobietę, <split(<string(gstr1)>, ,1)>, i przynieś mi coral necklace, który jest oznaką jej wierności Koralowym Trójzębom." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "Aermswys the Stained należy do najpodlejszych sługusów Trójzębów. Przynieś mi jej coral necklace, byśmy wiedzieli, że ta straszna brzegołazka już nie żyje!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "Tak, ta ozdoba dowodzi, że pokonana piratka była kapitanem i nikim innym. Łupieżcy nie będą mieli wiele czasu na łajdactwa, gdy zaczną walczyć o schedę po niej." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "Psss... Nie pojmuję, dlaczego Trójzęby zadają się z taką szumowiną. Najwyraźniej nasz ojciec lęgu ma znacznie lepszy gust, gdy dobiera sojuszników wśród brzegołazów!" }
   ]
 }

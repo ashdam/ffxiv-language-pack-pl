@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc205_00964",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "" }
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "Otan Yaratan wygląda na śmiertelnie przerażonego." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "Marynarz nie jest tchórzem, ale Otan boi się duchów bardziej niż katastrof morskich. Pozwól mu trząść się ze strachu i rozpraw się z pięcioma niespokojnymi duchami, znanymi w okolicy jako dead man's moan." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "Dla wprawnego poszukiwacza przygód śmierć przeciwnika nie stanowi przeszkody w jego zabiciu. Wróć do Pharos Sirius i porozmawiaj z Otanem Yaratanem." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "Odetchnąwszy z ulgą, latarnik wylewa przed tobą swoje żale. Co, na Dwunastu, dzieje się z niegdyś spokojnym Pharos Sirius?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "Zabić duchy dead man's moan" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "Zdać sprawę Otanowi Yaratanowi" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "D<-->Duchy! Niespokojne duchy na całej wyspie! Trzeba coś zro─ Aha!<br><italic(1)>W imię Dwunastu, precz<italic(0)>!<br>...Nie odchodzą, co?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "\\<wzdycha> Nie wiem, co ja─ Och! <if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód! Dzięki Dwunastu. Przyda mi się pomoc. Tutejsi zmarli nie spoczywają zbyt spokojnie! Nie mam pojęcia, jak mamy naprawić latarnię przy tych wszystkich wybrykach." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "Naprawdę udało ci się pozbyć tych wszystkich jęczących łajdaków!? Teraz pewnie lepiej im się spoczywa... marudne skurczybyki." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "Ciągle coś się tu dzieje. Statki rozpruwają sobie brzuchy na rafach, porządni ludzie znikają..." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "Kiedyś było tu całkiem przyjemnie, wiesz. Teraz latarnia jest rozwalona, a <italic(1)>takie<italic(0)> rzeczy zdarzają się ze trzy razy na księżyc, jeśli nie częściej." }
   ]
 }

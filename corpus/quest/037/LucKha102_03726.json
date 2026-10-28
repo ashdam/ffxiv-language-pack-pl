@@ -24,7 +24,7 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_000_013", "hash": "E3D68E3948B268ED", "target": "Gdy tylko zechce <if(gnum4,pani,pan)> zacząć, wezwę petentów po kolei. Wystarczy słowo." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_000_015", "hash": "7CFA41B4AF98D7D3", "target": "Dziękuję za poświęcenie czasu na odszukanie mojego pana." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_000_020", "hash": "8EDADEA38DDFA1D9", "target": "Czy mogę już wpuścić petentów, <if(gnum4,szanowna pani,szanowny panie)>?" },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_021", "hash": "D544E494D977A7E1", "target": "Rozmowy z petentami potrwają kilka minut. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_021", "hash": "D544E494D977A7E1", "target": "Rozmowy z petentami potrwają kilka minut. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q1_000_000", "hash": "C8C1938B70C5CF6E", "target": "Zacząć przyjmować petentów?" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_AUGEBERT_000_022", "hash": "08FC2E90F658A08C", "target": "Hm? Francel znów gdzieś poszedł? Ostatnio chłopak urabia się po łokcie, pomagając ludziom się osiedlić." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_AUGEBERT_000_023", "hash": "A253EE3F8D8E7E93", "target": "Chciałem pogadać z nim o dużej robocie, która nas czeka. Potrzebujemy do niej więcej ludzi." },

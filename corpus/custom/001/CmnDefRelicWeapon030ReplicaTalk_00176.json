@@ -2,10 +2,10 @@
   "conversation": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "Zaawansowane osadzanie materii jest wysoce niestabilnym procesem. <italic(1)>Musi<italic(0)> istnieć sposób na wykorzystanie mocy tych kamieni bez ryzyka ich zniszczenia..." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "Gdy zwój sferyczny zostanie w pełni nasycony materią, zajaśnieje niczym gwiazdy na niebie. To znak, że jego moc jest gotowa do przeniesienia do odpowiedniego naczynia." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "Na bogów, udało... udało się <if(gnum4,pani,panu)>! <italic(1)>Udało nam się<italic(0)>! Pomyśleć, że moje wysiłki wreszcie przyniosły owoce... Żadne słowa nie wyrażą radości, jaką teraz czuję." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "Rzecz jasna, moje badania są dalekie od zakończenia. Zanim wyciągnę wnioski, trzeba jeszcze wiele sprawdzić, dlatego dalsza współpraca będzie dla mnie wielką przysługą." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "Jeśli zamierza <if(gnum4,pani,pan)> ulepszyć kolejną reliktową broń, proszę przynieść wymaganą ilość materiału superior enchanted ink, a przygotuję odpowiedni zwój sferyczny." }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "custom/002/CmnGscChocoboRaceGetFoal_00236",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "Po młodego chocobo, tak? Poproszę dokument Proof of Covering..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "No proszę! Ktoś tu już się rwie do biegu! Oto formularz rejestracyjny młodego chocobo─resztę zostawiam <if(gnum4,pani,panu)>." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "Co takiego? Nie ma dokumentu Proof of Covering? \\<wzdycha> To po co ja się w ogóle odzywam?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "Aby odebrać nowo wyklutego chocobo, musisz okazać dokument Proof of Covering postaci imieniem Katering." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "Komuś się strasznie spieszy─aż za bardzo. Takie rzeczy wymagają czasu, gdyby to <if(gnum4,pani,panu)> umknęło." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "Nie możesz odebrać młodego chocobo przed terminem podanym w dokumencie Proof of Covering." }
   ]
 }

@@ -15,7 +15,7 @@
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_02", "hash": "140F0ABA1185621A", "target": "Użyć /pray przy grobie A<-->Towa<-->Canta na Rubieży Raubahna" },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_03", "hash": "F6C84C501B5C14E7", "target": "Porozmawiać z Raya<-->O<-->Senną w Camp Tranquil" },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_04", "hash": "4D1FB47BF8BA4471", "target": "Zbadać grób A<-->Towa<-->Canta koło Dumnego Potoku" },
-    { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_05", "hash": "EA9BD50C86564D73", "target": "Oddać szatę New White Mage's Robe Raya<-->O<-->Sennie" },
+    { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_05", "hash": "EA9BD50C86564D73", "target": "Oddać nową szatę joba White Mage Raya<-->O<-->Sennie" },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_06", "hash": "17DF52EAF783BBA8", "target": "Użyć /pray przy grobie A<-->Towa<-->Canta koło Wykopalisk Ludu Kobold" },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_TODO_07", "hash": "41A8D280697ECA38", "target": "Złożyć raport Raya<-->O<-->Sennie w Camp Tranquil" },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_RAYAOSENNA_000_000", "hash": "3A5EF2CF87815595", "target": "Znacznie lepiej władasz białą magią, <split(<string(gstr1)>, ,1)>. Tak, czas się zbliża─zacznijmy przygotowania do Ukojenia." },

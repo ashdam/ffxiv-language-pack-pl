@@ -16,7 +16,7 @@
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_02", "hash": "36985DAB5EC028C9", "target": "Porozmawiać z Joye i pokonać pojawiających się wrogów" },
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_03", "hash": "47D43106DCEDB228", "target": "Porozmawiać z Rostnsthalem" },
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_04", "hash": "6E2DB5B7472228A1", "target": "Zdać raport Rostnsthalowi" },
-    { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_05", "hash": "CE5692964D3BC3FD", "target": "Przekazać Stephanivienowi magitek gyroscope #41" },
+    { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_05", "hash": "CE5692964D3BC3FD", "target": "Przekazać Stephanivienowi żyroskop magitek nr 41" },
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_TODO_06", "hash": "0D72FE040E01162B", "target": "Porozmawiać ze Stephanivienem w Skysteel Manufactory" },
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_STEPHANIVIEN_000_000", "hash": "4FF5966A7CCC8330", "target": "Witaj, <split(<string(gstr1)>, ,1)>! Czy pokonywanie wrogów z dystansu weszło ci już w krew? Przy zasięgu naszej broni nawet smoki w przestworzach nauczą się respektu dla wyszkolonego mechanika!" },
     { "gameKey": "quest/016/JobMch350_01698#TEXT_JOBMCH350_01698_STEPHANIVIEN_000_001", "hash": "500EC1B6401906A8", "target": "Choć skuteczność naszych dział i balist nie ulega wątpliwości, wielu rycerzy Ishgardu wciąż stroni od broni palnej, przedkładając nad nią włócznię i miecz. Ach, te skrzypiące kajdany tradycji. ... Słuchaj! Właśnie zbliża się wspomniane skrzypienie!" },

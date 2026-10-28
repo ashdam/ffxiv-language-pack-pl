@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn506_02996",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_SEQ_00", "hash": "331076C39B04CF12", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_00", "hash": "053A57D89D05DE27", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_01", "hash": "1BC212E1BD41BA28", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_000", "hash": "CFC0116CFF4CCFEC", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_001", "hash": "E2A2FF02715DED2B", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_020", "hash": "2420D06139140838", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_021", "hash": "EC23AE8C190B3356", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_022", "hash": "408CC6D953CA052D", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_023", "hash": "88304E3DF0B5A8D5", "target": "" }
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_SEQ_00", "hash": "331076C39B04CF12", "target": "Zwykłe szczątki niesione przez fale czy nieodkryty skarb? Zukin prosi cię o sprawdzenie.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_00", "hash": "053A57D89D05DE27", "target": "Zebrać szczątki unoszące się na wodach Ruby Sea" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_01", "hash": "1BC212E1BD41BA28", "target": "Dostarczyć Zukinowi szczątki z Ruby Sea" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_000", "hash": "CFC0116CFF4CCFEC", "target": "Fale przynoszą najróżniejsze rzeczy. Najczęściej to bezwartościowe śmieci, ale czasem trafia się jakiś skarb. Jeśli kami nam sprzyjają, dziś może być właśnie taki dzień." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_001", "hash": "E2A2FF02715DED2B", "target": "<split(<string(gstr1)>, ,1)>, dostrzegliśmy szczątki po jakimś morskim wypadku. Unoszą się na powierzchni, jakiś malm od wioski. Sprawdzić nie zaszkodzi, a może znajdzie się coś cennego!" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_020", "hash": "2420D06139140838", "target": "Ach, <split(<string(gstr1)>, ,1)>, już jesteś. Jest coś ciekawego?" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_021", "hash": "EC23AE8C190B3356", "target": "Niech no spojrzę. Szczątki obrośnięte pąklami, spróchniałe drewno pokryte szarawym śluzem... i cenny skarb, pięknie nadgryziony zębem czasu, godny samego kami!" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_022", "hash": "408CC6D953CA052D", "target": "Co takiego? Wszystko wygląda jak śmieci? Tak, większość istot bez skorup tak mówi. Wielu nas nie rozumie i sądzi, że po prostu lubimy zbierać rupiecie. My jednak potrafimy dostrzec więcej niż sam wygląd." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_023", "hash": "88304E3DF0B5A8D5", "target": "Oczywiście kształt i barwa są ważne, ale liczy się też to, jak przedmiot starzeje się z upływem czasu, nabierając boskich właściwości. Powiadam ci, nikt nie zna się na skarbach lepiej ode mnie!" }
   ]
 }

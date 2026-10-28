@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz626_01894",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_00", "hash": "CAA50E7DED9AE668", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_01", "hash": "1262AC8EF24D78DF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_02", "hash": "C292CEB03EE5363F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_03", "hash": "85186D63F0890815", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_00", "hash": "0C5E13AADBEBED63", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_01", "hash": "EDCFB75A215CA663", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_000", "hash": "B4BF02BBCF437630", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_001", "hash": "300E6C1AC1C11156", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_010", "hash": "853344D6D38CA84C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_020", "hash": "D95BE5BF3626A851", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_021", "hash": "BDFF6D9AFEF3B17E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_022", "hash": "708876DB8AF5AAE8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_023", "hash": "8DEC13641787AFA0", "target": "" }
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_00", "hash": "CAA50E7DED9AE668", "target": "Bonifoix spogląda w dal pustym wzrokiem." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_01", "hash": "1262AC8EF24D78DF", "target": "Bonifoix i jego oddział polowali na smoki na Czerwonej Krawędzi, gdy sprawy przybrały zły obrót. Przeżył tylko Bonifoix. Odszukaj rzeczy poległych, by mógł oddać je ich rodzicom." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_02", "hash": "C292CEB03EE5363F", "target": "Znajdujesz rzeczy zabitych mężczyzn. Zanieś je Bonifoix." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_03", "hash": "85186D63F0890815", "target": "Oddział Bonifoix walczył dzielnie i mężnie aż do końca. Odzyskane przez ciebie rzeczy mogą pomóc mu przekonać o tym rodziców poległych." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_00", "hash": "0C5E13AADBEBED63", "target": "Odszukać porzucone rzeczy poległych" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_01", "hash": "EDCFB75A215CA663", "target": "Dostarczyć rzeczy poległych Bonifoix" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_000", "hash": "B4BF02BBCF437630", "target": "Mój oddział i ja poszliśmy... P-polowaliśmy na smoki... na Czerwonej Krawędzi... Ja... Tylko ja wróciłem..." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_001", "hash": "300E6C1AC1C11156", "target": "Muszę powiedzieć... Muszę przekazać złe wieści... ich rodzicom... Ale najpierw pomożesz mi zebrać ich rzeczy?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_010", "hash": "853344D6D38CA84C", "target": "Proszę... eee... Pozbierasz rzeczy upuszczone przez ludzi z mojego oddziału?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_020", "hash": "D95BE5BF3626A851", "target": "Udało ci się─czy znalezienie ich rzeczy sprawiło trudności?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_021", "hash": "BDFF6D9AFEF3B17E", "target": "Dziękuję. Dziękuję, to jest─to na pewno... Sam nie zdołałbym ich odzyskać. Skończyłbym─skończyłbym jak oni." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_022", "hash": "708876DB8AF5AAE8", "target": "Większość tutejszych żołnierzy to tylko─tylko gadają, wiesz? Ale tamci naprawdę... naprawdę byli odważni. Po prostu... Po prostu porwaliśmy się z motyką na słońce." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_023", "hash": "8DEC13641787AFA0", "target": "Oddam ich rzeczy rodzicom i powiem im... Powiem, że ci ludzie byli dzielni i mężni do samego końca." }
   ]
 }

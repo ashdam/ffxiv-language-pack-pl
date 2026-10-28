@@ -2,16 +2,16 @@
   "conversation": "custom/009/CtsMkdWepTrade5_00980",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "Tak jak poprzednio, najpierw musisz określić cechy, których oczekujesz od swojego oręża." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "Teraz powielę wspomnienia bitewne i połączę je z twoją bronią fantomową..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "Ach, bardzo obiecujące..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "Ta-dam! Moja praca skończona!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "Żywe wspomnienia <if(gnum4,mistrzyni walki,mistrza walki)> z bitewnego zgiełku połączone z najlepszym, do cholery, rzemiosłem w królestwie... I ani śladu iluzorycznej magii, która ograniczałaby jej potencjał!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "Twój oręż, <ennoun(Item,3,lnum1,1,1)>, to szczyt wojennej doskonałości!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "Twoje uzbrojenie, <ennoun(Item,3,lnum1,1,1)> i <ennoun(Item,3,lnum2,1,1)>, to szczyt wojennej doskonałości!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "Niewiele więcej zdziałamy tu, w kuźni. Pora zabrać broń w świat i zdobyć nowy zestaw wspomnień bitewnych!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "Och, gdyby ci przyszło do głowy znów przy niej pomajstrować, będzie cię to kosztować jeden kawałek rudy Ecliptic Arcanite. Jasne?" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "Aby ponownie dostosować atrybuty broni fantomowej, porozmawiaj z Brigid w osadzie phantom village." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "Kawałki rudy Ecliptic Arcanite potrzebne do ponownego dostosowania można otrzymać u Erminy, także w osadzie phantom village." }
   ]
 }

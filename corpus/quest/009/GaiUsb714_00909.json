@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb714_00909",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_00", "hash": "1127C35536196A76", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_01", "hash": "AEB7787422B7BC90", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_02", "hash": "A583CB2BCFD3BAC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_TODO_00", "hash": "E9805B6804C38ACD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_000", "hash": "4F936A563B94B6A8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_001", "hash": "BF1E47EFC2A6D829", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_002", "hash": "4E8FB03D1ABCC746", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_003", "hash": "3F84FED6BF89F34C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_010", "hash": "4EDD1F7CCE162B1C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_020", "hash": "96A525469E50FF71", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_021", "hash": "6D1F71E638406E2F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_022", "hash": "8DFAC3AFAD203867", "target": "" }
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_00", "hash": "1127C35536196A76", "target": "Niezrównana mowa ciała jej ludu mówi jasno i wyraźnie, że Molkot potrzebuje poszukiwacza przygód gotowego ruszyć w drogę miautychmiast." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_01", "hash": "AEB7787422B7BC90", "target": "Sycząc i prychając, Molkot postanawia zaangażować Białe Barany w walkę, która wykracza poza Las Dwunastu aż do Coerthas. Wręcz jej list Belmontowi i poinformuj najemnika, że Barany są z nim." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_02", "hash": "A583CB2BCFD3BAC8", "target": "Dostarczasz list Belmontowi, który jest oszołomiony wieściami od samej dowódczyni Baranów. Gdy przyrzeka przyłączyć się do walki, niemal widzisz, jak opuszcza go podejrzany fason zawadiackiego najemnika..." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_TODO_00", "hash": "E9805B6804C38ACD", "target": "Dostarczyć list Belmontowi w Camp Dragonhead" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_000", "hash": "4F936A563B94B6A8", "target": "Coerthas i Las Dwunastu... Zapracowane ptaszki, napychały wola najróżniejszymi soczystymi robaczkami." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_001", "hash": "BF1E47EFC2A6D829", "target": "A może czymś innym, równie soczystym? No proszę, to jest myśl. Mogą wydobywać z tych drzew <italic(1)>kryształy<italic(0)>─smakołyki dla ich wielkiego ptaka, bożka Garudy..." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_002", "hash": "4E8FB03D1ABCC746", "target": "<if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód! Czy masz tak szybkie nogi, jak mówią? Mam list do Coerthas, dla Belmonta." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_003", "hash": "3F84FED6BF89F34C", "target": "I przekaż temu bękartowi, że może na nas liczyć─i że lepiej, żeby nadal był równie dobrym taktykiem jak dawniej, choć teraz sypia na piernatach z dziwką po każdym boku!" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_010", "hash": "4EDD1F7CCE162B1C", "target": "Z powrotem i w jednym kawałku! Wybacz, że nie zapytam o podróż, ale co powiedział Isaudorel? Myślisz, że zdoła zainteresować Białe Barany?" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_020", "hash": "96A525469E50FF71", "target": "List od Molkot? Na Dwunastu, wojownicy Ixal <italic(1)>naprawdę<italic(0)> wycinają drzewa w Lesie Dwunastu! I to po to, by ofiarować kryształy Garudzie─jest gorzej, niż myślałem." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_021", "hash": "6D1F71E638406E2F", "target": "Tak powiedziała? Chyba dość już zmiękłem. Jadałem wykwintne resztki ze stołu i sypiałem na piernatach, choć do reszty się nie przyznam. Taka jest wola Dwunastu." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_022", "hash": "8DFAC3AFAD203867", "target": "Białe Barany w Lesie Dwunastu, ja w Coerthas... z każdym, kto do mnie dołączy. Wielkie, zadufane rody Ishgardu mogą się chrzanić. Powstrzymamy Ixal z nimi albo bez nich." }
   ]
 }

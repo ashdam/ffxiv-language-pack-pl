@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz817_01947",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_00", "hash": "62833F5F6CCA9AD8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_01", "hash": "BB2C604924828547", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_02", "hash": "70DA71B2FE386835", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_03", "hash": "82699AAABFC58684", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_00", "hash": "8E250530FCDF8D03", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_01", "hash": "C1266527EECDB819", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_000", "hash": "5A93AAE39D91371C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_010", "hash": "DB702172B3C52A36", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_020", "hash": "0BD27D0F1DDB4261", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_021", "hash": "FD8F8A413A29363D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_022", "hash": "85036B40F192638F", "target": "" }
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_00", "hash": "62833F5F6CCA9AD8", "target": "Tapklix mamrocze pod nosem i rozciera zadek." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_01", "hash": "BB2C604924828547", "target": "Po ataku dzikich bestii Tapklix żąda krwi. Pomścij go, zabijając trzy bestie ratel w rejonie The Makers' Quarter." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_02", "hash": "70DA71B2FE386835", "target": "Zabijasz najgroźniej wyglądające bestie ratel, jakie udaje ci się znaleźć, i zostawiasz ich truchła na przestrogę reszcie stada. Wróć do Tapklixa w Biwaku Bigwest i powiadom go, że zadanie zostało wykonane." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_03", "hash": "82699AAABFC58684", "target": "Tapklix z ulgą przyjmuje wieść, że krzywda jego zadka─i rana na dumie─zostały pomszczone. Opowiada, że po odejściu Sharlayańczyków potwory zaczęły schodzić z gór. Zamierza się ich pozbyć, by poczciwi mieszkańcy mogli żyć bez lęku przed atakiem." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_00", "hash": "8E250530FCDF8D03", "target": "Zabić bestie ratel" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_01", "hash": "C1266527EECDB819", "target": "Zdać sprawę Tapklixowi" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_000", "hash": "5A93AAE39D91371C", "target": "Szkoo... Auuuu... Paskudne bestie ratel napadają biednego Tapklixa, gryzą biednego Tapklixa w zadek! \\<pociąga nosem> <if(gnum4,Wierzchniaczko,Wierzchniaku)>, zabij trzy, zabij trzy szybciutko!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_010", "hash": "DB702172B3C52A36", "target": "Pszszkoo... Bestie ratel schodzą z gór z innymi zwierzętami. Wszystkie chcą ucztować na delikatnym goblomięsie. Ale jeśli zabijesz trzy, może reszta wbije sobie do mózgopudeł, że nie jesteśmy mięsem!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_020", "hash": "0BD27D0F1DDB4261", "target": "Pszszkoo... Trzy bestie ratel zabite i zadek cały? Tapklix wiedział, że może ci to powierzyć!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_021", "hash": "FD8F8A413A29363D", "target": "Wielu sharlayańskich wierzchniaków wyjechało piętnaście lat temu. Zwą to egzodusem. Dzikie bestie zeszły z gór, zrobiły legowiska w domach i gniazda na dachach. Teraz to wszystko ich kraina..." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_022", "hash": "85036B40F192638F", "target": "Ale goblostado też chce tu mieszkać! Trzeba wytępić bestie albo przepędzić w góry, żeby było bezpiecznie! Tapklix jeszcze zrobi z tej ziemi dom wszystkich goblopobratymców─choćby nie wiem co!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKta511_04044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_001", "hash": "FFEC8BCC95214594", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_002", "hash": "E4766094036FB3A1", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_Q1_000_000", "hash": "147E21279441A62F", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_001", "hash": "51511654DE032356", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_002", "hash": "DE86FBFA156A408E", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_004", "hash": "7C72896E7DE222F9", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_005", "hash": "C9EFE92831A9F6AB", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_006", "hash": "80049B21879E760A", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_007", "hash": "37ACD96D79A5AEB9", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_008", "hash": "C3B3635490B1F60C", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_009", "hash": "24E4B8327DA90E02", "target": "" }
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_001", "hash": "FFEC8BCC95214594", "target": "Lali-nigdy w to nie uwierzysz-ho, <split(<string(gstr1)>, ,1)>! Do wioski przyszło coś dla ciebie─od <italic(1)>Konogga<italic(0)>." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_002", "hash": "E4766094036FB3A1", "target": "Wygląda na jakieś techniczne ustrojstwo─widzisz ten złoty wzór? Nie mam jednak pojęcia, jak to odczytać." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_Q1_000_000", "hash": "147E21279441A62F", "target": "Co powiesz?" },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_001", "hash": "51511654DE032356", "target": "Archiwum przenośne, które zbudowało rodzeństwo, powinno wystarczyć." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_002", "hash": "DE86FBFA156A408E", "target": "Mam dynks w sam raz do tego." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_004", "hash": "7C72896E7DE222F9", "target": "Hm, wystarczy pomachać nad tym owym „archiwum”? No to proszę. Sprawdź sobie w wolnej chwili." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_005", "hash": "C9EFE92831A9F6AB", "target": "Wiesz, Konogg może i odszedł z wioski, ale to, że wciąż się odzywa... Daje mi nadzieję, że jeszcze nas nie skreślił." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_006", "hash": "80049B21879E760A", "target": "Więc dalej będę robił, co mogę. Dalej będę pracował, żeby ta wioska stała się miejscem, do którego Konogg zechce wrócić." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_007", "hash": "37ACD96D79A5AEB9", "target": "Przed nami jeszcze niejedna góra do zdobycia i zajmie to mnóstwo czasu. Ale krok po kroku, z twoją pomocą, na pewno się uda." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_008", "hash": "C3B3635490B1F60C", "target": "Otrzymujesz wiadomość od Konogga." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_009", "hash": "24E4B8327DA90E02", "target": "Wiadomość można przeczytać w <colortype(500)><edgecolortype(501)>Archiwum przenośnym<edgecolortype(0)><colortype(0)>, dostępnym w sekcji Kolekcja, w kategorii Aktywność w menu głównym." }
   ]
 }

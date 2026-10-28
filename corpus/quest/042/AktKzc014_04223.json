@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzc014_04223",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "" }
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Po lodowych polach grasują niedźwiedzie ludojady. Iliette chce odwrócić role, lecz niezupełnie tak, jak można by się spodziewać." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "Rozłożyć dziczyznę ze środkiem nasennym we wskazanych miejscach" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "Zdać raport Iliette" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "Właśnie na ciebie liczę! Może masz ochotę na małe polowanie?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "Chodzi mi o niedźwiedzie. Ich mięso jest naprawdę godne polecenia! To trudna zdobycz, ale tobie chyba trafiali się znacznie gorsi przeciwnicy." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "Jeśli się piszesz, plan jest taki: najpierw zwabimy je dziczyzną ze środkiem nasennym. Potem wystarczy podejść i wykończyć je w dowolny sposób. Co może być prostszego?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "Oto trzy solidne porcje wyśmienitej dziczyzny. Zanim ruszysz po zdobycz, zaczekaj, aż mikstura zadziała!" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "Podczas czekania lepiej zachować czujność. Chyba nie chcesz, żeby jakiś niedźwiedź zaszedł cię od tyłu?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "Widzę, że masz komplet kończyn, więc polowanie musiało się udać! Prawdę mówiąc, dotarły do mnie wieści, że napotkany przez ciebie niedźwiedź był nieco bardziej... żwawy, niż zakładaliśmy. I sporo większy." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "Co!? Udało ci się pokonać tego potwora bez niczyjej pomocy?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "Imponujące... Wygląda jednak na to, że środek nasenny od lorda Emmanellaina był znacznie mniej skuteczny, niż nam obiecywał..." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "Jak sam opowiada, wymyślił tę metodę, gdy rozgniewał ojca nieudolnością w bardziej... szlachetnych sposobach polowania. Chwalił się swoimi wyczynami, choć te historie nie stawiały go w dobrym świetle." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "Mimo wszystko w obecnej sytuacji musimy zrezygnować z emocji polowania i wybierać najpewniejsze metody, nawet jeśli są niezbyt honorowe." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "Niestety tutejsze niedźwiedzie są całkowicie odporne na tę miksturę... A może od początku było z nią coś nie tak. W każdym razie nikomu nic się nie stało, prawda? Tobie, znaczy się. Nie niedźwiedziom. To oczywiste." }
   ]
 }

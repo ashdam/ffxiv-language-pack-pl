@@ -2,13 +2,13 @@
   "conversation": "custom/007/CmnDefReturnBelt_00721",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_01", "hash": "779D41B39CEBB871", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_Q1", "hash": "0E781814EC3DD7D7", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A1", "hash": "E845A6F025D04858", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A2", "hash": "F062D8889995F223", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A3", "hash": "0CC1D0DBE1F90208", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_05", "hash": "CAAD7644F62826C9", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_06", "hash": "03822D7F75FE9B4E", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_SYSTEM_07", "hash": "364FBAEC22C88F7B", "target": "" }
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_01", "hash": "779D41B39CEBB871", "target": "Gildia Poszukiwaczy Przygód weszła w posiadanie rzeczy, które jej zdaniem poszukiwacze zgubili podczas podróży. Nie wiemy, jak ani dlaczego, ale jeśli <if(gnum4,pani,pana)> torba wydaje się lżejsza niż zwykle, być może część dobytku trafiła do naszego magazynu." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_Q1", "hash": "0E781814EC3DD7D7", "target": "Co zrobisz?" },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A1", "hash": "E845A6F025D04858", "target": "Odbierz zgubione pasy." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A2", "hash": "F062D8889995F223", "target": "Zapytaj o odzyskiwanie zgubionych pasów." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A3", "hash": "0CC1D0DBE1F90208", "target": "Nic." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_05", "hash": "CAAD7644F62826C9", "target": "Z jakiegoś powodu poszukiwacze przygód nie są już chyba zainteresowani noszeniem pasów. Te zgubione lub omyłkowo wyrzucone trafiły do mnie." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_06", "hash": "03822D7F75FE9B4E", "target": "Jeśli coś z <if(gnum4,pani,pana)> dobytku jest w naszym magazynie, z przyjemnością to zwrócę─oczywiście bezpłatnie. Proszę jednak pamiętać, że nie ma gwarancji, iż pasy trafią pod moją opiekę po raz drugi." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_SYSTEM_07", "hash": "364FBAEC22C88F7B", "target": "Pamiętaj, że pasy należące wcześniej do ciebie lub twoich retainerów można odebrać tylko na twoim świecie macierzystym." }
   ]
 }

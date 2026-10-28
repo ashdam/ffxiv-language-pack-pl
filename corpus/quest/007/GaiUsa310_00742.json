@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa310_00742",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "" }
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "Auphiliot byłby wdzięczny za wytropienie garleańskich intruzów w jego zastępstwie." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "W okolicy pozostali Garleańczycy odpowiedzialni za zniknięcie starszego ludu Sylph. Zbadaj wskazane miejsca i pokonaj każdego napotkanego Garleańczyka." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "Garleańscy intruzi zostali pokonani. Powiadom zleceniodawcę o imieniu Auphiliot o swoim sukcesie." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "Dzięki twoim wysiłkom Garleańczycy zostali przepędzeni, a do Lasu Dwunastu wróciła odrobina spokoju. Przynajmniej na razie." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "Zbadać wskazane miejsca i pokonać Garleańczyków" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "Zdać raport zleceniodawcy o imieniu Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "Wracasz, <if(gnum4,dziewczyno,chłopcze)>, a coś mi mówi, że wcale nie po kufel piwa Buscarrona. Tym lepiej. Właśnie usłyszałem, że w Lesie Dwunastu widziano jeszcze garleańskich maruderów. A wiadomo, że nie knują nic dobrego." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "Ja? Och, najchętniej sam wypatroszyłbym tych imperialnych skurwysynów, ale obawiam się, że mam─<italic(1)>hik<italic(0)>!─inne... obowiązki... dzisiaj. Liczymy na ciebie, <if(gnum4,dziewczyno,chłopcze)>!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "Sprawa z garleańskimi psami załatwiona tak szybko i sprawnie, jak ja opróżniłem kufel─eee, wypełniłem <italic(1)>obowiązki<italic(0)>? W imieniu starego Buscarrona i wszystkich kumpli z gospody masz moją─<italic(1)>urgh<italic(0)>!─wdzięczność, i to wielką." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "Gdy ty i ja pilnujemy spraw, <if(gnum4,dziewczyno,chłopcze)>, to ci powiem: żaden kufel miodu ani garleański wichrzyciel w tej gospodzie i w okolicy nie jest─<italic(1)>hik<italic(0)>─bezpieczny!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

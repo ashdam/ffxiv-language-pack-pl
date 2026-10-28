@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea161_01147",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_00", "hash": "41910215B3A8F75F", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_01", "hash": "B44BA14404EB6955", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_02", "hash": "907F1D8FAD7323EA", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_03", "hash": "478414697F25BAD5", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_00", "hash": "01066D617A1BB14C", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_01", "hash": "A236A68FCA037908", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_000", "hash": "57C13E707D59EAA7", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_001", "hash": "2778D3EF72F3C7E0", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_020", "hash": "1B6AEC8894C358D8", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_021", "hash": "864930852FC52171", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_022", "hash": "B00A11FBE810C62E", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_023", "hash": "2CCCA8798669DCC0", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_POP_MESSAGE_000", "hash": "244024646784DA7C", "target": "" }
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_00", "hash": "41910215B3A8F75F", "target": "Komandor Falkbryda najwyraźniej ma dla ciebie zadanie. Miło wiedzieć, że przynajmniej jedna osoba w obozie cieszy się na twój widok." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_01", "hash": "B44BA14404EB6955", "target": "Lepszy wróbel w garści niż gołąb na dachu, lecz nadmiar gniazdujących dodo przyciąga do obozu drapieżniki. Masz usunąć gniazdo i rozprawić się z każdym dodo, który zaprotestuje." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_02", "hash": "907F1D8FAD7323EA", "target": "Po gnieździe zostało wspomnienie. Powiadom Falkbrydę o powodzeniu." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_03", "hash": "478414697F25BAD5", "target": "Falkbryda chwali twoje tempo, po czym dziękuje opowieścią o obozie. Coś ci mówi, że wciąż jest tu sporo pracy." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_00", "hash": "01066D617A1BB14C", "target": "Usunąć gniazdo dodo i zabić dodo" },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_01", "hash": "A236A68FCA037908", "target": "Zdać sprawę Falkbrydzie" },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_000", "hash": "57C13E707D59EAA7", "target": "Zostań jeszcze chwilę, <split(<string(gstr1)>, ,1)>. Niech nikt nie mówi, że można przybyć do Obozu Doliny Czaszki i wyjechać bez uczciwej zapłaty za uczciwą pracę." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_001", "hash": "2778D3EF72F3C7E0", "target": "Mamy problem, którego inne obozy mogłyby nam pozazdrościć. Dodo jest tyle, że gniazdują nawet w koszarach. Trzeba natychmiast usunąć gniazdo, zanim przyciągnie bestie groźne i dla ptaków, i dla ludzi." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_020", "hash": "1B6AEC8894C358D8", "target": "Szybko poszło! Mówią, że gdzie żołnierz zwleka, tam poszukiwacz przygód się spieszy." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_021", "hash": "864930852FC52171", "target": "Choć teraz wygląda spokojnie, ten obóz powstał, by strzec nas przed plemieniem Kobold z O'Ghomoro na północy. Nie zapominamy o swoim celu─wystarczy spojrzeć na nazwę doliny." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_022", "hash": "B00A11FBE810C62E", "target": "Dno doliny niegdyś wyściełały czaszki zabitych wojowników Kobold. Żaden najeźdźca nie mógł dotrzeć do południowego wylotu ani leżących dalej osad, nie stąpając na każdym kroku po śmierci." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_023", "hash": "2CCCA8798669DCC0", "target": "Dziś prędzej nadepniemy na jaja dodo─albo na żmije, które się nimi żywią. Ptaki przywiezione przez osadników zdziczały. Dostarczają nam mięsa, jaj i bólu głowy." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_POP_MESSAGE_000", "hash": "244024646784DA7C", "target": "Wyczuwasz obecność rozwścieczonego rodzica!" }
   ]
 }

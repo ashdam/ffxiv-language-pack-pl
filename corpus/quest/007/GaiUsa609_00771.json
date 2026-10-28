@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa609_00771",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "" }
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "Cuthbert z Quarrymill prosi o pomoc w odzyskaniu rodzinnej pamiątki." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "Osławieni Redbelly Wasps mają bezcenną pamiątkę po dziadku Cuthberta, starszym pechowej wioski Boughbury. Udaj się w okolice Gniazda Redbelly i odzyskaj topór." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "Topór Boughbury został bezpiecznie odzyskany z rąk okrutnych bandytów. Cuthbert będzie zachwycony jego powrotem po tylu latach." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "Biorąc do rąk cenną pamiątkę po dziadku, Cuthbert przysięga zemstę na tych, którzy odebrali jego rodzinie prawowity dom." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "Odzyskać topór Boughbury w pobliżu Gniazda Redbelly" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "Dostarczyć topór Boughbury Cuthbertowi" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "Przed Katastrofą mój dziadek był starszym wioski Boughbury. Próbowaliśmy─bogowie świadkami, próbowaliśmy─odzyskać jego dom, ale na próżno. Zmarł w zeszłym roku..." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "Ostatnim tchem mówił o rodzinnej pamiątce, toporze przekazywanym z pokolenia na pokolenie. Teraz te skurwysyny z Redbelly rąbią nim drewno─i jeszcze z nas szydzą. Niech mnie Dwunastu zabierze, jeśli pozwolę tym draniom dłużej kalać pamięć dziadka. Pomoże mi <if(gnum4,pani,pan)> go odzyskać?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "I jak? Udało się odebrać topór tym przeklętym złodziejom?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "Dokładnie taki, jak opisywał dziadek! To dar od bogów. Dziadku, przysięgam─gdy któryś z Redbelly znowu zobaczy ten topór, będzie go miał wbitego w ten swój parszywy łeb!" }
   ]
 }

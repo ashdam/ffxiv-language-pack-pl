@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz628_01896",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_00", "hash": "1DBB13BEBDD791C2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_01", "hash": "989268D97C95F6E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_02", "hash": "19AA34A52691D083", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_03", "hash": "3F556530F583C05D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_00", "hash": "DB94D0E9944DBF50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_01", "hash": "8607C5D928161B90", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_000", "hash": "B2BDA12A5D0B9199", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_001", "hash": "A1563DBBBCFA7AA5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_002", "hash": "2158CCFAD161C246", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_010", "hash": "EC470F7F6313AD37", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_020", "hash": "41E3E526F564F8B4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_021", "hash": "F759DA9910333D4C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_00", "hash": "1DBB13BEBDD791C2", "target": "Luciae szuka pomocy w zabezpieczeniu szlaków zaopatrzenia Convictory." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_01", "hash": "989268D97C95F6E0", "target": "Luciae czeka na zapasy z Ishgardu, lecz pobliskie gniazdo archaeornis atakuje każdą karawanę próbującą przebyć trasę. Zmniejsz liczebność stada, zabijając co najmniej trzy grand archaeornis, aby towary można było bezpiecznie przewieźć." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_02", "hash": "19AA34A52691D083", "target": "Zabijasz trzy największe archaeornis, jakie udaje ci się znaleźć. Oby wystarczyło to do zapewnienia karawanom swobodnego przejazdu. Zanieś dobre wieści Luciae." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_03", "hash": "3F556530F583C05D", "target": "Powiadamiasz Luciae o powodzeniu. Uradowana, że trasa nie jest już zagrożona atakiem, zabiera się do przekonywania ishgardzkich kupców, że jest bezpieczna." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_00", "hash": "DB94D0E9944DBF50", "target": "Pokonać grand archaeornis" },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_01", "hash": "8607C5D928161B90", "target": "Zdać sprawę Luciae" },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_000", "hash": "B2BDA12A5D0B9199", "target": "Ach, w samą porę! Właśnie szukałam kogoś niezawodnego do pomocy." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_001", "hash": "A1563DBBBCFA7AA5", "target": "Spodziewałam się dostawy ze Świętej Stolicy, ale nigdy nie dotarła. Wygląda na to, że archaeornis z pobliskiego gniazda atakują karawany i nie pozwalają im tu przejechać." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_002", "hash": "2158CCFAD161C246", "target": "Kupcy nie są tak głupi, by wysyłać towar bez ochrony, ale ich najemne eskorty nie radzą sobie z całym stadem smoków. Gdyby udało ci się zabić trzy bestie, ich liczba powinna spaść na tyle, że nie będą już poważnym zagrożeniem." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_010", "hash": "EC470F7F6313AD37", "target": "Nie wytrzymamy długo bez tych zapasów. Proszę, zabij te archaeornis." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_020", "hash": "41E3E526F564F8B4", "target": "Dziękuję za zajęcie się tymi strasznymi bestiami. Teraz karawany powinny dotrzeć bez przeszkód." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_021", "hash": "F759DA9910333D4C", "target": "Pozostaje tylko przekonać tych tchórzliwych kupców, że droga jest bezpieczna. Ale nie martw się─z tym już sama sobie poradzę." }
   ]
 }

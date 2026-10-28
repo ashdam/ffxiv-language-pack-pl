@@ -2,9 +2,9 @@
   "conversation": "quest/035/LucKzi001_03537",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SEQ_00", "hash": "7601A41AA601CB41", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Zumie-Shai zerka niespokojnie na drzwi." },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_00", "hash": "929E9CDDF677D735", "target": "Porozmawiaj z przerażoną uciekinierką." },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_01", "hash": "AC0EA3B246F5894A", "target": "Porozmawiaj z przerażoną uciekinierką." },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SEQ_00", "hash": "7601A41AA601CB41", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zumie-Shai zerka niespokojnie na drzwi." },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_00", "hash": "929E9CDDF677D735", "target": "Porozmawiać z bojaźliwą uciekinierką" },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_01", "hash": "AC0EA3B246F5894A", "target": "Porozmawiać z bojaźliwą uciekinierką" },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_02", "hash": "65774010A6E3470F", "target": "Uspokój przerażoną uciekinierkę gestem /soothe." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_03", "hash": "E4C989B57957B3D8", "target": "Zdaj relację Zumie-Shai." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_000", "hash": "604EC3BDB825EF42", "target": "Nie ma może samotnej dziewczyny w Top Rung? To jej kolej na pilnowanie windy, ale dawno powinna była wrócić." },

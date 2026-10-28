@@ -2,13 +2,13 @@
   "conversation": "quest/029/StmBdy201_02943",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_002", "hash": "FF922EC771E4FAAB", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_003", "hash": "995173518C7607AC", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_004", "hash": "3C4164F714500EA1", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_005", "hash": "9CDE7BFA1E7CDCB7", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_006", "hash": "78D6A32F7FAAC3A6", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_007", "hash": "53E78EA53C394C6D", "target": "" }
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "Ach, oto <if(gnum4,bohaterka\\, która skruszyła,bohater\\, który skruszył)> kajdany ucisku zarówno w Domie, jak i Ala Mhigo! Mimo rosnącej sławy wciąż znajdujesz cenny czas dla tego skromnego minstrela. To dla mnie zaszczyt." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "Jeśli mogę spytać, jak podoba ci się Daleki Wschód? Trudno nie polubić miejsca o tak wielu urokach. Zajmuje szczególne miejsce w moim sercu. Można wręcz nazwać go moim drugim domem, tak często tu wracam w nieustannym poszukiwaniu poezji." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_002", "hash": "FF922EC771E4FAAB", "target": "Podczas tej wizyty właściciel teatru przypadkiem usłyszał mój występ i upodobał sobie moją twórczość. Od słowa do słowa... i kilka moich pieśni trafiło na scenę!" },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_003", "hash": "995173518C7607AC", "target": "Przyciągnęły takie tłumy, że zlecono mi napisanie utworów do nowego przedstawienia." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_004", "hash": "3C4164F714500EA1", "target": "Nie mówię tego, żeby się przechwalać─bynajmniej. Choć cieszę się uznaniem, prawda jest taka, że nie mogę znaleźć natchnienia, które zasiliłoby moją twórczość." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_005", "hash": "9CDE7BFA1E7CDCB7", "target": "...Ależ oczywiście! Twoje ostatnie czyny mogą dostarczyć mi potrzebnego natchnienia!" },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_006", "hash": "78D6A32F7FAAC3A6", "target": "Ileż <if(gnum4,widziałaś,widziałeś)> wydarzeń, ileż <if(gnum4,przeżyłaś,przeżyłeś)> emocji, walcząc o wyzwolenie Domy i Ala Mhigo ze szponów Imperium! Opowieści krążą wszędzie, lecz nic nie zastąpi relacji z pierwszej ręki. Pragnę spojrzeć oczami <if(gnum4,tej\\, która stała,tego\\, który stał)> w samym środku wydarzeń i poznać głębię <if(gnum4,jej,jego)> serca." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_007", "hash": "53E78EA53C394C6D", "target": "Zostanę w Kugane, by komponować utwory dla teatru Mujikoza. Gdy znajdziesz wolną chwilę, opowiedz mi o swych ostatnich przygodach, a zadbam, by zostały uwiecznione w tych murach!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/006/SubWil124_00634",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_00", "hash": "0965C7DD41FCFC40", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_01", "hash": "0F871BF94B4AFDB4", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_02", "hash": "B63F92B3555DB4BC", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_03", "hash": "EC916E9084785B4E", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_TODO_00", "hash": "024663A2DBBC239F", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_TODO_01", "hash": "4858DA78F2F87FCD", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_1", "hash": "EBFFF312C46E5EB4", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_2", "hash": "1197E17B61C4A83C", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_10", "hash": "77910ABB2A1E6789", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_11", "hash": "2D95DF96EB741127", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_12", "hash": "A280B3756A0EEB31", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_13", "hash": "3F7554F031B5CF4B", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_14", "hash": "A0922BF17791387C", "target": "" },
-    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_15", "hash": "A03AFACAA4E08032", "target": "" }
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_00", "hash": "0965C7DD41FCFC40", "target": "Beneger ma kolejne zadanie do wykonania." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_01", "hash": "0F871BF94B4AFDB4", "target": "Aby spełnić prośbę wpływowego górnika, Beneger chce, by zebrać pięć płyt chmurnego marmuru w pobliżu ruin Niewidzialnego Miasta." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_02", "hash": "B63F92B3555DB4BC", "target": "Masz już chmurny marmur. Zanieś go Benegerowi na Złotym Bazarze." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_SEQ_03", "hash": "EC916E9084785B4E", "target": "Jeśli połysk w chmurnym marmurze rzeczywiście okaże się mythrilem, może to oznaczać odrodzenie Złotego Bazaru. Beneger wiąże z tymi kamiennymi płytami wszystkie nadzieje na przyszłość." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_TODO_00", "hash": "024663A2DBBC239F", "target": "Zdobyć płyty chmurnego marmuru" },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_TODO_01", "hash": "4858DA78F2F87FCD", "target": "Dostarczyć chmurny marmur Benegerowi" },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_1", "hash": "EBFFF312C46E5EB4", "target": "Czeka praca, <split(<string(gstr1)>, ,1)>. Dotąd obyło się bez zawodu─oby tak zostało. Górnik, który niedawno przybył z firmy Amajina i Synowie, chce próbkę kamienia ze wschodnich ruin." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_2", "hash": "1197E17B61C4A83C", "target": "Zamierzam dać mu pięć płyt chmurnego marmuru z Niewidzialnego Miasta. Proszę je zdobyć. Kiedy je zobaczy, dalszy napływ górników na bazar będzie niemal pewny." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_10", "hash": "77910ABB2A1E6789", "target": "Są już wszystkie próbki chmurnego marmuru, <split(<string(gstr1)>, ,1)>?" },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_11", "hash": "2D95DF96EB741127", "target": "Więc to ten chmurny marmur, o którym tyle słyszałem. Bogowie, proszę spojrzeć, jak lśni... Przyznam, że dotąd znałem go tylko z opowieści. Teraz rozumiem, skąd pogłoski o mythrilu." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_12", "hash": "A280B3756A0EEB31", "target": "Słuchaj mnie, cholerny kamieniu! Złoty Bazar na ciebie liczy. Jeśli te gadki o mythrilu to bujda, przysięgam na Dwunastu, sam wykopię każdy twój odłamek, zmielę na proszek i sprzedam do stajni chocobo, żeby wsiąkały w ciebie siki i sraczka!" },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_13", "hash": "3F7554F031B5CF4B", "target": "Ekhm... Tak, przepraszam. Odkąd wojna odcięła drogę do Ala Mhigo, bazar przeżywa ciężkie czasy. Był przystankiem na szlaku, a teraz, bez szlaku, jest już tylko przystankiem." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_14", "hash": "A0922BF17791387C", "target": "Ale nie pozwolę, by tak zostało. Przywrócę blask Złotemu Bazarowi. Potem zostanę jednym z najbogatszych ludzi w Thanalan. Wtedy wreszcie dam Caitlyn życie, które ukradły jej te kundle." },
+    { "gameKey": "quest/006/SubWil124_00634#TEXT_SUBWIL124_00634_BENEGER_000_15", "hash": "A03AFACAA4E08032", "target": "Tak długo trzyma się pamięci o moim bracie, że nie dostrzega tych, którym na niej zależy. Takich jak... cóż... Eee, czy ta ostatnia uwaga mogłaby nie dotrzeć do Caitlyn?" }
   ]
 }

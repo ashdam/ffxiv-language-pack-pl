@@ -2,14 +2,14 @@
   "conversation": "custom/009/RegSakPreservationLabo1st_00950",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_000", "hash": "DB140A78B5B371E2", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_010", "hash": "C461697182E8FC26", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_020", "hash": "75F34DB83108923D", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_021", "hash": "3FC3961082C5F5CD", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_022", "hash": "69A0FFDD3219345C", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_023", "hash": "07CCA82C5146E080", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_024", "hash": "92EEBD3A7C033605", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_025", "hash": "5D9A86477D7E35F4", "target": "" },
-    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_026", "hash": "8496F4D6CC1CF349", "target": "" }
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_000", "hash": "DB140A78B5B371E2", "target": "Wygląda na osobisty tablet z danymi osoby prowadzącej badania." },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_010", "hash": "C461697182E8FC26", "target": "Przejrzeć wpisy?" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_020", "hash": "75F34DB83108923D", "target": "<italic(1)>Dziś rozpoczynam pracę w Preservation. Nie znam tej organizacji, ale gdy nadszedł list rekrutacyjny, przeczucie podpowiedziało mi, że ta praca będzie o wiele bardziej satysfakcjonująca niż zwykła praktyka lekarska.<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_021", "hash": "3FC3961082C5F5CD", "target": "<italic(1)>Przeczucie mnie nie zawiodło. Filozofia, którą głosi mistrz Calyx, to dopracowany ideał myśli, które dotąd tylko mgliście przychodziły mi do głowy: ludzkość musi ewoluować i uwolnić się z kajdan cielesnej egzystencji.<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_022", "hash": "69A0FFDD3219345C", "target": "<italic(1)>Dziś dyrektor Demetrius przyjął mnie na spotkaniu. Inni chwalą jego genialny intelekt, lecz w porównaniu z oślepiającym blaskiem geniuszu, którym olśniewa mistrz Calyx, wydaje się zaledwie dogasającą świecą.<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_023", "hash": "07CCA82C5146E080", "target": "<italic(1)>Dziś rano pozwolono mi udać się na najwyższe piętro i obserwować działanie Living Memory. Zgodnie z przewidywaniami niedobór eteru potrzebnego do podtrzymywania Wiecznych osiąga krytyczny poziom, a „królowa Sphene” nadal szamocze się bez żadnego skutku.<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_024", "hash": "92EEBD3A7C033605", "target": "<italic(1)>Nasi współpracownicy z ludu Milalla, w tym kierownik laboratorium protolab, zachowują się ostatnio wyraźnie podejrzanie. Czy należy zgłosić moje obawy dyrektorowi?<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_025", "hash": "5D9A86477D7E35F4", "target": "<italic(1)>Od jutra przydzielono mnie do pomocy przy projekcie badawczym w laboratorium deuterolab. Mamy przeprowadzić wielki eksperyment, którego szczegółów mi nie ujawniono... Rozsądnie byłoby sporządzić kopię zapasową danych moich wspomnień.<italic(0)>" },
+    { "gameKey": "custom/009/RegSakPreservationLabo1st_00950#TEXT_REGSAKPRESERVATIONLABO1ST_00950_SYSTEM_000_026", "hash": "8496F4D6CC1CF349", "target": "To już koniec wpisów w dzienniku..." }
   ]
 }

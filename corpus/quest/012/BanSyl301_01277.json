@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl301_01277",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_00", "hash": "C072E937B6045B4F", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_01", "hash": "9EA955ED3DDC0AAE", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_02", "hash": "AF4E94AD0AFCC793", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_03", "hash": "0949B0F17F2FEF8A", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_TODO_00", "hash": "C84AA426A9A13EDD", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_TODO_01", "hash": "5279F1B07BCEC944", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_000", "hash": "E5236E8FFDD047A1", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_001", "hash": "2C3EADD9C630016C", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_002", "hash": "49DF70933A50D6BF", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_003", "hash": "E699E288E38A5DDE", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_010", "hash": "BC9F528286E02309", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_020", "hash": "16DE993FE1668AE7", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_021", "hash": "2AE5BC2F654693AE", "target": "" },
-    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_022", "hash": "577BD9231F8A5F11", "target": "" }
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_00", "hash": "C072E937B6045B4F", "target": "Moxia uważa, że mlecznego korzenia najlepiej używać z umiarem." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_01", "hash": "9EA955ED3DDC0AAE", "target": "Moxia obawia się, że nadmierne spożycie mlecznego korzenia pogłębia szaleństwo mieszkańców Ziem Ludu Sylph. Sięgnij do korzeni problemu, ścinając rośliny milkroot cluster lub milkroot sapling, i zbierz sześć wiązek świeżego mlecznego korzenia, by nie trafił w niepowołane ręce." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_02", "hash": "AF4E94AD0AFCC793", "target": "Masz już sześć wiązek świeżego mlecznego korzenia, a zapasy niegrzecznych znacznie się uszczupliły. Dostarcz plon Moxii." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_SEQ_03", "hash": "0949B0F17F2FEF8A", "target": "Moxia serdecznie dziękuje za mleczny korzeń i zachwala jego wyjątkową świeżość, ani słowem nie wspominając o pierwotnym celu zbiorów. Choć tyle mówi o umiarze, sama wyraźnie lubi ten korzeń. Trudno mieć za złe udręczonej Moxii chwilę wytchnienia, ale pozostaje mieć nadzieję, że wie, kiedy przestać." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_TODO_00", "hash": "C84AA426A9A13EDD", "target": "Pokonać rośliny milkroot sapling lub milkroot cluster i zdobyć świeży mleczny korzeń" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_TODO_01", "hash": "5279F1B07BCEC944", "target": "Dostarczyć świeży mleczny korzeń Moxii" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_000", "hash": "E5236E8FFDD047A1", "target": "Ta tutaj lubi mleczny korzeń jak każdy. Ale niegrzeczni... niektórzy niegrzeczni za bardzo lubią mleczny korzeń. Robi niegrzecznym papkę z głowy." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_001", "hash": "2C3EADD9C630016C", "target": "Tamci zapominają, że kiedyś byli jak ci tutaj, i stają się coraz niegrzeczniejsi. Słowa tych tutaj już nie docierają do niegrzecznych." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_002", "hash": "49DF70933A50D6BF", "target": "Więc ci tutaj muszą wyrwać problem z─hi, hi─korzeniami! Zebrać mleczny korzeń, zanim wpadnie w ręce niegrzecznych." },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_003", "hash": "E699E288E38A5DDE", "target": "Ulubiony mleczny korzeń niegrzecznych pochodzi od soczystych i kępiastych. <if(gnum4,Odważna widziała,Odważny widział)> ich, tak? <if(gnum4,Odważna,Odważny)> musi przynieść sześć wiązek najświeższego, najbardziej mlecznego korzenia─tylko żeby ta tutaj wiedziała, że zadanie jest wykonane. Hi, hi, hi!" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_010", "hash": "BC9F528286E02309", "target": "<if(gnum4,Odważna,Odważny)> zetnie sadzonki i kępy, tak? <if(gnum4,Odważna,Odważny)> przyniesie sześć wiązek najbardziej mlecznego korzenia? Ta tutaj będzie czekać, trzepocząc skrzydłami. Hi, hi, hi!" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_020", "hash": "16DE993FE1668AE7", "target": "\\<węszy> \\<węszy> ...Czy <if(gnum4,odważna,odważny)> ma coś dla tej tutaj?" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_021", "hash": "2AE5BC2F654693AE", "target": "\\<węszy> Jaki piękny, mleczny korzeń! Hi, hi! Tak... \\<węszy> ...To najbardziej mleczno-mleczniutki mleczny koszonek, jaki ta tutaj kiedykolwiek mleczno-mleczkowała! Hi, hi, hi!" },
+    { "gameKey": "quest/012/BanSyl301_01277#TEXT_BANSYL301_01277_MOXIA_000_022", "hash": "577BD9231F8A5F11", "target": "Niegrzeczni...? \\<węszy> Czy <if(gnum4,odważna jest niegrzeczna,odważny jest niegrzeczny)>? Ta tutaj też potrafi być niegrzeczna, hi, hi!" }
   ]
 }

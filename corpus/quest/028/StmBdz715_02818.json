@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz715_02818",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "" }
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "Jayanti chyba ma obawy przed kolejną wyprawą." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Użyć wygazowanego piwa we wskazanym miejscu i pokonać Gyr Abanian mud slugs" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Zdać sprawę Jayanti" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "Sss... Witaj. Właśnie szykowałyśmy się na polowanie. To powód do wielkiej dumy, ale obawiam się, że ostatnio moim siostrom grozi coraz większe niebezpieczeństwo." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "Sss... Naszą najlepszą bronią są zatrute strzały. Wszystkie bestie szybko im ulegają. Wszystkie poza jedną─Gyr Abanian mud slug. Ostatnio jest ich coraz więcej, przez co polowanie staje się trudniejsze." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "Sss... Odporność na nasze trucizny zmusza nas do walki wręcz i właśnie w tym tkwi problem." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "Sss... Atakują, plując. Większości stworzeń chyba to nie szkodzi, ale naszą skórę silnie wyżera." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "Sss... Pani Błogości z pewnością gniewałaby się, gdybyśmy oszpeciły piękną skórę, którą nas obdarzyła. Dlatego proszę, by w naszym imieniu zmniejszyć ich liczebność." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "Sss... Weź tę butelkę wygazowanego piwa. Rozlej je na ziemi na północ stąd i zabij ślimaki zwabione zapachem." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "Sss... Kiedy przyjdą ślimaki, uważaj na ich ślinę. Nie wiem, jak działa na dwunożnych." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "Sss... Wracasz bez szwanku. Mamy szczęście, że <if(gnum4,zyskałyśmy tak zdolną przyjaciółkę,zyskałyśmy tak zdolnego przyjaciela)>." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "Sss... Powiedz, czy ciebie też brzydziły te ślimaki?" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "Sss... Te oślizgłe grzbiety i ohydne wijące się ciała. Nie znam szpetniejszego stworzenia niż ślimak." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "Sss... A ciebie najwyraźniej nie rusza ani ich ślina, ani odrażający wygląd. Jeśli znów nam zagrożą, na pewno cię wezwę." }
   ]
 }

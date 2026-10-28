@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz303_02699",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "" }
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "Mine wdycha powietrze z delikatnym uśmiechem na twarzy." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "Zdobyć rdzenie wodnych żywiołaków od apas" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "Dostarczyć rdzenie wodnych żywiołaków do Mine" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "\\<węszy> \\<węszy> Ten zapach... Wciąż pachnie <if(gnum4,pani,pan)> słońcem i niebem. Doprawdy cudowny aromat." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "Czy mogę prosić o przysługę? Potrzebuję czegoś z powierzchni. Oczywiście wynagrodzę ten trud." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "Proszę przynieść mi trzy rdzenie wodnych żywiołaków. Można je zdobyć od apas w Hells' Lid. Wyglądają krucho, ale to zwodnicze wrażenie. Wcale niełatwo je pokonać." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "Proszę przynieść mi trzy rdzenie wodnych żywiołaków od apas z Hells' Lid. Warto się przygotować─niełatwo będzie je pokonać." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "Ach, witam z powrotem. Udało się zdobyć to, o co prosiłam?" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "Wspaniale! Przez pewien czas nie musimy już martwić się o wodę pitną. Choć żyjemy tu od pokoleń, nadal nie możemy pić morskiej wody. Dzięki tym rdzeniom usuniemy z niej sól i uzyskamy słodką wodę." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "Zwykle wysyłamy po rdzenie wodnych żywiołaków najsilniejszych mężczyzn z wioski, ale Czerwoni Kojin ostatnio podejrzanie zaciekle strzegą swojego terytorium. Przez to trudno nam podejść do Hells' Lid." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "Bardzo dziękuję za pomoc. Bez tych rdzeni nie zdołalibyśmy przetrwać. Oto obiecana nagroda." }
   ]
 }

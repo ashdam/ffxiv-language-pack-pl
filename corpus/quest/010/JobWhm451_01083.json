@@ -11,7 +11,7 @@
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_TODO_00", "hash": "0902E7C14DE7C6E4", "target": "Porozmawiać z Kupchą Kupą" },
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_TODO_01", "hash": "B3A6338D5F22A66A", "target": "Porozmawiać z Puknem Pokim" },
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_TODO_02", "hash": "526E3BA98313E3A7", "target": "Przeszukać przeciążony wóz" },
-    { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_TODO_03", "hash": "C2F49C1EE5CAF2BB", "target": "Dostarczyć A-Towa-Cant's Ashes Raya<-->O<-->Sennie" },
+    { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_TODO_03", "hash": "C2F49C1EE5CAF2BB", "target": "Dostarczyć urnę z prochami A-Towa-Canta Raya<-->O<-->Sennie" },
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_RAYAOSENNA_000_000", "hash": "FD1D8E580D911CAC", "target": "Ograbienie grobu to już dość ohydna zbrodnia, ale zbezcześcić miejsce spoczynku Padjala! Tylko najpodlejsze zbójeckie szumowiny mogłyby się tego dopuścić." },
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_RAYAOSENNA_000_001", "hash": "01142F01F7FD8724", "target": "Chciałabym wierzyć, że żywiołaki wymierzyły już łotrowi sprawiedliwą karę, ale nie możemy ryzykować, że nam umknie." },
     { "gameKey": "quest/010/JobWhm451_01083#TEXT_JOBWHM451_01083_RAYAOSENNA_000_002", "hash": "DBFFCEDF3A05F4B0", "target": "Pod twoją nieobecność wysłałam najlepszego moogla na poszukiwanie sprawcy lub skradzionych szczątków. Sądzę, że powinien już mieć dla nas jakieś wskazówki." },

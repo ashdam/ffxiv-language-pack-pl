@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000010_MYSTERYVOICE", "hash": "5ED35607E8004519", "target": "Zjawiasz się w samą porę. Być może już wiesz, że mamy pewien kłopot." },
-    { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000020_MYSTERYVOICE", "hash": "923B0AC306F73186", "target": "Chodzi o Laxan Loft, tutaj, w Lakeland. Eulmore przysłało jeden ze swoich sterowców." },
+    { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000020_MYSTERYVOICE", "hash": "923B0AC306F73186", "target": "Chodzi o Laxan Loft, tutaj, w Lakeland. Eulmore przysłało jeden ze swoich statków powietrznych." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000030_MYSTERYVOICE", "hash": "D9B85E8B1E64F331", "target": "Chcą nas wypytać o śmierć Strażnika Światła. Ich wysłannik właśnie tu zmierza." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000040_ALISAIE", "hash": "5B45F4CE57A7A935", "target": "Właściwie niebo zdradza wszystko." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000050_MYSTERYVOICE", "hash": "BFDDD482931B6E4C", "target": "Istotnie. Prędzej czy później musieli się zjawić. Pytanie brzmiało tylko: kiedy." },
@@ -86,7 +86,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000780_MYSTERYVOICE", "hash": "9FC31A3EF13554AB", "target": "A więc tak się sprawy mają. Jeśli Eulmore chce nazwać nas złoczyńcami, przyjmijmy tę rolę. Dołączycie do nas?" },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000790_ALPHINAUD", "hash": "D46DF5E6F959BA31", "target": "(WZDYCHA)" },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000800_ALPHINAUD", "hash": "41342BF2C677C1C7", "target": "Nie damy się prześcignąć. Możecie nas uważać za wspólników w zbrodni." },
-    { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000810_LYNA", "hash": "84980256DB3656D6", "target": "Mój panie, oto nasz plan: najpierw wyślemy amaro, by zajęły niebo nad Lakeland. Powinny opóźnić odlot sterowca." },
+    { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000810_LYNA", "hash": "84980256DB3656D6", "target": "Mój panie, oto nasz plan: najpierw wyślemy amaro, by zajęły niebo nad Lakeland. Powinny opóźnić odlot statku powietrznego." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000820_LYNA", "hash": "76DFA6B0A8B420D5", "target": "Jednocześnie rozpylimy z powietrza proszek nasenny." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000830_LYNA", "hash": "09EC21CD28A0DC14", "target": "Nie wszyscy mu ulegną, ale osłabi szeregi wroga i da nam okazję, by wkroczyć i uwolnić Wyrocznię." },
     { "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_000840_MYSTERYVOICE", "hash": "B6065889023FADB6", "target": "Doskonale. Rozpocznijcie przygotowania." },

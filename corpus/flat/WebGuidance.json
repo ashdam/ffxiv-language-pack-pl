@@ -1,0 +1,10 @@
+{
+  "sheet": "WebGuidance",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "WebGuidance#1.2", "hash": "1DADF4760FCE2977", "target": "Community Finder" },
+    { "gameKey": "WebGuidance#1.4", "hash": "064B7C503B119231", "target": "Community Finder zawiera najnowsze informacje o Free Company, linkshell i naborze członków.<br><br>Odwiedź stronę już teraz i poszukaj nowych towarzyszy wspólnych przygód!" },
+    { "gameKey": "WebGuidance#2.2", "hash": "2CC88F1E694CCBFE", "target": "Immerse Spatial Audio" },
+    { "gameKey": "WebGuidance#2.4", "hash": "8236596D50D6A383", "target": "Za horyzontem czeka nowy wymiar dźwięku. Immerse wprowadza do świata FINAL FANTASY XIV spersonalizowany dźwięk przestrzenny w zakresie 360 stopni. Pobierz Immerse i wypróbuj za darmo!<br><br>Po instalacji uruchom samodzielną aplikację „Immerse Gamepack FINAL FANTASY XIV Edition”, aby skonfigurować profil i włączyć dźwięk przestrzenny 360 stopni." }
+  ]
+}

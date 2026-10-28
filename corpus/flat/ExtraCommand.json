@@ -1,0 +1,14 @@
+{
+  "sheet": "ExtraCommand",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "Poza grupowa" },
+    { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "Wykonuje pozę grupową, zapętlając ostatnio wykonaną emotkę lub akcję. Pozycję kamery, oświetlenie i filtr kolorów można dostosować w ustawieniach polecenia.<br><br><colortype(500)><edgecolortype(501)>Polecenie tekstowe: <edgecolortype(0)><colortype(0)>/grouppose<br><colortype(500)><edgecolortype(501)>Przypisanie klawisza: <edgecolortype(0)><colortype(0)> dostępne" },
+    { "gameKey": "ExtraCommand#2.0", "hash": "6231AC85F7D1BD8E", "target": "Kamera bezczynności" },
+    { "gameKey": "ExtraCommand#2.1", "hash": "1647DE2E6E3A33F5", "target": "Włącza kamerę bezczynności. Aktywna kamera losowo przełącza się między pobliskimi postaciami graczy a NPC. Użycie polecenia po wybraniu postaci gracza lub NPC sprawi, że kamera skupi się na tym celu. Pozycję kamery, oświetlenie i filtr kolorów można zmienić w ustawieniach polecenia.<br><br><colortype(500)><edgecolortype(501)>Polecenie tekstowe: <edgecolortype(0)><colortype(0)>/idlingcamera<br><colortype(500)><edgecolortype(501)>Przypisanie klawisza: <edgecolortype(0)><colortype(0)> Dostępne" },
+    { "gameKey": "ExtraCommand#3.0", "hash": "3E8E2413B98FB61B", "target": "Alarm" },
+    { "gameKey": "ExtraCommand#3.1", "hash": "FBD694193578025C", "target": "Włącza alarm. Alarmy można ustawiać podczas gry. Są usuwane po wylogowaniu.<br><br><colortype(500)><edgecolortype(501)>Komenda tekstowa: <edgecolortype(0)><colortype(0)>/alarm<br><colortype(500)><edgecolortype(501)>Przypisanie klawisza: <edgecolortype(0)><colortype(0)> dostępne" },
+    { "gameKey": "ExtraCommand#4.0", "hash": "3F659B09B3A15378", "target": "Panel poleceń" },
+    { "gameKey": "ExtraCommand#4.1", "hash": "35A5FF247252E05B", "target": "Wyświetla okno Command Panel.<br>Możesz swobodnie przypisywać różne akcje i polecenia, w tym wierzchowce, maskotki, gesty i zestawy wyposażenia, aby łatwo z nich korzystać.<br><br><colortype(500)><edgecolortype(501)>Polecenie tekstowe: <edgecolortype(0)><colortype(0)>/commandpanel<br><colortype(500)><edgecolortype(501)>Przypisanie klawisza: <edgecolortype(0)><colortype(0)> dostępne" }
+  ]
+}

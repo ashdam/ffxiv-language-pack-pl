@@ -2,6 +2,6 @@
   "conversation": "custom/002/CmnGscChocoboRaceDefaultA_00255",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceDefaultA_00255#TEXT_CMNGSCCHOCOBORACEDEFAULTA_00255_TALK_ACTOR", "hash": "F5589B6A1648C198", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceDefaultA_00255#TEXT_CMNGSCCHOCOBORACEDEFAULTA_00255_TALK_ACTOR", "hash": "F5589B6A1648C198", "target": "Proszę wybaczyć, <if(gnum4,pani,panie)>, ale jeśli chce <if(gnum4,pani,pan)> skorzystać z naszych usług, najlepiej od razu porozmawiać z rejestratorką." }
   ]
 }

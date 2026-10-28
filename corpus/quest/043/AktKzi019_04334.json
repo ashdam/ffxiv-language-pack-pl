@@ -2,18 +2,18 @@
   "conversation": "quest/043/AktKzi019_04334",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_002", "hash": "5BF616955E377033", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_003", "hash": "20802EAC5BBF6265", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_010", "hash": "08D3D381B35FAFA4", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_011", "hash": "CA40390A12B16305", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_012", "hash": "E2DF72226439E3D8", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_013", "hash": "A88EC1BE3A1901AE", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_014", "hash": "2FA672E80263E553", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_015", "hash": "19D50BC7B2AF25D6", "target": "" }
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Marvene usilnie rozmyśla, jak najlepiej zdobyć potrzebne jej rzeczy." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Zdobyć kryształy lodu z center soma" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "Dostarczyć kryształy lodu somy Marvene" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "Witaj. Hmm, niech zgadnę... zajmujesz się poszukiwaniem przygód? Za odpowiednią zapłatę stawisz czoła każdej bestii?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "W takim razie mam dla ciebie zadanie i stosowną nagrodę." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_002", "hash": "5BF616955E377033", "target": "Potrzebuję dwóch dość niezwykłych kryształów, które można zdobyć z som ─ lodowych olbrzymów o groźnej reputacji. Te mroźne potwory włóczą się na południowy wschód stąd. Podejmiesz się tego?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_003", "hash": "20802EAC5BBF6265", "target": "Przynieś mi te kryształy, a otrzymasz nagrodę. Dla ciebie powinno to być proste zadanie. Wyglądasz na kogoś, kto ma za sobą niejeden zatarg." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_010", "hash": "08D3D381B35FAFA4", "target": "Wciąż w jednym kawałku? Bardzo dobrze. A kryształy masz?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_011", "hash": "CA40390A12B16305", "target": "Tak, właśnie tego szukałam. Świetna robota." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_012", "hash": "E2DF72226439E3D8", "target": "Widzę ten błysk w twoich oczach. Chcesz wiedzieć, jak je wykorzystam, prawda? Zaspokoję twoją ciekawość. Jak wiesz, Kokkol i jego banda głupców uznali, że warto wzmocnić eter ognia za pomocą reaktora." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_013", "hash": "A88EC1BE3A1901AE", "target": "Widzę ten błysk w twoich oczach. Chcesz wiedzieć, jak je wykorzystam, prawda? Zaspokoję twoją ciekawość, na ile zdołam. Z reaktorem dzieje się coś złego. Słyszałam, że właśnie teraz realizowane są niebezpieczne plany." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_014", "hash": "2FA672E80263E553", "target": "W części przewodu eterycznego biegnącego pod naszymi stopami wykryto nadmierny wzrost temperatury. Te kryształy lodu pozwolą go powstrzymać, wymuszając chłodzenie przegrzanych odcinków." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_015", "hash": "19D50BC7B2AF25D6", "target": "Ale dość o mnie i moich zmartwieniach. Z nawiązką zasługujesz na nagrodę. Jeśli znów będę potrzebowała pomocy, na pewno skorzystam z twojego doświadczenia." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz810_02838",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_SEQ_00", "hash": "4A24AB0CD754BBEE", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_00", "hash": "17C136276C0524C5", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_01", "hash": "F73760BAE0CCA1DB", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_000", "hash": "5546BC018420D9BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_001", "hash": "230EF7CE6C58FE2A", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_002", "hash": "AD7673888D39BA22", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_003", "hash": "1FBF9F7BFBC72F81", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_010", "hash": "1A81F71182889B57", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_011", "hash": "33E5F81B2585B01D", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_012", "hash": "7912810BEEA5B252", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_013", "hash": "6F870AF02BD26E9C", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_014", "hash": "EBD16F74B7297425", "target": "" }
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_SEQ_00", "hash": "4A24AB0CD754BBEE", "target": "Weidheri planuje niespodziankę." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_00", "hash": "17C136276C0524C5", "target": "Zabić highwing chapulis i zdobyć ich nogi" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_01", "hash": "F73760BAE0CCA1DB", "target": "Dostarczyć nogi chapuli Weidheri" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_000", "hash": "5546BC018420D9BB", "target": "O, witaj. Jeszcze raz dzięki za poprzednią pomoc. W mieście mówią, że zajmujesz się szukaniem przygód, zgadza się? Jestem w kropce i chyba tylko ty możesz mi pomóc." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_001", "hash": "230EF7CE6C58FE2A", "target": "Potrzebuję nóg tych chapuli, co skaczą za miastem ─ ze trzy powinny wystarczyć. Poszedłbym sam, ale wdeptałyby mnie w ziemię szybciej, niż sabotender znika w burzy piaskowej." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_002", "hash": "AD7673888D39BA22", "target": "Po co mi one? Poczekaj, to się przekonasz." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_003", "hash": "1FBF9F7BFBC72F81", "target": "Nie musisz daleko iść, żeby znaleźć te skaczące chapuli. Jeśli zdobędziesz dla mnie trzy nogi, z pewnością wystarczy." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_010", "hash": "1A81F71182889B57", "target": "Chapuli sprawiły ci jakieś kłopoty?" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_011", "hash": "33E5F81B2585B01D", "target": "Dorodne sztuki. Widzę, że trafiły ci się żwawe okazy. Tak, będzie z nich dobry gulasz. To moja specjalność ─ porządny, pikantny wywar z kawałkami mięsa tak delikatnymi, że wprost rozpływają się w ustach. Moim zdaniem nogi chapuli nadają się najlepiej." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_012", "hash": "7912810BEEA5B252", "target": "Garleańczycy uważali nas za dzikusów, bo to jedliśmy. Ale skoro już ich nie ma, gulasz z Ala Ghiri wraca do jadłospisu." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_013", "hash": "6F870AF02BD26E9C", "target": "Jestem pewien, że żołnierze przyjmą go z radością po twardym jak skała chlebie i solonym mięsie, do których przywykli." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_014", "hash": "EBD16F74B7297425", "target": "I ty też. Wpadnij kiedyś na miskę gulaszu. Na mój koszt." }
   ]
 }

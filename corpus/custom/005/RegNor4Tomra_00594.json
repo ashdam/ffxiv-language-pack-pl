@@ -2,15 +2,15 @@
   "conversation": "custom/005/RegNor4Tomra_00594",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "" }
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "Lali-ho! Witaj w Tomrze, <if(gnum4,przyjaciółko,przyjacielu)>! Jeśli masz pytania, to <if(gnum4,trafiłaś,trafiłeś)> na właściwego krasnoluda!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "Co tu robisz?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "O nic." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "Kiedyś byłem górnikiem, ale moje dni machania kilofem skończyły się, gdy plecy za bardzo się zestarzały i powykrzywiały. Teraz po prostu cieszę się jesienią życia!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "Siedzę tu, popijam dobre krasnoludzkie piwo i spędzam czas na przechwałkach, czyja broda jest najlepsza. Moja może i jest stara, ale nic nie straciła ze sprężystości!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "Ta wioska jest domem rodziny Tholl." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "Utrzymujemy się głównie z tego, co wykopiemy w kopalniach. Spotkasz tu też trochę myśliwych i rolników, nie wspominając o naszych automatach─metalowych pomocnikach, których budujemy do codziennych zadań." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "Aha, jedna rada, jeśli wybierasz się na wschód: uważaj na klan Gogg. Nie można ufać krasnoludom z takimi dzikimi, szorstkimi brodami! Na sam widok tych krętaczy aż mi się zarost skręca... \\<spluwa>" }
   ]
 }

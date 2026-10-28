@@ -2,18 +2,18 @@
   "conversation": "custom/008/CtsEtcAozPyandihTalk_00847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_000", "hash": "AB66C11FF6F21099", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_010", "hash": "D8884A80F7B63DC9", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_020", "hash": "9E96C3B24C074B23", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_030", "hash": "89B5AACFA9CB056A", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_040", "hash": "69A98D9F7523847E", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_050", "hash": "A1A15634DD9F10E2", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_060", "hash": "FC89245638BB79EA", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_070", "hash": "2EC44F1962587BEC", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_080", "hash": "FA601D7A8C8C9CFD", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_090", "hash": "DFB72FD54A4C9E26", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_100", "hash": "F33613E58CB8ECD5", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_110", "hash": "D636112B83FB1EE7", "target": "" },
-    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_120", "hash": "B6A6821EB5DB3800", "target": "" }
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_000", "hash": "AB66C11FF6F21099", "target": "Od wyjazdu mistrza gildii do Kugane nie otrzymaliśmy od niego żadnej wiadomości. Mam nadzieję, że się nie zgubił... ani nie spotkało go nic gorszego." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_010", "hash": "D8884A80F7B63DC9", "target": "Tutaj mam wszystko pod kontrolą, <split(<string(gstr1)>, ,1)>. Wygląda na to, że właśnie Martyn naprawdę potrzebuje teraz <if(gnum4,pani,pana)> pomocy." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_020", "hash": "9E96C3B24C074B23", "target": "Nie obchodzi mnie, za jak dobrego uważa się ten Gogo. Żaden marny naśladowca nie ma z <if(gnum4,panią,panem)> szans, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_030", "hash": "89B5AACFA9CB056A", "target": "Trzykrotne wiwat dla <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_040", "hash": "69A98D9F7523847E", "target": "Wciąż nie ma wieści od Martyna, ale proszę się nie martwić─z pewnością niedługo znajdzie dla <if(gnum4,pani,pana)> odpowiedniego rywala." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_050", "hash": "A1A15634DD9F10E2", "target": "Mogę sobie tylko wyobrażać, co Martyn wyrabia w Limsie. Zaopiekuje się <if(gnum4,pani,pan)> nim, prawda?" },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_060", "hash": "FC89245638BB79EA", "target": "Gildia Arkanistów? Chyba znów nie oferował prywatnych lekcji? Ten człowiek po prostu nie potrafi się powstrzymać, gdy tylko ma okazję popisać się wiedzą." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_070", "hash": "2EC44F1962587BEC", "target": "Martyn mówił, że ma dobre przeczucia co do Gridanii. Mam nadzieję, że się nie myli." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_080", "hash": "FA601D7A8C8C9CFD", "target": "Podobno Martyn w rzeczywistości polował na nagrodę za czyjąś głowę, tak? Jakoś mnie to nie dziwi." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_090", "hash": "DFB72FD54A4C9E26", "target": "Chyba nie nastroszył niczyich piórek w stajniach? Chyba nie..." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_100", "hash": "F33613E58CB8ECD5", "target": "Szczerze mówiąc, trudno wyobrazić sobie Martyna w roli złoczyńcy, nawet jeśli tylko gra." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_110", "hash": "D636112B83FB1EE7", "target": "Z tego, co słyszę, Martyn otrzymał od Royse aż nadto nieuczciwą przewagę, więc proszę walczyć bez taryfy ulgowej." },
+    { "gameKey": "custom/008/CtsEtcAozPyandihTalk_00847#TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_120", "hash": "B6A6821EB5DB3800", "target": "To był absolutnie olśniewający występ, <split(<string(gstr1)>, ,1)>! Już niemal nie pamiętam, kiedy ostatnio w Celestium panowało takie ożywienie." }
   ]
 }

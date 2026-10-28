@@ -2,17 +2,17 @@
   "conversation": "custom/008/RegYok6CiblusCoffeeGrounds_00866",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_000", "hash": "E806FAD9B765F89C", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_001", "hash": "4B9F7DF0015F55E2", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_002", "hash": "D37EEAE5807C99AD", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_003", "hash": "37AD404E70135ADF", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_Q1_000_000", "hash": "D3531684D1012DBD", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_001", "hash": "FDAC1B879FF0D4E6", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_002", "hash": "A32E471142F81A31", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_003", "hash": "E1626D3A03E60282", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_010", "hash": "BCD37574DAC31FC6", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_011", "hash": "4B04958BA24FC793", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_020", "hash": "3CEEAC80CE5FFE19", "target": "" },
-    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_021", "hash": "15FD7EAB6C68A664", "target": "" }
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_000", "hash": "E806FAD9B765F89C", "target": "Jeśli szukasz kawy, jesteś we właściwym miejscu!" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_001", "hash": "4B9F7DF0015F55E2", "target": "Podobno <if(gnum4,pokonałaś,pokonałeś)> Valigarmandę! To prawda? Nasze kawowce są wreszcie bezpieczne? Och, co za ulga." },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_002", "hash": "D37EEAE5807C99AD", "target": "Podobno mamy teraz dwoje nowych Sług Świtu! Musimy przygotować najlepsze ziarna kawy na ich następną wizytę." },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_003", "hash": "37AD404E70135ADF", "target": "Przychodzisz na kawę? A może mogę ci pomóc w czymś innym?" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_Q1_000_000", "hash": "D3531684D1012DBD", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_001", "hash": "FDAC1B879FF0D4E6", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_002", "hash": "A32E471142F81A31", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_A1_000_003", "hash": "E1626D3A03E60282", "target": "O nic." },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_010", "hash": "BCD37574DAC31FC6", "target": "Możesz mówić mi Shovlu. Jak zapewne domyślasz się po nazwie tego miejsca, na Plantacji Kawy Ciblu uprawiamy kawowce i ze wszystkich sił staramy się dzielić cudami ich wspaniałych ziaren z całym Tural!" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_011", "hash": "4B04958BA24FC793", "target": "Kawa... Cóż za wspaniały napój. Pracujemy dniem i nocą, by poszerzać rynek, co wcale nie jest trudne, skoro picie kawy pomaga nam nie zasnąć! Może podać ci filiżankę? A może masz jakieś pytanie?" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_020", "hash": "3CEEAC80CE5FFE19", "target": "To dokładnie to, co widzisz. Uprawiamy i zbieramy kawę, a potem wysyłamy ją do całego Tural!" },
+    { "gameKey": "custom/008/RegYok6CiblusCoffeeGrounds_00866#TEXT_REGYOK6CIBLUSCOFFEEGROUNDS_00866_SHOVLU_000_021", "hash": "15FD7EAB6C68A664", "target": "Jest dobra dla zdrowia, wiesz? Wyostrza umysł! Gorąco zachęcam do spróbowania naszej kawy, jeśli jeszcze nie było okazji. Jeden łyk i poczujesz się jak <if(gnum4,nowo narodzona,nowo narodzony)>!" }
   ]
 }

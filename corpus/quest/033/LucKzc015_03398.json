@@ -2,11 +2,11 @@
   "conversation": "quest/033/LucKzc015_03398",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_SEQ_00", "hash": "841FC4634C4CCB3B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Żywiołowy pixie rozpoznaje cię i oczy natychmiast mu rozbłyskują." },
+    { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_SEQ_00", "hash": "841FC4634C4CCB3B", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Żywiołowy pixie rozpoznaje cię i oczy natychmiast mu rozbłyskują." },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_TODO_00", "hash": "061194397909BFA0", "target": "Zbierz wirowziele w jeziorze." },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_TODO_01", "hash": "1DA09D49FE32D9A4", "target": "Dostarcz wirowziele żywiołowemu pixie." },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_TODO_02", "hash": "D580211EF10E6697", "target": "Udekoruj schody przytulkwiatami." },
-    { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_TODO_03", "hash": "87D3C031BFE2BCE1", "target": "Zdaj relację żywiołowemu pixie." },
+    { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_TODO_03", "hash": "87D3C031BFE2BCE1", "target": "Zdać relację żywiołowej pixie" },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_PIXIE03398_000_000", "hash": "80D316978205867A", "target": "Och! Jesteś <if(gnum4,przyjaciółką,przyjacielem)> Uriangera, prawda? Pomożesz mi?" },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_PIXIE03398_000_001", "hash": "F06EE4594F3B6E1E", "target": "Dom Uriangera jest ponury i nudny. Chcę go udekorować, żeby był jasny i piękny. Z twoją pomocą będzie jeszcze bardziej wyjątkowy!" },
     { "gameKey": "quest/033/LucKzc015_03398#TEXT_LUCKZC015_03398_PIXIE03398_000_002", "hash": "9632E2A06AF31767", "target": "Najpierw potrzebujemy wirowziela, ślicznej roślinki rosnącej w wodzie. Zwykle dostajemy je od Fuath za inne rzeczy, ale skoro umiesz pływać, możesz nam go nazbierać." },

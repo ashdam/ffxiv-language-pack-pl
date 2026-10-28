@@ -5,7 +5,7 @@
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_SEQ_00", "hash": "61A10EBAE7A3489C", "target": "Katliss patrzy na ciebie z troską." },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_00", "hash": "A0932D8E5D338536", "target": "Zatrzymać się na chwilę i poczuć wiatr na twarzy" },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_01", "hash": "D7EA2CC71A6C489C", "target": "Zebrać informacje o Kryształowym Egzarsze" },
-    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_02", "hash": "9A745383196E6BB6", "target": "Porozmawiać z dowódczynią Lyna przy Bramie Accensor" },
+    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_02", "hash": "9A745383196E6BB6", "target": "Porozmawiać z dowódczynią Lyną przy Bramie Accensor" },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_000", "hash": "F825FED55A8B3099", "target": "...<split(<string(gstr1)>, ,1)>, dobrze się czujesz?" },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_001", "hash": "A36EDED2695B4491", "target": "Chyba przydałoby ci się wrócić do łóżka. Albo odpocząć przez chwilę na wieży obserwacyjnej obok ptaszarni." },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_002", "hash": "617F66567D8749CB", "target": "To przeklęte niebo nie sprzyja wypoczynkowi, ale Egzarcha lubił tam stać i czuć wiatr na twarzy." },

@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc001_05060",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SEQ_00", "hash": "3C88A0A6E1698D0B", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_02", "hash": "1969679D1F00C6CA", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_001", "hash": "C8D8F123AD0F85C8", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_002", "hash": "645BD4A286BB5C86", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_003", "hash": "FCAE0A8F6AD13E15", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_004", "hash": "0B54A74BFF96B24C", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_005", "hash": "A51EF7B63D5BCBBF", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SYSTEM_000_006", "hash": "780BF052BB6AB983", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_007", "hash": "79BF96F508FE6494", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_008", "hash": "25F5C00D666F2DEF", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_009", "hash": "901CF2B5E0DF14DB", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_010", "hash": "77BB33F8C3294798", "target": "" }
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SEQ_00", "hash": "3C88A0A6E1698D0B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kanuhanu spogląda na drewniane filary z niepokojem w oczach." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "Zebrać wodoodporną żywicę w zagajniku na północ od Ok'hanu" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "Użyć wodoodpornej żywicy na drewnianych filarach" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_02", "hash": "1969679D1F00C6CA", "target": "Porozmawiać z Kanuhanu" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_001", "hash": "C8D8F123AD0F85C8", "target": "Czcigodny gościu, pomożesz mi? Od czasu burzy dniem i nocą naprawiam nasze domy. Nareszcie widać koniec. Pozostało pokryć podłogi i podpory żywicą chroniącą przed wodą, ale pracy jest po prostu zbyt wiele jak na jedną parę szponów..." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_002", "hash": "645BD4A286BB5C86", "target": "A więc pomożesz? Wspaniale! Zacznijmy od zebrania żywicy z drzew na północ od Ok'hanu." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_003", "hash": "FCAE0A8F6AD13E15", "target": "Potem wystarczy pokryć nią budynki w Ok'bek'be, by uodpornić je na kaprysy pogody." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_004", "hash": "0B54A74BFF96B24C", "target": "Sam nałożę żywicę na podłogi po ukończeniu ostatnich napraw, a ciebie proszę o zajęcie się filarami nośnymi. Potem powinny wytrzymać najgorsze, co może zgotować im niebo." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_005", "hash": "A51EF7B63D5BCBBF", "target": "Żywicą z drzew na północ od Ok'hanu chronimy nasze domy. Idź tam i zbierz jej trochę, a potem pokryj nią filary nośne w Ok'bek'be." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SYSTEM_000_006", "hash": "780BF052BB6AB983", "target": "Gęsta, lepka żywica powoli spływa do butelki. Udaj się do Ok'bek'be i pokryj nią filary nośne." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_007", "hash": "79BF96F508FE6494", "target": "Szybko i dobrze wykonana praca. Filary podtrzymujące nasze stopy są równie ważne jak trzciny strzegące naszych głów. Jeśli ulegną zniszczeniu, zachwieją się same fundamenty naszego życia." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_008", "hash": "25F5C00D666F2DEF", "target": "Może nigdy wcześniej nie było ci dane widzieć takich domów, ale nie bez powodu tak je budujemy. W tym wilgotnym klimacie uniesione drewniane podłogi chłodzi powietrze płynące od dołu, a podczas powodzi woda nie moczy nam stóp." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_009", "hash": "901CF2B5E0DF14DB", "target": "Białe krążki na filarach też nie służą jedynie ozdobie─powstrzymują myszy i inne małe zwierzęta. Jednak mimo wszystkich zalet drewno łatwo gnije, więc musimy je zabezpieczać, inaczej czekałaby nas nieustanna odbudowa." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_010", "hash": "77BB33F8C3294798", "target": "Dzięki twojej pomocy te budynki powinny przetrwać wiele lat. Weź to─drobny dowód wdzięczności za twój trud!" }
   ]
 }

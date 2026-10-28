@@ -2,12 +2,12 @@
   "conversation": "custom/002/CmnGscGATENotice_00242",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "" }
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Następne zaplanowane wydarzenie, „<switch(lnum2,Na skraju przepaści,Wazon na wynos,Zdemaskować impa,Życie jest tańcem,Dokąd wiatr poniesie,Leap of Faith,Air Force One,Cięcie w dziesiątkę)>”, odbędzie się w miejscu: <switch(lnum3,Wonder Square East,Event Square,Round Square,Cactpot Board)>. Zapraszamy wszystkich gości do udziału!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "Następne wydarzenie GATE odbędzie się o <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23)>,0)>:<sec(t_min)> <if([t_hour>=12],czasu ziemskiego,czasu ziemskiego)> w miejscu: <switch(lnum3,Wonder Square East,Event Square,Round Square,Cactpot Board)>." },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Jeśli chce <if(gnum4,pani,pan)> wziąć udział w wydarzeniu „<switch(lnum1,Na skraju przepaści,Wazon na wynos,Zdemaskować impa,Życie jest tańcem,Dokąd wiatr poniesie,Leap of Faith,Air Force One,Cięcie w dziesiątkę)>”, proszę pospieszyć na miejsce: <switch(lnum2,Wonder Square East,Event Square,Round Square,Cactpot Board)>!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "Wziąć udział w tym wydarzeniu GATE?" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "Tak" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "Nie" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Wydarzenie „<switch(lnum1,Na skraju przepaści,Wazon na wynos,Zdemaskować impa,Życie jest tańcem,Dokąd wiatr poniesie,Leap of Faith,Air Force One,Cięcie w dziesiątkę)>” trwa obecnie w miejscu: <switch(lnum2,Wonder Square East,Event Square,Round Square,Cactpot Board)>. Jeśli chce <if(gnum4,pani,pan)> je obejrzeć, proszę udać się tam teraz, zanim się skończy!" }
   ]
 }

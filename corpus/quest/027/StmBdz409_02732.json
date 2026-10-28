@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz409_02732",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_SEQ_00", "hash": "AA8CA1C8D86604DC", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_00", "hash": "98EA501F63A3F08C", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_01", "hash": "DD0F8C30DED94EF0", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_000", "hash": "D1D2C59287E4CA42", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_001", "hash": "E2B4A7FE50B96337", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_002", "hash": "1C48E7CF95BFF31A", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_003", "hash": "E2DFBE9B0CA66A88", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_004", "hash": "13161628A1AF2FFC", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_010", "hash": "FAB178C15FD272AF", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_011", "hash": "8DA44888123E88AB", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_012", "hash": "D7E7F1142B12FC34", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_013", "hash": "DCEBD93124E03D25", "target": "" }
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_SEQ_00", "hash": "AA8CA1C8D86604DC", "target": "Masatsuchi zgłodniał." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_00", "hash": "98EA501F63A3F08C", "target": "Zabić tygrysy i zdobyć ich mięso" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_01", "hash": "DD0F8C30DED94EF0", "target": "Dostarczyć mięso tygrysa Masatsuchi" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_000", "hash": "D1D2C59287E4CA42", "target": "Ach, jeszcze nigdy nie czułem takiego głodu!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_001", "hash": "E2B4A7FE50B96337", "target": "O, witaj. Mogę cię o coś poprosić?" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_002", "hash": "1C48E7CF95BFF31A", "target": "Byłbym ogromnie wdzięczny, gdyby udało ci się upolować dla mnie tygrysa albo dwa!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_003", "hash": "E2DFBE9B0CA66A88", "target": "Nie ma nic lepszego niż porządny kawał tygrysiego mięsa. Co ty na to? Proszę, przecież umrę z głodu!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_004", "hash": "13161628A1AF2FFC", "target": "W myślach już przeżuwam niezwykle soczysty kawałek najpyszniejszego tygrysa..." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_010", "hash": "FAB178C15FD272AF", "target": "To mięso... masz je?" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_011", "hash": "8DA44888123E88AB", "target": "Och, jest naprawdę wspaniałe. Tak dawno nie jadłem tygrysa. Odkąd dwadzieścia pięć lat temu straciłem wzrok w jednym oku podczas bitwy, rzadko udaje mi się polować." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_012", "hash": "D7E7F1142B12FC34", "target": "Ówczesny sołtys przyjął mnie pod swój dach i nakarmił. W zamian obiecałem pracować na polach dla niego i mieszkańców. To wyczerpująca praca, ale wiem, że to mięso doda mi sił do dalszego wysiłku." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_013", "hash": "DCEBD93124E03D25", "target": "Jeszcze raz dziękuję za dostawę. Będę rozkoszował się każdym kęsem!" }
   ]
 }

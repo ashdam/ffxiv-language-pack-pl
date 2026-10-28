@@ -2,17 +2,17 @@
   "conversation": "quest/037/BanPix120_03708",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_SEQ_00", "hash": "BCC28378FC8B1D33", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_TODO_00", "hash": "1D630AA0CC0858EB", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_TODO_01", "hash": "D619C30C2ED08A65", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_001", "hash": "4B6BC407A550E04B", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_002", "hash": "6ADC67F17B01FD70", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_003", "hash": "C73024DEC0EF1FB6", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_004", "hash": "DF8577A2CF5322F5", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_020", "hash": "9CCAF82013C08F90", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_021", "hash": "BD5FD2730C17314C", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_022", "hash": "F98BE1BAF63819E9", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_023", "hash": "A509019A02298FEF", "target": "" },
-    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_024", "hash": "7ED12B5CE66344EE", "target": "" }
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_SEQ_00", "hash": "BCC28378FC8B1D33", "target": "Uin Nee ma kolejny genialny pomysł na ulepszenie Lyhe Mheg.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_TODO_00", "hash": "1D630AA0CC0858EB", "target": "Zebrać piechurów markizy w pobliżu Marszu Markizy" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_TODO_01", "hash": "D619C30C2ED08A65", "target": "Dostarczyć piechurów markizy Uin Nee" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_001", "hash": "4B6BC407A550E04B", "target": "Och, Markiza! Jej kwiaty będą w sam raz!" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_002", "hash": "6ADC67F17B01FD70", "target": "Dlaczego tak na mnie patrzysz? Markiza, Markiza! No wiesz─to wielkie kwitnące drzewo, które wygląda, jakby rządziło wszystkimi innymi kwiatami? Jej mali poddani doskonale pasowaliby do Lyhe Mheg. I dobrze o tym wiesz!" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_003", "hash": "C73024DEC0EF1FB6", "target": "W końcu dzieci z Amh Araeng tak rzadko widują kwitnące kwiaty. Ale Tkacze Snów potrafią wszystko! Zamierzam tego dowieść! Za pomocą kwiatów! Więc postaraj się nadążyć." },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_004", "hash": "DF8577A2CF5322F5", "target": "Żeby odpowiednio ozdobić Lyhe Mheg, potrzebujemy przynajmniej trzech kwiatów z Marszu. Tylko wybierz naprawdę śliczne. Inaczej <italic(1)>na pewno<italic(0)> wyśmieję twój brak gustu!" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_020", "hash": "9CCAF82013C08F90", "target": "Masz je? Dobrze, przygotuj się zatem na ocenę! Lepiej, żeby były zachwycające..." },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_021", "hash": "BD5FD2730C17314C", "target": "Och, są idealne! Twój nieskazitelny gust nigdy nie budził moich wątpliwości, <if(gnum4,kochana śmiertelniczko,kochany śmiertelniku)>." },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_022", "hash": "F98BE1BAF63819E9", "target": "Wiesz, Markiza sama była kiedyś taką kochaną śmiertelniczką. O tak. Prowadziła swoje wojska w obronie ziemi, którą tak bardzo kochała. Gdy przybyli pożeracze, walczyła do samego końca, choć jej twarz tonęła we krwi i łzach..." },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_023", "hash": "A509019A02298FEF", "target": "A kiedy nie mogła już walczyć, dzięki nam, pixie, stała się drzewem! By żyła dalej w postaci równie wspaniałej i pięknej jak jej duch. Na pewno to doceniła. Inaczej dlaczego tak pięknie kwitnie?" },
+    { "gameKey": "quest/037/BanPix120_03708#TEXT_BANPIX120_03708_UINNEE_000_024", "hash": "7ED12B5CE66344EE", "target": "Ale nie przejmuj się tym wszystkim. Mamy kwiaty do sadzenia i sny do tkania!" }
   ]
 }

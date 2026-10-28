@@ -12,7 +12,7 @@
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_00", "hash": "8B14C249B629C0D5", "target": "Porozmawiać z Gerhardtem" },
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_01", "hash": "B3071B6EA25414BF", "target": "Zdać relację Elde" },
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_02", "hash": "204E3287B1D1ED05", "target": "<if([lnum1<lnum2],Wytworzyć parę dhalmelskin leggings of scouting <sheet(Addon,9,0)>,Dostarczyć parę dhalmelskin leggings of scouting <sheet(Addon,9,0)> Elde)>" },
-    { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_03", "hash": "1CFBE074489488D5", "target": "Dostarczyć complimentary pair of boots Aubrenardowi w The Forgotten Knight" },
+    { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_03", "hash": "1CFBE074489488D5", "target": "Dostarczyć darmową parę butów Aubrenardowi w gospodzie The Forgotten Knight" },
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_TODO_04", "hash": "CB8040106F72D33F", "target": "Zdać relację Elde" },
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_ELDE_000_000", "hash": "35FE9080F2FC5728", "target": "<split(<string(gstr1)>, ,1)>! Zalała nas fala klientów kupujących wyvernskin workboots. Dzięki sprzedaży zatrudniłam nawet kilku nowych rzemieślników!" },
     { "gameKey": "quest/020/ClsTan550_02077#TEXT_CLSTAN550_02077_ELDE_000_001", "hash": "A7AB8698C19AAE3A", "target": "Nie mogę jednak zdobyć więcej skóry wiwerny. Gdy spytałam stałego dostawcę, odmówił bez słowa wyjaśnienia." },

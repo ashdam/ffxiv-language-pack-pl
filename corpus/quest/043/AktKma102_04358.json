@@ -45,7 +45,7 @@
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_A1_000_082", "hash": "FEEC5BA220D86A9F", "target": "Rozstać się." },
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_A1_000_083", "hash": "53CFF596A8DED2F1", "target": "Nic." },
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_GRAHATIA_000_085", "hash": "81C538546DBF1F4A", "target": "Nie zapomnij o pani Krile, naszej znakomitej przewodniczce!" },
-    { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_Q2_000_090", "hash": "2DEAAE583A2FF720", "target": "Na pewno chcesz rozstać się ze swoimi towarzyszami?" },
+    { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_Q2_000_090", "hash": "2DEAAE583A2FF720", "target": "Na pewno chcesz rozstać się z towarzyszami?" },
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_GRAHATIA_000_091", "hash": "16A5548389E2168C", "target": "Masz prywatne sprawy do załatwienia? Dobrze, spotkajmy się w porcie Scholar's Harbor, kiedy zechcesz wrócić do zwiedzania." },
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_GRAHATIA_000_095", "hash": "121F3785434BA764", "target": "Ach, <split(<string(gstr1)>, ,1)>! Wracamy do odkrywania Sharlayanu?" },
     { "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_SYSTEM_000_100", "hash": "CF4FD8DEE4BBE7C7", "target": "Twoi towarzysze jeszcze nie dotarli. Zanim spróbujesz kontynuować, upewnij się, że są przy tobie." },

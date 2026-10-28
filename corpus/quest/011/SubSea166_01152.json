@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea166_01152",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "" }
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "Gdy dowódczyni Doliny Czaszki osobiście chce porozmawiać ze <if(gnum4,skromną poszukiwaczką,skromnym poszukiwaczem)> przygód przed wyruszeniem w drogę, wszystko wskazuje, że dzieje się coś niezwykłego." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "Komandor Falkbryda jest szczęśliwa: Dowództwo Maelstromu zwolniło jej ludzi z obowiązku badania Groty Sastasha. Oczywiście o tym, czego dowiedziała się rano, ty wiesz już od pewnego czasu. W końcu zastępstwo to właśnie ty. Odszukaj teraz sierżanta Catguistla przy grocie i zwolnij go z zadania." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "Po rozmowie z Catguistlem wejście do groty budzi w tobie jeśli nie lęk, to przynajmniej głębokie przemyślenia." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "Porozmawiać z sierżantem Catguistlem" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "Słyszałam, że nas opuszczasz, <split(<string(gstr1)>, ,1)>─wieści szybko krążą po obozie. Może pomożesz nam ostatni raz po drodze. Mam depeszę z Dowództwa Maelstromu─od komandora Reynera z Żółtych Kurtek." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "Na ich rozkaz badaliśmy Grotę Sastasha. Ale podobno zatrudnili kogoś z poszukiwaczy przygód─„o doskonałej reputacji i miłym usposobieniu”, pisze komandor─żeby dokończył pracę." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "Gdyby więc... tak?<br>Ha! To o <italic(1)>tobie<italic(0)> mówi? Oczywiście! Obóz Doliny Czaszki chętnie przyczyni się do uświetnienia twojej reputacji. Twoje zadania zostały wykonane znakomicie." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "Komandor Reyner i wielu innych dowódców podziela moje zdanie: przez te zadania zbytnio rozproszyliśmy siły. Szczerze mówiąc, z wielką przyjemnością wycofam ludzi z grot." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "Starszy sierżant Catguistl jest najwyższym rangą oficerem przy Grocie Sastasha. Znajdź go i powiedz, że jego misja dobiegła końca. Ma rozkaz wrócić do Doliny Czaszki." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "Stój! Zamierzasz wejść do Groty Sastasha? Odradzałbym. Pewnie zginiesz w jej labiryncie. Wierz mi─gdyby nie siła woli, nie stałbym tu teraz." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "Pytasz, co ja tu robię? To miłe miejsce na obmyślanie strategii. Znacznie lepsze niż labirynt w głębi groty. Tam nikt nie usłyszy twojego krzyku, <if(gnum4,przyjaciółko,przyjacielu)>─zwłaszcza że wszystkich pozostałych przeniesiono gdzie indziej." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "Mnie też, mówisz? Wracać do Obozu Doliny Czaszki, z dala od labiryntu tego piekła? Doskonale. Mam swoje zasady i chętnie poświęciłbym życie dla misji, ale bez żalu odstąpię ci tę perspektywę─a grocie życzę miłego dnia!" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "Moje miejsce jest w forcie albo na polu bitwy. Nie chcę pełzać po wilgotnej grocie ze zwojami lin i stosami papieru, bojąc się, że nie zobaczę już światła dnia. Ostrzegam, <if(gnum4,przyjaciółko,przyjacielu)>, tam kryje się wielkie niebezpieczeństwo. To jest─jak to się mówi─<italic(1)>labirynt<italic(0)>!" }
   ]
 }

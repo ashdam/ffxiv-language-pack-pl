@@ -2,14 +2,14 @@
   "conversation": "custom/005/CtsErkEureka4Armor_00562",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "Wszystko, czego potrzebuję, jest już w naszym obozie w Hydatos, ale urządzenie wydajnego warsztatu zajmie mi trochę czasu. Zamówienia na pancerze będą musiały jeszcze poczekać." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "Chce <if(gnum4,pani,pan)> zamówić wykucie pancerza? Przykro mi, ale muszę nalegać, by elementy wykonane z materiałów z Pyros zamawiać w tamtejszym obozie." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "Co chcesz zrobić?" },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "Wzmocnić pancerz Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "Wzmocnić pancerz Eureka +1." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "Porozmawiać." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "Nic." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "Reputacja mistrza Gerolta, jeśli już, nie oddaje w pełni jego doskonałości. Jego wyroby są wyśmienite─jakimś sposobem jednocześnie śmiałe i oszałamiająco delikatne. Ach, to zaszczyt móc podziwiać taki talent z tak bliska..." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "Projekty mistrza Drake’a wymagają specjalnych materiałów, ale jeśli ściśle się ich trzymać, powinno być możliwe nasycenie <if(gnum4,pani,pańskiego)> pancerza większą mocą żywiołów. Cóż za wyjątkowo genialna technika!" }
   ]
 }

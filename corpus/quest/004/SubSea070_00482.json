@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea070_00482",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_00", "hash": "95FE95923DCC23AB", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_01", "hash": "43F9A3AD12E4AA76", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_02", "hash": "CA6CB70E7F7AFE41", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_03", "hash": "E660F419DFA33470", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_00", "hash": "8B0B9A987B9A8569", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_01", "hash": "C25C2E97478D8691", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_0", "hash": "853FA898DA6CF968", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_1", "hash": "C87EE4B8885BA657", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_2", "hash": "0218737156D88789", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_10", "hash": "14ABF9F7F43848B8", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_11", "hash": "54EB1CA66FED0017", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_12", "hash": "4E32D5353089872E", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_POP_MESSAGE", "hash": "59BF85E48D981B6D", "target": "" }
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_00", "hash": "95FE95923DCC23AB", "target": "Arenlona chce się pozbyć kilku kretów." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_01", "hash": "43F9A3AD12E4AA76", "target": "Stworzenia clever hedgemole szczególnie upodobały sobie dynie ogrów wyhodowane przez Arenlonę. Odwiedź grządkę z dyniami i rozpraw się ze szkodnikami." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_02", "hash": "CA6CB70E7F7AFE41", "target": "Grządka jest już wolna od złodziei dyń. Wróć do Arenlony z dobrymi wieściami." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_03", "hash": "E660F419DFA33470", "target": "Arenlona stale opracowuje nowe metody uprawy, by sprostać ciągle zmieniającym się problemom. Twoja obecność, choćby chwilowa, powinna umożliwić jej znaczne postępy." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_00", "hash": "8B0B9A987B9A8569", "target": "Odwiedzić grządkę z dyniami i zabić clever hedgemole" },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_01", "hash": "C25C2E97478D8691", "target": "Złożyć raport Arenlonie" },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_0", "hash": "853FA898DA6CF968", "target": "Jeśli całe życie skrupulatnych badań nad rozwojem rolnictwa czegoś mnie nauczyło, to tego, że owoce wiedzy same się nie obronią. Bez twoich mięśni, które staną w ich obronie, cały mój trud pójdzie na marne." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_1", "hash": "C87EE4B8885BA657", "target": "Weźmy choćby wspaniałe dynie ogrów, które wyhodowałam. Lata hipotez i prób wreszcie przybrały namacalną postać, tylko po to, by porwały ją te podziemne darmozjady, clever hedgemole." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_2", "hash": "0218737156D88789", "target": "Uodporniłam już dynie na ogień, suszę, mróz, chwasty, owady i świąteczne obrzędy. Potrzebuję tylko kogoś, kto zabije krety." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_10", "hash": "14ABF9F7F43848B8", "target": "Poszło tak łatwo, że zaczynam się zastanawiać, po co całe życie obmyślałam złożone rozwiązania problemów, zamiast po prostu chodzić i zabijać." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_11", "hash": "54EB1CA66FED0017", "target": "Ale obawiam się, że za późno już na zmianę metod. Nadal będę szukać złożonych rozwiązań, a <italic(1)>ty<italic(0)> zostaniesz w pobliżu i zajmiesz się zabijaniem." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_12", "hash": "4E32D5353089872E", "target": "Cóż za pycha! Co za arogancja, by sądzić, że ja, jedna kobieta, zdołam zgłębić bezmiar tajemnic natury... Ale z tobą u boku na pewno nam się uda." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_POP_MESSAGE", "hash": "59BF85E48D981B6D", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

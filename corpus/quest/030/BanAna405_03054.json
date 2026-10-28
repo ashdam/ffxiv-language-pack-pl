@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna405_03054",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_SEQ_00", "hash": "BA67DBD90D38DA38", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_00", "hash": "336BF9A24F22F5FC", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_01", "hash": "E41620522F7D971D", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_000", "hash": "00792300B5DC031A", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_001", "hash": "95253C0D3B682347", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_002", "hash": "8C2214F53F2D7F16", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_003", "hash": "284A9E411B2C5FCC", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_019", "hash": "CE957A1BC63F635C", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_020", "hash": "E94862B8B8BFCBF3", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_021", "hash": "DA9EB1C29CDCD142", "target": "" }
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_SEQ_00", "hash": "BA67DBD90D38DA38", "target": "Eshana potrzebuje kogoś, kto będzie zarazem przynętą i pułapką.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_00", "hash": "336BF9A24F22F5FC", "target": "Wywabić i zabić okazy funnel antlion przy Wodospadach Piki" },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_01", "hash": "E41620522F7D971D", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_000", "hash": "00792300B5DC031A", "target": "Mrówkolwy to przerażające stworzenia. Ledwie uznasz drogę za bezpieczną, ziemia nagle wybucha pod tobą, a ty wpadasz w miażdżący uścisk żuwaczek." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_001", "hash": "95253C0D3B682347", "target": "Taki los spotkał już zbyt wielu podróżnych zmierzających do twierdzy, zarówno żołnierzy, jak i kupców. Kapitan nakazała nam zabijać tych czających się przedstawicieli robactwa, gdy tylko ich dostrzeżemy. Właśnie w tym tkwi jednak problem: widzimy ich tylko wtedy, gdy same tego chcą." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_002", "hash": "8C2214F53F2D7F16", "target": "Są tu też inne mrówkolwy, ale kilka szczególnie dobrze nauczyło się polować na naszych szlakach. Właśnie je chcę ci zlecić do zabicia." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_003", "hash": "284A9E411B2C5FCC", "target": "Udaj się do Wodospadów Piki i przejdź samotnie między skałami. Nie musisz się specjalnie starać, by odnaleźć cel... On sam znajdzie ciebie." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_019", "hash": "CE957A1BC63F635C", "target": "Rozumiem, że mrówkolwy już nie żyją?" },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_020", "hash": "E94862B8B8BFCBF3", "target": "Dziękuję, <split(<string(gstr1)>, ,1)>. Ci napastnicy byli szczególnie przebiegli i wiedzieli, że nie należy się pokazywać naszym oddziałom łowieckim." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_021", "hash": "DA9EB1C29CDCD142", "target": "Tak jak podejrzewałam, nie docenili jednak siły <if(gnum4,samotnej poszukiwaczki,samotnego poszukiwacza)> przygód. Może potrzeba będzie jeszcze kilku wypraw, ale w końcu nauczą się bać tej zdobyczy, która potrafi oddać!" }
   ]
 }

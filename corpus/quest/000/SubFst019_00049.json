@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst019_00049",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_00", "hash": "2A88B0A0B93AB8C5", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_01", "hash": "00756109F2143BEE", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_02", "hash": "A551016FA996AF16", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_TODO_00", "hash": "EFF631320AF7BF94", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_1", "hash": "D46CB6CA62911255", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_2", "hash": "9B95962CD176E21E", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_3", "hash": "BEF371BFD7C7988F", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_4", "hash": "538E9468246C77CA", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_10", "hash": "66C8FAD0920EAE78", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_11", "hash": "C9280089860F2EA4", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_12", "hash": "AA2259BAAE9D7B55", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_13", "hash": "2D635202E7DA4F21", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_14", "hash": "FF9E4B468E881CD8", "target": "" }
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_00", "hash": "2A88B0A0B93AB8C5", "target": "Duimessand potrzebuje poszukiwacza przygód do przekazania wiadomości." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_01", "hash": "00756109F2143BEE", "target": "Duimessand, wartownik stacjonujący w północnej Gridanii, już dawno powinien zostać zluzowany. Jego przełożona Millicent wciąż jednak nie przysłała zmiennika. Znajdź ją przed Gildią Garbarzy, zanim Duimessand padnie z wyczerpania." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_02", "hash": "A551016FA996AF16", "target": "Duimessand ostrzegał cię przed temperamentem Millicent, lecz nic nie mogło przygotować cię na potok słów, którym odpowiedziała na jego wiadomość. Wygląda na to, że warta Duimessanda dopiero się zaczyna..." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_TODO_00", "hash": "EFF631320AF7BF94", "target": "Porozmawiać z Millicent" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_1", "hash": "D46CB6CA62911255", "target": "Hej, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Czy mogę prosić o przekazanie wiadomości?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_2", "hash": "9B95962CD176E21E", "target": "Moja przełożona, Millicent, stoi przed Pracownią Fen<-->Yll. Na pewno ma mnóstwo pracy, ale już czas na moją zmianę." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_3", "hash": "BEF371BFD7C7988F", "target": "Prawdę mówiąc, od dawna. Nie mogę jednak tak po prostu porzucić posterunku." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_4", "hash": "538E9468246C77CA", "target": "Czy mogę prosić o rozmowę z nią w moim imieniu? Tylko proszę ostrożnie dobierać słowa─ma dość wybuchowy charakter." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_10", "hash": "66C8FAD0920EAE78", "target": "O co chodzi? Duimessand mówi, że potrzebuje przerwy?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_11", "hash": "C9280089860F2EA4", "target": "Co za <italic(1)>tupet<italic(0)> tego zasmarkanego gnojka! Jęczy o zmianę w takiej chwili! Już zapomniał, jak brakuje nam ludzi po tej ostatniej akcji z plemieniem Ixal!?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_12", "hash": "AA2259BAAE9D7B55", "target": "I jeszcze wysyła zupełnie nieznaną osobę, żeby marudziła w jego imieniu! Samolubny drań myśli tylko o swoich zmartwieniach, masuje obolałe stopy i wpuszcza do naszego świętego lasu wszelkich żądnych forsy awanturników. Cholerny bezużyteczny dureń!" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_13", "hash": "2D635202E7DA4F21", "target": "Aż się we mnie gotuje! ...Ach, ale to nie ciebie powinnam besztać─wydajesz się całkiem w porządku, jak na... W każdym razie zrozum, że mamy obowiązek pilnować <italic(1)>każdego<italic(0)> obcego, który tędy przechodzi." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_14", "hash": "FF9E4B468E881CD8", "target": "Tak czy inaczej, doceniam pomoc mojemu podwładnemu, choć to skończony dureń. No, idź już i nie pakuj się w kłopoty." }
   ]
 }

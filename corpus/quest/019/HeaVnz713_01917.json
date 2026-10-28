@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz713_01917",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "" }
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "Aanu Vanu rozpaczliwie wznosi błagalne gesty ku niebu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "Aanu Vanu opowiada ci o przeklętych totemach w Kromlechu. Zniszcz cztery, zanim zapowiadany przez nie mrok spadnie na Vanu Vanu z Ok' Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "Po spotkaniu z twoim gniewem z przeklętych totemów zostały tylko drzazgi. Wróć do Aanu Vanu i powiedz mu o wykonaniu zadania." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "Gdy opowiadasz Aanu Vanu o dokonanym zniszczeniu, wyjaśnia ci, że totemów używano do mrocznych zaklęć. Kalało to pamięć przodków Vanu Vanu, których miały upamiętniać. Pozostawienie takich czynów bez kary sprowadziłoby nieszczęście na plemię Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "Zniszczyć Vundu totem" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "Zdać raport Aanu Vanu" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "Mroczne wiatry źle wróżą plemieniu Zundu. Istota z dołu musi pomóc!" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "W Kromlechu stoją przeklęte totemy. Zniszcz cztery, by odpędzić nieszczęście, które zapowiadają." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "Totemy w Kromlechu wróżą Zundu mroczne dni. Obal je i uwolnij nas od ich złych znaków." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "Posępne wiatry nie wieją już nad Ok' Zundu. Los plemienia jaśnieje jak niebo po burzy. To znaczy, że istota z dołu uwolniła wyspę od przeklętych totemów." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "Totemy czczą imiona wielkich przodków, aby trwali w pamięci Vanu Vanu jak niegasnące słońce. Przeklinanie totemów i napełnianie ich mroczną magią kala pamięć o dziedzictwie plemienia." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "Istota z dołu przywraca część czci przodkom plemienia. Ale musisz zachować czujność dla dobra plemienia i wszystkich Vanu Vanu." }
   ]
 }

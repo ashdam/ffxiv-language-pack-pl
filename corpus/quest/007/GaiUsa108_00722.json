@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa108_00722",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_00", "hash": "CCDA0C9856DCB389", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_01", "hash": "76D2FEAF393C4C12", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_02", "hash": "10AEBCADB6DEEE9C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_03", "hash": "91462387D7BF8879", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_00", "hash": "E7F81CB77B789CBA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_01", "hash": "8C9B5332897E44BC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_02", "hash": "252F1B2F9044A56D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_000", "hash": "0CA2D69BB8396FA4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_001", "hash": "6951559E0D7A45A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_020", "hash": "796F65391988054A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_POP_MESSAGE_000", "hash": "89813E73812DA3F1", "target": "" }
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_00", "hash": "CCDA0C9856DCB389", "target": "Sylf Ameexia chce prosić poszukiwacza przygód o pomoc." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_01", "hash": "76D2FEAF393C4C12", "target": "Ameexia boi się wychodzić do lasu z obawy przed atakiem dzików. Przeszukaj podejrzane zarośla i zabij groźne świnie, aby przywrócić jej spokój." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_02", "hash": "10AEBCADB6DEEE9C", "target": "Polowanie na dziki zakończyło się powodzeniem. Zdaj raport Ameexii." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_03", "hash": "91462387D7BF8879", "target": "Dzięki twoim wysiłkom Ameexia znów może do woli harcować po lesie." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_00", "hash": "E7F81CB77B789CBA", "target": "Przeszukać zarośla i zabić wild boar" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_01", "hash": "8C9B5332897E44BC", "target": "Przeszukać zarośla i zabić tusked hog" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_02", "hash": "252F1B2F9044A56D", "target": "Zdać raport Ameexii" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_000", "hash": "0CA2D69BB8396FA4", "target": "Och, chodzący powinien posłuchać! Ten tutaj harcował po lesie─jak ten tutaj lubi─gdy paskudni kłowi przybiegli, sapiąc i fukając! Ten tutaj tak się przestraszył!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_001", "hash": "6951559E0D7A45A2", "target": "Ten tutaj za bardzo się boi wrócić do lasu. Chodzący może przepędzić kłowych, prawda? Ten tutaj zatańczyłby z radości! Kłowi chowają się w krzakach. Chodzący powinien uważać!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_020", "hash": "796F65391988054A", "target": "Chodzący przepędził kłowych? Ten tutaj znów może bawić się w lesie? Ten tutaj dziękuje chodzącemu! Ten tutaj jest przyjacielem chodzącego na zawsze, na zawsze!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_POP_MESSAGE_000", "hash": "89813E73812DA3F1", "target": "Powietrze przeszywa ogłuszający kwik!" }
   ]
 }

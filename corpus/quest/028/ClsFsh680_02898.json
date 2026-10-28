@@ -20,7 +20,7 @@
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_TODO_05", "hash": "D77196C133E0143A", "target": "Pokazać dafangshi Jishowi w Isari" },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_TODO_06", "hash": "4D9BF66E1629AEF9", "target": "Dostarczyć dafangshi Ukimonowi w Tamamizu" },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_TODO_07", "hash": "0D70BEE5164A5528", "target": "Porozmawiać z Wawalagiem w Fisherman's Bottom" },
-    { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_SYSTEM_000_900", "hash": "525DA2337943CCC7", "target": "Aby rozpocząć tę misję, najpierw ukończ misję głównego wątku fabularnego „Tide Goes in, Imperials Go Out”." },
+    { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_SYSTEM_000_900", "hash": "525DA2337943CCC7", "target": "Aby rozpocząć tę misję, najpierw ukończ misję głównego wątku fabularnego „Przypływ nadchodzi, Imperium odchodzi”." },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_WAWALAGO_000_000", "hash": "5ABDD14C9431B06C", "target": "W samą porę, <split(<string(gstr1)>, ,1)>! Reyna przysłała pismo. Skończyła badania spadających gwiazd i jest gotowa przekazać wyniki." },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_WAWALAGO_000_001", "hash": "84C1D704AA7DD31B", "target": "Wreszcie wskazówka, która pomoże rozwikłać tę zagadkę! Nie czas zwlekać. Ruszaj do Uścisku Bogów! Chyba sam wymknę się spod szpiegującego wzroku Sisipu i skoczę tam z tobą." },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_WAWALAGO_000_005", "hash": "A218D4E96D6F2DCE", "target": "Posłałem Sisipu dodatkową pracę gildii, by miała zajęcie. Wreszcie długo wyczekiwane spotkanie z zachwycającą Reyną!" },

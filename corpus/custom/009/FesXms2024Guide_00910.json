@@ -2,17 +2,17 @@
   "conversation": "custom/009/FesXms2024Guide_00910",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_000", "hash": "87A5CF905194B49B", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_Q1_000_001", "hash": "CFE384CBA9C7B234", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_001", "hash": "288C127C5BE46BE4", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_002", "hash": "C127242408961B21", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_003", "hash": "8C0C0132E6831E5F", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_010", "hash": "7D92D7C86C9F856C", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_011", "hash": "AB6EFB4FA3C13D2B", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_012", "hash": "1A6AA9D3CAE635B1", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_013", "hash": "94CBD7185402AB45", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_014", "hash": "283681FF05A56B31", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_020", "hash": "D7A352840CC65205", "target": "" },
-    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_021", "hash": "F3CE52781E190092", "target": "" }
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_000", "hash": "87A5CF905194B49B", "target": "Wesołego Święta Gwiezdnego Blasku i niech towarzyszy <if(gnum4,pani,panu)> błogosławieństwo Prządki. Dziękujemy za udział w uroczystościach. W czym mogę pomóc?" },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_Q1_000_001", "hash": "CFE384CBA9C7B234", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_001", "hash": "288C127C5BE46BE4", "target": "Czym jest Święto Gwiezdnego Blasku?" },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_002", "hash": "C127242408961B21", "target": "Jakie jest wasze zadanie w tym wszystkim?" },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_A1_000_003", "hash": "8C0C0132E6831E5F", "target": "O nic." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_010", "hash": "7D92D7C86C9F856C", "target": "Początki Święta Gwiezdnego Blasku sięgają dawnego Ishgardu. Przed laty straszliwa bitwa pochłonęła niezliczone życia, pozostawiając tysiące osieroconych dzieci na pastwę srogiego zimna Coerthasu." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_011", "hash": "AB6EFB4FA3C13D2B", "target": "Nie mogąc znieść ich cierpienia, ishgardzcy rycerze zapewniali dzieciom jedzenie i schronienie w koszarach. Oczywiście było to surowo zabronione, ale rycerze obmyślili sposób, by przemycać je do środka, przebierając dzieci w kurtki swoich szkarłatnych mundurów." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_012", "hash": "1A6AA9D3CAE635B1", "target": "Dzięki ich hojności dzieci przetrwały zimę i doczekały dnia, gdy same mogły przekazać dalej otrzymaną dobroć. Dawne sieroty przywdziewały szkarłatne mundury i dostarczały dzieciom prezenty w najzimniejszym tygodniu roku. Tak narodziło się Święto Gwiezdnego Blasku." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_013", "hash": "94CBD7185402AB45", "target": "Przez lata uroczystość stopniowo się zmieniała. Kapitan dobrodusznych rycerzy o śnieżnobiałej brodzie stał się znany jako „Święty Nymei”, a dzieci wierzą, że zanosi ich nadzieje i modlitwy wprost do samej bogini." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_014", "hash": "283681FF05A56B31", "target": "Podobnie jego rycerze w czerwonych kurtkach stali się „małymi pomocnikami świętego”. Dzieci szczególnie ich uwielbiają, bo to oni przynoszą podarki każdemu dziecku, które zanosi modlitwę do Prządki." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_020", "hash": "D7A352840CC65205", "target": "Mnie i moim współpracownikom w szkarłatnych strojach Gildia Poszukiwaczy Przygód powierzyła organizację Święta Gwiezdnego Blasku. Uroczystość obejmuje całą Eorzeę, a nasi mali pomocnicy działają w Gridanii, Limsie Lominsie i Ul'dah." },
+    { "gameKey": "custom/009/FesXms2024Guide_00910#TEXT_FESXMS2024GUIDE_00910_GUIDEXMS2024_000_021", "hash": "F3CE52781E190092", "target": "Podczas tegorocznych obchodów mamy przyjemność zaprezentować w Gridanii nową atrakcję. Ma służyć zarówno dzieciom, jak i dorosłym. Mam nadzieję, że sprawi <if(gnum4,pani,panu)> radość!" }
   ]
 }

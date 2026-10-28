@@ -104,6 +104,6 @@
     { "gameKey": "quest/040/AktKbb102_04068#TEXT_AKTKBB102_04068_LALAHJINJAHL_000_065", "hash": "1A40A51F844801CA", "target": "Minie trochę czasu, nim otrzymamy wieści o roślinie. Do tego czasu proszę korzystać z okazji, by dalej doskonalić umiejętności." },
     { "gameKey": "quest/040/AktKbb102_04068#TEXT_AKTKBB102_04068_LALAHJINJAHL_000_066", "hash": "548E3DEF10C1558B", "target": "Podczas ćwiczeń proszę pamiętać o głosach w krysztale duszy. Poprzednicy z pewnością przekażą <if(gnum4,pani,panu)> mądrość potrzebną, by chronić najbliższych." },
     { "gameKey": "quest/040/AktKbb102_04068#TEXT_AKTKBB102_04068_SYSTEM_000_067", "hash": "C36BDF9F0CCDF2F5", "target": "Możesz już czytać <colortype(500)><edgecolortype(501)>dziennik mędrca<edgecolortype(0)><colortype(0)>. W miarę postępów w fabule kolejne wpisy staną się czytelne." },
-    { "gameKey": "quest/040/AktKbb102_04068#TEXT_AKTKBB102_04068_SYSTEM_000_070", "hash": "B0D2FA56E54BDE90", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Leaving Idyllshire”." }
+    { "gameKey": "quest/040/AktKbb102_04068#TEXT_AKTKBB102_04068_SYSTEM_000_070", "hash": "B0D2FA56E54BDE90", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Pożegnanie z Idyllshire”." }
   ]
 }

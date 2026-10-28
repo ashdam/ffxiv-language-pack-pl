@@ -2,19 +2,19 @@
   "conversation": "custom/008/RegIsb5Matsya_00849",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_Q1_000_000", "hash": "17228275BCDA4A1C", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A1_000_000", "hash": "CFE62F0FAF9AB860", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A2_000_000", "hash": "E7288CD6768305A6", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A3_000_000", "hash": "16C42C422641B5BC", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_000", "hash": "1BF8BE2FA926C388", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_001", "hash": "43AE721136472BED", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_002", "hash": "06AED92F9E255D7D", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_010", "hash": "A4CFC72E9C67AAA0", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_020", "hash": "4AA8982F7F13AD8A", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_030", "hash": "8D07DC918B8B3D23", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_100", "hash": "2FA5DDECD6EC0291", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_110", "hash": "EA9108CFFBB5B8FE", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_111", "hash": "B5AD9458419F0051", "target": "" },
-    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_112", "hash": "50D575C014CF7810", "target": "" }
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_Q1_000_000", "hash": "17228275BCDA4A1C", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A1_000_000", "hash": "CFE62F0FAF9AB860", "target": "Jak ostatnio się miewasz?" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A2_000_000", "hash": "E7288CD6768305A6", "target": "Porozmawiamy o Aloalo Island?" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_A3_000_000", "hash": "16C42C422641B5BC", "target": "Nic." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_000", "hash": "1BF8BE2FA926C388", "target": "Niebo już... już nie płonie. Nie wiem jak, ale udało się zażegnać katastrofę, która na nas spadła." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_001", "hash": "43AE721136472BED", "target": "Odbudowa potrwa, a nawet wtedy życie może nigdy nie wrócić do dawnego biegu. Tyle przepadło..." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_002", "hash": "06AED92F9E255D7D", "target": "Ale trudy tylko dodają nam sił. To, że wciąż żyjemy, jest darem i nie pozwolę go zmarnować." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_010", "hash": "A4CFC72E9C67AAA0", "target": "Cieszę się, że mogliśmy wam choć trochę pomóc. Dajcie znać, jeśli znów zechcecie pożyczyć łódź!" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_020", "hash": "4AA8982F7F13AD8A", "target": "C-co to było za dziwne światło na wodzie? Myślisz, że powinniśmy wezwać nasze łodzie z powrotem?" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_030", "hash": "8D07DC918B8B3D23", "target": "Chwała Siostrom! Ocean znów jest cichy i spokojny. Nie powinniśmy marnować tego szczęścia." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_100", "hash": "2FA5DDECD6EC0291", "target": "Myśl, że będziesz przy mnie w drodze na Aloalo, trochę koi moje obawy. A kiedy wyobrażam sobie, jakie ryby mógłbym złowić dla Nidhany, aż rozpiera mnie podekscytowanie!" },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_110", "hash": "EA9108CFFBB5B8FE", "target": "Dziękuję za wszystko, <split(<string(gstr1)>, ,1)>! Odbudowa po Ostatnich Dniach tak bardzo pochłaniała mnie i Pasasuna, że niewiele myśleliśmy o czymkolwiek innym. Miło było dla odmiany spokojnie porozmawiać." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_111", "hash": "B5AD9458419F0051", "target": "Chyba nigdy nie opowiadałem ci o mnie i Pasasunie. Przyjaźnimy się od dzieciństwa. Byliśmy wtedy nierozłączni." },
+    { "gameKey": "custom/008/RegIsb5Matsya_00849#TEXT_REGISB5MATSYA_00849_MATSYA_000_112", "hash": "50D575C014CF7810", "target": "Byłem tak niezdarny, że ciągle nabawiałem się zadrapań i siniaków. Pasasun zapragnął zostać alchemikiem, żeby nauczyć się je leczyć. Zawsze miał dobre serce, więc gdy potrzebujesz pomocy, śmiało się do niego zwróć!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz118_01767",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "" }
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "Jantellot bez przerwy użala się nad swoją nogą." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "Jantellot oznajmia, że mimo niezwykłego talentu bojowego został zraniony szponami monstrualnego smoka. Daje ci butelkę i prosi o przyniesienie leczniczej wody źródlanej ze Smoczej Śliny." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "Napełniasz butelkę wodą ze źródła. Zanieś ją Jantellotowi, aby mógł odzyskać siły." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "Dostarczasz Jantellotowi leczniczą wodę ze źródła. Wyjaśnia, że choć zapasy Convictory─zwłaszcza mikstury lecznicze─są na wyczerpaniu, przyniesiona przez ciebie woda działa lepiej niż najsilniejsze mikstury... Tak przynajmniej niektórzy mówią." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "Nabrać wody źródlanej w Smoczej Ślinie" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "Dostarczyć wodę Jantellotowi" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "Uuuch... Moja noga... Ten ostatni smok nieźle ją urządził." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "Każdy inny pewnie skończyłby jako posiłek. Na szczęście jestem z twardszej gliny i wyszedłem z tego jedynie z powierzchowną raną." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "Aż mnie nosi, żeby wrócić i dopaść tego drania, ale nigdzie nie pójdę, dopóki ta noga się nie zagoi... Słuchaj, przyniesiesz mi coś?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "Podobno wody Smoczej Śliny mają właściwości lecznicze. Z odrobiną tej wody szybko stanąłbym na nogi. Weź tę butelkę i napełnij ją wodą z tamtego źródła, dobrze?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "Idź do Smoczej Śliny i przynieś mi trochę tej słynnej wody źródlanej. Nie zniosę ani chwili dłużej tego siedzenia!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "Masz tę wodę źródlaną? Muszę wracać w teren. Mam dość patrzenia, jak te smoki paradują sobie bez żadnej troski!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "Dobrze, dobrze. W samą porę─obawiam się, że te smoki zaczynają zapominać smak ishgardzkiej stali. Jeszcze kilka takich okładów i będę gotowy wrócić z ostrym przypomnieniem." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "Podobno to działa lepiej niż jakakolwiek mikstura. I całe szczęście, zważywszy na to, jak bardzo uszczupliły się ostatnio nasze zapasy." }
   ]
 }

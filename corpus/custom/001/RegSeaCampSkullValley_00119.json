@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegSeaCampSkullValley_00119",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "" }
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "<if(gnum4,Pani poszukiwaczko,Panie poszukiwaczu)> przygód! Czym mogę służyć?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "Ja, <if(gnum4,proszę pani,proszę pana)>? Odpowiadam za bezpieczeństwo tej bazy, <if(gnum4,proszę pani,proszę pana)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "Minął zaledwie rok, odkąd objąłem to stanowisko, ale zamierzam bronić Doliny Czaszki własnym życiem, <if(gnum4,proszę pani,proszę pana)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "Już wyjaśniam, <if(gnum4,proszę pani,proszę pana)>! Dolina Czaszki to obóz założony w celu ochrony przed najazdami plemienia Sahagin. Choć pierwsze starcia z rybogrzbietami były tylko drobnymi potyczkami, teraz nacierają na nas liczniejszymi siłami." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "Dlatego tutejsze obiekty rozbudowano i umocniono, by pomieścić większe siły Maelstromu." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "Zaszczytem byłaby <if(gnum4,pani,pana)> pomoc przy licznych zadaniach niezbędnych do ochrony Doliny Czaszki─a tym samym Limsy Lominsy─przed zagrożeniem ze strony plemienia Sahagin!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "Nic." }
   ]
 }

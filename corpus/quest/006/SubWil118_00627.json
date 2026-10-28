@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil118_00627",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "" }
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "Siostra Airell znów ma zajęcie dla chętnego poszukiwacza przygód." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "Na stale powiększającym się cmentarzu łatwo przeoczyć proste groby. Przez to często pomija się je przy składaniu kwiatów. Pomóż siostrze Airell, kładąc bukiety lilii Nymei na pięciu takich mogiłach." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "Lilie Nymei zostały złożone w ofierze. Zdaj raport siostrze Airell w kościele." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "Siostra Airell opowiada ci, że przed Katastrofą cmentarz był mały i skromny. Od tamtej pory liczba ciał wymagających pochówku stale rośnie, a opiekunowie grobów nie mają chwili wytchnienia." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "Złożyć lilie Nymei na prostych grobach" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "Zdać raport siostrze Airell" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "A więc znów <if(gnum4,chce pani,chce pan)> uczcić zmarłych? Doskonale. Proszę złożyć te lilie Nymei na prostych grobach na cmentarzu. Te biedne dusze umarły samotnie. Nie został nikt, kto by je opłakiwał." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "Proszę zająć się pięcioma takimi grobami rozsianymi po cmentarzu. I pamiętać, by uważnie się rozglądać i złożyć każdy bukiet z należnym szacunkiem... Mają tylko <if(gnum4,panią,pana)>." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "Jeszcze raz dziękuję. Troska okazana ich grobom z pewnością przyniesie duszom zmarłych choć odrobinę pociechy." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "Dawniej cmentarz był niewielki i skromny. Wszystko zmieniło się po Katastrofie. Przybywało zmarłych, więc i cmentarz rósł wraz z nimi." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "Mimo rozmiarów wciąż jest skromny. Właśnie dlatego nie stanowi dla Zakonu większego priorytetu. Nie stać nas na zatrudnienie tylu opiekunów, ilu trzeba, tak jak nie możemy żądać od ubogich opłat za pogrzeb lub miejsce pochówku." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "Nie zniechęca to jednak rzesz ludzi, którzy chcą chować tu zmarłych. Nasza garstka opiekunów nie ma czasu składać ofiar, których wymaga pobożność." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "W tych prostych grobach spoczywają ludzie, którzy zmarli samotnie. Módlmy się, by słodka woń przyniesionych kwiatów złagodziła ich osamotnienie─choć na chwilę." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegSeaCampBronzeLake_00114",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_000", "hash": "179E6C411F54C66D", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_010", "hash": "582A8CD1788B7386", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_011", "hash": "90C019D87DECE61C", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_012", "hash": "AD5D62D7712053E9", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_020", "hash": "1E85DA226428BB46", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_021", "hash": "8B68089FBB0B89E1", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_022", "hash": "F12D711A382C7AAD", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_Q1_000_000", "hash": "83FC232F165A712F", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_001", "hash": "7AC0366750746B75", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_002", "hash": "961C4372475FD0BF", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_003", "hash": "C54F63486B29BDFE", "target": "" }
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_000", "hash": "179E6C411F54C66D", "target": "Witam nad Bronze Lake. W czym mogę <if(gnum4,pani,panu)> pomóc?" },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_010", "hash": "582A8CD1788B7386", "target": "Moim zadaniem jest opieka nad chorymi i rannymi żołnierzami, którzy odwiedzają nasze gorące źródła." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_011", "hash": "90C019D87DECE61C", "target": "Rannych trzeba bacznie obserwować, bo mają skłonność do zbyt długiego przebywania w wodzie. Choć źródła słyną z leczniczych właściwości, przedłużające się kąpiele mogą ostatecznie przynieść więcej szkody niż pożytku." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_012", "hash": "AD5D62D7712053E9", "target": "Oprócz żołnierzy wracających do zdrowia odwiedzają nas czasem nieco bardziej... ekscentryczni goście." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_020", "hash": "1E85DA226428BB46", "target": "Gorące źródła nad Bronze Lake zbudowano na ruinach cywilizacji Nym." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_021", "hash": "8B68089FBB0B89E1", "target": "Sam budynek nosi nazwę Sanatorium Warmwine. Nazwa pochodzi od zwyczaju podgrzewania w wodach źródeł butelek przyprawionego wina, co nadaje trunkowi silne właściwości lecznicze." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_022", "hash": "F12D711A382C7AAD", "target": "Leczymy tu żołnierzy od bitwy pod Carteneau. A ponieważ potyczki z wojskami cesarskimi i siłami plemion bestii nie ustają, spodziewam się, że w najbliższej przyszłości źródła nadal będą pełne gości." },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_Q1_000_000", "hash": "83FC232F165A712F", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_001", "hash": "7AC0366750746B75", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_002", "hash": "961C4372475FD0BF", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegSeaCampBronzeLake_00114#TEXT_REGSEACAMPBRONZELAKE_00114_A1_000_003", "hash": "C54F63486B29BDFE", "target": "Nic." }
   ]
 }

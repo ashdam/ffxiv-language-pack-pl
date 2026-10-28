@@ -2,14 +2,14 @@
   "conversation": "custom/008/RegYok6Ropli_00896",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_000", "hash": "26E8EA31DF4E3BAE", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_010", "hash": "4678E491ED2C29F1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_011", "hash": "351C6F2D2DC7553F", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_020", "hash": "8A3C17101DAB174D", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_025", "hash": "493B52A4CFB0896D", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_026", "hash": "E6CE495F06DB3CD2", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_027", "hash": "CD6E685204D850D0", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_030", "hash": "3D7E5367E66E8505", "target": "" },
-    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_031", "hash": "1502ABCBAEF6B3C6", "target": "" }
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_000", "hash": "26E8EA31DF4E3BAE", "target": "Witaj w Wachumeqimeqi, na targu, który można nazwać miejscem dla tutejszych. Rozejrzyj się jednak śmiało─kto wie, może znajdziesz towary, które cię zainteresują." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_010", "hash": "4678E491ED2C29F1", "target": "Pragnę, by zarówno klienci, jak i właściciele sklepów czuli obopólne zadowolenie z tutejszych transakcji, a ten dom niezliczonych paciorków błyszczał jeszcze jaśniej niż dotąd." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_011", "hash": "351C6F2D2DC7553F", "target": "Wierzę, że z twoją pomocą to pragnienie się spełni. Nie mogę się doczekać tego, czego dokonasz, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_020", "hash": "8A3C17101DAB174D", "target": "Wszystkie moje nadzieje <if(gnum4,spełniłaś,spełniłeś)> z nawiązką, <split(<string(gstr1)>, ,1)>. Wachumeqimeqi naprawdę promienieje nowym życiem. Gdyby to ode mnie zależało, twoje rzemiosło zagościłoby na tych targach na stałe." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_025", "hash": "493B52A4CFB0896D", "target": "Spotkajmy się na Lśniących Piaskach! Dołączę, gdy tylko znajdę kogoś na zastępstwo." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_026", "hash": "E6CE495F06DB3CD2", "target": "Mam nadzieję, że wszyscy nadal możemy liczyć na twoje wsparcie. Wykorzystamy wszystkie nasze znajomości, by to wydarzenie doszło do skutku!" },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_027", "hash": "CD6E685204D850D0", "target": "Oczywiście, idź się rozejrzeć! Pozostali z pewnością chętnie opowiedzą ci o swoich dotychczasowych postępach." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_030", "hash": "3D7E5367E66E8505", "target": "Kolejny ruchliwy dzień w Wachumeqimeqi, ale zawsze dziękujemy ci za zakupy." },
+    { "gameKey": "custom/008/RegYok6Ropli_00896#TEXT_REGYOK6ROPLI_00896_ROPLI_031", "hash": "1502ABCBAEF6B3C6", "target": "Czy są to sąsiedzi, czy turyści, handel łączy ludzi wszystkich kultur. Ty także jesteś cennym paciorkiem w naszym naszyjniku, <split(<string(gstr1)>, ,1)>─nigdy o tym nie zapominaj." }
   ]
 }

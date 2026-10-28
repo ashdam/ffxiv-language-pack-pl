@@ -29,7 +29,7 @@
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_25", "hash": "39A93C96A25012AD", "target": "Szkoda. Dobrze jednak spotkać <if(gnum4,kobietę,mężczyznę)>, <if(gnum4,która wie,który wie)>, czego chce." },
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_26", "hash": "820CD6DBADE193BE", "target": "Ma <if(gnum4,pani,pan)> zadatki na świetnego łucznika─brakuje tylko chęci. Gdyby zdanie się zmieniło, proszę znów mnie odwiedzić." },
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_30", "hash": "77D50CBD0803132D", "target": "Dobrze. Od tej chwili może <if(gnum4,pani,pan)> uważać się za jedną z nas." },
-    { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_31", "hash": "71CE2FE139B6FF2E", "target": "Proszę na chwilę pożyczyć Hunting Log. Dopiszę nazwy stworzeń, które będą odpowiednim wyzwaniem dla łucznika." },
+    { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_31", "hash": "71CE2FE139B6FF2E", "target": "Proszę na chwilę pożyczyć dziennik łowiecki. Dopiszę nazwy stworzeń, które będą odpowiednim wyzwaniem dla łucznika." },
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_32", "hash": "D44BC9FA55E8187D", "target": "A na dobry początek wręczam ten krótki łuk." },
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_33", "hash": "8A290097291C5BD9", "target": "Proszę wyposażyć się w nową broń i ponownie ze mną porozmawiać." },
     { "gameKey": "quest/001/ClsArc998_00131#TEXT_CLSARC998_00131_LUCIANE_000_34", "hash": "DBF1A0CCD49D827A", "target": "Wyznaczę próbę, aby ocenić, czy nadaje się <if(gnum4,pani,pan)> do gildii." },

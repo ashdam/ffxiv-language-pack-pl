@@ -2,19 +2,19 @@
   "conversation": "quest/031/StmBdi312_03191",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_00", "hash": "695A7F3B502A8BAE", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_01", "hash": "61EBC9EC10FEA909", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_02", "hash": "F40FF9AE026B3A3A", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_TODO_00", "hash": "F0574A5E3332BFA4", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_000", "hash": "3824F090059671B1", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_001", "hash": "433CAC5A0CA4AA7F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_050", "hash": "16CFCB56C6D01CB0", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_051", "hash": "A47B94C78AE0AD2F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_052", "hash": "AE32F1D061293FCD", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_053", "hash": "07E052D62FBC3C32", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_080", "hash": "584B4F65ED30039C", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_100", "hash": "9908BA59E16B8EAF", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_120", "hash": "8B116BC1F1D3972F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_121", "hash": "806F820887C1F53B", "target": "" }
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_00", "hash": "695A7F3B502A8BAE", "target": "Oczywiście to nie był koniec. Piękność trupy po prostu musi mieć ostatnie słowo." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_01", "hash": "61EBC9EC10FEA909", "target": "Wędrowny dramaturg nie zniesie picia ryżowego wina bez właściwych miejscowych przekąsek─grilled turban, tempura platter i serving of tako-yaki─i przyjmie wyłącznie te <italic(1)>najwyższej jakości<italic(0)>." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_02", "hash": "F40FF9AE026B3A3A", "target": "Wędrowny dramaturg jest zadowolony z twoich szlachetnych starań o dostarczenie przekąsek. Wręcza nagrodę i prosi, by oddalić się szybko i cicho, pozwalając mu cieszyć się kolacją." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_TODO_00", "hash": "F0574A5E3332BFA4", "target": "Dostarczyć wędrownemu dramaturgowi po trzy sztuki: grilled turban <sheet(Addon,9,0)>, tempura platter <sheet(Addon,9,0)> i serving of tako-yaki <sheet(Addon,9,0)>" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_000", "hash": "3824F090059671B1", "target": "Stary Jenomis wreszcie skończył beztroskie wypady w dzicz i znów oddał się sprawom kompanii. Chyba mamy za to dziękować <italic(1)>tobie<italic(0)>." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_001", "hash": "433CAC5A0CA4AA7F", "target": "Na dowód wdzięczności mój mąż chciałby zaproponować ci... kolejną okazję do pracy! Czy to nie miłe z jego strony!?" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_050", "hash": "16CFCB56C6D01CB0", "target": "<split(<string(gstr1)>, ,1)>! Mówiłem ci, jak uwielbiam to miasto? Jest takie... takie... <italic(1)>egzotyczne<italic(0)>! A ta kuchnia! Och, ta <italic(1)>kuchnia<italic(0)>! Nigdy nie czułem w ustach tylu smaków naraz!" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_051", "hash": "A47B94C78AE0AD2F", "target": "Niedawno dostałem dzban wspaniałego wina ryżowego od młodzieńca z Mujikoza, który kupił mój zbiór dawnych dzieł. Uwierzysz? Wino, i to z ryżu! Co jeszcze wymyślą?" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_052", "hash": "AE32F1D061293FCD", "target": "Pewnie jednak zastanawiasz się, dlaczego moja ukochana cię wezwała. Otóż chodzi o to wino. Jest przepyszne, ale nie pasuje do żadnych przekąsek, które zwykle podjadam do czerwonego i białego. Znów potrzebuję więc twojej pomocy." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_053", "hash": "07E052D62FBC3C32", "target": "Miła kobieta obsługująca wahadłowiec na statek <italic(1)>Prima Vista<italic(0)> mówi, że prawdziwy Hingańczyk zacząłby od grilled turban, tempura platter i tej niedorzecznej potrawy zwanej „serving of tako-yaki”. Po trzy sztuki powinny wystarczyć. I jak zawsze: tylko najlepsze z najlepszych." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_080", "hash": "584B4F65ED30039C", "target": "Jeśli chodzi o miejscową kuchnię, mój mąż bywa strasznym snobem. Często mam wrażenie, że nie odróżnia kurczaka od chocobo, ale i tak upiera się przy potrawach wyłącznie <italic(1)>najwyższej jakości<italic(0)>." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_100", "hash": "9908BA59E16B8EAF", "target": "Po trzy sztuki grilled turban, tempura platter i serving of tako-yaki... i nic z tego, co znajdziesz na przydrożnym straganie. Oczekuję wyłącznie najlepszych." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_120", "hash": "8B116BC1F1D3972F", "target": "Nigdy w ciebie nie wątpiłem, <split(<string(gstr1)>, ,1)>! Moja ukochana może wątpiła, ale ja? Nigdy! Masz prawdziwy talent do tej pracy." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_121", "hash": "806F820887C1F53B", "target": "Niech rozpocznie się uczta! Oto nagroda. Proszę, wyjdź już." }
   ]
 }

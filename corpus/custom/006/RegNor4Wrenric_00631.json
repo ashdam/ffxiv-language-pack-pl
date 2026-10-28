@@ -2,10 +2,10 @@
   "conversation": "custom/006/RegNor4Wrenric_00631",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_000", "hash": "8CD6F7B0C99FCE23", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_010", "hash": "2E558A5E169DCABE", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_020", "hash": "E544352F8DADDE36", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_030", "hash": "9310D6A8F1604265", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_040", "hash": "98F0D7D087028F19", "target": "" }
+    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_000", "hash": "8CD6F7B0C99FCE23", "target": "W gospodzie mieszkają tylko pacjenci i ich opiekunowie. Nie zawsze mają czas wypatrywać niebezpieczeństw. To moje zadanie." },
+    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_010", "hash": "2E558A5E169DCABE", "target": "Obawiam się, że od pewnego czasu nie widuję Halrica. Chyba jednak nie odszedł daleko." },
+    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_020", "hash": "E544352F8DADDE36", "target": "Kiedy podejmujesz tu pracę, godzisz się z tym, że mogą zdarzyć się złe rzeczy. Wręcz się ich spodziewasz. Ale to po prostu..." },
+    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_030", "hash": "9310D6A8F1604265", "target": "Muszę zachować czujność i przytomność umysłu. Tęsknię za Tesleen jak wszyscy, ale nie mogę odrywać myśli od bieżących obowiązków." },
+    { "gameKey": "custom/006/RegNor4Wrenric_00631#TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_040", "hash": "98F0D7D087028F19", "target": "Niektórzy chcieliby wykorzystać powrót ciemności. Złodziejaszki, grasujące bestie i tym podobni. Szczerze mówiąc, bardzo utrudniło nam to pracę." }
   ]
 }

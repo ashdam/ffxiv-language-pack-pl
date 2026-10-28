@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy103_02921",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "" }
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "Czyżby ktoś z Eorzei? I, jak widzę, w dodatku <if(gnum4,poszukiwaczka przygód,poszukiwacz przygód)>?" },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "Wspaniale! Gildia Poszukiwaczy Przygód przysłała mnie tutaj, by szerzyć wiedzę o naszej organizacji i pomóc jej zapuścić korzenie na Dalekim Wschodzie." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "A jak lepiej zjednać sobie miejscowych niż zaoferować im pomoc─oczywiście poprzez zlecenia levequest. Mamy już mnóstwo pracy dla osób o odpowiednich umiejętnościach i mam nadzieję, że możemy liczyć również na twoje." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "Uzyskano dostęp do zleceń levequest w Kugane. Porozmawiaj z Keltraeng, aby podejmować zadania dla Uczniów Ręki i Uczniów Ziemi." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "Mam nadzieję, że znajdzie się tu dość zdolnych poszukiwaczy przygód, by sprostać zapotrzebowaniu..." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 60. lub wyższym." }
   ]
 }

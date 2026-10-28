@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegSak6TheOutskirts_00884",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_000", "hash": "099225E5BF155907", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_Q1_000_000", "hash": "087FF4AE6E39A0C4", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_001", "hash": "605F458BB3BEF484", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_002", "hash": "3090DFF1C6FDE7DF", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_003", "hash": "9936FAE9E4E25C8A", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_010", "hash": "CCDB74D33892B6AF", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_011", "hash": "D157A1EF20C2CC8C", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_020", "hash": "3BC5974B704F818D", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_021", "hash": "501BEABEB53F31EB", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_022", "hash": "34501DFDF7E3BD51", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_023", "hash": "2CD053A45C21DF2C", "target": "" }
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_000", "hash": "099225E5BF155907", "target": "Witamy w osadzie outskirts. Niewiele możemy zaoferować, ale proszę czuć się jak u siebie." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_Q1_000_000", "hash": "087FF4AE6E39A0C4", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_001", "hash": "605F458BB3BEF484", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_002", "hash": "3090DFF1C6FDE7DF", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_003", "hash": "9936FAE9E4E25C8A", "target": "Nic." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_010", "hash": "CCDB74D33892B6AF", "target": "Nazywam się Wihoakwe i mieszkam w Yyasulani od czasów sprzed tego całego zamieszania, wiele lat temu." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_011", "hash": "D157A1EF20C2CC8C", "target": "Utrzymuję się z hodowli zwierząt, ale dźwiganie worka paszy skończyło się u mnie urazem pleców. Teraz więcej czasu poświęcam dbaniu o siebie niż o zwierzęta." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_020", "hash": "3BC5974B704F818D", "target": "Cóż, nazwa outskirts oznacza obrzeża i tak właśnie nazywamy ziemie poza Everkeep. Chyba zaczęliśmy jej używać dopiero po pojawieniu się kopuły." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_021", "hash": "501BEABEB53F31EB", "target": "Mieszkają tu ludzie, którzy chcą po prostu utrzymywać się z tego, co daje ziemia. Tacy jak ja." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_022", "hash": "34501DFDF7E3BD51", "target": "Choć trzeba przyznać, że przez te lata wiele się zmieniło. Mamy teraz najróżniejsze nowe technologie, na dobre i na złe." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_023", "hash": "2CD053A45C21DF2C", "target": "Ostatnio coraz więcej osób decyduje się zamieszkać poza kopułą. Z drugiej strony wiele osób spośród nas postanowiło czuwać nad ziemią, której uprawa kosztowała nas tyle trudu. Dla mnie to miejsce jest domem. Nie potrafię go porzucić, choćby nie wiem co." }
   ]
 }

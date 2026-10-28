@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc511_00999",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "" }
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "Każdy skuteczny poszukiwacz przygód wykorzystuje swoje mocne strony. Po kilku zleceniach wykonanych za Aganbolda masz już pewne pojęcie o jego talencie." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "Według gładko przemawiającego Aganbolda korzeń przęstki to polowe lekarstwo, które każdy poszukiwacz przygód powinien mieć przy sobie. Skoro ani on, ani ty nie macie zapasu, najlepiej udaj się na zachód do Plątaniny i przynieś osiem korzeni." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "Znajdujesz przęstkę i zbierasz osiem korzeni. Ich miąższ ma przyjemny, korzenny zapach. Bez trudu wierzysz, że wywar z nich przyniesie ukojenie, przynajmniej zmysłom. A co do ropienia... Dosyć bujania w obłokach, porozmawiaj z Aganboldem." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "Przekazujesz korzenie Aganboldowi i unikasz dalszej pracy, rezygnując ze swojej części zbiorów. To może niesprawiedliwe, lecz podejrzewasz, że Aganbold znów sprytnie wyręczył się tobą przy zleceniu..." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "Zebrać korzenie przęstki" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "Złożyć raport Aganboldowi" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "<if(gnum4,Koleżanko,Kolego)>, masz może trochę korzeni przęstki? Mnie wszystko wycyganili ci młodzi naciągacze z Czarnego Całunu. Powiedziałem im: „Herbatka z korzenia uspokoi ten twój brzuch”, i nim się obejrzałem, oddałem cały zapas!" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "Ty też nie masz? Przecież każdy poszukiwacz przygód w tych stronach powinien je nosić! Okład z przęstki chroni rany przed ropieniem, a sądząc po twoim wyglądzie, ropiejące rany nie są ci obce." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "Skoro <if(gnum4,obojgu,obu)> nam brakuje, może pójdziesz po trochę dla nas? Powiedzmy, że osiem korzeni wystarczy." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "Jesteś, <if(gnum4,koleżanko,kolego)>! Masz, czego potrzebujemy?" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "Jeden, dwa... siedem i osiem. Trzeba je jeszcze przygotować, a skoro <if(gnum4,oboje,obaj)>─na pewno nie chcesz? Przydadzą ci się, kiedy zacznie ropieć. Cóż, skoro tak mówisz. Zatrzymam wszystko i bardzo dziękuję za życzliwość!" }
   ]
 }

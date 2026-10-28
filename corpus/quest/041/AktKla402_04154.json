@@ -35,6 +35,6 @@
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_HINAGESHI_000_062", "hash": "78D32C42D8636CFE", "target": "Oczywiście bez <if(gnum4,pani,pana)> pomocy nie byłoby to możliwe. Bardzo dziękuję!" },
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_063", "hash": "06D398D0E6FE54B9", "target": "Hinageshi jest zadowolona z twoich starań. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Początkującą swatkę,Początkującego swata)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_070", "hash": "3A313E7DA7DC591B", "target": "Kolejna misja u Hinageshi będzie dostępna po osiągnięciu 83. poz. w klasie Miner lub Botanist." },
-    { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_080", "hash": "1DCEB689304071C7", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „A Frosty Reception”." }
+    { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_080", "hash": "1DCEB689304071C7", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „Mroźne przyjęcie”." }
   ]
 }

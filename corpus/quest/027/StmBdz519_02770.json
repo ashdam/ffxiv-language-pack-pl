@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz519_02770",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_SEQ_00", "hash": "BB1F2AAF8DAD6518", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_TODO_00", "hash": "AB634398ED81315E", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_TODO_01", "hash": "37259582FD8A524D", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_000", "hash": "88E4584F391429A6", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_001", "hash": "6BDD9DDC8E83D81D", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_003", "hash": "21218A0240A27AD3", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_004", "hash": "2D3BB63B71D15708", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_010", "hash": "537CC3D27D38E870", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_020", "hash": "CA708B6743E4129C", "target": "" },
-    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_022", "hash": "C732381CD1AAA7F7", "target": "" }
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_SEQ_00", "hash": "BB1F2AAF8DAD6518", "target": "Ujin potrzebuje pomocy, by wypełnić wolę bogów." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_TODO_00", "hash": "AB634398ED81315E", "target": "Rozejrzeć się za gaunt gedan" },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_TODO_01", "hash": "37259582FD8A524D", "target": "Zdać sprawę Ujin" },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_000", "hash": "88E4584F391429A6", "target": "Powiedz, masz duże doświadczenie w polowaniu?" },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_001", "hash": "6BDD9DDC8E83D81D", "target": "Dziś kazano mi posprzątać ołtarz na zachodzie. Ale gdy wcześniej tam poszłam, otaczały go bestie." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_003", "hash": "21218A0240A27AD3", "target": "Proszę, idź do Chakha Zoh i zabij wszystkie gaunt gedan, jakie znajdziesz. Bez twojej pomocy nie zdołam wypełnić obowiązków." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_004", "hash": "2D3BB63B71D15708", "target": "Proszę, idź do Chakha Zoh i zabij wszystkie gaunt gedan, jakie znajdziesz." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_010", "hash": "537CC3D27D38E870", "target": "Już po bestiach? Dobrze zrobiłam, prosząc cię o pomoc." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_020", "hash": "CA708B6743E4129C", "target": "Dziękuję ci za wszystko, za twoją dobroć i pomoc." },
+    { "gameKey": "quest/027/StmBdz519_02770#TEXT_STMBDZ519_02770_UJIN_000_022", "hash": "C732381CD1AAA7F7", "target": "Przyjmij to na znak mojej wdzięczności. Sama uczę się na udgan, choć wciąż brakuje mi doświadczenia. Nie mogę się doczekać dnia, kiedy będę mogła pomodlić się za ciebie." }
   ]
 }

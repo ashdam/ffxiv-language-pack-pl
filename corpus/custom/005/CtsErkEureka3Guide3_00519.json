@@ -2,8 +2,8 @@
   "conversation": "custom/005/CtsErkEureka3Guide3_00519",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_000", "hash": "220DAECB255B205D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_010", "hash": "0D8B604C91873CF5", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_020", "hash": "445EF75B2E77EA36", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_000", "hash": "220DAECB255B205D", "target": "Im dłużej tu tkwimy, tym trudniejsza staje się moja praca. Parujący gulasz wystarczy na jakiś czas, ale organizm potrzebuje urozmaicenia, a moje zasoby są ograniczone." },
+    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_010", "hash": "0D8B604C91873CF5", "target": "Wieści o tym zamieszaniu z protoeterytem dotarły i do mnie. Do wszystkich zresztą. Ostatnio wiele twarzy jest posępnych. Robię, co mogę, by poprawić im humor, ale gdy tylko wychodzą za drzwi, znów myślą o przyszłości ekspedycji..." },
+    { "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_020", "hash": "445EF75B2E77EA36", "target": "Może to tylko myślenie życzeniowe, ale ostatnio wszystkim zdaje się dopisywać lepszy humor. Nie wiem, czy ktoś wymyślił, jak poradzić sobie z ostatnimi niepowodzeniami─a może to moje najnowsze kulinarne eksperymenty coś zmieniły?" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/039/BanDwa104_03905",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_SEQ_00", "hash": "DD5E5760FA704617", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_00", "hash": "F0650BE4C6EF6C44", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_01", "hash": "06DC682390CCBB1C", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_001", "hash": "65690B2484D62FDE", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_002", "hash": "6DB347A1FA36CF85", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_003", "hash": "264241AE7594B1F5", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_012", "hash": "C06282050DA9566F", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_013", "hash": "57504016FE036F97", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_020", "hash": "E07AFCF354D31F86", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_021", "hash": "9778048E27067A3F", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_022", "hash": "0750C4ECA87800EB", "target": "" }
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_SEQ_00", "hash": "DD5E5760FA704617", "target": "Regitt nerwowo spogląda w dal.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub profesją, którą przyjęto zadanie." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_00", "hash": "F0650BE4C6EF6C44", "target": "Rozstawić pułapki w Lesie Zagubionego Pasterza" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_01", "hash": "06DC682390CCBB1C", "target": "Zdać raport Regittowi" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_001", "hash": "65690B2484D62FDE", "target": "Niech mi broda zwiędnie! Kiedy tu przyjechaliśmy, nikt nie raczył nas uprzedzić, że te gremliny dadzą nam w kość jeszcze bardziej niż hobgobliny! Na samą myśl o ich wyłupiastych oczach i parszywej sierści aż krew mnie zalewa." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_002", "hash": "6DB347A1FA36CF85", "target": "Jakby ich nieustanne paplanie nie było dość uciążliwe, żołnierze z Ostall Imperative mówią, że z natury ciekawią je maszyny─a ta ciekawość najczęściej zmienia maszyny w stertę złomu." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_003", "hash": "264241AE7594B1F5", "target": "Nie możemy dopuścić do plagi tego robactwa. Dlatego z pomocą wspomnianych żołnierzy zbudowałem pułapki, żeby trzymać je z daleka. Rozstawisz je dla mnie?" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_012", "hash": "C06282050DA9566F", "target": "Aaa! Czy to...!? W nogi, w nogi!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_013", "hash": "57504016FE036F97", "target": "Szybciej, ślimaku, szybciej!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_020", "hash": "E07AFCF354D31F86", "target": "Wygląda na to, że pułapki działają tak dobrze, jak mi obiecywano. Na jakiś czas te szkodniki powinny przestać włazić nam w brody." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_021", "hash": "9778048E27067A3F", "target": "Pomyśleć, że sam widok słodyczy tak przeraża gremliny. Ale jeśli żołnierze mówią prawdę, nie słodycze są groźne, tylko to, co zwiastują: pixie!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_022", "hash": "0750C4ECA87800EB", "target": "Powiadają, że jeśli znajdziesz cukierki na odludziu, te skrzydlate oszusty kręcą się gdzieś w pobliżu. Choć gremliny uwielbiają figle, nawet one nie odważą się stanąć między istotą pixie a jej słodyczami. Może następnym razem, gdy rozstawię pułapki, zostanę i sprawdzę, czy opowieści są prawdziwe." }
   ]
 }

@@ -11,7 +11,7 @@
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_TODO_01", "hash": "C3E5373F1B7B2F7F", "target": "Porozmawiaj z Koh Rabntah." },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_TODO_02", "hash": "C5E0FA9577CEA5F9", "target": "Pokaż wyposażenie Khatun." },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_000", "hash": "1EAA9E6E8D717B23", "target": "Aby rozpocząć to zadanie, musisz najpierw ukończyć 50. piętro Palace of the Dead." },
-    { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_001", "hash": "C36F827901FFAC40", "target": "Aby uzyskać dostęp do Palace of the Dead, musisz ukończyć zadanie „The House That Death Built”." },
+    { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_001", "hash": "C36F827901FFAC40", "target": "Aby uzyskać dostęp do Palace of the Dead, musisz ukończyć zadanie „Dom zbudowany przez śmierć”." },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_010", "hash": "D6F7C3A968654F28", "target": "Jak się miewasz, <if(gnum4,dzielna poszukiwaczko,dzielny poszukiwaczu)> przygód?" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_011", "hash": "BBE09C11E62ECF45", "target": "...A może mam cię nazwać <if(gnum4,bohaterką,bohaterem)> Dziedziców? <if(gnum4,Nieustraszoną badaczką,Nieustraszonym badaczem)> NOAH? Które miano wolisz, <string(gstr1)>?" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_012", "hash": "8B0ACF54BCB3417F", "target": "Spokojnie, nie ma powodu do niepokoju. Jestem jedynie skromną członkinią Synów Świętego Coinacha, choć rzecz jasna nie synem. Nazywam się Koh Rabntah..." },

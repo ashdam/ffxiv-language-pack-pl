@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefRelicWeapon025CancelNote_00168",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "...Hm? Przecież nie mogę wyrzucić czegoś, czego nie masz, prawda?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "...Naprawdę? Cóż, ten stary, zapleśniały foliant <italic(1)>miał<italic(0)> trafić do pieca, tak czy─eee...To znaczy, serce mi pęka, gdy kawał historii traktuje się jak stertę zbrukanego pergaminu, ale kimże ja jestem, żeby sprzeciwiać się klientowi?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "Utracisz wszystkie postępy zapisane w księdze „<ennoun(EventItem,3,lnum1,1,1)>”. Na pewno chcesz kontynuować?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "Tak" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "Nie" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "Proszę. Zrobione. Ten fragment historii już nigdy nie będzie zawracał ci głowy. Mam nadzieję, że <if(gnum4,jesteś teraz zadowolona,jesteś teraz zadowolony)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "Wyrzucasz księgę z cyklu Trials of the Braves." }
   ]
 }

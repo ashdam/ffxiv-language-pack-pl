@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKzc020_03403",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "" }
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>An Iala ma do ciebie poważną prośbę." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Zabić dwa rosebears, a następnie pokonać giant rosebear, gdy się pojawi" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "Zdać sprawę An Iala" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "Pomocy! Pomóż nam, proszę! Przysięgam, to żaden podstęp!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "Terroryzują nas takie straszne niedźwiedzie. Nazywają się rosebears. Zwykle potrafimy je przegonić, ale ostatnio pojawił się jeden większy, groźniejszy i bardziej żarłoczny od pozostałych!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "Za bardzo się boimy, żeby z nim zadrzeć. Jesteśmy takie małe i słabe. Ale tobie nie brak rozmiarów ani siły. Jeśli ktoś może poradzić sobie z tą rozwścieczoną bestią, to właśnie ty!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "Zwykłe rosebears grasują na wschód stąd. Jeśli zabijesz kilka, powinno to zwabić ich groźniejszego krewniaka. Gdy się pojawi, zabij i jego!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "Zwykłe rosebears grasują na wschód stąd. Jeśli zabijesz kilka, powinno to zwabić ich groźniejszego krewniaka. Gdy się pojawi, zabij i jego!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "Udało ci się! Giant rosebear już nam nie zagraża! Wiele ci zawdzięczamy!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "Od wielu, wielu lat te zuchwałe bestie polują na nasze owce─drogie przyjaciółki, które dają nam mleko." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "Aby dać im nauczkę, za pomocą magii sadzimy na ich ciałach rośliny. Ale ku naszemu przerażeniu stały się przez to jeszcze straszniejsze." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "Dzięki tobie najstraszniejszego już nie ma. Z mniejszymi poradzimy sobie bez pomocy. Tacy życzliwi i pomocni śmiertelnicy jak ty czynią Il Mheg lepszym miejscem!" }
   ]
 }

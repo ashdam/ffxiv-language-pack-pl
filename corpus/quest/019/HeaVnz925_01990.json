@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz925_01990",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_00", "hash": "933F484BCC03FB70", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_01", "hash": "31DAA69CA33CE6C1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_02", "hash": "84E564E9DB0B3B19", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_03", "hash": "725F6CED305CB68C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_00", "hash": "0B1C18B18450475D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_01", "hash": "6B6EEA86A04DEE6A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_02", "hash": "D0F066DF8B5EF80E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_000", "hash": "FB49DE97072A1571", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_001", "hash": "2D3D006AE005097B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_010", "hash": "4A8BAE7A87CC7102", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_020", "hash": "7CC016ABBF9F379A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_021", "hash": "4DBF68BD5770AE94", "target": "" }
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_00", "hash": "933F484BCC03FB70", "target": "Allagański węzeł krępujący delikatnie świeci i obraca się." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_01", "hash": "31DAA69CA33CE6C1", "target": "Allagański węzeł krępujący informuje cię, że kilka drawańskich obiektów testowych uwolniło się z więzów i teraz swobodnie przemierza okolicę. System prosi o zabicie trzech bestii Meracydian dragon i trzech bestii Meracydian falak, by ograniczyć zagrożenie stwarzane przez te niebezpieczne stworzenia." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_02", "hash": "84E564E9DB0B3B19", "target": "Zabijasz bestie zgodnie z poleceniem węzła krępującego. Zdaj systemowi relację z wykonania misji." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_03", "hash": "725F6CED305CB68C", "target": "Węzeł krępujący dziękuje ci za ciężką pracę i ustala, że smoki zdołały uciec wskutek osłabienia więzów z upływem czasu. Składa raport zalecający placówce badawczej używanie trwalszego sprzętu, który nie traci skuteczności po zaledwie kilku tysiącach lat." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_00", "hash": "0B1C18B18450475D", "target": "Zabić bestie Meracydian dragon" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_01", "hash": "6B6EEA86A04DEE6A", "target": "Zabić bestie Meracydian falak" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_02", "hash": "D0F066DF8B5EF80E", "target": "Zdać relację węzłowi krępującemu" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_000", "hash": "FB49DE97072A1571", "target": "\\<bzzzzzzz> Ostrzeżenie. Ostrzeżenie. Kilka drawańskich obiektów testowych zerwało więzy i przebywa w najbliższej okolicy. Obiekty są niezwykle niebezpieczne i stanowią rzeczywiste zagrożenie dla personelu i sprzętu." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_001", "hash": "2D3D006AE005097B", "target": "Wierni wojownicy Imperium Allagańskiego, proszę zapewnić bezpieczeństwo całemu personelowi i obywatelom, neutralizując zagrożenie. Każdy żołnierz ma zlikwidować trzy bestie Meracydian falak i trzy bestie Meracydian dragon." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_010", "hash": "4A8BAE7A87CC7102", "target": "Proszę zapewnić bezpieczeństwo całemu personelowi i obywatelom, likwidując trzy bestie Meracydian falak i trzy bestie Meracydian dragon." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_020", "hash": "7CC016ABBF9F379A", "target": "Sprawdzanie stanu misji. \\<pik> \\<pik> Potwierdzono zabicia. \\<pik> \\<pik> Misja zakończona. Imperium dziękuje ci, żołnierzu." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_021", "hash": "4DBF68BD5770AE94", "target": "Ucieczkę drawańskich obiektów powiązano z uszkodzeniem strukturalnym więzów. Testy wskazują, że osłabły po zaledwie pięciu tysiącach lat użytkowania. Składanie raportu z zaleceniem, by dział badawczy używał trwalszego sprzętu o dłuższym okresie eksploatacji." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny807_02107",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "" }
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "Niech mnie pomalują na żółto i nazwą chocobo─przecież to Dziennik krajoznawczy Millith!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "Khm. Wybacz─trochę mnie poniosło. Jestem Kester Ironheart, kuzyn Millith i swego rodzaju odkrywca, jak większość mojej licznej rodziny." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "Przy naszej ostatniej rozmowie Millith wspominała o <if(gnum4,poszukiwaczce przygód ogarniętej,poszukiwaczu przygód ogarniętym)> prawdziwą żądzą wędrówki─teraz wiem, że chodziło o ciebie. Pożyczysz mi na chwilę swój dziennik? Bez obaw─nie zjem go ani nic takiego." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "Tutaj, tutaj i tak─tutaj! Chyba wystarczy." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "Nie jest tajemnicą, że Ishgard kryje jedne z najniezwyklejszych widoków w naszej krainie. Co prawda nie wszystkie znam z własnych podróży, ale z pewnością wiem, gdzie można je znaleźć. Ty teraz też─dzięki notatkom i pogłoskom, które znalazły się za moją sprawą w twoim Dzienniku krajoznawczym." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "Tak, dziesiątki oszałamiających panoram czekają na odkrycie. Jednak nie wszędzie zaniosą cię nogi. Jeśli jakiś punkt okaże się niedostępny, może wzbijesz się w niebo na grzbiecie czarnopiórego ptaka." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "...Oho, ale gdybym zdradził więcej, odebrałbym ci radość samodzielnego odkrywania tych wspaniałych widoków. Niech bogowie cię prowadzą, <if(gnum4,towarzyszko wypraw,towarzyszu wypraw)>. Oby ta chwila zapoczątkowała podróż pełną cudów!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "Do Dziennika krajoznawczego dodano wpisy z Heavensward!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "Aby zapisywać panoramy z Heavensward, musisz mieć co najmniej 50. poziom. Udaj się we wskazane miejsce i spełnij niezbędne warunki, by ukończyć wpis dla danej panoramy i zdobyć punkty doświadczenia." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "Nowo dodane miejsca w Dzienniku krajoznawczym są oznaczone świetlistą kulą. Jeśli zauważysz taką kulę podczas przygód, zatrzymaj się na chwilę i zapisz wpis." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "Korzystaj ze sprytu i notatek Kestera, by odnaleźć te zachwycające widoki oraz właściwy sposób ich podziwiania. Zobacz Ishgard tak, jak widzieli go tylko najwięksi odkrywcy!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "W tych stronach nie brakuje cudownych widoków, lecz podróż bywa doprawdy niebezpieczna. Gdybym tylko lepiej władał sztukami walki, mógłbym zobaczyć wszystko, co warte zobaczenia..." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "Aby kontynuować to zadanie, musisz mieć co najmniej jedną klasę lub job na 52. poziomie lub wyższym." }
   ]
 }

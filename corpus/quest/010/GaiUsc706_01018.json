@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc706_01018",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "" }
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "Na twarzy F'majhy maluje się smutek." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "F'majha opłakuje towarzyszy z Czerwonych Jaskółek, którzy nie wrócili z misji. Udaj się na pole bitwy i zabierz z ich ciał odznaki, aby mogła choć w ten sposób uczcić ich pamięć." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "Odzyskujesz odznaki z ciał poległych Jaskółek. Zanieś je żołnierce F'majha." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "F'majha nie potrafi powstrzymać łez, gdy bierze do rąk pamiątki po poległych towarzyszach. Ociera oczy i przyrzeka walczyć dalej, aby ich ofiara nie poszła na marne." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "Odzyskać odznaki poległych" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "Dostarczyć odznaki żołnierce F'majha" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "Ta... Nieraz razem zaglądaliśmy śmierci w oczy, jeszcze za pirackich czasów. Aż do ostatniej misji. Ruszyliśmy w piątkę, a wróciłam tylko ja..." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "Nie jestem tak głupia, żeby łudzić się, że jeszcze żyją. Ale nie mieć po nich choćby skrawka materiału na pamiątkę─to boli jak szabla wbita w brzuch. Pójdziesz na pole bitwy i przyniesiesz mi coś po moich poległych braciach?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "Jesteś z powrotem? Masz coś po moich poległych towarzyszach?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "\\<pociąga nosem> \\<szlocha> Ja... Wiem, że nic by to nie zmieniło, ale tak chciałabym być z nimi do końca." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "...Ale moje łzy to tylko krople w oceanie. Muszę podjąć ich walkę i dopilnować, żeby ich ofiara nie poszła na marne." }
   ]
 }

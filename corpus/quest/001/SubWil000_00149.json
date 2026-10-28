@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubWil000_00149",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_00", "hash": "AF7AA8A475CA8658", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_01", "hash": "3EEBE15B015A3773", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_02", "hash": "B8B343ED0D08E1DA", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_TODO_00", "hash": "B12593D6D4F774DD", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_1", "hash": "914A3C5880C15D9E", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_2", "hash": "0CF8F49A27BB8DB7", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_3", "hash": "8E9C640AE2FF8828", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_5", "hash": "1C5E2FA9CFCC5C6C", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_6", "hash": "0920DA0A0FA23C5D", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_7", "hash": "D19346F9238550D9", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_8", "hash": "4E066EBFB9B0894E", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_9", "hash": "FDC3DD6C9BC685C7", "target": "" }
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_00", "hash": "AF7AA8A475CA8658", "target": "Wymond chce wiedzieć, co sądzisz o Ul'dah." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_01", "hash": "3EEBE15B015A3773", "target": "Jak na prawdziwego profesjonalistę przystało, Wymond korzysta z okazji, by zlecić ci dostawę. Zanieś jego wiadomość Josiasowi w Gildii Pięściarzy mieszczącej się w Platynowym Mirażu." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_02", "hash": "B8B343ED0D08E1DA", "target": "Gildia Pięściarzy świadczy usługi ochroniarskie, ale tylko tym, których na to stać. Niepodpisana koperta zawierała ocenę zleceniodawcy, którego finanse okazały się niewystarczające. Niestety Platynowy Miraż nie jest instytucją dobroczynną." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_TODO_00", "hash": "B12593D6D4F774DD", "target": "Dostarczyć niepodpisaną kopertę Josiasowi" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_1", "hash": "914A3C5880C15D9E", "target": "No i jak ci się podoba Ul'dah, <split(<string(gstr1)>, ,1)>? <if([gnum70==1],Co? Skąd znam twoje imię? He! Informacje to mój towar. Zdziwiłoby cię\\, ile wiem.,<if([gnum70==2],Co? Skąd znam twoje imię? He! Informacje to mój towar. Zdziwiłoby cię\\, ile wiem.,<if([gnum70==3],Masz już nowych przyjaciół na wysokich stanowiskach? Ha! Kiedy pewnego dnia sułtanka zechce cię wysłuchać\\, mam nadzieję\\, że nie zapomnisz o starym Wymondzie!,Co? Skąd znam twoje imię? He! Informacje to mój towar. Zdziwiłoby cię\\, ile wiem.)>)>)>" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_2", "hash": "0CF8F49A27BB8DB7", "target": "Skoro już tu jesteś, może wyświadczysz mi przysługę i zaniesiesz to pismo Josiasowi w Platynowym Mirażu?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_3", "hash": "8E9C640AE2FF8828", "target": "To tuż obok, a on da ci nawet trochę gilów za fatygę. Gdyby tylko każda robota w tym mieście była taka prosta, co?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_5", "hash": "1C5E2FA9CFCC5C6C", "target": "Czy ma <if(gnum4,pani,pan)> <if([gnum11<12],<if([gnum11<4],dziś wieczorem,dziś rano)>,<if([gnum11<17],dzisiaj,dziś wieczorem)>)> jakąś sprawę do Platynowego Mirażu?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_6", "hash": "0920DA0A0FA23C5D", "target": "Pismo od Wymonda? Dobrze, zobaczmy..." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_7", "hash": "D19346F9238550D9", "target": "„Ptak oskubany. Niech psy ucztują”. \\<wzdycha> Tak to już bywa." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_8", "hash": "4E066EBFB9B0894E", "target": "Ach, to? Otóż gildia często otrzymuje zlecenia ochrony. Na nieszczęście tego zleceniodawcy dochodzenie Wymonda wykazało, że jego finanse są... niedostateczne." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_9", "hash": "FDC3DD6C9BC685C7", "target": "Może poszukiwaczom przygód nie przeszkadza praca za darmo, ale my prowadzimy interes. Sam mam cztery gęby do wykarmienia, więc ten <italic(1)>ptaszek<italic(0)> będzie musiał radzić sobie sam, niestety." }
   ]
 }

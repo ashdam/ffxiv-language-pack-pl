@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz101_01750",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_00", "hash": "125D8D47B8A0A27C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_01", "hash": "EEF3ED1C5EFAF579", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_02", "hash": "ABC82E0298E4FA40", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_TODO_00", "hash": "21642862AAC004E5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_000", "hash": "E69CC1AC8E460D20", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_001", "hash": "1810D2C1E73158C5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_002", "hash": "D75C7DD5F3E97CBD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_003", "hash": "C1FE7238F6F713DD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_010", "hash": "A9E359BD97F78612", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_020", "hash": "28F5530841B6DB7C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_021", "hash": "6C67B821A0C1CF7A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_022", "hash": "F701E3318DBC1D8E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_023", "hash": "21BE85ED43A9F99C", "target": "" }
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_00", "hash": "125D8D47B8A0A27C", "target": "Choć pogoda jest mroźna, Bohemondas zdaje się kipieć ze złości." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_01", "hash": "EEF3ED1C5EFAF579", "target": "Bohemondas wyjaśnia, że rycerze Ishgardu chcą zmienić jego dawną osadę w obóz wojskowy. Bardzo go to rozgniewało, a na domiar złego jego syn zaciągnął się do pomocy. Prosi cię o przedstawienie mu wyboru: wrócić do rodziny albo stracić ją na zawsze. Udaj się do Falcon's Nest i przekaż synowi wiadomość ojca." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_02", "hash": "ABC82E0298E4FA40", "target": "Przybywasz do Falcon's Nest i przekazujesz mężczyźnie imieniem Josseloux żądanie ojca, by wrócił do domu. Josseloux nie daje się przekonać. Choć wygląd Falcon's Nest może się zmienić, zamierza chronić tradycje, które czynią osadę ich ukochanym domem." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_TODO_00", "hash": "21642862AAC004E5", "target": "Porozmawiać z sokolnikiem imieniem Josseloux w Falcon's Nest" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_000", "hash": "E69CC1AC8E460D20", "target": "Zły? Oczywiście, że jestem zły! Chcę tylko chronić swój dom, a ci przeklęci rycerze siedzą i drwią z „bredni starego człowieka”! Brednie, cholera jasna!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_001", "hash": "1810D2C1E73158C5", "target": "Wiesz, co ma się stać z Falcon's Nest!? Większość mieszkańców przeniosła się do Ishgardu przed zimnem, a teraz chcą wszystko zburzyć i zrobić tam obóz wojskowy. Cholerny obóz wojskowy!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_002", "hash": "D75C7DD5F3E97CBD", "target": "Co gorsza, mój syn zaciągnął się do pomocy! Mały gówniarz. Nie chce słuchać, a ja mam już dość przemawiania mu do rozsądku!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_003", "hash": "C1FE7238F6F713DD", "target": "Jeśli spotkasz tego obślizgłego, zdradzieckiego nicponia, powiedz mu, że może wrócić do rodziny albo nie wracać wcale!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_010", "hash": "A9E359BD97F78612", "target": "Koniec kłótni! Może mieć swój cholerny obóz albo rodzinę. Musi wybrać!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_020", "hash": "28F5530841B6DB7C", "target": "Hm? Tak, jestem Josseloux. ...Co on powiedział!? \\<wzdycha> Krótkowzroczność mojego ojca nie zna granic. Nie dostrzega, co możemy ocalić, budując ten obóz, zamiast pozostawiać wszystko śniegom." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_021", "hash": "6C67B821A0C1CF7A", "target": "Jak wskazuje nazwa, Falcon's Nest od pokoleń słynie z wybornych sokolników. Astrologowie potrafią wprawdzie wyczytać z gwiazd aktywność Hordy, ale to my zawsze jako pierwsi ostrzegaliśmy przed jej nadejściem." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_022", "hash": "F701E3318DBC1D8E", "target": "Po Katastrofie wszystko się zmieniło. Pogoda się pogorszyła i musieliśmy poszukać lepszego schronienia. Wiem, jak bolało go opuszczenie Falcon's Nest─to również <italic(1)>mój<italic(0)> dom. Musi jednak zrozumieć, że zmiany w naszym domu nie zmieniają tego, kim jesteśmy." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_023", "hash": "21BE85ED43A9F99C", "target": "Dumni sokolnicy z Falcon's Nest przetrwają. Udowodnię mu to. Gdy nadejdzie dzień jego powrotu, ziemia pod stopami może wydać mu się obca, ale nasi towarzysze dumnie szybujący po niebie będą tacy sami jak zawsze. Przysięgam." }
   ]
 }

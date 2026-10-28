@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb207_00838",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_00", "hash": "99F62F7FD1F1684F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_01", "hash": "BD8FEE6781EA226E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_02", "hash": "1A1E41C1A67AA274", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_03", "hash": "03B119402AE7C9DD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_04", "hash": "A9B4E223CE6D08CC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_00", "hash": "E94F513E77E6BD69", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_01", "hash": "4CC958AE1F990C6E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_02", "hash": "33864DA3D38398F6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_000", "hash": "FCE02AEDDBA868B5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_001", "hash": "0CD4AF339C951955", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_002", "hash": "A4CE68F4980C28DC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_020", "hash": "29E836CAACEA606F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_021", "hash": "5D07A3AED18177DF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_022", "hash": "FA6A55A55EC7D593", "target": "" }
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_00", "hash": "99F62F7FD1F1684F", "target": "Fyrilsunn nie wygląda dziś na rześkiego i pełnego zapału. Coś zdecydowanie jest nie tak." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_01", "hash": "BD8FEE6781EA226E", "target": "Fyrilsunn opowiada ci, że zgubił coś bardzo dla niego cennego─trzy medale z wizerunkiem lwa. Pomóż zrozpaczonemu mężczyźnie z ludu Roegadyn, szukając ich tam, gdzie widział je ostatnio. Proponuje zacząć od wypatrywania ze szczytu Wieży Mewiej Grzędy za pomocą /lookout." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_02", "hash": "1A1E41C1A67AA274", "target": "Z wieży dostrzegasz trzy błyszczące punkty na ziemi poniżej. Zbadaj każde miejsce i sprawdź, czy uda ci się znaleźć medale." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_03", "hash": "03B119402AE7C9DD", "target": "Odnajdujesz zgubione medale. Oddaj je Fyrilsunnowi w Costa del Sol." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_04", "hash": "A9B4E223CE6D08CC", "target": "Okazuje się, że medale są jedynymi materialnymi pamiątkami Fyrilsunna po przyjaciołach poległych w dawnej wojnie. Choć cieszy się z ich odzyskania, najwyraźniej przypominają mu również o nieuchronnych przyszłych konfliktach." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_00", "hash": "E94F513E77E6BD69", "target": "Wypatrywać ze szczytu Wieży Mewiej Grzędy za pomocą /lookout" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_01", "hash": "4CC958AE1F990C6E", "target": "Odnaleźć medale z lwem" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_02", "hash": "33864DA3D38398F6", "target": "Oddać medale z lwem Fyrilsunnowi" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_000", "hash": "FCE02AEDDBA868B5", "target": "Słuchaj, potrzebuję pomocy w prywatnej sprawie. Zgubiłem coś bardzo dla mnie ważnego: medale z lwami." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_001", "hash": "0CD4AF339C951955", "target": "Chętnie poszedłbym sam, ale moje miejsce jest tutaj. Nie możemy teraz spuszczać plemienia Kobold z oczu. Jednak te trzy medale to moje najcenniejsze rzeczy. Proszę, będę wdzięczny za każdą pomoc." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_002", "hash": "A4CE68F4980C28DC", "target": "Możesz zacząć w pobliżu Wieży Mewiej Grzędy. Założę się, że upuściłem je tam, przeganiając naszych przyjaciół z plemienia Kobold. Jeśli wejdziesz na szczyt i użyjesz emotki <colortype(500)><edgecolortype(501)>Wypatrywanie<edgecolortype(0)><colortype(0)>, może je dostrzeżesz." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_020", "hash": "29E836CAACEA606F", "target": "I jak? Czy... udało ci się znaleźć moje medale?" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_021", "hash": "5D07A3AED18177DF", "target": "\\<wzdycha z zachwytu> Są! Nawigatorka była mi dziś łaskawa...<br>Każdy z nas dostał taki medal, kiedy wstępował do Kompanii Bohaterów. A jeśli poległ, zabierał go jego najlepszy przyjaciel." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_022", "hash": "FA6A55A55EC7D593", "target": "Miałem trzech przyjaciół, a zostałem tylko ja. I już czuję kolejną wojnę, tyle że tym razem nic nie jest nowe, a cały ten strach jest stary. Czasami myślę, że żyję już o wiele za długo." }
   ]
 }

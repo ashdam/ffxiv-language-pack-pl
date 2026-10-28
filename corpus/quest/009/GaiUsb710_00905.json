@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb710_00905",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "" }
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "Belmont potrzebuje twoich usług, a jego władczemu tonowi trudno się oprzeć." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "Belmont chce skontaktować się z dawnym towarzyszem z Kołczanu Bogów, by szybko rozpocząć kampanię przeciw ludowi Ixal w Coerthas. Udaj się do North Shroud i zanieś list Belmonta Isaudorelowi w The Bobbing Cork w osadzie Fallgourd Float." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "Białe Barany zdają się szczególnie zainteresowane ludem Ixal i Isaudorel szybko obiecuje udział oddziału w kampanii Belmonta. Przy okazji wspomina, że Belmont z niewiadomych przyczyn zamienił zaszczytne stanowisko w Białych Baranach na życie najemnika..." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "Dostarczyć list Isaudorelowi w osadzie Fallgourd Float" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "Lud Ixal sprowadza się do Coerthasu na dobre. Przewiezienie tych kłód z Lasu Dwunastu tak daleko na zachód to nie lada wyczyn." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "Te zasrane<-->ptaszyska muszą używać swoich przeklętych balonów. Nawet ich zapasy mają skrzydła, a to, co wypada z balonów, trafia w ziemię Coerthasu. Musimy uderzyć teraz, zanim ich osada się rozrośnie." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "Ishgardczycy nie kiwną palcem, dopóki nie będzie za późno. Potrzebuję swoich ludzi. Zanieś ten list łajdakowi imieniem Isaudorel. Kiedyś walczyliśmy razem w Kołczanie. Jego oddział stacjonuje w osadzie Fallgourd Float." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "Nie walczę w tej sprawie dla Ishgardu, ale jeśli chcą uznać, że mają dług, nie mam nic przeciwko. Doprowadza mnie do szału, że lud Ixal wchodzi do Coerthasu tuż pod moim nosem." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "Niech to szlag, jak boli! Nienawidzę ran bardziej niż śmierci! Nazywają mnie „Baranem taranującym”, a nie „staranowaną owcą”!<br>...<split(<string(gstr1)>, ,1)>, tak? No to mów, z czym przychodzisz." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "List do mnie? Od Belmonta, proszę, proszę! Mówię ci, nigdy nie pojmę, jak najlepszy oficer taktyczny w dziejach Białych Baranów może znosić harówkę najemnika." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "Hm, drogi nie zardzewiły mu jeszcze łepetyny. Skoro mówi, że zasrane<-->ptaszyska przenoszą się do Coerthasu, to mi wystarczy. My, Białe Barany, jesteśmy im winni trochę bólu─powiedz mu, że zrobimy wszystko, co w naszej mocy. Niech tylko powie co." }
   ]
 }

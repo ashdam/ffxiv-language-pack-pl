@@ -2,15 +2,15 @@
   "conversation": "quest/055/JobXbm192_05501",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_100_000", "hash": "F3DFF80FD77B6ABE", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_110_000", "hash": "1D96B61AB41654B5", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_120_000", "hash": "C6EB5E25D3C95C6A", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_000", "hash": "572D07588E186808", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_001", "hash": "A30FE9A399325E0A", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_002", "hash": "BAE15CB5D5181048", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_003", "hash": "A3F9AAE9D8A2C336", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_004", "hash": "9F24DEC1FEE1E8E2", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_005", "hash": "8FA728A3FC79A882", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_000_020", "hash": "C2A7B9E6EC6B03E7", "target": "" }
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_100_000", "hash": "F3DFF80FD77B6ABE", "target": "Aby podjąć to zadanie, musisz najpierw spełnić następujące warunki:" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_110_000", "hash": "1D96B61AB41654B5", "target": "1. FINAL FANTASY XIV: Dawntrail musi być zarejestrowane na twoim koncie usługi.<br>2. Musisz korzystać z joba beastmaster." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_120_000", "hash": "C6EB5E25D3C95C6A", "target": "3. Musisz ukończyć planszę First Master's Board.<br>4. Musisz zaprzyjaźnić się z co najmniej trzydziestoma bestiami." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_000", "hash": "572D07588E186808", "target": "Twoje wyczyny w Crucible budzą podziw. Wszyscy jesteśmy poruszeni!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_001", "hash": "A30FE9A399325E0A", "target": "A pani Lauda chyba najbardziej. Ostatnio taka niespokojna, taka skryta... Tylko dzięki niezwykłej bystrości moich zmysłów udało mi się odkryć, że dodała kolejną planszę!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_002", "hash": "BAE15CB5D5181048", "target": "Planszę, na której, jak rozumiem, wyzwie cię sama pani Lauda─wraz z panem Guttlerem!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_003", "hash": "A3F9AAE9D8A2C336", "target": "Możesz w to uwierzyć!? Rewanż, jakiego jeszcze nie było!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_004", "hash": "9F24DEC1FEE1E8E2", "target": "To starcie bez wątpienia będzie miało osobisty wymiar, lecz nie trać czujności. Kiedy ta dwójka połączy siły, może być niemal nie do zatrzymania." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_005", "hash": "8FA728A3FC79A882", "target": "Jednak mocno wierzę, że to <italic(1)>ty<italic(0)> zwyciężysz. Ruszaj, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,1)>─po triumf!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_000_020", "hash": "C2A7B9E6EC6B03E7", "target": "Odblokowano planszę Second Master's Board. Aby podjąć wyzwanie, porozmawiaj z Laudą na ranczu Bentbranch Meadows." }
   ]
 }

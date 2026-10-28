@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz810_01940",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "" }
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "Halfsix chichocze pod nosem." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "Wygląda na to, że Halfsix skonstruował urządzenia zdolne zakłócać łączność Illuminati. Chce, by rozstawić je w rejonie The Makers' Quarter i uprzykrzyć życie śmiertelnym wrogom Idyllshire. Udaj się do Dravanian hinterlands i zamontuj trzy zakłócacze." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "Rozstawiasz trzy zakłócacze w półkolu wokół Arkhitekton. Zdaj sprawę Halfsixowi i opowiedz, jak świetny „żart” udało wam się zrobić Illuminati." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "Na wieść o wykonanym zadaniu Halfsix z trudem tłumi śmiech, wyobrażając sobie frustrację Illuminati pozbawionych łączności. Choć nie dziękuje ci wprost, czujesz, że zyskujesz jego zaufanie." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "Rozstawić zakłócacze w rejonie The Makers' Quarter" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "Zdać sprawę Halfsixowi" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "Pszkoo... Chcesz pomagać Idyllshire, <if(gnum4,wierzchniaczko,wierzchniaku)>? To trafiasz do właściwego Gobka! Halfsix ma chytry plan, doprowadzi Illuminati do mózgopudłowego szału!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "Pszszehehe! Masz, weź wynalazki Halfsixa, zwane sygnałozatykaczami. Jeśli rozstawisz je w The Makers' Quarter, zatrzymają całe powietrzogadanie Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "Pszszehehe! Wyobrażasz sobie powietrzogadanie Illuminati przy włączonym sygnałozatykaczu? „Halo? Halo? Słyszysz mnie?”" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "Pszkoo... Teraz Illuminati nie mogą powietrzogadać przez linkpearl. Muszą iść z jednego końca The Makers' Quarter na drugi, żeby robić językotrzepy! Halfsix i ty robicie bardzo dobry kawał, prawda?" }
   ]
 }

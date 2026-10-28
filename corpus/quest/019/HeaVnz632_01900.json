@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz632_01900",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_00", "hash": "6384062B477F97F0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_01", "hash": "B4FB50701075869B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_02", "hash": "E5F8DCF33649DFD2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_03", "hash": "7BBBDBA89F022861", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_00", "hash": "2FFFA218D469588C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_01", "hash": "1FD46A0675FF81BA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_000", "hash": "7F7007FD8FB0DA2F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_001", "hash": "5DD760320D2F6C6B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_010", "hash": "526D41F2ECE98CE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_020", "hash": "C7D8AA4207FFF44E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_021", "hash": "84082E4E210EE881", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_022", "hash": "FDE075CD84FCEACE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_023", "hash": "B03183FA1518D33B", "target": "" }
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_00", "hash": "6384062B477F97F0", "target": "Zmartwiona mina Fabrelleta sugeruje, że potrzebuje pomocy." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_01", "hash": "B4FB50701075869B", "target": "Zapasy żywności w obozie Camp Cloudtop topnieją. Fabrellet potrzebuje twojej pomocy, by ludzie nie głodowali. Chce wykorzystać mięso żubrów pasących się na północ od obozu, zanim dotrze kolejna dostawa. Pokonaj żubry na północ od Camp Cloudtop i zdobądź cztery kawały ich mięsa." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_02", "hash": "E5F8DCF33649DFD2", "target": "Masz cztery kawały mięsa żubra. Wróć do obozu Camp Cloudtop i dostarcz je Fabrelletowi." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_03", "hash": "7BBBDBA89F022861", "target": "Wręczasz mięso Fabrelletowi, który dziękuje za szybką pomoc. Cieszy się, że żubry przydają się w takich sytuacjach. Okazuje się, że sprowadzono je na wyspy jako zwierzęta hodowlane. Załoga zamierza też hodować owce, ale na razie musi zadowolić się niezbyt smacznym mięsem żubrów." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_00", "hash": "2FFFA218D469588C", "target": "Pokonać żubry i zdobyć ich mięso" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_01", "hash": "1FD46A0675FF81BA", "target": "Dostarczyć mięso Fabrelletowi" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_000", "hash": "7F7007FD8FB0DA2F", "target": "Nie, nie, tak być nie może. Ach, właśnie na ciebie liczyłem. Potrzebuję pomocy w uzupełnieniu topniejących zapasów żywności." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_001", "hash": "5DD760320D2F6C6B", "target": "Szczególnie brakuje nam mięsa. Żubry powinny nas wyżywić do następnej dostawy. Cztery kawały ich mięsa bardzo by nam pomogły. Znajdziesz je na północ od obozu, w Ostatnim Kroku." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_010", "hash": "526D41F2ECE98CE5", "target": "Żubry znajdziesz na północ stąd, w Ostatnim Kroku. Cztery kawały mięsa powinny wystarczyć do następnej dostawy." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_020", "hash": "C7D8AA4207FFF44E", "target": "Ich smak pozostawia wiele do życzenia, ale nie możemy grymasić. Udało się zdobyć mięso?" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_021", "hash": "84082E4E210EE881", "target": "Całe szczęście. Przy następnym spisie zapasów będę mógł odetchnąć. Naprawdę nie wiem, co byśmy zrobili bez żubrów pasących się na północy." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_022", "hash": "FDE075CD84FCEACE", "target": "Pomyśleć, że wcale nie pochodzą z tych wysp. Sprowadzono je jako bydło właśnie na wypadek takich sytuacji." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_023", "hash": "B03183FA1518D33B", "target": "Z czasem będziemy mieć też owce, ale nie wyhodowaliśmy jeszcze odmiany przystosowanej do tych wysokości. Dość już mojego gadania. Dzięki tobie moim ludziom niczego nie zabraknie, przynajmniej przez kilka kolejnych księżyców. Gdy znów trzeba będzie mięsa żubrów, wiem, do kogo się zwrócić." }
   ]
 }

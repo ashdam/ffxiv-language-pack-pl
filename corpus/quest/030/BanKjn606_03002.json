@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn606_03002",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "" }
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "Zukin ma kłopot z płaszczkami.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "Poskromić clever little ray w Kotłach na Kraby i podać im gorzkie pigułki" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "Zdać relację Zukinowi" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "<split(<string(gstr1)>, ,1)>, mamy kłopot z kilkoma młodymi płaszczkami. Choć niewielkie, są niepoprawnie uparte i ciągle zapuszczają się poza nasz teren mimo kolejnych napomnień. Nawet teraz włóczą się po Kotłach na Kraby, nie bacząc na zagrożenia." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "Choć niechętnie to robię, potrzebują dyscypliny i ciebie proszę o jej zaprowadzenie. Wytrop te trzy płaszczki, daj im małe lanie, a potem podaj te pigułki─gorzkie przypieczętowanie lekcji." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "Jeśli masz wyrzuty sumienia─niepotrzebnie. Chodzi o ich bezpieczeństwo. Muszą zrozumieć, że świat poza naszym domem pełen jest niebezpieczeństw." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "Ach, jesteś. Jak poszło zaprowadzanie dyscypliny?" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "Dziękuję, <split(<string(gstr1)>, ,1)>. Ta lekcja powinna na długo poskromić małe łobuziary." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "Choć teraz może tego nie widać, należą do najlepszych płaszczek, jakie wyhodowaliśmy. Chcemy, żeby w pełni rozwinęły swoje zdolności, a to niekiedy wymaga twardej ręki." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "Upór sam w sobie nie jest przecież złą cechą. To tylko inny odcień determinacji, którą chcemy w nich rozwijać." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "Miejmy nadzieję, że nie trzeba będzie więcej takich nauczek. Gdyby jednak zaszła potrzeba, liczę, że znów nam pomożesz." }
   ]
 }

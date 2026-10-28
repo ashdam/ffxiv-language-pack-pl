@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubGsc103_00488",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_000", "hash": "52D9C8AE1BDFB33D", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_Q1_000_000", "hash": "FAB5986F35509136", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_001", "hash": "F9B995970FCC0F01", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_031", "hash": "54208FF01C88ECAA", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_032", "hash": "8236C8513A65A17A", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_033", "hash": "FC030C1FC2311F34", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_034", "hash": "C2F68A158D5EFED0", "target": "" }
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_000", "hash": "52D9C8AE1BDFB33D", "target": "Witam, witam, <if(gnum4,szanowna podróżniczko,szanowny podróżniku)>! Może ma <if(gnum4,pani,pan)> ochotę sprawdzić swoje szczęście, kupując los Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_Q1_000_000", "hash": "FAB5986F35509136", "target": "Spróbować szczęścia w Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_001", "hash": "F9B995970FCC0F01", "target": "Tak" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "Nie" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "Jak <if(gnum4,pani,pan)> sobie życzy. Ale proszę pamiętać: w Mini Cactpot od bogactwa dzieli tylko jedno zdrapnięcie!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "Znakomicie, <if(gnum4,szanowna pani,szanowny panie)>! Pozwolę sobie wyjaśnić: Mini Cactpot to gra losowa, w której można wziąć udział trzy razy dziennie." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "Gra jest banalnie prosta: wystarczy odgadnąć wartości zakrytych liczb, aby zgarnąć wielką wygraną. Jeśli Nymeia okaże swą łaskę, nagrodą będzie mnóstwo punktów Manderville Gold Saucer!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "A zatem... czy czuje <if(gnum4,pani,pan)>, że szczęście sprzyja?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "Możesz już kupować losy Mini Cactpot." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "Możesz już kupować do trzech losów Mini Cactpot dziennie." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_031", "hash": "54208FF01C88ECAA", "target": "Licznik losów Mini Cactpot zeruje się codziennie o <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],po południu,przed południem)> (czasu ziemskiego)." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_032", "hash": "8236C8513A65A17A", "target": "Każdy los Mini Cactpot ma dziewięć pól ułożonych w siatkę trzy na trzy. Do każdego pola jest losowo przypisana liczba od jednego do dziewięciu. Po zakupie losu jedna liczba zostaje odsłonięta." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_033", "hash": "FC030C1FC2311F34", "target": "Aby zagrać, odsłoń dowolne trzy inne liczby. Na podstawie tych informacji spróbuj odgadnąć sumę liczb w każdej linii." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_034", "hash": "C2F68A158D5EFED0", "target": "Na koniec wybierz jedną linię. Liczba wypłaconych MGP będzie zależeć od sumy liczb w wybranej linii." }
   ]
 }

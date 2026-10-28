@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz317_02713",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_SEQ_00", "hash": "5809D2622A8D7BF6", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_00", "hash": "DCC075CEFF95C97B", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_01", "hash": "E2C8DD04D097C753", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_000", "hash": "773D816ACA6F57D7", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_001", "hash": "D73E36EBB96589FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_002", "hash": "DA6A22F6CEBBDA15", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_003", "hash": "609CD0E1A492E059", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_004", "hash": "159525C75CB08F8D", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_005", "hash": "9F0E0153D4031AF5", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_010", "hash": "0B2E8ED76645C48A", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_011", "hash": "E37A415CCF79C870", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_012", "hash": "FAED0E7B4D78EB41", "target": "" }
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_SEQ_00", "hash": "5809D2622A8D7BF6", "target": "Abiki patrzy na ciebie oceniająco." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_00", "hash": "DCC075CEFF95C97B", "target": "Rozejrzeć się w wyznaczonym miejscu i pokonać isonade, które się pojawią" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_01", "hash": "E2C8DD04D097C753", "target": "Zdać raport Abiki" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_000", "hash": "773D816ACA6F57D7", "target": "Ach, to pewnie ktoś z tych─jak oni się nazywają? Poszukiwacze przygód? Tak, widzę to w oczach. Walka to dla <if(gnum4,pani,pana)> nic nowego. Myślę wręcz, że daje pewną satysfakcję." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_001", "hash": "D73E36EBB96589FC", "target": "My natomiast jesteśmy zwykłymi rybakami. Nie umiemy walczyć. To kłopot, bo ostatnio nękają nas okropne potwory. Pożerają ryby z naszych sieci i zagrażają naszemu utrzymaniu." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_002", "hash": "DA6A22F6CEBBDA15", "target": "Ledwie kilka dni temu całkowicie zniszczyły nasze łowiska koło Onokoro. Jeśli tak dalej pójdzie, wioska nie zdoła się utrzymać." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_003", "hash": "609CD0E1A492E059", "target": "Dlatego zwracam się o pomoc. Czy mogę prosić o zabicie tych bestii? Oczywiście zapłacimy za tę przysługę." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_004", "hash": "159525C75CB08F8D", "target": "Bestie są na północ stąd. Proszę je zabić!" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_005", "hash": "9F0E0153D4031AF5", "target": "Na północ stąd grasują okropne bestie, które niszczą naszą wioskę i zagrażają naszemu przetrwaniu. Błagam, trzeba je zabić za wszelką cenę." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_010", "hash": "0B2E8ED76645C48A", "target": "<if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, witam z powrotem. Te plamki krwi─chyba nie musimy się już martwić potworami. Dziękuję." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_011", "hash": "E37A415CCF79C870", "target": "\\<wzdycha> Zanim Imperium zajęło Domę, nasi mężczyźni władali mieczami równie dobrze jak wędkami. Zbierali się w wiosce i ruszali zabić każdego, kto zakłócał nam spokój. Teraz takie działanie uznano by za próbę buntu." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_012", "hash": "FAED0E7B4D78EB41", "target": "Mieliśmy ogromne szczęście, że odwiedziny wypadły właśnie teraz. Proszę wracać na naszą wyspę przy każdej okazji. Zawsze serdecznie <if(gnum4,panią,pana)> powitamy." }
   ]
 }

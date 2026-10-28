@@ -2,18 +2,18 @@
   "conversation": "quest/028/StmBdz912_02868",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_SEQ_00", "hash": "447F9939C65432F2", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_00", "hash": "65235719BE19DC10", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_01", "hash": "7F7F9C3CC2C926E7", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_000", "hash": "CABDBD0CD16DDAB2", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_001", "hash": "18995A1A642DEA24", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_002", "hash": "E739001C1FD5390D", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_003", "hash": "31B27F888B7CC0F5", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_004", "hash": "C8845345A5543E52", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_005", "hash": "E218AD01A458E01F", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_006", "hash": "E3AC0BA46DAC8BD2", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_020", "hash": "FF17EF64FD10E735", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_021", "hash": "65CB49C3E87E55E6", "target": "" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_022", "hash": "05EB9E61BC7018F5", "target": "" }
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_SEQ_00", "hash": "447F9939C65432F2", "target": "Ranulf chce pomóc Cyrulikowi." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_00", "hash": "65235719BE19DC10", "target": "Rozsypać drobny proszek we wskazanym miejscu i zdobyć butelkę wydzieliny mrówkolwa od antlion ambusher" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_01", "hash": "7F7F9C3CC2C926E7", "target": "Dostarczyć butelkę wydzieliny mrówkolwa Ranulfowi" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_000", "hash": "CABDBD0CD16DDAB2", "target": "Myślisz, że możesz mi pomóc?" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_001", "hash": "18995A1A642DEA24", "target": "Staram się zebrać zaopatrzenie dla Cyrulika. Mam już trochę koców i bandaży, ale nie udało mi się zdobyć środka odkażającego. Właśnie w tym potrzebuję twojej pomocy─przynieś mi butelkę wydzieliny mrówkolwa." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_002", "hash": "E739001C1FD5390D", "target": "Ja zbiorę pozostałe składniki. Ty musisz tylko zabić mrówkolwa." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_003", "hash": "31B27F888B7CC0F5", "target": "Potrzebną mi wydzielinę wytwarzają tylko mrówkolwy żyjące pod ziemią. Użyj tego, żeby wywabić je na powierzchnię." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_004", "hash": "C8845345A5543E52", "target": "To proszek ze zmielonych mrówek, ich ulubionego pokarmu. Rozsyp go tam, gdzie bywają, a zaraz jakiś się zjawi." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_005", "hash": "E218AD01A458E01F", "target": "Ruszaj do Virdjali w The Fringes. Bez trudu znajdziesz tam mrówkolwa." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_006", "hash": "E3AC0BA46DAC8BD2", "target": "Rozsyp ten proszek w Virdjali i zabij mrówkolwy, które wyjdą na powierzchnię. Tylko nie zapomnij zebrać wydzieliny!" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_020", "hash": "FF17EF64FD10E735", "target": "Wszystko poszło zgodnie z planem?" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_021", "hash": "65CB49C3E87E55E6", "target": "Właśnie tego potrzebowałem. Zrobię z tego zapas środka odkażającego, który na jakiś czas wystarczy." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_022", "hash": "05EB9E61BC7018F5", "target": "Nawet najmniejsza rana może zabić, jeśli wda się zakażenie. Nie możemy pozwolić, żeby Cyrulikowi zabrakło środka odkażającego." }
   ]
 }

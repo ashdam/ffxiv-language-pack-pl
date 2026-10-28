@@ -2,18 +2,18 @@
   "conversation": "quest/022/BanGna301_02261",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "" }
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "Sądząc po klikaniu jego żuwaczek, Vath keeneye cieszy się na twój widok.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "Niedawno łowcy z Tailfeather złożyli zamówienie na giętkie gałęzie melii, doskonałe do wyrobu strzał. Vath keeneye prosi cię o wyruszenie na Dymiące Pustkowia w jego zastępstwie. Zaznacza na mapie trzy miejsca, w których wyrastają melie, i prosi o pokonanie napotkanych drzew oraz zebranie ich gałęzi.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "Odwiedzasz trzy miejsca, gdzie wyrastają melie, lecz zdobywasz gałęzie tylko z dwóch napotkanych drzew. Nie możesz jednak zrobić więcej, niż ci zlecono. Wróć do Loth ast Vath i dostarcz znalezione gałęzie melii." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "Vath keeneye jest bardzo zadowolony z dostarczonych gałęzi. Przy okazji mówi, że oprócz zamówionych gałęzi zaproponował łowcom z Tailfeather jaja nanka. Choć miał dobre zamiary, ich reakcja go zaskoczyła. Najwyraźniej musi się jeszcze wiele nauczyć o upodobaniach innych ludów." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "Obejrzeć wskazane miejsca i pokonać melie, by zdobyć ich gałęzie" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "Dostarczyć Vath keeneye gałęzie melii" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "Witaj, <if(gnum4,wielka łowczyni,wielki łowco)>. Niedawno otrzymaliśmy zlecenie od istot z mięsa z Tailfeather. Tak, kilka dzwonów temu poprosiły o gałęzie melii. Pójdziesz je dla nas zebrać?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "Melie najbardziej lubią ziemię na Dymiących Pustkowiach. Zaznaczę na twojej mapie dobre miejsca, gdzie wyrastają. Trzy miejsca, trzy szanse na znalezienie gałęzi melii. \\<klika> \\<klika> Jeśli je zobaczysz, szybko je pokonaj i przynieś zdobycz." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "Rozglądasz się po okolicy, lecz nie dostrzegasz śladu melii." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "<if(gnum4,Wielka łowczyni wraca,Wielki łowca wraca)>. Udało ci się znaleźć melie? Udało ci się znaleźć sprężyste, giętkie gałęzie melii?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "Gałęzie z <italic(1)>dwóch<italic(0)> melii? Jedna by wystarczyła, ale z dwóch istoty z mięsa bardzo się ucieszą. Podobno wychodzą z nich świetne strzały do polowań na chocobo. \\<klika> \\<klika> Chyba lubią robić strzały. Tak, wiele strzał." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "Dotąd melie tylko przeszkadzały. Ich konary nie rodzą owoców, a kora jest niejadalna. Utrudniały polowanie na Dymiących Pustkowiach. Teraz dzięki łowcom mają wartość." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "Dla Vath jaja nanka zawsze są cenne. To przysmak. Bardzo smaczny kąsek. \\<klika> \\<klika> Proponowaliśmy je łowcom, ale mówią, że nasze jaja cuchną zgnilizną. Dziwne te istoty z mięsa. Tak, bardzo dziwne." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst014_00041",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "" }
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "Botaniczka Samiane liczy na pomoc poszukiwacza przygód w zbieraniu rozsypanych owoców róży." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "Jak przystało na dobrą Gridańczankę, Samiane szanuje swój dobytek i nie lubi wyrzucać rzeczy, dopóki nadają się do użytku. To godna pochwały postawa, lecz prowadzi do katastrofy, gdy wysłużona sakiewka na nasiona pęka, rozsypując owoce róży Azeymy. Pomóż nieszczęsnej botaniczce, zbierając zgubione owoce z drogi do Plantacji Greatloam." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "Starannie zbierasz rozsypane owoce róży. Zwróć je Samiane, aby mogła odetchnąć z ulgą." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "Samiane dziękuje ci za pomoc w zebraniu owoców róży Azeymy. Choć niektóre nasiona mogłyby wykiełkować tam, gdzie upadły, wyjaśnia, że każdy botanik ma obowiązek zapewnić roślinom Lasu Dwunastu jak najlepsze warunki do wzrostu. Przyznaje jednak, że droga obsadzona różami nie byłaby taka zła..." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "Zebrać owoce róży Azeymy" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "Dostarczyć owoce róży Azeymy Samiane" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "Stój! Ani kroku dalej!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "Przepraszam za ten krzyk, ale proszę uważać─ziemia jest usłana owocami róży. Moja sakiewka na nasiona tak się wytarła, że w końcu pękła." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "Nie wiedząc o tym, rozsypywałam owoce róży Azeymy po całej drodze. Och, <if(gnum4,łaskawa pani,łaskawy panie)>, byłabym ogromnie wdzięczna za pomoc w ich zebraniu." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "Dziękuję! Taka dobroć to prawdziwe błogosławieństwo żywiołaków. Owoce powinny leżeć na drodze stąd do Plantacji Greatloam. Proszę stąpać ostrożnie, żeby ich nie podeptać!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "<if(gnum4,Łaskawa pani,Łaskawy panie)>, proszę powiedzieć, że udało się zebrać wszystkie owoce i żaden nie został pod butem przechodnia!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "Niech żywiołaki błogosławią! Już się bałam, że za rok ta droga będzie obsadzona różami." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "Nie żebym miała coś przeciw tak cudownemu widokowi, ale róże Azeymy źle by się tu czuły. Jako botaniczka muszę dbać, aby rośliny Gridanii rosły i kwitły w jak najlepszych warunkach. Każde nasiono ma swoje miejsce i każde powinno się w nim znaleźć." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "Dziękuję za życzliwą pomoc w potrzebie. Oby żywiołaki odpłaciły tą samą dobrocią." }
   ]
 }

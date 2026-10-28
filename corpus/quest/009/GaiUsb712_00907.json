@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb712_00907",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "" }
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "Towarzyszka Isaudorela dotąd milczała, ale gdy Ireine ma coś do powiedzenia, wszyscy obecni powinni słuchać." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "Usłyszawszy twoją rozmowę z Isaudorelem, Ireine prosi o przekazanie dowództwu wieści o problemach z ludem Ixal w Coerthas. Zostaw dwoje towarzyszy, by obrzucali się przyjacielskimi obelgami, i zdaj raport Miah Molkot przy Wieży Eugenii." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "Miah Molkot przyjmuje prośbę Belmonta bez sprzeciwu i z głośnym mruczeniem. Dowiadujesz się, że Białe Barany to oddział powołany do walki z ludem Ixal. Sama Molkot najwyraźniej niemal delektuje się pokonywaniem ptakoludzi." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "Zdać raport Miah Molkot" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "Miło poznać, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Czy mogę zwracać się do <if(gnum4,pani,pana)> po imieniu, <split(<string(gstr1)>, ,1)>? Jestem Ireine, oficer taktyczny Białych Baranów─i najwyraźniej medyczka, skoro kazano mi pilnować tego gamonia. Och, zamknij się, Isaudorel!" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "A więc ta sprawa z rozmowy z Isaudorelem. Jestem pewna, że instruktorka Molkot zechce usłyszeć o ruchach wojsk Ixal na zachodzie─najlepiej od razu z nią porozmawiać i ułożyć plan." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "Miah Molkot dowodzi Białymi Baranami i jest instruktorką Kołczanu Bogów. Dziś przebywa przy Wieży Eugenii na północy. Proszę zanieść jej słowa Belmonta." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "I proszę uważać. Miah Molkot zabiła tylu wojowników Ixal, ile drzew rośnie w lasach Dumnego Potoku. Potrafi być... straszna. Jeśli ktoś marnuje jej czas jąkaniem albo przechwałkami, może posłużyć za przynętę na Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "Kto drapie do moich drzwi? <if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód tropi Miah Molkot? To ja, urodzona na zgubę ptakoludzi! Dowodzę Białymi Baranami, strzałą Kołczanu Bogów wymierzoną w tchórzliwe serca wojowników Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "Rozumiem! Musimy działać teraz─właśnie <italic(1)>teraz<italic(0)>─by powstrzymać zagrożenie. Przedłużenie linii obrony przed ludem Ixal na północny zachód, do Coerthas, nie będzie spacerkiem po lesie. Ależ te ptaszki będą trzepotać w sieci! Już słyszę trzask ich małych karków..." }
   ]
 }

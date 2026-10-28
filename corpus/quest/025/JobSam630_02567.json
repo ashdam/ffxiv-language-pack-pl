@@ -27,7 +27,7 @@
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_SHIDEN_000_021", "hash": "D44C1A3370642DA3", "target": "Przepraszam, ale nie ma jej tu, by cię przyjąć. Właśnie prowadzi misję na Sakazuki, gdzie przywódcy buntowników spotykają się w tajemnicy." },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_SHIDEN_000_022", "hash": "113D07CAEF548DDE", "target": "Opóźniają jednak powrót i przyznaję, że zaczynam się martwić. Sam poszedłbym ich szukać, ale nie mogę opuścić posterunku. Możesz pójść zamiast mnie?" },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_SHIDEN_000_025", "hash": "4F1CA6E0D7644525", "target": "Oddział Makoto spóźnia się z powrotem z misji na Sakazuki. Sam poszedłbym ich szukać, ale nie mogę opuścić posterunku. Możesz pójść zamiast mnie?" },
-    { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_POPMESSAGE_100_028", "hash": "762C765B6BDA8942", "target": "Atakują cię wrogowie!" },
+    { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_POPMESSAGE_100_028", "hash": "762C765B6BDA8942", "target": "Ktoś cię atakuje!" },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_BALLOON_100_029", "hash": "FEEFC692B96F1E09", "target": "<if(gnum4,Jeszcze jedna,Jeszcze jeden)>!" },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_MAKOTO_000_030", "hash": "7FC520E08A4E654D", "target": "Na kami, to naprawdę <if(gnum4,pani,pan)>. Nie wiem, jak dziękować, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_MAKOTO_000_031", "hash": "A81A25892B76EC8E", "target": "Dowiedzieliśmy się o tajnym spotkaniu buntowników. Przybyliśmy w nadziei, że poznamy ich plany. Lecz to oni znali nasze." },

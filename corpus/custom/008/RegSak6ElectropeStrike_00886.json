@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegSak6ElectropeStrike_00886",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_000", "hash": "3EE691F8C887FD16", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_Q1_000_000", "hash": "282120B7EE927936", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_001", "hash": "8AAAC4669023435C", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_002", "hash": "F50F544A23918BFD", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_003", "hash": "C2939FE762018E39", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_010", "hash": "3DB012E0FF3330CD", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_011", "hash": "7B6E2525DC7CB4A7", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_012", "hash": "FA2C37EC1D263060", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_020", "hash": "EFF975038AB32905", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_021", "hash": "2198BC22C89C1641", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_022", "hash": "95C6E6F37A70B09E", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_023", "hash": "3EDF4D3F474B7FA3", "target": "" },
-    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_024", "hash": "26AD2711210E30E4", "target": "" }
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_000", "hash": "3EE691F8C887FD16", "target": "Skoro przychodzisz tu bez regulatora, musisz mieć w sobie odwagę, głupotę albo zwyczajną desperację. Więc czego chcesz?" },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_Q1_000_000", "hash": "282120B7EE927936", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_001", "hash": "8AAAC4669023435C", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_002", "hash": "F50F544A23918BFD", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_A1_000_003", "hash": "C2939FE762018E39", "target": "O nic." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_010", "hash": "3DB012E0FF3330CD", "target": "Pilnuję, by electrope wysyłano zgodnie z harmonogramem. To nie najwspanialsza praca, ale skoro ktoś musi ją wykonywać, równie dobrze mogę to być ja." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_011", "hash": "7B6E2525DC7CB4A7", "target": "Choć pochodzę z Tural, nie mam szczególnej ochoty mieszkać na obrzeżach, w przeciwieństwie do większości tutejszych ludzi. Mimo to nie potrafię przekonać się do pracy w Everkeep." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_012", "hash": "FA2C37EC1D263060", "target": "Dlatego postanowiłam mieszkać w wieży, ale pracować tutaj." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_020", "hash": "EFF975038AB32905", "target": "To Electrope Strike, nazwane tak od cennego surowca, który tu wydobywamy. Po wydobyciu wysyłamy go do obróbki." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_021", "hash": "2198BC22C89C1641", "target": "Skoro electrope jest tak niezbędny do życia w Alexandrii, jego wydobycie i transport należą do najważniejszych prac." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_022", "hash": "95C6E6F37A70B09E", "target": "Kiedy myślę, jak bardzo przyczyniamy się do sprawnego działania całego tego miejsca, wypełnia mnie duma." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_023", "hash": "3EDF4D3F474B7FA3", "target": "I choć jestem dumna z naszej pracy, zamieszki z udziałem strażników w Everkeep coś mi uświadomiły..." },
+    { "gameKey": "custom/008/RegSak6ElectropeStrike_00886#TEXT_REGSAK6ELECTROPESTRIKE_00886_PETAL_000_024", "hash": "26AD2711210E30E4", "target": "Znaczna część wydobywanego przez nas electrope trafia do wojska. Innymi słowy, służy budowie maszyn zadających ból i cierpienie. Nawet wiedząc o tym, nie możemy jednak po prostu zrezygnować, dopóki są ludzie, którzy na nas polegają." }
   ]
 }

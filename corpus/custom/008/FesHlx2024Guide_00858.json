@@ -2,17 +2,17 @@
   "conversation": "custom/008/FesHlx2024Guide_00858",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_000", "hash": "0C32D1361C8C98BC", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_Q1_000_000", "hash": "3664FB2785A4CBFB", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_001", "hash": "7535316E90C18B63", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_002", "hash": "ABE9CC9B0D1E11E4", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_003", "hash": "601E8019A0A3CB8D", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_010", "hash": "8E69393487901DFD", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_011", "hash": "D0651370E68B406A", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_012", "hash": "113C0D169B84D85D", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_020", "hash": "A890891490D4FBB0", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_021", "hash": "0152A103EE11BF8D", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_022", "hash": "4C0D141D138C7E10", "target": "" },
-    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_023", "hash": "137C57E8F3DFFEB4", "target": "" }
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_000", "hash": "0C32D1361C8C98BC", "target": "Witaj, dyniusiu! Mam nadzieję, że dobrze się bawisz podczas obchodów! Jeśli chcesz się czegoś dowiedzieć, pytaj śmiało!" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_Q1_000_000", "hash": "3664FB2785A4CBFB", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_001", "hash": "7535316E90C18B63", "target": "Kim jesteście?" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_002", "hash": "ABE9CC9B0D1E11E4", "target": "Czym jest Noc Wszystkich Świętych?" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_A1_000_003", "hash": "601E8019A0A3CB8D", "target": "Nic." },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_010", "hash": "8E69393487901DFD", "target": "Jesteśmy wspaniałą trupą, która powstała pod opieką damy o dyniowej głowie! Dzięki nam Noc Wszystkich Świętych będzie pełna strachu dla wszystkich bez wyjątku!" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_011", "hash": "D0651370E68B406A", "target": "Przygotowaliśmy najróżniejsze ekscytujące wydarzenia, które z pewnością zachwycą i wystraszą! Może więc na chwilę odpoczniesz od codziennych trudów poszukiwania przygód i dołączysz do zabawy?" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_012", "hash": "113C0D169B84D85D", "target": "Moi współpracownicy przygotowali w zielonej Gridanii upiornie przyjemny zestaw atrakcji i dekoracji na Noc Wszystkich Świętych. Może skorzystasz z zasłużonego odpoczynku i dołączysz do zabawy?" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_020", "hash": "A890891490D4FBB0", "target": "Legenda głosi, że raz w roku Dwunastu wyprawia w niebiosach wystawną ucztę na cześć świętych. Gdy jednak święci są nieobecni, kraina pozostaje bez ich boskiej ochrony, a istoty ciemności wychodzą tłumnie z ukrycia." },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_021", "hash": "0152A103EE11BF8D", "target": "Ludzie, bojąc się o życie, zaczęli zamykać się w domach. Ci, którzy musieli wyjść na zewnątrz, przebierali się za potwory, licząc na to, że prawdziwe monstra ich nie zauważą." },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_022", "hash": "4C0D141D138C7E10", "target": "Przerażająca sprawa, prawda? Ale to już przeszłość, bo dziś mamy dzielnych poszukiwaczy przygód takich jak ty, którzy strzegą naszych miast pod nieobecność świętych!" },
+    { "gameKey": "custom/008/FesHlx2024Guide_00858#TEXT_FESHLX2024GUIDE_00858_GUIDEHLW2023_000_023", "hash": "137C57E8F3DFFEB4", "target": "Nie mając już powodu do obaw, ludzie zmienili Noc Wszystkich Świętych w radosne święto. Doprawdy odrażający─eee... <italic(1)>zachwycający<italic(0)> obrót spraw!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea065_00477",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_00", "hash": "E9FF6DDA873437C0", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_01", "hash": "E28BC3D0207B6C54", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_0", "hash": "B6E4752D90262878", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_1", "hash": "806FC0263D960C87", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_2", "hash": "93F23CA79F6B7F37", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_3", "hash": "F73148D130E2E7E5", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_10", "hash": "BB881B4C3B0DBC82", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_11", "hash": "67CB9A9078832D06", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_12", "hash": "59CC555CB306C85A", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_13", "hash": "57C21E594BE95EE3", "target": "" }
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "Weitzaren, główny młynarz Szarej Floty, potrzebuje pomocy kogoś zaradnego." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "Weitzaren prosi o zemstę na galago, które zrabowały jego zmielone zboże, oraz odzyskanie skradzionych worków mąki." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "Złodziejskie galago spotkała szybka odpłata. Zanieś odzyskaną mąkę Skarnmharowi w Zagrodzie Red Rooster." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "Skarnmhar jest wdzięczny za pomoc, ale ubolewa, że zagroda nie zatrudnia strażników i w razie kłopotów musi polegać na życzliwości poszukiwaczy przygód." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_00", "hash": "E9FF6DDA873437C0", "target": "Pokonać galago i odzyskać worki mąki" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_01", "hash": "E28BC3D0207B6C54", "target": "Dostarczyć worki mąki Skarnmharowi" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_0", "hash": "B6E4752D90262878", "target": "Filcowanie wełny może wystarcza zwykłemu młynarzowi, ale wiesz, co naprawdę wprawia moje żarna w ruch? Zboże!" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_1", "hash": "806FC0263D960C87", "target": "Cóż jest warta pszenica? Nic! Ale gdy zmieli się ją na cudowną mąkę, nawet te przeklęte galago nie potrafią trzymać łap przy sobie." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_2", "hash": "93F23CA79F6B7F37", "target": "Właśnie dlatego musisz je zabić i odzyskać cztery skradzione worki!" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_3", "hash": "F73148D130E2E7E5", "target": "Potem zanieś worki mąki do zagrody. Skarnmhar zajmie się resztą." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_10", "hash": "BB881B4C3B0DBC82", "target": "Wszystkie jajka i mleko świata na nic się nie zdadzą bez mąki." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_11", "hash": "67CB9A9078832D06", "target": "Tylko nie myśl, że sama mąka wystarczy. Galago po prostu zgarniają wszystko, co wpadnie im w te brudne łapy." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_12", "hash": "59CC555CB306C85A", "target": "Ale dzięki tobie mamy już cały komplet." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_13", "hash": "57C21E594BE95EE3", "target": "Całe szczęście, że jesteś w pobliżu. Nadal jednak zupełnie nie jesteśmy przygotowani, gdyby coś takiego się powtórzyło." }
   ]
 }

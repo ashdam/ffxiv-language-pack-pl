@@ -29,7 +29,7 @@
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_TAMACHAG_100_025", "hash": "7C811484C48AAEAD", "target": "Wielki człowiek z toporem na plecach? To za mało. Ludzi z toporami tu nie brakuje." },
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_MASGUD_100_026", "hash": "914A308606FDCC4E", "target": "Jeśli szukasz plemienia Qerel, tutaj go nie znajdziesz. To samo powiedziałem temu hałaśliwemu Roegadynowi." },
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_CHAMBUI_100_027", "hash": "B5AB54CFBAED0F84", "target": "Nie wiem, co znajdziesz na zachodzie, ale raczej nie plemię Qerel." },
-    { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_POPMESSAGE_100_029", "hash": "C13684731868F694", "target": "Atakują cię!" },
+    { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_POPMESSAGE_100_029", "hash": "C13684731868F694", "target": "Ktoś cię atakuje!" },
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_CURIOUSGORGE_000_030", "hash": "67D03F3F95A7C1A6", "target": "Dziękuję za pomoc, <if(gnum4,nieznajoma,nieznajomy)>. Gdyby nie ty, to─<split(<string(gstr1)>, ,1)>!? C-co ty tu robisz?" },
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_CURIOUSGORGE_000_031", "hash": "D58BBA9A916F91AA", "target": "Ech, to może poczekać. Lud Dorgono jest atakowany. Chodź, musimy im pomóc!" },
     { "gameKey": "quest/029/JobWar680_02903#TEXT_JOBWAR680_02903_CURIOUSGORGE_000_032", "hash": "1812F25C76E35834", "target": "Dorgono jest bezpieczna, ale gdzie pozostali?" },

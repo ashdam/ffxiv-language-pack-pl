@@ -2,17 +2,17 @@
   "conversation": "custom/006/FesAnv2019_00625",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_000", "hash": "BC2A1416256C679A", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_Q1_000_001", "hash": "DAA534798C611E79", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_001", "hash": "3D5507DEA94C5CA3", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_002", "hash": "BCEA207A61B653D4", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_003", "hash": "7AB9D8F398DBFCC2", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_010", "hash": "2B4C810BF4E823BA", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_011", "hash": "41DA632D7301ADE4", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_012", "hash": "5D7348FBDD294C8C", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_020", "hash": "BC9C427E2EC3877B", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_021", "hash": "7A8ACF23D0D3DBAF", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_022", "hash": "C2D361DEA770CB32", "target": "" },
-    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_023", "hash": "CD3A24BD4AF2AB31", "target": "" }
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_000", "hash": "BC2A1416256C679A", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_Q1_000_001", "hash": "DAA534798C611E79", "target": "O co zapytasz?" },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_001", "hash": "3D5507DEA94C5CA3", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_002", "hash": "BCEA207A61B653D4", "target": "Co to za fajerwerki?" },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_A1_000_003", "hash": "7AB9D8F398DBFCC2", "target": "O nic." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_010", "hash": "2B4C810BF4E823BA", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_011", "hash": "41DA632D7301ADE4", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_012", "hash": "5D7348FBDD294C8C", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_020", "hash": "BC9C427E2EC3877B", "target": "Ten olśniewający pokaz ogni na niebie przygotowaliśmy ze szczególną troską, by upamiętnić dzielne dusze, które oddały życie w bohaterskiej próbie powstrzymania Siódmej Katastrofy Umbralnej." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_021", "hash": "7A8ACF23D0D3DBAF", "target": "Choć fajerwerki można podziwiać w każdym z trzech głównych miejsc obchodów, nie sposób nie polecić <if(gnum4,pani,panu)> wizyty w Costa del Sol. Fajerwerki rozkwitające nad plażą na otwartym, niczym nieprzesłoniętym niebie to widok zapierający dech w piersiach." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_022", "hash": "C2D361DEA770CB32", "target": "Niestety dotarła do nas wieść, że po niedawno zakończonym Festynie Księżycowego Ognia plaża nadal wymaga sprzątania. Wysłano tam jedną z moich koleżanek, lecz podobno ma pełne ręce roboty." },
+    { "gameKey": "custom/006/FesAnv2019_00625#TEXT_FESANV2019_00625_NEWBORNINTERN_000_023", "hash": "CD3A24BD4AF2AB31", "target": "Jeśli <if(gnum4,zechciałaby pani i mogła,zechciałby pan i mógł)> jej pomóc, z pewnością chętnie się odwdzięczy─a może fajerwerki sprawią <if(gnum4,pani,panu)> jeszcze większą radość ze świadomością własnego udziału w przygotowaniu święta? Tak czy inaczej, <if(gnum4,pani,pana)> obecność będzie mile widziana!" }
   ]
 }

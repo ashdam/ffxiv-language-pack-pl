@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk115_04565",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_SEQ_00", "hash": "5FF7F9E0B112EE48", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_00", "hash": "E9132584278C3586", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_01", "hash": "2ABC75EAA8D70A99", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_001", "hash": "F4206E309A5909F4", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_002", "hash": "2FF96F92F4E673A6", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_003", "hash": "C44DE8C9DBB1943B", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_004", "hash": "977EE9A3315267E1", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_005", "hash": "94669F99393B28EF", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_006", "hash": "903D154A42116CB6", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_020", "hash": "18B9C7B9D9B18D11", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_021", "hash": "2E3247C91F6C266F", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_022", "hash": "5D7F626FE51AC186", "target": "" }
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_SEQ_00", "hash": "5FF7F9E0B112EE48", "target": "Maru ma dla ciebie niemały problem z wielkimi robalami.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_00", "hash": "E9132584278C3586", "target": "Rozejrzeć się we wskazanym miejscu i pokonać pojawiające się stworzenia starmites" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_01", "hash": "2ABC75EAA8D70A99", "target": "Zdać relację Maru" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_001", "hash": "F4206E309A5909F4", "target": "Wiesz, co to starmite, prawda? Te wielkie robale? No to właśnie trafiły na moją czarną listę!" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_002", "hash": "2FF96F92F4E673A6", "target": "Ostatnio jeden mnie gonił przy starej Wylęgarni Hamsa. Mój hipopotam tak się przeraził, że myślałem, że zaraz wylecę z wozu..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_003", "hash": "C44DE8C9DBB1943B", "target": "Same robale nie są tak groźne jak strach, który budzą w naszych biednych hipopotamach, ale zagrożenie to zagrożenie. Możesz wymierzyć im sprawiedliwość i trochę ich wytępić?" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_004", "hash": "977EE9A3315267E1", "target": "Pamiętasz te robale, które udało ci się rozgnieść? Cóż... ich pobratymcy się mszczą." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_005", "hash": "94669F99393B28EF", "target": "Nie wiem, co jest bardziej roztrzęsione─serca naszych kochanych hipopotamów czy ładunki. Tak czy owak na tych drogach czekają nas tylko robale i zgryzoty..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_006", "hash": "903D154A42116CB6", "target": "Musisz nam pomóc, <split(<string(gstr1)>, ,1)>. Wróć na Wonne Wzgórze i wyślij te robale do ich stwórcy... " },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_020", "hash": "18B9C7B9D9B18D11", "target": "Jesteś <if(gnum4,wybawicielką,wybawicielem)>, <split(<string(gstr1)>, ,1)>! Mniej robali przy drogach to spokojniejsza jazda..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_021", "hash": "2E3247C91F6C266F", "target": "Sam pościg to nic miłego, ale gdybyśmy na jednego wpadli w czasie jazdy, wóz byłby zniszczony, a nasz kochany hipopotam ranny─jeśli nie gorzej." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_022", "hash": "5D7F626FE51AC186", "target": "Bezpieczeństwo na drodze to poważna sprawa, więc może jeszcze poproszę cię o rozgniecenie tych robali. Dzięki, że zawsze nad nami czuwasz." }
   ]
 }

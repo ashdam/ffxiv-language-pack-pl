@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsWksBulletinBoard_00928",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsWksBulletinBoard_00928#TEXT_CTSWKSBULLETINBOARD_00928_SYSTEM_000_000", "hash": "004250A772E48D25", "target": "" },
-    { "gameKey": "custom/009/CtsWksBulletinBoard_00928#TEXT_CTSWKSBULLETINBOARD_00928_SYSTEM_100_000", "hash": "0B170D62E0783029", "target": "" }
+    { "gameKey": "custom/009/CtsWksBulletinBoard_00928#TEXT_CTSWKSBULLETINBOARD_00928_SYSTEM_000_000", "hash": "004250A772E48D25", "target": "Wygląda na to, że ta tablica zasług dotyczy Inicjatywy Eksploracji Kosmosu." },
+    { "gameKey": "custom/009/CtsWksBulletinBoard_00928#TEXT_CTSWKSBULLETINBOARD_00928_SYSTEM_100_000", "hash": "0B170D62E0783029", "target": "Wygląda na to, że ta tablica zasług dotyczy Inicjatywy Eksploracji Kosmosu. Może Scanningway powie ci o niej coś więcej." }
   ]
 }

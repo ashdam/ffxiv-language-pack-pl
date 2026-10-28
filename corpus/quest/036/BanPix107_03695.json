@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix107_03695",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "" }
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "Uin Nee nie może już ani chwili czekać na spełnienie swojego polecenia.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "Wypatrywać rośliny witchweed w miejscu Łaska Dobrej Jenanny i zabić ją, by zdobyć płatki" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "Dostarczyć płatki rośliny witchweed Uin Nee" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "Och, nie! Znowu to samo─coś śmiertelnie ważnego wypadło mi z głowy! Pytasz co? <if(gnum4,Niemądra śmiertelniczko,Niemądry śmiertelniku)>─właśnie próbuję sobie przypomnieć!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "Och, oczywiście─płatki rośliny witchweed! Jakimś cudem cały zapas mi się wyczerpał! Tak być nie może. Nie, w żadnym razie!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "Na szczęście pojawiasz się w samą porę, by pomóc mi wszystko naprawić! To naprawdę imponujące, jak zawsze wiesz, kiedy cię potrzebuję. A teraz ruszaj do miejsca Łaska Dobrej Jenanny, gdzie rosną najbardziej falbaniaste i kwieciste okazy witchweed! Bez obaw, ja tu wszystkiego dopilnuję." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "Och, kto to wraca! Masz te─zaraz, co to miało być?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "Ależ oczywiście! Płatki rośliny witchweed! Jak mogły mi wylecieć z głowy? A skoro o zapominaniu mowa, zupełnie wyleciało mi z głowy, żeby powiedzieć ci, po co mi one, prawda?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "Jeśli uważnie się przyglądasz─a przecież zawsze to robisz, prawda─z pewnością wiesz, że rośliny witchweed zmieniają płatki na podobieństwo swoich ofiar. Biedne stworzonka podchodzą, myśląc, że znalazły przyjaciela, i─CHAPS! CHRUP! Już nie ma stworzonka." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "\\<pociąga nosem> Biedne maleństwa... Tak czy owak, na czym to ja kończę? Ach, tak! Gdy mam płatki rośliny witchweed, wystarczy prosty czar i mogę utkać wszelkie urocze zwierzątka dla moich małych śniących!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "Ale jakie stworzonko wyczarować najpierw? Może biedroneczkę? Wijącego się robaczka? Może armię tyciusieńkich pajączków! Zaraz─a może <italic(1)>wszystkie<italic(0)> naraz! Tak, po prostu zasypię je robactwem! Nie żałujesz, że już nie jesteś dzieckiem i nie możesz śnić takich cudownych snów?" }
   ]
 }

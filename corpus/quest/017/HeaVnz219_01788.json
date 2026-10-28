@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz219_01788",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_00", "hash": "78E3D4B0D239FD4B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_01", "hash": "7465D3F9F82331AE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_02", "hash": "274570B3878681CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_03", "hash": "3CD56891EE9A458F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_00", "hash": "8E47F28041E8862F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_01", "hash": "38A746E08ACEBE98", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_000", "hash": "A41E6D804FEB634B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_001", "hash": "74A43711D47041DE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_002", "hash": "4E7A68424FAD6578", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_010", "hash": "7D178DFAACDD2458", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_020", "hash": "7D3E3639B0FFE9F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_021", "hash": "FC343279A43357F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_022", "hash": "25088D5F9A08A300", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_022", "hash": "1901FB5E5CDAB363", "target": "" }
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_00", "hash": "78E3D4B0D239FD4B", "target": "Cibleroit tęsknie wpatruje się w dal." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_01", "hash": "7465D3F9F82331AE", "target": "Cibleroit nie może przestać myśleć o mięsie żyjących w pobliżu loaghtan. Prosi cię, by przeprawić się przez pobliską rzekę, upolować te zwierzęta i przynieść trzy kawałki ich soczystego mięsa." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_02", "hash": "274570B3878681CE", "target": "Wyrzynasz loaghtan niczym bydło. Wróć ze zdobyczą do Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_03", "hash": "3CD56891EE9A458F", "target": "Cibleroit i the Hungerer są zgodni: mięso jest wyśmienite. Jedną z zalet bycia Odłączonym jest prawo do samodzielnego wyboru posiłku. Wśród członków Wspólnego Umysłu tylko kasta wojowników może jeść mięso." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_00", "hash": "8E47F28041E8862F", "target": "Zabić loaghtan i zdobyć ich mięso" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_01", "hash": "38A746E08ACEBE98", "target": "Dostarczyć mięso osobie o imieniu Cibleroit" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_000", "hash": "A41E6D804FEB634B", "target": "<if(gnum4,Łowczyni,Łowco)>, mamy do ciebie kolejną prośbę. Loaghtan po drugiej stronie rzeki─ich mięso jest pyszne. Przynieś nam trochę ich pysznego mięsa. \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_001", "hash": "74A43711D47041DE", "target": "\\<klik> \\<klik> Słyszeliśmy waszą rozmowę. Mięso loaghtan naprawdę jest pyszne. Ale chcesz je zatrzymać dla siebie? Sądzimy, że to nieuczciwe." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_002", "hash": "4E7A68424FAD6578", "target": "Nie mówiliśmy do ciebie, głodomorze. Tak ci brakuje cudzych myśli? Ale masz rację. To nieuczciwe. Dobrze. <if(gnum4,Łowczyni,Łowco)>, przynieś nam trzy kawałki pysznego mięsa loaghtan. \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_010", "hash": "7D178DFAACDD2458", "target": "Przynieś nam trzy kawałki mięsa loaghtan. Na samą myśl swędzą nas żuwaczki. \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_020", "hash": "7D3E3639B0FFE9F7", "target": "Masz pyszne mięso? \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_021", "hash": "FC343279A43357F7", "target": "Tak. To ono. To mięso jest bardzo dobre. Mamy od ciebie bardzo dobre mięso. \\<klik> \\<klik> Nie mogę się doczekać, aż je zjem." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_022", "hash": "25088D5F9A08A300", "target": "Tak. To mięso bardzo dobrze pachnie. Nie pamiętamy, kiedy ostatnio widzieliśmy równie świeże, soczyste mięso." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_022", "hash": "1901FB5E5CDAB363", "target": "We Wspólnym Umyśle tylko wojownicy dostają mięso. A tacy jak my mogą je jeść─i to kiedy tylko zechcą... \\<klik> \\<klik> \\<klik> Bycie Odłączonym ma niezaprzeczalne zalety!" }
   ]
 }

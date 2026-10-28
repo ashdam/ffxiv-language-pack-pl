@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl210_01276",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "" }
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "Ponnixia ma brudną robotę, ale ktoś musi ją wykonać." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "Złośliwi sylfowie zanieczyszczają Ziemie Ludu Sylph wyjątkowo nieprzyjemną odmianą trujogrzyba, szkodząc miejscowym roślinom i zwierzętom. Zabij dwa cuchnące grzyby, by powstrzymać dalsze skażenie lasu." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "Grzyby greater banestool nie będą już zasmradzać Ziem Ludu Sylph. Ponnixię ucieszy wieść o twoim sukcesie." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "Ponnixia docenia twoje wysiłki, by uczynić las lepszym domem dla niej i jej ludu. Dziękuje za pomoc i prosi, by pozostać w pobliżu na wypadek, gdyby znów cię potrzebowała." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "Zabić grzyby greater banestool" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "Zdać relację Ponnixii" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "\\<wzdycha> Dotknięci znów robią smród i sadzą śmierdziozarodniki na całych Ziemiach Ludu Sylph." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "Smród się szerzy, drzewa więdną i umierają, a leśni przyjaciele tych tutaj chorują i złoszczą się. Jeśli ktoś tego nie powstrzyma, w lesie wkrótce nikt nie będzie mógł zamieszkać." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "<if(gnum4,Odważna,Odważny)> musi porąbać śmierdziozarodniki i uratować las przed cuchnącym losem!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "Ale <if(gnum4,odważna,odważny)> musi uważać! Gdzie śmierdziozarodniki, tam na pewno też sadzący i stworzenia oszalałe od smrodu." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "<if(gnum4,Odważna,Odważny)> musi porąbać śmierdziozarodniki i uratować las przed cuchnącym losem!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "Ale <if(gnum4,odważna,odważny)> musi uważać! Gdzie śmierdziozarodniki, tam na pewno też sadzący i stworzenia oszalałe od smrodu." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "Ci tutaj dziękują <if(gnum4,odważnej,odważnemu)>. Odkąd <if(gnum4,odważna,odważny)> tu jest, ciemna chmura nad Ziemiami Ludu Sylph powoli się rozprasza." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "...Ale wciąż jest wiele do zrobienia. Niech <if(gnum4,odważna,odważny)> nie opuszcza tych tutaj." }
   ]
 }

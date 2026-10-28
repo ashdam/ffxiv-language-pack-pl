@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea113_00410",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "" }
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "Hezzkhezl, szkutnik z firmy Naldiq & Vymelli's, potrzebuje pomocy przy nagrzewaniu nitów." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "Wyrusz poza Moraby Drydocks i zabij trzy lightning sprite, by zdobyć ich rdzenie." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "Masz już trzy nienaruszone rdzenie. Dostarcz je teraz Hezzkhezlowi." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "Hezzkhezl cieszy się z twojego powrotu i wyjaśnia, że pomysł nagrzewania nitów rdzeniami żywiołaków zawdzięcza brygadziście Ahtbyrmowi, nadzorującemu budowę <italic(1)>Victory<italic(0)>." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "Zabić lightning sprite i zdobyć ich rdzenie" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "Dostarczyć rdzenie żywiołaków Hezzkhezlowi" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "Jeśli chodzi o nitowanie, możesz szukać po całym kraju, ale lepszego od Hezzkhezla nie znajdziesz. Dwieście nitów na dzwon wbijam. Dwa razy tyle, jak nie jestem zalany!" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "Sekret dobrego nitowania to temperatura tych drani. Im gorętszy nit, tym mocniej zwiąże stalową blachę. Tyle że gdybym grzał je w kuźni, zanim doniósłbym na <italic(1)>Victory<italic(0)>, byłyby zimne jak krocze martwej dziwki." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "Dlatego używam rozgrzanych do białości rdzeni żywiołaków błyskawic... ale, jak widzisz, zapas trochę stopniał. Jeśli to nie kłopot, przyniesiesz mi kilka? Wyglądasz na kogoś, kto poradzi sobie ze stadem żywiołaków z ręką za tyłkiem." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "Trzy rdzenie i mogę skończyć dzisiejszą robotę, a potem wrócić do piwiarni, gdzie moje miejsce." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "Na oko Lewiatana! Naprawdę masz te cholerne rdzenie! Ahtbyrm będzie rad, oj będzie." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "To brygadzista wpadł na pomysł grzania nitów rdzeniami. Bystry z niego człowiek. Ostrzejszy niż kieł w dziobie rybogrzbieta. Pewnie dlatego tak szybko został szefem." }
   ]
 }

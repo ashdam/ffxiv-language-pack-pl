@@ -2,18 +2,18 @@
   "conversation": "quest/042/AktKzd013_04237",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_SEQ_00", "hash": "C7E2B7C772A08043", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_000", "hash": "480A9688055A090F", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_001", "hash": "B9981D25DADC9EFF", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_002", "hash": "B9C44C9972524816", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_004", "hash": "34298F535330C671", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_008", "hash": "7C575BFD20651F22", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_010", "hash": "6632B3D271E82163", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_011", "hash": "53CAF3F0960ED1C6", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_012", "hash": "2E98B09CE4CFD726", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_013", "hash": "44B4A6DE27A19D98", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_014", "hash": "46F8C2486A1A5875", "target": "" }
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_SEQ_00", "hash": "C7E2B7C772A08043", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Wielu członków kontyngentu ilsabardzkiego skarży się na żołnierzy Imperium porzucających po całym mieście całkiem sprawną broń." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "Zebrać porzuconą broń" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "Dostarczyć porzuconą broń Kochasze" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_000", "hash": "480A9688055A090F", "target": "<split(<string(gstr1)>, ,1)>. Czy mogę zająć chwilę? Zapewne dotarły już do <if(gnum4,pani,pana)> wieści o zbieraniu porzuconej broni." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_001", "hash": "B9981D25DADC9EFF", "target": "Nie? Naprawdę? Dobrze, że się spotykamy. Jak wiadomo, zgodnie z rozejmem I Legion złożył broń. Niestety żołnierze składali ją tam, gdzie im się podobało, więc teraz leży po całym mieście." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_002", "hash": "B9C44C9972524816", "target": "Jeśli znajdzie <if(gnum4,pani,pan)> taką imperialną broń─albo raczej <italic(1)>potknie się o nią<italic(0)>─prosimy ją zabrać i niezwłocznie nam dostarczyć." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_004", "hash": "34298F535330C671", "target": "Proszę zebrać wszystko, co wygląda choć trochę użytecznie. Można chyba jednak pominąć „deskę z gwoździem”. Tych mamy już dość." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_008", "hash": "7C575BFD20651F22", "target": "Na ulicach zapewne leży mnóstwo najróżniejszych narzędzi przemocy. Nie zapominajmy, że była to strefa wojny." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_010", "hash": "6632B3D271E82163", "target": "Czy ma <if(gnum4,pani,pan)> przy sobie porzuconą broń?" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_011", "hash": "53CAF3F0960ED1C6", "target": "Tak, właśnie tego szukamy. Dziękuję za przyniesienie." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_012", "hash": "2E98B09CE4CFD726", "target": "Podobno każdy legion ma własną, charakterystyczną broń, ale dla mnie wszystko wygląda podobnie. Zapewne dlatego, że produkowano ją masowo w Enceladeum." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_013", "hash": "44B4A6DE27A19D98", "target": "Może gdy Garlemald uważał się jeszcze za republikę i zaczął zatrudniać najemników rasy Roegadyn, starano się różnicować uzbrojenie tak samo jak żołnierzy." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_014", "hash": "46F8C2486A1A5875", "target": "Oczywiście późniejszy rozwój techniki pozwolił w zawrotnym tempie produkować wszelkiego rodzaju broń. Zastanawiam się─jak wyglądałoby dziś Imperium, gdyby nigdy nie odkryło machin? Daje do myślenia, prawda?" }
   ]
 }

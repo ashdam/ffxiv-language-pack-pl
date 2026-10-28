@@ -2,18 +2,18 @@
   "conversation": "custom/007/FesXms2021Guide_00727",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_000", "hash": "730DA6AE9F7B46BC", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_Q1_000_001", "hash": "980C44787015AFB7", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_001", "hash": "ED778B30E2F9113C", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_002", "hash": "7D2A35B5B827CBAD", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_003", "hash": "1B3E0467BA96CB66", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_010", "hash": "415B4F3EEAD08CE0", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_011", "hash": "BB09F95683266557", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_012", "hash": "3DD378F2CE643B22", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_013", "hash": "F6E44878BE589FB5", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_014", "hash": "02A8DCB44AC85113", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_020", "hash": "B64D52FD9AF5A913", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_021", "hash": "87D6770FF9BBC186", "target": "" },
-    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_022", "hash": "273C2BB2929FDD2B", "target": "" }
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_000", "hash": "730DA6AE9F7B46BC", "target": "Radosnego Święta Gwiezdnego Blasku! Czy ma <if(gnum4,pani,pan)> pytania dotyczące obchodów? Z przyjemnością na nie odpowiem." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_Q1_000_001", "hash": "980C44787015AFB7", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_001", "hash": "ED778B30E2F9113C", "target": "Czym jest Święto Gwiezdnego Blasku?" },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_002", "hash": "7D2A35B5B827CBAD", "target": "Jakie macie w tym zadanie?" },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_A1_000_003", "hash": "1B3E0467BA96CB66", "target": "Nic." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_010", "hash": "415B4F3EEAD08CE0", "target": "Początki Święta Gwiezdnego Blasku sięgają dawnego Ishgardu. Dawno temu straszliwa bitwa pochłonęła niezliczone ofiary, pozostawiając tysiące osieroconych dzieci na pastwę surowego chłodu Coerthas." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_011", "hash": "BB09F95683266557", "target": "Nie mogąc znieść ich cierpienia, ishgardzcy rycerze zapewniali tym dzieciom wyżywienie i schronienie w koszarach. Było to oczywiście surowo zabronione, ale rycerze obmyślili plan, by przemycać je do środka, przebierając je w kurtki swoich szkarłatnych mundurów." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_012", "hash": "3DD378F2CE643B22", "target": "Dzięki ich hojności dzieci przetrwały zimę i dożyły chwili, gdy mogły przekazać otrzymaną dobroć dalej. Dawne sieroty przywdziewały szkarłatne mundury i rozdawały dzieciom prezenty w najzimniejszym tygodniu roku. Tak narodziło się Święto Gwiezdnego Blasku." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_013", "hash": "F6E44878BE589FB5", "target": "Z biegiem lat obchody stopniowo się zmieniały. Kapitan dobrodusznych rycerzy o śnieżnobiałej brodzie zyskał miano „Świętego Nymei”, a dzieci wierzą, że przekazuje ich nadzieje i modlitwy wprost samej bogini." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_014", "hash": "02A8DCB44AC85113", "target": "Podobnie jego rycerze w czerwonych kurtkach stali się „małymi pomocnikami świętego”. Dzieci szczególnie ich kochają, gdyż to oni przynoszą podarunki każdemu, kto zaniesie modlitwę do Prządki." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_020", "hash": "B64D52FD9AF5A913", "target": "Gildia Poszukiwaczy Przygód powierzyła mnie i moim odzianym w szkarłat współpracownikom organizację Święta Gwiezdnego Blasku. Obchody obejmują całą Eorzeę, a nasi mali pomocnicy działają w Gridanii, Limsie Lominsie i Ul'dah." },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_021", "hash": "87D6770FF9BBC186", "target": "W tym roku Matka Miounne i jej pracownicy z Carline Canopy życzliwie zaoferowali pomoc w przygotowaniu prezentów dla dzieci na Łąkach Bentbranch. Nie mogę się doczekać, jakie wspaniałości dla nas przyrządzi!" },
+    { "gameKey": "custom/007/FesXms2021Guide_00727#TEXT_FESXMS2021GUIDE_00727_GUIDEXMS2021_000_022", "hash": "273C2BB2929FDD2B", "target": "Oczywiście uczestnicy obchodów zawsze szukają nowych pomysłów na prezenty. Jeśli ma <if(gnum4,pani,pan)> jakieś pomysły, proszę śmiało podzielić się nimi z moimi współpracownikami!" }
   ]
 }

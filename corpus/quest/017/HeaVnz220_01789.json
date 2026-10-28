@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz220_01789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "" }
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "Coś w lesie rozprasza uwagę the Hungerer." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "The Hungerer wyjaśnia, że pobliskie melia przeszkadzają Vath w polowaniu i zbieraniu żywności. Prosi o zabicie czterech potworów, by jej plemieniu nie groził głód." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "Zabijasz melia zgodnie z prośbą. Wróć do the Hungerer z dobrymi wieściami." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "The Hungerer wyjaśnia, że walka służy Vath jedynie do zdobywania pożywienia. Atakowanie czegoś niejadalnego wydaje im się niestrawne. Choć z ich słów jasno wynika, że próbowali już jeść melia." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "Zabić melia" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "Zdać raport the Hungerer" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "Witaj, <if(gnum4,łowczyni,łowco)>. Znasz melia? Wędrują po lesie. Zabij dla nas kilka." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "Po co prosisz <if(gnum4,ją,jego)> o polowanie na melia? Nie da się ich jeść. Są zbyt twarde!" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "Nie chcemy ich jeść. Nie możemy ich jeść. Ani kawałek nie jest jadalny. Ale te złe stworzenia przeszkadzają nam zbierać jedzenie. Przeszkadzają nam polować! Zabij cztery. Bardzo ułatwi nam to życie." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "Jesteśmy głodni, lecz nie możemy zbierać jedzenia. Melia przeszkadzają. Zabij je dla nas." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "Dziękujemy, <if(gnum4,łowczyni,łowco)>. Jesteś <if(gnum4,potężną sojuszniczką,potężnym sojusznikiem)>." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "Walczymy tylko po to, by zdobyć jedzenie. Polowanie na coś, czego nie zjemy, to marnotrawstwo. Tylko zgłodniejemy jeszcze bardziej." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "Masz rację, Cibleroit. Polowanie na melia nie ma sensu. Okropnie smakują. Są twarde i suche. Potem przez wiele dni wyciąga się drzazgi z żuwaczek." }
   ]
 }

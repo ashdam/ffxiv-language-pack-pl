@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea103_00400",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_3", "hash": "A3A388B138C26C7D", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_11", "hash": "DD79BD2F6EE7F1C2", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_12", "hash": "6130B1A468C81221", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_13", "hash": "7427D475AACAD0B1", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_14", "hash": "A5BEDAE7BCE46F95", "target": "" }
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "Kazai Buoyzai, przewoźnik z Podniebnej Windy, potrzebuje pomocy, by zachować świeżość ryb." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "Lodowate esencje wodnych żywiołaków doskonale chłodzą ryby podczas transportu. Zabijaj water sprite, aż zbierzesz trzy ich rdzenie." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "Masz już trzy rdzenie wodnych żywiołaków. Dostarcz je Kazai Buoyzai przy Podniebnej Windzie." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "Kazai jest bardzo zadowolony z rdzeni i odetchnął z ulgą, że klienci otrzymają towar w nienaruszonym stanie. Konkurencja wśród firm przewozowych korzystających z Podniebnej Windy jest zaciekła. Każdy błąd może oznaczać utratę klientów na rzecz rywali." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "Pokonać water sprite i zebrać ich rdzenie" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "Dostarczyć rdzenie wodnych żywiołaków Kazai Buoyzai przy Podniebnej Windzie" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "Uwaga, <if(gnum4,dziewczyno,chłopcze)>, mam dla ciebie robotę! Mało czasu, więc słuchaj uważnie." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "Mam dziś za dużo ryb, a za mało rdzeni wodnych żywiołaków, żeby je chłodzić. Widzisz problem?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_3", "hash": "A3A388B138C26C7D", "target": "Nie mogę dostarczać skrzyń zgniłych ryb, więc idź tam i zatańcz z tymi ociekającymi żywiołakami, aż zbierzesz trzy zimne esencje. ...Rozumiesz, że <italic(1)>nie<italic(0)> chodzi o prawdziwy taniec?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_11", "hash": "DD79BD2F6EE7F1C2", "target": "Już z powrotem? Nie każ mi czekać. Pokaż te rdzenie!" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_12", "hash": "6130B1A468C81221", "target": "Tak jest, <if(gnum4,dziewczyno,chłopcze)>, dobra robota. Już nie mogę się doczekać, aż te cudeńka trafią do skrzyń z rybami..." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_13", "hash": "7427D475AACAD0B1", "target": "Połów będzie świeży, a klienci zadowoleni." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_14", "hash": "A5BEDAE7BCE46F95", "target": "Z Podniebnej Windy korzysta od groma firm przewozowych─raz się potkniesz, a jakiś drań gotów ukraść ci klientów!" }
   ]
 }

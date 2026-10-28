@@ -2,16 +2,16 @@
   "conversation": "quest/027/StmBdz304_02700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "" }
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "Kagero chętnie porozmawia z kimś spoza Sui<-->no<-->Sato." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "Usunąć awahaki" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "Zdać raport Kagero" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "Witaj, <if(gnum4,podróżniczko,podróżniku)>! Zgaduję, że pochodzisz z powierzchni? Poza Kojin niewielu gości tu dociera. Ale czego się spodziewać? W końcu mieszkamy na dnie morza!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "Dawno temu Kojin nauczyli naszych przodków żyć w tej wodnej przestrzeni w zamian za ofiarowane im skarby." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "Od tamtej pory jesteśmy sąsiadami. To dobrzy i bystrzy ludzie, uwielbiający zbierać rzadkie przedmioty. Przyjaźń z nimi bardzo by ci się przydała." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "Aha! Zaczekaj─mam pomysł. Tak! Już wiem. Gdyby usunąć część awahaki rosnących wokół ich wioski, na pewno by się ucieszyli! Jakieś sześć powinno zaskarbić ci ich sympatię." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "Tak, usuń sześć awahaki, a na pewno szybko zaprzyjaźnisz się z Kojin!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "Awahaki usunięte? Dobra robota!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "Kojin będą zachwyceni! Widzisz, podróżują i przewożą towary głównie na płaszczkach striped ray. Te jednak tak boją się bąbelków z tych roślin, że na ich widok zrzucają każdego─albo wszystko─co niosą." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "Później powiem im o twojej pomocy. Na razie pozwól, że wręczę ci nagrodę. Widzisz, dobrze było pomóc, prawda?" }
   ]
 }

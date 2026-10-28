@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory1_00892",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_000", "hash": "A9AD11930D8861E3", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_010", "hash": "A55D08CD205E5170", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_011", "hash": "DCFA7ADBA591814D", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_012", "hash": "27CD792FDDF01686", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_000", "hash": "A9AD11930D8861E3", "target": "Panel zawiera informacje o historii ludu Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_010", "hash": "A55D08CD205E5170", "target": "W zamierzchłej przeszłości lud Milalla żył spokojnie na wyspach wiecznego lata. Zima nigdy nie nawiedzała tej żyznej krainy, a kwiaty nieustannie mieniły się wszystkimi kolorami tęczy." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_011", "hash": "DCFA7ADBA591814D", "target": "Lecz sielankowe dni nie trwały wiecznie. Ledwie zachodni wiatr zdawał się chłodnieć, morza nagle zamarzły. Wkrótce zginęły wszystkie zwierzęta, od ryb w wodzie po ptaki na niebie." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_012", "hash": "27CD792FDDF01686", "target": "Ta nienaturalna pogoda zdawała się nie mieć końca, a członkowie ludu Milalla padali jeden po drugim, aż ofiar nie sposób było zliczyć. Ci, którzy jeszcze żyli, mogli jedynie modlić się, tuląc się do siebie dla odrobiny bezcennego ciepła." }
   ]
 }

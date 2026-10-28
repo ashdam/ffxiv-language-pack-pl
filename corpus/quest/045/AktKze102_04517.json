@@ -10,7 +10,7 @@
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_SEQ_05", "hash": "3BDF26CC5B341149", "target": "Okazuje się, że sterta piasku rzeczywiście cieszy Dreamingwaya bardziej, niż kogokolwiek powinna. Może trzeba się cieszyć, że nie poprosił o więcej." },
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_SEQ_06", "hash": "D1D9F842BFEC8F57", "target": "Podczas dostawy Thinkingway dziwi się, skąd Dreamingway wiedział o potrzebnym Buildingwayowi piasku, ale i tak dziękuje wam za ciężką pracę. Krótki wgląd w życie Dreamingwaya nie przyniósł pomysłu na marzenie, lecz twój towarzysz nie traci zapału. Ma jeszcze wiele do pokazania i wierzy, że inspiracja nadejdzie." },
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_00", "hash": "589A7F673967CBC6", "target": "Porozmawiaj z Thinkingwayem." },
-    { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_01", "hash": "AF6ACFDAEAA77110", "target": "Porozmawiaj z Dreamingwayem." },
+    { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_01", "hash": "AF6ACFDAEAA77110", "target": "Porozmawiać z Dreamingwayem" },
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_02", "hash": "F76AC6FF92D081D0", "target": "Zdobądź szary piasek." },
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_03", "hash": "12FEF86EF5938033", "target": "Dostarcz szary piasek Dreamingwayowi." },
     { "gameKey": "quest/045/AktKze102_04517#TEXT_AKTKZE102_04517_TODO_04", "hash": "7562F5B14EB18370", "target": "Zdaj relację Thinkingwayowi." },

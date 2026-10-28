@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa208_00731",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_00", "hash": "385F0B815EAFE02B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_01", "hash": "924AEF6822B20E73", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_02", "hash": "962CA292B5F97EA0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_03", "hash": "6B898C811B93CA9D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_TODO_00", "hash": "17DC2B179C2707C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_TODO_01", "hash": "44CA6555EB19FF19", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_000", "hash": "B818FD2BFAD40409", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_001", "hash": "9360548B9650DFED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_010", "hash": "5DDA0F7E4A019505", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_020", "hash": "A0CA7506DA43E378", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_021", "hash": "2AB22A910FF6265B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_022", "hash": "8938D11B8497E9BD", "target": "" }
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_00", "hash": "385F0B815EAFE02B", "target": "Rolandaix potrzebuje pomocy przy badaniu Issom<-->Har." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_01", "hash": "924AEF6822B20E73", "target": "Rolandaix bada ruiny Gelmorry, ale przecenił obszar, który jest w stanie zbadać samodzielnie. Pomóż uczonemu, szukając w okolicy Issom<-->Har przedmiotów codziennego użytku." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_02", "hash": "962CA292B5F97EA0", "target": "Udało ci się znaleźć kilka dawnych przedmiotów codziennego użytku. Pokaż je Rolandaix do zbadania." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_SEQ_03", "hash": "6B898C811B93CA9D", "target": "Rolandaix stwierdza, że znalezione przedmioty to fragmenty gelmorrańskich naczyń. Potwierdza to jego teorię, że ruiny są pozostałością dzielnicy mieszkalnej Gelmorry. Uczony wyraża gorącą nadzieję, że pewnego dnia uda się odbudować miasto jako osadę dla pozbawionych domu Elezenów z klanu Duskwight." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_TODO_00", "hash": "17DC2B179C2707C5", "target": "Przeszukać okolicę w poszukiwaniu zabytków" },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_TODO_01", "hash": "44CA6555EB19FF19", "target": "Dostarczyć ubłocone skorupy naczyń Rolandaix" },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_000", "hash": "B818FD2BFAD40409", "target": "Ach, <if(gnum4,poszukiwaczka,poszukiwacz)> przygód, prawda? Czy mogę zapytać o doświadczenie w szukaniu zabytków? Próbuję skatalogować wszystkie tutejsze znaleziska, ale zadanie to zajmuje więcej czasu, niż początkowo zakładałem..." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_001", "hash": "9360548B9650DFED", "target": "Jestem niemal pewien, że stoimy na terenie dawnej dzielnicy mieszkalnej Gelmorry. Niestety, nie znalazłem jeszcze dość przedmiotów codziennego użytku, by potwierdzić tę teorię. Gdyby udało się na jakieś natrafić podczas wędrówki, byłbym wdzięczny za przyniesienie ich do mnie." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_010", "hash": "5DDA0F7E4A019505", "target": "Już z powrotem? Czy poszukiwania odbyły się z należytą uwagą i delikatnością? Te zabytki mają setki lat─och, nieważne. Proszę pokazać znaleziska." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_020", "hash": "A0CA7506DA43E378", "target": "<italic(1)>Tak<italic(0)>... To bez wątpienia gelmorrańskie naczynia stołowe. Sądząc po kształcie i zdobieniach, te czarki służyły niegdyś do podawania naparów ziołowych... albo bulionu warzywnego. Znakomicie!" },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_021", "hash": "2AB22A910FF6265B", "target": "Do końca badań jeszcze daleko, ale to odkrycie przybliża mnie o kolejny kuszący krok do spełnienia marzenia: odbudowy tych ruin i utworzenia w nich osady dla Elezenów z klanu Duskwight." },
+    { "gameKey": "quest/007/GaiUsa208_00731#TEXT_GAIUSA208_00731_ROLANDAIX_000_022", "hash": "8938D11B8497E9BD", "target": "Gridańczycy od dawna uważają mój lud za wyrzutków i zbójów. Gdyby jednak klan Duskwight zdołał przywrócić temu upadłemu miastu choć odrobinę dobrobytu, nie musielibyśmy kraść ani rabować, by związać koniec z końcem. Proszę to sobie wyobrazić!<br>...Ale się rozgadałem. Dziękuję za pomoc." }
   ]
 }

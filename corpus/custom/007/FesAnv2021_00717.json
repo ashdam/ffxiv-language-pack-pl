@@ -2,17 +2,17 @@
   "conversation": "custom/007/FesAnv2021_00717",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "" }
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "Co wiadomo o Nymeia potpourri?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "O nic." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "Choć lilia Nymei jest znana przede wszystkim jako kwiat składany na grobach zmarłych, tradycyjnie symbolizuje modlitwę o bezpieczną podróż." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "Podobno zapach lilii ma też działanie uspokajające. Dlatego chcieliśmy przygotować i rozdać potpourri, które oddałoby przesłanie Święta Odrodzenia, a jego delikatna woń ukoiłaby strapione serca tych, którzy utracili bliskich podczas Katastrofy." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "Może <if(gnum4,chciałaby pani,chciałby pan)> dostać własny woreczek? Nasi sprzedawcy chyba mają jeszcze trochę na składzie..." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "Może <if(gnum4,chciałaby pani,chciałby pan)> dostać własny woreczek? Proszę udać się do Ul'dah i znaleźć jednego z naszych sprzedawców na Targowisku Rubinowej Drogi. Powinni mieć jeszcze trochę na składzie..." }
   ]
 }

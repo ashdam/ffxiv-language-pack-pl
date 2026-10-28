@@ -1,0 +1,10 @@
+{
+  "sheet": "HWDGathereInspectTerm",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "HWDGathereInspectTerm#1", "hash": "4F3AD4317B5A3025", "target": "Pierwszy etap odbudowy" },
+    { "gameKey": "HWDGathereInspectTerm#2", "hash": "F5B92DDD50F2C68D", "target": "Druga faza odbudowy" },
+    { "gameKey": "HWDGathereInspectTerm#3", "hash": "97D4A303ADF971E0", "target": "Trzecia faza odbudowy" },
+    { "gameKey": "HWDGathereInspectTerm#4", "hash": "EC6238A349FB5C72", "target": "Czwarty etap odbudowy" }
+  ]
+}

@@ -2,16 +2,16 @@
   "conversation": "custom/005/RegNor4Stilltide_00590",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_000", "hash": "0A7B3E97C9046D4D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_Q1_000_000", "hash": "752F50D8D2FE2CB3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_001", "hash": "00705A8098654E6E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_002", "hash": "62992FDDA201BC76", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_003", "hash": "030AF409527C8EC3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_010", "hash": "1A69489D0496A083", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_011", "hash": "34DCC4DAFFEF413F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_012", "hash": "E348CE8EF3F49C6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_020", "hash": "27D9CED77D5019A1", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_021", "hash": "A3BD676C17173F6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_022", "hash": "3CE6E6F757ECD1C1", "target": "" }
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_000", "hash": "0A7B3E97C9046D4D", "target": "Witaj, <if(gnum4,nieznajoma,nieznajomy)>. Zostajesz tu na dłużej czy tylko przejazdem?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_Q1_000_000", "hash": "752F50D8D2FE2CB3", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_001", "hash": "00705A8098654E6E", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_002", "hash": "62992FDDA201BC76", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_003", "hash": "030AF409527C8EC3", "target": "Nic." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_010", "hash": "1A69489D0496A083", "target": "Do niedawna powiedziałbym, że jestem rybakiem. Teraz chyba odpowiadam za przygotowywanie naszych połowów dla kupców z Eulmore." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_011", "hash": "34DCC4DAFFEF413F", "target": "Ci wolni obywatele są dość wybredni i dobrze płacą za każdą egzotyczną rybę, którą wyłowimy─choć ostatecznie nasze zyski i tak są marne." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_012", "hash": "E348CE8EF3F49C6D", "target": "Wyobrażam sobie, że przed Potopem moglibyśmy łowić w całym oceanie... A teraz? Czasem ledwie zdołamy napełnić własne brzuchy. Ale tak czy inaczej zamierzam tu żyć aż do śmierci." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_020", "hash": "27D9CED77D5019A1", "target": "Cóż, Stilltide to przede wszystkim dom, do którego wracają rybacy─miejsce, gdzie można się przespać i napić kiepskiego alkoholu." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_021", "hash": "A3BD676C17173F6D", "target": "Nazwa pochodzi stąd, że Potop unieruchomił zewnętrzne morza, a tutejsze pływy stały się ospałe i powolne... przynajmniej tak mi mówiono." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_022", "hash": "3CE6E6F757ECD1C1", "target": "Niemało ludzi ruszyło za marzeniami do Gatetown, licząc na miejsce w Eulmore. My jednak wolimy głodować, niż uniżyć się do żebrania u możnych panów i pań." }
   ]
 }

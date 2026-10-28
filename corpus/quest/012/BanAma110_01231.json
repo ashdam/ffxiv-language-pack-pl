@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma110_01231",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_00", "hash": "D5262D2A6D445E3E", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_01", "hash": "CF52432277C03CBC", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_02", "hash": "B5EDA1BF29FB4A42", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_03", "hash": "0D2D9422507D1D0F", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_00", "hash": "4868A5E7346571A0", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_01", "hash": "61A7A95447F9D136", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_001", "hash": "6EA4B27329DDC1BD", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_002", "hash": "CD58BEBD767870E5", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_003", "hash": "453BB79D1D92D87E", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_004", "hash": "51FCE229B1CCA243", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_006", "hash": "A42FF2715DAF9663", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_011", "hash": "B32DF3394F59495B", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_012", "hash": "56D4DB8C9335CE40", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_013", "hash": "A3B67B21848B91F4", "target": "" }
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_00", "hash": "D5262D2A6D445E3E", "target": "Fibubb Gah chce powierzyć ci nowe zadanie." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_01", "hash": "CF52432277C03CBC", "target": "Fibubb Gah poleca ci uderzyć w bezbożne ołtarze znienawidzonych pobratymców Bractwa. Odszukaj i zniszcz obiekty flaming beacons na zachodzie Zahar'ak." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_02", "hash": "B5EDA1BF29FB4A42", "target": "Płonące paleniska zostały zniszczone. Wróć do Kręgu Popiołu i zdaj sprawę wojownikowi Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_03", "hash": "0D2D9422507D1D0F", "target": "Fibubb Gah chwali twój godny pokaz odwagi. Choć wojownik cieszy się ciosem zadanym przez ciebie w imieniu Bractwa, ostrzega, że upadli Amalj'aa nie porzucą tak łatwo szalonej pogoni za potęgą." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_00", "hash": "4868A5E7346571A0", "target": "Zniszczyć obiekty flaming beacons w okolicach Zanr'ak" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_01", "hash": "61A7A95447F9D136", "target": "Zdać sprawę wojownikowi Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_001", "hash": "6EA4B27329DDC1BD", "target": "Nawet dziesięć tysięcy kwilących szczeniąt z Zahar'ak nie zdołałoby nam się oprzeć bez krzepiącej siły płomieni ich boga." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_002", "hash": "CD58BEBD767870E5", "target": "Starannie zachowują palący oddech Władcy Piekielnych Ogni i wykorzystują go do bezbożnych obrzędów." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_003", "hash": "453BB79D1D92D87E", "target": "Naznaczone boskim dotykiem ognie umieszczają potem w strzelistych ołtarzach, które roztaczają błogosławieństwa Ifryta na wszystkich w zasięgu." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_004", "hash": "51FCE229B1CCA243", "target": "Te płonące paleniska trzeba zniszczyć! Bractwo Popiołu odbierze nikczemnym pobratymcom każdy symbol ich niezasłużonej potęgi!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_006", "hash": "A42FF2715DAF9663", "target": "Powierzam ci to zadanie, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>. Ostrzegam jednak: strażnicy tych palenisk stoją najbliżej źródła swej mocy i będą niezwykle zaciekłymi przeciwnikami." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_011", "hash": "B32DF3394F59495B", "target": "Zniszcz te płonące paleniska, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>! Nie możemy tolerować symboli szaleństwa naszych niehonorowych pobratymców!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_012", "hash": "56D4DB8C9335CE40", "target": "Godny pokaz odwagi, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>. Niech nasi wrogowie wiedzą, że nawet ich cenne paleniska nie są bezpieczne przed naszym gniewem!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_013", "hash": "A3B67B21848B91F4", "target": "...Lecz żądzy potęgi nie gasi się tak łatwo. Obawiam się, że póki nie wygramy wojny, przyjdzie nam niszczyć te piekielne ołtarze raz po raz..." }
   ]
 }

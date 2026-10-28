@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegOth3TheDawnThrone_00418",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "" }
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "Ktoś z wizytą? Niezbyt często się to tutaj zdarza. Jeśli coś cię ciekawi, po prostu pytaj." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "Nic." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "Chcesz wiedzieć coś o <italic(1)>mnie<italic(0)>? Nadzoruję trening naszych zapaśników Azim Bökh. To tradycyjna odmiana zapasów na stepie, przekazywana z pokolenia na pokolenie." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "Może nie wyglądam zbyt groźnie, ale nie daj się zwieść. Zdobyłam rangę „Olbrzyma”─tytuł przyznawany wyłącznie zwycięzcom naszych wielkich zawodów." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "He, he, he! Jeden zły ruch przeciwko mnie, a przygwożdżę cię plecami do ziemi! Zapytaj kogokolwiek tutaj. Każdy może to potwierdzić." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "Dawn Throne to święta kraina ukształtowana dłońmi samego wielkiego Azima. To również miejsce narodzin jego syna─pierwszego z naszego ludu." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "Twarz Ojca Świtu wykuto w podstawie tej świętej krainy─krainy, której nam, jego dzieciom, powierzono strzec." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "Stąd widać, jak rozległy jest step, z trawiastymi równinami sięgającymi dalekiego horyzontu. To widok zapierający dech, a przy okazji pozwala nam dostrzec nadciągające bestie i wrogie wojska." }
   ]
 }

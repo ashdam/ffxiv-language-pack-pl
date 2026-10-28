@@ -2,18 +2,18 @@
   "conversation": "quest/010/GaiUsc910_01045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_00", "hash": "09DBDF3EFA4183C4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_01", "hash": "DC6AFFA866D7039F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_02", "hash": "03FF8A5685A818EB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_03", "hash": "04E510FBB5F3B143", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_00", "hash": "558EBD72050E765A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_01", "hash": "5BB987C2600F7CAB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_000", "hash": "7B4D115383E83067", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_001", "hash": "AA9B81AC558EC01A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_002", "hash": "83741E54156434C3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_DUMMY_000_000", "hash": "3605E201301ECBF2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_010", "hash": "FE637368E7873155", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_020", "hash": "5634FF16937018C4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_021", "hash": "6BEF4324D35309A6", "target": "" }
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_00", "hash": "09DBDF3EFA4183C4", "target": "Memezofu znów pilnie potrzebuje składników." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_01", "hash": "DC6AFFA866D7039F", "target": "Memezofu potrzebuje dwóch rogówek ahrimana, by dalej sporządzać lekarstwa. Zabij ahriman, aby zdobyć ten składnik." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_02", "hash": "03FF8A5685A818EB", "target": "Masz już dwie rogówki ahrimana. Dostarcz je Memezofu." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_03", "hash": "04E510FBB5F3B143", "target": "Memezofu zauważa, że odrobina składnika wystarczy do wyleczenia wielu ran, lecz doskonale wie, że lepiej zapobiegać niż leczyć." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_00", "hash": "558EBD72050E765A", "target": "Zabić ahriman i zdobyć ich rogówki" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_01", "hash": "5BB987C2600F7CAB", "target": "Dostarczyć rogówki ahrimana Memezofu" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_000", "hash": "7B4D115383E83067", "target": "Niechętnie proszę o więcej kogoś, kto już tyle zrobił, ale rzadko mam okazję spotkać tak niezawodną osobę zajmującą się poszukiwaniem przygód." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_001", "hash": "AA9B81AC558EC01A", "target": "Na tym przedpolu wciąż wieją wiatry zmian, podsycając płomienie wojny, które coraz szybciej trawią moje zapasy składników." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_002", "hash": "83741E54156434C3", "target": "Teraz szczególnie pilnie potrzebuję rogówek ahrimana i obawiam się, że nie mam kogo innego poprosić. Czy <if(gnum4,mogłaby je pani,mógłby je pan)> dla mnie zdobyć?" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_DUMMY_000_000", "hash": "3605E201301ECBF2", "target": "Zabij dwa ahriman i zdobądź dwie rogówki ahrimana." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_010", "hash": "FE637368E7873155", "target": "Wspaniale! Właśnie o ten składnik prosiłem. Przyznaję, nie wygląda apetycznie, ale proszę wierzyć, że działanie lecznicze wynagradza to z nawiązką." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_020", "hash": "5634FF16937018C4", "target": "Ta mała próbka wystarczy do wytworzenia znacznej ilości środka hamującego krwawienie." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_021", "hash": "6BEF4324D35309A6", "target": "Mogę tylko mieć nadzieję, że rozlew krwi skończy się wcześniej niż zapas maści." }
   ]
 }

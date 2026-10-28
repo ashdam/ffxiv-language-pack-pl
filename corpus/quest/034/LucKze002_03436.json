@@ -2,16 +2,16 @@
   "conversation": "quest/034/LucKze002_03436",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SEQ_00", "hash": "13F4F9B3E5EBF302", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_00", "hash": "6FAA732884C1D602", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_01", "hash": "38B0C1C5949646FC", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_000", "hash": "37DCC3427B573C5B", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_001", "hash": "7CA2FE00963B866B", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_002", "hash": "352FE7B4D5FAC1D1", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_010", "hash": "4A4BB63E25C6A80D", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_011", "hash": "E5D8C1EC5AD0B7A7", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_012", "hash": "EA085BA1B730CBB2", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_013", "hash": "30AD3A123A224B95", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_014", "hash": "80EA40B19001967A", "target": "" }
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SEQ_00", "hash": "13F4F9B3E5EBF302", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Niezgrabny gwardzista nieźle narozrabiał." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_00", "hash": "6FAA732884C1D602", "target": "Pokonać proterosuchus i odzyskać worek gwardzisty" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_01", "hash": "38B0C1C5949646FC", "target": "Dostarczyć worek niezgrabnemu gwardziście" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_000", "hash": "37DCC3427B573C5B", "target": "Och, niech to moje niezdarne nogi! Tym razem naprawdę narozrabiałem! Wracałem z zadania w Wietrzeniu, gdy─da <if(gnum4,pani,pan)> wiarę?─poślizgnąłem się i upadłem. Worek wyleciał mi z ręki wysoko pod niebiosa." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_001", "hash": "7CA2FE00963B866B", "target": "Jakby tego było mało, wielka bestia pojawiła się znikąd, porwała w szczęki moje cenne rzeczy i poniosła je bogowie wiedzą dokąd!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_002", "hash": "352FE7B4D5FAC1D1", "target": "Dość powiedzieć, że jeśli wrócę z pustymi rękami, dowódca pewnie każe mi przez tydzień czyścić latryny! Musi mi <if(gnum4,pani,pan)> pomóc!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_010", "hash": "4A4BB63E25C6A80D", "target": "Witam z powrotem! Jest moje zaopatrzenie? Och, proszę powiedzieć, że tak! Na samą myśl o kolejnym szorowaniu latryny szczoteczką do zębów ciarki chodzą mi po plecach!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_011", "hash": "E5D8C1EC5AD0B7A7", "target": "Czyżby? Tak, to─mój worek! Mój cudowny, cudowny worek! Choć wygląda dość żałośnie, zawartość wydaje się zupełnie nienaruszona!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_012", "hash": "EA085BA1B730CBB2", "target": "Co dokładnie <italic(1)>jest<italic(0)> w środku? Między innymi niezwykłe urządzenie, które powierzył straży sam Kryształowy Egzarcha. Podobno wydobył je z wieży Crystal Tower!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_013", "hash": "30AD3A123A224B95", "target": "Wygląda po prostu jak ładny, okrągły klejnot, ale jakoś potrafi mierzyć stężenie eteru w powietrzu i otaczającej nas materii. To rzecz jasna nie jest coś, co ktokolwiek─nawet rzemieślnicy z Mean─mógłby ot tak sklecić. Gdybym stracił je na dobre..." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_014", "hash": "80EA40B19001967A", "target": "...Ale dzięki <if(gnum4,pani,panu)> nie muszę już o tym myśleć, prawda? Wiem, że to niewiele, ale proszę przyjąć ten dowód wdzięczności. A teraz lepiej wrócę czym prędzej, żeby i tak nie ukarali mnie za spóźnienie. Bezpiecznej drogi!" }
   ]
 }

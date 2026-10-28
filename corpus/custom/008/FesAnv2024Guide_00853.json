@@ -2,13 +2,13 @@
   "conversation": "custom/008/FesAnv2024Guide_00853",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_000", "hash": "438D2ABDC0C029BB", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_Q1_000_001", "hash": "AFEF4E4AAC6075D2", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_A1_000_001", "hash": "33151D7C6CFBA82D", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_A1_000_002", "hash": "6648F20AFE941E76", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_010", "hash": "B6C27F62F3DB4141", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_011", "hash": "2778E8DF113AE700", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_012", "hash": "58507ECFCA729199", "target": "" },
-    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_013", "hash": "0CD8B96B06A163EB", "target": "" }
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_000", "hash": "438D2ABDC0C029BB", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_Q1_000_001", "hash": "AFEF4E4AAC6075D2", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_A1_000_001", "hash": "33151D7C6CFBA82D", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_A1_000_002", "hash": "6648F20AFE941E76", "target": "O nic." },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_010", "hash": "B6C27F62F3DB4141", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_011", "hash": "2778E8DF113AE700", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_012", "hash": "58507ECFCA729199", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/008/FesAnv2024Guide_00853#TEXT_FESANV2024GUIDE_00853_NEWBORNINTERN_000_013", "hash": "0CD8B96B06A163EB", "target": "Gdyby <if(gnum4,pani zastanawiała,pan zastanawiał)> się nad miejscem obchodów, odbywają się one w Limsa Lominsa. Jeśli <if(gnum4,chce pani,chce pan)> w nich uczestniczyć, zapraszamy do talassokracji." }
   ]
 }

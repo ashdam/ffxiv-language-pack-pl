@@ -2,7 +2,7 @@
   "conversation": "quest/038/XxaUsa302_03861",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "Teteroon ma miejsca, gdzie masz iść, i rzeczki, które masz przynieść." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "Teteroon ma miejsca, gdzie masz iść, i rzeczuszki, które masz przynieść." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "Teteroon prosi cię o pomoc w pędzeniu ognistej wody Qiqirn. W tym celu zabij coeurl pup i zdobądź trzy wąsy coeurl pup." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "Zdobywasz potrzebne składniki. Zanieś je z powrotem Teteroonowi." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "Teteroon zabiera się do pędzenia ognistej wody Qiqirn ze składników, które <if(gnum4,dostarczyłaś,dostarczyłeś)>. Ale dobra ognista woda potrzebuje czasu. Porozmawiaj z nim później, by dowiedzieć się, jak wyszedł jego wywar." },

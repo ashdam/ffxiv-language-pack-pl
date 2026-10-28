@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz527_02778",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_SEQ_00", "hash": "15C40AD17812CB15", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_00", "hash": "A5ACC5A84C436EE0", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_01", "hash": "89EE5BDE80A2B9F8", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_000", "hash": "FE07D86362C1906E", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_001", "hash": "773ED90E92FE5D30", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_002", "hash": "41F8994CA23C5F4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_003", "hash": "725865B4C9A94388", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_004", "hash": "965309723BD09054", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_005", "hash": "FD12C00CCBF9D75A", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_010", "hash": "FD6DB6ACB88DA225", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_011", "hash": "D9C7EA8EFDFB1016", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_013", "hash": "174B5124D7BC6CD2", "target": "" }
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_SEQ_00", "hash": "15C40AD17812CB15", "target": "Guyug uważnie obserwuje twoje ruchy." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_00", "hash": "A5ACC5A84C436EE0", "target": "Uzupełnić olej w przygasających lampach Oronir" },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_01", "hash": "89EE5BDE80A2B9F8", "target": "Zdać sprawę Guyugowi" },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_000", "hash": "FE07D86362C1906E", "target": "Ten pewny krok, to bystre spojrzenie... Tak, bez wątpienia poradzisz sobie z zadaniem." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_001", "hash": "773ED90E92FE5D30", "target": "Powiedz, znasz te lampy rozstawione po całym stepie? Razem z towarzyszem dbamy o ich utrzymanie." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_002", "hash": "41F8994CA23C5F4A", "target": "Gdy płomienie przygasają, dolewamy paliwa. Regularnie też patrolujemy okolicę. Światło przyciąga dzikie bestie, a my musimy rozprawiać się ze wszystkim, co wywabi z kryjówek." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_003", "hash": "725865B4C9A94388", "target": "Dziś jednak muszę obejść ten wielki teren sam. Mój towarzysz tak się potłukł podczas jazdy konnej, że nie może się ruszać. Liczyłem, że go zastąpisz." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_004", "hash": "965309723BD09054", "target": "Weź ten olej i dolej go do pięciu lamp, które przygasają. Och, i nie trać czujności! Na stepie roi się od groźnych bestii. Nie chciałbym stracić kolejnej osoby do pomocy." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_005", "hash": "FD12C00CCBF9D75A", "target": "Proszę cię o uzupełnienie oleju w pięciu lampach. Mam nadzieję, że szybko się z tym uporasz." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_010", "hash": "FD6DB6ACB88DA225", "target": "Witaj z powrotem! Dzięki tobie nikt nie musi już obawiać się zgubienia w ciemności." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_011", "hash": "D9C7EA8EFDFB1016", "target": "Gdy zapada noc i Ojciec Azim nie oświetla już ziemi, lampy na dole bezpiecznie prowadzą wędrowców przez step. Dlatego musimy dopilnować, by nigdy nie zgasły." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_013", "hash": "174B5124D7BC6CD2", "target": "Wielką nam dziś oddajesz przysługę. Niech Ojciec Azim zawsze ma cię w opiece." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanKob204_01338",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_00", "hash": "76998534425B0D43", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_01", "hash": "26274E3EABF2315A", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_02", "hash": "5902D48765496B2F", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_03", "hash": "EF32016147F3A1E0", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_00", "hash": "E9A5F6A25E962012", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_01", "hash": "1A6233F51D6A69CE", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_000", "hash": "FE7DDBF5F3273D22", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_001", "hash": "82F4DD2D137BBE93", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_002", "hash": "0CDE8068D6F980E4", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_003", "hash": "05C843B94E7A9B22", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_030", "hash": "529651D536E1492A", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_031", "hash": "0FC0F7A4B7E22337", "target": "" }
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_00", "hash": "76998534425B0D43", "target": "Podobno w życiu rzemieślnika niszczy się tyle samo, co tworzy. Bo Gu z pewnością sumiennie wypełnia jeden z tych obowiązków." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_01", "hash": "26274E3EABF2315A", "target": "13th Order Fugleman Zo Ga wciąż drażni Bo Gu swoją przezornością i przenikliwością. Rzemieślnik każe ci więc zniszczyć jego bomb incubator. Roztropność przywódcy przeszkadza ci znacznie mniej niż jego skłonność do brutalnego uciskania wszystkich podwładnych, ale po co się spierać? Zniszcz dwie maszyny i miej to z głowy." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_02", "hash": "5902D48765496B2F", "target": "Bomb incubator nie dadzą już znaku życia, a to dzięki tobie. Zdaj Bo Gu raport o zniszczeniach na Wyrobisku 789. Oddziału." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_03", "hash": "EF32016147F3A1E0", "target": "Bo Gu z radością przyjmuje wieści o powodzeniu misji. Nieco niepokoi cię jednak, z jaką pogodą ducha snuje domysły o losie, jaki Zo Ga zgotowałby ci w razie pojmania. Wiedz, że i to jest ceną wybranego przez ciebie życia pełnego przygód." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_00", "hash": "E9A5F6A25E962012", "target": "Zniszczyć bomb incubator nad Żelaznym Jeziorem" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_01", "hash": "1A6233F51D6A69CE", "target": "Zdać raport 789th Order Craftsman Bo Gu" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_000", "hash": "FE7DDBF5F3273D22", "target": "Ten Zo Ga znów swoje, ciągle coś ulepsza ten Zo Ga. Na jego wyrobisku zaczną używać dwóch nowych bomb incubator, tak, tak, nowych─najnowszych, błyszczących, nowych." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_001", "hash": "82F4DD2D137BBE93", "target": "Taki inkubator to taaaka wygoda, żelazna gęś znosząca bombę za bombą, tak, tak. Zo Ga ma całą chwałę, Zo Ga ma wszystkie lochy z długimi kciukami, ale czy Zo Ga będzie miał wszystkie bomby? Nie, nie!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_002", "hash": "0CDE8068D6F980E4", "target": "Piece są nad Żelaznym Jeziorem, ale niedługo! <if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód je zniszczy─rozbije, zrujnuje, zniszczy! Precz z Zo Gą, precz z postępem, tak, tak!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_003", "hash": "05C843B94E7A9B22", "target": "<if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód zniszczy inkubatory, pójdzie nad Żelazne Jezioro zadusić żelazne gęsi, tak, tak!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_030", "hash": "529651D536E1492A", "target": "Zo Ga musi być zaskoczony i wściekły─rozwścieczony, kipiący, wściekły! Jakąż zgubę sprowadziłby Zo Ga na <if(gnum4,poszukiwaczkę,poszukiwacza)> przygód, gdyby <if(gnum4,ją,go)> schwytał─okaleczenie, nałożnictwo, zgubę!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_031", "hash": "0FC0F7A4B7E22337", "target": "Jeszcze nie raz zaskoczymy Zo Gę, tak, tak! <if(gnum4,Poszukiwaczka przygód jest przebiegła─zwinna\\, chytra\\, przebiegła,Poszukiwacz przygód jest przebiegły─zwinny\\, chytry\\, przebiegły)>. Wkrótce Zo Ga nie będzie miał nic, niczego nie będzie miał!" }
   ]
 }

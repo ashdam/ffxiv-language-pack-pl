@@ -2,15 +2,15 @@
   "conversation": "custom/006/FesAnv2020_00684",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_000", "hash": "8F5EBD5ED07F1309", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_Q1_000_001", "hash": "8187972B38B2D7DC", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_001", "hash": "AE4BD4DBCC98AB1E", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_002", "hash": "7D8E3A7330C6E24B", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_003", "hash": "86CE24F0A246D6E6", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_010", "hash": "CF003E5D7E91D562", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_011", "hash": "42764543B0FD0D44", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_012", "hash": "49E5EC9EBCA38A30", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_020", "hash": "AC368109E9DDBFE6", "target": "" },
-    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_021", "hash": "7B64C7EBC96D18FB", "target": "" }
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_000", "hash": "8F5EBD5ED07F1309", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_Q1_000_001", "hash": "8187972B38B2D7DC", "target": "O co zapytasz?" },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_001", "hash": "AE4BD4DBCC98AB1E", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_002", "hash": "7D8E3A7330C6E24B", "target": "Co wiadomo o wystawie witrażu?" },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_A1_000_003", "hash": "86CE24F0A246D6E6", "target": "O nic." },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_010", "hash": "CF003E5D7E91D562", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_011", "hash": "42764543B0FD0D44", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_012", "hash": "49E5EC9EBCA38A30", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_020", "hash": "AC368109E9DDBFE6", "target": "W ramach obchodów zlecono utalentowanej osobie odtworzenie jednej z najważniejszych chwil w dziejach Ul'dah w postaci kunsztownego witrażu." },
+    { "gameKey": "custom/006/FesAnv2020_00684#TEXT_FESANV2020_00684_NEWBORNINTERN_000_021", "hash": "7B64C7EBC96D18FB", "target": "Jak mówi przysłowie, obraz wart jest tysiąca słów, choć w tym przypadku nawet tyle ledwie wystarczyłoby do opisania jego wspaniałości. To prawdziwe arcydzieło, które trzeba zobaczyć, by uwierzyć." }
   ]
 }

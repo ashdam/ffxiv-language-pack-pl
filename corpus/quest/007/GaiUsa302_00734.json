@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa302_00734",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_00", "hash": "746063CB7E7311C4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_01", "hash": "7C68AE03C4244426", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_02", "hash": "32FDF53AB872CCCA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_03", "hash": "A9F5ECA34FB39F05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_00", "hash": "AFFC96A85F77A95B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_01", "hash": "69734B6F326D19FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_02", "hash": "465D9954296F1E9E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_000", "hash": "674D442C809154C6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_001", "hash": "854B358786E5F203", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_002", "hash": "F7AEB907D6C1E94F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_020", "hash": "236B0BAA7CDF4D29", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_021", "hash": "959E675EC30011AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_022", "hash": "C9377426C7167AC6", "target": "" }
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_00", "hash": "746063CB7E7311C4", "target": "Teteroon ma dla ciebie miejsca do odwiedzenia i rzeczuszki do zdobycia." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_01", "hash": "7C68AE03C4244426", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Teteroonem w Faktorii Memeroona.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_02", "hash": "32FDF53AB872CCCA", "target": "Zdobywasz wymagane składniki. Zanieś je Teteroonowi." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_03", "hash": "A9F5ECA34FB39F05", "target": "Teteroon zabiera się do pędzenia ognistej wody Qiqirn ze składników, które <if(gnum4,dostarczyłaś,dostarczyłeś)>. Ale dobra ognista woda potrzebuje czasu. Porozmawiaj z nim później, by dowiedzieć się, jak wyszedł jego wywar." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_00", "hash": "AFFC96A85F77A95B", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Teteroonem w Faktorii Memeroona<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_01", "hash": "69734B6F326D19FB", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Teteroonem w Faktorii Memeroona<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_02", "hash": "465D9954296F1E9E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Teteroonem w Faktorii Memeroona<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_000", "hash": "674D442C809154C6", "target": "Dobry Buscaroon pomagać Teteroonowi. Teteroon martwy bez dobrego Buscaroona. Trzeba dać dziękunie. Dużo, dużo dziękuni. Teteroon robić ognista woda Qiqirn dla Buscaroona! Buscaroon kochać ognista woda!" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_001", "hash": "854B358786E5F203", "target": "Ty pomagać Teteroonowi robić ognista woda? Trzeba rzeczuszki do robienia. Trzeba dużo, dużo rzeczuszek." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_002", "hash": "F7AEB907D6C1E94F", "target": "Trzeba dobra woda. Dobra woda z Wodospadów Głupców. I trzeba wąsy coeurlów. Trzeba pięć dobrych wąsów coeurlów." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_020", "hash": "236B0BAA7CDF4D29", "target": "Teteroon robić ognista woda dla Buscaroona. Ty przynieść rzeczuszki, co Teteroon trzeba?" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_021", "hash": "959E675EC30011AA", "target": "Ty przynieść wszystkie rzeczuszki! Teteroon teraz robić ognista woda. Robić dobra ognista woda dla dobrego Buscaroona." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_022", "hash": "C9377426C7167AC6", "target": "Teteroon teraz zaczynać robić ognista woda. Dobra ognista woda potrzebować czasu. Więcej czasu, więcej dobra. Ty wracać później." }
   ]
 }

@@ -2,12 +2,12 @@
   "conversation": "custom/006/RegNor4Lamon_00630",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_000", "hash": "8BBF5C092FC57554", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_010", "hash": "3C3D152A20DF925A", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_020", "hash": "8CC8EBA53057E200", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_030", "hash": "7BEBFB746BA4D0A9", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_040", "hash": "146AEECBC90C364E", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_050", "hash": "D5088A30D0B0DC31", "target": "" },
-    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_060", "hash": "C1FA98954B684017", "target": "" }
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_000", "hash": "8BBF5C092FC57554", "target": "Mamy tu pacjentów, którzy nie potrafią sami jeść, więc muszę o tym pamiętać przy gotowaniu. To niełatwa praca, ale daje też satysfakcję." },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_010", "hash": "3C3D152A20DF925A", "target": "Czemu tak na mnie patrzysz? Z jedzeniem wszystko w porządku, przysięgam!" },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_020", "hash": "8CC8EBA53057E200", "target": "Ahaha... hahaha... Tesleen, porwana? Na przeklęte Światło, chyba żartujesz? Hahaha..." },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_030", "hash": "7BEBFB746BA4D0A9", "target": "Tesleen może już nie być, ale jej część pracy nadal trzeba wykonać. Na pewno nie chciałaby, żebyśmy obniżali poziom." },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_040", "hash": "146AEECBC90C364E", "target": "Szkoda, że nie ma tu Tesleen, by zobaczyć gwiazdy w całej ich okazałości..." },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_050", "hash": "D5088A30D0B0DC31", "target": "Choć świat przechodzi najróżniejsze wstrząsy, ja wciąż mam pracę do wykonania." },
+    { "gameKey": "custom/006/RegNor4Lamon_00630#TEXT_REGNOR4LAMON_00630_LAMON_000_060", "hash": "C1FA98954B684017", "target": "Nie chcę okazywać niewdzięczności, ale w nocnych ciemnościach naprawdę trudno dostrzec, co robię. Już nieraz zdarzyło mi się przypalić gulasz." }
   ]
 }

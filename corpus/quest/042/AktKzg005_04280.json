@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzg005_04280",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_003", "hash": "E830BCD3DB30CBD4", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_004", "hash": "0F8185914BD28FE6", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SYSTEM_000_010", "hash": "C791D139367E4A27", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_020", "hash": "39CED3335D5E88BD", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_021", "hash": "25242C567A2E1630", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_022", "hash": "C75410B937155B1C", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_023", "hash": "8CA8E3CDED9802B3", "target": "" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_024", "hash": "D65833C94FF73247", "target": "" }
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Sumienny obserwator rozgląda się na wszystkie strony, jakby czegoś szukał." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "Schwytać młode agavoides za pomocą eterycznej liny" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "Dostarczyć młode agavoides sumiennemu obserwatorowi" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "Ech, gdzie też mogła się podziać reszta...?" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "Ach, przyjazny chowańcu! Jeśli masz chwilę, potrzebuję pomocy w wyłapaniu naszych młodych agavoides." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "Sześć wciąż się nie znalazło. Będę bardzo wdzięczny, jeśli poszukasz ich ze mną." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_003", "hash": "E830BCD3DB30CBD4", "target": "Te stworzenia wydzielają z ogonów nektar, który przyciąga owady. Tam, gdzie się roją, zapewne znajdziesz agavoides. Gdy tak się stanie, schwytaj je tą eteryczną liną." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_004", "hash": "0F8185914BD28FE6", "target": "Są małe, więc chyba nie oddaliły się za bardzo. Spróbujmy znaleźć po trzy i znów spotkać się tutaj." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SYSTEM_000_010", "hash": "C791D139367E4A27", "target": "Młode agavoides leży bez ruchu─najwyraźniej próbuje zwabić motyle." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_020", "hash": "39CED3335D5E88BD", "target": "Ach, ty też wracasz. Udało mi się znaleźć trzy. A tobie?" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_021", "hash": "25242C567A2E1630", "target": "Wspaniale, mamy wszystkie! Możemy wreszcie wypuścić te stworzenia." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_022", "hash": "C75410B937155B1C", "target": "Gdyby cię to ciekawiło, agavoides stworzono, by ograniczały populację owadów. Przeszły pierwszy etap oceny, więc zostaną próbnie wypuszczone w szeroki świat." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_023", "hash": "8CA8E3CDED9802B3", "target": "Choć jeszcze kilka kroków dzieli je od pełnego zadomowienia się w przyrodzie, nie wątpię, że uczynią naszą gwiazdę lepszym miejscem." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_024", "hash": "D65833C94FF73247", "target": "To niewiele, ale proszę, przyjmij to w podziękowaniu za pomoc." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGyr101_05003",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "" }
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "Przepraszam, <if(gnum4,proszę pani,proszę pana)>, czy jest <if(gnum4,pani rzemieślniczką,pan rzemieślnikiem)>? Ma <if(gnum4,pani,pan)> dłonie kogoś o długiej, bogatej karierze─proszę wspomóc nimi zacnych mieszkańców Turalu." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "Przyjmujemy tu prośby o pomoc w imieniu Skrzydła Refleksji. Niezależnie od tego, czy zwracają się do nas zwykli mieszkańcy, czy rzemieślnicy, wykorzystujemy wszelkie dostępne narzędzia fachu, by zaspokoić potrzeby Turalu." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "Od chwili założenia Tuliyollal zgromadziło wiele plemion, a handel z każdym rokiem kwitł. Jednak, jak można się spodziewać po tak różnorodnych ludach, zwyczaje handlowe bardzo różniły się między plemionami." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "Choć w handlu wciąż istnieją trudności do przezwyciężenia, wiele problemów rozwiązało ustanowienie przez Sługę Świtu systemu zleceń Skrzydeł." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "Pośredniczymy między potrzebującymi pomocy a rzemieślnikami o odpowiednich umiejętnościach, przekazując te prośby w formie zleceń levequest." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "Czy zna <if(gnum4,pani,pan)> zlecenia levequest? Skoro przybywa <if(gnum4,pani,pan)> zza morza, chyba tak." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "Głowa Rozumu przejęła ten system od zleceń levequest gildii stosowanych w Eorzei." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "Używane tabliczki zleceń ukazują podróż Sługi Świtu, podczas której budował ten kraj, oraz nauki zaczerpnięte po drodze od towarzyszy. Przypominają, że tylko razem możemy zapewnić rozkwit Tuliyollal." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "Oczywiście ta solidarność obejmuje też sojuszników zza morza, takich jak <if(gnum4,pani,pan)>. Będziemy zatem zaszczyceni <if(gnum4,pani,pana)> pomocą." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "Możesz teraz podejmować zlecenia Skrzydeł, rozmawiając z osobą o imieniu Malihali." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "Jak my zdołamy spełnić te wszystkie prośby? \\<wzdycha> Potrzebujemy kogoś doświadczonego w rzemiośle." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 90. lub wyższym." }
   ]
 }

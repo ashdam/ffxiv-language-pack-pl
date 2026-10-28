@@ -1,0 +1,12 @@
+{
+  "sheet": "ManeuversArmor",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "ManeuversArmor#0.10", "hash": "2110A32C3B4CA095", "target": "Cruise Chaser" },
+    { "gameKey": "ManeuversArmor#0.11", "hash": "01FAD4D00E7D3A82", "target": "Machina nowej generacji wyposażona w silnik antygrawitacyjny. Sunąc do boju, miażdży grube pancerze za pomocą Spin Crusher, a Laser Sword i Hawk Blaster błyskawicznie rozprawiają się z piechotą. Poświęca obronę na rzecz mobilności, a dla ułatwienia produkcji usunięto z niej mechanizm transformacji." },
+    { "gameKey": "ManeuversArmor#1.10", "hash": "6B9CD43FCCAE8C00", "target": "Oppressor" },
+    { "gameKey": "ManeuversArmor#1.11", "hash": "2004D4B22B0B53E1", "target": "Potężna machina zaprojektowana do działań oblężniczych, doskonale sprawdzająca się w niszczeniu budowli. Armia takich maszyn z przerażającą łatwością burzy wieże i rdzenie, lecz ciężki pancerz czyni je powolnymi i nieporęcznymi. Z trudem radzą sobie z piechotą i innymi machinami." },
+    { "gameKey": "ManeuversArmor#2.10", "hash": "2C9A4BEA01BBEBFC", "target": "Brute Justice" },
+    { "gameKey": "ManeuversArmor#2.11", "hash": "7A26003DAC200624", "target": "Dzięki niezrównanej mocy Brute Justice króluje na polu bitwy za sprawą akcji Flarethrower i Mega Beam, a przy użyciu Double Rocket Punch obraca budowle w ruinę. Aby ograniczyć koszty produkcji, ten model nie potrafi się łączyć ani rozdzielać. Takie są realia produkcji masowej." }
+  ]
+}

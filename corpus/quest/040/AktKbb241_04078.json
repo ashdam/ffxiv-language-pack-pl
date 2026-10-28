@@ -87,6 +87,6 @@
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_081", "hash": "47FE522439691D78", "target": "Od gadania mogę zrobić się sentymentalna. Albo gorzej, rozkleić się." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_082", "hash": "6977144B2B393DD7", "target": "Zostawmy to więc, co? Gdy ciężar świata na barkach cię zmęczy, wiedz, że nasze drzwi zawsze będą otwarte." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_083", "hash": "D14B17AFB5CB9BC5", "target": "A jeśli trzeba ucha do wysłuchania, ramienia do płaczu albo mocnej butelki, by w niej utonąć, jestem tutaj, <if(gnum4,siostro,bracie)>!" },
-    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Over the Wall”." }
+    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Za mur”." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa604_00766",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "" }
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "Balan z Leśnych Płaczków w Quarrymill szuka poszukiwacza przygód, który pomoże mu wyrównać rachunki z kłusownikami." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "Sidła zastawiane przez kłusowników w okolicznych lasach zagrażają miejscowym zwierzętom i niczego niepodejrzewającym podróżnym. Rozbrój żelazne wnyki i rozpraw się z napotkanymi kłusownikami." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "Zarówno sidła, jak i kłusownicy zostali unieszkodliwieni. Poinformuj Balana o swoich czynach." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "Ostatnio pułapki kłusowników są coraz liczniejsze i bardziej zabójcze. Balan jest przekonany, że odpowiada za to przywódca bandy, samozwańczy król Coeurlclaw." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "Rozbroić żelazne wnyki" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "Zdać relację Balanowi" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "Witaj, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Może już wiesz, że te lasy padły ofiarą bandy kłusowników. Usiali ziemię zdradzieckimi sidłami, nie dbając o niewinne ofiary─małe zwierzęta i podróżnych─które wpadają w ich okrutne szczęki." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "Nie wolno mi opuścić posterunku, ale może przeszukasz okolicę i unieszkodliwisz napotkane stalowe paszcze? Uważaj─sami kłusownicy mogą czaić się w zasadzce, czekając na zdobycz." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "Dobra robota. Ale dopóki dowodzi nimi samozwańczy „król Coeurlclaw”, kłusownicy raczej łatwo się nie poddadzą. Musimy być czujniejsi niż kiedykolwiek." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "Z cieni wyskakuje skradająca się postać!" }
   ]
 }

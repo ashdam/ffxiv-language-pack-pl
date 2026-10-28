@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc101_05071",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "" }
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Prestapik ma mokrooczy z powodu swoich roztrzaskanych garnków." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "Zebrać glinę do wyrobu dobrych garnków" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "Zebrać skaleń topnikowy" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "Dostarczyć glinę do wyrobu dobrych garnków i skaleń topnikowy Prestapikowi" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "Pfff... Pfffkooo... Biada Prestapikowi... Kto pomoże biednemu Prestapikowi?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "Osoba z nizin może pomóc biednemu Prestapikowi! Osoba z nizin <italic(1)>musi<italic(0)> pomóc biednemu Prestapikowi!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "Uszoużycz mi, osobo z nizin. Prestapik ma jedną z najpiękniejszych kolekcji ceramiki w całym Earthenshire... ale przychodzi burza i wszystkie cenne garnki idą w tłuczoskorupy!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "Trzeba majstrowytworzyć nowe garnki, ale Prestapik ma tyle skorupozamiatania, że nie może wrócić do wykopalisk po wykoprzeczy." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "Czy osoba z nizin zbierze wykoprzeczy dla Prestapika? Potrzeba gliny do wyrobu dobrych garnków i skalenia topnikowego. Już wykopobyte i transportoworkowane─prosi tylko o przyniesienie z jaskini przy modłomiejscu Yok Huy!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "Prestapik właśnie skończył kopać świeżą garnkopaszę, gdy nadeszła burza. Szybkonóżkuje do wioski, ale za późno! Domogarnki już zamienione w skorupomorze... Proszę, osobo z nizin! Idź do jaskini za modłomiejscem Yok Huy i przynieś cenne wykoprzeczy Prestapika!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "Pfffkooo...? Są już wykoprzeczy Prestapika?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "Wielkopodzięki, osobo z nizin! Prestapik zaraz majstrowytworzy nowe garnki!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "Każdy Mobek potrzebuje garnków i to mnóstwa. Gdzie indziej trzymalibyśmy własnorzeczy?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "Dlatego każdy Mobek tutaj jest garnkorobem! Nie trzeba prosić majstrorąk, gdy wystarczą Mobkoręce! Ale czas wargogadek minął─nastał czas garnkorobienia!" }
   ]
 }

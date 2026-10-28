@@ -47,6 +47,6 @@
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_TLAQATIA_100_046", "hash": "575D8D02C9B28014", "target": "Wspaniale! Przysięgam, jeszcze nigdy nie podchodziłem do badań z takim zapałem! No dobrze, od czego zacząć...?" },
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_047", "hash": "8D965E45366282EB", "target": "T'laqa Tia jest zachwycony twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Wyborną wędkarkę,Wybornego wędkarza)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_048", "hash": "A18DEFBF6DC004AC", "target": "Kolejna misja u T'laqi Tii będzie dostępna po osiągnięciu 85. poz. w klasie Fisher." },
-    { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_100", "hash": "5B5ED6015C3DC4F1", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „The Martyr”." }
+    { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_100", "hash": "5B5ED6015C3DC4F1", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „Męczennik”." }
   ]
 }

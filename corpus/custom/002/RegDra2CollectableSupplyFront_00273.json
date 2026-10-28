@@ -2,13 +2,13 @@
   "conversation": "custom/002/RegDra2CollectableSupplyFront_00273",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_Q1", "hash": "BC2621EC273F8097", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A1", "hash": "16F5073E5C8BD208", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A2", "hash": "9A4253D7988DA857", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A3", "hash": "C2856A50DCB98CA2", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_000", "hash": "0E04A09A7348ECC8", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_001", "hash": "30BDFE47355D9B71", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_005", "hash": "D2256CE65A232CF1", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_006", "hash": "D5231D110FDEC647", "target": "" }
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_Q1", "hash": "BC2621EC273F8097", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A1", "hash": "16F5073E5C8BD208", "target": "Czym są rarytasy?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A2", "hash": "9A4253D7988DA857", "target": "Jak zdobyć żetony?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A3", "hash": "C2856A50DCB98CA2", "target": "Nic." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_000", "hash": "0E04A09A7348ECC8", "target": "„Rarytasami” nazywamy narzędzia, ekwipunek i inne wysokiej jakości przedmioty, którymi zachęcamy naszych dostawców do współpracy." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_001", "hash": "30BDFE47355D9B71", "target": "Do ich zakupu potrzebne są żetony─przepraszam, <italic(1)>Rowena's<italic(0)> tokens─innych form płatności nie przyjmujemy." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_005", "hash": "D2256CE65A232CF1", "target": "Potrzebne żetony wydajemy w zamian za bony. Na życzenie nasi tutejsi przedstawiciele mogą od razu pomóc." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_006", "hash": "D5231D110FDEC647", "target": "Oczywiście jeśli zabraknie bonów, trzeba będzie przynieść nam więcej przedmiotów kolekcjonerskich..." }
   ]
 }

@@ -13,7 +13,7 @@
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_TODO_01", "hash": "3C7D4ECE9D477FFD", "target": "Porozmawiaj z Sulą." },
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_TODO_02", "hash": "4FD055205C9EF167", "target": "Porozmawiaj z Yezahnem w Palaka's Stand." },
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_TODO_03", "hash": "4B0A7CE23FFEAF39", "target": "Porozmawiaj z Pasareen." },
-    { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_TODO_04", "hash": "0FC0767363FBC402", "target": "Porozmawiaj z Yezahnem." },
+    { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_TODO_04", "hash": "0FC0767363FBC402", "target": "Porozmawiać z Yezahnem" },
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_SULA_000_000", "hash": "2CD3679721B9FC1C", "target": "Musi być coś jeszcze, co mogę dla niej zrobić..." },
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_YEZAHN_000_001", "hash": "1E57018F32425F49", "target": "Widać, że Pasareen nie jest jeszcze gotowa wybaczyć sobie, ale nie wiem, co robić. Zostawić ją w spokoju? A może możemy jakoś pomóc?" },
     { "gameKey": "quest/044/AktKzf104_04496#TEXT_AKTKZF104_04496_SULA_000_002", "hash": "FDCE7A5FF3676402", "target": "Ja nie będę stała bezczynnie, gdy ona cierpi samotnie. Może gdyby miała coś przypominającego jej ukochanego, łatwiej pogodziłaby się ze stratą. Nigdy nie zdołała się pożegnać." },

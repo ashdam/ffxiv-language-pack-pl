@@ -2,15 +2,15 @@
   "conversation": "quest/003/SubWil028_00389",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_00", "hash": "962197F7E66B6F95", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_01", "hash": "AC7969A2302D5DC4", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_02", "hash": "59265ACA17CD7E6D", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_TODO_00", "hash": "15D26BDCC800016B", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_1", "hash": "8154AAB2D64624E0", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_2", "hash": "E778F9DCB8DEF1CE", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_3", "hash": "D2178A7F12D22FF1", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_20", "hash": "BA4B7D8FC29929C2", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_21", "hash": "8EE6532E162EBCDD", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_22", "hash": "92E01AA40EF1686C", "target": "" }
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_00", "hash": "962197F7E66B6F95", "target": "Kekezani zaniedbuje obowiązki i przydałoby mu się przebudzenie." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_01", "hash": "AC7969A2302D5DC4", "target": "Wyczerpany nocnymi hulankami Kekezani znów zaspał. Zamiast spóźnić się do pracy, postanawia dalej spać. Najpierw jednak prosi cię o dostarczenie rozkładu jazdy Giginasu na Bocznicę Ul'dah poza murami miasta." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_02", "hash": "59265ACA17CD7E6D", "target": "Zdezorientowany i wściekły Giginasu z ulgą przyjmuje rozkład jazdy. Najwyraźniej nieróbstwo Kekezani nie jest niczym nowym─podobnie jak pogarda, którą żywi do niego Giginasu." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_TODO_00", "hash": "15D26BDCC800016B", "target": "Dostarczyć rozkład jazdy Giginasu na Bocznicy Ul'dah" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_1", "hash": "8154AAB2D64624E0", "target": "Mmm... jasne, kochanie. Możesz się przejechać..." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_2", "hash": "E778F9DCB8DEF1CE", "target": "...Hę? Gdzie ja jestem? Kim jesteś? I co ważniejsze, gdzie ona poszła?<br>...A niech to... moja zmiana już się zaczęła?" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_3", "hash": "D2178A7F12D22FF1", "target": "Do diabła z tym. I tak padam z nóg. Zaniesiesz to Giginasu na stację za miastem? Pewnie coś ci odpali za fatygę." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_20", "hash": "BA4B7D8FC29929C2", "target": "Czy ktoś widział Kekezani od wczorajszego wieczora? Ktokolwiek!?" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_21", "hash": "8EE6532E162EBCDD", "target": "Hej, skąd masz ten rozkład jazdy? Wszędzie go szukam!" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_22", "hash": "92E01AA40EF1686C", "target": "Mówisz, że od Kekezani? Bezużyteczny pijaczyna! Pewnie znów całą noc uganiał się za spódniczkami! Dosyć─jeszcze raz opuści zmianę, a przywiążę go do torów!" }
   ]
 }

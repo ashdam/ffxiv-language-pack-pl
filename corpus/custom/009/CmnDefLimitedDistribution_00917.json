@@ -2,10 +2,10 @@
   "conversation": "custom/009/CmnDefLimitedDistribution_00917",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_000", "hash": "FD5B62BE46986963", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_001", "hash": "38546D4C2FEDD5A0", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_002", "hash": "D79CE77C378AC14D", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_SYSTEM_000_005", "hash": "F0282D4DC08CE0C8", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_010", "hash": "CB4FDFC052AF2474", "target": "" }
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_000", "hash": "FD5B62BE46986963", "target": "C-co to? Widzisz mnie!? Niesamowite, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_001", "hash": "38546D4C2FEDD5A0", "target": "Nasze spotkanie z pewnością nie jest przypadkiem. Aby uczcić tę zrządzeniem losu wyznaczoną chwilę, podaruję ci magiczny eliksir. Nazywa się „Fantasia”, a według legend pozwala zmienić wygląd. Oby dobrze ci służył, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_002", "hash": "D79CE77C378AC14D", "target": "No proszę, znów się spotykamy, i to właśnie gdy trafiła do mnie kolejna fiolka Fantasia od minstrela z grona moich znajomych! Najwyraźniej los chce, by była twoja, więc bierz ją ze sobą, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_SYSTEM_000_005", "hash": "F0282D4DC08CE0C8", "target": "Ekwipunek jest pełny. Zrób w nim miejsce i porozmawiaj ponownie z postacią „wędrowny moogle”, aby odebrać nagrodę." },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_010", "hash": "CB4FDFC052AF2474", "target": "Czy Fantasia już poszła w ruch? Jej smak podobno bywa trochę... wymagający, ale to niewielka cena za zupełnie nowe oblicze! Do dna, kupo!" }
   ]
 }

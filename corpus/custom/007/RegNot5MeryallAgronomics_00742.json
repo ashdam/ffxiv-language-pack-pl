@@ -2,19 +2,19 @@
   "conversation": "custom/007/RegNot5MeryallAgronomics_00742",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_000", "hash": "05BDE7F19562E459", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_001", "hash": "20AC9F4F512CA39D", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_002", "hash": "6CD9E1045193AA7F", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_003", "hash": "73AD67412B20F0E7", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_Q1_000_000", "hash": "44395190350067E5", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_001", "hash": "6E5851D78AD3F835", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_002", "hash": "4B47D4DE480A2C32", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_003", "hash": "F0CA33E24C8AC34C", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_010", "hash": "2BB40F645F2F08FD", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_011", "hash": "FF346851A7384218", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_020", "hash": "378355C618342078", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_021", "hash": "0D51200D1ECC89BE", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_022", "hash": "D9C6B2019317F303", "target": "" },
-    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_023", "hash": "8806AEDC001FD66F", "target": "" }
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_000", "hash": "05BDE7F19562E459", "target": "Och, nieczęsto spotyka się tu kogoś, kto tak wyraźnie... nie pasuje do tego miejsca. Mogę <if(gnum4,pani,panu)> w czymś pomóc?" },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_001", "hash": "20AC9F4F512CA39D", "target": "Forum nakazało nam opuścić to miejsce. Jak <if(gnum4,pani,pan)> sobie wyobraża, to nie pora, bym odpowiadała na próżne pytania. Ale jeśli <if(gnum4,pani,pan)> nalega..." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_002", "hash": "6CD9E1045193AA7F", "target": "Oczywiście słyszałam historię o <if(gnum4,pani,pana)> śmiałym planie i sukcesie, który zdawał się niemożliwy. Dzięki <if(gnum4,pani,panu)> nie musimy uciekać z domów. Proszę pytać o wszystko!" },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_003", "hash": "73AD67412B20F0E7", "target": "O rety, cóż za zaszczyt oglądać <if(gnum4,wybawicielkę,wybawiciela)> naszego świata! Jeśli potrzebuje <if(gnum4,pani,pan)> czegokolwiek, absolutnie czegokolwiek, wystarczy zapytać, a zrobię wszystko, co w mojej mocy, by to zapewnić." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_Q1_000_000", "hash": "44395190350067E5", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_001", "hash": "6E5851D78AD3F835", "target": "Proszę opowiedzieć o sobie." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_002", "hash": "4B47D4DE480A2C32", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_003", "hash": "F0CA33E24C8AC34C", "target": "Nic." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_010", "hash": "2BB40F645F2F08FD", "target": "Przynajmniej na razie jestem drugą najważniejszą osobą w tym ośrodku. Może <if(gnum4,pani,pan)> myśli, że uchylam się od obowiązków, ale nawet w tej chwili obmyślam, jak udoskonalić nasze metody." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_011", "hash": "FF346851A7384218", "target": "Patrzenie na ten młyn wodny uspokaja moje serce i oczyszcza umysł ze zbędnych myśli, zostawiając miejsce tylko na genialne pomysły. Mimo to natchnienie wymaga czasu, a dziś chyba przychodzi wolniej niż zwykle." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_020", "hash": "378355C618342078", "target": "Agronomia Meryall to miejsce, gdzie najznakomitsze umysły rolnicze spotykają się, by badać okazy roślin z całego świata i metody ich uprawy." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_021", "hash": "0D51200D1ECC89BE", "target": "Uprawiane tutaj rośliny służą też do wyżywienia osób pracujących w kompleksie Labyrinthos. Prosto z naszych pól na ich stoły─świeższe być nie mogą." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_022", "hash": "D9C6B2019317F303", "target": "Oczywiście taki jest nasz <italic(1)>jawny<italic(0)> cel. Głównym zadaniem─choć ukrytym przed większością─jest ustalenie, jakie rośliny nadają się do uprawy na księżycu. Miało to przygotować nas na przepowiedziany wielki eksodus." },
+    { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_023", "hash": "8806AEDC001FD66F", "target": "Teraz oczywiście wiemy, że możemy bezpiecznie zostać. Jednak zmiany pogody wciąż przysparzają nam problemów, a głód raz po raz podnosi swój paskudny łeb. Będziemy prowadzić badania, dopóki te kryzysy nie dadzą nam spokoju." }
   ]
 }

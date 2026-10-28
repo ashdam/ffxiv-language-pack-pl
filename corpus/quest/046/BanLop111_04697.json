@@ -2,18 +2,18 @@
   "conversation": "quest/046/BanLop111_04697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SEQ_00", "hash": "FBF51AB62A62827A", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_00", "hash": "137F2A6C2632AD16", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_01", "hash": "1B5B73E2D3E46236", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_000", "hash": "D1805DE5DDFFFB46", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_001", "hash": "031CC6E355FB2C77", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_002", "hash": "975AEE5C233644B4", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_003", "hash": "654727F28739B4C5", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SYSTEM_000_010", "hash": "63761D26DE3C6128", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_020", "hash": "420B1AAD14A207B4", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_021", "hash": "563F4EF94A166E78", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_022", "hash": "EA61400B713361DD", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_100_022", "hash": "F405210FDD51C167", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_023", "hash": "9AD4D2555036DBA6", "target": "" }
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SEQ_00", "hash": "FBF51AB62A62827A", "target": "Managingway potrzebuje kogoś do odzyskania maszyny, która zbiegła.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_00", "hash": "137F2A6C2632AD16", "target": "Odszukać prototypową jednostkę wsparcia w pobliżu Ostatniego Widoku Heimdalla" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_01", "hash": "1B5B73E2D3E46236", "target": "Dostarczyć prototypową jednostkę wsparcia postaci Managingway" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_000", "hash": "D1805DE5DDFFFB46", "target": "Nadeszło pilne wezwanie od Inventingwaya! Jeden z opracowywanych przez niego asystentów nagle uciekł." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_001", "hash": "031CC6E355FB2C77", "target": "Nadeszło pilne wezwanie od Inventingwaya! Kolejny z jego asystentów nagle uciekł." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_002", "hash": "975AEE5C233644B4", "target": "Śledziliśmy maszynę aż do Ostatniego Widoku Heimdalla, gdzie grasują zabójcze allagańskie machiny." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_003", "hash": "654727F28739B4C5", "target": "Choć nie lubię zlecać niebezpiecznych zadań, potrzebujemy pomocy w odnalezieniu i odzyskaniu asystenta. Proszę się pospieszyć... i uważać na siebie!" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SYSTEM_000_010", "hash": "63761D26DE3C6128", "target": "Asystent przestał działać. Managingway z pewnością nie może się doczekać jego odzyskania." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_020", "hash": "420B1AAD14A207B4", "target": "Ach, witam ponownie. Całe szczęście, że bez uszczerbku na zdrowiu. Mam nadzieję, że udało się odzyskać naszego zbiegłego asystenta?" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_021", "hash": "563F4EF94A166E78", "target": "Jesteśmy niezmiernie wdzięczni! Gdyby zastanawiało <if(gnum4,panią,pana)> jego przeznaczenie, zaprojektowano go jako towarzysza zabaw." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_022", "hash": "EA61400B713361DD", "target": "Wygląda na to, że uciekając, błędnie uznał allagańskie machiny za przyjaciół." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_100_022", "hash": "F405210FDD51C167", "target": "Jesteśmy niezmiernie wdzięczni─ponownie. Wygląda na to, że maszyna nadal błędnie uznaje allagańskie machiny za przyjaciół..." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_023", "hash": "9AD4D2555036DBA6", "target": "Wszyscy potrzebujemy marzeń i to wspaniale, że Inventingway z takim oddaniem realizuje swoje. Wolałoby się tylko, żeby przy tym nie dokładał pracy innym. To trochę przeczy idei wynalazków ułatwiających nam życie." }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKzc001_03384",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Seanardowi przyda się pomoc przy pilnych naprawach." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Seanardowi przyda się pomoc przy pilnych naprawach." },
     { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "Nałóż zaprawę wzmacniającą na uszkodzone mury." },
     { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "Zdaj relację Seanardowi." },
     { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "Hej! Jeśli nie masz teraz innego zajęcia, może pomożesz? Przydzielili mnie do napraw, a przy takim stanie tego miejsca to zdecydowanie nie praca dla jednego człowieka." },

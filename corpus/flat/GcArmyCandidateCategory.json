@@ -1,0 +1,13 @@
+{
+  "sheet": "GcArmyCandidateCategory",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "GcArmyCandidateCategory#1", "hash": "D9DA1093B8C97158", "target": "Powód zaciągu: Inspirują mnie twoje niezliczone bohaterskie czyny." },
+    { "gameKey": "GcArmyCandidateCategory#2", "hash": "51D467CF258A3B18", "target": "Powód zaciągu: Pragnę służyć swej Wielkiej Kompanii i innym Eorzejczykom równie dzielnie jak ty." },
+    { "gameKey": "GcArmyCandidateCategory#3", "hash": "C9215BA0CA0D40C0", "target": "Powód zaciągu: Pragnę przekraczać granice własnych możliwości, tak jak ty." },
+    { "gameKey": "GcArmyCandidateCategory#4", "hash": "D82CBA22E7BBD219", "target": "Powód zaciągu: Chcę brać przykład z twego opanowania i zaradności w obliczu chaosu." },
+    { "gameKey": "GcArmyCandidateCategory#5", "hash": "3A40CB2882525A2B", "target": "Powód zaciągu: Chcę służyć pod rozkazami osoby, której dłonie potrafią zarówno tworzyć, jak i niszczyć." },
+    { "gameKey": "GcArmyCandidateCategory#6", "hash": "96E1FB9C57B4589C", "target": "Powód zaciągu: Chcę podążać za kimś, kto docenia dary natury." },
+    { "gameKey": "GcArmyCandidateCategory#7", "hash": "96FDAF2AE7DD6D4F", "target": "Powód zaciągu: Chcę służyć pod rozkazami kogoś, kto potrafi pogodzić pracę z zabawą." }
+  ]
+}

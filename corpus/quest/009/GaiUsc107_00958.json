@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc107_00958",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "" }
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "Ktoś tak ruchliwy jak ty z pewnością znajdzie wspólny interes z górnikiem zwanym Floating Stone, jeśli tylko z nim porozmawia." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "W okolicy Bordowych Wodospadów występuje wyjątkowa odmiana coblyna, quartz doblyn, spotykana tylko w niektórych częściach Thanalanu. Floating Stone prosi cię o zabicie pięciu tych rzadkich stworzeń wyłącznie po to, by wydobyć z nich czysty kwarc." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "Masz już dość czystego kwarcu, by zaspokoić głód kryształów górnika Floating Stone. Wróć nad Bordowe Wodospady i dostarcz go roegadyńskiemu górnikowi." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "Floating Stone nie wydaje się szczególnie zdruzgotany Katastrofą, co stanowi miłą odmianę wobec niemal wszystkich innych. Wzgórza nadal są dla niego cukiernią, a on dzieckiem ze słabością do słodyczy i kilofem..." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "Zabić quartz doblyn i zdobyć czysty kwarc" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "Dostarczyć czysty kwarc górnikowi Floating Stone" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "Zna <if(gnum4,pani,pan)> quartz doblyn? Nie spodziewałem się, występują tylko w najgroźniejszych zakątkach Thanalanu. To rodzaj coblynów, tylko takich... bardziej chrupiących." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "O tak, jedzą kryształy, a tutaj czeka ich królewska uczta. Przez to w ciałach doblynów rośnie czysty, przejrzysty kwarc. Czy <if(gnum4,mogłaby mi pani,mógłby mi pan)> trochę zdobyć?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "Udane polowanie? Udało się zdobyć czysty kwarc?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "Właśnie o to mi chodziło! Przejrzysty jak boskie szczyny─bez obrazy─i dźwięczy jak dzwon." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "Katastrofa wiele tu zmieniła, to prawda, ale nadal jest tu skarbnica. Górnik nie może chcieć wiele więcej!" }
   ]
 }

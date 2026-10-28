@@ -2,16 +2,16 @@
   "conversation": "custom/009/RegYok6CrackedCistern_00908",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_000", "hash": "F3BCFA525DAE456B", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_001", "hash": "D4DC798F96AB29E2", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_Q1_000_000", "hash": "06BF43B4C97C5EC1", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_001", "hash": "0BA60A8C5C4711E5", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_002", "hash": "52E2832A9933DB8E", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_003", "hash": "13CF4629C8696819", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_010", "hash": "3B12653B9110590B", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_011", "hash": "684544591A623343", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_020", "hash": "DE9420831558B217", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_021", "hash": "8DD2193C3FB1A805", "target": "" },
-    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_022", "hash": "09C8C20548FF261F", "target": "" }
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_000", "hash": "F3BCFA525DAE456B", "target": "Nie kojarzę cię stąd. Może chcesz się czegoś dowiedzieć o tym miejscu?" },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_001", "hash": "D4DC798F96AB29E2", "target": "Podobno mamy już nowego Sługę Świtu. A właściwie dwoje Sług Świtu. Ciekawe, czy plany nowych władców uwzględniają też wyrzutków i odrzutki Turalu. Takich jak my." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_Q1_000_000", "hash": "06BF43B4C97C5EC1", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_001", "hash": "0BA60A8C5C4711E5", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_002", "hash": "52E2832A9933DB8E", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_003", "hash": "13CF4629C8696819", "target": "O nic." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_010", "hash": "3B12653B9110590B", "target": "Wypatruję Moblinów. Wszyscy pracowaliśmy dla nich w Earthenshire, ale niektórzy wspominają to gorzej niż inni. Sam widok maski Moblina wystarcza, by potem dręczyły ich koszmary." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_011", "hash": "684544591A623343", "target": "Mnie akurat nie. Po prostu nigdy do siebie nie pasowaliśmy. Mieli wobec mnie wielkie oczekiwania, a mnie brakowało talentu, by im sprostać. Więc pewnej nocy uciekłem i nigdy nie oglądałem się za siebie." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_020", "hash": "DE9420831558B217", "target": "Nazywamy to miejsce Pękniętą Cysterną. To wspólnota rzemieślników, którzy pracowali dla Moblinów, lecz z jakiegoś powodu przedwcześnie zakończyli umowy." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_021", "hash": "8DD2193C3FB1A805", "target": "Ktokolwiek wymyślił tę nazwę, musiał umieć się z tego śmiać. Jesteśmy wybrakowanym towarem z pieców Earthenshire. Nieudanymi wypałami." },
+    { "gameKey": "custom/009/RegYok6CrackedCistern_00908#TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_022", "hash": "09C8C20548FF261F", "target": "Nie znaczy to jednak, że całkiem zerwaliśmy z Moblinami. Niektórzy nadal dostarczają nam materiały, a my oddajemy im w zamian swoje wyroby. Wszystko jednak dyskretnie i na dystans. Bez bezpośredniego kontaktu─co, prawdę mówiąc, bardzo nam odpowiada." }
   ]
 }

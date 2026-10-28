@@ -2,16 +2,16 @@
   "conversation": "custom/002/CmnGscChocoboRaceTraining_00227",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02", "hash": "E2CC6CF7F165E20D", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE", "hash": "422CA5344CC46C7B", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR", "hash": "8E98F4FDE2C50FB6", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_01", "hash": "3CF4E8EB67ABE059", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_02", "hash": "BB17E4E415DBE552", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_01", "hash": "06564AD980125043", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_02", "hash": "BF6E7AF68A3F96A5", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01", "hash": "DAB924037D110939", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02", "hash": "79F91D34FE8004BA", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01", "hash": "678B1C8CEEBD4A11", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02", "hash": "D597CFA2DD8159D5", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02", "hash": "E2CC6CF7F165E20D", "target": "Jaki trening dla chocobo o imieniu <string(lstr1)> ma <if(gnum4,pani,pan)> na myśli?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE", "hash": "422CA5344CC46C7B", "target": "Zgodnie z oczekiwaniami wyścigowy chocobo wspaniale zareagował na trening! Ufam, że wyniki <if(gnum4,panią,pana)> zadowolą." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR", "hash": "8E98F4FDE2C50FB6", "target": "Jaki trening ma <if(gnum4,pani,pan)> na myśli?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_01", "hash": "3CF4E8EB67ABE059", "target": "Chwileczkę─czy ta rozmowa nie jest przedwczesna? Nie ma <if(gnum4,pani,pan)> nawet zarejestrowanego wyścigowego chocobo!" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_02", "hash": "BB17E4E415DBE552", "target": "Trening wyścigowego chocobo jest możliwy dopiero po oficjalnym zarejestrowaniu go." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_01", "hash": "06564AD980125043", "target": "Hmm, może to było przedwczesne. Obawiam się, że <if(gnum4,pani,pana)> wyścigowy chocobo nie odniesie obecnie korzyści z dalszego treningu." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_02", "hash": "BF6E7AF68A3F96A5", "target": "Dodatkowe sesje treningowe staną się dostępne wraz ze wzrostem rangi wyścigowego chocobo." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01", "hash": "DAB924037D110939", "target": "...Czy o czymś nie zapominamy? Porządny trening wymaga odpowiedniego pożywienia." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02", "hash": "79F91D34FE8004BA", "target": "Sesji treningowych nie można przeprowadzić bez wymaganej paszy, którą sprzedaje handlarka uprzężą i paszą przy stanowisku wyścigów." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01", "hash": "678B1C8CEEBD4A11", "target": "Proszę wybaczyć, <if(gnum4,proszę pani,proszę pana)>, lecz muszę zaprotestować. Moim fachowym zdaniem <if(gnum4,pani,pana)> wyścigowy chocobo nie odniesie korzyści z takiego treningu." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02", "hash": "D597CFA2DD8159D5", "target": "Parametr „<lower(<sheet(RacingChocoboParam,lnum1,0)>)>” twojego wyścigowego chocobo nie może już wzrosnąć." }
   ]
 }

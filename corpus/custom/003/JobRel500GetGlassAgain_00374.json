@@ -2,13 +2,13 @@
   "conversation": "custom/003/JobRel500GetGlassAgain_00374",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_000", "hash": "E84EC395A549F9D8", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_001", "hash": "96829CE276661F40", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_010", "hash": "AA7EF268E087CCB7", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_011", "hash": "91CA46CF9ADDD1EC", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_Q1_000_000", "hash": "E0F6C2E0542BFC98", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_020", "hash": "0C24707ADCCED693", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_030", "hash": "79585DB4A0D6761A", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_031", "hash": "A9352A6B849F57E3", "target": "" }
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_000", "hash": "E84EC395A549F9D8", "target": "Kolejna soczewka animy? Zdawało mi się, że całkiem niedawno <if(gnum4,używała pani,używał pan)> poprzedniej, tej ode mnie." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_001", "hash": "96829CE276661F40", "target": "Gdyby łatwiej było je wytwarzać, <if(gnum4,otrzymałaby pani,otrzymałby pan)> ode mnie kolejną bez wahania. Niestety tak nie jest. Gdy jednak naprawdę będzie <if(gnum4,pani,pan)> potrzebować nowej, wystarczy poprosić." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_010", "hash": "AA7EF268E087CCB7", "target": "<if(gnum4,Zgubiła pani,Zgubił pan)> soczewkę animy?" },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_011", "hash": "91CA46CF9ADDD1EC", "target": "Proszę się nie martwić. Na wszelki wypadek czeka już zapasowa. Gdy stawka jest tak wysoka, ostrożności nigdy za wiele." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_Q1_000_000", "hash": "E0F6C2E0542BFC98", "target": "Wziąć soczewkę animy?" },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_020", "hash": "0C24707ADCCED693", "target": "Gdyby coś się z nią stało, proszę przyjść i mi powiedzieć. Zadbam o przygotowanie kolejnej." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_030", "hash": "79585DB4A0D6761A", "target": "Na pewno? Wyobrażam sobie, że bez niej trudno będzie <if(gnum4,pani,panu)> śledzić postępy animy." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_031", "hash": "A9352A6B849F57E3", "target": "Proszę dać mi znać, gdyby <if(gnum4,zmieniła pani,zmienił pan)> zdanie." }
   ]
 }

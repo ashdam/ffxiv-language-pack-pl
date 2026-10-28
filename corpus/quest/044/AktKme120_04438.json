@@ -13,7 +13,7 @@
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_VENAS_000_004", "hash": "6C95FF4E061946A5", "target": "Chodź, przejdźmy się jeszcze raz razem. Odprowadzę cię do drzwi Propylaionu." },
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_SYSTEM_000_005", "hash": "9FA14EFA79974754", "target": "Twój pobyt w tej epoce dobiega końca." },
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_SYSTEM_000_006", "hash": "623D1E45FA87799B", "target": "Po rozmowie z Venat rozpocznie się kilka kolejnych przerywników filmowych." },
-    { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_SYSTEM_000_007", "hash": "04CFD409BA2FAE81", "target": "Zalecamy zarezerwować wystarczająco dużo czasu, aby obejrzeć te sceny w całości." },
+    { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_SYSTEM_000_007", "hash": "04CFD409BA2FAE81", "target": "Zalecamy zarezerwować dość czasu, by obejrzeć te sceny w całości." },
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_Q1_000_008", "hash": "170BEDA4D8F84899", "target": "Porozmawiać z Venat?" },
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_Q1_000_010", "hash": "AAD18C0E8DEF5895", "target": "Kontynuować misję głównego wątku?" },
     { "gameKey": "quest/044/AktKme120_04438#TEXT_AKTKME120_04438_TATARU_000_020", "hash": "4BFDD0E6FA25BC7D", "target": "Ma <if(gnum4,pani,pan)> dar zjawiania się <italic(1)>dokładnie<italic(0)> wtedy, gdy potrzeba. Tym razem także!" },

@@ -2,8 +2,8 @@
   "conversation": "custom/001/FesNyrAmbassador2014_00144",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "" }
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "Z radością i rozwagą przywozimy z Dalekiego Wschodu do Eorzei dar na Niebiański Przełom. Oby na długo połączyły nas dobre stosunki!" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "Czyżby <if(gnum4,pani zgubiła,pan zgubił)> otrzymany dar, który zarówno darczyńca, jak i obdarowana osoba zwą uma kabuto?" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "Trzeba być <if(gnum4,nieustraszoną i nieświadomą kobietą,nieustraszonym i nieświadomym mężczyzną)>, by zgubić tak ważny przedmiot! Dam <if(gnum4,pani,panu)> drugi, lecz proszę go już nie zgubić." }
   ]
 }

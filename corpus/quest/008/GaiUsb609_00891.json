@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb609_00891",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_00", "hash": "81F6EFCD27742795", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_01", "hash": "7F64B4F116E71450", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_02", "hash": "D828E4CFE2A91718", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_03", "hash": "90574606DCFB6F4C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_TODO_00", "hash": "B5A2098FD0579ACE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_TODO_01", "hash": "D9AA1C24A507DB73", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_000", "hash": "0303555BB7474C9C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_001", "hash": "31679AD064AE8789", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_002", "hash": "68214A4CAFFD958C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_020", "hash": "0F08D5D718093318", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_021", "hash": "EB18788845C5D9E0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_POP_MESSAGE_000", "hash": "194DCB0B0545A8A9", "target": "" }
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_00", "hash": "81F6EFCD27742795", "target": "Duvicauroix, z obłędem w oczach i niemal oniemiały z przerażenia, szuka nieustraszonego miecza, który zapoluje na żarłoczną bestię." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_01", "hash": "7F64B4F116E71450", "target": "Wielkie, zajadłe stworzenie zaatakowało karawanę. Przeżył jedynie Duvicauroix. Oceniasz, że czymkolwiek jest bestia, powróci na miejsce rzezi, by się pożywić. Zaczaj się przy śniegu splamionym krwią i zaatakuj, gdy się pojawi." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_02", "hash": "D828E4CFE2A91718", "target": "Mordercą członków karawany okazuje się maleńki white death, którego rozmiar nie zdradza ogromnego apetytu na krew. Od dziś możesz twierdzić, że śmierć została przez ciebie pokonana, choć wielu nie zrozumie żartu. Powiedz kupcowi Duvicauroix, że zadanie zostało wykonane." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_SEQ_03", "hash": "90574606DCFB6F4C", "target": "Duvicauroix ze zdumieniem słucha twojego raportu. Choć rozmiar stworzenia white death nieco go niepokoi, cieszy się, że jego towarzysze zostali pomszczeni, a droga do Observatorium jest znów bezpieczna." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_TODO_00", "hash": "B5A2098FD0579ACE", "target": "Zaczaić się przy śniegu splamionym krwią i zabić nieznaną bestię" },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_TODO_01", "hash": "D9AA1C24A507DB73", "target": "Zdać raport kupcowi Duvicauroix" },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_000", "hash": "0303555BB7474C9C", "target": "Pomóż mi, na litość Halone, pomóż! Moja karawana─wszyscy zabici! Coś wielkiego i dzikiego wypadło z zamieci─te krzyki, ja..." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_001", "hash": "31679AD064AE8789", "target": "Musisz iść i zabić to cholerstwo, tak jak ono zabiło moich towarzyszy podróży! Dopóki ten potwór tam grasuje, każdemu z nas wiatr będzie hulał po gołym zadku." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_002", "hash": "68214A4CAFFD958C", "target": "Miej się na baczności, choć tak sprawnie władasz orężem. Cokolwiek to było, zdawało się być wszędzie naraz, czerwona rzeź spowita białą zamiecią..." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_020", "hash": "0F08D5D718093318", "target": "Wszystkich zabiło... takie maleństwo? Ha, rozmach jego skoku wziąłem za rozpiętość kończyn olbrzyma. Paskudny mały drań, mordował o wiele więcej, niż mógł zjeść. Co mu z tego przyszło?" },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_DUVICAUROIX_000_021", "hash": "EB18788845C5D9E0", "target": "No cóż, jestem ci wdzięczny. Człowiek poznaje tych, z którymi przemierza szlaki handlowe. Dobrzy to byli ludzie, wszyscy co do jednego─może poza tym wysokim z Gridanii, bez niego łatwo byśmy się obeszli─i cieszę się, że ta mordercza kieszonkowa bestia dostała za swoje." },
+    { "gameKey": "quest/008/GaiUsb609_00891#TEXT_GAIUSB609_00891_POP_MESSAGE_000", "hash": "194DCB0B0545A8A9", "target": "Wyczuwasz śmierć, gotową do skoku!" }
   ]
 }

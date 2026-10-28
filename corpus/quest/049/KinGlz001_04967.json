@@ -180,6 +180,6 @@
     { "gameKey": "quest/049/KinGlz001_04967#TEXT_KINGLZ001_04967_ROPLI_000_521", "hash": "A294117BA9414891", "target": "A pomyśleć, że bez wsparcia <if(gnum4,tak uzdolnionej rzemieślniczki jak ty,tak uzdolnionego rzemieślnika jak ty)> nasze zacne sklepy mogłyby nadal borykać się z problemami..." },
     { "gameKey": "quest/049/KinGlz001_04967#TEXT_KINGLZ001_04967_ROPLI_000_522", "hash": "41D748187FFF29F3", "target": "Tak, śmiem twierdzić, że to wydarzenie było również wyrazem wdzięczności wobec ciebie, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/049/KinGlz001_04967#TEXT_KINGLZ001_04967_ROPLI_000_523", "hash": "871432DF12E4CAA7", "target": "Mam nadzieję, że zawsze możemy liczyć na twoją przychylność tutaj, w Wachumeqimeqi!" },
-    { "gameKey": "quest/049/KinGlz001_04967#TEXT_KINGLZ001_04967_SYSTEM_000_999", "hash": "62A4C20BCD1954BE", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Crossroads”." }
+    { "gameKey": "quest/049/KinGlz001_04967#TEXT_KINGLZ001_04967_SYSTEM_000_999", "hash": "62A4C20BCD1954BE", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Rozdroże”." }
   ]
 }

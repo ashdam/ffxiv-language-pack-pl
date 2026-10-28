@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi101_03556",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_00", "hash": "A8701C1D8690D23A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Beott wita cię w wiosce Tomra." },
+    { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_00", "hash": "A8701C1D8690D23A", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Beott wita cię w wiosce Tomra." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_01", "hash": "C09C0FDFA257775E", "target": "Beott wita cię we wiosce Tomra serdecznym „lali-ho”. Martwi ją jednak, że syn Ronitt nie przestrzega krasnoludzkich manier i grozi mu wykluczenie. Błaga o zaprzyjaźnienie się z niemiłym chłopcem, licząc, że niezwykła obecność obcej osoby wydobędzie go z kolczastej skorupy...<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_02", "hash": "B3B9891E67A36052", "target": "Beott przedstawia ci Ronitta, który na najprostsze gesty odpowiada warczeniem i pozowaniem. Po próbie krótkiej „rozmowy” wychodzi na jaw, że zgubił rodzinną pamiątkę po słynnym kowalu. Beott wysyła syna na dalsze poszukiwania i prosi cię o wypytanie mieszkańców o młotek." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_SEQ_03", "hash": "3CE5E5B1836A9BF6", "target": "Rozmawiasz z przyjaznym krasnoludem. Chwali twoje krasnoludzkie maniery i wskazuje innego mieszkańca, który mógł znaleźć młotek." },

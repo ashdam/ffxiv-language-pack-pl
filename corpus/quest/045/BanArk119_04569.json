@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk119_04569",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_SEQ_00", "hash": "085D480228D02A80", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_00", "hash": "D9C626CA45CE14F7", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_01", "hash": "BE59C56AE5177AD8", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_02", "hash": "2A7F3D4B7D2014BC", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_000", "hash": "2790C277B0D9EE96", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_001", "hash": "3710EC185B16C96E", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_002", "hash": "671DB21ED740102E", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_010", "hash": "55DA22EDAEC5B079", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_011", "hash": "7C42321ECF9924BF", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_012", "hash": "4D9BBDC2A46461DA", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_013", "hash": "1B6562B89DB28074", "target": "" }
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_SEQ_00", "hash": "085D480228D02A80", "target": "Maru troszczy się o higienę zębów.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_00", "hash": "D9C626CA45CE14F7", "target": "Położyć gnijące mięso we wskazanym miejscu" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_01", "hash": "BE59C56AE5177AD8", "target": "Poczekać we wskazanym miejscu i pokonać stworzenie old pisaca, gdy się pojawi" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_02", "hash": "2A7F3D4B7D2014BC", "target": "Dostarczyć Maru garść twardych łusek bestii pisaca" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_000", "hash": "2790C277B0D9EE96", "target": "Nasze hipopotamy to kochane mięczaki, ale za tymi pulchnymi, wąsatymi wargami kryją się potężne kły, które wymagają regularnej pielęgnacji." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_001", "hash": "3710EC185B16C96E", "target": "Lubimy je spiłowywać łuskami bestii pisaca. Tyle że te łuski zwykle chodzą w komplecie z całą resztą bestii. I tu zaczyna się twoja rola..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_002", "hash": "671DB21ED740102E", "target": "Jeśli zostawisz to zepsute mięso tam, gdzie się kręcą, któraś na pewno przyjdzie. Tylko wybierz taką, co nie ma kruchych łusek, dobrze? Okaz old pisaca powinien mieć to, czego szukasz..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_010", "hash": "55DA22EDAEC5B079", "target": "Są jakieś odpowiednie łuski?" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_011", "hash": "7C42321ECF9924BF", "target": "Och, są idealne! Dzięki za pomoc." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_012", "hash": "4D9BBDC2A46461DA", "target": "O ile wiem, tylko łuski bestii pisaca są dość twarde, żeby poradzić sobie z kłami thavnairskich hipopotamów. Dzikie ścierają je o kamień giantsgall, ale mogą przy tym połykać odłamki. Potem mają problemy z żołądkiem..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_013", "hash": "1B6562B89DB28074", "target": "Ale dzięki tobie hipopotamy ze Svarny będą miały spiłowane kły i zdrowe brzuchy! To podstawa zdrowia hipopotama. ...Chyba." }
   ]
 }

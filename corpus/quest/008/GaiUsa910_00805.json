@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsa910_00805",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_00", "hash": "8FF805B149EBC7C6", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_01", "hash": "9933A1106D7E1DC4", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_02", "hash": "D8F7CB7A5DCBAFCE", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_03", "hash": "17EE6777924E6D5C", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_00", "hash": "5131B797002C346B", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_01", "hash": "016494D3DA0B6FB9", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_000", "hash": "7B143C92474AF192", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_001", "hash": "A1CCD741B2C79FDC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_010", "hash": "14B83296A7783E9E", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_020", "hash": "104F11AA619DB55A", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_021", "hash": "3BD51AE04880ADDC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_022", "hash": "2355599366C9DBC7", "target": "" }
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_00", "hash": "8FF805B149EBC7C6", "target": "Marcette znów zapędza cię do pracy, czy ci się to podoba, czy nie." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_01", "hash": "9933A1106D7E1DC4", "target": "Genialna przyrodniczka Marcette raczyła mianować cię na zaszczytne stanowisko asystenta badawczego numer sześć i natychmiast nakazała zdobyć żywy okaz lightning spark do badań. Osłab stworzenie i schwytaj je do otrzymanego pojemnika." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_02", "hash": "D8F7CB7A5DCBAFCE", "target": "Żywy okaz lightning spark został schwytany. Mimo obaw o jego los zgadzasz się dostarczyć go Marcette." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_03", "hash": "17EE6777924E6D5C", "target": "Marcette stoi u progu kolejnego przełomowego odkrycia. Mimo twojego nieustannego wkładu w jej badania nadal nie pamięta twojego numeru, nie wspominając już o imieniu." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_00", "hash": "5131B797002C346B", "target": "Użyć słoja z grubego szkła na osłabionym lightning spark" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_01", "hash": "016494D3DA0B6FB9", "target": "Dostarczyć żywy okaz lightning spark Marcette" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_000", "hash": "7B143C92474AF192", "target": "<if(gnum4,Asystentko badawcza,Asystencie badawczy)> numer sześć. Tak, do <italic(1)>ciebie<italic(0)> mówię, <if(gnum4,asystentko,asystencie)> numer sześć─to tytuł, którym raczyłam cię obdarzyć za skromny wkład w mój ostatni przełom naukowy." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_001", "hash": "A1CCD741B2C79FDC", "target": "Pamiętaj, teraz oficjalnie jesteś <if(gnum4,moją niewolnicą,moim niewolnikiem)>─eee, <italic(1)><if(gnum4,asystentką badawczą,asystentem badawczym)><italic(0)>─więc koniec z obijaniem. Potrzebuję żywego okazu lightning spark. Tu jest słój. Szybko─nie mam całego dnia!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_010", "hash": "14B83296A7783E9E", "target": "Skoro masz czelność mi przeszkadzać, to znaczy, że masz wymagany żywy okaz lightning spark. No to oddawaj!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_020", "hash": "104F11AA619DB55A", "target": "Ooo, jakie urocze maleństwo! Ileż zabawy będę z tobą miała! <if(gnum4,Następna asystentka,Następny asystent)>, <if(gnum4,która,który)> spróbuje uchylić się od obowiązków, dozna niezłego wstrząsu! Muahahaha!!!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_021", "hash": "3BD51AE04880ADDC", "target": "Na czym to ja... Ach, tak, grzyby! Jeśli moje teorie są słuszne, porażenie ich prądem wywoła poczucie zagrożenia i sprawi, że zaczną rozmnażać się w niespotykanym tempie!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_022", "hash": "2355599366C9DBC7", "target": "Doprawdy, mój geniusz nie zna granic! Jakich odkryć mogłabym dokonać z choćby jednym kompetentnym asystentem! ...Ty! <if(gnum4,Asystentko,Asystencie)> numer siedem! A może cztery!? Och, <italic(1)>kimkolwiek<italic(0)> jesteś, zejdź mi z oczu i daj się wreszcie skupić!" }
   ]
 }

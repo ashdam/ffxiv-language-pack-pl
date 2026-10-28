@@ -18,7 +18,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_04", "hash": "EA1FCFF38C4F9A8B", "target": "Porozmawiać z Pameką" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Wykonać Yok Huy Cover<sheet(Addon,9,0)>,Dostarczyć Yok Huy Cover<sheet(Addon,9,0)> do Pameki)>" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_06", "hash": "57885F9D6E8AF56D", "target": "Porozmawiać z Pameką" },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Promise of Peace”." },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Obietnica pokoju”." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_001", "hash": "C483CD5287A718F9", "target": "Po rozmowie z panem Zemoweni o przekazach przodków nie mogę przestać myśleć, co moja własna rodzina zachowała z dawnych pokoleń." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_002", "hash": "3EBDADDD33C96A68", "target": "Prawie skończyłam dzisiejszą pracę, więc zamknę zakład i pójdę porozmawiać z rodzicami. Powinni wskazać mi właściwy kierunek─nawet jeśli będzie trzeba wybrać się poza miasto." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_003", "hash": "7829FF0253943783", "target": "Gdyby do tego doszło, byłabym bardzo wdzięczna za <if(gnum4,pani,pana)> towarzystwo. Rzadko opuszczam miasto..." },
@@ -41,7 +41,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_202", "hash": "7B820248C534CF0E", "target": "Rozejrzyjmy się i poszukajmy kogoś chętnego do pomocy." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_203", "hash": "7379FB77AB281FCD", "target": "Proszę poprowadzić rozmowy─ma <if(gnum4,pani,pan)> przecież o wiele większą wprawę w kontaktach z ludem Yok Huy niż ja." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_207", "hash": "E85DBDC1303B7375", "target": "Co zrobisz?" },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_208", "hash": "D9FAF6320514E144", "target": "Porozmawiać" },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_208", "hash": "D9FAF6320514E144", "target": "Porozmawiać." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_209", "hash": "7642081267F65672", "target": "Rozstać się z Pameką" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_210", "hash": "5F744730B25B0F82", "target": "Nic" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_211", "hash": "43F5094D9B875728", "target": "Słyszałam, że niektórzy przedstawiciele ludu Yok Huy wolą używać ojczystej mowy. Zapewniano mnie jednak, że tutejsi mieszkańcy chętnie posługują się językiem turalijskim." },
@@ -120,7 +120,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_100_701", "hash": "E50ADB897287605A", "target": "W końcu to jego prośba zapoczątkowała całe przedsięwzięcie. Mam nadzieję, że mu się spodoba." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_702", "hash": "7C1CB5B54702F13D", "target": "A <if(gnum4,pani,panu)> jestem niezmiernie wdzięczna, <split(<string(gstr1)>, ,1)>. Nie dość, że <if(gnum4,zechciała mi pani,zechciał mi pan)> towarzyszyć w drodze do osady Worlar's Echo, to jeszcze otrzymałam chyba najpiękniejszą z dotychczasowych okładek." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_703", "hash": "3CE8C4A4CAFE16F4", "target": "A teraz wracam do pracy. Do czasu kolejnej wizyty pana Zemoweni życzę <if(gnum4,pani,panu)> przyjemnej pracy rzemieślniczej." },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_704", "hash": "62D41E4530014104", "target": "Aby ukończyć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Ever Greater, Ever Brighter”." },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_704", "hash": "62D41E4530014104", "target": "Aby ukończyć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Coraz wspanialej, coraz jaśniej”." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_705", "hash": "A6824349ECFCDFC9", "target": "Kolejne zlecenie będzie dostępne u Pameki po osiągnięciu poz. 98 klasą Carpenter, Leatherworker lub Weaver." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_710", "hash": "BE648B19E90B564C", "target": "Przedmioty zwykłej jakości wytworzone podczas tego zadania nie mają zastosowania i nie można ich sprzedać. Zaleca się je wyrzucić." }
   ]

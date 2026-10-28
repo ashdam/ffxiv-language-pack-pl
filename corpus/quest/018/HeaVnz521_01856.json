@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz521_01856",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_00", "hash": "888D1C45E4C3F6BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_01", "hash": "0C23C6F96500336D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_02", "hash": "A57752D59F3F1CE8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_03", "hash": "4FA9F46357A92DCE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_TODO_00", "hash": "38E18B71D679F787", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_TODO_01", "hash": "7BD96DC8E4F1B294", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_000", "hash": "84A9A926815FE169", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_010", "hash": "AE62D141992717A0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_011", "hash": "9B6CB6C5ED64F848", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_020", "hash": "FD883E74F40432F6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_021", "hash": "52201A3041C4E2BA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_022", "hash": "6A1DFFB617705827", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_030", "hash": "FE8C2D3AC6BE8996", "target": "" },
-    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_031", "hash": "906BAE7079762A02", "target": "" }
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_00", "hash": "888D1C45E4C3F6BE", "target": "Coś w ruinach Tharl Oom Khash nie daje temu moogle'owi spokoju." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_01", "hash": "0C23C6F96500336D", "target": "Wyprawa moogli badająca ruiny Tharl Oom Khash odkryła gniazdo przerażających latających owadów. Zabij je, by badacze mogli kontynuować wyprawę." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_02", "hash": "A57752D59F3F1CE8", "target": "Owady nie żyją, a droga dla ciekawskich moogli stoi otworem. Wróć do wejścia do ruin Tharl Oom Khash i zdaj relację." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_SEQ_03", "hash": "4FA9F46357A92DCE", "target": "Moogle'e dziękują za możliwość wznowienia wyprawy. Ruiny Tharl Oom Khash mogą skrywać ogromną wiedzę o dawnych władcach ziemi, którzy mieszkali tu przed wiekami." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_TODO_00", "hash": "38E18B71D679F787", "target": "Zabić burrowing wamoura" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_TODO_01", "hash": "7BD96DC8E4F1B294", "target": "Zdać relację komentującemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_000", "hash": "84A9A926815FE169", "target": "Przybyliśmy tu wszyscy na wyprawę badawczą, kupo." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_010", "hash": "AE62D141992717A0", "target": "Niech ktoś nam pomoże! Ktokolwiek! Odkryliśmy w ruinach Tharl Oom Khash coś, od czego aż skręca się żołądek, kupo!" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_011", "hash": "9B6CB6C5ED64F848", "target": "W ruinach roi się od olbrzymich skrzydlatych owadów. Pilnują jaj, z których lada chwila może się coś wykluć. Nie możemy kontynuować wyprawy z tymi obrzydliwymi bestiami na drodze. Pomóż nam, kupo!" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_020", "hash": "FD883E74F40432F6", "target": "Na sam widok tych latających robali mam ochotę wracać do domu─nie wspominając już o jajach. <if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, zrób coś, proszę!" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_021", "hash": "52201A3041C4E2BA", "target": "To dopiero wyprawa, kupo." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_GUIDEMOG01855_000_022", "hash": "6A1DFFB617705827", "target": "Te ruiny aż się proszą o zbadanie." },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_030", "hash": "FE8C2D3AC6BE8996", "target": "Udało ci się pozbyć szkodników? Dziękujemy─dociekliwi historycy spośród moogli z całej krainy mają u ciebie dług!" },
+    { "gameKey": "quest/018/HeaVnz521_01856#TEXT_HEAVNZ521_01856_FIELDTRIPMOGA01856_000_031", "hash": "906BAE7079762A02", "target": "Przed wiekami w ruinach Tharl Oom Khash mieszkali władcy ziemi. To miejsce kipi od wiedzy i historii, a my zamierzamy zabrać ze sobą tyle, ile zdołamy, kupo!" }
   ]
 }

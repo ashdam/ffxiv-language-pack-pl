@@ -2,15 +2,15 @@
   "conversation": "quest/039/LucKsa108_03948",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SEQ_00", "hash": "9487C3447F331012", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_100_000", "hash": "76BFE1DF181BAA3F", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_000", "hash": "D572BD9AD5DA08C1", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_001", "hash": "0C7DDB579430BFB9", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_020", "hash": "177D7F80FFB473A2", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_021", "hash": "19E1FE1C63EFA0F4", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_022", "hash": "BEC75A5C316A7C0D", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_030", "hash": "75A3E26DDC7F8353", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_031", "hash": "7F54B5A229BF3C38", "target": "" }
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SEQ_00", "hash": "9487C3447F331012", "target": "Dmitar ma kolejne dobre wieści z południowego frontu." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "Porozmawiać z Dmitarem" },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_100_000", "hash": "76BFE1DF181BAA3F", "target": "Aby kontynuować to zadanie, musisz osiągnąć rangę Ruchu Oporu <num(lnum1)>." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_000", "hash": "D572BD9AD5DA08C1", "target": "Z radością donoszę, że nasi żołnierze zadali siłom Imperium kolejny dotkliwy cios." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_001", "hash": "0C7DDB579430BFB9", "target": "Nasza linia frontu znów przesunęła się naprzód. Zdobyliśmy następną placówkę w Starej Bozji. Mój dowódca poprosił, bym <if(gnum4,panią,pana)> tam zaprowadził. Proszę za mną." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_020", "hash": "177D7F80FFB473A2", "target": "Oto Lunya's Stand. Garleańczycy kazali nam ciężko o nie walczyć, ale wreszcie jest nasze." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_021", "hash": "19E1FE1C63EFA0F4", "target": "Jeśli nadal będziemy naciskać na siły Imperium, chyba wkrótce nie będą miały wyboru i wycofają się do warowni." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_022", "hash": "BEC75A5C316A7C0D", "target": "To oznacza, że nie pora spoczywać na laurach. Na pewno zrobią wszystko, by spowolnić nasz marsz. Mam nadzieję, że możemy liczyć na <if(gnum4,pani,pana)> dalszą walkę w słusznej sprawie." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_030", "hash": "75A3E26DDC7F8353", "target": "Linia frontu ruchu oporu przesuwa się naprzód. Możesz teraz uczestniczyć w nowych potyczkach i krytycznych starciach." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_031", "hash": "7F54B5A229BF3C38", "target": "Kolejne zadanie można przyjąć od Mikoto po osiągnięciu rangi Ruchu Oporu <num(lnum1)> lub wyższej." }
   ]
 }

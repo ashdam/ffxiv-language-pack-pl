@@ -2,15 +2,15 @@
   "conversation": "custom/000/RegFstAdvGuild_00005",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "" }
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "Witamy w Carline Canopy. Jeśli potrzebuje <if(gnum4,pani,pan)> jakiejkolwiek pomocy, proszę śmiało pytać." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "Zajmuję się wszystkim, co akurat trzeba zrobić─choć większość czasu spędzam na obsłudze gości albo witaniu odwiedzających Gildię Poszukiwaczy Przygód." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "Do Carline Canopy przywiodły mnie nieszczęścia po Katastrofie: utrata rodziny, źródła utrzymania i chęci do dalszego życia." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "Bywały chwile, kiedy żal tak mnie paraliżował, że ledwie można było wydobyć ze mnie słowo. Ale matka Miounne dała mi cel i miejsce, gdzie można było dojść do siebie. I tak już tu zostało." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "Ach, kiedyś padło z mojej strony dokładnie to samo pytanie do Miounne. Powiedziała mi, że po prostu podoba jej się ten kwiat." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "Jednak to spojrzenie w jej oczach, gdy to mówiła... Cóż, chyba każdy ma swoje tajemnice." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "Czego chcesz się dowiedzieć?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "Co tu robisz?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "Dlaczego nazywa się „Carline Canopy”?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "Nic." }
   ]
 }

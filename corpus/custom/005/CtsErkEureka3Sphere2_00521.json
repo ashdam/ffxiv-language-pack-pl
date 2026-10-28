@@ -2,15 +2,15 @@
   "conversation": "custom/005/CtsErkEureka3Sphere2_00521",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001", "hash": "B1D30B2229C03F4E", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002", "hash": "684D66D11F043E98", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003", "hash": "6357178AB75921DB", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004", "hash": "1D2AA6762E630B87", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005", "hash": "2F484F200D3389BD", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006", "hash": "4413E184722090D8", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007", "hash": "2505A6A284255852", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008", "hash": "B879B1455F11933B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009", "hash": "215D77CD8CED022A", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000", "hash": "93C2C71E68FCA036", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001", "hash": "B1D30B2229C03F4E", "target": "Co za spotkanie, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Ufam, że <if(gnum4,pani,pana)> badania przebiegają bez zakłóceń? Podobnie jak prace Krile z protoeterytem?" },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002", "hash": "684D66D11F043E98", "target": "...Fascynujące. Nie spodziewałem się po niej takich postępów. To „odwrócenie przepływu” też mnie intryguje..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003", "hash": "6357178AB75921DB", "target": "Ach, proszę wybaczyć moje mamrotanie. Powinienem podziękować za podzielenie się ze mną odkryciami. Mam wrażenie, że jestem o krok od olśnienia." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004", "hash": "1D2AA6762E630B87", "target": "Zawsze tak <if(gnum4,pomocna,pomocny)>, prawda? Tak <if(gnum4,chętna,chętny)> sprawiać innym przyjemność i naprawiać krzywdy. Jak przystało na <if(gnum4,bohaterkę i wyzwolicielkę,bohatera i wyzwoliciela)>..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005", "hash": "2F484F200D3389BD", "target": "Naprawdę jestem <if(gnum4,pani,panu)> winien przysługę. Pomogę zbierać kryształy Magicite. Zresztą sam ich już nie potrzebuję." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006", "hash": "4413E184722090D8", "target": "Ach─ale ze mnie zapominalski. Jest jeszcze jedna informacja, której wcześniej nie przekazałem. Imię boskiej istoty, pradawnego bożka, którego Galuf i pozostali próbowali tutaj uwięzić." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007", "hash": "2505A6A284255852", "target": "Jego imię to... Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008", "hash": "B879B1455F11933B", "target": "Tak samo nazwaliśmy tę wyspę. Zabawny zbieg okoliczności, prawda? A jednak, patrząc wstecz, jakże trafny..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009", "hash": "215D77CD8CED022A", "target": "Tak czy inaczej, na razie nie mam nic więcej do przekazania. Jeśli jednak los zechce odsłonić przede mną kolejne perły mądrości, będzie <if(gnum4,pani pierwszą,pan pierwszą)> osobą, która o nich usłyszy." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000", "hash": "93C2C71E68FCA036", "target": "W samym środku skupiska eteru znajdujesz lśniący kamień─kryształ Magicite. Gdy go wyjmujesz, skupisko się rozprasza..." }
   ]
 }

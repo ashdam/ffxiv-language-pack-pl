@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst003_00026",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_00", "hash": "507F402A3B70D867", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_01", "hash": "47AE7794E7F720E8", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_02", "hash": "332580F91FAA5467", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_TODO_00", "hash": "6F6891B84AD9BB5F", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_1", "hash": "0EDBC6B216A77767", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_2", "hash": "806C6DA3D525AA53", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_3", "hash": "1247F30490F833AD", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_10", "hash": "BD4DDAAD72C53329", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_11", "hash": "527B7994BB98EF71", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_12", "hash": "26A5D0C12104A571", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_13", "hash": "4118E774AF915683", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_14", "hash": "5A7C17560960A4C0", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_15", "hash": "1CF93B10CE8F7AEB", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_16", "hash": "46311C54FFB2A5CB", "target": "" }
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_00", "hash": "507F402A3B70D867", "target": "Botanik imieniem Ethelred potrzebuje kogoś, kto dostarczy przesyłkę w jego imieniu." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_01", "hash": "47AE7794E7F720E8", "target": "Po niczym niesprowokowanych obelgach Ethelred prosi cię o dostarczenie róży Azeymy Waldewowi przed Gildią Zaklinaczy." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_02", "hash": "332580F91FAA5467", "target": "Waldew z radością przyjmuje wiadomość, że Ethelred powierzył ci dostarczenie róży Azeymy. Wyjaśnia, że botanik od niepamiętnych czasów żywi urazę do poszukiwaczy przygód. Odsunięcie na bok nieufności wobec obcych to ogromny krok naprzód. Jeśli Ethelred potrafi przezwyciężyć uprzedzenia, może inni Gridańczycy też zdołają." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_TODO_00", "hash": "6F6891B84AD9BB5F", "target": "Dostarczyć różę Azeymy Waldewowi" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_1", "hash": "0EDBC6B216A77767", "target": "Bogowie, <italic(1)>znowu<italic(0)> ktoś szukający przygód!? Lgniecie tu jak muchy do gnoju! Nie wiem, czym Gridania zasłużyła na taką plagę... \\<spluwa>" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_2", "hash": "806C6DA3D525AA53", "target": "\\<wzdycha> Chyba czasy się zmieniają, a oni ciągle mówią, że powinienem... I może <italic(1)>ty<italic(0)>...<br>Och, bogowie, pomóżcie. Po prostu... Zanieś tę różę Azeymy Waldewowi ze Świątyni Cichej Polany, dobrze?" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_3", "hash": "1247F30490F833AD", "target": "No, na co jeszcze czekasz? Idź i dostarcz tę przeklętą różę!" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_10", "hash": "BD4DDAAD72C53329", "target": "Witam w Gildii Zaklinaczy. Tutaj obcujemy z żywiołakami i słuchamy ich wskazówek. Muszę jednak przyznać, że nie wyszeptały mi wieści o <italic(1)><if(gnum4,pani,pana)><italic(0)> przybyciu." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_11", "hash": "527B7994BB98EF71", "target": "Rzeczywiście zamówiliśmy u Ethelreda różę Azeymy, ale skoro to <if(gnum4,pani,pan)> przynosi ją w jego imieniu, oznacza to..." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_12", "hash": "26A5D0C12104A571", "target": "...że stało się coś wspaniałego!" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_13", "hash": "4118E774AF915683", "target": "Ethelred od dawna żywi urazę do licznych poszukiwaczy przygód przekraczających bramy Gridanii. Jego ukochane kwiaty słyną z piękna. Niegdyś kolekcjonerzy z Ul'dah tak ich pożądali, że żądni zarobku obcokrajowcy niemal doszczętnie je wyzbierali." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_14", "hash": "5A7C17560960A4C0", "target": "Jednak jeśli pragniemy pokoju, wszyscy musimy nauczyć się patrzeć ponad nieufnością zrodzoną w przeszłości i przezwyciężać uprzedzenia. Tego nauczyła nas Arcywieszczka i tak żyjemy." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_15", "hash": "1CF93B10CE8F7AEB", "target": "Wątpię, by Ethelredowi łatwo przyszło powierzyć <if(gnum4,pani,panu)> tę różę Azeymy. Gdy usłyszy, że dotarła do nas, przekona się, że nie wszyscy obcy zasługują na pogardę." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_16", "hash": "46311C54FFB2A5CB", "target": "Doprawdy, to za sprawą woli żywiołaków <if(gnum4,przybyła pani,przybył pan)> dziś do nas. Proszę przyjąć ten dowód naszej wdzięczności." }
   ]
 }

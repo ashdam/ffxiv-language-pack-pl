@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb603_00885",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "" }
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "Idristan szuka poszukiwacza przygód do niezbyt przyjemnego zadania." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "Dowiadujesz się, że niedaleko Wieży Florentela zauważono żarłoczne szakale. Uciekły z zasypanego śniegiem Coerthas i prawdopodobnie zagrażają podróżnym. Idristan wręcza ci kawał cuchnącego mięsa dodo do zwabienia bestii. Znajdź odpowiednie miejsce na przynętę i zabij szakale, które się pojawią." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "Szakale nie żyją, a okolica stała się nieco bezpieczniejsza. Wróć do Idristana i powiadom go o wykonaniu zadania." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "Idristan cieszy się z wyniku polowania, ale sytuacja nadal go frustruje. Katastrofa sprawiła, że Coerthas niemal nie nadaje się do życia, przez co miejscowe zwierzęta stały się groźniejsze. Członek Kołczanu ostrzega, by dobrze przygotować się do wyprawy na północny zachód." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "Użyć mięsa dodo jako przynęty i zabić szakale" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "Zdać raport Idristanowi" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "Mróz, który nastał po Katastrofie, sprawił, że w Coerthas niemal nie sposób żyć. Wiele stworzeń, które dawniej tam żyły, musiało przenieść się gdzie indziej, by uniknąć głodu." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "Niektóre przychodzą pod nasze drzwi z jedną tylko myślą: najeść się. Najgorsze są szakale, widziano je niedaleko tej właśnie wieży." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "<if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód, potrzebujemy twoich umiejętności, by zgładzić te bestie, zanim pożrą bezbronnego podróżnego. To c-cuch<italic(1)>urrrgh<italic(0)>─wybacz─<italic(1)>cuchnące<italic(0)> mięso dodo doskonale sprawdzi się jako przynęta." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "Jesteśmy bardzo wdzięczni. Przed Katastrofą nic podobnego by się nie wydarzyło. To ona sprawiła, że miejscowym zwierzętom niemal nie sposób przetrwać w Coerthas." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "Gdy wodę uwięził lód, a roślinność skrył śnieg, większe bestie stały się prawdziwie piekielne w walce o przetrwanie. Jeśli ruszysz na północ, miej się na baczności. Wiedz, że jedziesz prosto do bitwy." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "Zbliżają się dwa wygłodniałe szakale!" }
   ]
 }

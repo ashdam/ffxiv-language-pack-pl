@@ -2,16 +2,16 @@
   "conversation": "quest/050/KinGzb101_05041",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SEQ_00", "hash": "C12433104D3AA532", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_000", "hash": "F7E13FDA67DC8E33", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_001", "hash": "2EFB8A15165A6E08", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_002", "hash": "029CD74AE1F91C48", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_005", "hash": "94B8A0C9EFD87B47", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_010", "hash": "015EE8385E597BC9", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_011", "hash": "199F2AA07025645C", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_013", "hash": "87EE330BB297ED25", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_014", "hash": "918AB59C9CBE4DE7", "target": "" }
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SEQ_00", "hash": "C12433104D3AA532", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Uczulona Yok Huy potrzebuje dostawy, której nie zmoczy katar." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "Zebrać fiołki Larh Tortoh i pokonać wszelkie pojawiające się zagrożenia" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "Dostarczyć fiołki Larh Tortoh uczulonej Yok Huy" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_000", "hash": "F7E13FDA67DC8E33", "target": "Ach, poznaję <if(gnum4,panią,pana)>! O ile pamiętam, należy <if(gnum4,pani,pan)> do świty Trzeciej Pretendentki. I siły też nie brakuje, mimo niewielkich rozmiarów." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_001", "hash": "2EFB8A15165A6E08", "target": "Mam więc prośbę. Czy <if(gnum4,mogłaby pani,mógłby pan)> zerwać dla mnie trzy fiołki Larh Tortoh?" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_002", "hash": "029CD74AE1F91C48", "target": "Roślinne potwory i ich pyłki to za wiele dla mojego nosa. A nikt nie chce ociekających kwiatów. Przynajmniej <italic(1)>ja<italic(0)> nie chcę." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_005", "hash": "94B8A0C9EFD87B47", "target": "Potrzebuję trzech fiołków, które rosną w Larh Tortoh. Przyniesie mi je <if(gnum4,pani,pan)>, prawda? Proszę ulitować się nad moim biednym nosem..." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_010", "hash": "015EE8385E597BC9", "target": "Witam ponownie! Jak rozumiem, zbieranie poszło dobrze?" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_011", "hash": "199F2AA07025645C", "target": "Dziękuję za spełnienie prośby. Chciałam zdobyć kwiaty dla babci, a te należą do jej ulubionych." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_013", "hash": "87EE330BB297ED25", "target": "Mamy zwyczaj ryć na grobach symbole ulubionych rzeczy. Na jej grobie jest kwiat na każdą z czterech pór roku, więc przez cały rok przynoszę jej po kilka odpowiednich kwiatów." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_014", "hash": "918AB59C9CBE4DE7", "target": "Lepiej zaniosę je babci, zanim zwiędną. Proszę przyjąć to w dowód mojej wdzięczności!" }
   ]
 }

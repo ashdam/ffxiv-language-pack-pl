@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb508_00877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "" }
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "Siostra Eluned ma dla ciebie przykrą wiadomość." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Eluned w Kościele Świętego Adamy Landamy.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "Klękasz przed znakiem Strażniczki, by uczcić pamięć poległych braci i sióstr. Wróć do siostry Eluned w Kościele Świętego Adamy Landamy." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "Nigdy nie będzie wiadomo, jakie skutki przyniesie twoja pielgrzymka. Mimo to siostra Eluned wierzy, że twoje czyny przyniosą ukojenie duszom zmarłych Dziedziców." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Eluned w Kościele Świętego Adamy Landamy<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Eluned w Kościele Świętego Adamy Landamy<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "Z przykrością muszę o czymś powiadomić: choć chcieliśmy pochować <if(gnum4,pani,pana)> towarzyszy na przykościelnym cmentarzu, liczba poległych Dziedziców znacznie przekroczyła nasze szacunki." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "Po omówieniu sprawy z ojcem Iliudem doszliśmy do wniosku, że nie mamy wyboru. Musimy pochować zmarłych w tych samych mogiłach co ofiary Katastrofy." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "Proszę nam wybaczyć. Nie chcemy zhańbić pamięci poległych. Jednak jako opiekunowie cmentarza musimy stawić czoła tej rzeczywistości." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "<split(<string(gstr1)>, ,1)>... To, co spotkało <if(gnum4,pani,pana)> organizację, było niewybaczalną zbrodnią. Jeśli pragnie <if(gnum4,pani,pan)> postawić tych nikczemników przed sądem, proszę rozważyć pielgrzymkę do znaku Strażniczki." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "Choć sama nie wyznaję nauk Azeymy, mówi się, że modlitwa przed jej znakiem przywołuje jej boski osąd. Niezależnie od wiary może warto spróbować." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "Klęcząc w cichej samotności przed znakiem Strażniczki, głęboko wdychasz suche pustynne powietrze. Szum rwącej wody przerywają ciche cykanie owadów i przenikliwe krzyki jastrzębia. Bogowie jednak milczą..." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "Ta pielgrzymka uczciła zmarłych, <split(<string(gstr1)>, ,1)>. Nawet jeśli Azeyma nie usłyszała <if(gnum4,pani,pana)> modlitw, wierzę, że przyniosły ukojenie poległym braciom i siostrom." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "Proszę pamiętać, że choć ciało jest tylko naczyniem, które pewnego dnia trzeba oddać Strumieniowi Życia, nasze dusze przetrwają, a sprawiedliwi znajdą ukojenie w królestwie Thala." }
   ]
 }

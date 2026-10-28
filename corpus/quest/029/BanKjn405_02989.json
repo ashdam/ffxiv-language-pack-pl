@@ -2,15 +2,15 @@
   "conversation": "quest/029/BanKjn405_02989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "" }
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "Szalejące stworzenia anala zagrażają zbieraczom skorupiaków w Hells' Lid.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "Zabić stworzenia kaen anala oraz stworzenie goen anala" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "Zdać sprawę Zukinowi" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "Trudno o bardziej niegościnne miejsce niż Hells' Lid. Gdyby nie obfitość skorupiaków, w ogóle byśmy tam nie zaglądali." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "Większość tamtejszych stworzeń atakuje tylko wtedy, gdy podejdziemy za blisko. Jednak stworzenia anala robią wszystko, by nas dopaść. Ich dzikość słynie na całym Ruby Sea." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "Musimy zwrócić się do ciebie. Wkrocz na ich teren i zabij każde, które stanie ci na drodze. Taki pokaz siły powinien zapędzić resztę z powrotem do ich nor." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "Wyglądasz na trochę <if(gnum4,przypaloną,przypalonego)>! Czy stworzenia anala sprawiły kłopot?" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "To doprawdy dobre wieści. Z twoich słów wynika, że brzegi Hells' Lid znów należą do nas. Można tam bezpiecznie zbierać skorupiaki, przynajmniej na razie." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "Nie tylko nadają się do jedzenia. Z ich muszli wyrabiamy też naczynia inkrustowane macicą perłową. Namazu chętnie płacą za nie wielkie sumy, po czym wskakują do środka i siedzą tam godzinami." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "Dlaczego? Kami może wiedzą, ale ja nie. Wiem za to, że stworzenia anala nie zostaną w swoich kryjówkach tak chętnie jak Namazu w naczyniach. Jeśli znów wyjdą, możemy potrzebować twojej pomocy." }
   ]
 }

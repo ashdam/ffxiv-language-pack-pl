@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa503_00755",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_00", "hash": "54CA5039E4261E08", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_02", "hash": "4A51BAFD527898D3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_000", "hash": "47D799E0178D3F23", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_001", "hash": "F9C103A2E86665A7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_002", "hash": "8EBEB204583D5A22", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_003", "hash": "33B6473341FEC5AF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_010", "hash": "8CBE7FB55526F624", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_020", "hash": "47ED44C275F86774", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_021", "hash": "3D7D73446C20DBC9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_00", "hash": "54CA5039E4261E08", "target": "Siostra Kyokyozo szuka poszukiwacza przygód, który dostarczy pismo do Highbridge." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "Siostra Kyokyozo powierza ci podpisaną petycję dla Linii Powietrznych Highwind. Dostarcz ją kupcowi Hihibaru w Highbridge." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_02", "hash": "4A51BAFD527898D3", "target": "Petycje Zakonu Nald'thala i związku kupców Hihibaru będą mocnym argumentem za uruchomieniem przez Linie Powietrzne Highwind regularnych lotów do Highbridge. Dobrobyt tej okolicy to tylko kwestia czasu." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "Dostarczyć podpisaną petycję Hihibaru" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_000", "hash": "47D799E0178D3F23", "target": "Niechętnie znów proszę o przysługę, ale wiem już, że Zakon może na <if(gnum4,pani,panu)> polegać. Mam pilne pismo do Hihibaru z Highbridge." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_001", "hash": "F9C103A2E86665A7", "target": "A dokładniej petycję. Zakon pragnie prosić Linie Powietrzne Highwind o ustanowienie regularnych lotów między Highbridge a Ul'dah." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_002", "hash": "8EBEB204583D5A22", "target": "Znacznie ułatwiłyby one pielgrzymom podróż do Wytchnienia Thala, a przy tym ożywiły tutejszy handel." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_003", "hash": "33B6473341FEC5AF", "target": "Właśnie z tego drugiego powodu wierzymy, że Hihibaru i inni kupcy nas poprą. Proszę ruszać. Niech Kupcy czuwają nad tą podróżą." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_010", "hash": "8CBE7FB55526F624", "target": "Wiadomość od siostry Kyokyozo? Cóż Zakon może chcieć od zwykłego kupca jak ja?" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_020", "hash": "47ED44C275F86774", "target": "A niech mnie... Petycja o regularne loty między Highbridge a Ul'dah. Ha, pomysł tak cholernie dobry, że aż wstyd, że sam na to nie wpadłem! Interesy rozkwitłyby jak nigdy!" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_021", "hash": "3D7D73446C20DBC9", "target": "Podpiszę ją i od razu dostarczę do Linii Powietrznych Highwind! Gdyby jeszcze ktoś zajął się tymi przeklętymi Qiqirn, Highbridge stałoby się kupieckim rajem..." }
   ]
 }

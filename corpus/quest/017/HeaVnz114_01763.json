@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz114_01763",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "" }
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "Luciae szuka kogoś, kto pomoże jej ogrzać się podczas zimnych nocy w Coerthas." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "Przenikliwy chłód Coerthas odbija się na morale załogi. Luciae prosi cię o zebranie wełny jaków, by uzupełnić zapas koców w Convictory. Zabij trzy wooly yaks, aby zebrać ich wełnę." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "Zabijasz jaki i strzyżesz ich truchła. Dostarcz wełnę Luciae i odbierz nagrodę." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "Luciae oznajmia, że to najlepsza wełna, jaką kiedykolwiek widziała. Grube, ciepłe koce, które z niej zrobi, bardzo pomogą chronić załogę przed niepogodą." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "Zabić jaki i zdobyć ich wełnę" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "Dostarczyć wełnę Luciae" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "\\<wzdycha> ...Hm? Wyglądam na zmartwioną? Cóż, wszyscy mamy tu dość zmartwień. Chcesz pomóc?" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "Zimno jest tu nieustannym wrogiem. Zawsze przyda się więcej wełny jaków na koce. Jeśli przyniesiesz trzy kosze, zadbam, żeby ci się to opłaciło." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "Przynieś mi trzy kosze wełny jaków, a odpowiednio cię wynagrodzę." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "Wciąż potrzebujemy tej wełny, jeśli zechcesz ją zdobyć." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "To jedna z najlepszych partii wełny, jakie kiedykolwiek widziałam! Muszę przyznać, że to o wiele więcej, niż prosiłam." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "Jestem ci ogromnie wdzięczna. Noce są ostatnio przejmująco zimne, ale koce z tej wełny bardzo pomogą ogrzać naszych ludzi." }
   ]
 }

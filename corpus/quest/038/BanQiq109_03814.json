@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq109_03814",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_00", "hash": "9EFFE219C52EF9ED", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_01", "hash": "A4EFAA3B9E942253", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_TODO_00", "hash": "8C5265C200B00601", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_000", "hash": "5C0C68B1377DEF4E", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_001", "hash": "F76403B892D64D71", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_010", "hash": "D00ED9864CDB304F", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_020", "hash": "2061FB1106CAEAB4", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_030", "hash": "404E862A804358F3", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_040", "hash": "10B98F26B2183018", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_050", "hash": "397D2E83893A1529", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_060", "hash": "F76CB19667791A4B", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_070", "hash": "ABF195D0D90FEFFB", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_080", "hash": "345B1DD3CD921096", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_081", "hash": "1D959C38C277E6FB", "target": "" }
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_00", "hash": "9EFFE219C52EF9ED", "target": "Qhoterl Pasol wie, że przezorność popłaca.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_01", "hash": "A4EFAA3B9E942253", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_TODO_00", "hash": "8C5265C200B00601", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć splendid chalcanthite clusters przy Łupinie,Dostarczyć splendid chalcanthite clusters Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać splendid tarantulas przy Łupinie,Dostarczyć splendid tarantulas Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid poison catfish w Łzach Mjrla,Dostarczyć splendid poison catfish Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_000", "hash": "5C0C68B1377DEF4E", "target": "Dzięki ochronnym zaklęciom Błogosławionych Nocy możemy prowadzić badania bez lęku przed potworami. Oczywiście zaklęcia z czasem tracą moc, a wtedy musimy umieć się obronić." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_001", "hash": "F76403B892D64D71", "target": "Dlatego zamierzam przyrządzić silną truciznę. Będę bardzo wdzięczna za zdobycie jednego ze składników." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_010", "hash": "D00ED9864CDB304F", "target": "Potrzebuję chalkantytu, który można wydobyć przy Łupinie. Jakieś trzy skupienia kryształów powinny wystarczyć do naszych celów." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_020", "hash": "2061FB1106CAEAB4", "target": "Potrzebuję tarantul, które można znaleźć przy Łupinie. Jakieś trzy powinny wystarczyć do naszych celów." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_030", "hash": "404E862A804358F3", "target": "Potrzebuję jadowitego suma, którego można złowić w Łzach Mjrla na przynętę fruit worm. Jedna ryba powinna wystarczyć do naszych celów." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_040", "hash": "10B98F26B2183018", "target": "Proszę przynieść mi trzy skupienia kryształów chalkantytu, których potrzebuję do trucizny. Przypominam, że można je wydobyć przy Łupinie." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_050", "hash": "397D2E83893A1529", "target": "Proszę przynieść mi trzy tarantule, których potrzebuję do trucizny. Przypominam, że można je znaleźć przy Łupinie." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_060", "hash": "F76CB19667791A4B", "target": "Proszę przynieść mi jadowitego suma, którego potrzebuję do trucizny. Przypominam, że można go złowić w Łzach Mjrla na przynętę fruit worm." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_070", "hash": "ABF195D0D90FEFFB", "target": "Miło znów powitać <if(gnum4,panią,pana)>. Czy udało się zdobyć składnik, o który prosiłam?" },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_080", "hash": "345B1DD3CD921096", "target": "Wspaniale, dziękuję za uprzejmą współpracę. Na wypadek wątpliwości wyjaśnię, że trucizna odbiera potworom zdolność ruchu. Naniesiona na ostrza rzutek nie zabije od razu, ale da nam sposobność ucieczki w bezpieczne miejsce." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_081", "hash": "1D959C38C277E6FB", "target": "Oczywiście modlę się, by nasz lud w ogóle nie musiał sięgać po takie środki. Niech miłosierny Dalan zawsze nam błogosławi i chroni od krzywdy." }
   ]
 }

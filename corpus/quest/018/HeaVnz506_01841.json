@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz506_01841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_00", "hash": "437C0B11E2A15EF8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_01", "hash": "F3574EA65D682F50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_02", "hash": "1E057002EB40889B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_03", "hash": "4B57567522D3854B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_04", "hash": "F64E2ED40EDF6B96", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_00", "hash": "39C245F9FB895793", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_01", "hash": "555DE310A508F8BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_02", "hash": "EBE5FED3BD29B3BD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_000", "hash": "AF95AC64FAA224ED", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_001", "hash": "6512EF4A83CBE66D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_010", "hash": "82F6F5CF7A9DAEF9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_030", "hash": "F872574BE963778E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_031", "hash": "1AE25603C589266C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_032", "hash": "2DC72C741605C1A6", "target": "" }
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_00", "hash": "437C0B11E2A15EF8", "target": "Coś porządnie skręciło Mogmontowi pompon." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_01", "hash": "F3574EA65D682F50", "target": "Poczucie obowiązku Mogmonta zostało głęboko urażone przez bezczelnego smoka, który uwił gniazdo tuż przed Zenith. Sumienny moogle każe ci wykraść z niego jajo, nie zdradza jednak, w jakim celu. Udaj się na plac przed Zenith i zabierz jajo sprzed smoczego nosa." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_02", "hash": "1E057002EB40889B", "target": "Smok, co zrozumiałe, atakuje cię przy próbie kradzieży jaja, ale udaje ci się go poskromić. Zabierz jajo z gniazda, zanim dojdzie do siebie." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_03", "hash": "4B57567522D3854B", "target": "Jajo jest ciepłe w dotyku. Czujesz żar smoka, który wkrótce ma się wykluć. Zanieś je Mogmontowi i wreszcie dowiedz się, co zamierza z nim zrobić." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_04", "hash": "F64E2ED40EDF6B96", "target": "Po odebraniu smoczego jaja Mogmont zdradza ostatni etap genialnego planu: odda je. Najpierw jednak porządnie zbeszta smoka thoughtless dragon i pouczy go, jak ważne jest utrzymywanie czystości w tak świętym miejscu jak Zenith." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_00", "hash": "39C245F9FB895793", "target": "Zdobyć smocze jajo" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_01", "hash": "555DE310A508F8BE", "target": "Zdobyć smocze jajo" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_02", "hash": "EBE5FED3BD29B3BD", "target": "Dostarczyć jajo Mogmontowi" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_000", "hash": "AF95AC64FAA224ED", "target": "Nie pozwolimy na tę agresję, kupo! Naprzykrzający się słudzy Nidhogga opanowali plac przed Zenith." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_001", "hash": "6512EF4A83CBE66D", "target": "Musimy <italic(1)>coś<italic(0)> zrobić, żeby dać im nauczkę. Jeden miał nawet czelność uwić gniazdo tuż przed świętym miejscem. Dasz wiarę? Wykradnij mu jajo─to ich nauczy nie rozmnażać się tam, gdzie nie trzeba!" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_010", "hash": "82F6F5CF7A9DAEF9", "target": "Nie możemy pozwalać smokom Nidhogga <italic(1)>rozmnażać się<italic(0)> na świętej ziemi. Wykradnij jajo z gniazda i pokaż im, że nie są tu mile widziane!" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_030", "hash": "F872574BE963778E", "target": "Co za tupet, budować gniazdo na tak świętej ziemi! Kradzież jaja sprawiła ci jakieś trudności, kupo?" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_031", "hash": "1AE25603C589266C", "target": "To... To jajo jest większe, niż myślałem! Hm? Chcesz wiedzieć, co zamierzam z nim zrobić?" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_032", "hash": "2DC72C741605C1A6", "target": "Pójdę prosto do tego smoka i oddam mu jajo! Ale najpierw porządnie go zrugam! Powiem mu, że to domena Hraesvelgra i nie będziemy tu znosić niechlujnych gniazd, kupo!" }
   ]
 }

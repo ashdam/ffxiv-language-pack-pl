@@ -2,17 +2,17 @@
   "conversation": "quest/038/BanQiq126_03831",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "" }
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "Qhoterl Pasol nie może się doczekać, by podzielić się wieścią o niedawnym odkryciu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "Dostarczyć zamówione materiały Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć splendid bone fragments przy Łupinie,Dostarczyć splendid bone fragments Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać splendid earthworms przy Łupinie,Dostarczyć splendid earthworms Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid larva w Żalu Mjrla,Dostarczyć splendid larva Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "Podczas wykopalisk w podziemnej jaskini nasi pracownicy odkryli rozległy zbiornik wodny, który wręcz roi się od ryb. Ten dar zapewni stały dopływ pożywienia, gdy będziemy kopać głębiej. Oczywiście jeśli zdołamy złowić ryby." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "Przynęta ze zwierzęcych kości powinna być nieodparta, a przy Łupinie nie brakuje wyschniętych szczątków. Ja i moi pracownicy będziemy wdzięczni za przyniesienie ich trochę." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "Robaki byłyby doskonałą przynętą, ale nadadzą się tylko najdorodniejsze i najsoczystsze. Te przy Łupinie są tłuste od ucztowania na rozsianych po okolicy szczątkach. Ja i moi pracownicy będziemy wdzięczni za przyniesienie ich trochę─oczywiście dla ryb, nie dla nas!" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "Ryby nie potrafią oprzeć się dorodnemu, soczystemu robakowi na końcu haczyka. Zwykła przynęta fruit worm nie wystarczy jednak do złowienia najsmaczniejszych ryb. <italic(1)>Może<italic(0)> za to wystarczyć, by złapać to, czego potrzebujemy. Proszę udać się do Żalu Mjrla z przynętą fruit worm na haczyku i przynieść nam splendid larva." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "Ryby z pewnością oszaleją na punkcie przynęty ze zwierzęcej kości. Proszę udać się pod Łupinę, a można wręcz potknąć się o to, czego potrzebujemy." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "Potrzebujemy robaków, i to wielu. Dużych, soczystych─takich, które niemal pokrywają okolice Łupiny. Mam nadzieję, że nie brzydzi się <if(gnum4,pani,pan)> zbytnio, by je dotykać." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "Zadanie jest proste: złapać robaka na robaka. Wystarczy udać się do Żalu Mjrla z wędką w dłoni i przynętą fruit worm na haczyku, a potrzebna zdobycz szybko się znajdzie." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "Oto <if(gnum4,moja zdolna zbieraczka,mój zdolny zbieracz)>! I jak, udało się zdobyć przedmioty? Nie możemy się już doczekać uczty." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "Znów <if(gnum4,przeszła pani samą siebie,przeszedł pan samego siebie)>! Dotąd żywiliśmy się konserwowaną żywnością. Wypełnia brzuchy, lecz wyznaję zasadę, że posiłkiem należy się delektować. Może wreszcie choć na jeden posiłek zapomnimy o harówce pod ziemią." }
   ]
 }

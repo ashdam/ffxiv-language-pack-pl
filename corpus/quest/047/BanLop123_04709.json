@@ -2,16 +2,16 @@
   "conversation": "quest/047/BanLop123_04709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "" }
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "Managingway chce, by pobratymcy przestali malować miasto na czerwono...i niebiesko, i żółto, i na wszystkie inne kolory.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "Usunąć dzieła sztuki namalowane bez pozwolenia w Bestways Burrow" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "Zdać relację postaci Managingway" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "<split(<string(gstr1)>, ,1)>, czy mogę zająć chwilę?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "Choć widok tylu pobratymców zachwyconych malowaniem ogrzewa serce, dotarła do nas wiadomość, że niektórzy artyści pozwalają swej twórczości wylewać się poza granice stanowiska plastycznego." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "Wygląda na to, że pewna entuzjastyczna dusza artystyczna znów maluje poza wyznaczonymi liniami." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "Nie popieram niszczenia twórczych wysiłków, lecz nie mogę też wybaczyć naruszania zasad. Czy zechce <if(gnum4,pani,pan)> zmyć te dzieła namalowane bez pozwolenia?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "Farba znika z ulotnym pięknem. Nawet sprzątanie może być twórcze!" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "Dziękuję za ich zmycie. Jeszcze chwila, a wszyscy doświadczylibyśmy gniewu Livingway..." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "Zapewne ucieszy <if(gnum4,panią,pana)> wieść, że nasz twórczy sprawca został ujęty i otrzymał surową reprymendę." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "Podobno umyślne lekceważenie zasad stanowi integralną część procesu twórczego tej osoby, ale taki powód nie powinien przeczyć zwykłej uprzejmości. Muszę pomyśleć, jak zarządzać podobnym twórczym pragnieniem..." }
   ]
 }

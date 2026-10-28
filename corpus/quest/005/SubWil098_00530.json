@@ -2,18 +2,18 @@
   "conversation": "quest/005/SubWil098_00530",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "" }
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "Blayves z Lost Hope martwi się o chorego przyjaciela." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "Blayves potrzebuje wydzieliny gigantycznej ropuchy, by leczyć przyjaciela. Udaj się nad Bezbożnego Dziedzica i zdobądź dwie fiolki tego paskudztwa od żyjących tam toxic toad." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "Masz już dwie fiolki wydzieliny gigantycznej ropuchy. Dostarcz je Blayvesowi w Lost Hope." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "Blayves wierzy, że dostarczona wydzielina gigantycznej ropuchy powstrzyma chorobę jego przyjaciela. Choć sytuacja w Lost Hope jest doprawdy smutna, Blayves zdaje się pogodzony z losem." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "Zdobyć wydzielinę gigantycznej ropuchy od toxic toad" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "Dostarczyć wydzielinę gigantycznej ropuchy Blayvesowi w Lost Hope" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "Wyglądasz na kogoś, kto już niejedną bestię ubił. Zechcesz ubić jeszcze kilka?" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "Mój przyjaciel zachorował. Do leczenia koniecznie potrzebuję wydzieliny z wątroby toxic toad. Dwie fiolki wystarczą. Te paskudy znajdziesz w Bezbożnym Dziedzicu." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "Błagam, zrób to dla mnie. Bez leczenia mój przyjaciel umrze. Proszę!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "Potrzebuję dwóch fiolek wydzieliny z wątroby toxic toad. Proszę, mojemu przyjacielowi zostało niewiele czasu!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "Niech ci bogowie błogosławią! W samą porę. Jeszcze tylko trochę przygotowań i będę mógł podać to przyjacielowi." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "Od zawsze miał słabe serce. Gdyby był bogaty, mógłby dobrze jeść i kupować potrzebne specyfiki. Nie musielibyśmy używać takich paskudztw jak żółć ropuch." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "\\<wzdycha> Straciliśmy tu nie tylko nadzieję─pieniędzy i zdrowia też brak. Chyba to zło konieczne w państwie takim jak Ul'dah. Garstka na szczycie ucztuje i rozkwita, a tłumy na dole głodują i cierpią." }
   ]
 }

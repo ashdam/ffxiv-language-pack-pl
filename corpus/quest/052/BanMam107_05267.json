@@ -2,19 +2,19 @@
   "conversation": "quest/052/BanMam107_05267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_00", "hash": "DE39DB7AD2D8ED73", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_01", "hash": "129EBDBF4C18B0F7", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_TODO_00", "hash": "EE858830B2A21B7C", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_001", "hash": "EB7C833A7DD7A47E", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_002", "hash": "596C36871CFA2AF1", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_003", "hash": "F36A14CED2BEA4F6", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_004", "hash": "9636D7CA201E7F36", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_005", "hash": "2D65AB6F30776FA2", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_006", "hash": "8ACE0C0F64800F56", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_007", "hash": "26E24564F50C46AB", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_008", "hash": "60CEC012EDB1EFFA", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_009", "hash": "47AFE3B23A5D19C4", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_010", "hash": "3510EC6D40D4637E", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_011", "hash": "B9C77266CD14B133", "target": "" }
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_00", "hash": "DE39DB7AD2D8ED73", "target": "Kageel Ja z niepokojem spogląda na pola.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_01", "hash": "129EBDBF4C18B0F7", "target": "Dostarcz zamówione materiały postaci Kageel Ja." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_TODO_00", "hash": "EE858830B2A21B7C", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć przedmioty o nazwie „<ennoun(Item,3,lnum5,1,1)>” na Popielisku Xobr'it,Dostarczyć przedmioty o nazwie „<ennoun(Item,3,lnum5,1,1)>” postaci Kageel Ja)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać przedmioty o nazwie „<ennoun(Item,3,lnum5,1,1)>” na Popielisku Xobr'it,Dostarczyć przedmioty o nazwie „<ennoun(Item,3,lnum5,1,1)>” postaci Kageel Ja)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić stworzenie o nazwie „<ennoun(Item,3,lnum5,1,1)>” w Iq Rrax Tsoly,Dostarczyć przedmiot o nazwie „<ennoun(Item,3,lnum5,1,1)>” postaci Kageel Ja)>,)>)>)>" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_001", "hash": "EB7C833A7DD7A47E", "target": "Utrzymanie jakości gleby na polach to trudne, ale konieczne zadanie─i chętnie skorzystam z twojej pomocy, jeśli nie masz nic przeciwko." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_002", "hash": "596C36871CFA2AF1", "target": "Pamiętasz materiały, których użyliśmy jako nawozu przed zasadzeniem pierwszych roślin? Zapas się kurczy, więc trzeba będzie szybko uzupełnić go równie dobrymi składnikami." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_003", "hash": "F36A14CED2BEA4F6", "target": "Przy obecnym stanie gleby dobrze posłuży nam chyba chunk of Xobr'it sandstone z Popieliska Xobr'it. Wiem, że to kawałek drogi, ale efekty z pewnością będą tego warte." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_004", "hash": "9636D7CA201E7F36", "target": "Przy obecnym stanie gleby dobrze posłuży nam chyba Xobr'it deadwood log z Popieliska Xobr'it. Wiem, że to kawałek drogi, ale efekty z pewnością będą tego warte." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_005", "hash": "2D65AB6F30776FA2", "target": "Przy obecnym stanie gleby dobrze posłuży nam Iq Rrax whelk. Bez trudu wyłowisz te ślimaki, jeśli założysz na haczyk przynętę golden stonefly nymph." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_006", "hash": "8ACE0C0F64800F56", "target": "Na Popielisku Xobr'it wypatruj chunk of Xobr'it sandstone. Ten piaskowiec powinien dostarczyć glebie tyle składników odżywczych, ile potrzebuje." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_007", "hash": "26E24564F50C46AB", "target": "Na Popielisku Xobr'it wypatruj Xobr'it deadwood log. Te kłody powinny dostarczyć glebie tyle składników odżywczych, ile potrzebuje." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_008", "hash": "60CEC012EDB1EFFA", "target": "Iq Rrax whelk powinien dostarczyć glebie tyle składników odżywczych, ile potrzebuje. Załóż golden stonefly nymph na haczyk, a wyłowisz ślimaka, zanim zdążysz powiedzieć „najool”!" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_009", "hash": "47AFE3B23A5D19C4", "target": "Miło cię znów widzieć, <split(<string(gstr1)>, ,1)>. Rozumiem, że znalezienie materiałów nie sprawiło kłopotu?" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_010", "hash": "3510EC6D40D4637E", "target": "Ach, jak zwykle porządne okazy. Bardzo nam to pomaga." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_011", "hash": "B9C77266CD14B133", "target": "Po zbiorach glebie brakuje składników odżywczych, a każde nowe pole też wymaga dodatkowego nawozu. Twoja pomoc znacząco przyczyni się więc do obfitszych plonów. Mam nadzieję, że znów będzie można na ciebie liczyć, gdy zapasy się skurczą." }
   ]
 }

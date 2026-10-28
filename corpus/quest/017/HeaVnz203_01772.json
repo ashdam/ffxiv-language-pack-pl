@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz203_01772",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_00", "hash": "69DF7F935801C53B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_01", "hash": "56C31F4DB16334AB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_02", "hash": "B5039F51AAFE2120", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_03", "hash": "40A7FBF80A734F55", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_00", "hash": "9AFCC83F4D4DDEAD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_01", "hash": "B0FE72C45623EA12", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_000", "hash": "4EE8E68BCAA413A4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_001", "hash": "5747D874352011FE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_002", "hash": "AC53A49C55589B57", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_010", "hash": "7494899C30981388", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_020", "hash": "A5A1C0190422C8A7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_021", "hash": "603D1FBBFE1BA30B", "target": "" }
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_00", "hash": "69DF7F935801C53B", "target": "Leonulfe wypatruje brzęczących owadów." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_01", "hash": "56C31F4DB16334AB", "target": "Leonulfe wypatruje owadów feather flea, które nękają obozowe chocobo. Zabij cztery, by dać łowcom chwilę wytchnienia od insektów." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_02", "hash": "B5039F51AAFE2120", "target": "Owady feather flea nie będą już ucztować na krwi chocobo. Wróć do obozu i powiadom Leonulfe o wykonaniu zadania." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_03", "hash": "40A7FBF80A734F55", "target": "Informujesz Leonulfe, że jego ptaki będzie dręczyć o cztery feather flea mniej. Łowcy mogą tej nocy spać spokojnie, wiedząc, że przez jakiś czas owady nie będą nękać chocobo." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_00", "hash": "9AFCC83F4D4DDEAD", "target": "Zabić owady feather flea" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_01", "hash": "B0FE72C45623EA12", "target": "Zdać sprawę Leonulfe" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_000", "hash": "4EE8E68BCAA413A4", "target": "...Te owady, o których wspominałem? Przeklęte feather flea. Mają ssawki długie na yalm i uwielbiają smak krwi chocobo. Właśnie się zastanawiałem, co z nimi zrobić." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_001", "hash": "5747D874352011FE", "target": "Przepędzam je, ilekroć zbliżają się do naszych ptaków, ale te dranie zdają się nie mieć końca. Sam poszedłbym do lasu je rozgnieść, tylko że wtedy chocobo zostałyby bez obrony. Może zabijesz kilka za mnie?" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_002", "hash": "AC53A49C55589B57", "target": "Jeśli ubijesz ze cztery, będę wdzięczny." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_010", "hash": "7494899C30981388", "target": "Bez obaw, stąd będę miał wszystko na oku. Nie miej dla tych pcheł litości." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_020", "hash": "A5A1C0190422C8A7", "target": "Pchły łatwo padły, jak rozumiem? No, nieźle sobie radzisz z tępieniem owadów." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_021", "hash": "603D1FBBFE1BA30B", "target": "Chocobo wpadają w popłoch na sam widok tych przeklętych owadów, a uspokojenie ich zajmuje niemal cały dzień. Dzięki tobie przez jakiś czas będziemy spać spokojnie." }
   ]
 }

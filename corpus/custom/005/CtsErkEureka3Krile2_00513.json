@@ -2,16 +2,16 @@
   "conversation": "custom/005/CtsErkEureka3Krile2_00513",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_000", "hash": "674622EE4F966F74", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_001", "hash": "B56A4BE7B7FB3D00", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_002", "hash": "41885F71D57BCED1", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_003", "hash": "7FCB2DA7D2C3F128", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_010", "hash": "6F37B98D5574C8DE", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_100", "hash": "3B33EF9FBC7222DB", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_101", "hash": "80725A4E6B6B9278", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_102", "hash": "002D27EE81852909", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_103", "hash": "1754BF6E986EACCF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_104", "hash": "CCA6B78C81BEA2DF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_SYSTEM_000_105", "hash": "82CA06B6F13937CF", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_000", "hash": "674622EE4F966F74", "target": "Nazywamy to miejsce Żywą Odlewnią. Jej bijącym sercem jest protoeteryt." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_001", "hash": "B56A4BE7B7FB3D00", "target": "Choć wcześniej rzadko korzystaliśmy z niego do podróży, sądzimy, że można go łatwo włączyć do tutejszej sieci eterycznej. To jeszcze bardziej ją ustabilizuje i zwiększy nasze szanse na bezpieczne dotarcie do siedziby." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_002", "hash": "41885F71D57BCED1", "target": "Oczywiście najpierw musimy przeprowadzić sporo wstępnych prób, nim stwierdzimy z całą pewnością, co jest możliwe, a co nie. Dam ci znać, gdy tylko będę miała wyniki." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_003", "hash": "7FCB2DA7D2C3F128", "target": "Nie musisz jednak czekać tutaj z założonymi rękami. Gerolt cię szukał─podobno ma do omówienia jakąś propozycję czy dwie. Znajdziesz go w obozie." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_010", "hash": "6F37B98D5574C8DE", "target": "Nie musisz tu czekać, aż skończę. Później podzielę się wynikami. Może sprawdzisz, czego chce Gerolt?" },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_100", "hash": "3B33EF9FBC7222DB", "target": "...Sądząc po tym nieobecnym spojrzeniu, mogę jedynie założyć, że <if(gnum4,przechadzałaś,przechadzałeś)> się po moich wspomnieniach?" },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_101", "hash": "80725A4E6B6B9278", "target": "Chyba zawsze taki był. Z zapałem podejmował się najtrudniejszej pracy, nie chciał przyznać, że potrzebuje pomocy, dopóki go nie przyciśnięto, a potem szybko umniejszał jej znaczenie." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_102", "hash": "002D27EE81852909", "target": "Dla kogoś takiego jak ja─kogoś nawykłego do obracania się w towarzystwie i liczenia się ze zdaniem innych, jego całkowita obojętność na cudze opinie była, szczerze mówiąc... godna podziwu. W pewien sposób mu zazdrościłam." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_103", "hash": "1754BF6E986EACCF", "target": "Nie powinnam tak o nim myśleć. Jakby przepadł dla nas na zawsze. Musimy iść naprzód i zrobić to, co trzeba, kiedy nadejdzie czas." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_104", "hash": "CCA6B78C81BEA2DF", "target": "Potrzebuję czasu, by ponownie ocenić sytuację i ustalić najlepszy sposób działania..." },
+    { "gameKey": "custom/005/CtsErkEureka3Krile2_00513#TEXT_CTSERKEUREKA3KRILE2_00513_SYSTEM_000_105", "hash": "82CA06B6F13937CF", "target": "Możesz kontynuować wyprawę na Eurekę po osiągnięciu 50. poziomu żywiołowego." }
   ]
 }

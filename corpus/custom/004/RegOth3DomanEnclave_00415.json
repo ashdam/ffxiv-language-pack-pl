@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3DomanEnclave_00415",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_000", "hash": "366332BBAA787FA6", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_010", "hash": "0FD79743D86F678E", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_Q1_000_100", "hash": "308751F6047D0E40", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_101", "hash": "CBC418B5AEA07C4A", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_102", "hash": "BB8D732CB8EB610A", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_103", "hash": "B9AD5528E7949CF5", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_200", "hash": "D3ED44495B1FBF0D", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_201", "hash": "453B92D02107C7EF", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_300", "hash": "C670AEDB21EEF25D", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_301", "hash": "722545765F0C5BC0", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_302", "hash": "8D8993ACDEC93D4C", "target": "" },
-    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_303", "hash": "CA120550B1465DAE", "target": "" }
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_000", "hash": "366332BBAA787FA6", "target": "To <if(gnum4,pani,pan)>! Osoba, która walczyła u boku lorda Hiena i wywalczyła wolność Domie! To zaszczyt <if(gnum4,panią,pana)> gościć!" },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_010", "hash": "0FD79743D86F678E", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,2)>! <if(gnum4,Pani,Pana)> obecność to dla nas zaszczyt!" },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_Q1_000_100", "hash": "308751F6047D0E40", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_101", "hash": "CBC418B5AEA07C4A", "target": "Proszę opowiedzieć o swojej pracy." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_102", "hash": "BB8D732CB8EB610A", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_A1_000_103", "hash": "B9AD5528E7949CF5", "target": "O nic." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_200", "hash": "D3ED44495B1FBF0D", "target": "Mam na imię Yomogi, a czym się zajmuję... Cóż, gdy nasza rodzina miała jeszcze stragan, pomagałam rodzicom sprzedawać dango. Ale te czasy już minęły..." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_201", "hash": "453B92D02107C7EF", "target": "Tutejsze targowiska dorównywały niegdyś tym w Kugane. Można było kupić wszystko─nawet thavnairskie przyprawy! Miną długie lata ciężkiej pracy, nim choć zaczniemy zbliżać się do dawnej świetności, ale zrobimy, co trzeba." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_300", "hash": "C670AEDB21EEF25D", "target": "Enklawa była niegdyś ośrodkiem kultury i handlu. Kupcy i rzemieślnicy z całej Yanxii przybywali tu mieszkać i pracować... lecz wszystko skończyło się rok temu." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_301", "hash": "722545765F0C5BC0", "target": "Po stłumieniu rebelii Zenos uczynił z enklawy przestrogę... a ci z nas, którzy przeżyli, musieli mieszkać w ruinach..." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_302", "hash": "8D8993ACDEC93D4C", "target": "Monzen spotkał podobny los... choć w przeciwieństwie do enklawy nikomu nie pozwolono tam pozostać." },
+    { "gameKey": "custom/004/RegOth3DomanEnclave_00415#TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_303", "hash": "CA120550B1465DAE", "target": "Ale te mroczne dni wreszcie mamy za sobą! Teraz, gdy nasza ojczyzna została wyzwolona spod garleańskich rządów, możemy naprawdę rozpocząć odbudowę! Czy to nie wspaniałe?" }
   ]
 }

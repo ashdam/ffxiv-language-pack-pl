@@ -2,19 +2,19 @@
   "conversation": "quest/039/BanDwa111_03912",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_003", "hash": "4631B2743678B2E4", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_010", "hash": "9423CC966C1419A5", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_011", "hash": "9F07003042F45490", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_012", "hash": "C55E13E57FE27095", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_020", "hash": "49FE4EFB2790E0F3", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_030", "hash": "A26D60367C350552", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_032", "hash": "4EE921DAD1D1155F", "target": "" }
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "Regitt szuka dodatkowej pary rąk do pracy z niebezpiecznymi materiałami.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub profesją, którą przyjęto zadanie." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "Umieścić ładunek wybuchowy w wyznaczonym miejscu" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Porozmawiać z krasnoludzkim brygadzistą" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "Zdać raport Regittowi" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "Od pokoleń my, krasnoludy, zarabiamy na życie, własnymi rękami wydzierając ziemi ukryte żyły minerałów." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "Ale tutaj, w Kowadle, liczba rąk jest nieco ograniczona. Im większa skala naszej działalności, tym więcej pomocy musimy szukać na zewnątrz. A teraz chyba pora na ciebie!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_003", "hash": "4631B2743678B2E4", "target": "Idź do Godziny Nieuchronnej Niewoli. Jeden z moich robotników nadzoruje tam wydobycie. Praca się nie kończy i na pewno znajdzie coś, co wymaga twoich umiejętności." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_010", "hash": "9423CC966C1419A5", "target": "Ach, zjawiasz się w idealnej chwili! Właśnie odkryliśmy żyłę rudy w tej skale i szykowałem się ją rozłupać wybuchem. Ale skoro tu jesteś, może uczynisz nam ten zaszczyt?" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_011", "hash": "9F07003042F45490", "target": "Aha! Uwielbiam zapach termitu o poranku! Niektórych przeraża trochę materiału wybuchowego, ale ja zawsze mówię: zachowaj środki ostrożności i odległość, a będzie równie bezpiecznie jak na roli!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_012", "hash": "C55E13E57FE27095", "target": "Uff! Jeszcze kilka ilmów bliżej i ten wybuch mógłby nieco bardziej... nabrudzić. Ale zawsze mówię: wszystko dobre, co się dobrze kończy. Trochę pyłu i gruzu jeszcze nikomu nie zaszkodziło!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_020", "hash": "49FE4EFB2790E0F3", "target": "Ach, nic tak nie pobudza do życia jak wybuch, co? Zajmę się przeszukiwaniem gruzu w poszukiwaniu najlepszych minerałów─a ty powiedz Regittowi, że praca tutaj skończona. Przynajmniej na razie." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_030", "hash": "A26D60367C350552", "target": "Wracasz, a sądząc po cienkiej warstwie pyłu na tobie, zadanie poszło znakomicie!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "Choć dzisiaj wyglądało to inaczej, górnictwo to coś więcej niż rzucanie ładunkami w skały. Nasza wiedza jest głęboka i rozległa jak góry, w które się zapuszczamy. Wywęszymy żyły rudy przeoczone przez najlepszych górników Lakeland." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_032", "hash": "4EE921DAD1D1155F", "target": "Trzymaj więc z nami, a kto wie, jakie bogactwa cię czekają! Możesz mieć pewność, że znów cię zawołam, kiedy trafimy na najbogatszą żyłę." }
   ]
 }

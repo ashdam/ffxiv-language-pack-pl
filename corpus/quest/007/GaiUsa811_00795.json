@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa811_00795",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "Gogolata ma coś do wyznania." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "Gogolata zdradza prawdziwy powód niechęci do powrotu do Ul'dah: bandyci Qiqirn ukradli mu towar, a jeśli wróci bez niego, spadnie nań cały gniew żony. Podejrzewa, że złodzieje zabrali łup do kryjówki na południe od Fallgourd Float. Odzyskaj go, by oszczędzić kupcowi strasznego losu." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "Skradzione towary zostały odzyskane. Zwróć je Gogolacie w Bobbing Cork." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "Choć odzyskanie własności przynosi Gogolacie ulgę, myśl o powrocie do Ul'dah nadal go nie zachwyca. Ze względu na niepokojące pogłoski postanawia jeszcze trochę przedłużyć pobyt." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "Odzyskać towary Gogolaty" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "Zwrócić towary Gogolacie" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "Tak naprawdę niczego nie pragnę bardziej niż powrotu do Ul'dah, gdzie czeka moja kochająca żona. To znaczy, gdyby nie pewna drobna komplikacja..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "Moje towary ukradła, widzi <if(gnum4,pani,pan)>, przerażająca banda złodziei Qiqirn obozujących na południu. Gdybym wrócił z pustymi rękami, przy gniewie żony Katastrofa wyglądałaby jak mały pożar krzaków. Nie, obawiam się, że muszę przedłużyć pobyt..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "Och, biada, biada mi! Kupiec bez towaru nie jest wart nawet kupy łajna opo<-->opo! Jak ja mam się pokazać mojej najdroższej żonie?" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "M-moje towary! Gdzie się znalazły? W obozie Qiqirn... dokładnie tam, gdzie mówiłem? Niedorzeczność! Przecież nie myślałem, że <if(gnum4,pani,pan)> <italic(1)>naprawdę<italic(0)>─eee, ach!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "Ekhm! Chciałem powiedzieć, że znowu mam u <if(gnum4,pani,pana)> dług! Dzięki <if(gnum4,pani,panu)> mogę wreszcie wrócić do Ul'dah, gdzie czeka kochająca żona!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "...Z drugiej strony krążą te okropne pogłoski. O zamaskowanym mężczyźnie, tak? Drogi mogą jeszcze nie być bezpieczne. Choć bardzo mnie to boli, obawiam się, że muszę tu jeszcze trochę zostać..." }
   ]
 }

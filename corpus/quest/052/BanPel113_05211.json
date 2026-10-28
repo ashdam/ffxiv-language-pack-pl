@@ -2,15 +2,15 @@
   "conversation": "quest/052/BanPel113_05211",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "" }
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "Yubli chce uzupełnić zapasy środka odstraszającego potwory dla biura podróży.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "Użyć przyrządów do pobierania nektaru z pachnących kwiatów w pobliżu Xodune" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "Dostarczyć pachnący nektar Yubli" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "W ramach nieustannych starań, by odstraszać potwory od okolicy, używamy silnego kadzidła. Zapasy jednak maleją i wkrótce trzeba będzie przygotować nową partię." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "Niestety nie mamy pod ręką potrzebnych składników. Wytwarzamy kadzidło z nektaru szczególnie pachnącego kwiatu. Problem w tym, że rośnie w dość niebezpiecznym miejscu─niewielu możemy poprosić o taką wyprawę." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "Ale nie sądzę, by <if(gnum4,nasza specjalna doradczyni miała,nasz specjalny doradca miał)> większe trudności! Proszę wziąć te przyrządy. Pozwolą pobrać nektar bez uszkadzania roślin. Proszę udać się do Xodune─ta roślina kwitnie w okolicy." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "Witam z powrotem. Czy udało się <if(gnum4,pani,panu)> zebrać dość nektaru?" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "Poznaję ten zapach! Znakomita robota, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "To Hanuhanu podzielili się z nami przepisem na środek odstraszający. Podobno szczególnie skutecznie odpędza potwory rodzime dla Kozama'uka." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "Dzięki temu silnemu zapachowi spotkań z potworami ubywa, a zadowolenie klientów rośnie! Zmniejsza też obciążenie przewodników będących jednocześnie obrońcami. Tak czy inaczej, szybko to zużywamy, więc dam znać, kiedy znów trzeba będzie uzupełnić zapasy!" }
   ]
 }

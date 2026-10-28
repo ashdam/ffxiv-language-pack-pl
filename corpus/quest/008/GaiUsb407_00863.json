@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb407_00863",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_00", "hash": "49A8D15954953ECB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_01", "hash": "61FDA56A21007D12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_02", "hash": "186FA6D976608CCB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_03", "hash": "FB88A889A533B1D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_00", "hash": "4D77E4C35CB4B6B7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_01", "hash": "BCBD7124B030B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_000", "hash": "E3B95247D4434A64", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_001", "hash": "49B2B6B2A8F94AB5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_002", "hash": "DBDFCEBC3E9E6632", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_003", "hash": "8E73DE8B08B09275", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_020", "hash": "3297651F04F337FA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_021", "hash": "FA322589219DE537", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_022", "hash": "F144E02EE89B98C9", "target": "" }
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_00", "hash": "49A8D15954953ECB", "target": "Sierżant Swygrael ma wiele talentów, o czym przekonujesz się pewnego pamiętnego dnia. Tego pięknego <if([gnum11<12],<if([gnum11<4],wieczoru,poranka)>,<if([gnum11<17],dnia,wieczoru)>)> próbuje opanować kolejny." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_01", "hash": "61FDA56A21007D12", "target": "Sierżant Swygrael uznała, że najlepszym sposobem walki z plemieniem Kobold i jego potwornymi golemami jest wyszkolenie armii coeurlów. Porywcza oficer prosi cię o pomoc w planie i sprowadzenie jednego z wielkich kotów. Udaj się w okolice Floating City of Nym, osłab bestię young coeurl i schwytaj ją do wielkiego worka." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_02", "hash": "186FA6D976608CCB", "target": "Masz wielki worek z coeurlem, który nie jest najbezpieczniejszym ani najwygodniejszym domem dla tego majestatycznego stworzenia. Daj go Swygrael." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_03", "hash": "FB88A889A533B1D9", "target": "Oddajesz schwytaną bestię pani sierżant, która najwyraźniej niezbyt przemyślała ten pomysł. Na miłość Dwunastu, nie mów jej, że matka miała co do niej rację." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_00", "hash": "4D77E4C35CB4B6B7", "target": "Osłabić bestię young coeurl i schwytać ją do worka" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_01", "hash": "BCBD7124B030B0C5", "target": "Dać Swygrael worek z coeurlem" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_000", "hash": "E3B95247D4434A64", "target": "Przed moim wypłynięciem w morze mama powiedziała: „Dziewczyno, jesteś silna jak koń, szybka jak wąż i odważna jak cała Kompania Bohaterów razem wzięta. Ale to twoja siostra jest tą mądrą w rodzinie. Myślenie zostaw innym”." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_001", "hash": "49B2B6B2A8F94AB5", "target": "Ale tutaj nie ma zostawiania niczego innym. Więc sobie <italic(1)>pomyślałam<italic(0)>, może byśmy oswoili trochę coeurlów? Rozszarpałyby wojowników Kobold." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_002", "hash": "DBDFCEBC3E9E6632", "target": "Po prostu idź, zmęcz coeurla i złap go do tego wielkiego worka. Stawiam, że masz do tego <if(gnum4,pazur,jaja)>." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_003", "hash": "8E73DE8B08B09275", "target": "Och, łapanie mi nie idzie. Za bardzo się zapalam i zanim się obejrzę, wszystko jest pozabijane albo wyczerpane. Nie, cukiereczku, tu trzeba twojej delikatnej ręki." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_020", "hash": "3297651F04F337FA", "target": "Hej, <if(gnum4,piękna,przystojniaku)>! Jest już mój coeurl?" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_021", "hash": "FA322589219DE537", "target": "No proszę, prawdziwy cholerny coeurl! Niech no go oswoję. Wojownicy Kobold nie będą wiedzieli, co ich trafiło─bo wszyscy będą w kawałkach!" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_022", "hash": "F144E02EE89B98C9", "target": "No, to jak ja go oswoję? Jak to się zwykle robi, po prostu się na nich siada czy z nimi gada...?" }
   ]
 }

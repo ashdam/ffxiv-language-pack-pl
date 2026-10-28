@@ -2,19 +2,19 @@
   "conversation": "custom/003/JobRel300QuestLeave_00350",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_000", "hash": "C0DB139573411787", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_000", "hash": "822B46AC159ED218", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_010", "hash": "517B2D1E088024F0", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_011", "hash": "8B681007DD343C94", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_020", "hash": "5E5ADFAB4B4F371B", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_030", "hash": "DC08D595D1F81C7A", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_031", "hash": "51A91D37D75AFAB8", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_001", "hash": "5E8C69E8FDC30817", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_002", "hash": "AB56952546185791", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_003", "hash": "657797A2CCB2BE86", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_004", "hash": "3D252362CDAAFDBF", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_010", "hash": "8E7EFA76A32BF8CE", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_010", "hash": "4F051BE246C3E2DE", "target": "" },
-    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_020", "hash": "F46CFCB716606641", "target": "" }
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_000", "hash": "C0DB139573411787", "target": "Och, <split(<string(gstr1)>, ,1)>! Nie spodziewałem się tak szybkiego powrotu. Czy... czy coś się stało?" },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_000", "hash": "822B46AC159ED218", "target": "Powiedzieć mu, że chcesz porzucić pracę nad animą?" },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_010", "hash": "517B2D1E088024F0", "target": "Ależ oczywiście, cóż za gapa ze mnie! Przez chwilę byłem jednak niemal pewien, że chce <if(gnum4,pani,pan)>... że..." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_011", "hash": "8B681007DD343C94", "target": "Ekhm. Jeśli jednak kiedyś uzna <if(gnum4,pani,pan)>, że nie może kontynuować, zrozumiem." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_020", "hash": "5E5ADFAB4B4F371B", "target": "Jeśli potrzebuje <if(gnum4,pani,pan)> odpoczynku, nie zamierzam go odmawiać. Proszę się nie przemęczać z mojego powodu. Gdy przyjdzie ochota na wznowienie badań, będę tu czekał w gotowości." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_030", "hash": "DC08D595D1F81C7A", "target": "Dobrze, Ulan i Arnott zaraz się o tym ode mnie dowiedzą. Jeśli potrzebuje <if(gnum4,pani,pan)> wytchnienia, nasza praca musi zaczekać." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_031", "hash": "51A91D37D75AFAB8", "target": "Gdy przyjdzie ochota na wznowienie badań, będę tu czekał w gotowości." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_001", "hash": "5E8C69E8FDC30817", "target": "Porzucenie zadania „Spełnione marzenie” przywróci pierwotne wartości atrybutów twojej broni animy." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_002", "hash": "AB56952546185791", "target": "Ponadto dotychczasowe postępy nie zostaną przywrócone, jeśli ponownie podejmiesz to zadanie tym samym jobem." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_003", "hash": "657797A2CCB2BE86", "target": "Co więcej, wszystkie przedmioty Crystal Sand lub Umbrite zużyte podczas tego zadania przepadną bezpowrotnie." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_004", "hash": "3D252362CDAAFDBF", "target": "Uwaga: tej czynności nie da się cofnąć." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_010", "hash": "8E7EFA76A32BF8CE", "target": "Na pewno porzucić zadanie „Spełnione marzenie” i zresetować postępy?" },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_010", "hash": "4F051BE246C3E2DE", "target": "Jeśli w przyszłości zechcesz porzucić to zadanie, w każdej chwili możesz porozmawiać z Ardashirem." },
+    { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_020", "hash": "F46CFCB716606641", "target": "Jeśli w przyszłości zechcesz podjąć to zadanie, w każdej chwili możesz porozmawiać z Ardashirem." }
   ]
 }

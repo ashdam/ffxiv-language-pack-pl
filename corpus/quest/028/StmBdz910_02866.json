@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz910_02866",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_SEQ_00", "hash": "9317886178CFFA33", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_000", "hash": "933FADC24E5B6449", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_001", "hash": "BEC42403FE219A6F", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_002", "hash": "CDFEE091A583C706", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_003", "hash": "6CCC504506AD0122", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_010", "hash": "58BF6986BC6A601D", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_020", "hash": "ACE1C9FB7F0C90F0", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_021", "hash": "827AED70CE9640AB", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_022", "hash": "A11E5D1F8D5E49AB", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_023", "hash": "4ADA0D57616A4F5C", "target": "" }
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_SEQ_00", "hash": "9317886178CFFA33", "target": "Delikatna panna prosi cię o zebranie kwiatów." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "Zebrać pęczki złota Rhalgra" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "Dostarczyć pęczki złota Rhalgra delikatnej pannie" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_000", "hash": "933FADC24E5B6449", "target": "Jest <if(gnum4,pani,pan)> z wojsk Sojuszu? Służy <if(gnum4,pani,pan)> w armii? Byłabym niezmiernie wdzięczna za zebranie dla mnie pewnych szczególnych kwiatów." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_001", "hash": "BEC42403FE219A6F", "target": "Straciłam drogą przyjaciółkę podczas walk z Imperium. Chciałabym złożyć bukiet ku jej pamięci. Tyle że po łąkach, na których rosną te kwiaty, grasują stworzenia, które─mówiąc wprost─oderwałyby mi tę moją śliczną główkę." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_002", "hash": "CDFEE091A583C706", "target": "Jeśli nie obawia się <if(gnum4,pani,pan)> tych potworów, proszę odszukać kwiaty zwane złotem Rhalgra i przynieść mi ze trzy garście. Najlepiej poszukać przy Ścieżce bez Pragnienia, daleko na północ od Specula Imperatoris." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_003", "hash": "6CCC504506AD0122", "target": "Słyszałam, że złoto Rhalgra kwitnie na północ od Specula Imperatoris, przy Ścieżce bez Pragnienia. Podobno grasują tam też dwunastofulmowe bestie o usposobieniu samca jhammel użądlonego przez pszczołę..." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_010", "hash": "58BF6986BC6A601D", "target": "Udało się znaleźć kwiaty, o które prosiłam?" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_020", "hash": "ACE1C9FB7F0C90F0", "target": "Piękne, prawda? Podobno rosną tylko tam, gdzie uderzył piorun Niszczyciela─są rzadkie i cenne, zupełnie jak ona." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_021", "hash": "827AED70CE9640AB", "target": "Przepraszam, ja─nie potrafię wymówić jej imienia. Nie wierzyła w bogów, a ja nic nie wiem o zwyczajach jej ojczyzny. Mimo to chcę uczcić jej pamięć." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_022", "hash": "A11E5D1F8D5E49AB", "target": "Zaniosę ten bukiet do Specula Imperatoris i złożę tam, gdzie często się spotykałyśmy. Tam pracowałam... a ona tam stacjonowała." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_023", "hash": "4ADA0D57616A4F5C", "target": "Dziękuję za dobroć. Wspomnę jej o <if(gnum4,pani,panu)> w modlitwie." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz518_01853",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_00", "hash": "04522090B1AEE6B0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_01", "hash": "E8705957A03CDCDA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_02", "hash": "AF99870263498774", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_03", "hash": "E87647E0E482DA57", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_00", "hash": "56311BA3164CC46A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_01", "hash": "C74E10E0EFB2CD1A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_000", "hash": "07CC658E48504637", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_001", "hash": "36CF3A681469E549", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_010", "hash": "853DC6A3A75F0203", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_020", "hash": "60B90DBEFECBF834", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_021", "hash": "E40BA36E2EE48F6A", "target": "" }
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_00", "hash": "04522090B1AEE6B0", "target": "Mogoot uważnie obserwuje pobliskie golemy." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_01", "hash": "E8705957A03CDCDA", "target": "Zadaniem Mogoota jest pokonanie limestone golem. Wykorzystuje jednak okazję, by wyrazić wątpliwości co do twoich kwalifikacji do dowodzenia Oddziałem Moogli. Zabij trzy golemy i przynieś Mogootowi ich rdzenie na dowód swojej wartości." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_02", "hash": "AF99870263498774", "target": "Golemy rozsypują się przed tobą w drobne kamienie. Zanieś ich rdzenie Mogootowi." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_03", "hash": "E87647E0E482DA57", "target": "Mogoot jest zdumiony twoimi umiejętnościami bojowymi. Wątpi, czy kiedykolwiek osiągnie taki poziom. Po ukończeniu zadania wraca przemyśleć zdobytą naukę." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_00", "hash": "56311BA3164CC46A", "target": "Zabić limestone golem i zdobyć ich rdzenie" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_01", "hash": "C74E10E0EFB2CD1A", "target": "Dostarczyć rdzenie Mogootowi" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_000", "hash": "07CC658E48504637", "target": "Moje cele treningowe są tuż tam. Te golemy nie umkną czujnemu oku Mogoota, strzelca wyborowego nad strzelcami!" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_001", "hash": "36CF3A681469E549", "target": "Chcę cię jednak o coś poprosić. Choć ufam osądowi Mogzuna, pragnę na własne oczy zobaczyć siłę <if(gnum4,naszej dowódczyni,naszego dowódcy)>, kupo. Dowiedź swej siły i przynieś mi trzy rdzenie z tych limestone golem, które kręcą się w okolicy." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_010", "hash": "853DC6A3A75F0203", "target": "Chcę na własne oczy zobaczyć twoją biegłość w walce. Pokonaj golemy człapiące po okolicy." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_020", "hash": "60B90DBEFECBF834", "target": "Golemy rozsypały się w pył pod twoimi ciosami! Masz ich rdzenie, kupo?" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_021", "hash": "E40BA36E2EE48F6A", "target": "Tak, te będą doskonałe! Po tym pokazie walki wierzę, że Oddział Moogli nie mógłby mieć <if(gnum4,lepszej dowódczyni,lepszego dowódcy)>! Wątpię nawet, czy kiedyś zdołam tak sprawnie bronić domu... Cóż, trzeba znać swoje słabości, by je pokonać! Koniec ćwiczeń, kupo!" }
   ]
 }

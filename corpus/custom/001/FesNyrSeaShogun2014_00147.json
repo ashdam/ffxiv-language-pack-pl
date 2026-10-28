@@ -2,9 +2,9 @@
   "conversation": "custom/001/FesNyrSeaShogun2014_00147",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "" }
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "Niebiański Przełom to nowa szansa, prawda? Myślę, że to jak gra─kamień, jedwab, szpon." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "Dłoń się unosi, dłoń układa znaki, dłoń wygrywa, przegrywa albo remisuje. W każdy Niebiański Przełom dłoń się unosi. Szansa, <if(gnum4,moja pani,mój panie)>, szansa." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "<if(gnum4,Zgubiła pani,Zgubił pan)> hełm crimson uma kabuto? Czasami myślę, że nie grzeszy <if(gnum4,pani,pan)> rozumem." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "Czy <if(gnum4,moja pani,mój pan)> pociąga nosem? Myślę, że kolejny hełm w <if(gnum4,pani,pana)> rękach osuszy te łzy." }
   ]
 }

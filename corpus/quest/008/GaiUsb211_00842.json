@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb211_00842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "" }
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "Byrglaent, mistrz winiarski z Wineport, ma kłopot ze zdobyciem dobrego korka." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "Byrglaenta niemal apopleksja trafia na widok jakości dostarczonego korka. Nie zgadza się na nic poza najlepszym towarem, więc prosi cię o zabicie pięciu bestii cork bulb." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "Zabijasz pięć bestii cork bulb i wyrywasz doskonały korek z ich martwych ciał. Dostarcz zdobycz Byrglaentowi w Wineport." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "Mistrz winiarski wychwala zalety zdobytego przez ciebie korka wysokiej jakości. Nie może się jednak powstrzymać od ubolewania nad tym, że jego pracownicy nie potrafią sami zebrać tak dobrego materiału." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "Zebrać doskonały korek z bestii cork bulb" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "Dać korek Byrglaentowi" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "To ma być korek? Tfu! To żałosne, rozmokłe coś nie nadaje się nawet do mojej rzyci, a co dopiero do moich wybornych białych i czerwonych win. Kazałbym ci spróbować jeszcze raz, ale teraz nie powierzyłbym ci nawet <italic(1)>najgorszego<italic(0)> rocznika. Dla mnie nie istniejesz!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "<italic(1)>Ty<italic(0)>! <if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód! Mam dość szukania porządnej roboty wśród własnych ludzi. Pokaż temu gamoniowi, jak to się robi, i przynieś mi materiał z bestii cork bulb. Pięć powinno wystarczyć. Czas ucieka, a niezakorkowane wino kwaśnieje! Już, już!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "Gdzie korek, o który prosiłem? Jeśli myślisz, że za obijanie się dostaniesz kieliszek czegoś dobrego, to grubo się mylisz. <italic(1)>I<italic(0)> być może już dla mnie nie istniejesz!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "O, <italic(1)>to<italic(0)> wygląda na porządny korek. Hmm, ustępuje pod naciskiem akurat tyle, ile trzeba... Trochę powietrza przepuszcza, ale wilgoci już nie. Żeby tak mieć go całe beczki. Gdyby tylko <italic(1)>moi<italic(0)> ludzie potrafili równie sprawnie go znaleźć..." }
   ]
 }

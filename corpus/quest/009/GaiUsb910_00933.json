@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb910_00933",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_00", "hash": "5F3EAA68DEB7E364", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_01", "hash": "C93695B07DD15291", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_02", "hash": "D72313C86DB4CD0D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_03", "hash": "6BE56FC00A00DB84", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_00", "hash": "B8F62ADCDC340C09", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_01", "hash": "CD89899A08D965C6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_000", "hash": "BD1AD2C210B2AA75", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_001", "hash": "313ABD03432EAD9D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_020", "hash": "AB4A3BC7080DCD73", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_021", "hash": "858EFBBAA17E735A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_POP_MESSAGE_000", "hash": "2DCCE95EA9C5C2F7", "target": "" }
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_00", "hash": "5F3EAA68DEB7E364", "target": "Ser Faucillien chce powierzyć ci zadanie nieco ważniejsze niż zwykłe posługi." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_01", "hash": "C93695B07DD15291", "target": "Wokół Placówki Whitebrim trwają wielkie ruchy wojsk. Faucillien prosi cię o zabicie Dravanian outwatch, które opóźniają marsz kolumny. Masz wejść w głąb lasu na północny zachód od placówki i zwabić tych smoczych sług smoczymi łuskami." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_02", "hash": "D72313C86DB4CD0D", "target": "Dravanian outwatch nie żyją. Kierowane instynktem, a nie wiarą, umierają bez makabrycznych popisów, pompatycznych słów ani─Dwunastu, miejcie litość, bo tego, co widzisz, nie da się już zapomnieć─poezji. Wróć do ser Faucilliena i zamelduj o powodzeniu." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_03", "hash": "6BE56FC00A00DB84", "target": "Ser Faucillien chwali cię i ujawnia, że Ishgard rusza na Stone Vigil, twierdzę utraconą na rzecz smoków z Dravanii. To śmiały i chwalebny szturm, ale nie potrafisz stłumić złych przeczuć..." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_00", "hash": "B8F62ADCDC340C09", "target": "Użyć smoczej łuski we wskazanym miejscu i zabić Dravanian outwatch" },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_01", "hash": "CD89899A08D965C6", "target": "Złożyć meldunek Faucillienowi" },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_000", "hash": "BD1AD2C210B2AA75", "target": "<if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód. Słyszałem, że moi bracia rycerze zrobili z ciebie popychadło. Wstyd! Na Furię, mierz wyżej! Mam dla ciebie szlachetne zadanie: zabij Dravanian outwatch, które utrudniają nam marsz." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_001", "hash": "313ABD03432EAD9D", "target": "Są niczym psy, wielbią smoki w bezsłownych lasach swoich umysłów, a każda ich myśl to czarci krąg znikający o zmierzchu. Pomachaj tymi smoczymi łuskami w ich pobliżu, a przybiegną." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_020", "hash": "AB4A3BC7080DCD73", "target": "Smocze sługi nie żyją? Czyż nie czujesz teraz, że jesteś <if(gnum4,dojrzałą kobietą,dojrzałym mężczyzną)> o niesplamionym honorze? Wiedz, że oto znikła jedna z przeszkód na drodze do odzyskania Stone Vigil." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_021", "hash": "858EFBBAA17E735A", "target": "Jakież to typowe dla smoków, wysyłać bezmyślne sługi do brudnej roboty! Mamy nad nimi przewagę, bo wszyscy służący Ishgardowi są wolni, dumni i trzeźwo myślący." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_POP_MESSAGE_000", "hash": "2DCCE95EA9C5C2F7", "target": "Słyszysz w pobliżu pełne uwielbienia skomlenie!" }
   ]
 }

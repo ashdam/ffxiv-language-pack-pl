@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn504_02994",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_SEQ_00", "hash": "3F4C57335D8C74C0", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_000", "hash": "4ED21CF16528EE14", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_001", "hash": "68D1AC34A4A76994", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_002", "hash": "60A52B146B351B9B", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_020", "hash": "E08094B46B134624", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_021", "hash": "C76B22F829D98436", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_022", "hash": "F469AC49B71B71DA", "target": "" }
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_SEQ_00", "hash": "3F4C57335D8C74C0", "target": "Handel z plemieniem Qestir kwitnie, a Zukin chce go jeszcze rozwinąć.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "Zebrać księżycowe kule" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "Dostarczyć księżycowe kule Zukinowi" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_000", "hash": "4ED21CF16528EE14", "target": "Mam dla ciebie nowe zadanie, <split(<string(gstr1)>, ,1)>. Jak wiesz, niedawno nawiązaliśmy handel z plemieniem Qestir." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_001", "hash": "68D1AC34A4A76994", "target": "Chcę zrobić wrażenie─zaoferować coś, co możemy dostarczyć tylko my, Kojin, i osoby pobłogosławione przez kami. Cenny skarb z głębi Turkusowego Rowu." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_002", "hash": "60A52B146B351B9B", "target": "Znajdziesz tam kilka ogromnych, świecących kryształów. Odłamujące się od nich kawałki tworzą tak zwane „księżycowe kule”, które przypominają sam księżyc. Pomożesz nam zebrać je w głębinach?" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_020", "hash": "E08094B46B134624", "target": "Jak idą poszukiwania?" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_021", "hash": "C76B22F829D98436", "target": "Piękne! To niezwykłe, że przybierają kształt tak doskonałych kuleczek, prawda? Może nadają im go prądy morskie. I patrz, jak jasno świecą! Mogłyby nocą oświetlać wioskę." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_022", "hash": "F469AC49B71B71DA", "target": "Plemię Qestir czci Nhaamę, boginię księżyca i zmierzchu. Pewnie chętnie zapłacą duże sumy za te księżycowe kule. Wielkie dzięki za współpracę!" }
   ]
 }

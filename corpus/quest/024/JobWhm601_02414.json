@@ -41,7 +41,7 @@
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYLPHIE_000_033", "hash": "4422295440B72BD9", "target": "Więc... mogę iść!?" },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYLPHIE_000_034", "hash": "3616F8924228FF8F", "target": "Obiecuję, że będę ostrożna! I poproszę <split(<string(gstr1)>, ,1)> o pomoc, gdy tylko jej potrzebuję!" },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_ESUMIYAN_000_035", "hash": "E36B143E14B16964", "target": "Proszę o tym pamiętać. A teraz najwyższy czas wyruszyć na pogranicze Gyr Abanii. Możemy dotrzeć do Wieży Amarissaix. Stamtąd oficer Żmij przeprowadzi nas przez ruiny castrum." },
-    { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYSTEM_000_036", "hash": "CE982FFFD14CF4EC", "target": "Aby kontynuować tę misję, najpierw rozpocznij misję głównego wątku fabularnego „Beyond the Great Wall”." },
+    { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYSTEM_000_036", "hash": "CE982FFFD14CF4EC", "target": "Aby kontynuować tę misję, najpierw rozpocznij misję głównego wątku fabularnego „Za wielkim murem”." },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYLPHIE_000_040", "hash": "F8FDD834B5F45555", "target": "Uch... Jest coraz gorzej. \\<drży> To już nie niepokój, to strach..." },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_ESUMIYAN_000_041", "hash": "E7F531766F0EFB9E", "target": "Im bliżej jesteśmy East End, tym większą mam pewność, że zmierzamy we właściwym kierunku." },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SYLPHIE_000_042", "hash": "BC4ACFDD49EBF3D6", "target": "Wciąż jednak nie potrafię dokładnie zlokalizować źródła zakłócenia..." },

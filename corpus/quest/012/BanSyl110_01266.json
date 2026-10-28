@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanSyl110_01266",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_00", "hash": "9D90788482415D71", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_03", "hash": "A007B9C05E437149", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_01", "hash": "9DCA0A7ECE37240C", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_000", "hash": "266DA99D74980BAB", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_001", "hash": "FC33370A8F5DC32B", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_002", "hash": "FE73DD381C5AB1DD", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_003", "hash": "833CF1982759DD18", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_010", "hash": "9EE7528A270662E7", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_020", "hash": "E1B2CC6808A35BF9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_021", "hash": "B6034D1751B32FEB", "target": "" }
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_00", "hash": "9D90788482415D71", "target": "Nos Tonaxii wyczuwa coś zgniłego w Śpiewie Skowronka." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "W mocno chybionej próbie ochrony leśnego domu przed obcymi złośliwi sylfowie wypuścili w Śpiewie Skowronka chmarę trujących grzybów banestool. Na prośbę Tonaxii usuń grzybowe zagrożenie, zanim skażenie się rozprzestrzeni." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "Grzyby banestool zostały zlikwidowane, a leśne powietrze znów jest czyste. Zdaj relację Tonaxii." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_03", "hash": "A007B9C05E437149", "target": "Tonaxia oddycha głęboko świeżym leśnym powietrzem i dziękuje za twoją pomoc. Wrażliwa Tonaxia współczuje pobratymcom, których nieufność wobec obcych przyćmiła miłość do własnego domu." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "Pokonać grzyby banestool" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_01", "hash": "9DCA0A7ECE37240C", "target": "Zdać relację Tonaxii" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_000", "hash": "266DA99D74980BAB", "target": "Coś tu śmierdzi, a ta tutaj założy się, że dotknięci maczali w tym palce!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_001", "hash": "FC33370A8F5DC32B", "target": "Ta tutaj widziała, jak dotknięci sadzą śmierdziogrzyby w Śpiewie Skowronka. Dotknięci chcą nasmrodzić, żeby chodzący nie wchodzili do lasu, ta tutaj to wie." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_002", "hash": "FE73DD381C5AB1DD", "target": "Co oni sobie myślą!? Dotknięci chcą zasmrodzić własny dom tych tutaj, żeby nie wpuścić innych!?" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_003", "hash": "833CF1982759DD18", "target": "Proszę, <if(gnum4,przyjazna,przyjazny)>! Niech porąbie śmierdzących, zanim smród pokryje cały las!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_010", "hash": "9EE7528A270662E7", "target": "Proszę, <if(gnum4,przyjazna,przyjazny)>! Niech idzie do Śpiewu Skowronka i porąbie śmierdzących, zanim smród pokryje cały las!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_020", "hash": "E1B2CC6808A35BF9", "target": "Aaaach! Nos tej tutaj mówi tej tutaj, że <if(gnum4,przyjazna znów uratowała,przyjazny znów uratował)> tych tutaj. Wdzięczność tej tutaj nie ma końca." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_021", "hash": "B6034D1751B32FEB", "target": "Dotknięci kochali kiedyś las tak jak ci tutaj, ale już nie kochają. Tej tutaj żal dotkniętych." }
   ]
 }

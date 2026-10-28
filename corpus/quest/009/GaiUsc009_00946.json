@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsc009_00946",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "" }
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "Podobno Forsemart ma zadanie wymagające podróży." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "Forsemart wyjawia, że należy do badaczy szukających odpowiedzi w Snowcloak, lecz przyszłość wyprawy stanęła pod znakiem zapytania, gdy najemnicy opuścili posterunki. Jeśli chcesz zobaczyć ten cudowny lodowy mur, porozmawiaj z Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "Ourdilic z goryczą wspomina, że smoczy rycerze rzekomo nie mogą odstąpić ani jednego człowieka. Znając sytuację w Placówce Whitebrim, podejrzewasz, że to po prostu szczera prawda..." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "Porozmawiać z Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "Uczestniczę w wyprawie do Snowcloak. Znasz ten wielki lodowy mur, który rośnie jak opowieść samochwała? W tych stronach czyha mnóstwo niebezpieczeństw, więc nasza grupa najęła ochroniarzy." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "Jednak przestraszyli się stworzeń grasujących po pustkowiu, opuścili posterunki i uciekli. Cóż to za tchórzostwo? Nie do wiary!" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "Podobno przewrócisz każdy kamień, by wykonać zadanie. Co ty na to? Zechcesz strzec wyprawy? Pilnie potrzebujemy sprawnego miecza." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "Więcej dowiesz się od Ourdilic w Snowcloak. Bywaj. Dbaj o bezpieczeństwo moich ludzi." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "<split(<string(gstr1)>, ,1)>, tak? Och, przysyła cię Forsemart! Na miłosierdzie Halone, witamy z otwartymi ramionami. Rozważaliśmy nawet przerwanie wyprawy z braku straży." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "Smoczy rycerze podobno nie mogą pomóc, bo wojna ze smokami pochłania wszystkie ich siły. Twoja obecność to prawdziwy dar losu!" }
   ]
 }

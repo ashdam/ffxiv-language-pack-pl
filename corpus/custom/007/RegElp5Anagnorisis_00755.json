@@ -2,14 +2,14 @@
   "conversation": "custom/007/RegElp5Anagnorisis_00755",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_000", "hash": "5DA7D2B86BBC316A", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_Q1_000_000", "hash": "FEFAF79A75967732", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_001", "hash": "28137FD94C66E083", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_002", "hash": "D0E95A582B8E7B40", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_003", "hash": "1ADCC25188330F6B", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_010", "hash": "487FDAC9466279CE", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_011", "hash": "6464BD20D6DFD53D", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_020", "hash": "6AEB46263B096A91", "target": "" },
-    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_021", "hash": "3F28F639ABA95337", "target": "" }
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_000", "hash": "5DA7D2B86BBC316A", "target": "Ach, cóż za osobliwy chowaniec! Pewnie przybywasz tu na polecenie swojego twórcy, by poznać nasze zwyczaje, a może i doznać pewnego oświecenia. O co chcesz mnie zapytać?" },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_Q1_000_000", "hash": "FEFAF79A75967732", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_001", "hash": "28137FD94C66E083", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_002", "hash": "D0E95A582B8E7B40", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_A1_000_003", "hash": "1ADCC25188330F6B", "target": "Anuluj." },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_010", "hash": "487FDAC9466279CE", "target": "Jak większość moich współpracowników tutaj, w ośrodku Anagnorisis, zajmuję się obserwacją powierzonych nam tworów i oceną ich zdolności do życia na planecie Etheirys." },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_011", "hash": "6464BD20D6DFD53D", "target": "To oczywiście ogromna odpowiedzialność, ale poczucie osiągnięcia czegoś ważnego, jakie daje wprowadzanie na świat nowych gatunków, wynagradza wszelki trud." },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_020", "hash": "6AEB46263B096A91", "target": "Anagnorisis jest jednym z najważniejszych ośrodków w Elpis, ponieważ to tu ustalamy zalety i wady rozmaitych przedstawicieli flory i fauny pod naszą opieką." },
+    { "gameKey": "custom/007/RegElp5Anagnorisis_00755#TEXT_REGELP5ANAGNORISIS_00755_THEANO_000_021", "hash": "3F28F639ABA95337", "target": "Nazwa pochodzi od idei leżącej u podstaw naszej pracy: odkrywania prawdziwej natury tworów. Dopiero gdy pozwolimy im współistnieć w takim środowisku jak to, odsłaniają przed nami istotę swojego bytu." }
   ]
 }

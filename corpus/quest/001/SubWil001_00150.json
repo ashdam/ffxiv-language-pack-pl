@@ -2,14 +2,14 @@
   "conversation": "quest/001/SubWil001_00150",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_00", "hash": "C282EDB8A76B23DD", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_01", "hash": "EBEFC4ACBB430F80", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_02", "hash": "31DE09CC99AD5C6F", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_TODO_00", "hash": "0F959AE7AA1016DE", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_1", "hash": "5E82B85F0C2F43F0", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_2", "hash": "BB19B8B6E60083F2", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_3", "hash": "CFCD0E976130B56F", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_5", "hash": "9530836B4DA65839", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_6", "hash": "82B5470CD88B7AAA", "target": "" }
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_00", "hash": "C282EDB8A76B23DD", "target": "Geltherowi nie podoba się, jak na niego patrzysz. Puści to jednak płazem, jeśli przekażesz dla niego wiadomość." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_01", "hash": "EBEFC4ACBB430F80", "target": "Nieco rozwścieczony Gelther żąda, by przekazać dość barwne ultimatum Didilacie, który nie spłacił długu. Odszukaj go i uświadom mu powagę sytuacji." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_02", "hash": "31DE09CC99AD5C6F", "target": "Lalafell bez wahania obiecuje oddać należne pieniądze. Sądząc po jego panicznym jąkaniu, nie masz większych powodów wątpić w jego szczerość." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_TODO_00", "hash": "0F959AE7AA1016DE", "target": "Zagrozić Didilacie" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_1", "hash": "5E82B85F0C2F43F0", "target": "Ej, ty! Widzę, jak się na mnie gapisz. Masz coś do powiedzenia? Co!?" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_2", "hash": "BB19B8B6E60083F2", "target": "Nie? To <italic(1)>ja<italic(0)> mam! Znasz Didilatę? Niski, spłukany, nigdy nie oddaje długów? Tak, ten zasrany sukinsyn! Powiedz mu, żeby płacił. Inaczej przysięgam na Dwunastu, że tak go stłukę, jakby Dalamud spadł po raz drugi!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_3", "hash": "CFCD0E976130B56F", "target": "Jak zobaczę mordę tego małego gnojka, pewnie zatłukę go na krwawą miazgę. Więc idź ty i mu powiedz!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_5", "hash": "9530836B4DA65839", "target": "O b-b-bogowie─z-z-zbir Gelthera!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_6", "hash": "82B5470CD88B7AAA", "target": "D-dobrze, dobrze! Oddam każdego gila, którego jestem winien! Przysięgam!<br>T-tylko już mnie nie bij, b-b-błagam!" }
   ]
 }

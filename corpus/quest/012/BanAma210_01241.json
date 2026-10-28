@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma210_01241",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_00", "hash": "DF4B8BCF042BC413", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_01", "hash": "3F1ACCBAE40BF14E", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_02", "hash": "2C13D072C3676C51", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_03", "hash": "E5F75C7AC0178409", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_00", "hash": "BE5C6A07E5DC98F5", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_01", "hash": "A46B5E03A015D656", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_000", "hash": "0B3365738B998BA5", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_001", "hash": "D3D015E687518964", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_002", "hash": "7A08B2174043662D", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_004", "hash": "7F5DC0362CD4946F", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_010", "hash": "2FDC9C66AA15AEEC", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_020", "hash": "01852005240B03B2", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_021", "hash": "FFA04B0DE3ACBD47", "target": "" }
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_00", "hash": "DF4B8BCF042BC413", "target": "Narujj Boh jest wyczerpany jednotorowością swych upartych pobratymców." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_01", "hash": "3F1ACCBAE40BF14E", "target": "Narujj Boh ze znużeniem wyjaśnia, że Amalj'aa w Zanr'ak wznieśli kolejne złowrogie wieże zwieńczone płomieniami. Odszukaj i zniszcz obiekty infernal beacons." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_02", "hash": "2C13D072C3676C51", "target": "Piekielne paleniska zostały zniszczone. Wróć do Kręgu Popiołu i zdaj sprawę wojownikowi Narujj Boh." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_03", "hash": "E5F75C7AC0178409", "target": "Narujj Boh wnioskuje z odoru zniszczenia, że zadanie się powiodło. Cieszy się z udaremnienia planów wrogów i dziękuje za twój wkład w sprawę Bractwa." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_00", "hash": "BE5C6A07E5DC98F5", "target": "Zniszczyć obiekty infernal beacons" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_01", "hash": "A46B5E03A015D656", "target": "Zdać sprawę wojownikowi Narujj Boh" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_000", "hash": "0B3365738B998BA5", "target": "Naszym fanatycznym pobratymcom nie sposób odmówić wytrwałości. Znów próbują skupić i wzmocnić błogosławieństwa swego bóstwa." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_001", "hash": "D3D015E687518964", "target": "Wznieśli w Zanr'ak solidne paleniska i poświęcili te strzeliste talizmany ogniem Ifryta." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_002", "hash": "7A08B2174043662D", "target": "Potrzeba więcej niż garści popiołu, by zdusić tak ryczące płomienie, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>. Czas subtelności minął! Użyj wszelkiej dostępnej broni, ale obal te budowle!" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_004", "hash": "7F5DC0362CD4946F", "target": "Jak zawsze Płomienne Kły spróbują przeszkadzać ci na każdym kroku. Walcz z nimi, jeśli trzeba, ale nie trać z oczu prawdziwego zadania." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_010", "hash": "2FDC9C66AA15AEEC", "target": "Odszukaj piekielne paleniska w Zanr'ak i pozostaw po nich jedynie dymiące ruiny!" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_020", "hash": "01852005240B03B2", "target": "Po zapachu dymu i krwi sądzę, że zadanie się powiodło. Nawet moi uparci pobratymcy muszą teraz poczuć cień zwątpienia w siłę swych osławionych błogosławieństw." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_021", "hash": "FFA04B0DE3ACBD47", "target": "Choć jesteś <if(gnum4,obca,obcy)>, wiele zawdzięcza ci Bractwo. Doprawdy, sprzyja nam szczęście, skoro <if(gnum4,zostałaś naszą szanowną sojuszniczką,zostałeś naszym szanownym sojusznikiem)>." }
   ]
 }

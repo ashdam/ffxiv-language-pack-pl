@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz013_01738",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "" }
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "Caribault ogląda grządkę dyń z dziwnym przygnębieniem." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "Pytasz Caribaulta o pracę w obozie Camp Cloudtop. Opowiada ci o dzikich ptakach gastornis, które już kilkakrotnie zniszczyły uprawy. Prosi, by zabić trzy z nich i w ten sposób przetrzebić ich populację. Aby nic się nie zmarnowało, masz też przynieść mięso zabitych ptaków." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "Po zabiciu ptaków gastornis masz trzy kawałki ich mięsa. Zanieś zdobycz Caribaultowi." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "Caribault z ulgą przyjmuje wieść o przetrzebieniu ptaków gastornis. Ich mięso będzie miłą odmianą od solonych racji, do których przywykli żołnierze. Twoja praca przyniosła podwójną korzyść: bezpieczniejsze uprawy i smaczniejsze posiłki dla mieszkańców obozu Camp Cloudtop." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "Zabić gastornis i zdobyć ich mięso" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "Dostarczyć uda gastornis Caribaultowi" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "Hm? Szukasz pracy? To dobrze trafiasz. Jestem Caribault i mam zaszczyt służyć lady Laniaitte. Gdy jestem wolny od służby, staram się przydać przy uprawach, tak jak teraz." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "Ostatnio mamy kłopot z dzikimi ptakami gastornis. To te barwne stworzenia podobne do dodo, które kręcą się po okolicy. Choć próbujemy je odpędzać, zawsze dobierają się do upraw, zanim zdążymy zebrać plony." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "Bardzo pomożesz obozowi, jeśli zabijesz kilka z nich. Myślę, że trzy wystarczą. I jeśli to nie kłopot, przynieś też trochę ich mięsa. Szkoda marnować taki dobry drób." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "Zabicie trzech gastornis powinno w zupełności wystarczyć. I pamiętaj, żeby przynieść ich mięso." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "Już po gastornis? Wspaniale! Udało się też zdobyć mięso?" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "Dziękuję ci! Moi ludzie ucieszą się z takiej porcji świeżego mięsa!" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "Solone mięso nie jest złe, ale często tęsknimy za czymś smaczniejszym. Dzięki tobie upiekliśmy dwie pieczenie na jednym ogniu─mamy świeże mięso na ruszt i chwilę wytchnienia od gastornis." }
   ]
 }

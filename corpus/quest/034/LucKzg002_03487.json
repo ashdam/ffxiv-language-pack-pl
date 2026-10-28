@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzg002_03487",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "" }
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mhon Mon cierpi z powodu piekielnych bestii i pustego żołądka." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Zaczaić się na wandering weapon" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "Zdać relację Mhon Mon" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "Och! Co robić? Co robić?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Chcę ugotować tradycyjny gulasz ludu Mord. Brakuje mi tylko jednego składnika─bursztynowego ziela." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Ale prawie nigdzie już tu nie rośnie, poza miejscem, gdzie roi się od evil weapon!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "Zabawna nazwa, ale do śmiechu nie jest, kiedy próbują cię zabić! Jest wśród nich jeden szczególnie okropny, zwany wandering weapon. Pozostałe chyba za nim podążają." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Jeśli się go pozbędziesz, może reszta da nam spokój. Wtedy wreszcie zbiorę bursztynowe ziele bez obaw. To jak, pomożesz nam?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Nienawidzę tego wandering weapon i jego wielkiej, głupiej gęby!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "Udało się? Hura! Teraz bursztynowe ziele będzie moje! He, he, he..." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Ale czy pozostałe evil weapon nie wrócą? Podobno magowie z Nabaath Areng stworzyli je z zaczarowanych mieczy. Tylko nie pytaj mnie, skąd ten ich wygląd!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "Ich panowie podobno zniknęli po Potopie. Bez rozkazów włóczą się po okolicy Amber i atakują wszystko, co podejdzie za blisko!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Mam nadzieję, że bez wandering weapon przez jakiś czas dadzą nam spokój, ale kto wie? Wiem tylko, że mogę wreszcie ugotować gulasz! Mój żołądek ci dziękuje!" }
   ]
 }

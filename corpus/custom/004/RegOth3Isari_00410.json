@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3Isari_00410",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_000", "hash": "4A073C534E3E3059", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_Q1_000_000", "hash": "BD2387F951C7CF98", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_001", "hash": "83155846929943DD", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_002", "hash": "193A2A2D998C7994", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_003", "hash": "5AD49D2A0A3717F3", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_010", "hash": "D0974C40A8F14F27", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_011", "hash": "0AFDC2C3C4F6C5C4", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_012", "hash": "35B23EE3E0686D61", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_020", "hash": "C6D645F39F65D51D", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_021", "hash": "6439E4C52F508C0E", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_022", "hash": "D2156FE208F1BB55", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_023", "hash": "E387C44E325C700B", "target": "" }
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_000", "hash": "4A073C534E3E3059", "target": "Witaj w Isari. Jestem─Wielcy kami! T-To ty, <string(gstr1)>, <if(gnum4,kobieta,człowiek)>, <if(gnum4,która uratowała,który uratował)> naszą wioskę! Proszę, jeśli czegoś potrzebujesz─czegokolwiek─nie wahaj się zapytać." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_Q1_000_000", "hash": "BD2387F951C7CF98", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_001", "hash": "83155846929943DD", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_002", "hash": "193A2A2D998C7994", "target": "Co tu robisz?" },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_003", "hash": "5AD49D2A0A3717F3", "target": "Nic." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_010", "hash": "D0974C40A8F14F27", "target": "Żyję z połowów i pochodzę z tej wioski, tak jak moi rodzice, a przed nimi dziadkowie." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_011", "hash": "0AFDC2C3C4F6C5C4", "target": "Choć ostatnio wielu opuszcza Isari w pogoni za bogactwem, żadne złoto nie skusi mnie do porzucenia rodzinnego domu." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_012", "hash": "35B23EE3E0686D61", "target": "Owszem, mam niewiele, ale mimo to cieszę się życiem. Nie ma na świecie lepszego uczucia niż wejść rano na łódź, poczuć wiatr we włosach podczas rejsu i wrócić z obfitym połowem ryb." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_020", "hash": "C6D645F39F65D51D", "target": "Niemal wszyscy utrzymujemy się tu z rybołówstwa, choć nasze specjalności znacznie się różnią. Jedni łowią mniejsze ryby na wędki, inni używają harpunów albo sieci na większe sztuki. Ja nurkuję i własnymi rękami zbieram skorupiaki oraz mięczaki z morskiego dna." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_021", "hash": "6439E4C52F508C0E", "target": "Jak możesz sobie wyobrazić, nasza wioska nigdy nie była zamożna, ale od czasu imperialnej inwazji często nie stać nas nawet na najpotrzebniejsze rzeczy." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_022", "hash": "D2156FE208F1BB55", "target": "Pozostaje mi wdzięczność za to, że cokolwiek się stanie, zawsze będziemy mieć morze. Choć nastały ciężkie czasy, dzięki niemu na naszych stołach i w żołądkach nigdy nie zabraknie jedzenia." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_023", "hash": "E387C44E325C700B", "target": "Jeśli jednak ktoś nie umie dobrze łowić, sprawa może wyglądać inaczej. Bez pewnych zdolności nie tylko połowy będą mizerne, ale zapewne także przyjaciół będzie niewielu." }
   ]
 }

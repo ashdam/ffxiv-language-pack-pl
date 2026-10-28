@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz902_02858",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_002", "hash": "E0E13BFD96AB474A", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_003", "hash": "5B95CE35B22211C2", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_010", "hash": "4849164FB2650EBE", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_011", "hash": "593DA0194A03B97C", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_012", "hash": "C953DE182460CA6B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_013", "hash": "4F9EFFC7A9F234C3", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_014", "hash": "DACA75618A44A5FA", "target": "" }
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "Papin chce sprawić rodzinie miłą niespodziankę." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Zabić true griffin, by zdobyć mięso" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "Dostarczyć mięso gryfa Papinowi" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "Przepraszam? Podobno wy, poszukiwacze przygód, jesteście bardzo dzielni i silni. Pomożesz mi? Chcę zdobyć coś wyjątkowego dla mamy, ale sam nie dam rady." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "Na północ od wioski żyją takie ogromne ptaki, gryfy. Podobno mają jedno z najlepszych mięs w okolicy." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_002", "hash": "E0E13BFD96AB474A", "target": "Gdybyś <if(gnum4,przyniosła,przyniósł)> choć trochę, mama na pewno bardzo by się ucieszyła." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_003", "hash": "5B95CE35B22211C2", "target": "Gryfy powinny być na północy, tam, gdzie wcześniej było pełno żołnierzy. Przynajmniej tak mówi mama." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_010", "hash": "4849164FB2650EBE", "target": "Ale szybko! Udało ci się znaleźć gryfy?" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_011", "hash": "593DA0194A03B97C", "target": "Ojej, nie sądziłem, że przyniesiesz aż tyle. Wy, poszukiwacze przygód, jesteście niesamowici." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_012", "hash": "C953DE182460CA6B", "target": "Znasz już to mięso? Mama mówi, że ma mnóstwo zdrowych składników. Ale gryfy są za groźne, żeby na nie polować, więc nigdy go nie jemy. Mama i siostra tak się ucieszą!" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_013", "hash": "4F9EFFC7A9F234C3", "target": "Szkoda, że tata nie może spróbować. Wyjechał do pracy. Kiedyś pisał codziennie, ale ostatnio nic nie przychodzi." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_014", "hash": "DACA75618A44A5FA", "target": "Na pewno nic mu nie jest. Jest bardzo silny, tak jak ty. A kiedy wróci, będziemy polować i jeść mięso gryfa cały czas!" }
   ]
 }

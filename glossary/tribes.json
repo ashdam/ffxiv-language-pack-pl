@@ -1,18 +1,28 @@
 {
   "entries": [
+    {"en": "Lalafell", "pl": "Lalafell", "forms": ["Lalafella", "Lalafellowi", "Lalafellem", "Lalafellu", "Lalafellowie", "Lalafellów", "Lalafellom", "Lalafellami", "Lalafellach", "lalafelskie"]},
+    {"en": "Shetona", "pl": "Shetona", "forms": []},
+    {"en": "Milalla", "pl": "Milalla", "forms": []},
+    {"en": "Hhetsarro", "pl": "Hhetsarro", "forms": []},
+    {"en": "Midlander", "pl": "Midlander", "forms": []},
+    {"en": "Hyur", "pl": "Hyur", "forms": ["Hyura", "Hyurach", "Hyurem", "Hyurów", "Hyurowie"]},
+    {"en": "Roegadyn", "pl": "Roegadyn", "forms": ["Roegadyna", "Roegadynem", "Roegadynowi", "roegadyński", "Roegadynka", "Roegadynki", "roegadyńskiemu"]},
+    {"en": "Raen", "pl": "Raen", "forms": []},
+    {"en": "Bangaa", "pl": "Bangaa", "forms": []},
+    {"en": "Elezen", "pl": "Elezen", "forms": ["Elezena", "Elezenem", "Elezenie", "Elezenów", "elezeńskiego", "Elezenowi", "Elezeni", "Elezenowie", "Elezenka", "Elezenki", "Elezenkę", "Elezenko", "Elezenami", "elezeński", "elezeńskich", "elezeńskim", "Elezeny"]},
+    {"en": "Hoobigo", "pl": "Hoobigo", "forms": []},
+    {"en": "Gnath", "pl": "Gnath", "forms": ["Gnathowie", "Gnathów", "Gnatha", "Gnathem", "Gnathach", "Gnathom"]},
+    {"en": "Drahn", "pl": "Drahn", "forms": []},
+    {"en": "Mystel", "pl": "Mystel", "forms": []},
+    {"en": "Ronso", "pl": "Ronso", "forms": []},
     {"en":"Chaghan","pl":"Chaghan","forms":[]},
     {"en":"Qerel","pl":"Qerel","forms":[]},
     {"en":"Galdjent","pl":"Galdjent"},
     {"en":"Xaela","pl":"Xaela"},
-    {"en":"Hyur","pl":"Hyur","forms":["Hyura","Hyurach","Hyurem"]},
-    {"en":"Roegadyn","pl":"Roegadyn","forms":["Roegadyna","Roegadynem","Roegadynowi","roegadyński"]},
-    {"en":"Lalafell","pl":"Lalafell","forms":["Lalafella","Lalafellowi","Lalafellem","Lalafellu","Lalafellowie","Lalafellów","Lalafellom","Lalafellami","Lalafellach"]},
     {"en":"Tonawawta","pl":"Tonawawta","forms":[]},
     {"en":"Doppro","pl":"Doppro","forms":[]},
     {"en":"Whalaqee","pl":"Whalaqee","forms":[]},
     {"en":"Miqo'te","pl":"Miqo'te","forms":[]},
-    {"en":"Gnath","pl":"Gnath","forms":["Gnathowie","Gnathów"]},
-    {"en":"Elezen","pl":"Elezen","forms":["Elezena","Elezenem","Elezenie","Elezenów"]},
     {"en":"Padjal","pl":"Padjal","forms":["Padjala","Padjalem","Padjalowi","Padjalka","Padjalki","Padjalce","Padjalkę","Padjalką","Padjalko"]}
   ]
 }

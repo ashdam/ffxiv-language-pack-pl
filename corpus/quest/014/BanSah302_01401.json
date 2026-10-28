@@ -2,18 +2,18 @@
   "conversation": "quest/014/BanSah302_01401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "" }
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "Seww chce, by twoja wyprawa zaprowadziła cię w głąb tarliska." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "Według wojownika Seww Koralowe Trójzęby usilnie pracowały nad udoskonaleniem jeszcze potężniejszej wersji swej broni oblężniczej z mięczaków. Prosi cię o natychmiastowe działanie, by uchronić zapory przed niszczycielską siłą tych wynaturzonych tworów. Zapuść się w głąb tarliska i zniszcz reinforced whelk ballista, zanim zostaną przewiezione na front." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "Najnowsze i najpotężniejsze wersje balist zostały zniszczone. Wróć do Wylęgarni Novva i zdaj raport wojownikowi Seww." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "Seww z ulgą wysłuchuje raportu i ponownie podkreśla znaczenie zapór, które oddzielają walczące ludy. Choć po raz kolejny udaremniasz plany Koralowych Trójzębów, najwyraźniej zamierzają zacisnąć sobie na szyjach opisany przez niego obrazowo łańcuch odwetu." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "Zniszczyć reinforced whelk ballista" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "Zdać raport wojownikowi Seww" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "Psss... Podobno Koralowe Trójzęby udoskonaliły swoje wynaturzone balisty z morskich ślimaków i nadały im jeszcze większą moc." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "Najwyraźniej nie szczędzili wysiłków, by wyhodować większe, odporniejsze mięczaki─przy następnym ataku na zapory Trójzęby nie chcą niczego pozostawić przypadkowi." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "Na nasze szczęście te wynaturzone bronie wciąż są testowane w głębi tarliska. Teraz mamy okazję je zniszczyć, zanim przewiozą je na front!" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "Każdy atak na balisty zapewne wywoła szybki odwet, więc przygotuj się do obrony przed strażnikami." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "To doskonała okazja, by zniszczyć te machiny oblężnicze, zanim skierują je przeciw zaporom! Ale uważaj─balisty nie pozostaną bez straży." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "Psss! Kolejne zwycięstwo naszej sprawy! Gdyby zapory padły, naszym walkom z brzegołazami nie byłoby końca." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "My atakujemy, oni kontratakują, a nieprzerwany łańcuch odwetu coraz mocniej zaciska się na szyjach nas wszystkich. Prosta prawda, ale moi fanatyczni pobratymcy najwyraźniej nie potrafią jej pojąć..." }
   ]
 }

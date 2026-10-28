@@ -2,13 +2,13 @@
   "conversation": "custom/007/FesAnv2022_00774",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_000", "hash": "F65910A47CBCC79B", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_Q1_000_001", "hash": "11A8CF3B0B5375EB", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_001", "hash": "1753087E2C03F0F3", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_003", "hash": "9D2112809260B24D", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_010", "hash": "2DB13EA6B3415928", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_011", "hash": "FBE93E6C9A65AFAF", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_012", "hash": "0A0E36AE685C367B", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_013", "hash": "251E6CCB7F746115", "target": "" }
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_000", "hash": "F65910A47CBCC79B", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_Q1_000_001", "hash": "11A8CF3B0B5375EB", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_001", "hash": "1753087E2C03F0F3", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_003", "hash": "9D2112809260B24D", "target": "O nic." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_010", "hash": "2DB13EA6B3415928", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_011", "hash": "FBE93E6C9A65AFAF", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_012", "hash": "0A0E36AE685C367B", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_013", "hash": "251E6CCB7F746115", "target": "Gdyby <if(gnum4,pani zastanawiała,pan zastanawiał)> się nad miejscem obchodów, odbywają się one w Ul'dah. Jeśli <if(gnum4,chce pani,chce pan)> w nich uczestniczyć, zapraszamy do sułtanatu." }
   ]
 }

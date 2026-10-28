@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz016_02650",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_SEQ_00", "hash": "03B8C41DFA0EB8BB", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_00", "hash": "9E7DB7BDDC824122", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_01", "hash": "B7778EECD8494550", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_02", "hash": "52D121B8426DA713", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_000", "hash": "92CA0F1331CFA134", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_001", "hash": "29023A312EF6B35F", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_002", "hash": "3C64AA9888022CAF", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_003", "hash": "4AC7DA2C1A2D643A", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_010", "hash": "6F58FE7D73033D7A", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_011", "hash": "65A359AAEDC7F2F6", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_012", "hash": "15CE0DBAFDF37044", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_020", "hash": "7E69DA87F1C6F5D7", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_040", "hash": "9CA2A0E63DD07FA6", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_041", "hash": "F68C72DE63CD472F", "target": "" }
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_SEQ_00", "hash": "03B8C41DFA0EB8BB", "target": "Ten głodny Hyur nie wie, skąd wziąć następny posiłek." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_00", "hash": "9E7DB7BDDC824122", "target": "Porozmawiać z głodnym Hyurem" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_01", "hash": "B7778EECD8494550", "target": "Rozmieścić bomby dymne we wskazanych miejscach i rozproszyć chmary meszek" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_02", "hash": "52D121B8426DA713", "target": "Zdać sprawę głodnemu Hyurowi" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_000", "hash": "92CA0F1331CFA134", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>. Pomożesz mi w pewnej sprawie?" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_001", "hash": "29023A312EF6B35F", "target": "Przybyłem tu z Ala Gannha kupić żywność, ale właśnie mi powiedziano, że tutaj też nie było zbiorów." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_002", "hash": "3C64AA9888022CAF", "target": "Pomyślałem, że zamiast tego poszukam dzikich roślin do zebrania. Niestety upatrzone przeze mnie miejsce zajmuje rój muszek." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_003", "hash": "4AC7DA2C1A2D643A", "target": "Jeśli czujesz się na siłach, chcę cię poprosić o pozbycie się tych owadów. Jeśli się zgadzasz, spotkaj się ze mną w Ala Gannha." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_010", "hash": "6F58FE7D73033D7A", "target": "Dzięki za przybycie." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_011", "hash": "65A359AAEDC7F2F6", "target": "Jak zapewne wiesz, owady nie przepadają za dymem. Postanowiłem zrobić bomby dymne z prochu, którego używamy w kamieniołomie, i je odstraszyć." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_012", "hash": "15CE0DBAFDF37044", "target": "Użyj ich, żeby pozbyć się tych stworzeń. Znajdziesz je na zachód od wioski." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_020", "hash": "7E69DA87F1C6F5D7", "target": "Użyj bomb dymnych, żeby pozbyć się tych stworzeń. Znajdziesz je na zachód od wioski." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_040", "hash": "9CA2A0E63DD07FA6", "target": "Już po wszystkim? Wspaniale." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_041", "hash": "F68C72DE63CD472F", "target": "Oto zapłata za pomoc. Pójdę teraz zebrać tyle roślin, ile zdołam." }
   ]
 }

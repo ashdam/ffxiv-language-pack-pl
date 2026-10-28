@@ -132,6 +132,6 @@
     { "gameKey": "quest/048/KinGba531_04845#TEXT_KINGBA531_04845_TEPEKE_000_407", "hash": "04EA4342314F5AFE", "target": "Ale niedługo dostanie nauczkę. Gdy wieść o Uznairze się rozejdzie, nikt nie będzie go wychwalał. Nawet on musi to wiedzieć." },
     { "gameKey": "quest/048/KinGba531_04845#TEXT_KINGBA531_04845_TEPEKE_000_410", "hash": "9D7AEDABC7867347", "target": "Obawiam się, że rozpacz pchnie go do gorszych występków. Nieostrożne użycie skarbu mogłoby wyrządzić niewyobrażalne szkody." },
     { "gameKey": "quest/048/KinGba531_04845#TEXT_KINGBA531_04845_TEPEKE_000_415", "hash": "89B6BDD74BBCF5D5", "target": "Muszę omówić to z Promienistym Zastępem. Razem może schwytamy Virazahna, zanim posunie się do czegoś drastycznego. Proszę na razie pozostać w gotowości, <split(<string(gstr1)>, ,1)>─odezwę się, gdy tylko zdobędę nowe informacje!" },
-    { "gameKey": "quest/048/KinGba531_04845#TEXT_KINGBA531_04845_SYSTEM_000_450", "hash": "C4893914C94E7DAC", "target": "Aby rozpocząć kolejną misję, najpierw ukończ misję głównego wątku fabularnego „The Long Road to Xak Tural”." }
+    { "gameKey": "quest/048/KinGba531_04845#TEXT_KINGBA531_04845_SYSTEM_000_450", "hash": "C4893914C94E7DAC", "target": "Aby rozpocząć kolejną misję, najpierw ukończ misję głównego wątku fabularnego „Długa droga do Xak Tural”." }
   ]
 }

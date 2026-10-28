@@ -37,6 +37,6 @@
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_DONUHANU_000_052", "hash": "749BD9246C9AFB67", "target": "Musimy <if(gnum4,oboje,obaj)> szlifować umiejętności, co, <if(gnum4,dziewczyno,chłopcze)>? Kto wie, czego Pashenine będzie potrzebował następnym razem!" },
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_053", "hash": "EBCCDC7A1E54D735", "target": "Donuhanu jest zachwycony twoją pracą. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Niezawodną tropicielkę ryb,Niezawodnego tropiciela ryb)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_060", "hash": "9B6DEB0AD0DBC1D7", "target": "Kolejne zadanie Donuhanu będzie dostępne po osiągnięciu poz. 95 jako Fisher." },
-    { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_061", "hash": "877C12DC0EEDF78E", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Skyruin”." }
+    { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_061", "hash": "877C12DC0EEDF78E", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Niebiańska Zagłada”." }
   ]
 }

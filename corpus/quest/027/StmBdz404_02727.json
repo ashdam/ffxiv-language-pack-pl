@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz404_02727",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SEQ_00", "hash": "E758B21478D256F6", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_000", "hash": "5337CE1C9F702A00", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_001", "hash": "0D31C8E0F3A140C9", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_002", "hash": "33E6B27B956CA00F", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_003", "hash": "E0220F782A4F95E3", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_010", "hash": "5E576CF6E11BAA78", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_011", "hash": "90DF3CFC6057533E", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_012", "hash": "FA451A41B5D2A68B", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_013", "hash": "990F78EC4EF9A91E", "target": "" }
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SEQ_00", "hash": "E758B21478D256F6", "target": "Sentei ma kolejne zajęcie, jeśli zechcesz się go podjąć." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "Zebrać drewno opałowe" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "Zabrać smacznego pstrąga z pułapki rybaka Sentei" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "Dostarczyć Kohagi drewno opałowe i smacznego pstrąga" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_000", "hash": "5337CE1C9F702A00", "target": "Witaj ponownie, <if(gnum4,życzliwa podróżniczko,życzliwy podróżniku)>. Jeśli masz chęć, chciałbym poprosić cię o coś jeszcze." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_001", "hash": "0D31C8E0F3A140C9", "target": "Trzeba dostarczyć drewno opałowe, które widzisz za mną, mojej żonie Kohagi w Namai." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_002", "hash": "33E6B27B956CA00F", "target": "Sprawdź też, proszę, czy w pułapkę, którą zastawiłem w pobliskim strumieniu, złapały się jakieś ryby. Jeśli tak, zanieś je również Kohagi." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_003", "hash": "E0220F782A4F95E3", "target": "Proszę, dostarcz mojej żonie w Namai to drewno opałowe i wszelkie ryby, które złapały się w moją pułapkę." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_010", "hash": "5E576CF6E11BAA78", "target": "Och, dzień dobry. Czy my się znamy?" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_011", "hash": "90DF3CFC6057533E", "target": "Ach, mój mąż prosił o przyniesienie mi tego? Dziękuję za życzliwość." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_012", "hash": "FA451A41B5D2A68B", "target": "Wymienię drewno i pstrąga na ryż. Nasza rodzina nie ma własnego pola, więc zdobywamy ryż, handlując z mieszkańcami Namai, którzy je mają." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_013", "hash": "990F78EC4EF9A91E", "target": "Musimy być wdzięczni za źródlaną wodę płynącą z serca Pasma Gensui. Bez życia, któremu daje początek, nie mielibyśmy czym handlować ani jak się wyżywić." }
   ]
 }

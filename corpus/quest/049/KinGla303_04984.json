@@ -45,6 +45,6 @@
     { "gameKey": "quest/049/KinGla303_04984#TEXT_KINGLA303_04984_HALNARUK_000_046", "hash": "092DCB3760656229", "target": "Od tego smakowonnego zapachu ślina już wypełnia maskę Mobka... Pfffkssshhhlurp..." },
     { "gameKey": "quest/049/KinGla303_04984#TEXT_KINGLA303_04984_SYSTEM_000_047", "hash": "2C73B74127C15FBE", "target": "Xeerol Ja jest zachwycona twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,motywatorkę,motywatora)> Moblinów<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla303_04984#TEXT_KINGLA303_04984_SYSTEM_000_050", "hash": "E46FCAEC5EB0AFC8", "target": "Kolejne zlecenie będzie dostępne u Xeerol Ja po osiągnięciu poz. 95 klasą Alchemist lub Culinarian." },
-    { "gameKey": "quest/049/KinGla303_04984#TEXT_KINGLA303_04984_SYSTEM_000_051", "hash": "780A1A40C903D4EA", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Into the Traverse”." }
+    { "gameKey": "quest/049/KinGla303_04984#TEXT_KINGLA303_04984_SYSTEM_000_051", "hash": "780A1A40C903D4EA", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „W głąb przejścia”." }
   ]
 }

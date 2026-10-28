@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb510_00879",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_00", "hash": "09A54DA2A64C9AD9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_01", "hash": "D364EB772B5DE75D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_02", "hash": "F175127051F6B8D8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_03", "hash": "3CDB9AF75223D1B4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_00", "hash": "E48C2E5804799929", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_01", "hash": "1B6736F7DF5569D1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_000", "hash": "CCCC4D5A94FF6392", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_001", "hash": "1E311B4C5717877A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_002", "hash": "9B575942E19BC5A2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_020", "hash": "69B0FE984EAF8F24", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_021", "hash": "DEB1C380B84B8F0B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_030", "hash": "E5DEE86DB1413324", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_POP_MESSAGE_000", "hash": "53EEDE73B1CEDFF0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_ACCESS_MESSAGE", "hash": "BEB4041068C466A6", "target": "" }
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_00", "hash": "09A54DA2A64C9AD9", "target": "Fuandrec jest powiewem świeżego powietrza w tym domu łez i melancholii─bardzo gniewnego powietrza. Potrzebuje, by szybko kogoś odnaleźć." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_01", "hash": "D364EB772B5DE75D", "target": "Niefrasobliwy kuzyn Fuandrec spóźnia się na pogrzeb i nie po raz pierwszy nie pilnuje czasu. Nie pozostaje ci nic innego, jak poszukać odpowiednio niedbałego osobnika w pobliżu Halatali." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_02", "hash": "F175127051F6B8D8", "target": "W pobliżu zrujnowanego ośrodka ćwiczeń trafiasz na dwa ożywione twory zbiegłe z Koloseum, które zaraz posiekają podróżnego. Zamiast filozofować, zabijasz doctore i ratujesz kuzyna Fuandrec. Przekaż jej pomyślne wieści." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_03", "hash": "3CDB9AF75223D1B4", "target": "W rozmowie z Fuandrec taktownie pomijasz uwagę jej kuzyna o „zbyt ciasnym” sznurowaniu gorsetu. Sądząc jednak po docinkach samej Fuandrec, są siebie warci." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_00", "hash": "E48C2E5804799929", "target": "Odnaleźć niedbałego wędrowca" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_01", "hash": "1B6736F7DF5569D1", "target": "Zdać raport Fuandrec" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_000", "hash": "CCCC4D5A94FF6392", "target": "Gdzie <italic(1)>jest<italic(0)> ten kapuściany łeb? Czekamy na mojego kuzyna już kilka godzin, a on nadal guzdra się Thal wie gdzie. Zawsze się spóźnia. Nie rozumiem, czemu po prostu nie wyruszy wcześniej!" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_001", "hash": "1E311B4C5717877A", "target": "Przyznam jednak, że lubię tego głupca. Poszłabym go szukać, ale jego droga biegnie obok ośrodka ćwiczeń Halatali. Podobno aż roi się tam od bestii─i to najgroźniejszych." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_002", "hash": "9B575942E19BC5A2", "target": "Zajmuje się <if(gnum4,pani,pan)> przecież <italic(1)>poszukiwaniem przygód<italic(0)>. Pewnie właśnie takie rzeczy sprawiają, że, och, sama nie wiem, krew śpiewa, serce wrze, czy inne podobne bzdury. Czy <if(gnum4,poszukałaby pani,poszukałby pan)> mojego nieodpowiedzialnego kuzyna?" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_020", "hash": "69B0FE984EAF8F24", "target": "Dziękuję, dziękuję, po trzykroć dziękuję! Zobaczyłem te paskudne potwory i pomyślałem... cóż, właściwie niewiele poza „AAA!”. Naprawdę powinni zburzyć stare Halatali─to miejsce kompletnie zeszło na psy." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_021", "hash": "DEB1C380B84B8F0B", "target": "Och, ależ późno. Nie można dłużej opóźniać pogrzebu. Pewnie moja kuzynka Fuandrec, ta ze zbyt ciasnym gorsetem, nie jest zachwycona." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_030", "hash": "E5DEE86DB1413324", "target": "Och, dziękuję! Jest zupełnie niepoprawny, ale pomyśleć, że moglibyśmy i jego grzebać! Z drugiej strony na ten jeden pogrzeb by się nie spóźnił. Ciekawa myśl." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_POP_MESSAGE_000", "hash": "53EEDE73B1CEDFF0", "target": "Wyczuwasz wrogą obecność!" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_ACCESS_MESSAGE", "hash": "BEB4041068C466A6", "target": "Wróg nadal jest w pobliżu!" }
   ]
 }

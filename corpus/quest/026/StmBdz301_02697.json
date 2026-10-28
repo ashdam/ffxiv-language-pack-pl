@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz301_02697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEQ_00", "hash": "129D676ED78E2E04", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_000", "hash": "1669F37F0085D19B", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_001", "hash": "433CE0648B5D76B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_002", "hash": "336822D84CF1457E", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_003", "hash": "A6194E3DC55C8E21", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_010", "hash": "DBBA204962A76CB8", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_011", "hash": "314A805D4045495F", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_012", "hash": "7494DD87F77D74F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_013", "hash": "D3E7F98D66ED0AA6", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_014", "hash": "57A4A46D8D40D449", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_015", "hash": "1DFF769F7FFC7C86", "target": "" }
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEQ_00", "hash": "129D676ED78E2E04", "target": "Seizau potrzebuje pomocy <if(gnum4,kobiety,mężczyzny)> o bystrym wzroku i szybkim refleksie." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "Zdobyć mięso z piersi ruby hornbills" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "Dostarczyć porcje mięsa z piersi rubinowego dzioborożca do Seizau" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_000", "hash": "1669F37F0085D19B", "target": "Sądząc po opalonej skórze, przybywasz ze świata nad nami. Na twoje nieszczęście jesteśmy bardzo zżytą, samowystarczalną społecznością i nie mamy pracy dla obcych." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_001", "hash": "433CE0648B5D76B8", "target": "Ach, czekaj─może nie do końca. Właśnie przyszło mi do głowy zadanie, któremu podoła tylko ktoś taki jak ty. Powiedz, umiesz polować na ptaki?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_002", "hash": "336822D84CF1457E", "target": "Bardzo dobrze! W takim razie przynieś mi mięso z piersi trzech ruby hornbills." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_003", "hash": "A6194E3DC55C8E21", "target": "Na Wyspie Bekko powinno być pełno ruby hornbills. Przynieś mi mięso z piersi trzech takich ptaków." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_010", "hash": "DBBA204962A76CB8", "target": "Masz to, o co prosiłem?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_011", "hash": "314A805D4045495F", "target": "Piękne kawałki mięsa. Świetna robota. Zbyt długo już tęskniłem za smakiem ptasiego mięsa. Wiele lat temu z przepływającego statku spadła klatka, a w niej ptak. Gdy tylko jego mięso dotknęło moich ust, wiedziałem, że żaden przysmak mu nie dorówna." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_012", "hash": "7494DD87F77D74F0", "target": "Tak rzadko odwiedzają nas ludzie z powierzchni, że zdobycie takiego mięsa─czy wręcz jakiegokolwiek─graniczy z cudem. Kupcy Kojin przywożą wyłącznie ryby i owoce morza." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_013", "hash": "D3E7F98D66ED0AA6", "target": "Zanim odejdziesz, mam pytanie. Jeśli się nie mylę, ptaki mają kończyny, które pozwalają im szybować. Ty nie wyglądasz na kogoś, kto umie latać. Jak więc udało ci się schwytać te wspaniałe skrzydlate stworzenia?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_014", "hash": "57A4A46D8D40D449", "target": "Rozzłaszcza się je, a kiedy zaatakują, przechodzi się do natarcia? Ha, ha, ha! Wy, ludzie z lądu, jesteście naprawdę dzicy." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_015", "hash": "1DFF769F7FFC7C86", "target": "Zaczynam rozumieć, czemu moi przodkowie szukali schronienia w morzu. Tak czy inaczej, dziękuję za mięso. Dziś wieczorem czeka nas z rodzeństwem uczta!" }
   ]
 }

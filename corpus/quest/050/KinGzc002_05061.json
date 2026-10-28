@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc002_05061",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "" }
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zanuhanu nerwowo przebiera szponami." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "Zbadać wskazane miejsce i zabić chrząszcza marbled beetle, aby zdobyć jego pancerz" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "Dostarczyć marmurkowy pancerz Zanuhanu" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "Ach, po prostu mam za mało. W tym tempie nigdy nie skończę..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "O? Ale może to zmienić życzliwa dusza! Życzliwa i silna─chyba dość silna, by pomóc mi z drobnym problemem." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "Widzisz, wkrótce my, Hanu, zaczniemy zrzucać pióra i obrastać nowymi, ale wielka burza zmyła nasz zapas grzebieni. Nie możemy przecież używać <italic(1)>szponów<italic(0)>, więc od tamtej pory każdą wolną chwilę poświęcam na wyrabianie kolejnych grzebieni. Teraz jednak kończą mi się materiały..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "Gdybym miał pancerz dojrzałego chrząszcza marbled beetle, zrobiłbym dość grzebieni dla wszystkich. Proszę, pospiesz się do lasu na południowy zachód i upoluj jednego─już teraz czuję, jak wypadają mi pióra!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "Najstarsze chrząszcze mają najtwardsze pancerze, a z tych oczywiście powstają najlepsze grzebienie. Znajdziesz je na południowy zachód stąd─och, i uważaj, żeby nie skaleczyć się o ich żuwaczki!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "Już z powrotem? Na <italic(1)>pewno<italic(0)> był to dojrzały chrząszcz, prawda? Nie świeżo wykluty?" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "Ojej, jaki piękny, nienaruszony okaz! Zrobię grzebienie godne Kixaihih!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "Jak się domyślasz, w porze pierzenia podłogi są zasłane piórami. Jeśli stare upierzenie nie wypadnie jak należy, grozi nam coś więcej niż niechlujny wygląd─stare pióra mogą wywołać chorobę!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "Dlatego dobry grzebień jest nam równie niezbędny jak dobra włócznia. I dlatego należy ci się nagroda godna twojego wkładu w nasze zdrowie i urodę!" }
   ]
 }

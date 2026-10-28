@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGzd102_05101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_SEQ_00", "hash": "D494A0ADB9D9F43A", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_00", "hash": "DC0038DA8656336B", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_01", "hash": "56DF01FD6AFA0314", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_000", "hash": "C3D4C05165BBB67A", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_001", "hash": "8776BF06C223AA8D", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_002", "hash": "75AD894CF9EBAE51", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_003", "hash": "87EEC69C9E99249F", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_004", "hash": "B9E9CA541AD70714", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_005", "hash": "13B3D25EFC4C3E1B", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_006", "hash": "6C5C4326765D395C", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_007", "hash": "14BFE40AA37ADF45", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_008", "hash": "A53386105BFDAC5C", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_009", "hash": "6DB49E000C98A743", "target": "" }
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_SEQ_00", "hash": "D494A0ADB9D9F43A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Liinel Ja chce cię poprosić o przysługę." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_00", "hash": "DC0038DA8656336B", "target": "Odszukać i złapać motyle Jayunja" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_01", "hash": "56DF01FD6AFA0314", "target": "Dostarczyć motyle Jayunja do Liinel Ja" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_000", "hash": "C3D4C05165BBB67A", "target": "Ach, jak szczęśliwie się składa, że się spotykamy! Mam prośbę do <if(gnum4,pani,pana)>, bo to właśnie <if(gnum4,pani,pan)> zwiastuje całemu Mamook powiew zmian." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_001", "hash": "8776BF06C223AA8D", "target": "W pobliżu miejsca zwanego Cenota Jayunja żyją motyle, które lśnią łagodnym błękitem. Nie te olbrzymie bestie, lecz małe, trzepoczące stworzonka. Szybkie i sprytne." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_002", "hash": "75AD894CF9EBAE51", "target": "Złapanie ich może okazać się trudniejsze, niż <if(gnum4,pani,pan)> przypuszcza, ale byłabym dozgonnie wdzięczna za przyniesienie mi trzech." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_003", "hash": "87EEC69C9E99249F", "target": "Czy <if(gnum4,byłaby pani tak uprzejma,byłby pan tak uprzejmy)> złapać dla mnie trzy motyle w miejscu zwanym Cenota Jayunja? Te małe, proszę pamiętać─nie wielkie bestie." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_004", "hash": "B9E9CA541AD70714", "target": "Udało się znaleźć motyle?" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_005", "hash": "13B3D25EFC4C3E1B", "target": "Właśnie te! Wypuszczamy ich cały rój podczas wymiany przysiąg małżeńskich, by uczcić początek wspólnej drogi młodej pary." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_006", "hash": "6C5C4326765D395C", "target": "Cenota Jayunja cieszy się szczególną czcią jako miejsce święte. Dlatego tamtejsze motyle cenimy na takich uroczystościach najbardziej." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_007", "hash": "14BFE40AA37ADF45", "target": "Powiadają, że ich różniące się skrzydła, złożone razem w spoczynku, uosabiają związek dwojga kochanków z różnych klanów i ich wieczne oddanie." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_008", "hash": "A53386105BFDAC5C", "target": "Nie sposób wyobrazić sobie pomyślniejszego symbolu, zwłaszcza gdy przynoszą go ręce, które otworzyły przed naszym miastem nowe możliwości." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_009", "hash": "6DB49E000C98A743", "target": "Zasługi <if(gnum4,pani,pana)> i Trzeciej Pretendentki dla naszego ludu są większe, niż kiedykolwiek zdołacie pojąć. Te motyle z pewnością przyniosą wszelkie szczęście parze, której pobłogosławią." }
   ]
 }

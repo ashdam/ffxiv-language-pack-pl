@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb511_00880",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "" }
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "Dedeju potrzebuje pomocy w naprawie skromnej lnianej szaty liturgicznej." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "Dedeju, tkaczce pracującej przy Kościele Świętego Adamy Landamy, powierzono naprawę szaty ojca Iliuda. Niestety zniszczenia przewyższają jej zapas tkaniny. Bystra jak igła i pewna jak ścieg, wysyła cię na stację Black Brush Station w rejonie Central Thanalan po znoszone płótno od zaufanego kupca." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "Kupiec wręcza ci płótno i wprowadza pokrótce w osobliwą sztukę cerowania. Dostarcz tkaninę Dedeju i przekonaj się, czego jeszcze możesz się nauczyć." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "Dedeju przyjmuje tkaninę z podziękowaniami. Jej zręczne palce szybko odtwarzają splot szaty, a ona wspomina, że naprawiała kiedyś nadpalony strój, który podobno należał do grabarza Marquesa..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "Odebrać kawałek podartego płótna od sumiennego sklepikarza na stacji Black Brush Station" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "Dać płótno Dedeju" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "Psst! To ty dokonujesz tych wszystkich cudów? Dziś możesz zdziałać jakiś dla mnie. Ojciec poprosił mnie o naprawę tej szaty, ale spójrz, tu i tu zniszczone są i wątek, i osnowa. Potrzebuję więcej tkaniny, niż mam." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "Na stacji Black Brush Station jest teraz kupiec. Da ci to, czego potrzebuję. Pośpiesz się, ruszaj do rejonu Central Thanalan!" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "Od Dedeju, tak? Zastanawiałem się, gdzie się podziała. Zajrzałem ostatnio do jej sklepu─chciałem zaprosić ją na herbatę. Straciła coś dobrego, bursztynowe listki z Coerthas." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "Jak zwykle, zgaduję? Podarte płótno, tak jest. Tylko proszę mnie źle nie zrozumieć. Jest miłe i miękkie, więc może wyciągać nitki i odtwarzać splot naprawianej rzeczy. Proszę bardzo." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "Nareszcie! Masz to, czego potrzebuję?" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "Wielkie dzięki! Teraz zobaczymy, jak zwinne są te palce. Ojciec mówił, że potrzebuje szaty bardzo szybko. Wybiera się w jakichś kapłańskich sprawach..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "Ale to pierdoła w porównaniu z ostatnim zleceniem, wybacz ten niewyparzony język! Tamto było wielkie jak dom i spalone jak kolacja flejtuchy. Ojciec Iliud je przyniósł, ale wyglądało na strój tego grabarza." }
   ]
 }

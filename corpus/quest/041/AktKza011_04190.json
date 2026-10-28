@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza011_04190",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_SEQ_00", "hash": "8D43799828AA488A", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_00", "hash": "BFA5D61BB6294BAF", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_01", "hash": "32B86D16DB5FB92C", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_000", "hash": "73E808F76346741D", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_001", "hash": "6191D24645CC7A8F", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_002", "hash": "92F3DBB98BA684F6", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_003", "hash": "DDE55EBD4EE097F3", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_004", "hash": "336D518B3FA2645D", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_005", "hash": "0E612E6A44558D23", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_010", "hash": "D18017950E035797", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_011", "hash": "FF5B4D0113E6B8E5", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_012", "hash": "4DF5ABE318AFF497", "target": "" }
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_SEQ_00", "hash": "8D43799828AA488A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Boragchin przygląda ci się z wyrachowaniem." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_00", "hash": "BFA5D61BB6294BAF", "target": "Rozłożyć kawały surowego mięsa" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_01", "hash": "32B86D16DB5FB92C", "target": "Zdać relację Boragchin" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_000", "hash": "73E808F76346741D", "target": "Widać, że zna się <if(gnum4,pani,pan)> na walce i z całą pewnością <italic(1)>nie<italic(0)> pochodzi z Sharlayanu. Tak... tak, świetny wybór!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_001", "hash": "6191D24645CC7A8F", "target": "Pewnie zapyta <if(gnum4,pani,pan)>, do czego. Nadzoruję dzikie zwierzęta w tym sektorze i często potrzebuję nowych ochotników do pomocy przy karmieniu." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_002", "hash": "92F3DBB98BA684F6", "target": "Chętnie robiłabym to sama, ale byłoby, ekhm, <italic(1)>nierozsądnie<italic(0)> zbytnio przyzwyczajać drapieżniki do mojego zapachu─czy też zapachu któregokolwiek z moich współpracowników." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_003", "hash": "DDE55EBD4EE097F3", "target": "Dlatego cieszę się, że trafiło mi się takie „świeże mięso”, jeśli można tak powiedzieć. A zatem! Co <if(gnum4,pani,pan)> na krótką wyprawę do lasu? Oczywiście odpowiednio zapłacę." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_004", "hash": "336D518B3FA2645D", "target": "Wspaniale! Proszę wziąć te kawały surowego mięsa i położyć je we wskazanych miejscach. A zaraz potem szybko wrócić!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_005", "hash": "0E612E6A44558D23", "target": "Po rozłożeniu mięsa nie radzę się tam ociągać... chyba że chce <if(gnum4,pani,pan)> uchodzić za danie główne!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_010", "hash": "D18017950E035797", "target": "Proszę tylko spojrzeć─wszystko gotowe, a ani śladu krwi czy szlochania! Właśnie dlatego wolę zatrudniać najemników do karmienia naszych agresywniejszych okazów." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_011", "hash": "FF5B4D0113E6B8E5", "target": "Na szczęście zazwyczaj mogę pozwolić drapieżnikom samodzielnie upolować posiłek. Ale to zamknięte środowisko..." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_012", "hash": "4DF5ABE318AFF497", "target": "Jeśli od czasu do czasu nie pomożemy im napełnić brzuchów, delikatna równowaga między drapieżnikami a ofiarami całkiem się załamie. Dziękuję za pomoc w jej utrzymaniu." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanKob301_01364",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_00", "hash": "814508C7C62262BF", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_01", "hash": "40A228F2DF58C17B", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_02", "hash": "F93964218F0A5E95", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00", "hash": "B1D80A31AA3060B1", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_000", "hash": "05278B3CC25C7598", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_001", "hash": "48B15982A8A76D34", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_002", "hash": "4ECF8C0E73A93440", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_003", "hash": "C0C33FE90F708DFD", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_004", "hash": "2CCD96C3E0D7EC4C", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_010", "hash": "C7CC275308433B99", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_011", "hash": "1A4410323F7CD004", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_012", "hash": "C24165D254A744A2", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_013", "hash": "F62D38EE564D67D6", "target": "" }
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_00", "hash": "814508C7C62262BF", "target": "789th Order Dustman Bo Bu chce uwolnić tunele od terroru nikczemnego kapłana i jego potwornych eksperymentów." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_01", "hash": "40A228F2DF58C17B", "target": "Sprzymierzony ze znienawidzonym Zo Gą zdeprawowany kapłan powołał do życia hordę alchemicznie wzmocnionych coblynów, które chętnie żywią się stroniącymi od pracy członkami ludu Kobold. Słusznie obawiając się o bezpieczeństwo wyrobiska, Bo Bu chce przepędzić duchownego i jego straszliwe twory. Spełnij tę prośbę, biorąc udział w FATE „Pełnometalowy alchemik” w U'Ghamaro, i przynieś dowód zwycięstwa." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_02", "hash": "F93964218F0A5E95", "target": "Bo Bu raduje się na widok Titan steelshield─zapłaty od Zo Gi za nikczemne dzieło kapłana─wiedząc, że on i jego towarzysze nie zostaną pożarci przez żarłoczne stworzenia. Pragnie przyczynić się do nadejścia nowej epoki szacunku dla swojej brygady, więc z pewnością jeszcze poprosi cię o pomoc..." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00", "hash": "B1D80A31AA3060B1", "target": "Dostarczyć Titan steelshield zdobyty w FATE „Pełnometalowy alchemik” 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_000", "hash": "05278B3CC25C7598", "target": "<if(gnum4,Przyjaciółko,Przyjacielu)>, musisz go powstrzymać! Tak, tak, musisz skończyć z jego nikczemnymi eksperymentami─ohydnymi, podłymi, nikczemnymi." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_001", "hash": "48B15982A8A76D34", "target": "Czyimi eksperymentami? Bo Bu nie powie. Nie, nie, tego imienia nie wolno nawet szeptać─mówić, wypowiadać, szeptać." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_002", "hash": "4ECF8C0E73A93440", "target": "Powiem tylko tyle─tak, tak, tylko tyle: to kapłan z 59. brygady. Słynie z tworzenia strasznych, strasznych rzeczy─rzeczy, które grasują po tunelach spragnione naszej rudy. Tak, tak, naszej rudy i naszego mięsa!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_003", "hash": "C0C33FE90F708DFD", "target": "Zo Ga go faworyzuje, tak, tak, bo jego twory żywią się słabymi i cierpiącymi. To tylko kwestia czasu─minut, nawet chwil─aż opanują nasze wyrobisko! Pomożesz nam, tak, tak?" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_004", "hash": "2CCD96C3E0D7EC4C", "target": "Błagam cię, <if(gnum4,przyjaciółko,przyjacielu)>─musisz skończyć z eksperymentami tego podłego duchownego. Nie chcemy dłużej żyć w strachu przed jego potwornymi tworami. Nie, nie, ani chwili dłużej!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_010", "hash": "C7CC275308433B99", "target": "Udało się zwyciężyć złowrogiego kapłana─odnieść sukces, zatriumfować, zwyciężyć?" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_011", "hash": "1A4410323F7CD004", "target": "Wróg padł, padł nasz wróg, a oszalałe żądzą rzezi coblyny już nie nękają wyrobiska! Hura─wiwat, brawo, hura!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_012", "hash": "C24165D254A744A2", "target": "Ten, którego imienia nie wolno wymawiać, jeszcze powstanie. Powstanie, powstanie, tak. Ale do tego czasu zyskujemy dzięki tobie wytchnienie od niebezpieczeństwa─odpoczynek, ulgę, wytchnienie." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_013", "hash": "F62D38EE564D67D6", "target": "Dobrze rozumiem lęki Gi Gu─tak, tak, rozumiem. Zo Ga to groźny wróg, ale czy Bo Bu uniesie łapy w geście poddania? Nie, nie, może inni, ale nie Bo Bu!" }
   ]
 }

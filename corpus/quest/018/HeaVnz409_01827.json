@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz409_01827",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_00", "hash": "DF482543C98C0A1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_01", "hash": "5CBC907DC0668E3D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_02", "hash": "1E928EB85BD23CCE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_03", "hash": "3EDBABFF0930094B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_00", "hash": "E3E765895855D5ED", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_01", "hash": "4A97EADC29CDFF95", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_02", "hash": "2FF1B1F206C8747E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_000", "hash": "23680ACC406E7F32", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_001", "hash": "5CB833C473E83513", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_010", "hash": "D1D319D810C387E3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_020", "hash": "DE08C18B7CEC7F8C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_021", "hash": "F542427CC4F5DFCC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_00", "hash": "DF482543C98C0A1B", "target": "Mogmont czujnie trzepocze zmęczonymi skrzydłami." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_01", "hash": "5CBC907DC0668E3D", "target": "Nieustanne walki smoków z północy i południa odbijają się na zdrowiu Mogmonta. Zabij po trzy z każdej grupy, by mógł wreszcie odpocząć." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_02", "hash": "1E928EB85BD23CCE", "target": "Smoki moss dragon i lower skylord nie żyją. Wróć do Mogmonta z dobrymi wieściami." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_SEQ_03", "hash": "3EDBABFF0930094B", "target": "W zmęczonych oczach Mogmonta widzisz ogromną wdzięczność. Moogle'e muszą dopilnować, by słudzy Nidhogga nie spustoszyli świętej domeny Hraesvelgra." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_00", "hash": "E3E765895855D5ED", "target": "Zabić moss dragon" },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_01", "hash": "4A97EADC29CDFF95", "target": "Zabić lower skylord" },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_TODO_02", "hash": "2FF1B1F206C8747E", "target": "Zdać sprawę Mogmontowi" },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_000", "hash": "23680ACC406E7F32", "target": "Smoki z północy i południa bez przerwy ze sobą walczą. Dlatego musimy zawsze zachowywać czujność i mieć się na baczności... Już mi nerwy puszczają, kupo!" },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_001", "hash": "5CB833C473E83513", "target": "Tutejsze moogle'e pilnie potrzebują wytchnienia. Jeśli zabijesz parę smoków i przerwiesz ich walki, może zdołamy trochę odetchnąć, kupo." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_010", "hash": "D1D319D810C387E3", "target": "Nie można czuwać bez przerwy, dzień w dzień─zabij te smoki, zanim padniemy z wyczerpania." },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_020", "hash": "DE08C18B7CEC7F8C", "target": "Ach... Wreszcie możemy odetchnąć bez natrętnych smoków! Chyba pora otworzyć wino, kupo!" },
+    { "gameKey": "quest/018/HeaVnz409_01827#TEXT_HEAVNZ409_01827_MOGMONT_000_021", "hash": "F542427CC4F5DFCC", "target": "Asah należy do Hraesvelgra. Nie możemy pozwolić groźnym sługusom Nidhogga wdzierać się na jego ziemie. Obyśmy mogli znów liczyć na twoją pomoc w potrzebie!" }
   ]
 }

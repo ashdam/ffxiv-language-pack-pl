@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz406_02729",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "" }
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "Aohata nie przepada za łasicami." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Zbadać okolicę i zabić mad weasels" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "Zdać sprawę Aohacie" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Hej, ty. Chcesz zarobić trochę gil?" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Niedaleko jest bambusowy zagajnik. Mieszkańcy wioski często biorą stamtąd bambus na strachy na wróble. Ostatnio jednak pojawiły się tam mad weasels i od tej pory nikt nie może zebrać ani łodygi." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Podobno są trzy. Jeśli wybijesz całą gromadkę, sowicie cię wynagrodzę." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Podobno są trzy. Jeśli wybijesz całą gromadkę, sowicie cię wynagrodzę." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Gotowe? Wspaniale!" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "Tak sobie myślę, że kiedyś mieszkańcy chronili pola inaczej niż strachami na wróble. Podobno nabijali truchła bestii na pale, żeby odstraszać szkodniki." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "Niektórzy mówią, że używali do tego ciał młodych łasic. Może sami jesteśmy winni temu, co nas ostatnio spotkało..." }
   ]
 }

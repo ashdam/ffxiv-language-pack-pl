@@ -17,7 +17,7 @@
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MATCHING_Q", "hash": "D82C38775795779F", "target": "Na pewno wejść z dobraną drużyną?" },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_050", "hash": "3B6A6705C2A6BF06", "target": "Samotna wyprawa do ruin!? Magia ruin osłabi twoje siły. Pomocą będzie jedynie broń aetherpool ludu Padjal. Nawet ona może nie wystarczyć bez wzmocnienia." },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SOLO", "hash": "961F8DEAF4AE1813", "target": "Na pewno wejść samotnie?" },
-    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_WHICH_Q", "hash": "6AD3098BC292E991", "target": "Z którego poziomu wejdziesz?" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_WHICH_Q", "hash": "6AD3098BC292E991", "target": "Od którego poziomu zaczniesz?" },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_A1", "hash": "86871B8987CFF941", "target": "Poziom pierwszy." },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_A2", "hash": "EF898B0134E39FDA", "target": "Poziom pięćdziesiąty pierwszy." },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_NEXT", "hash": "C1961FE4F8B23484", "target": "Przejdź na następny poziom" },

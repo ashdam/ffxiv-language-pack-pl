@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb201_05051",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_00", "hash": "04C9D0C9C4F27385", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nopli zaciera ręce." },
+    { "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_00", "hash": "04C9D0C9C4F27385", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Nopli zaciera ręce." },
     { "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_01", "hash": "3533616F4D36A38F", "target": "Entuzjastyczny kupiec Nopli próbuje sprzedać ci rzekomo rzadkie i cenne skażone kryształy. Wyjaśniasz mu jednak, że nie są ani rzadkie, ani cenne. To odkrycie go szokuje. Jest też zrozpaczony ogromną sumą peli wydanych na zakup. Choć naiwny, handlarz nie daje za wygraną. Błaga o pomoc w znalezieniu jakiejkolwiek wartości w kryształach.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
     { "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_02", "hash": "DA65654582DB4E22", "target": "Zgadzasz się pomóc Nopliemu. Kupiec od razu prosi cię o rozmowę z magiem z plemienia Boonewa w Wachunpelo. Podobno używają kryształów w swoich obrzędach." },
     { "gameKey": "quest/050/KinGzb201_05051#TEXT_KINGZB201_05051_SEQ_03", "hash": "CB09BE3CFD688C4C", "target": "Udaje ci się odnaleźć maga. Niestety nie jest zainteresowany zakupem kryształów." },

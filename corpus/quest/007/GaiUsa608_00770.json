@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa608_00770",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "" }
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "Faucertaux prosi o pomoc w odebraniu wioski bandzie wyjętych spod prawa zbirów." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "Osławiona banda zbirów znana jako Redbelly Wasps zajęła opuszczoną wioskę i zamieniła ją w gniazdo występku. Zabij po jednym Redbelly lookout, Redbelly sharpeye i Redbelly larcener." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "Troje członków Redbelly Wasps zostało pokonanych. Poinformuj Faucertaux o swoim sukcesie." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "Twoje zwycięstwo nad bandytami dało Faucertaux nadzieję, że dzień, w którym Hyurowie i Elezenowie znów będą żyć w wiosce w pokoju, jest już bliski." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "Zabić Redbelly lookout" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "Zabić Redbelly sharpeye" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "Zabić Redbelly larcener" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "Zdać relację Faucertaux" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "Może zna <if(gnum4,pani,pan)> tę historię, ale miejsce zwane Gniazdem Redbelly nie zawsze było plugawym siedliskiem szumowin." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "Dawniej leżała tam wioska Boughbury, w której Hyurowie i Elezenowie wiedli spokojne życie. Potem przyszła Katastrofa i rozpętało się piekło. Gdy mieszkańcy uciekli, te skurwysyny z Redbelly zajęły osadę i od tamtej pory robią tam, co chcą." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "Mamy nadzieję odzyskać wioskę, ale Redbelly to nie byle bandyci─wyczuwają każdy nasz ruch z odległości wielu malmów. Tu właśnie przyda się <if(gnum4,pani,pańska)> pomoc: może zechce <if(gnum4,pani,pan)> wejść do gniazda os i powyrywać tym draniom żądła?" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "To była dzielna walka w naszej sprawie. Kiedy Boughbury wróci do naszego ludu, ten decydujący cios będzie powodem do dumy." }
   ]
 }

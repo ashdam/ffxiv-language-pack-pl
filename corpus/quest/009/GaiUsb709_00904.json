@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsb709_00904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "Belmont przybiera pozę cynicznego najemnika, lecz dawny wojownik Kołczanu Bogów wciąż w nim żyje. Tak pilnie szuka zwiadowcy, że sam go zatrudni." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "Belmont, weteran wielu potyczek z ludem Ixal, podejrzewa, że obecność ptakoludzi w tej części świata kryje coś więcej. Prosi cię o wykorzystanie skrytości i sprytu do przeszukania ich kryjówki na wschodzie." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "Po obejrzeniu porządków ludu Ixal i walce na śmierć i życie nie znajdujesz nic dziwniejszego niż stos cisowych kłód. Nie pochodzą jednak z tych lasów, a ptakoludzie raczej nie trzymali ich jako zwierzątek. Wróć do obozu i przekaż jedną kłodę Belmontowi." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "Według Belmonta przyniesiony cis występuje tylko w Lesie Dwunastu i jest bardzo ceniony przez lud Ixal, który sadzi te drzewa jako żywe umocnienia. Belmont uważa to za dowód osiedlania się ptakoludzi w Coerthas, wykorzystujących zamęt wywołany licznymi kłopotami Ishgardu." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "Przeszukać kryjówkę ludu Ixal w poszukiwaniu wskazówek" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "Dostarczyć kłodę czarnego cisu Belmontowi" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "Pochodzę z Gridanii, <switch(gnum70,<if(gnum4,siostro,bracie)> znad morza,tak jak ty,<if(gnum4,siostro,bracie)> z pustyni)>. U nas walka z ludem Ixal to codzienność, ale na pewno nie spodziewałem się ich w tych górach." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "Znam te zasrane ptaszyska i wiem, że coś knują. Nie mogę z tym iść do pracodawcy... To tylko przeczucie. Ale ilekroć miałem takie przeczucie w Lesie Dwunastu i nic nie zrobiono, coś paskudnego gryzło nas w zadek." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "Nie miałem wolnej chwili, a przeczucie narasta. Nie przystoi najemnikowi tak rozstawać się z własnymi gilami, ale wejdziesz do kryjówki ludu Ixal na wschodzie i sprawdzisz, czy są tam jakieś wskazówki?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "Jakie wieści, <if(gnum4,siostro,bracie)>? Co tam niesiesz?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "To czarny cis z North Shroud, niespotykany w Coerthas. Lud Ixal tworzy z niego żywe zasłony i mury. Ale cis rośnie powoli, więc po co mieliby go ścinać i przewozić na zachód? Chyba że..." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "Wojownicy Ixal zamierzają tu zostać─to początek osady. Kiedy Ishgardczycy zajmują się smokami, ptakoludzie wykradają im ten skrawek Coerthasu spod samych nosów." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "Mówię ci, jeśli Święta Stolica teraz nie zadziała, lud Ixal szybko umocni się w tej okolicy. To oznacza więcej wojny. A choć oznacza też więcej pracy dla takich jak ja, mam jej już dość." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "Szum skrzydeł zapowiada wojowników Ixal!" }
   ]
 }

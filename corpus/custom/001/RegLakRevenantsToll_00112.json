@@ -2,17 +2,17 @@
   "conversation": "custom/001/RegLakRevenantsToll_00112",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000", "hash": "0E7875A17374908F", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010", "hash": "876CFDF87D1D96FF", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011", "hash": "E08096003B350006", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012", "hash": "95DA1044901D7D8C", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020", "hash": "1F1BA794729ADCA0", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021", "hash": "42A33F797447CB59", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022", "hash": "ABAEF5D173E7DE26", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023", "hash": "35A5CFF3EE2F2593", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000", "hash": "0909BE2E372FEC4B", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001", "hash": "589A8A33EAAB2E69", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002", "hash": "3145E3A0C03BEB4B", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003", "hash": "D03CAE8492756CD9", "target": "" }
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000", "hash": "0E7875A17374908F", "target": "Witaj w Mycie Upiora. Chcesz się czegoś dowiedzieć?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010", "hash": "876CFDF87D1D96FF", "target": "Podobnie jak ty żyję z przygód. Gildia przysłała mnie tu, by wspierać tych, którzy chcą stawić czoła dziczy Mor Dhona." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011", "hash": "E08096003B350006", "target": "Jeśli mogę zapytać, gdzie zaczynała się twoja przygoda? <switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>, powiadasz? Cóż, możesz sobie pogratulować dotarcia tak daleko. Przebycie tej drogi bez szwanku wymaga doświadczenia." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012", "hash": "95DA1044901D7D8C", "target": "Mimo tego doświadczenia radzę ci jednak ostrożnie stąpać po tych ziemiach. Jeden fałszywy krok może kosztować cię życie. Jeśli znajdą twoje zwłoki, <switch(gnum70,Baderon,Miounne,Momodi)> nie da mi o tym zapomnieć." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020", "hash": "1F1BA794729ADCA0", "target": "Tę placówkę założono pod patronatem Gildii Poszukiwaczy Przygód. Dawniej znajdowała się nieco dalej na zachód, ale Katastrofa zrównała pierwotny obóz z ziemią." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021", "hash": "42A33F797447CB59", "target": "Gdy w całej Eorzei zaczęto odbudowywać obozy eterytowe, postanowiono przenieść Myto Upiora tutaj, gdzie teraz stoimy." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022", "hash": "ABAEF5D173E7DE26", "target": "Ach, może zastanawiasz się, skąd wzięła się nazwa obozu. Otóż kilka lat przed końcem szóstej ery astralnej imperialny statek powietrzny spadł z nieba i rozbił się właśnie tutaj." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023", "hash": "35A5CFF3EE2F2593", "target": "Uderzenie było tak potężne, że w mgnieniu oka unicestwiło całą osadę. Gdy powstał obóz, nazwano go dla upamiętnienia nieszczęsnych ofiar tamtej tragedii." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000", "hash": "0909BE2E372FEC4B", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001", "hash": "589A8A33EAAB2E69", "target": "Co tu robisz?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002", "hash": "3145E3A0C03BEB4B", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003", "hash": "D03CAE8492756CD9", "target": "Nic." }
   ]
 }

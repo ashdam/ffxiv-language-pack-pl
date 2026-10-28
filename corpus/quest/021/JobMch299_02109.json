@@ -2,17 +2,17 @@
   "conversation": "quest/021/JobMch299_02109",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_000", "hash": "A55A0CE428AF15DE", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_001", "hash": "7CC1486670B04075", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_002", "hash": "CD9652CF95866DFB", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_003", "hash": "844768DD30EBE3B7", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_004", "hash": "6EDA62CEBBF21D02", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_005", "hash": "C736D59F64A2B31A", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_Q1_000_000", "hash": "1D12A40F40F6F251", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_A1_000_001", "hash": "2993A737C37591B9", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_A1_000_002", "hash": "E5FCD179D7941136", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_010", "hash": "3E1113BB28A3CD67", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_011", "hash": "E6DECA2FE95F341B", "target": "" },
-    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_015", "hash": "926457321CE08C45", "target": "" }
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_000", "hash": "A55A0CE428AF15DE", "target": "Hmm, mój prospektometr chyba bardzo cię polubił. Zobaczmy... Osobliwy strój. Uderzająca prezencja. Czy słusznie zakładam, że należysz do tych żądnych przygód?" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_001", "hash": "7CC1486670B04075", "target": "Hmm, mój prospektometr chyba bardzo cię polubił. Zobaczmy... Osobliwy strój. Uderzająca prezencja. Czy słusznie zakładam, że to właśnie ty <if(gnum4,pomogłaś,pomogłeś)> ocalić Ishgard?" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_002", "hash": "CD9652CF95866DFB", "target": "Ach, tak mi się zdawało! Mój prospektometr rzadko kłamie! I pozwól tylko, że powiem, że wizyta w naszym skromnym warsztacie to słuszny wybór." },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_003", "hash": "844768DD30EBE3B7", "target": "Khm. Witaj w Skysteel Manufactory, gdzie z eteru, metalu i wyobraźni rodzą się cuda!" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_004", "hash": "6EDA62CEBBF21D02", "target": "Od armat po balisty, projektujemy i wytwarzamy rozmaite bronie do zabijania smoczych najeźdźców. ...Ale przyjmujemy też uczniów, którzy chcą chwycić za broń palną i opanować techniki profesji machinist!" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_005", "hash": "C736D59F64A2B31A", "target": "Co powiesz? Chcesz do nas dołączyć i zgłębiać dyscyplinę machinist?" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_Q1_000_000", "hash": "1D12A40F40F6F251", "target": "Chcesz zgłębiać dyscyplinę machinist?" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_A1_000_001", "hash": "2993A737C37591B9", "target": "Tak" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_A1_000_002", "hash": "E5FCD179D7941136", "target": "Nie" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_010", "hash": "3E1113BB28A3CD67", "target": "Chcesz? No oczywiście, że chcesz! Inaczej mój prospektometr nie zarejestrowałby twojego wyraźnego zainteresowania!" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_011", "hash": "E6DECA2FE95F341B", "target": "Ach. W tym podnieceniu zapominam się przedstawić. Nazywam się Stephanivien. Stephanivien de Haillenarte. A ty...?" },
+    { "gameKey": "quest/021/JobMch299_02109#TEXT_JOBMCH299_02109_STEPHANIVIEN_000_015", "hash": "926457321CE08C45", "target": "Ty... Nie? Dziwne. Byłem pewien, że mój prospektometr wykrył wysoki poziom zainteresowania. No już, nie musisz się wstydzić! Będę tutaj, gdy poddasz się temu, czego najwyraźniej pragnie twe serce!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma203_01234",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_00", "hash": "59159A2A612BA877", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_01", "hash": "4DF90C97463A85A1", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_02", "hash": "9310A44FCAA042CB", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_03", "hash": "E9047AD236BF44FF", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_00", "hash": "87EB4349977F8626", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_01", "hash": "276527DA8CB83994", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_000", "hash": "6D74D0870144FDBF", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_002", "hash": "041BCB69E9E0DB7A", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_003", "hash": "4322EB872B7B2953", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "" }
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_00", "hash": "59159A2A612BA877", "target": "Narujj Boh niepokoi się doniesieniami o gorączkowych nocnych obrzędach." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_01", "hash": "4DF90C97463A85A1", "target": "Narujj Boh dzieli się wieściami o nowym obrzędzie odprawianym przy Ołtarzu Zanr'ak. Prosi cię o przeszukanie okolic obozu i ołtarza w poszukiwaniu składów broni oraz zabranie oręża, który według zwiadowców zaklęto bezbożnymi płomieniami." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_02", "hash": "9310A44FCAA042CB", "target": "Broń poświęcona płomieniem jest już w twoich rękach. Wróć do Kręgu Popiołu i dostarcz uzbrojenie wojownikowi Narujj Boh." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_03", "hash": "E9047AD236BF44FF", "target": "Zaklęta broń trafia do Kręgu Popiołu. Narujj Boh jest rozbawiony czasem i wysiłkiem włożonym przez wrogów tylko po to, by odebrano im nowe zabawki. Zadowolony z twoich czynów dumny wojownik radzi ci odpocząć, zanim zapadnie decyzja o kolejnym zadaniu." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_00", "hash": "87EB4349977F8626", "target": "Zdobyć broń poświęconą płomieniem ze skrzyń ciężkiego uzbrojenia w pobliżu obozu i Ołtarza Zanr'ak" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_01", "hash": "276527DA8CB83994", "target": "Dostarczyć broń poświęconą płomieniem wojownikowi Narujj Boh" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_000", "hash": "6D74D0870144FDBF", "target": "Każdego wieczoru po zachodzie słońca przy głównym Ołtarzu Zanr'ak trwa gorączkowa krzątanina. Nasi zwiadowcy donoszą o jakimś obrzędzie z użyciem coraz większej liczby starannie wykonanych broni." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_002", "hash": "041BCB69E9E0DB7A", "target": "Znając jednotorowe ambicje naszych wrogów, sądzę, że próbują nasycić to uzbrojenie błogosławieństwem swego boga. Nie możemy pozwolić, by użyli takiej broni przeciw nam." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_003", "hash": "4322EB872B7B2953", "target": "Choć wolałbym rozbić ich skażony ołtarz na tysiąc kawałków, zadowolę się odebraniem im owoców błędnych modlitw. <if(gnum4,Szanowna sojuszniczko,Szanowny sojuszniku)>, podejmiesz się tego zadania i zabierzesz broń poświęconą płomieniem z magazynów naszych wypaczonych pobratymców?" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "Gdy błogosławiona broń znajdzie się w naszych rękach, mistycy zgłębią tajniki jej mocy i nauczą się rozpraszać zaklęcia. To nowe zagrożenie nie będzie nas długo nękać." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "Przeszukaj teren obozu i Ołtarza Zanr'ak. Odbierz broń poświęconą płomieniem z magazynów nikczemnych pobratymców." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "<if(gnum4,Szanowna sojuszniczko,Szanowny sojuszniku)>. Masz już uzbrojenie naszych wrogów, jak sądzę?" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "Tak, gorąco tych palących zaklęć wyczuwa nawet prosty wojownik taki jak ja. Ha! Długie nocne obrzędy Amalj'aa z Zahar'ak idą na marne! Teraz odpocznij─dobra robota." }
   ]
 }

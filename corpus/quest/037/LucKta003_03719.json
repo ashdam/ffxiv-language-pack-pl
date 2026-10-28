@@ -2,18 +2,18 @@
   "conversation": "quest/037/LucKta003_03719",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_00", "hash": "57CC0FF4714705C9", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_01", "hash": "6D51DC95C20DCADD", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_02", "hash": "5EEA1E5F278C228B", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_TODO_00", "hash": "4306F2932EF4B58A", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_001", "hash": "0250201FDC37702B", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_005", "hash": "1392BD32E638B74C", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_050", "hash": "BBF33B2E11D792CF", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_051", "hash": "DA61B5B868E83646", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_052", "hash": "A82AE43B6B565339", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_053", "hash": "773DFB8A9DF89221", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_054", "hash": "EC066AC8C917FD09", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_055", "hash": "5000D1A8AFBAE323", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_060", "hash": "AD03A47630BEFF03", "target": "" }
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_00", "hash": "57CC0FF4714705C9", "target": "Anogg nie zamierza ani chwili dłużej czekać na odkrycie tajemnic ruin." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_01", "hash": "6D51DC95C20DCADD", "target": "Zanim zdążysz wtrącić choć słowo, Anogg pędzi szukać „klucza”, o którego odzyskanie poprosiła 2P. Tobie i Konoggowi pozostaje tylko podążyć za nią." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_02", "hash": "5EEA1E5F278C228B", "target": "W głębi ruin doganiacie Anogg. Konogg próbuje odwieść ją od bezmyślnego rzucania się w niebezpieczeństwo na prośbę 2P. Całkiem trafnie zauważa, że ledwo ją znacie, a jej prawdziwych zamiarów z pewnością <italic(1)>nie<italic(0)> znacie. Anogg nie chce jednak przyznać mu racji i upiera się przy współpracy z androidką, uznając ją za najszybszą drogę do kolejnych odkryć. Wygląda na to, że musisz wybrać stronę." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_TODO_00", "hash": "4306F2932EF4B58A", "target": "Porozmawiać z Anogg" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_001", "hash": "0250201FDC37702B", "target": "Wszystko gotowe? Podchwytliwe pytanie─nie obchodzi mnie to! Ruszamy!" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_005", "hash": "1392BD32E638B74C", "target": "Teraz już nic jej nie zatrzyma. Tyle z przygotowań." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_050", "hash": "BBF33B2E11D792CF", "target": "Pomyśl tylko─maszyny dorównujące ludziom! Nie, może nawet lepsze! Jeśli znajdziemy klucz, zrozumiemy, jak działają! Naprawimy 2P, a potem..." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_051", "hash": "DA61B5B868E83646", "target": "...A potem co? Zwolnij i pomyśl! Skąd możemy wiedzieć, czy cokolwiek z jej opowieści było prawdą?" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_052", "hash": "A82AE43B6B565339", "target": "Och, więc mamy siedzieć z założonymi rękami, zamiast zdobywać niezmierzoną moc drzemiącą w tych ruinach? Kręcić młynka palcami, gdy inni nas wyprzedzą i zgarną nagrodę?" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_053", "hash": "773DFB8A9DF89221", "target": "Mnie też to intryguje! Ale <italic(1)>nie<italic(0)> powinniśmy ślepo wierzyć komuś dopiero co poznanemu─zwłaszcza gdy opowiada takie niesłychane rzeczy. Jeśli przyniesiemy jej ten „klucz”, nie wiadomo, co z nim zrobi..." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_054", "hash": "EC066AC8C917FD09", "target": "Hmf. Jeśli chcesz tchórzyć, proszę bardzo. Ja będę odważnie przecierać szlak, zgodnie z naszym planem, gdybyś nie pamiętał. A jeśli przy okazji zapewnimy sobie dalszą pomoc 2P, tym lepiej." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_055", "hash": "5000D1A8AFBAE323", "target": "A ty? Możesz rzucić się ze mną w wielką niewiadomą albo ostrożnie zanurzać po jednym paluszku jak bezbrody bobas." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_060", "hash": "AD03A47630BEFF03", "target": "Czasem nienawidzę być tym rozsądnym." }
   ]
 }

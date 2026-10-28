@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel115_05213",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_SEQ_00", "hash": "38827957E140856A", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_00", "hash": "6F6588FD8A400037", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_01", "hash": "13C90689EEE64096", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_001", "hash": "00AB72608CC2D06C", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_002", "hash": "EF838F3E44F5CAD6", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_003", "hash": "B7B04C9D7C6E0303", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_004", "hash": "13F4627648DCECE7", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_005", "hash": "0409FECB975C4A24", "target": "" },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_006", "hash": "F307005A2CE8774E", "target": "" }
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_SEQ_00", "hash": "38827957E140856A", "target": "Yubli martwi się napływem niebezpiecznych drapieżników.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_00", "hash": "6F6588FD8A400037", "target": "Rozejrzeć się w okolicy Brzegu Wypalonego Szkliwa i zabić wszystkie riverside apollyons, które się pojawią" },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_01", "hash": "13C90689EEE64096", "target": "Porozmawiać z Yubli" },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_001", "hash": "00AB72608CC2D06C", "target": "<split(<string(gstr1)>, ,1)>, potrzebuję <if(gnum4,pani,pana)> pomocy: widziano agresywną bestię apollyon grasującą na szlakach." },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_002", "hash": "EF838F3E44F5CAD6", "target": "Takie stworzenia zwykle trzymają się dziczy, ale czasem któreś zapuszcza się bliżej wioski w poszukiwaniu zdobyczy. Musimy zdecydowanie rozprawiać się z tymi drapieżnikami i pokazać pozostałym, że nasze terytorium jest dla nich zamknięte." },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_003", "hash": "B7B04C9D7C6E0303", "target": "Według ostatniego doniesienia krąży gdzieś w pobliżu Brzegu Wypalonego Szkliwa. Będziemy bardzo wdzięczni za usunięcie tego zagrożenia─najlepiej zanim zdąży kogoś skrzywdzić." },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_004", "hash": "13F4627648DCECE7", "target": "Witam z powrotem! Rozumiem, że <if(gnum4,zgniotła pani,zgniótł pan)> tego paskudnego robala?" },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_005", "hash": "0409FECB975C4A24", "target": "Nasi przewodnicy dotąd potrafili chronić gości przed agresywnymi stworzeniami napotkanymi na drodze, ale taki szczytowy drapieżnik to nie przelewki. Moim zdaniem lepiej, by przewodnicy i ich podopieczni w ogóle ich nie spotykali!" },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_006", "hash": "F307005A2CE8774E", "target": "Opracowujemy własne sposoby odstraszania nieproszonych dzikich zwierząt, jednak najskuteczniejsze pozostaje pokazanie, że terytorium należy do potężnego obrońcy. Mamy szczęście, że możemy liczyć na <if(gnum4,panią,pana)> i tak szybką interwencję!" }
   ]
 }

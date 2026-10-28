@@ -2,18 +2,18 @@
   "conversation": "custom/001/ComDefFreeCompanyCrest_00101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01", "hash": "22290697BC0170F9", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1", "hash": "94B7C51D5FBF831C", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1", "hash": "CB6988D1DD30387E", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2", "hash": "84A73EF961D549EA", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A3", "hash": "95DEB3669150887E", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A4", "hash": "4BB03B77E6A6B4D1", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_010", "hash": "D9B470E398DC78A1", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_011", "hash": "F1830AAD0D918CAE", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012", "hash": "16E05F5D600DCE06", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013", "hash": "D98C4BE70698EB48", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1", "hash": "4203285DB3591468", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2", "hash": "EDEDF2ABDAF65FF0", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3", "hash": "B07E29E99BBC40D2", "target": "" }
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01", "hash": "22290697BC0170F9", "target": "Jestem oficerem heraldycznym OIC, działającym przy organizacji <switch(lnum1,Maelstrom,Zakon Dwóch Żmij,Nieśmiertelne Płomienie)>." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1", "hash": "94B7C51D5FBF831C", "target": "Proszę podać cel wizyty." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1", "hash": "CB6988D1DD30387E", "target": "Zmień projekt herbu Free Company." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2", "hash": "84A73EF961D549EA", "target": "Dodaj herb Free Company do ekwipunku lub go usuń." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A3", "hash": "95DEB3669150887E", "target": "Dowiedz się więcej o herbach Free Company." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A4", "hash": "4BB03B77E6A6B4D1", "target": "Nic." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_010", "hash": "D9B470E398DC78A1", "target": "Herb jest znakiem <if(gnum4,pani,pana)> Free Company. Określa <if(gnum4,panią,pana)> i towarzyszy. Odróżnia was od wszystkich innych zakonów, konfederacji, bractw i syndykatów." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_011", "hash": "F1830AAD0D918CAE", "target": "Może <if(gnum4,pani,pan)> nie tylko zaprojektować własny herb, lecz także kazać wymalować go na całym swoim ekwipunku. Dzięki temu wrogowie będą wiedzieli, z czyjej ręki padli." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012", "hash": "16E05F5D600DCE06", "target": "Aby zaprojektować herb Free Company i go nanosić, wasza organizacja musi najpierw zdobyć do tego prawo." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013", "hash": "D98C4BE70698EB48", "target": "Musi <if(gnum4,pani,pan)> też kierować swoją Free Company lub mieć odpowiednie upoważnienie do zmiany jej herbu." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1", "hash": "4203285DB3591468", "target": "Wygląda na to, że nie należy <if(gnum4,pani,pan)> do żadnej Free Company. Trudno przecież mieć herb organizacji, do której się nie należy, prawda?" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2", "hash": "EDEDF2ABDAF65FF0", "target": "Jestem oficerem heraldycznym OIC, działającym przy organizacji <switch(lnum1,Maelstrom,Zakon Dwóch Żmij,Nieśmiertelne Płomienie)>." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3", "hash": "B07E29E99BBC40D2", "target": "Wygląda na to, że <if(gnum4,pani,pana)> Free Company nie ma w naszym rejestrze. Obawiam się, że nie mogę pomóc w zmianie jej herbu." }
   ]
 }

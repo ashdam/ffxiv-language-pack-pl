@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz316_01808",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "" }
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "Vath fleetfoot z widoczną troską wpatruje się w ziemię." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "Zwiadowcy Vath donieśli Vath fleetfoot, że Gnathowie gromadzą zapasy na Dymiących Pustkowiach, tworząc przyczółek do ataku na Loth ast Vath. Chcąc udaremnić napaść, daje ci krzemień i prosi o odnalezienie i zniszczenie zapasów." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "Znajdujesz sprzęt wojenny i go podpalasz. Zdaj Vath fleetfoot raport o swoim sukcesie." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "Zniszczenie sprzętu wojennego roju Gnathów przynosi ulgę Vath fleetfoot. Odbudowa zapasów zajmie Gnathom trochę czasu, dając Vath szansę na wzmocnienie obrony." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "Podpalić zapasy Gnathów za pomocą krzemienia" },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "Zdać raport Vath fleetfoot" },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "Niedawno wrócił nasz zwiadowca z wieściami. Gnathowie gromadzą zapasy na Dymiących Pustkowiach. Chcą stamtąd na nas napadać. To dla nas niebezpieczne. Potrzebujemy twojej pomocy, <if(gnum4,łowczyni,łowco)>." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "Weź ten krzemień i znajdź wozy z zapasami, gdzieś między nami a rojem Gnathów. Podpal je. Obróć zapasy w popiół. To trudne zadanie, lecz znamy twoje zdolności." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "Znajdź wozy z zapasami Gnathów na Dymiących Pustkowiach i spal je na popiół." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "Nie zawodzisz nas, <if(gnum4,łowczyni,łowco)>. Cieszymy się, że nic ci się nie stało." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "Brak nam słów podzięki. Po zniszczeniu przyczółka ataki powinny na jakiś czas ustać. Wykorzystamy ten czas na wzmocnienie obrony." }
   ]
 }

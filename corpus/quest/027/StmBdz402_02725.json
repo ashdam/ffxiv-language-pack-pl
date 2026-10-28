@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz402_02725",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_02", "hash": "3FFC475864C0D0F1", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_020", "hash": "4FE78B994A802837", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "" }
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "Hojo szuka kogoś krzepkiego do pomocy przy dźwiganiu ciężarów." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "Zebrać stosy kamieni" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "Umieścić stosy kamieni we wskazanych miejscach" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_02", "hash": "3FFC475864C0D0F1", "target": "Zdać sprawę Hojo" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "Tyle na tym świecie błahostek. Wszyscy zaprzątają sobie głowę bezużytecznymi błyskotkami, a nikt nie myśli o rzeczach ważnych, takich jak tarasowe pola ryżowe." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "Kamienne umocnienia każdego pola wymagają ciągłych napraw, ale nikogo to nie obchodzi. Ciężko jednemu człowiekowi podołać takiej pracy." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "Wyglądasz na kogoś, kto zdoła udźwignąć kamień czy dwa. Użyczysz mi trochę swojej siły?" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "Naprawami zajmę się sam. Potrzebuję tylko, żeby przenieść kilka stosów kamieni z południa bliżej pól ryżowych." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "Proszę, przenieś te stosy kamieni z południa bliżej pól ryżowych." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_020", "hash": "4FE78B994A802837", "target": "Bardzo ci dziękuję." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "Teraz zaczyna się trudna część. Nie wystarczy bezmyślnie układać kamieni─trzeba stosować specjalną technikę." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "Miałem ucznia, ale to przeklęte cesarskie wojsko wzięło go w kamasze. Nie ma dnia, żebym nie tęsknił za jego powrotem." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "Ach, znów opowiadam całe swoje życie komuś zupełnie obcemu! Oto twoja nagroda." }
   ]
 }

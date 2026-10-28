@@ -2,11 +2,11 @@
   "conversation": "shop/LotteryExchangeShopEureka1Crystal",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_TITLE", "hash": "5E2C67DA5AAD273D", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_NOITEM", "hash": "3FDA3811C2335696", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_TITLE", "hash": "C65F2E1B85A55272", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_NEXT", "hash": "B015ACB1C07D3809", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_SINGLE", "hash": "ED6E54DAD69DA428", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_MULTI", "hash": "3EE262CC95B09D98", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_TITLE", "hash": "5E2C67DA5AAD273D", "target": "Wymiana kryształów" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_NOITEM", "hash": "3FDA3811C2335696", "target": "Brak elementów do wyświetlenia." },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_TITLE", "hash": "C65F2E1B85A55272", "target": "Wyniki" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_NEXT", "hash": "B015ACB1C07D3809", "target": "Dalej" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_SINGLE", "hash": "ED6E54DAD69DA428", "target": "Wymienić przedmiot o nazwie „<ennoun(Item,3,lnum1,1,1)>”?<br><br>Pozostało (<head(<ennoun(Item,3,lnum1,2,1)>)>): <num(lnum3)><br>Pozostałe próby: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_MULTI", "hash": "3EE262CC95B09D98", "target": "Wymienić przedmiot o nazwie „<ennoun(Item,3,lnum1,1,1)>” ×<num(lnum4)>?<br><br>Pozostało (<head(<ennoun(Item,3,lnum1,2,1)>)>): <num(lnum3)><br>Pozostałe próby: <num(lnum2)>" }
   ]
 }

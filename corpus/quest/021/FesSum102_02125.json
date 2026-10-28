@@ -2,15 +2,15 @@
   "conversation": "quest/021/FesSum102_02125",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_00", "hash": "9073101C7D39C1FF", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_01", "hash": "A29605397C725A2E", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_02", "hash": "4AC32FD25281D9EA", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_TODO_00", "hash": "A9488591A2EF4375", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_000", "hash": "4D4C4ADA3DDB7C41", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_001", "hash": "9374464A44153226", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_002", "hash": "0A7472210C5E0E11", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_005", "hash": "388FF14B7A9CA96F", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_020", "hash": "3D05AA04C221CEBE", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_021", "hash": "0EC1BE91CA17139A", "target": "" }
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_00", "hash": "9073101C7D39C1FF", "target": "C'zibho Tia jest wyraźnie strasznie zajęty─szkoda byłoby zostawić go z tym samego.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_01", "hash": "A29605397C725A2E", "target": "C'zibho Tia ledwie nadąża za apetytem uczestników festynu w Costa del Sol i potrzebuje pomocy w przygotowywaniu porcji Battered Fish. Wyjaśnia, że główny składnik, Haddock, można kupić na pobliskim stoisku. Przygotuj porcję Battered Fish i zanieś ją kucharzowi, zanim skończy mu się jedzenie na sprzedaż.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_02", "hash": "4AC32FD25281D9EA", "target": "C'zibho Tia jest zadowolony z dostarczonej porcji Battered Fish i cieszy się, że nie musi jeszcze odprawiać klientów z kwitkiem. Najwyraźniej różni się z Espanem co do tego, co jest w daniu ważne: Espan rygorystycznie przestrzega jakości ryby, podczas gdy C'zibho Tia twierdzi, że po usmażeniu nie ma ona znaczenia. Licznym gościom Festynu Księżycowego Ognia najwyraźniej nie przeszkadza żadne podejście. Kucharz prosi o dostarczanie kolejnych porcji Battered Fish po ich przygotowaniu." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_TODO_00", "hash": "A9488591A2EF4375", "target": "Dostarczyć porcję Battered Fish kucharzowi o imieniu C'zibho Tia" },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_000", "hash": "4D4C4ADA3DDB7C41", "target": "Ach, więc po rozważeniu możliwości chcesz pomóc staremu C'zibho Tia? Dziękuję i obiecuję, że będzie przyjemniej niż przy robocie zleconej przez Espana." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_001", "hash": "9374464A44153226", "target": "Mam tu napełniać brzuchy naszych uroczych gości porcjami Battered Fish, ale tylu ludzi zajmuje się piratami, że ledwie nadążam za popytem." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_002", "hash": "0A7472210C5E0E11", "target": "Jeśli chcesz pomóc, porcji Battered Fish zawsze brakuje. Główny składnik, Haddock, kupisz u świątecznego rybaka tam dalej. Przynieś mi gotowe danie." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_005", "hash": "388FF14B7A9CA96F", "target": "Ledwie starcza porcji Battered Fish, by nakarmić głodnych uczestników festynu! Przynieś mi ich trochę, zanim będziemy musieli odprawiać ludzi z kwitkiem." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_020", "hash": "3D05AA04C221CEBE", "target": "Wspaniale! Sam bym zjadł, gdyby nie tylu klientów. Espan po prostu nie rozumie popytu─pewnie wciąż wydziwia nad świeżością ryby. Ale kiedy burczy w brzuchu, po obtoczeniu w cieście i usmażeniu wszystko smakuje tak samo." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_021", "hash": "0EC1BE91CA17139A", "target": "Dzięki. Na Festynie Księżycowego Ognia nie brakuje głodnych biesiadników, więc odezwij się, jeśli znów zechcesz dla nas pogotować." }
   ]
 }

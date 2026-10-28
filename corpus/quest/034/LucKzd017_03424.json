@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzd017_03424",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_001", "hash": "7A8F585CE12912AA", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_002", "hash": "83B1F6EE3D2660DD", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_003", "hash": "C40F07EAD9B498F6", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_004", "hash": "728CA809EF492D36", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_005", "hash": "7F894DD32C03E2F6", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_020", "hash": "CE84B6D5465D0D1D", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_021", "hash": "E9966EAB9185447B", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_022", "hash": "8A76966FA695FF6E", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_023", "hash": "4DB337C2CCB956D2", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_024", "hash": "109C4C529BBA4F3B", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_025", "hash": "657003EFEE78074D", "target": "" }
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Iala Jul ma prośbę do dziecka ludzkiego rodu." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "Pokonać rabbit's tail, tot aevis lub phooka" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "Porozmawiać z Iala Jul" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_001", "hash": "7A8F585CE12912AA", "target": "A to ci dopiero, dziecko ludzkiego rodu pojawia się właśnie teraz! To maleństwo ma szczęście." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_002", "hash": "83B1F6EE3D2660DD", "target": "Mam zaszczyt czuwać nad życiem rozwijającym się w tym jaju. To będzie szczęśliwy dzień, gdy wreszcie przyjdzie na świat. Niestety, zapewne nie pozna ludzi, dorastając. To mnie smuci." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_003", "hash": "C40F07EAD9B498F6", "target": "Mam jednak pomysł. Jeśli masz czas, przyniesiesz mi coś ciepłego do wyścielenia tamtego gniazda?" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_004", "hash": "728CA809EF492D36", "target": "Runo rabbit's tail, pióra tot aevis albo futro phooka─wystarczy jedna z tych rzeczy." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_005", "hash": "7F894DD32C03E2F6", "target": "Przynieś mi, proszę, runo rabbit's tail, pióra tot aevis albo futro phooka. Wyścielę nim tamto gniazdo." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_020", "hash": "CE84B6D5465D0D1D", "target": "Witaj z powrotem. Co przynosisz?" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_021", "hash": "E9966EAB9185447B", "target": "Ach, runo rabbit's tail. Łatwo odgadnąć, skąd wzięła się nazwa tego stworzenia, ale ono samo jest owiane tajemnicą gęstą niczym jego runo." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_022", "hash": "8A76966FA695FF6E", "target": "Ach, pióra tot aevis. Choć to stworzenie nie grzeszy urodą, jego pióra zapewniają niezrównane ciepło." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_023", "hash": "4DB337C2CCB956D2", "target": "Ach, futro phooka. Brawo, że udało ci się je zdobyć. Kiedy patrzę temu stworzeniu w oczy, mam wrażenie, że zaglądam w samo szaleństwo." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_024", "hash": "109C4C529BBA4F3B", "target": "Dziękuję, to będzie doskonałe wyścielenie gniazda. Kiedy maleństwo się wykluje, na pewno opowiem mu o twojej wizycie i prezencie." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_025", "hash": "657003EFEE78074D", "target": "Wiem, że więź z dzieckiem ludzkiego rodu przyniesie mu wiele radości. Przyjmij to w dowód wdzięczności." }
   ]
 }

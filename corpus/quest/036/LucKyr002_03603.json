@@ -2,14 +2,14 @@
   "conversation": "quest/036/LucKyr002_03603",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "" }
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "Czy rozmawiam z <if(gnum4,szanowną panią,szanownym panem)> o imieniu <string(gstr1)>? Pozwolę sobie się przedstawić. Jestem Mowen, założycielka i prezeska Butiku Wspaniałości." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "Pan Alphinaud bardzo wychwalał <if(gnum4,panią,pana)> i <if(gnum4,pani,pana)> niezrównany kunszt. Naprawdę bardzo..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "Proszę wybaczyć śmiałość, lecz byłabym zaszczycona, gdyby <if(gnum4,zechciała pani,zechciał pan)> zarejestrować się u nas jako <if(gnum4,dostawczyni,dostawca)> przedmiotów kolekcjonerskich. W zamian oferujemy bogaty wybór towarów, które z pewnością zyskają <if(gnum4,pani,pana)> uznanie." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "Żeby było jasne, nie chodzi o bezpośrednią zapłatę. Przyjęliśmy system bardzo podobny do tego, który niewątpliwie <if(gnum4,pani,pan)> zna─a o którym dopiero niedawno opowiedział mi pan Alphinaud." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "Za każdą dostawę otrzyma <if(gnum4,pani,pan)> zapłatę w scrips. Tę specjalną walutę można wydać tylko w Butiku Wspaniałości. To może ograniczenie, ale oferowane wyposażenie i materiały z nawiązką wynagrodzą wszelkie niedogodności." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "Kobieta, która jako pierwsza wymyśliła to rozwiązanie, była genialna, prawda? Prawdziwa wizjonerka, która zjednoczyła ludzi wszelkich stanów i odmieniła świat dzięki bezgranicznemu współczuciu i hojności..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "Ach, powinnam wspomnieć, że z wartości wszystkich przyjętych przedmiotów kolekcjonerskich potrącamy znikomą część na koszty ogólne i pozostałe wydatki operacyjne. Zapewne nie muszę wyjaśniać, dlaczego to konieczne." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "Butik Wspaniałości zawsze szuka nowych rzemieślników, którzy pragną dzielić się talentem ze światem! Jeśli zna <if(gnum4,pani,pan)> takie osoby, proszę je do nas skierować!" },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 70. lub wyższym." }
   ]
 }

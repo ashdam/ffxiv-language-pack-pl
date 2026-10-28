@@ -2,12 +2,12 @@
   "conversation": "custom/003/RegRoc2SkyIsland2FeverTime_00387",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_000", "hash": "61906BC51C45E857", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_001", "hash": "1698D4961D1F5442", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_002", "hash": "0C83C6DE5FACDB1F", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_003", "hash": "10ED3D73FA2FB253", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_000", "hash": "375E77D0BEA93F53", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_001", "hash": "C9F784B963FEEA79", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_002", "hash": "17F3D57E19B2EC9D", "target": "" }
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_000", "hash": "61906BC51C45E857", "target": "Proszę zachować ostrożność. Energie archipelagu The Diadem stają się coraz bardziej niestabilne. Podobno przyczyną jest przybycie dryfujących, osobliwych ruin..." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_001", "hash": "1698D4961D1F5442", "target": "Ta wyspa, ten... zaginiony klejnot, zatrzymała się niedaleko Klejnotu Koronnego. Wygląda na to, że do ruin nie da się dostać, dopóki burza hiperelektryczna nie otworzy drogi do środka." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_002", "hash": "0C83C6DE5FACDB1F", "target": "Taka pogoda zdarza się rzadko, ale na pewno powiadomię <if(gnum4,panią,pana)> przez komunikator linkpearl, gdy tylko nadarzy się okazja. Nie wolno nam zmarnować żadnej szansy na zgłębienie tajemnic wyspy... nie wspominając o zdobyciu jej skarbów!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_003", "hash": "10ED3D73FA2FB253", "target": "Proszę zachować ostrożność. Energie archipelagu The Diadem stają się coraz bardziej niestabilne. Podobno przyczyną jest przybycie dryfujących ruin cywilizacji Mhach..." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_000", "hash": "375E77D0BEA93F53", "target": "Witam! Słyszę, że udało się <if(gnum4,pani,panu)> wejść do ruin Zaginionego Klejnotu i spotkać jego przerażających mieszkańców!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_001", "hash": "C9F784B963FEEA79", "target": "Cieszę się, że udało się <if(gnum4,pani,panu)> wyjść stamtąd bez szwanku. Choć pochodzenie tego miejsca nadal nam umyka, <if(gnum4,pani,pana)> dokonania dowodzą, że zdeterminowany odkrywca może przynajmniej zdobyć przyczółek na posępnym brzegu tej wyspy!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_002", "hash": "17F3D57E19B2EC9D", "target": "Chyba nie należało oczekiwać niczego mniej po pozostałości cywilizacji Mhach. Zdumiewające, że tak pradawna magia wciąż ma moc zaburzenia samej równowagi żywiołów..." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz803_01933",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_00", "hash": "DC52C97B906DF44D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_01", "hash": "75C3C2888B18CFDC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_02", "hash": "615971078D8D70A8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_03", "hash": "5934C0443C30147E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_00", "hash": "386C95937CD5C946", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_01", "hash": "5CAC119C58235CC8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_000", "hash": "3DEDC58D0FF5FF97", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_001", "hash": "58641F58A43DFE29", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_002", "hash": "85A8E73868EC5E47", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_010", "hash": "FB09A607762EDC39", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_020", "hash": "C204CE89869B88CF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_100_020", "hash": "B136B6ED2E3D82FE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_021", "hash": "038923C7BA9AB0D3", "target": "" }
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_00", "hash": "DC52C97B906DF44D", "target": "Feltsmox wygląda na głęboko niezadowoloną." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_01", "hash": "75C3C2888B18CFDC", "target": "Ostatnio Feltsmox nie udaje się nic złowić. Uważa, że pomogą jej oczy pobliskich zwierząt wildebeest. Pomóż zniechęconej goblince, zbierając trzy takie oczy." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_02", "hash": "615971078D8D70A8", "target": "Z zabitych zwierząt wildebeest wyjmujesz tajemnicze czerwone gałki oczne. Dostarcz je Feltsmox i dowiedz się, do czego ich potrzebuje." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_03", "hash": "5934C0443C30147E", "target": "Przez przyciemnione szkła maski widzisz, jak Feltsmox rozbłyskują oczy na widok przyniesionej zdobyczy. Wyjaśnia, że to doskonała przynęta na ryby, po czym z zapałem rusza ją wypróbować." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_00", "hash": "386C95937CD5C946", "target": "Zabić zwierzęta wildebeest i zebrać ich oczy" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_01", "hash": "5CAC119C58235CC8", "target": "Dostarczyć oczy zwierząt wildebeest Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_000", "hash": "3DEDC58D0FF5FF97", "target": "Pszsz... Szkoo...<br>Feltsmox nic się nie udaje, więc idzie na spacer, ale wciąż jest nieszczęśliwa." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_001", "hash": "58641F58A43DFE29", "target": "Feltsmox uwielbia łowić ryby, ale ostatnio ma <italic(1)>okropnego<italic(0)> pecha. Feltsmox nie może złowić <italic(1)>niczego<italic(0)>!" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_002", "hash": "85A8E73868EC5E47", "target": "Feltsmox ma pomysł. <if(gnum4,Wierzchniaczko,Wierzchniaku)>, pomóż, proszę! Zabij zwierzęta wildebeest i zbierz trzy ich oczy." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_010", "hash": "FB09A607762EDC39", "target": "Pomóż, proszę, <if(gnum4,wierzchniaczko,wierzchniaku)>. Zbierz trzy oczy pobliskich zwierząt wildebeest." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_020", "hash": "C204CE89869B88CF", "target": "Masz oczy zwierząt wildebeest?" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_100_020", "hash": "B136B6ED2E3D82FE", "target": "Pszsz... Szkoo...<br>Wspaniale! Może tym razem Feltsmox wreszcie coś złowi!" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_021", "hash": "038923C7BA9AB0D3", "target": "Te lśniące, błyszczące gałki to najlepsza ryboprzynęta. Feltsmox złowi dzięki nim wielkie, pyszne ryby... Feltsmox wypróbuje je od razu!" }
   ]
 }

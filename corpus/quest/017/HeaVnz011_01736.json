@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz011_01736",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_00", "hash": "D0EE99AB05DE5C05", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_01", "hash": "0EB08721C445D448", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_02", "hash": "E0586409182A7CF2", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_03", "hash": "54992E58375D882D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_00", "hash": "AB4421D8A5765113", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_01", "hash": "7CDAD776C8039E2F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_000", "hash": "A17A8CBA8CA5A113", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_001", "hash": "38AF043BD13F6544", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_002", "hash": "7537946F8E527303", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_010", "hash": "EFEDF5659A93BE6B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_020", "hash": "FF30A008F0384296", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_021", "hash": "1770AFB9FF4AD20C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_022", "hash": "02A7BBA932231C54", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_023", "hash": "E2C3590740ECF160", "target": "" }
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_00", "hash": "D0EE99AB05DE5C05", "target": "Ingaret wydaje długie, żałosne westchnienie." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_01", "hash": "0EB08721C445D448", "target": "Ingaret liczyła na okazję przeszukania zamarzniętych przystani przy Obozie u Zbiegu Rzek, by odnaleźć rzeczy dziadka, ale nie może opuścić posterunku. W dokach grasują bestie, więc nie wyśle byle kogo─uznaje cię za właściwą osobę. Dowiedź, że miała rację: omiń dzikie zwierzęta i wróć z dobytkiem jej dziadka." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_02", "hash": "E0586409182A7CF2", "target": "Po przeszukaniu doków odnajdujesz wszystko, co pasuje do opisu Ingaret. Zanieś jej te przedmioty do Falcon's Nest." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_03", "hash": "54992E58375D882D", "target": "Ingaret dziękuje za odzyskanie rzeczy dziadka─pamiątek z czasów, gdy był przewoźnikiem u Zbiegu Rzek. Przypominają mu obowiązki porzucone podczas ucieczki z wyżyn. Ingaret ma nadzieję, że dzięki nim odzyska cel w życiu, który utracił w ostatnich latach." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_00", "hash": "AB4421D8A5765113", "target": "Poszukać zaginionych przedmiotów przy Obozie u Zbiegu Rzek" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_01", "hash": "7CDAD776C8039E2F", "target": "Dostarczyć dobytek Ingaret" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_000", "hash": "A17A8CBA8CA5A113", "target": "\\<wzdycha> Nawet gdybym miała czas pójść tam sama, nie miałabym szans z tymi bestiami..." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_001", "hash": "38AF043BD13F6544", "target": "Prosiłam o ten przydział między innymi dlatego, by odzyskać dobytek dziadka. Powinien leżeć przy zamarzniętych dokach Obozu u Zbiegu Rzek." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_002", "hash": "7537946F8E527303", "target": "Ale przy takim natłoku zajęć nie mogę teraz opuścić posterunku. Co gorsza, okolica roi się od potworów, więc nie wyślę tam byle kogo. Ale <if(gnum4,pani,pan)> chyba sobie poradzi. Czy mogę prosić o pomoc?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_010", "hash": "EFEDF5659A93BE6B", "target": "Przy przeszukiwaniu doków koło Obozu u Zbiegu Rzek z pewnością znajdzie <if(gnum4,pani,pan)> jego rzeczy." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_020", "hash": "FF30A008F0384296", "target": "Udało się? Są rzeczy mojego dziadka?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_021", "hash": "1770AFB9FF4AD20C", "target": "Och, chyba jest wszystko! Niech Halone <if(gnum4,panią,pana)> błogosławi!" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_022", "hash": "02A7BBA932231C54", "target": "Przed Katastrofą dziadek zarabiał jako przewoźnik. Ale komu potrzebny przewoźnik, gdy lód jest dość gruby, by po nim przejść?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_023", "hash": "E2C3590740ECF160", "target": "Nic dziwnego, że przez te lata tak podupadł na zdrowiu. Człowiek bez celu łatwo choruje. Gdybym tylko mogła przypomnieć mu to, co kiedyś miał, może odzyskałby siły..." }
   ]
 }

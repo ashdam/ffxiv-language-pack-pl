@@ -58,7 +58,7 @@
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_NAMINGWAY_000_040", "hash": "3B3F62D95E00AB9C", "target": "Oto ogrody botaniczne. Weddingway próbuje ustalić, czy dzięki tęczowym kryształom możemy uprawiać rośliny na innych gwiazdach." },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_NAMINGWAY_000_041", "hash": "D4FFE8C02B4C9CBB", "target": "Na szczęście eksperymenty dały nam zachwycający zestaw krzyżówek. Zobacz samodzielnie!" },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_NAMINGWAY_000_050", "hash": "8DD4D999FEF3EBCC", "target": "Nie śpiesz się. Warto obejrzeć ten ogród!" },
-    { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_000_051", "hash": "59A7906DDAE3D8F0", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_000_051", "hash": "59A7906DDAE3D8F0", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_Q2_000_000", "hash": "9D6C48B785A81A5A", "target": "Obejrzeć rośliny w Weddingway's Bower?" },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_NAMINGWAY_000_053", "hash": "6847AE294B0BB0A1", "target": "Patrząc teraz, trudno uwierzyć, że kiedyś było tu jałowe pustkowie... ale zbaczam z tematu." },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_NAMINGWAY_000_054", "hash": "6ECB8C16BFBCB50A", "target": "Wskaż cokolwiek, co przyciągnie twój wzrok, a chętnie objaśnię szczegóły!" },
@@ -116,7 +116,7 @@
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SEARCHINGWAY_100_018", "hash": "BB3F452B61462F77", "target": "Gdy będziemy gotowi do startu, ruszysz ze mną ku gwiazdom?" },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_100_030", "hash": "73E60708FEC6D068", "target": "Po ukończeniu 100 misji gwiezdnych w Sinus Ardorum możesz podjąć dodatkową misję." },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_100_031", "hash": "552CD6359538412E", "target": "Odszukaj Mumukko, by dowiedzieć się, jak jeszcze pomóc inicjatywie." },
-    { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_100_032", "hash": "46219B9D6C532AFC", "target": "Ukończ 100 misji gwiezdnych w Sinus Ardorum, aby odblokować dodatkową misję." },
+    { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_100_032", "hash": "46219B9D6C532AFC", "target": "Ukończ 100 misji gwiezdnych w rejonie Sinus Ardorum, aby móc przyjąć dodatkowe zadanie." },
     { "gameKey": "quest/052/KinGwk102_05254#TEXT_KINGWK102_05254_SYSTEM_100_033", "hash": "89F243DA49C3277D", "target": "Sprawdź egzotablet, aby znaleźć dostępne misje i inne sposoby wsparcia Inicjatywy Eksploracji Kosmosu." }
   ]
 }

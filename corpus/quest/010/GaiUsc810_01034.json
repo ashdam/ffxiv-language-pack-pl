@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc810_01034",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_00", "hash": "2F77B6B7E6836990", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_01", "hash": "9F574474C26CF852", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_02", "hash": "39DACCD0C41BA919", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_03", "hash": "068F8AB3FF9C0DD3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_00", "hash": "0C34968FB7C5B892", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_01", "hash": "438B28F557C142D4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_000", "hash": "719A44D567EBE0B9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_001", "hash": "BD86448BA753B7BB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_002", "hash": "79D66F00B1D3800F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_010", "hash": "5B84942E345D2EF8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_020", "hash": "60B10000B1FBBFDD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_021", "hash": "28BDE07E80B7E4D2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_00", "hash": "2F77B6B7E6836990", "target": "Sthalrhet chce wysłać cię na polowanie." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_01", "hash": "9F574474C26CF852", "target": "Sthalrhet prosi cię o wytępienie sea wasp, żeby jego brat nie mógł się nimi raczyć." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_02", "hash": "39DACCD0C41BA919", "target": "Dostarcz Sthalrhetowi zabite sea wasp." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_03", "hash": "068F8AB3FF9C0DD3", "target": "Sthalrhet napawa się nieszczęściem brata i chętnie odda meduzy każdemu, kto nie nazywa się Nortmoen." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_00", "hash": "0C34968FB7C5B892", "target": "Zabić sea wasp i zdobyć ich gnijące dzwony" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_01", "hash": "438B28F557C142D4", "target": "Dostarczyć gnijące dzwony Sthalrhetowi" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_000", "hash": "719A44D567EBE0B9", "target": "Wyglądasz na kogoś, kto szuka roboty. A ja potrzebuję martwych sea wasp. Może pomożemy sobie nawzajem." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_001", "hash": "BD86448BA753B7BB", "target": "Żeby było jasne, sam nie zamierzam żuć tego oślizgłego paskudztwa. Ale mój brat, ten nieokrzesany cham, nie może się nim najeść." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_002", "hash": "79D66F00B1D3800F", "target": "Ani dnia dłużej nie zniosę widoku, jak napycha gębę tymi parzącymi szkodnikami! Ach, wiele bym dał, żeby zobaczyć jego minę, gdy usłyszy, że wszystkie jego cenne meduzy nie żyją! Ale nie zapłacę bez dowodu─najpierw muszę zobaczyć gnijące zwłoki." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_010", "hash": "5B84942E345D2EF8", "target": "Mam nadzieję, że pilnie odsyłasz dusze tych meduz w głębiny? Tylko nie oddaj ich ciał mojemu bratu!" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_020", "hash": "60B10000B1FBBFDD", "target": "To nazywam porządną rzezią! Doskonale." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_021", "hash": "28BDE07E80B7E4D2", "target": "Pozostaje tylko ustalić, jak pozbyć się tego paskudztwa. Chyba znajdzie się w mojej brygadzie ktoś, kto zdoła je przełknąć..." }
   ]
 }

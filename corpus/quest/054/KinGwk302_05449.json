@@ -70,7 +70,7 @@
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_074", "hash": "686D56534A3E79DD", "target": "Wyobrażasz sobie, co by się stało, gdyby wpadł tam żywy przedstawiciel ludu Loporrit!? ...Właściwie wolę nie zgadywać." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_075", "hash": "077E941D93B08E21", "target": "Przejdźmy teraz do Shadefleet i przyjrzyjmy się najgroźniejszej cesze gwiazdy..." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_076", "hash": "7A6971BA1A3791E8", "target": "Ten widok na zawsze pozostanie moim wspomnieniem Oizys." },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_077", "hash": "901B4B07E76C85EA", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_077", "hash": "901B4B07E76C85EA", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q2_100_000", "hash": "9485425365567EBA", "target": "Nacieszyć się widokiem?" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_080", "hash": "8FE659A0428A54BB", "target": "Widać było, jak Terra Firma malało w miarę wspinaczki? Pomyślałem, że na tej wysokości mocny podmuch wiatru jest równie groźny jak anomalia..." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_081", "hash": "3722980311FC43CC", "target": "Ale na razie o tym zapomnij. Powiedz, co jeszcze przyciąga twój wzrok!" },
@@ -143,7 +143,7 @@
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SEARCHINGWAY_000_117", "hash": "188F6A50750C72FA", "target": "Bo gdy przyjdzie pora, chcę mieć na pokładzie waszą dwójkę!" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_150", "hash": "812EE161452663FD", "target": "Po ukończeniu 50 misji gwiezdnych na Oizys możesz podjąć dodatkową misję." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_151", "hash": "E686BE3F264A5D14", "target": "Odszukaj Mumukko, by dowiedzieć się, jak jeszcze pomóc inicjatywie." },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_152", "hash": "03E66ECAA37730B8", "target": "Ukończ 50 misji gwiezdnych na Oizys, aby odblokować dodatkową misję." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_152", "hash": "03E66ECAA37730B8", "target": "Ukończ 50 misji gwiezdnych na planecie Oizys, aby móc przyjąć dodatkowe zadanie." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_153", "hash": "8FB0A94A03B5706D", "target": "Sprawdź egzotablet, aby znaleźć dostępne misje i inne sposoby wsparcia Inicjatywy Eksploracji Kosmosu." }
   ]
 }

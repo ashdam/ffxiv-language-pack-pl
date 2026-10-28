@@ -2,14 +2,14 @@
   "conversation": "quest/036/BanPix108_03696",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "" }
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "Uin Nee nigdy nie znudzi się wymyślanie nowych zadań dla swojej ulubionej osoby wśród śmiertelników.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "Zdobyć kępki małego ślazu w pobliżu Lyhe Ghiah" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "Dostarczyć kępki małego ślazu Uin Nee" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "Och, witaj, <split(<string(gstr1)>, ,1)>! Tak zupełnie bez związku z niczym, znasz Lyhe Ghiah? To przecudowne miejsce ze wspaniałym zamkiem i uroczymi kulkami puszystego ślazu, unoszącymi się w górę i w dół, tam i z powrotem na łagodnie szumiącym wietrze." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "Otóż rozmyślam, jak sprawić, by dziecięce sny były jeszcze słodsze, i nagle uderza mnie pomysł z siłą olbrzymiego kłębka puchu! Mogę wypełnić je puchatym, puszystym ślazem! Czyż nie byłby to najrozkoszniejszy sen na świecie? Oczywiście, że tak!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "Potrzebuję do tego kępek ślazu, a po prostu nie mogę odrywać się od tkania snów, by lecieć aż do Lyhe Ghiah! W końcu co by dzieci beze mnie zrobiły? Całe szczęście, że przychodzisz zaoferować pomoc! Przecież <italic(1)>po to<italic(0)> tu jesteś, prawda?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "Witaj z powrotem! To kępki ślazu wystają ci z kieszeni czy po prostu tak się cieszysz na mój widok? A może jedno i drugie? Na pewno jedno i drugie, prawda?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "Wiem, że mogę na ciebie liczyć. I spójrz tylko na te puchate kępki! Teraz może nie robią wielkiego wrażenia, ale gdy użyję magii, wyrosną z nich lekkie kulki fantastycznego puchu, jeszcze bardziej puszystego niż najgęstsza owcza wełna!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "Tak, moi śniący pokochają unoszenie się w przestworzach na olbrzymich chmurach ślazu! Och, mam ochotę spróbować osobiście! Oczywiście nie ma nic złego w lataniu na starych, dobrych skrzydłach. Po prostu całe to fruwanie i trzepotanie czasem trochę męczy. \\<ziewa> Chyba należy mi się odpoczynek!" }
   ]
 }

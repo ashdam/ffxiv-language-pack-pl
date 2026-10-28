@@ -2,15 +2,15 @@
   "conversation": "quest/028/StmBdz820_02848",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "" }
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "Guntmar jest już całkiem rozbudzony i chce zrobić użytek z reszty wywaru." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "Dostarczyć wywar z muud suud bojowniczce ruchu oporu" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "Miło cię widzieć. Jeszcze raz dzięki za róg muud suud. Nigdy nie czułem się lepiej." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "Zostało mi dość na jeszcze jeden kubek. Skoro tu jesteś, może zechcesz komuś go zanieść? Wracając do Ala Ghiri, oddaj go żołnierce przy północnej bramie." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "Zaniesiesz ten ostatni kubek wywaru żołnierce przy północnej bramie? Już od jakiegoś czasu mnie o niego wypytuje. Szkoda byłoby jej nie poczęstować." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "Ach, zawsze miło <if(gnum4,panią,pana)> widzieć. W czym mogę pomóc?" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "Czy to... \\<węszy> \\<węszy> Tak! Wywar Guntmara z muud suud. Nigdy nie piłam niczego o tak bogatym, wyrazistym smaku. A ten przyjemny posmak, który zostaje na całe dnie... Po prostu niebo w gębie." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "Trudno uwierzyć, że z tak okropnej bestii może powstać coś tak wspaniałego. Ale potrawy z rogów i kości zwierząt są w Gyr Abanii dość powszechne. Oprócz charakterystycznego smaku mają najróżniejsze właściwości zdrowotne." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "Podobno te przepisy dotarły do nas za sprawą handlu z Bliskim Wschodem. Kto by pomyślał." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "Powinnam zaraz wrócić do domu i─ojej, chyba aż mi ślinka cieknie. Proszę wybaczyć. Jeszcze raz dziękuję za tę przemiłą niespodziankę." }
   ]
 }
