@@ -2,10 +2,10 @@
   "conversation": "custom/003/FesEst2017_00380",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_000", "hash": "78A63CD59D0E9661", "target": "" },
-    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_010", "hash": "7FEB282B777120D8", "target": "" },
-    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_011", "hash": "25A17C8FDC0EB1B4", "target": "" },
-    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_012", "hash": "5C99AA3671E66F1D", "target": "" },
-    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_013", "hash": "2819480184422E56", "target": "" }
+    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_000", "hash": "78A63CD59D0E9661", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>. Czy chce <if(gnum4,pani,pan)> dowiedzieć się czegoś o obchodach Święta Wyklucia?" },
+    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_010", "hash": "7FEB282B777120D8", "target": "Święto Wyklucia to młoda tradycja, która narodziła się z proroczego snu gridańskiej dziewczyny imieniem Jihli Aliapoh. Ujrzała w nim dawnych Dwunastu Archontów, bohaterów, którzy ocalili krainę przed zagładą podczas Szóstej Katastrofy Umbralnej." },
+    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_011", "hash": "25A17C8FDC0EB1B4", "target": "Zstępując z niebios na pięknie zdobionych jajach, rzekli do Jihli: „Powstań, młoda Marzycielko, i przygotuj pojazdy na nasz powrót”. Tak też uczyniła─pieczołowicie malowała i złociła jaja na podobieństwo tych ze swojej wizji." },
+    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_012", "hash": "5C99AA3671E66F1D", "target": "Wieść o proroctwie rozeszła się szeroko i Jihli znalazła pomocników do wspólnej pracy. Po Katastrofie święto jeszcze się rozrosło. Mieszkańcy miast i poszukiwacze przygód tłumnie przybywali, by uczcić dawnych Archontów, którzy według wielu ponownie przyczynili się do ocalenia krainy." },
+    { "gameKey": "custom/003/FesEst2017_00380#TEXT_FESEST2017_00380_EGGHUNTINGSTAFFA_000_013", "hash": "2819480184422E56", "target": "Skoro zna już <if(gnum4,pani,pan)> historię Święta Wyklucia, może zechce <if(gnum4,pani,pan)> wziąć w nim udział? Jeśli tak, zapraszamy do Gridanii, gdzie odbywają się uroczystości. Będziemy wypatrywać <if(gnum4,pani,pana)> z radością!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz308_01800",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_00", "hash": "F9C53DFF6CAA6C80", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_00", "hash": "F9C53DFF6CAA6C80", "target": "Burczenie w brzuchu Toh Y Thraha wydaje się coraz głośniejsze." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "Zaspokoiwszy apetyt na mięso, Toh Y Thrah prosi teraz o jaja gallimimus. Przeszukaj ich gniazda u podnóża Sohm Al i zdobądź jaja na jego kolejny posiłek." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "Wykradasz jaja z gniazd gallimimus. Dostarcz je Toh Y Thrahowi i ucisz burczenie w jego brzuchu." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "Dostarczasz jaja gallimimus Toh Y Thrahowi. Promienieje z zachwytu, gdy znikają w głębi jego brzucha. Zadowolony z posiłku, postanawia w przyszłości samemu wykradać jaja." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "Zdobyć jaja gallimimus u podnóża Sohm Al" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "Dostarczyć jaja gallimimus Toh Y Thrahowi" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "Wciąż jestem głodny, lecz nie mięsa─nie, pragnę jaj! Nie ma nic pyszniejszego niż połykanie całych jaj, gdy ich gładkie skorupki zsuwają się do gardła." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "Przynieś pięć jaj gallimimus żyjących u podnóża Sohm Al. Znoszą ich mnóstwo. Nie odczują braku tych kilku, których potrzebuję." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "Gallimimus u podnóża Sohm Al znoszą najlepsze jaja. Pięć wystarczy na dobry posiłek." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "Jesteś z powrotem, ale masz jaja?" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "Tak, tak! Dobra robota. Niełatwo zaspokoić mój głód... \\<przełyka>" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "Mmm... Takie gładkie, takie sycące! Muszę znaleźć sposób, by samemu je podkradać." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKza015_04194",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_SEQ_00", "hash": "AF1B8456664CEAE6", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_000", "hash": "3C77F3A37D4B541D", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_001", "hash": "9F1607EA3204DF1E", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_002", "hash": "335BD5EC969EF6FF", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_003", "hash": "D3D76C8A92A808A3", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_010", "hash": "C5DB12F5A0EB1A33", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_011", "hash": "97EB306CE3F52C5A", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_012", "hash": "92D8CEF6FB23C063", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_013", "hash": "F5387C636D2FBF1D", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_014", "hash": "BC06421D68EAE8AA", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_015", "hash": "5347C5F4A99ED42B", "target": "" }
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_SEQ_00", "hash": "AF1B8456664CEAE6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Emaniette szuka kogoś odważnego do niebezpiecznego zadania." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "Zebrać brązowe błoto" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "Dostarczyć brązowe błoto Emaniette" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_000", "hash": "3C77F3A37D4B541D", "target": "Jeśli się nie mylę, to stalowe spojrzenie należy do <if(gnum4,poszukiwaczki,poszukiwacza)> przygód. Kogoś, kto patrzy śmierci w oczy i nawet nie drgnie." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_001", "hash": "9F1607EA3204DF1E", "target": "Tak się składa, że potrzebuję próbki rzadkiej ziemi. Można ją znaleźć tylko w miejscu pełnym groźnych roślin i bogowie wiedzą czego jeszcze. Hojnie zapłacę za jej zdobycie." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_002", "hash": "335BD5EC969EF6FF", "target": "Jeśli zechce <if(gnum4,pani,pan)> pomóc, proszę udać się do Głębi Troglofilów i zebrać trzy próbki brązowego błota─im ciemniejsze, tym lepsze. Radzę wcześniej naostrzyć broń, ale nie będę pouczać, jak wykonywać tę pracę." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_003", "hash": "D3D76C8A92A808A3", "target": "Potrzebuję trzech próbek brązowego błota z Głębi Troglofilów. Łatwo je zauważyć, ale dotarcie do nich bez szwanku może być zupełnie inną sprawą." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_010", "hash": "C5DB12F5A0EB1A33", "target": "Już z powrotem! Czy mnie to dziwi? Nie, nie, oczywiście, że nie. Całkowicie wierzyłam w <if(gnum4,pani,pańskie)> umiejętności. No i jak, są próbki?" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_011", "hash": "97EB306CE3F52C5A", "target": "Znakomita robota. Dzięki temu będę mogła dalej badać metody mieszkańców Nagxii, biegłych zarówno w walce, jak i w uprawie roli." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_012", "hash": "92D8CEF6FB23C063", "target": "Niedawno zdobyłam pisma z ich ojczyzny, szczegółowo opisujące tamtejsze rolnictwo. Czy wie <if(gnum4,pani,pan)>, że mieszają ziemię z odchodami nietoperzy, by zwiększyć jej żyzność? To bardzo pomysłowe." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_013", "hash": "F5387C636D2FBF1D", "target": "W ich krainie panuje dość umiarkowany klimat. Jak napisano, po stu latach odchody twardnieją i przypominają kamień, co jeszcze zwiększa stężenie zawartych w nich składników odżywczych." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_014", "hash": "BC06421D68EAE8AA", "target": "Oczywiście dzisiejsze próbki są zbyt świeże, by same mogły się na wiele przydać. Ale po co nam badania, jeśli nie po to, by uwolnić się od ograniczeń natury?" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_015", "hash": "5347C5F4A99ED42B", "target": "Co takiego? Przecież chyba mówiłam, że odchody <italic(1)>przypominają<italic(0)> błoto, prawda? Tak czy inaczej, zamierzam przyspieszyć dojrzewanie i w kilka dni osiągnąć to, co naturze zajmuje stulecia. Jeśli się uda, rolnicy na całym świecie będą się cieszyć i będą mieli za co <if(gnum4,pani,panu)> dziękować!" }
   ]
 }

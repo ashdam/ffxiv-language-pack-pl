@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory4_00895",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_000", "hash": "8E216670F48F9E43", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_010", "hash": "AA8173E7CBCA1DBB", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_011", "hash": "04D634C1DE16B5D0", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_012", "hash": "FB7FE3C4036D8478", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_000", "hash": "8E216670F48F9E43", "target": "Panel zawiera informacje o historii ludu Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_010", "hash": "AA8173E7CBCA1DBB", "target": "Cenieni za wybitne osiągnięcia w badaniach nad electrope, przedstawiciele ludu Milalla cieszyli się przychylnością władców wielu państw." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_011", "hash": "04D634C1DE16B5D0", "target": "Niektórzy z nich próbowali przywołać moc starożytnego reliktu, by powrócić do ojczyzny, lecz ich wysiłki spełzły na niczym. Złota droga, którą ich przodkowie uciekli w bezpieczne miejsce, nigdy więcej się nie otworzyła." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_012", "hash": "FB7FE3C4036D8478", "target": "Z czasem o relikcie zapomniano, a niektórzy dziś wątpią, czy kiedykolwiek istniał." }
   ]
 }

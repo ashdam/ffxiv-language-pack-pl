@@ -2,19 +2,19 @@
   "conversation": "custom/008/RegSak6Luwateninyawawsa_00881",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000", "hash": "5E349A9568D47785", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001", "hash": "9D08DEF72A32BA5C", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002", "hash": "A6ACE714E2B5068B", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003", "hash": "577C421142D308A9", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000", "hash": "018B03192270249D", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001", "hash": "76DD9E7961BD7DF7", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002", "hash": "B6AE1FEB7C00E234", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003", "hash": "95F05DAF1F1BE2AE", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004", "hash": "C3E512ACCFB5A9D5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005", "hash": "3A15D85996D031C5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006", "hash": "8A64AED159A7DE5F", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007", "hash": "2CA613A7E33F20E5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008", "hash": "630075069897ED0C", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009", "hash": "EDAC39BDC115BA98", "target": "" }
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000", "hash": "5E349A9568D47785", "target": "Ostatnio nie brakowało nam kupców, ale coś mi mówi, że ty nie przybywasz w interesach. Witaj w Luwateninyawawsa!" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001", "hash": "9D08DEF72A32BA5C", "target": "Chyba nie pochodzisz z tych stron? Szkoda, że twoja wizyta przypada na tak straszne okoliczności... Te statki na niebie to okropny widok." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002", "hash": "A6ACE714E2B5068B", "target": "Przybywasz do Luwateninyawawsa w dobrym momencie. Wygląda na to, że niebezpieczeństwo wreszcie minęło." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003", "hash": "577C421142D308A9", "target": "Witaj w Luwateninyawawsa. Czy potrzebujesz czegoś podczas pobytu?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000", "hash": "018B03192270249D", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001", "hash": "76DD9E7961BD7DF7", "target": "Co tu robisz?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002", "hash": "B6AE1FEB7C00E234", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003", "hash": "95F05DAF1F1BE2AE", "target": "Nic." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004", "hash": "C3E512ACCFB5A9D5", "target": "Zajmuję się rzemiosłem i wytwarzam głównie przedmioty codziennego użytku. Choć my, lud Tonawawta, przede wszystkim polujemy i uprawiamy ziemię, mamy też tradycyjne wyroby do zaoferowania kupcom odwiedzającym wioskę." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005", "hash": "3A15D85996D031C5", "target": "Wieść o naszej długiej tradycji handlu wymiennego dociera jednak wszędzie przed nami. Kupcy nierzadko błędnie zakładają, że moje wyroby można kupić za ułamek ich prawdziwej wartości." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006", "hash": "8A64AED159A7DE5F", "target": "To Luwateninyawawsa, siedziba ludu Tonawawta. W języku wspólnym nazwa ta znaczy mniej więcej „niebo szybujących jastrzębi”." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007", "hash": "2CA613A7E33F20E5", "target": "Wszystkie widoczne tu domy starannie wzniesiono z glinianych cegieł jakieś sto lat temu." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008", "hash": "630075069897ED0C", "target": "W środku jest zaskakująco chłodno, nawet gdy popołudniowe słońce praży z góry. Doprawdy, trzeba docenić mądrość i pomysłowość naszych przodków." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009", "hash": "EDAC39BDC115BA98", "target": "Oczywiście nie umniejsza to dzisiejszym nowinkom. Niemało osób z naszego ludu zainteresowało się wydobyciem ceruleum. Warto to zobaczyć, jeśli znajdziesz czas." }
   ]
 }

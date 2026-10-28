@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz611_02789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_SEQ_00", "hash": "E200EC77ACFAC3E1", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_000", "hash": "1FEDCAF463206A4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_001", "hash": "F6628F834DAE0BD8", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_002", "hash": "4B82BC80F39522F8", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_003", "hash": "DCA628A146C00E7F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_004", "hash": "3C278A0E2DBAE391", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_010", "hash": "64D6D777A8173D48", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_011", "hash": "EB2C0CE63F4A305F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_012", "hash": "44DDB1361B2B3275", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_013", "hash": "00FD1C0CD15F87E0", "target": "" }
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_SEQ_00", "hash": "E200EC77ACFAC3E1", "target": "Agujama niepokoi to, co czai się pod piaskiem." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "Zabić diremite, które pojawią się na skalistym terenie na zachodzie" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "Zdać sprawę Agujamowi" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_000", "hash": "1FEDCAF463206A4A", "target": "Czy te plugawe stworzenia nigdy nie odpoczywają!?" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_001", "hash": "F6628F834DAE0BD8", "target": "Ach, ty, <if(gnum4,poszukiwaczko przygód,poszukiwaczu przygód)>. Jeśli zechcesz, potrzebowałbym twojej pomocy." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_002", "hash": "4B82BC80F39522F8", "target": "Ostatnio widuję tu niezwykle dużo diremite. Zawsze pojawiają się po burzach piaskowych. Nie byłoby problemu, gdyby walczyły uczciwie. One jednak kulą się pod piaskiem i czekają, by uderzyć, gdy ktoś jest bezbronny." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_003", "hash": "DCA628A146C00E7F", "target": "Zabij wszystkie, które znajdziesz przy skałach na zachodzie, a dopilnuję, by cię godziwie wynagrodzono. Masz moje słowo." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_004", "hash": "3C278A0E2DBAE391", "target": "Zabij wszystkie, które znajdziesz przy skałach na zachodzie, a dopilnuję, by cię godziwie wynagrodzono. Masz moje słowo." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_010", "hash": "64D6D777A8173D48", "target": "Bestie zabite? Dziękuję ci." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_011", "hash": "EB2C0CE63F4A305F", "target": "Gdyby diremite atakowały tylko takich wojowników jak my, nie byłoby wielkiego problemu. Ale polują na wszystkich. Kobiety, dzieci, wszystko im jedno." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_012", "hash": "44DDB1361B2B3275", "target": "Nie będę tego znosił. Nie spoczniemy, dopóki nie wytępimy ich w całej okolicy." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_013", "hash": "00FD1C0CD15F87E0", "target": "Dziękuję za pomoc w rozprawieniu się z pierwszymi. Resztą zajmiemy się sami." }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "sheet": "AnimaWeaponFUITalkParam",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "AnimaWeaponFUITalkParam#1.0", "hash": "20FC7FEB6BE094E2", "target": "Twoja potęga wysoko stawia poprzeczkę, lecz śmiem twierdzić, że z każdym dniem jestem bliżej. Zgodzisz się?" },
+    { "gameKey": "AnimaWeaponFUITalkParam#1.1", "hash": "7554CB1D8DBAF04A", "target": "Twoja potęga wysoko stawia poprzeczkę, ale chyba robię postępy. Zgodzisz się?" },
+    { "gameKey": "AnimaWeaponFUITalkParam#2.0", "hash": "A4C42F18ACC08F9F", "target": "Następnego wroga zostaw mnie, <split(<string(gstr1)>, ,1)>. Świetnie się nada do mojego treningu!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#2.1", "hash": "AE810F4CBB0F9DDB", "target": "Następnego wroga zostaw mnie, <split(<string(gstr1)>, ,1)>. Przyda mi się porządne wyzwanie podczas treningu!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#3.0", "hash": "22100CE633341C44", "target": "Te próby zdają się nie kończyć─prawdziwy sprawdzian mojej woli. Takie trudności mnie zaskoczyły." },
+    { "gameKey": "AnimaWeaponFUITalkParam#3.1", "hash": "7F030F362066E32E", "target": "Te próby nie dają wytchnienia─prawdziwy sprawdzian mojej determinacji. Takie trudności mnie zaskoczyły." },
+    { "gameKey": "AnimaWeaponFUITalkParam#4.0", "hash": "D4B718C45166D9C6", "target": "Moja wola już dawno by się załamała bez <if(gnum4,pani,pana)> u boku. Razem jednak zdołamy stawić czoła każdemu wrogowi!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#4.1", "hash": "D2BD391114873F5C", "target": "Moja determinacja z pewnością już dawno by osłabła bez <if(gnum4,pani,pana)> u boku. Razem jednak zdołamy sprostać każdemu wyzwaniu!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#5.0", "hash": "54C2ED2C1495F0BC", "target": "Skąd to spojrzenie, <split(<string(gstr1)>, ,1)>? Martwisz się o moje samopoczucie? Nie ma powodu! Nasze wspólne bitwy dopiero się zaczęły." },
+    { "gameKey": "AnimaWeaponFUITalkParam#5.1", "hash": "5A5AFBD0D0C43EEC", "target": "Skąd ten wzrok, <split(<string(gstr1)>, ,1)>? Martwisz się o moje bezpieczeństwo? Naprawdę nie trzeba. Nasze wspólne bitwy jeszcze długo się nie skończą!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#6.0", "hash": "282F7906975E8CAD", "target": "Czy to na pewno zadziała? A jeśli ja... Nie, nie wolno mi myśleć o takich głupstwach. Chodź, <split(<string(gstr1)>, ,1)>, poszukajmy nowych wrogów!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#6.1", "hash": "DF44FF16EAED10F1", "target": "Czy to na pewno zadziała? A jeśli ja... Nie, nie wolno mi w siebie wątpić. Nie teraz. Chodź, <split(<string(gstr1)>, ,1)>, poszukajmy nowego wyzwania!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#7.0", "hash": "4B731E498D08D8A0", "target": "Wchłanianie eteru jest teraz o wiele łatwiejsze. Czuję, jak z każdą walką rosnę w siłę!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#7.1", "hash": "B20A71872BED6DD1", "target": "Wchłanianie eteru jest teraz o wiele łatwiejsze. Z każdym zwycięstwem czuję, jak rośnie moja moc!" },
+    { "gameKey": "AnimaWeaponFUITalkParam#8.0", "hash": "0D43778C0FB7AD30", "target": "Czy spełniam pokładane we mnie oczekiwania? Wiem, że jeszcze wiele mogę zrobić, by dowieść swojej wartości." },
+    { "gameKey": "AnimaWeaponFUITalkParam#8.1", "hash": "30986B1AD972D91B", "target": "Mam nadzieję, że spełniam pokładane we mnie oczekiwania. Choć wiem, że jeszcze wiele muszę zrobić, by dowieść swojej wartości." },
+    { "gameKey": "AnimaWeaponFUITalkParam#9.0", "hash": "64B08441578DE153", "target": "Ofiarowana mi przez ciebie siła jakoś się zmienia... Wydaje się bardziej... skupiona." },
+    { "gameKey": "AnimaWeaponFUITalkParam#9.1", "hash": "38208EA2CE3851E9", "target": "Użyczona mi przez ciebie siła jakoś się zmienia... Wydaje się bardziej... skupiona." },
+    { "gameKey": "AnimaWeaponFUITalkParam#10.0", "hash": "5571773DA1A96DA7", "target": "Jeszcze odrobinę... Tak, czuję, że ta wielka moc jest już niemal w zasięgu." },
+    { "gameKey": "AnimaWeaponFUITalkParam#10.1", "hash": "5EBC74FB080AE2AF", "target": "Jeszcze odrobinę... Tak, czuję, że ta wielka moc jest już niemal w moich rękach." },
+    { "gameKey": "AnimaWeaponFUITalkParam#11.0", "hash": "A7AF0BDF03E900FB", "target": "To moc inna niż wszystko, czego dotąd udało mi się doświadczyć. Tak intensywna, tak skupiona. Ja... Chyba mogę już działać, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "AnimaWeaponFUITalkParam#11.1", "hash": "CBCC137411100019", "target": "To moc inna niż wszystko, czego dotąd udało mi się doświadczyć. Tak intensywna, tak skupiona. Ja... Chyba mogę już działać, <split(<string(gstr1)>, ,1)>." }
+  ]
+}

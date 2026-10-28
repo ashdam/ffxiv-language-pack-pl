@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil128_00642",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "" }
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "Siostra Airell z Kościoła Świętego Adamy Landamy ma ręce pełne zakonnej pracy." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "Grobów jest zbyt wiele, by siostra Airell mogła o wszystkie należycie zadbać. Zbierz za nią sześć starych ofiar z mogił." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "Stare ofiary zostały zebrane z grobów. Zdaj raport siostrze Airell w kościele." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "Wygląda na to, że siostra Airell ma jeszcze trochę porządków do zrobienia przy kościele. Porozmawiaj z nią ponownie, aby otrzymać kolejne zadanie." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "Zebrać stare ofiary" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "Dostarczyć stare ofiary siostrze Airell" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "Witam w Kościele Świętego Adamy Landamy. Jestem siostra Airell." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "Jak rozumiem, nie jest to pielgrzymka. Wygląda <if(gnum4,pani na poszukiwaczkę,pan na poszukiwacza)> przygód. Czy mogę więc prosić o pomoc przy cmentarzu podczas tej wizyty?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "Grobów jest tu znacznie więcej niż nas, opiekunów. Sami nie jesteśmy w stanie zrobić wszystkiego, co trzeba." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "Czy <if(gnum4,mogłaby pani,mógłby pan)> zebrać stare ofiary leżące na zewnątrz? Podczas ostatniego obchodu cmentarza naliczyłam przynajmniej sześć." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "Czy udało się zebrać stare ofiary?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "Dziękuję. \\<wzdycha> Gdybyż to był koniec pracy. Niedługo muszę zebrać zwietrzałe wazy, urny i dzbany. Zmarli śpią najspokojniej w zadbanych grobach." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "Jeśli <if(gnum4,zechce pani,zechce pan)> pomóc, pracy mi nie zabraknie. Proszę odezwać się ponownie, gdy tylko najdzie <if(gnum4,panią,pana)> ochota." }
   ]
 }

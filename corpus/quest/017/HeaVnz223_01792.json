@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz223_01792",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "" }
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "Gawędziarz Vath obawia się ataku smoków." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "Gawędziarz Vath prosi cię o zebranie srebrnej rosy. Roślina ta rośnie na wzniesieniu na zachód od Tailfeather. Udaj się tam, zbierz trzy pęki srebrnej rosy i dostarcz je gawędziarzowi Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "Udaje ci się znaleźć i zebrać srebrną rosę. Wróć do Loth ast Vath i dostarcz ją gawędziarzowi." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "Gawędziarz wyjaśnia, jak Vath tak długo unikali ataków smoków: palenie srebrnej rosy wytwarza dym o silnym zapachu. Smoki nie znoszą tej woni i omijają całą okolicę Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "Zebrać trzy pęki srebrnej rosy" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "Dostarczyć srebrną rosę gawędziarzowi Vath" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "Witaj, <if(gnum4,hojna łowczyni,hojny łowco)>. Mam do ciebie kolejną prośbę. \\<klik> \\<klik> Zbierz trzy pęki srebrnej rosy i nam je przynieś." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "Srebrna rosa rośnie przy Tailfeather. Na zachód od Tailfeather jest wzniesienie. Tam rośnie ta roślina. Zbierz ją i nam tu przynieś." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "Masz już srebrną rosę? Rośnie na zachód od Tailfeather." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "\\<klik> \\<klik> Masz srebrną rosę?" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "Dziękujemy, <if(gnum4,łowczyni,łowco)>. Teraz możemy czuć się bezpiecznie." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "Zapach palonej srebrnej rosy─dym, który z niej powstaje─jest dla smoków nieznośny. Odstraszy je i zapewni bezpieczeństwo Loth ast Vath─na jakiś czas." }
   ]
 }

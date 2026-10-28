@@ -65,7 +65,7 @@
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_KEITHA_000_093", "hash": "6D20A81B39CF204B", "target": "Ha! To lepiej wracajmy do pracy. Nie chcielibyśmy zawieść naszego anioła stróża, prawda? <split(<string(gstr1)>, ,1)>, dziękujemy. Aha, i zdaje się, że Luquelot chce dać coś za fatygę." },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_111", "hash": "C2C059418641431B", "target": "Jaja Leii nic nie zastąpi. Nie umiem wyrazić, jak wielka jest moja wdzięczność." },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_LUQUELOT_000_112", "hash": "C0C0E76E7BE8765D", "target": "A jednak coś nie daje mi spokoju... W trakcie całego tego przykrego zajścia widziałem coś, co mnie mocno zaniepokoiło..." },
-    { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_TITLE", "hash": "12D95CEA37740D2D", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Leia's Legacy”?" },
+    { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_TITLE", "hash": "12D95CEA37740D2D", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Leia i jej dziedzictwo”?" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_YES", "hash": "0AB3879009863556", "target": "Tak" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_NO", "hash": "69F33E3FE09BAD94", "target": "Nie" },
     { "gameKey": "quest/001/SubFst055_00161#TEXT_SUBFST055_00161_QIB_TODO_001", "hash": "57CDC51D267A532D", "target": "Pokonaj Janremiego Czarne Serce i jego bandę!" },

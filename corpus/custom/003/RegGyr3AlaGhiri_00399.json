@@ -2,15 +2,15 @@
   "conversation": "custom/003/RegGyr3AlaGhiri_00399",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_000", "hash": "84174AFA9CE4F799", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_Q1_000_000", "hash": "CF20E20E8ECD2C6F", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_001", "hash": "E49C12D888D5F5A8", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_002", "hash": "2DE90665C126801D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_003", "hash": "E5B26596D0C2C16D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_010", "hash": "2575372C73B8AFC6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_011", "hash": "BE902B814B47BFA6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_020", "hash": "F0741ACB365CF26A", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_021", "hash": "C3E892231D26A4A8", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_022", "hash": "32E5665C8E928386", "target": "" }
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_000", "hash": "84174AFA9CE4F799", "target": "Jeśli masz jakieś pytanie, zadawaj je szybko. Jestem na patrolu." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_Q1_000_000", "hash": "CF20E20E8ECD2C6F", "target": "O co zapytasz?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_001", "hash": "E49C12D888D5F5A8", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_002", "hash": "2DE90665C126801D", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_003", "hash": "E5B26596D0C2C16D", "target": "O nic." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_010", "hash": "2575372C73B8AFC6", "target": "Nazywam się Diggin. Jestem jednym z członków Ruchu Oporu Ala Mhigo, którym powierzono bezpieczeństwo tego miasta." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_011", "hash": "BE902B814B47BFA6", "target": "Nie zamierzam jednak poprzestać na jego ochronie. Ala Ghiri cierpiało pod rządami Imperium przez dwadzieścia lat. Chcę też pomóc mieszkańcom w odbudowie." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_020", "hash": "F0741ACB365CF26A", "target": "To Ala Ghiri. Zanim Imperium zajęło wioskę, był to popularny przystanek na szlaku handlowym na Daleki Wschód." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_021", "hash": "C3E892231D26A4A8", "target": "Szlak handlowy podzielił los wolności Ala Ghiri. Przez ostatnie dziesięciolecia wioska przetrwała jedynie dzięki handlowi z imperialnymi wojskami." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_022", "hash": "32E5665C8E928386", "target": "Nikt nie będzie handlować z Dalekim Wschodem drogą lądową, póki Imperium oddycha. Ala Ghiri ma jednak jeszcze nadzieję, jeśli zwiększy wymianę z Ul'dah i Gridanią." }
   ]
 }

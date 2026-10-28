@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz408_01826",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_00", "hash": "FFEFC90B7C68C724", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_01", "hash": "355E308AC1DF2366", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_02", "hash": "2CFF2B22046F2E9D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_03", "hash": "AE16E76D99A3826E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_TODO_00", "hash": "229395D25E764AD3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_TODO_01", "hash": "71250B7DBECF75D6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_000", "hash": "9D3EB6B032AB19AB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_001", "hash": "AD0806BA59FAFE74", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_010", "hash": "1B2B67C0970E67DA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_030", "hash": "F5FB35F2FE678A8F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_031", "hash": "5F16D9D7145D9AB2", "target": "" }
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_00", "hash": "FFEFC90B7C68C724", "target": "Mogmum jest tak wściekły, że jego pompon zaraz wybuchnie." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_01", "hash": "355E308AC1DF2366", "target": "Mogmum prosi o zabicie bestii amphiptere, które szaleją w kwiatowych ogrodach moogli. Zabij trzy, by powstrzymać ich niszczycielskie zapędy." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_02", "hash": "2CFF2B22046F2E9D", "target": "Smoki leżą martwe u twoich stóp, a kwiaty wyglądają na szczęśliwe. Zdaj sprawę Mogmumowi w Asah." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_SEQ_03", "hash": "AE16E76D99A3826E", "target": "Mogmum cieszy się z dobrych wieści. Ryk straszliwego Nidhogga rozległ się po całej krainie i wprawił smoki we wściekłość. Wtedy właśnie bezceremonialnie zniszczyły cenne rabaty Mogmuma. Dzięki tobie może wreszcie docenią trud włożony w hodowlę kwiatów." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_TODO_00", "hash": "229395D25E764AD3", "target": "Zabić amphiptere" },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_TODO_01", "hash": "71250B7DBECF75D6", "target": "Zdać sprawę Mogmumowi" },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_000", "hash": "9D3EB6B032AB19AB", "target": "Tutejsze kwiaty są bezcenne─moogle'e przylatują aż z Moghome, żeby je powąchać. Nie możemy pozwalać potworom wpadać tu i wszystkiego tratować, kupo!" },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_001", "hash": "AD0806BA59FAFE74", "target": "Najgorsze są amphiptere. Ktoś musi coś z nimi zrobić! Jeśli zabijesz trzy, może przestaną się tu zjawiać, przynajmniej na jakiś czas." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_010", "hash": "1B2B67C0970E67DA", "target": "Te amphiptere depczą i pożerają nasze cenne kwiaty. Zabij je, zanim ucierpi więcej roślin, kupo!" },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_030", "hash": "F5FB35F2FE678A8F", "target": "To nauczy te smoki, żeby nie wchodzić do <italic(1)>naszych<italic(0)> ogrodów, kupo! Bardzo ci dziękuję." },
+    { "gameKey": "quest/018/HeaVnz408_01826#TEXT_HEAVNZ408_01826_MOGMUM_000_031", "hash": "5F16D9D7145D9AB2", "target": "Ryk straszliwego smoka chyba wprawił je we wściekłość. Ale to nie znaczy, że mogą sobie wszędzie deptać! Powinny wreszcie uszanować naszą ciężką pracę!" }
   ]
 }

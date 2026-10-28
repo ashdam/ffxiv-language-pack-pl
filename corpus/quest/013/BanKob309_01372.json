@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanKob309_01372",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_00", "hash": "2FA90A55D10FD963", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_01", "hash": "D452EC4249CA744A", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_02", "hash": "F54A483ABF8A8150", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_TODO_00", "hash": "EABA361154D52305", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_000", "hash": "3CB8947F8BB4F3C5", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_001", "hash": "4CF7179C890C09B0", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_002", "hash": "72861F1C97279500", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_003", "hash": "6256DD0F4E98E956", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_004", "hash": "9867EB33C4AD823B", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_010", "hash": "2C5333E36B1E9030", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_011", "hash": "BAF55F1D07FCB317", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_012", "hash": "6A5D94DD7AAB1CDE", "target": "" }
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_00", "hash": "2FA90A55D10FD963", "target": "789th Order Dustman Bo Bu chce zdobywać przyjaciół i zjednywać sobie lud Kobold." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_01", "hash": "D452EC4249CA744A", "target": "Wiecznie ambitny Bo Bu chce pójść w ślady Zo Gi i za pomocą bogactwa zgromadzić armię zwolenników, lecz nieco brakuje mu monet. Zaradź temu, dając nauczkę jednemu z wiernych sługusów przywódcy─brutalnemu patrolowemu z 59. brygady─i odbierając mu zapłatę od pana." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_02", "hash": "F54A483ABF8A8150", "target": "Dostarczasz Titan electrumshield Bo Bu, zapewne zwiększając jego majątek kilka tysięcy razy. Młody śmieciarz potrzebuje czasu, by zgromadzić wymarzoną fortunę. Na razie pokrzepia was myśl, że dziś 789. brygada zatriumfowała nad swoim wrogiem..." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_TODO_00", "hash": "EABA361154D52305", "target": "Dostarczyć Titan electrumshield zdobyty w FATE „Robiąc obchód” 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_000", "hash": "3CB8947F8BB4F3C5", "target": "W liczbie siła─moc, potęga, siła. Zo Ga dobrze to wie, otacza się tymi, którzy są na każde skinienie─silnymi ciałem i słabymi umysłem." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_001", "hash": "4CF7179C890C09B0", "target": "Bo Bu zna jednego z nich, tak. Patrolowy z pięćdziesiątki dziewiątki. Paskudny patrolowy. Każdemu, kto wypowie jego imię, wyrywają język. Teraz nikt z ludu Kobold nie wymawia jego imienia─nie, ani jedna osoba." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_002", "hash": "72861F1C97279500", "target": "Ale Zo Ga radzi sobie z tym brutalem. Tak, tak, jak ze wszystkim, za pomocą bogactwa─skarbów, dostatku, bogactwa." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_003", "hash": "6256DD0F4E98E956", "target": "Bo Bu patrzy i przychodzi mu myśl─pomysł, zamysł, myśl. Pokonasz patrolowego, zabierzesz monetę z jego kieszeni, tak?" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_004", "hash": "9867EB33C4AD823B", "target": "Bo Bu weźmie monetę, znajdzie własnego paskudnego, chciwego patrolowego. Monety przyciągają władzę, władza przyciąga więcej władzy, a wkrótce Bo Bu stanie na szczycie góry! Tak, tak, Bo Bu wypełni przeznaczenie─swój los, swą dolę, przeznaczenie!" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_010", "hash": "2C5333E36B1E9030", "target": "Patrolowy już nie patroluje? Przynosisz monetę na dowód zwycięstwa, tak?" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_011", "hash": "BAF55F1D07FCB317", "target": "Patrolowego przegnano na jego wyrobisko─pobito, obito, przegnano─a Bo Bu jest bogaty? Wszystko w porządku, wszystko w porządku na górze." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_012", "hash": "6A5D94DD7AAB1CDE", "target": "Tak, tak, ta jedna moneta to pierwszy krok Bo Bu ku władzy. Nie martw się, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód, Bo Bu nie zapomni─nie, nie, nigdy nie zapomni twojego skromnego wkładu." }
   ]
 }

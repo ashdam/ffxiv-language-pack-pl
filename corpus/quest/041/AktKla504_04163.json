@@ -6,7 +6,7 @@
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SEQ_01", "hash": "7BA3420FB940F499", "target": "T'laqa Tia prosi o dostarczenie Garlean clams do badań.<br><br>※ Garlean clams można złowić w pobliżu Camp Broken Glass, używając leeches jako przynęty.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 78. Przedmioty o wartości co najmniej 184 zapewnią większe nagrody." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SEQ_02", "hash": "693DAD6F92CC4F1D", "target": "Dostarczasz Garlean clams T'lace Tii. Docent zapewne doceni dalszą pomoc, gdy nadejdzie czas ukończenia rozprawy." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TODO_00", "hash": "AF8DD78CDA5C22E5", "target": "Złowić Garlean clams w pobliżu Camp Broken Glass i dostarczyć je T'lace Tii" },
-    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_900", "hash": "7695909F97E4D466", "target": "Aby rozpocząć tę misję, musisz najpierw ukończyć misję głównego scenariusza „The Martyr”." },
+    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_900", "hash": "7695909F97E4D466", "target": "Aby rozpocząć tę misję, musisz najpierw ukończyć misję głównego scenariusza „Męczennik”." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_100_001", "hash": "C111DB9BBF2BFC32", "target": "Ach, witaj ponownie! Naprawdę nie potrafię dość ci podziękować. Dzięki twoim próbkom zrobiłem niesamowite postępy. Właśnie wybrałem kolejny okaz, o którego zdobycie chcę cię poprosić." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_000_001", "hash": "A3C32A093DEAED2D", "target": "Właściwie skończyłem już analizę prądów wokół Thavnairu. Muszę przyznać, że wiele się nauczyłem." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_000_002", "hash": "BAA3CBAEDE847922", "target": "Teraz proszę cię o podróż w miejsce, o którym nie mamy wcześniejszych danych. Zamierzam zbadać prądy w Garlemaldzie." },
@@ -44,6 +44,6 @@
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_NELE_000_047", "hash": "6FD6BCDDB5B0D194", "target": "Gdyby T'laqa znalazł się w martwym punkcie, czy mogę liczyć, że wesprzesz go w potrzebie? Dla niego... i dla mnie znaczyłoby to bardzo wiele." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_048", "hash": "5168C79E260F7DA7", "target": "T'laqa Tia jest uradowany twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Doświadczoną wędkarkę,Doświadczonego wędkarza)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_049", "hash": "F025DA6D0DC94CB3", "target": "Dostępna jest nowa misja kontynuująca historię Wydziału Eterologii." },
-    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_050", "hash": "9FCC15D9599A37EB", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „At World's End”." }
+    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_050", "hash": "9FCC15D9599A37EB", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „Na końcu świata”." }
   ]
 }

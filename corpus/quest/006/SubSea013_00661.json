@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea013_00661",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "" }
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "H'naanza ma proste, lecz dochodowe zadanie dla chętnych poszukiwaczy przygód." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "Baderon oferuje nagrodę każdemu, kto zechce przetrzebić portowe szczury. Wyjdź za Bramę Burzy i zabij pięć wharf rat." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "Pięć roznoszących choroby szczurów padło z twojej ręki. Złóż raport Baderonowi w Drowning Wench i odbierz nagrodę." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "Za nagrodą stoi anonimowy dobroczyńca, który twierdzi, że ciągła szczurza bieganina doprowadza go do obłędu. Mimo twoich wysiłków Baderon podejrzewa, że futrzaste stworzenia będą dręczyć dziwnego mężczyznę już zawsze." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "Zabić wharf rat" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "Złożyć raport Baderonowi" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "Hmm? Potrzebujesz jakiegoś drobnego zadania dla zabicia czasu? W takim razie mam coś dla ciebie." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "Baderon oferuje nagrodę każdemu, kto zabije przynajmniej pięć wharf rat." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "Za Bramą Burzy nie brakuje tych szkodników, więc spiesz się i wykorzystaj okazję." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "Ach, kilka szczurów mniej! Dobra robota, <if(gnum4,dziewczyno,chłopcze)>!" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "Przyszedł tu ostatnio taki jeden i zwalił na ladę wielki wór, rozmiarów cholernego goobbue. Powiedział, że każdy, kto zabija szczury, może coś z niego dostać." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "Pytam, po co, a on tylko, że ten przeklęty <italic(1)>hałas<italic(0)> ich bieganiny doprowadza go do obłędu. Według mnie już był trochę stuknięty. Coś mi mówi, że biedak nigdy nie zazna spokoju." }
   ]
 }

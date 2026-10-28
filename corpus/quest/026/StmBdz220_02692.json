@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz220_02692",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "" }
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "Kaioke wygląda na zabieganego." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "Rozłożyć zgniłe ryby w wyznaczonych miejscach i zabić zwabione głodne giant coralshells, by zdobyć ich odnóża" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "Dostarczyć odnóża wielkiego koralowego skorupiaka do Kaioke" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "<if(gnum4,Proszę pani,Proszę pana)>! Czy dobrze rozumiem, że przybywa <if(gnum4,pani,pan)> z powierzchni? Niechętnie proszę o przysługę─zwłaszcza gościa─ale nie mam już do kogo się zwróóócić." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "Kilka razy w roku urządzamy ucztę dla całej wioski. Każdy przynosi wtedy swoją popisową potrawę. Tym razem mnie powierzono organizację. Główne przygotowania tak mnie pochłonęły, że brak mi czasu na zebranie składników do własnego dania!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "Niemal wszyscy już skończyli, a ja jeszcze nawet nie zacząłem! Najdłużej trwa przyrządzenie wywaru, więc muszę już nastawić garnek. Do jego ukończenia potrzeba mi jednak odnóży dwóch giant coralshells." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "Czy mogę prosić o ich zdobycie?" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "Żyją na wybrzeżu Onokoro. Proszę─oto przynęta. Giant coralshells są skryte, ale ten zapach powinien wystarczyć, żeby wywabić je z kryjóóówek." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "Proszę przynieść odnóża dwóch giant coralshells. Tymczasem postawię garnek na kuchni i zacznę gotować wywar." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "\\<węszy> \\<węszy> Ach, jeśli się nie mylę, ubranie przesiąkło lekko pikantnym zapachem koralowego skorupiaka." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "Ha, ha! Jakie wielkie odnóża! A mięso w środku wygląda na delikatne i soczyste. Wystarczy dodać je do gulaszu i zagotować, a wszystko będzie gotowe do podaaaania!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "Prawdę mówiąc, te uczty służą nie tylko zabawie. Niektórzy powiedzieliby nawet, że to cichy konkurs na najlepszą potrawę. Kto przyniesie najsmaczniejsze danie, zwykle otrzymuje zaszczyt urządzenia kolejnej uczty." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "Dzięki tej pomocy i tym pysznym odnóżom moje zwycięstwo jest niemal pewne!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz103_01752",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_00", "hash": "B9DD29BEA8A60527", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_01", "hash": "3FA648A78611715F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_02", "hash": "82E2ABC4088E0363", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_03", "hash": "5A9016F1A0B67B88", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_00", "hash": "64EF91E98103259D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_01", "hash": "B777879E761563F8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_000", "hash": "6089A526CA686461", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_001", "hash": "96C9EE23C2EED081", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_010", "hash": "435F25E74C670839", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_020", "hash": "531A069EC1191835", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_021", "hash": "3ABDFCFC790D0818", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_022", "hash": "87B117522FB48DD7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_033", "hash": "05461DBE37EE73F4", "target": "" }
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_00", "hash": "B9DD29BEA8A60527", "target": "Wdowa ze smutkiem spogląda na trzymany bukiet kwiatów." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_01", "hash": "3FA648A78611715F", "target": "Dobrze wychowana wdowa chce uczcić pamięć męża przy jego grobie, lecz nie jest w stanie odbyć długiej drogi do Młynów Gorgagne'a. Zanieś jej kwiaty na farmę i złóż je na grobie męża w jej imieniu." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_02", "hash": "82E2ABC4088E0363", "target": "Składasz kwiaty na grobie. Wróć do wdowy i powiedz jej, że pamięć męża została uczczona." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_03", "hash": "5A9016F1A0B67B88", "target": "Wdowa opowiada, że jej mąż był niegdyś nauczycielem dziedzica rodu Durendaire. Bystry chłopiec był prawdziwym geniuszem, lecz pewnego dnia zaginął podczas wyprawy i już nigdy go nie widziano. Mężczyzna nie otrząsnął się po tej stracie i porzucił służbę u rodu, by zostać rolnikiem. To on założył gospodarstwo przy Młynach Gorgagne'a." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_00", "hash": "64EF91E98103259D", "target": "Złożyć kwiaty na grobie przy Młynach Gorgagne'a" },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_01", "hash": "B777879E761563F8", "target": "Zdać sprawę dobrze wychowanej wdowie" },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_000", "hash": "6089A526CA686461", "target": "Och, witam serdecznie! Mało kto ma czas porozmawiać z kimś takim jak ja. Chciałam odwiedzić grób męża, ale plecy strasznie mi dokuczają." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_001", "hash": "96C9EE23C2EED081", "target": "Czy znajdzie się chwila, by wyświadczyć przysługę zmęczonej staruszce? Byłabym ogromnie wdzięczna za zaniesienie tych kwiatów do Młynów Gorgagne'a i złożenie ich na grobie mojego męża." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_010", "hash": "435F25E74C670839", "target": "Jeśli znajdzie się chwila na przysługę dla zmęczonej staruszki, proszę złożyć te kwiaty na grobie mojego męża przy Młynach Gorgagne'a." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_020", "hash": "531A069EC1191835", "target": "Bardzo dziękuję, kochanie. Jestem pewna, że mąż to docenił. ...Albo przewraca się w grobie i woła: „Zrób to sama, leniwa jędzo!”. He, he..." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_021", "hash": "3ABDFCFC790D0818", "target": "Był niegdyś wielkim rycerzem na służbie rodu Durendaire. Był nauczycielem dziedzica rodu─uczył go sztuki walki. Byłam taka dumna, że powierzono mu taką funkcję." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_022", "hash": "87B117522FB48DD7", "target": "A sam dziedzic był niezwykle bystrym chłopcem. Prawdziwy geniusz... Lecz pewnego dnia biedak wyruszył zobaczyć świat... i nie wrócił. Już nigdy go nie zobaczyliśmy..." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_033", "hash": "05461DBE37EE73F4", "target": "Po tym wszystkim mąż nie był już sobą... W końcu zrezygnował ze stanowiska i zerwał więzi ze szlachtą. Został rolnikiem i założył gospodarstwo przy Młynach Gorgagne'a. Chyba nie potrafił znieść tego, że każdy dzień na służbie rodu Durendaire przypominał mu o tamtym chłopcu." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz517_01852",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_00", "hash": "36207476BEC55362", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_01", "hash": "328D8C398AE11A5A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_02", "hash": "58CDD65F6F0530F9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_03", "hash": "BE3E4EB300DE4683", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_00", "hash": "2743252BA400BBDA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_01", "hash": "1AB41D13E1C75FAB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_000", "hash": "6FBC99C49F46074F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_001", "hash": "9D4708423D37D410", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_010", "hash": "E95F3D3BC156C2FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_020", "hash": "0301E8C25FA5916C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_021", "hash": "F207B1607160BC50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_022", "hash": "EEB46F2DA9C20FEC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_00", "hash": "36207476BEC55362", "target": "Mogkon zawzięcie wymachuje różdżką w powietrzu." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_01", "hash": "328D8C398AE11A5A", "target": "Mogkon ma za zadanie zabić smoki kręcące się w okolicy. Zanim sama spróbuje się z nimi zmierzyć, chce, by najpierw ktoś ocenił ich siłę. Zabij przeciwników i przynieś jej trzy smocze ogony." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_02", "hash": "58CDD65F6F0530F9", "target": "Smoki padają jeden po drugim, a ich ogony trafiają w twoje ręce. Zanieś je Mogkon." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_03", "hash": "BE3E4EB300DE4683", "target": "Mogkon dziękuje za dokładną ocenę siły smoków. Postanawia jednak poćwiczyć jeszcze trochę, zanim sama spróbuje któregoś pokonać." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_00", "hash": "2743252BA400BBDA", "target": "Zabić Mists drake i zdobyć ich ogony" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_01", "hash": "1AB41D13E1C75FAB", "target": "Dostarczyć ogony Mogkon" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_000", "hash": "6FBC99C49F46074F", "target": "Widzisz tamte Mists drake? To moje cele. Wystarczy trafić je kulą ognia i wygram, prawda? Ale co, jeśli spudłuję, kupo?" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_001", "hash": "9D4708423D37D410", "target": "Musisz ocenić ich siłę za mnie. Zabij je i przynieś mi trzy ogony. Wtedy dowiemy się dokładnie, z jakimi bestiami mamy do czynienia." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_010", "hash": "E95F3D3BC156C2FB", "target": "Nie wyglądają na takie mocne, ale musisz to dla mnie sprawdzić. Będę patrzeć z bezpiecznej i pouczającej odległości, kupo." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_020", "hash": "0301E8C25FA5916C", "target": "Nie wyglądało to na trudne, kupo! Masz ich ogony?" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_021", "hash": "F207B1607160BC50", "target": "Ach... więc to smocze ogony? Chyba nie ma tu nic, z czym ja i moja magia nie damy sobie rady!" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_022", "hash": "EEB46F2DA9C20FEC", "target": "Ale... może potrzebuję <italic(1)>tylko<italic(0)> odrobiny ćwiczeń, zanim sama któregoś spalę. Wyznaczenie celu to pierwszy krok do rozwoju! Koniec ćwiczeń, kupo!" }
   ]
 }

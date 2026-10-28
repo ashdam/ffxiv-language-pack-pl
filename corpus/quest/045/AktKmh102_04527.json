@@ -31,7 +31,7 @@
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_MIHLEEL_000_057", "hash": "466E9D97E1553306", "target": "Przy okazji, stawiamy wszystko, co <if(gnum4,pani,pan)> dla niego zamówi. Gdyby Mehryde dowiedziała się, że wzięłam pieniądze od <if(gnum4,wybawicielki,wybawiciela)> Thavnairu, kazałaby mi szorować garnki przez tydzień." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_MIHLEEL_000_100", "hash": "00A7DFD1F136EA0A", "target": "Proszę schować sakiewkę! Pokryjemy koszt wszystkiego, co <if(gnum4,pani,pan)> zamówi dla profesora lub dla siebie." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_JALHEEN_000_110", "hash": "E962DECABA107090", "target": "Tak...?" },
-    { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_SYSTEM_000_111", "hash": "7FBA48F5C8B6624B", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_SYSTEM_000_111", "hash": "7FBA48F5C8B6624B", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_Q9_100_111", "hash": "F3510C3F827CBCF8", "target": "Rozpocząć rozmowę z Jalheenem?" },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_JALHEEN_000_112", "hash": "84B6E0E08B2F1F3B", "target": "A co mogę dla ciebie zrobić, <if(gnum4,moja eorzejska przyjaciółko,mój eorzejski przyjacielu)>?" },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_Q1_000_000", "hash": "644397C5170AB610", "target": "Co powiesz?" },

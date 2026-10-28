@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz103_02653",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "" }
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "Gerbert ma problem z gryzoniami." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "Użyć brunatnego płynu we wskazanych miejscach i zabić wszystkie robber rat, które zaatakują" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "Zdać sprawę Gerbertowi" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "Cóż, nie <italic(1)>wyglądasz<italic(0)> na <if(gnum4,Garleankę,Garleańczyka)>... Jeśli mam rację, pomożesz mi uporać się z drobnym problemem ze szkodnikami?" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "Odkąd Imperium zakazało praktykowania wszelkich religii, nie mogę modlić się w Ukrytej Łzie. Postanowiłem więc urządzić na południowy zachód stąd miejsce, gdzie mógłbym potajemnie opłakiwać zmarłych." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "Problem w tym, że kiedy tylko zostawiam zmarłym jedzenie w ofierze, te przeklęte szczury zjadają je same. Dlatego przygotowałem to." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "Niech tylko poczują ten zapach, a te szkodniki dadzą nogę. Miej się jednak na baczności─niektóre bardziej agresywne szczury mogą zamiast tego cię zaatakować." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "Niech tylko poczują zapach tego płynu, a te szkodniki dadzą nogę. Miej się jednak na baczności─niektóre bardziej agresywne szczury mogą zamiast tego cię zaatakować." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "Wszystkie szczury zniknęły? Wspaniała wiadomość. Znów mogę porozmawiać z synem." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "Straciłem chłopaka jakiś czas temu w wypadku w kamieniołomie. Odepchnął mnie, gdy nagle posypały się na nas skały. Zasypały go tak głęboko, że nigdy nie znaleźliśmy nawet ciała..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "Nie mogłem znieść myśli, że zostanie zapomniany, więc postawiłem mu grób. Niedaleko miejsca wypadku." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "Nie ma dnia, żebym nie żałował, że nie uratował samego siebie. Miał jeszcze przed sobą całe życie..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "Dziękuję za całą pomoc. Pociesza mnie myśl, że od czasu do czasu nadal mogę porozmawiać z synem." }
   ]
 }

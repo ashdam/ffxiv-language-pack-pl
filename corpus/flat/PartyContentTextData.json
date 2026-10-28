@@ -5,7 +5,7 @@
     { "gameKey": "PartyContentTextData#1000", "hash": "3DB451A7977BECEF", "target": "<icon(75)> Odkryto turbulencje eteryczne" },
     { "gameKey": "PartyContentTextData#1001", "hash": "A14A90FF5BDDA634", "target": "Zrealizuj trzy z poniższych celów:" },
     { "gameKey": "PartyContentTextData#1002", "hash": "C674ACFA501A8B85", "target": "" },
-    { "gameKey": "PartyContentTextData#1003", "hash": "10AE7DBA048CC320", "target": "Pokonaj: <ennoun(BNpcName,1,lnum1,2,1)>" },
+    { "gameKey": "PartyContentTextData#1003", "hash": "10AE7DBA048CC320", "target": "Pokonaj cele „<ennoun(BNpcName,3,lnum1,2,1)>”" },
     { "gameKey": "PartyContentTextData#1004", "hash": "60A659D3D2B954A7", "target": "Odszukaj zakopany kufer" },
     { "gameKey": "PartyContentTextData#1005", "hash": "B8FE604F05D0BB6D", "target": "Odkryj srebrne kufry" },
     { "gameKey": "PartyContentTextData#1006", "hash": "9093A107673AEE43", "target": "Odkryj brązowe kufry" },

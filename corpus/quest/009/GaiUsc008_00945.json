@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc008_00945",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_00", "hash": "AE3CE05639927233", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_01", "hash": "02B89AE00B9C1ADA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_02", "hash": "33BE31C5130B5FE6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_03", "hash": "7F7B90E69F80C160", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_00", "hash": "1497CCE0958ACA2E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_01", "hash": "4820FC2BF5951EED", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_000", "hash": "08B24005F278C34A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_001", "hash": "6885D0869F304AAA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_002", "hash": "7F6D7AE682896586", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_020", "hash": "5849F4CFAC90CA2D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_030", "hash": "6DF2A462566322AC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_031", "hash": "C8198D96711DAEE9", "target": "" }
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_00", "hash": "AE3CE05639927233", "target": "Ser Berengeoit wygląda na człowieka z wielką urazą do świata, a tacy często są gotowi słono zapłacić." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_01", "hash": "02B89AE00B9C1ADA", "target": "Ser Berengeoit zapewnia, że pewnej ciemnej nocy zabił rannego smoka celnym strzałem z balisty. Niestety bez trofeum wszyscy uważają go za rozgorączkowanego głupca. Ktoś musi znaleźć truchło i przynieść kość." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_02", "hash": "33BE31C5130B5FE6", "target": "Z lekkim zdziwieniem znajdujesz martwego smoka na dnie wąwozu, dokładnie tam, gdzie wskazał młody rycerz. Zabierasz dorodną kość. To trofeum będzie dla niego cenniejsze niż wszystkie ryby w Morzu Chmur." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_03", "hash": "7F7B90E69F80C160", "target": "Ser Berengeoit przyjmuje smoczą kość w stanie bliskim ekstazie. Jeśli choć połowa rycerzy Ishgardu tak pożąda zabijania smoków, niewiele może powstrzymać tę wojnę..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_00", "hash": "1497CCE0958ACA2E", "target": "Znaleźć smoczą kość" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_01", "hash": "4820FC2BF5951EED", "target": "Dostarczyć smoczą kość rycerzowi o imieniu Berengeoit" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_000", "hash": "08B24005F278C34A", "target": "Może zechcesz pomóc zabójcy smoków? Przeszyłem smoka bełtem, gdy obsługiwałem balisty nad wąwozami. Widziałem jego konwulsje, a potem runął..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_001", "hash": "6885D0869F304AAA", "target": "Ale nikt mi nie wierzy! Nie zdążyłem zdobyć trofeum, nim skończyła się moja warta, a oni nie uwierzą w nic, czego nie widzą!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_002", "hash": "7F6D7AE682896586", "target": "Truchło leży na dnie wąwozu i tylko czeka. Podobno potrafisz znaleźć <italic(1)>wszystko<italic(0)>, a ja potrzebuję smoczej kości, by pokazać ją innym!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_020", "hash": "5849F4CFAC90CA2D", "target": "Masz moją smoczą kość? To był mój <italic(1)>pierwszy<italic(0)> smok, wiesz... Jest <italic(1)>wyjątkowy<italic(0)>..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_030", "hash": "6DF2A462566322AC", "target": "Tak! Tak! Smocza kość! I kto teraz plecie bajdy, co? Na Furię!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_031", "hash": "C8198D96711DAEE9", "target": "Berengeoit Smokobójca, błogosławiony w oczach Halone... <italic(1)>Marzyłem<italic(0)> o tym. Rozumiesz, że sam arcybiskup mnie pochwali?" }
   ]
 }

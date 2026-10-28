@@ -2,13 +2,13 @@
   "conversation": "quest/023/SubCts711_02387",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "" }
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "Witaj. Dzięki twoim staraniom udało się poszerzyć zakres zwiadu w ruinach. Niestety nadal nie mamy żadnych wskazówek, kto lub co jest przyczyną naszych kłopotów." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "Mówisz, że nieumarli wspominali o zakapturzonej postaci, tak? Być może to nikczemny czarnoksiężnik, który stworzył pałac i jego mieszkańców." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "Nie dość, że stworzył taki labirynt, to jeszcze wypełnił go duszami tylu niewinnych... Mamy do czynienia z wrogiem władającym mroczną, straszliwą mocą." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "Niechętnie obarczam cię tym ciężarem, ale w imieniu Leśnych Płaczków proszę: odnajdź sprawcę tego wszystkiego i połóż kres jego działaniom. Nikt nie nadaje się do tego zadania lepiej od ciebie." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "Moi ludzie nie mają dość sił, by stanąć u twego boku w ruinach, ale zapewniam, że tutaj, w Quarrymill, zrobimy wszystko, by ci pomóc. Ruszaj─przepędź zło z Palace of the Dead, zanim zmarli wydostaną się do Lasu Dwunastu." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "Możesz teraz badać piętra powyżej 50. w Palace of the Dead." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "Tak dokładne zbadanie ruin to wielkie osiągnięcie, ale dalsza droga jest coraz zdradliwsza. Zanim ruszysz dalej, chcę mieć pewność, że masz należyte przygotowanie do nadchodzących wyzwań." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "Aby kontynuować to zadanie, musisz najpierw spełnić następujące wymagania:" }
   ]
 }

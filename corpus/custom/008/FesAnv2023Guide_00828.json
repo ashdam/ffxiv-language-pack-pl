@@ -2,16 +2,16 @@
   "conversation": "custom/008/FesAnv2023Guide_00828",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_000", "hash": "913E515AED104A00", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_Q1_000_001", "hash": "58502B5C5877DBBB", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_001", "hash": "4B2798721D6AD058", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_002", "hash": "557FE4D38B287DBD", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_003", "hash": "9EC5F7EC0D1A6511", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_010", "hash": "FBDDB1A59750289C", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_011", "hash": "71A8831E71E6A258", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_012", "hash": "B596C890259C4A3F", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_013", "hash": "07C5BDE527824800", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_014", "hash": "DBCC708743325F7D", "target": "" },
-    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_015", "hash": "142ECE828AD71D62", "target": "" }
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_000", "hash": "913E515AED104A00", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_Q1_000_001", "hash": "58502B5C5877DBBB", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_001", "hash": "4B2798721D6AD058", "target": "Czym jest Święto Odrodzenia?" },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_002", "hash": "557FE4D38B287DBD", "target": "Czym jest las listów?" },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_A1_000_003", "hash": "9EC5F7EC0D1A6511", "target": "O nic." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_010", "hash": "FBDDB1A59750289C", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_011", "hash": "71A8831E71E6A258", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_012", "hash": "B596C890259C4A3F", "target": "Podniosła atmosfera i jasne światła na niebie mogą skłonić do rozmyślań o zagładzie, którą zwiastował Dalamud. Dzięki temu łatwiej docenić teraźniejszość i wzbudzić w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_013", "hash": "07C5BDE527824800", "target": "Gdyby <if(gnum4,pani zastanawiała,pan zastanawiał)> się nad miejscem obchodów, odbywają się one w Ul'dah. Jeśli <if(gnum4,chce pani,chce pan)> w nich uczestniczyć, zapraszamy do sułtanatu." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_014", "hash": "DBCC708743325F7D", "target": "Las listów to wyjątkowa wystawa, na której pokazujemy listy napisane przez ludzi, by wyrazić komuś wdzięczność i dodać otuchy. Każdy może anonimowo przesłać list i każdy może je przeglądać." },
+    { "gameKey": "custom/008/FesAnv2023Guide_00828#TEXT_FESANV2023GUIDE_00828_NEWBORNINTERN_000_015", "hash": "142ECE828AD71D62", "target": "Las znajduje się na Złotym Dziedzińcu w Steps of Thal. Jeśli <if(gnum4,jest pani zainteresowana,jest pan zainteresowany)>, zachęcam do odszukania pracującej tam opiekunki lasu listów." }
   ]
 }

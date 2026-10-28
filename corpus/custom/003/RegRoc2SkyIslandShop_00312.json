@@ -2,18 +2,18 @@
   "conversation": "custom/003/RegRoc2SkyIslandShop_00312",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000", "hash": "3B451FB0BB6886BB", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010", "hash": "E170CB1713ADBDD7", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011", "hash": "5531030969E25F99", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012", "hash": "FB2BE5D9D30BE9CF", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013", "hash": "2A4F593723A8CF24", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014", "hash": "22CB440A2A52E7AF", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020", "hash": "9BA53382253435B3", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q1_000_000", "hash": "44E1F4C7E1A92473", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_001", "hash": "55690D90E786CF8F", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_002", "hash": "D89C689FD9C2344E", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q2_000_000", "hash": "7B2AB97B70B632C2", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_001", "hash": "5DCC53E9F1F5476E", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_002", "hash": "3A5C5BE3E099CB2F", "target": "" }
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000", "hash": "3B451FB0BB6886BB", "target": "Czy zapisze się <if(gnum4,pani,pan)> na następną misję? Jeśli tak, trzeba będzie przedłożyć dowód zakupu zbiornika ceruleum." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010", "hash": "E170CB1713ADBDD7", "target": "...Ach, najmocniej <if(gnum4,panią,pana)> przepraszam. Ze względu na niebezpieczeństwa, z którymi nasze grupy często mierzą się podczas tych wypraw, możemy przyjmować tylko najbardziej doświadczone osoby." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011", "hash": "5531030969E25F99", "target": "Aby wyruszyć na ishgardzką wyprawę badawczą, ty i twoja drużyna musicie spełniać następujące wymagania:" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012", "hash": "FB2BE5D9D30BE9CF", "target": "※Musisz ukończyć zadanie głównego scenariusza „Heavensward”." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013", "hash": "2A4F593723A8CF24", "target": "Musisz mieć 60. poziom w klasie z kategorii „Uczeń Wojny” lub „Uczeń Magii”." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014", "hash": "22CB440A2A52E7AF", "target": "Aby sprawdzić postęp zadań, wybierz <colortype(500)><edgecolortype(501)>Aktywności<edgecolortype(0)><colortype(0)> w menu głównym, a następnie <colortype(500)><edgecolortype(501)>Dziennik<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020", "hash": "9BA53382253435B3", "target": "Zaraz─czy <if(gnum4,rozmawiała już pani,rozmawiał już pan)> z lordem Aurvaelem? Chyba jeszcze nie. Najlepiej zrobić to najpierw." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q1_000_000", "hash": "44E1F4C7E1A92473", "target": "Co chcesz zrobić?" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_001", "hash": "55690D90E786CF8F", "target": "Kupić <if(lnum2,<if([lnum2<=10],<switch(lnum2,jeden,dwa,trzy,cztery,pięć,sześć,siedem,osiem,dziewięć,dziesięć)>,<num(lnum2)>)>,<num(lnum2)>)> egz. przedmiotu o nazwie „<ennoun(Item,3,lnum1,1,1)>” za <kilo(lnum3,<nbsp>)> gil." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_002", "hash": "D89C689FD9C2344E", "target": "Nic." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q2_000_000", "hash": "7B2AB97B70B632C2", "target": "Kupić <if(lnum2,<if([lnum2<=10],<switch(lnum2,jedną,dwie,trzy,cztery,pięć,sześć,siedem,osiem,dziewięć,dziesięć)>,<num(lnum2)>)>,<num(lnum2)>)> szt. następującego towaru za <kilo(lnum3,<nbsp>)> gil?" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_001", "hash": "5DCC53E9F1F5476E", "target": "Tak" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_002", "hash": "3A5C5BE3E099CB2F", "target": "Nie" }
   ]
 }

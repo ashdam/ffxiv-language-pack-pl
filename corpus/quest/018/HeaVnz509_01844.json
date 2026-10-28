@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz509_01844",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_00", "hash": "D58120805AF720B5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_01", "hash": "D1AB932B27FE0AA9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_02", "hash": "F4BE26D855185F66", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_03", "hash": "480E9625658328E3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_00", "hash": "A96950F02AA26FF1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_01", "hash": "93EA98B2CA53ECA4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_000", "hash": "7CFE405FC2080339", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_001", "hash": "712CB817E0333009", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_010", "hash": "4FEDE0904EC7134B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_020", "hash": "0D2A21847B1D6E39", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_030", "hash": "11B09865D7E18B41", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_031", "hash": "97C9A91C36850658", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_032", "hash": "98F48257A74D0BD2", "target": "" }
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_00", "hash": "D58120805AF720B5", "target": "Ramiona Mogeuge aż drżą." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_01", "hash": "D1AB932B27FE0AA9", "target": "Mogeuge słyszy niesione wiatrem charakterystyczne trzaski młodych trzaskotraw rosnących pod jego punktem obserwacyjnym. Cieszy się, że przetrwały w spalonej glebie Czterech Ramion, lecz obawia się o ich przyszłość. Aby je ocalić, prosi o zebranie pięciu sadzonek i przekazanie ich Moggzii, głównemu ogrodnikowi Moghome, do posadzenia w przyjaźniejszej okolicy." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_02", "hash": "F4BE26D855185F66", "target": "Udaje ci się zebrać pięć sadzonek trzaskotrawy z Czterech Ramion. Udaj się do Moghome i oddaj je w ogrodnicze łapki Moggzii." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_03", "hash": "480E9625658328E3", "target": "Przekazujesz sadzonki Moggzii, który zgadza się posadzić je w swojej oazie na wzgórzu. Odkąd ryk Nidhogga wprawił smoki w szał, ich bezmyślne zniszczenia doprowadziły wiele miejscowych roślin na skraj wyginięcia. Dopóki jednak są tu takie moogle'e jak Moggzia, flora The Churning Mists ma szansę rozkwitnąć w nowych miejscach." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_00", "hash": "A96950F02AA26FF1", "target": "Zebrać sadzonki trzaskotrawy" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_01", "hash": "93EA98B2CA53ECA4", "target": "Dostarczyć sadzonki trzaskotrawy Moggzii" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_000", "hash": "7CFE405FC2080339", "target": "Słyszysz te trzaski? To wołanie trzaskotrawy, kupo! Kilka sadzonek zakorzeniło się w Czterech Ramionach, ale biedactwa długo nie przetrwają na ziemi pełnej smoków. Musimy przenieść je tam, gdzie ktoś o nie zadba!" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_001", "hash": "712CB817E0333009", "target": "Wykopiesz pięć sadzonek i zaniesiesz je Moggzii, kupo? Opiekuje się ogrodem nad Moghome. Jeśli ktoś znajdzie tym biednym roślinkom dobry dom, to właśnie on." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_010", "hash": "4FEDE0904EC7134B", "target": "Cztery Ramiona to nie miejsce dla trzaskotrawy, kupo. Jeśli zaraz nie trafią do nowego domu, zmarnieją! Będę bardzo wdzięczny, jeśli wykopiesz sadzonki i zaniesiesz je Moggzii. On będzie wiedział, co robić." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_020", "hash": "0D2A21847B1D6E39", "target": "Masz sadzonki trzaskotrawy, kupo? To prędko zabierz je do Moghome! Nie martwcie się, maluchy─Moggzia znajdzie wam miłe miejsce w ogrodzie!" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_030", "hash": "11B09865D7E18B41", "target": "...Kupopopo? Mogę ci jakoś pomóc?" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_031", "hash": "97C9A91C36850658", "target": "Mogeuge przysyła sadzonki do przesadzenia? No dobrze. Na pewno znajdę tu gdzieś dla nich miejsce." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_032", "hash": "98F48257A74D0BD2", "target": "Odkąd smoki oszalały, ich ziemie popadają w ruinę. Wiele rodzimych roślin przez to przepadło. Ale póki my, moogle'e, żyjemy i oddychamy, kwiaty zawsze znajdą w nas przyjaciół, kupo!" }
   ]
 }

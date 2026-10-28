@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob202_01336",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_00", "hash": "8A6AC81C8D923F5E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_01", "hash": "8C9481C904CB4D1F", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_02", "hash": "4BE1BAC1668740DD", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_TODO_00", "hash": "6C04B3790F47B70E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_000", "hash": "0B9E346DD9828795", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_001", "hash": "3FB398717CBC276D", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_002", "hash": "1162CD864DABCB73", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_003", "hash": "3C8CC3CA63F61F0E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_004", "hash": "E84392F13A370E3B", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_005", "hash": "0C39336A8E364FC1", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_010", "hash": "393D8C4878DFDEF0", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_011", "hash": "16A96D8E88B3992E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_012", "hash": "FFEEF7B34D44B79D", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_013", "hash": "F655C9A82B89BC7B", "target": "" }
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_00", "hash": "8A6AC81C8D923F5E", "target": "To, że 789th Order Craftsman Bo Gu nie chce się zabrać do wydobycia rudy, nie znaczy, że komuś innemu wolno, nie, nie!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_01", "hash": "8C9481C904CB4D1F", "target": "W wyrobisku 59. brygady pracuje górnik o niezwykłym talencie. 789th Order Craftsman Bo Gu chce jego śmierci za grzech sukcesu─zarówno jego własnego, jak i jego współpracownika, 13th Order Fugleman Zo Ga. Spełnij tę prośbę, kończąc FATE „Górnik w lustrze” i przedstawiając Bo Gu zdobyty dowód czynu." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_02", "hash": "4BE1BAC1668740DD", "target": "Dostarczasz monetę Titan mythrilshield do Bo Gu, choć ten nie musiał podejrzewać cię o wahanie. Zabity górnik wcale nie był takim mistrzem kopalń, jak przedstawiał go Bo Gu. Był też paskudnym draniem, którego z przyjemnością posyła się sześć fulmów pod ziemię." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_TODO_00", "hash": "6C04B3790F47B70E", "target": "Dostarczyć Bo Gu monetę Titan mythrilshield zdobytą w FATE „Górnik w lustrze”" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_000", "hash": "0B9E346DD9828795", "target": "Nienawidzę przywódcy Zo Gi, tak, tak, ten Zo Ga naprawdę zasługuje na moją nienawiść. To niesprawiedliwe─nieuczciwe, obłąkane, niesprawiedliwe─że ma tyle gilów za całą tę swoją pracę. Uch!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_001", "hash": "3FB398717CBC276D", "target": "Teraz słyszę, że zwerbował górnika z renomą─sławą, poważaniem, renomą! Ten Be Ze nie jest jak górnicy naszej drogiej 789. brygady, nie. Ten trafia na jedną żyłę miękkiego, błyszczącego złota za drugą! Złoto to jego dar, tak, tak." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_002", "hash": "1162CD864DABCB73", "target": "Mówią, że nie pracuje dla byle przywódcy. Mówią, że służy tylko wyjątkowo bystrym członkom plemienia Kobold. Cóż, <italic(1)>oni<italic(0)> mogą najeść się gorącego wosku i zdechnąć w wychodku! Z takim mistrzem kilofa u boku Zo Ga będzie prosperował─rozkwitał, kwitł, prosperował!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_003", "hash": "3C8CC3CA63F61F0E", "target": "Nie możemy na to pozwolić, nie, nie. Ale na szczęście martwy mistrz nie ma talentów! Żadna różnica między bystrym trupem a głupim trupem, tylko utrata czegoś dobrego bardziej złości. Tak, Zo Ga będzie rozzłoszczony─strapiony, zirytowany, rozzłoszczony!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_004", "hash": "E84392F13A370E3B", "target": "<if(gnum4,Poszukiwaczka,Poszukiwacz)> nie ma przekonania do sprawy, nie daje się przekonać. Czy weźmie gile, ale nie wykona zadania? Dowód, tak, tak, przyniesiesz dowód!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_005", "hash": "0C39336A8E364FC1", "target": "Wstrętny Zo Ga zapłacił Be Ze pokaźną sumę─tak, tak, monetę Titan mythrilshield─gdy ten nieznośny górnik dołączył do jego wyrobiska. To podarunek za żyły, które miał znaleźć. <if(gnum4,Poszukiwaczka,Poszukiwacz)> przyniesie tę monetę─może pokrytą niewinną posoką?" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_010", "hash": "393D8C4878DFDEF0", "target": "<if(gnum4,Poszukiwaczka,Poszukiwacz)> wraca z rzezi, z zabijania wraca! Czy niesie oznakę─znak, dowód, oznakę?" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_011", "hash": "16A96D8E88B3992E", "target": "Dowód, tak, tak! Dotrzymujesz słowa, tak, można ci zaufać w sprawie najpodlejszych morderstw! Może pewnego dnia nawet sam Zo Ga..." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_012", "hash": "FFEEF7B34D44B79D", "target": "Okropny jest ten Zo Ga! Wgryza się w najbogatsze żyły jak kleszcz w wymię i nie chce dzielić się z nami, którzy przychodzimy późno i nic nie robimy!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_013", "hash": "F655C9A82B89BC7B", "target": "Ale <if(gnum4,poszukiwaczka,poszukiwacz)> daje mi pożywkę do myślenia... pożywkę, pyszne jedzenie. Wszystko, co Zo Ga ma, może zrobić plask albo bum, na gładko albo z kawałkami. Jest wielka nadzieja, tak, tak, Zo Ga ma wielki powód do zmartwień!" }
   ]
 }

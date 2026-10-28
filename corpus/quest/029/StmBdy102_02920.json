@@ -2,18 +2,18 @@
   "conversation": "quest/029/StmBdy102_02920",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "" }
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "Hm? Jeśli się nie mylę, to dziennik krajoznawczy. Czy znasz może kobietę o imieniu Millith?" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "Ha, co za zbieg okoliczności! Jestem wujkiem Millith, jeśli cię to ciekawi. Pisała mi o tobie bardzo wiele w swoich listach." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "Ach, gdzie moje maniery? Ulger Ironheart, do usług. Jak większość naszego rodu jestem odkrywcą, a Millith poprosiła, bym podzielił się z tobą zgromadzoną wiedzą. Daj mi na chwilę swój dziennik." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "Zobaczmy... Zdecydowanie tam... i tam... i tam... i <italic(1)>tam<italic(0)>! Tak, to powinno wystarczyć." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "Wyprawy zawiodły mnie w najdalsze zakątki, ale najbliższe sercu są mi surowo piękne okolice Ala Mhigo i wspaniale różnorodne krainy Dalekiego Wschodu." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "Można tam zobaczyć wiele cudownych widoków. Zapisałem wskazówki, jak do nich dotrzeć. Niektóre miejsca są trudniej dostępne, ale jeśli masz choć połowę zaradności, o której pisze Millith, na pewno znajdziesz je wszystkie." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "Pozostaje mi pozwolić ci wrócić do przygód. Ruszaj i podziwiaj zapierające dech widoki, których nawet mój ojciec, wielki Roddard Ironheart, nie zdążył zobaczyć za życia!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "Do Dziennika krajoznawczego dodano wpisy z dodatku Stormblood!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "Aby odnotowywać widoki z dodatku Stormblood, musisz mieć co najmniej 60. poziom. Udaj się we wskazane miejsce i spełnij wymagane warunki, aby uzupełnić wpis o danym widoku i otrzymać punkty doświadczenia." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "Nowe miejsca dodane do Dziennika krajoznawczego oznaczono kulami światła. Jeśli podczas przygód dostrzeżesz taką kulę, zatrzymaj się na chwilę i uzupełnij wpis." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "Skorzystaj ze swej pomysłowości i notatek Ulgera, by odnaleźć te zachwycające widoki i właściwie je docenić. Zobacz Ala Mhigo i Daleki Wschód tak, jak widzieli je tylko najwięksi odkrywcy!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "Jako odkrywca muszę cię uprzedzić: dalsze krainy są pełne niebezpieczeństw. Jeśli zamierzasz wyruszyć, lepiej zadbaj o możliwość obrony." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "Aby podjąć to zadanie, musisz mieć co najmniej jedną klasę lub profesję na poziomie 60. lub wyższym." }
   ]
 }

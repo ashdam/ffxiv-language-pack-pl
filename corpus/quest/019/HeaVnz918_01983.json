@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz918_01983",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "" }
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "Allagański węzeł badawczy w milczeniu czeka na interakcję z użytkownikiem." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "Dowiadujesz się, że z allagańskiej placówki badawczej uciekły szybko rozmnażające się potworne chimery. Węzeł badawczy wyjaśnia, że stanowią poważne zagrożenie dla lokalnego środowiska i należy je natychmiast zlikwidować. Zabij dwie bestie Allagan chimera." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "Przerażające wynaturzenia zostały zabite. Poinformuj węzeł badawczy, że bezpośrednie zagrożenie dla środowiska zmalało." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "Węzeł badawczy uznaje twoją pracę i potwierdza ograniczenie zagrożenia dla środowiska. Dowiadujesz się, że wszystkie próby tworzenia złożonych form życia doprowadziły do powstania niebezpiecznych i niestabilnych psychicznie istot, lecz węzeł nie wydaje się mieć zamiaru ograniczać badań." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "Zabić bestie Allagan chimera" },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "Zdać relację węzłowi badawczemu" },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "\\<pik> \\<pik> Odebrano transmisję z placówki badań nad złożonymi formami życia... \\<bzzzzzzz> ...Gratulacje. Użytkownik został wybrany do pomocy w eksperymencie badawczym." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "Czujniki wskazują ucieczkę obiektów z komory testowej 167-B─program przyspieszonego rozmnażania chimer. Obiekty stanowią skrajne zagrożenie dla otaczającego środowiska. Zalecana natychmiastowa likwidacja powiązanych bestii Allagan chimera." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "Aby zminimalizować nieodwracalne szkody w lokalnym środowisku, proszę natychmiast zlikwidować dwie bestie Allagan chimera." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "\\<pik> \\<pik> Potwierdzono eksterminację chimer. Dziękujemy za służbę allagańskiemu programowi badawczemu. Zadowalające wyniki zostały odnotowane." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "Zapewniamy, że choć wszystkie dotychczasowe próby tworzenia złożonych form życia kończyły się powstaniem istot niestabilnych psychicznie i...\\<bzzzzzzz>...program badawczy nie ustanie w dążeniu do szlachetnego celu... \\<bzzzzzzz>" }
   ]
 }

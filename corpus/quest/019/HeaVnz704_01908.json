@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz704_01908",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "" }
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "Noże Hinu Vali mają najlepsze czasy za sobą." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "Hinu Vali musi przygotować górę mięsa na nadchodzącą ucztę w Ok' Zundu. Nowe noże znacznie przyspieszyłyby jej pracę. Powinny się do tego nadać szpony endymionów latających w pobliżu osady. Zabij cztery i dostarcz ich szpony Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "Endymiony szybko padają, a ty wyrywasz szpony z ich martwych ciał. Zanieś je Hinu Vali, aby mogła kontynuować przygotowania." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "Szpony endymionów tną mięso niemal bez oporu. Przy odrobinie szczęścia Hinu Vali zdąży wszystko przygotować na ucztę Zundu." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "Zabić endymion i zdobyć ich szpony" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "Dostarczyć szpony Hinu Vali" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "Hinu Vali musi przygotować mięso na ucztę plemienia, lecz jej ostrza tępieją jak gasnący księżyc. Istota z dołu pomoże, przyniesie materiały na nowe noże, a Hinu Vali będzie dalej pracować." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "Po niebie koło Ok' Zundu latają endymiony o ostrych, zabójczych szponach. Zabij cztery i przynieś szpony─inaczej rozbiór mięsa nigdy się nie skończy." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "Endymiony roją się na niebie koło Ok' Zundu─ich ostre szpony bardzo ułatwią pracę Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "Endymiony, które zasłaniają niebo jak burzowe chmury, padają na ziemię przed istotą z dołu. Czy przynosi ich szpony?" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "Tak... Jak szpony endymiona rozcinają ofiarę, tak nowe noże Hinu Vali bez trudu tną mięso. Istota z dołu ułatwia pracę Hinu Vali. Dziś wieczorem plemię ucztuje!" }
   ]
 }

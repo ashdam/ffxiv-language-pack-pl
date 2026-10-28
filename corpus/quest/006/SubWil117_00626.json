@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil117_00626",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "" }
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "Esmour potrzebuje tępiciela szkodników przy Kościele Świętego Adamy Landamy." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "Zwłoki przyciągnęły roje plujek w okolice kościoła. Zniszcz pięć rojów, aby ograniczyć ich liczbę." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "Pięć rojów plujek zostało wytępionych. Zdaj raport Esmourowi przy kościele." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "Esmour dziękuje ci za zadbanie o bezpieczeństwo i spokój żałobników odwiedzających kościół." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "Zniszczyć blowfly swarm" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "Zdać raport Esmourowi" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "Skoro <if(gnum4,zadała pani,zadał pan)> sobie trud przybycia aż tutaj, może zechce jeszcze trochę się potrudzić." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "Jak wiadomo, mamy tu cmentarz. Zapach rozkładających się zwłok przyciąga roje plujek, równie nieczystych co niepożądanych." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "Proszę zniszczyć pięć tych zaraźliwych rojów, a kościół będzie <if(gnum4,pani,panu)> wdzięczny." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "Dziękuję. Gdyby pozwolić rojom bez przeszkód roznosić zarazę przy kościele, wkrótce opłakiwalibyśmy żałobników." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "Przynajmniej na razie pogrążeni w żałobie mogą spokojnie modlić się o bezpieczną przeprawę dla zmarłych. Niech Thal <if(gnum4,pani,panu)> błogosławi." }
   ]
 }

@@ -16,7 +16,7 @@
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_02", "hash": "A75601405833412F", "target": "Porozmawiać z Enionem" },
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_03", "hash": "4549AAF20C53EC53", "target": "Porozmawiać z Enionem" },
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_04", "hash": "BDEF09E6B1AC4F7B", "target": "Porozmawiać z Enionem" },
-    { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_05", "hash": "BC5E239989DC8AAC", "target": "Dostarczyć Velodyna grizzly bear hide Atelloune" },
+    { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_05", "hash": "BC5E239989DC8AAC", "target": "Dostarczyć skórę niedźwiedzia grizzly znad Velodyny Atelloune" },
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_TODO_06", "hash": "79AEAA52C846CED3", "target": "<if([lnum1<lnum2],Wykonać grizzly bear gloves<sheet(Addon,9,0)>,Dostarczyć grizzly bear gloves<sheet(Addon,9,0)> Enionowi)>" },
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_ATELLOUNE_000_000", "hash": "776933B2D5030260", "target": "Ach, numer siedemdziesiąt dwa. Dotarły już do <if(gnum4,pani,pana)> wieści o naszej pracy? Oczywiście, że tak. Jak mogłoby być inaczej, skoro całe miasto mówi o naszym dhalmelu?" },
     { "gameKey": "quest/026/ClsTan650_02611#TEXT_CLSTAN650_02611_ATELLOUNE_000_001", "hash": "448618372B96CB19", "target": "Dziwi mnie jednak, że nikt nie zapytał o jego charakterystyczną sierść i kopyta. Tak wyraźne różnice względem zwykłego dhalmela powinny skłonić do pytań choć garstkę osób." },

@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix127_03715",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "" }
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "Uin Nee próbuje zrozumieć ideę huśtawki.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "Zabić okazy fibrous psammead we wskazanym miejscu i zdobyć ich jedwab" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "Dostarczyć jedwab stworzeń psammead Uin Nee" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "Nic nie wzbudza we mnie takiej litości dla twojego ludu jak huśtawki. W końcu po co komu taka głupia konstrukcja, jeśli umie latać?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "A wy... musicie przywiązać kawałek drewna do gałęzi i liczyć, że nie pęknie, zrzucając was na ziemię i zabijając na miejscu! Wszystko po to, żeby wzbić się wyżej i wyżej, poczuć, że zaraz polecicie. Ale nie polecicie! To po prostu przygnębiające." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "Jednak dzieci chyba je lubią. A jeśli chcą smutnej namiastki lotu, jak mogę im odmówić? Tak czy inaczej mam drzewo i ten kawałek drewna z ziemi, więc praktycznie cała konstrukcja już gotowa!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "Brakuje tylko liny! Najlepiej mocnej. Śmiertelny upadek to żadna frajda, nawet jeśli to <italic(1)>tylko<italic(0)> sen. Może przyniesiesz trochę tego wytrzymałego jedwabiu stworzeń psammead, o którym wszyscy tyle mówią? Bardzo proszę?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "Najmocniejszy jedwab mają te wielkie, paskudne matki. Niechętnie wychodzą z ukrycia, ale na szczęście od razu przybiegną, gdy zaatakujesz mniejsze okazy!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "Jak tam te stworzenia? Nadal pełzają i budzą niepokój?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "O tak! Powinien być więcej niż wystarczająco mocny. Oczywiście najpierw trzeba podstępem namówić jakichś dorosłych śmiertelnych do wypróbowania go. Nie wolno narażać dzieci! Kiedy już wszystko znajdzie się we śnie, może i ja spróbuję!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "Przyznam, że myśl o łagodnym kołysaniu jakoś mnie uspokaja. W przód i w tył, w przód i w tył... Gdy zamknę oczy, prawie sobie przypominam..." }
   ]
 }

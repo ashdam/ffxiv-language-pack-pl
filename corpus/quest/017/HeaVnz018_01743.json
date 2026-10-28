@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz018_01743",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "" }
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "Torsefers niemal choruje ze zmartwienia." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "Lord Emmanellain polecił dostarczyć list lady Laniaitte w Różanym Domu na Morzu Chmur. Torsefers obawia się, że coś pójdzie nie tak─i ściągnie na niego gniew lorda Emmanellaina─prosi więc, by zrobić to za niego." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "Dostarczasz list lady Laniaitte. Przytłaczający zapach róż od razu zdradza nadawcę. Wyjaśnia, że zna lorda Emmanellaina od dzieciństwa. Choć wyrósł na dorosłego mężczyznę, czasami wciąż zachowuje się jak dziecko." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "Dostarczyć list pachnący różami lady Laniaitte w Różanym Domu" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "Wyglądam na zmartwionego? Niedorzeczność. Czym miałbym się martwić?<br>\\<wzdycha> Dobrze... Chyba nic nie szkodzi o tym opowiedzieć." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "Lord Emmanellain polecił mi dostarczyć wiadomość lady Laniaitte w Różanym Domu. Wyraźnie zaznaczył, że <italic(1)>nie<italic(0)> będzie tolerować niepowodzenia. To proste zadanie, lecz na samą myśl, że coś mogłoby pójść nie tak, ściska mnie w żołądku." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "Nie chciałbym zrzucać na innych własnych obowiązków, ale... Czy zechce <if(gnum4,pani,pan)> dostarczyć tę wiadomość?" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "Nie mogę ryzykować. <if(gnum4,Kobieta,Mężczyzna)> o takich zdolnościach z pewnością nie zawiedzie. Proszę, jest <if(gnum4,pani moją jedyną nadzieją,pan moją jedyną nadzieją)>!" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "Po przybyciu do Różanego Domu proszę wręczyć wiadomość prosto do rąk lady Laniaitte. Bez żadnych przystanków. Przy tej dostawie nie może dojść do pomyłki." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "Ach, <split(<string(gstr1)>, ,1)>. Wygląda <if(gnum4,pani,pan)> dobrze. Co sprowadza <if(gnum4,panią,pana)> na Wierzchołek Chmur? Jeśli mogę w czymś pomóc, proszę tylko powiedzieć." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "\\<węszy> Olejek różany? Ech, list od lorda Emmanellaina. Bardzo przepraszam za ten kłopot. Nie przypuszczałam, że posunie się do takiej bezczelności." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "Obawiam się, że zawsze taki był. Rody Haillenarte i Fortemps od dawna łączą dobre stosunki. Dlatego ci z nas, których dzieli niewielka różnica wieku, często znają się od dziecka." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "Przez sporą część dzieciństwa bawiłam się z lordem Emmanellainem, ale teraz... Obawiam się, że zbyt mocno trzyma się wspomnień młodości. Choć przyznam, że czasem jest mi to na rękę." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "Niestety, nie mogę powiedzieć tego samego o naszym strażniku imieniem Torsefers. Bez wątpienia poprosił o zastępstwo. Rozumiem jego lęk przed gniewem lorda Emmanellaina, lecz nie tak należy traktować gościa. Proszę przyjąć ten skromny dar w ramach przeprosin. Wiem, że to niewiele, ale tylko tyle mogę teraz ofiarować." }
   ]
 }

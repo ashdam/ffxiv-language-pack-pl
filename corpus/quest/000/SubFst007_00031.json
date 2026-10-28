@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst007_00031",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "" }
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "Braya jest zajęta przygotowaniami do nadchodzącej ceremonii i potrzebuje kogoś, kto przyniesie jej szkarłatny olejek." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "Braya, nieco sztywna, lecz życzliwa uczennica zaklinaczki, z przerażeniem odkrywa, że gildia nie ma dość szkarłatnego olejku na nadchodzącą ceremonię. Zabij sześć biedronek w pobliżu The Bannock i przynieś jej potrzebny olejek." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "Bohatersko zabijasz sześć biedronek i pozyskujesz szkarłatny olejek z ich wciąż drgających ciał. Wróć do Świątyni Cichej Polany i triumfalnie dostarcz olejek Brayi." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "Przyjmując z wdziękiem szkarłatny olejek, Braya nie zdradza żadnych emocji. Mając o jedno zmartwienie mniej, może zdoła się nieco odprężyć... kiedyś." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "Zdobyć szkarłatny olejek z little ladybugs" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "Dostarczyć szkarłatny olejek Brayi" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "Czy przypadkiem nie boi się <if(gnum4,pani,pan)> robactwa? Jeśli nie, pilnie potrzebuję pomocy." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "Otóż podczas przygotowań do nadchodzących obrzędów wróżebnych z wielkim wstydem odkryłam, że nie mamy wymaganej ilości szkarłatnego olejku." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "Jeśli to nie zbyt wiele, byłabym ogromnie wdzięczna za uzupełnienie zapasów przed ceremonią." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "Szkarłatny olejek można pozyskać z biedronek, takich jak te żyjące w pobliżu The Bannock. Sześć owadów powinno dostarczyć potrzebnej ilości. Proszę wrócić do mnie, gdy tylko uda się go zebrać." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "Ach, już <if(gnum4,pani wróciła,pan wrócił)>. Czy udało się zdobyć szkarłatny olejek, o który prosiłam?" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "Tak, wszystko wygląda jak należy. Ceremonia może odbyć się zgodnie z planem. Jestem wdzięczna..." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "...żywiołakom, że <if(gnum4,panią,pana)> do nas sprowadziły. Proszę przyjąć ten skromny dowód naszej wdzięczności." }
   ]
 }

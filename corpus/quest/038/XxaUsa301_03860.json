@@ -2,7 +2,7 @@
   "conversation": "quest/038/XxaUsa301_03860",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_00", "hash": "82528802024AA31C", "target": "Właściciel, od którego Druthers Buscarrona wzięło nazwę, potrzebuje sprawnego poszukiwacza przygód." },
+    { "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_00", "hash": "82528802024AA31C", "target": "Właściciel, od którego karczma Buscarron's Druthers wzięło nazwę, potrzebuje sprawnego poszukiwacza przygód." },
     { "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_01", "hash": "164341F306A291A7", "target": "Qiqirn, dawny pracownik Druthers Buscarrona, zostawił przy odejściu część swoich rzeczy. Porozmawiaj z Baensyngiem w Zaułku Handlarzy w Limsie Lominsie, by dowiedzieć się, gdzie znaleźć owego Qiqirn." },
     { "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_02", "hash": "9F8F4EF975C95225", "target": "Od Baensynga dowiadujesz się, że kupiec Qiqirn z Zaułka Handlarzy imieniem Kyokyoroon może coś wiedzieć o miejscu pobytu Teteroona. Zanieś handlarzowi świeże kurze jajo, by rozwiązać mu język." },
     { "gameKey": "quest/038/XxaUsa301_03860#TEXT_XXAUSA301_03860_SEQ_03", "hash": "145469C1EFDDA21D", "target": "Otrzymawszy świeże kurze jajo, Kyokyoroon z ochotą mówi ci, że Teteroon przeniósł się tymczasem, by handlować swoim towarem w faktorii gdzie indziej. Nie pamięta jednak, gdzie owa faktoria leży, i odsyła cię do człowieka imieniem Wineburg przy lominsańskiej przystani promowej, który jego zdaniem wie, gdzie Teteroon przebywa." },

@@ -2,13 +2,13 @@
   "conversation": "custom/007/RegOth4MycSurvivor_00720",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_000", "hash": "AED3DC41ED3CB1B1", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_001", "hash": "6A681A45354ED45B", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_002", "hash": "9F57151C2C7D6196", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_003", "hash": "71D05F3400ED840C", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_004", "hash": "845D9A0FB264BA80", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_005", "hash": "1A696244CF683F6F", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_006", "hash": "79EC6F4BDB2B1E45", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_007", "hash": "FA59750F430C4365", "target": "" }
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_000", "hash": "AED3DC41ED3CB1B1", "target": "Ostrze <split(<string(gstr1)>, ,2)>, to zaszczyt. Gdybyż moi bracia i siostry broni przeżyli, by ujrzeć Bozję wolną od IV Legionu." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_001", "hash": "6A681A45354ED45B", "target": "Ach, przepraszam─nie przedstawiono nas sobie. Jestem Meryall, ostatnia... ostatnia z Ostrzy Gunnhildr." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_002", "hash": "9F57151C2C7D6196", "target": "I póki żyję, przysięgam na honor Ostrza królowej: historia nie zapomni ofiar poniesionych dla wolności Bozji. Imiona moich poległych towarzyszy będą żyć dalej!" },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_003", "hash": "71D05F3400ED840C", "target": "Że też cesarscy ośmielili się splamić ich honor, zwracając ich przeciwko nam, przemieniając w potwory... To więcej, niż moje serce może znieść." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_004", "hash": "845D9A0FB264BA80", "target": "Na szczęście jeden z towarzyszy z Ostrzy zachował ciało w całości i udało nam się go pojmać." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_005", "hash": "1A696244CF683F6F", "target": "Jeśli dobrze rozumiem, odkryto lekarstwo na zniewolenie przez bożki, tak? Zatem odzyskanie przez niego zmysłów jest tylko kwestią czasu." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_006", "hash": "79EC6F4BDB2B1E45", "target": "Wtedy naprawdę zaczniemy odbudowywać Ostrza Gunnhildr. To najmniej, co możemy zrobić, by uczcić poległych." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_007", "hash": "FA59750F430C4365", "target": "Gdyby nie <if(gnum4,pani,pan)>, wątpię, czy w ogóle byłabym tutaj, by podtrzymywać tradycje Ostrzy Gunnhildr. W imieniu Ostrzy, które były przed nami, i tych, które przyjdą po nas, dziękuję." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubFst041_00197",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_00", "hash": "552B72D8DDD61165", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_01", "hash": "974D86364BBAEC8B", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_02", "hash": "4AF49FC59FC01AB6", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_03", "hash": "2EC5AB7FEF4EA449", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_00", "hash": "F6020FB83E88FC04", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_01", "hash": "CD0D63C3FA48B8F5", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_1", "hash": "6EE06BE097E9F589", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_2", "hash": "4AFC0207902E4C0C", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_3", "hash": "9158BE77E7AD6742", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_10", "hash": "5D5427CC37AE6B4C", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_11", "hash": "EBEA7F82CC7684BB", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_12", "hash": "A87E44A3A8B94F86", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_13", "hash": "4C069A36D048407B", "target": "" }
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_00", "hash": "552B72D8DDD61165", "target": "Maurelin, żołnierz Żmij w Bannock, szuka ochotnika do zebrania materiałów potrzebnych przy szkoleniu rekrutów." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_01", "hash": "974D86364BBAEC8B", "target": "Zdobądź cztery pancerze wielkich, owadopodobnych bog yarzon, które żyją w rzece na południe od Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_02", "hash": "4AF49FC59FC01AB6", "target": "Masz już pancerze bagiennych yarzonów. Dostarcz je Mariustelowi w Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_03", "hash": "2EC5AB7FEF4EA449", "target": "Mariustel zamierza wykorzystać przyniesione pancerze podczas kolejnych ćwiczeń. Gdy rekruci nauczą się skutecznie zabijać bagienne yarzony, utrzymanie bezpiecznej okolicy obozu wyda się znacznie łatwiejszym zadaniem." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_00", "hash": "F6020FB83E88FC04", "target": "Zabić bog yarzon i zdobyć ich pancerze" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_01", "hash": "CD0D63C3FA48B8F5", "target": "Dostarczyć pancerze bagiennych yarzonów Mariustelowi w Bannock" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_1", "hash": "6EE06BE097E9F589", "target": "Hej, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Jeśli szuka <if(gnum4,pani,pan)> pracy, to właśnie się znalazła." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_2", "hash": "4AFC0207902E4C0C", "target": "Instruktor Mariustel potrzebuje ochotnika, który przyniesie mu pancerze bagiennych yarzonów do ćwiczeń dla rekrutów." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_3", "hash": "9158BE77E7AD6742", "target": "Yarzony są w rzece na południe stąd. Proszę zdjąć pancerze z czterech stworzeń i zanieść je instruktorowi." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_10", "hash": "5D5427CC37AE6B4C", "target": "Czy to w sprawie szkolenia?" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_11", "hash": "EBEA7F82CC7684BB", "target": "Hm? Nie jest <if(gnum4,pani nową rekrutką,pan nowym rekrutem)>? Więc po─ Ach, pancerze yarzonów, które kazałem zdobyć Maurelinowi! Widzę, że nauczył się przynajmniej powierzać zadania innym." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_12", "hash": "A87E44A3A8B94F86", "target": "Teraz mogę zadać rekrutom specjalistyczne ćwiczenia. Potrafią już trafiać do celu, ale potrzebują praktycznej wiedzy, <italic(1)>gdzie<italic(0)> dokładnie taki potwór jak yarzon jest najbardziej wrażliwy." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_13", "hash": "4C069A36D048407B", "target": "Dzięki tej pomocy na pewno lepiej sobie poradzą, gdy przyjdzie im walczyć z tymi stworzeniami. To powód do dumy─zarówno oni, jak i Bannock są teraz bezpieczniejsi." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix117_03705",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "" }
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "Najnowszy plan Uin Nee jest jeszcze bardziej podejrzany niż zwykle. Coś tu pachnie rybą.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "Sprawdzić pułapkę na ryby we wskazanym miejscu" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "Dostarczyć pułapkę pełną ryb Uin Nee" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "Tyr Beq mówi, że kraina zwana „Amh Araeng” w niczym nie przypomina Il Mheg. Jest sucha i gorąca, niemal nic tam nie rośnie. Żadnych kwiatów, rzek ani jezior!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "Niektóre tamtejsze dzieci nigdy nawet nie <italic(1)>widziały<italic(0)> ryby! Wyobrażasz sobie? I tak, chyba już rozumiemy się bez słów..." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "Właśnie! Przynieś mi rybę do pokazania dzieciom w Ogrodzie Snów. Taką ładną, z błyszczącymi łuskami!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "Takie przygotowanie może cię zaskoczyć, ale ktoś z mojej świty już zastawił pułapkę w Leśnej Toni. To o wiele prostsze niż zawracanie sobie głowy haczykami i całą resztą. Musisz tylko pójść sprawdzić, czy coś się złapało!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "I co? Co dla mnie masz?" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "O tak. To są... tęczowe błyskopstrągi. Tak je nazwiemy. Mam wobec was wielkie plany, maleństwa! Nie będziecie pływać w nudnej wodzie jak wszystkie inne ryby. Będziecie szybować po niebie Lyhe Mheg!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "A jeśli złapiemy ich więcej, polecą razem i utworzą olbrzymią rybią tęczę! Ha, ha! Nic dziwnego, że wszyscy mówią o moim geniuszu!" }
   ]
 }

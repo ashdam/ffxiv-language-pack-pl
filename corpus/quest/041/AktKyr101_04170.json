@@ -2,14 +2,14 @@
   "conversation": "quest/041/AktKyr101_04170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "" }
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "Hmm... Wyglądasz na kogoś, kto nie boi się pobrudzić rąk─i nie mówię tego w przenośni. Masz ochotę na odrobinę starej, dobrej harówki?" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "...Ale może zanadto wybiegam naprzód. Jestem Grigge, jeden ze zbieraczy Sharlayanu. Zdobywamy materiały, próbki, wiedzę─wszystko, co sobie wyobrazisz, i jeszcze więcej." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "Oczywiście jednej osobie trudno byłoby przeszukiwać cały świat za każdym razem, gdy rodacy czegoś potrzebują. Dlatego stworzyliśmy kolegium zbieraczy, by łatwiej dzielić się informacjami i przekazywać prośby tym, którzy najlepiej zdołają je spełnić." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "Niektóre zlecenia najlepiej na przykład powierzyć komuś o pewnej finezji i wytrwałości... a odciski na twoich dłoniach mówią mi, że jesteś właśnie taką osobą." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "Rozumiem, że możesz mieć obawy wobec... hm, dość swobodnego procesu doboru. Pewnie domyślasz się, że Forum nigdy oficjalnie nie uzna przybysza z innego kraju za zbieracza." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "...Nieoficjalnie jednak toniemy ostatnio w zamówieniach, a przybywa ich szybciej niż kiedykolwiek. Przyjmiemy każdy talent─i dobrze za niego zapłacimy─więc proszę, powiedz, że cię to interesuje!" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "Możesz teraz podejmować zlecenia levequest zbieraczy, rozmawiając z osobą o imieniu Grigge." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "Z Sharlayanu czy nie, pilnie potrzebujemy teraz fachowej pomocy..." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 80. lub wyższym." }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "sheet": "TofuBg",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "TofuBg#1", "hash": "0098DB150A96BE01", "target": "Brak" },
+    { "gameKey": "TofuBg#2", "hash": "BC36A82B84FC6A74", "target": "Kratka" },
+    { "gameKey": "TofuBg#3", "hash": "1C60824C73DBF2B4", "target": "Kratka (okrągły obszar)" },
+    { "gameKey": "TofuBg#4", "hash": "DCC4C3B1114180C5", "target": "Kratka (kwadratowy obszar)" },
+    { "gameKey": "TofuBg#5", "hash": "C3938A1B3A923469", "target": "Szare" },
+    { "gameKey": "TofuBg#6", "hash": "7568D19787FF3611", "target": "Szare pole kołowe" },
+    { "gameKey": "TofuBg#7", "hash": "B2E5DC894BCBF455", "target": "Szare pole kwadratowe" }
+  ]
+}

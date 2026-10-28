@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz120_02670",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_SEQ_00", "hash": "A58B9F696F2427EB", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_TODO_00", "hash": "B72DBE6AEDCE678C", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_TODO_01", "hash": "5E6D64B940D6054D", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_000", "hash": "7AF59AE9242F4D5D", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_001", "hash": "47F8E4677F479E4C", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_002", "hash": "BC3BB42E71D201C7", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_003", "hash": "50E73B4130993B6C", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_004", "hash": "7DDE0FDA77E3638C", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_AILURUSFULGENS_000_005", "hash": "B20138E136586E1E", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_100_010", "hash": "7DD4077478F073D3", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_010", "hash": "74F9D77E333F1D2C", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_011", "hash": "0057AB63A87E05A9", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_012", "hash": "7CD690867A6B57E3", "target": "" },
-    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_013", "hash": "FEB71A964170167B", "target": "" }
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_SEQ_00", "hash": "A58B9F696F2427EB", "target": "Pełna gracji geiko gorączkowo czegoś szuka w Kugane." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_TODO_00", "hash": "B72DBE6AEDCE678C", "target": "Odszukać zbiegłe młode pandy rude" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_TODO_01", "hash": "5E6D64B940D6054D", "target": "Oddać zbiegłe młode pandy rude pełnej gracji geiko" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_000", "hash": "7AF59AE9242F4D5D", "target": "Ojej, gdzież one się podziały? Moje słodkie maleństwa..." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_001", "hash": "47F8E4677F479E4C", "target": "Przepraszam. Wygląda <if(gnum4,pani,pan)> na dobrą i uczynną duszę. Czy zechce <if(gnum4,pani,pan)> pomóc geiko w rozpaczliwej sytuacji?" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_002", "hash": "BC3BB42E71D201C7", "target": "Moje słodkie maleństwa uciekły z okiya. Boję się, że wspięły się gdzieś wysoko i nie potrafią zejść." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_003", "hash": "50E73B4130993B6C", "target": "To dwie młode pandy rude, bardzo płochliwe. Nigdy nawet nie wychodziły poza okiya. Wiem, że wciąż muszą być gdzieś w mieście, po prostu wiem. Błagam, trzeba je odnaleźć!" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_004", "hash": "7DDE0FDA77E3638C", "target": "To dwie młode pandy rude, bardzo płochliwe. Nigdy nawet nie wychodziły poza okiya. Wiem, że wciąż muszą być gdzieś w mieście, po prostu wiem. Błagam, trzeba je odnaleźć!" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_AILURUSFULGENS_000_005", "hash": "B20138E136586E1E", "target": "\\<pisk> \\<skomlenie> \\<piśnięcie>" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_100_010", "hash": "7DD4077478F073D3", "target": "Udało się odnaleźć moje słodkie maleństwa?" },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_010", "hash": "74F9D77E333F1D2C", "target": "Och, dziękuję! Ogromnie dziękuję! Tak się bałam, że znajdzie je ktoś mniej przyzwoity i... Nie potrafię nawet wypowiedzieć tej myśli." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_011", "hash": "0057AB63A87E05A9", "target": "Proszę mnie źle nie zrozumieć, nie chcę mówić źle o moich klientach. Chodzi mi tylko o to, że moje maleństwa to rzadkie i cenne zwierzęta z dalekich stron. Niejeden po prostu sprzedałby je po znalezieniu." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_012", "hash": "7CD690867A6B57E3", "target": "Ale właśnie dlatego, że obracam się wśród tylu osób bez zasad, wiedziałam. Od pierwszego spojrzenia wiedziałam, że <if(gnum4,pani,pan)> się od nich różni." },
+    { "gameKey": "quest/026/StmBdz120_02670#TEXT_STMBDZ120_02670_GEIKO02670_000_013", "hash": "FEB71A964170167B", "target": "To miasto jest jak lustro ludzkich pragnień. Niektórym ukazuje bogactwo pod postacią gili i chciwości. Ale dla kogoś tak dobrego prawdziwym bogactwem są bezcenne przeżycia i wspomnienia. Proszę przyjąć zapłatę za poświęcony czas. I dziękuję. Mam nadzieję, że jeszcze się spotkamy─może w moim okiya." }
   ]
 }

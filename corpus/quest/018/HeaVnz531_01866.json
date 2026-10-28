@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz531_01866",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_00", "hash": "347AD532CB0A6D44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_01", "hash": "EB34CD45DCA4703E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_02", "hash": "1DA4A75F02135084", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_00", "hash": "5AF90C7F3256F343", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_01", "hash": "1DE914752D9FEF4E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_000", "hash": "39BF348D8DCC06CA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_001", "hash": "92A188855B1A7DAA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_002", "hash": "190BE9C763202001", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_003", "hash": "F8D03E6558990F95", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_010", "hash": "07D0F8CF2C23AD81", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_020", "hash": "A0F1D862B026AFB7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_021", "hash": "EA789693198F8BDD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_022", "hash": "4702BE4A6F9B5C44", "target": "" }
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_00", "hash": "347AD532CB0A6D44", "target": "Coś powstrzymuje Moggę przed przejściem przez most." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_01", "hash": "EB34CD45DCA4703E", "target": "Mogga ma patrolować pałac Zenith w poszukiwaniu smoków służących złemu Nidhoggowi. Zdaje się, że znalazła je po drugiej stronie mostu, przed którym kuli się ze strachu. Biedna strażniczka boi się jednak sprawdzić to sama i prosi cię o zastępstwo. Przejdź przez most i wypatruj czających się smoków." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_02", "hash": "1DA4A75F02135084", "target": "Ta część pałacu Zenith jest wolna od smoczego zagrożenia... na razie. Zdaj relację strażniczce o imieniu Mogga i powiedz jej, że najtrudniejsza część patrolu już za nią." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "Mogga z ulgą przyjmuje wiadomość, że nie musi już zmagać się z gniewem smoków. Wraca do patrolowania i prosi cię o ostrzeżenie Mogoka, by zachował szczególną czujność." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_00", "hash": "5AF90C7F3256F343", "target": "Poszukać smoków we wskazanych miejscach" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_01", "hash": "1DE914752D9FEF4E", "target": "Zdać relację strażniczce o imieniu Mogga" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_000", "hash": "39BF348D8DCC06CA", "target": "Och! Myślałam, że to smok, kupo!" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_001", "hash": "92A188855B1A7DAA", "target": "Co!? Już widziano smoki grasujące w pałacu Zenith? Nie możemy pozwolić im szaleć po naszych świętych pałacach!" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_002", "hash": "190BE9C763202001", "target": "Chyba nawet słyszę stąd ich bezczelne warczenie. Ale... smoki są takie straszne, a ich pazury takie ostre..." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_003", "hash": "F8D03E6558990F95", "target": "Na samą myśl o smokach ogarnia mnie lęk... ale <italic(1)><if(gnum4,pani,pan)><italic(0)> ma dość odwagi! Może przejdzie <if(gnum4,pani,pan)> przez most i przepędzi wszystkie napotkane smoki, kupo?" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_010", "hash": "07D0F8CF2C23AD81", "target": "Nie sądzę, żeby było ich zbyt wiele... Proszę tylko przejść przez most i sprawdzić, dobrze?" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_020", "hash": "A0F1D862B026AFB7", "target": "Po drugiej stronie mostu było... <italic(1)>ile<italic(0)> smoków? Dzięki niebiosom za <if(gnum4,panią,pana)>. Ja bym się zmęczyła już po jednym, kupo." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_021", "hash": "EA789693198F8BDD", "target": "Cóż, wrócę do patrolowania... Może powinnam omijać <italic(1)>tę<italic(0)> okolicę szerokim łukiem..." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_022", "hash": "4702BE4A6F9B5C44", "target": "Ach, skoro już <if(gnum4,pani,pan)> tu jest, poproszę o jeszcze jedną przysługę. Mogok też patroluje okolicę. Proszę mu powiedzieć, żeby zachował <italic(1)>szczególną<italic(0)> czujność─nie chcemy, by został smoczą przekąską, kupo!" }
   ]
 }

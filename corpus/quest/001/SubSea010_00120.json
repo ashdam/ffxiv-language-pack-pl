@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubSea010_00120",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "" }
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "N'tanmo potrzebuje pomocy w utrzymaniu jasnej i pogodnej atmosfery w mieście." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "N'tanmo nie może opuścić posterunku, zleca ci więc sprawdzenie miejskich latarni. Uzupełnij je olejem do latarni ulicznych, zanim go zabraknie." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "Uzupełniasz olej we wszystkich migoczących latarniach ulicznych. Porozmawiaj z Sisipu w Gildii Rybaków, by uzyskać go więcej." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "Dowiadujesz się, że N'tanmo ma w zwyczaju zrzucać swoje obowiązki na początkujących poszukiwaczy przygód, ku wielkiemu niezadowoleniu Sisipu. Czujesz jednak, że za jej irytacją kryje się coś więcej." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "Uzupełnić migoczące latarnie uliczne olejem do latarni ulicznych" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "Porozmawiać z Sisipu w Gildii Rybaków" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "Wygląda na to, że już cieszy się <if(gnum4,pani,pan)> względami Żółtych Kurtek. Prawdziwy wzór dla poszukiwaczy przygód─przykład dla wszystkich kolegów po fachu!<br>...Eee, czy mogłabym prosić o przysługę?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "Powinnam dolać oleju do wszystkich latarni ulicznych, żeby świeciły przez całą noc. Ale przez tę sprawę z zaginionymi nie mogę po prostu zostawić posterunku." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "Za zajęcie się latarniami w moim zastępstwie byłabym <italic(1)>dozgonnie<italic(0)> wdzięczna." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "Och, a po wszystkim proszę odebrać więcej oleju od Sisipu w Gildii Rybaków. Tutaj nam się kończy, a to ona zarządza zapasami." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "...Robi <if(gnum4,pani,pan)> <italic(1)>co<italic(0)>!? \\<wzdycha> Co ja mam począć z tą dziewczyną?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "Ma czelność prosić mnie o pracę, pleść bzdury o oszczędnościach, a potem zrzuca wszystko na pierwszego lepszego poszukiwacza przygód!" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "To, że jest młoda i ładna, <italic(1)>nie<italic(0)> zwalnia jej z odpowiedzialności! O tak, dostanie swój olej... a przy okazji usłyszy, co o tym myślę!" }
   ]
 }

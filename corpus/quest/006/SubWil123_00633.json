@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubWil123_00633",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_00", "hash": "4A4341052AC9F530", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_01", "hash": "08FA8AD695950D13", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_02", "hash": "18F68C21813E01E0", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_03", "hash": "0122430EE1BE0D07", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_00", "hash": "39A1ED0729F892A8", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_01", "hash": "5775279FDFEE61BC", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_1", "hash": "A81EE83824BAB287", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_2", "hash": "12AB3517FC38F55C", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_3", "hash": "16F0F52F4564DA37", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_10", "hash": "D38FD35458B3C5F5", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_11", "hash": "2ABDC275E2B63B4E", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_12", "hash": "702670F5254CD1F3", "target": "" }
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_00", "hash": "4A4341052AC9F530", "target": "Lululo ze Złotego Bazaru chce, by zabić vandalous imp terroryzujące jej wykopaliska." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_01", "hash": "08FA8AD695950D13", "target": "Lululo chce szukać żył mythrilu w ruinach na wschodzie. Pojawienie się vandalous imp wystraszyło jednak zatrudnionych górników. Zabij cztery impy, żeby odstraszyć pozostałe." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_02", "hash": "18F68C21813E01E0", "target": "Vandalous imp nie żyją. Zdaj raport Lululo na Złotym Bazarze." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_03", "hash": "0122430EE1BE0D07", "target": "Lululo nadal martwi się brakiem postępów z powodu okolicznych bestii. Jest przekonana, że do rozpoczęcia wydobycia zostało jeszcze sporo czasu." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_00", "hash": "39A1ED0729F892A8", "target": "Zabić vandalous imp" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_01", "hash": "5775279FDFEE61BC", "target": "Zdać raport Lululo" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_1", "hash": "A81EE83824BAB287", "target": "Myślałam, że górnicy to twarde, zahartowane dusze. Nie miałam pojęcia, że mogą być tacy tchórzliwi! <if(gnum4,Pani wygląda,Pan wygląda)> na kogoś, kto potrafi o siebie zadbać. Zechce <if(gnum4,pani,pan)> zabić kilka szkodników dla pewnej damy rasy Lalafell?" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_2", "hash": "12AB3517FC38F55C", "target": "<italic(1)>Powinnam<italic(0)> kierować poszukiwaniami złóż mythrilu w ruinach na wschodzie. Ale kiedy wynajęci górnicy zobaczyli w okolicy vandalous imp, wszyscy podkulili ogony i uciekli." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_3", "hash": "16F0F52F4564DA37", "target": "Proszę zabić dla mnie kilka paskud. Cztery martwe impy powinny odstraszyć resztę i uspokoić górników." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_10", "hash": "D38FD35458B3C5F5", "target": "Wy, poszukiwacze przygód, ciągle dowodzicie swej wartości. Teraz mogę zagonić tchórzliwych górników do jedynego, do czego się nadają─kopania!" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_11", "hash": "2ABDC275E2B63B4E", "target": "Żyły mythrilu to wciąż tylko pogłoski, ale jeśli każdy górnik ucieka na widok zagrożenia, nigdy nie poznamy prawdy. Może będę musiała regularnie <if(gnum4,panią,pana)> zatrudniać do tępienia tych przeklętych impów." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_12", "hash": "702670F5254CD1F3", "target": "\\<wzdycha> Obawiam się, że do rozpoczęcia prawdziwego wydobycia jeszcze daleka droga." }
   ]
 }

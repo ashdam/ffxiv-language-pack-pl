@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz804_01934",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "" }
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "Feltsmox z irytacją wpatruje się w rzekę." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "Feltsmox wciąż nie udaje się nic złowić. Zdobyte przez ciebie oczy zwierząt wildebeest to świetna przynęta, która powinna wabić ryby z odległości wielu malmów, a jednak nie ma ani jednego brania. Najwyraźniej ryby zamieszkujące rzekę płoszą ważki damselfly krążące przy brzegu. Zabij pięć, żeby ryby mogły poczuć się bezpiecznie i wrócić." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "Po zabiciu ważek damselfly powietrza nie wypełnia już nieustanny brzęk ich skrzydeł. Oby ta błoga cisza przyciągnęła ryby, które szukają ucieczki od panującego gdzie indziej zgiełku. Wróć do Feltsmox i daj jej znać, że nie łowi już w pustej rzece." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "Feltsmox docenia twoje starania, ale mimo rozprawienia się z ważkami damselfly nadal nie może złowić żadnej ryby. Nie zamierza się jednak poddawać i postanawia od nowa przemyśleć swój sposób łowienia." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "Zabić ważki damselfly" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "Zdać sprawę Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "Pszsz... Szkoo...<br>Feltsmox wciąż nie łowi ryb! Z przynętą wszystko dobrze... Coś musi płoszyć ryby." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "Ważki damselfly! Ich skrzydłobrzęczenie musi odstraszać ryby!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "Proszę, <if(gnum4,wierzchniaczko,wierzchniaku)>, zabij te hałaśliwe bestie! Zabij pięć pobliskich ważek damselfly, żeby Feltsmox mogła łowić w spokoju!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "Feltsmox wciąż nie łowi ryb! Ważki damselfly je płoszą. Zabij pięć, proszę." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "Pszsz... Szkoo...<br>Ważki damselfly już zabite? Dziękuję, ale Feltsmox wciąż nie łowi ryb!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "Problem z przynętą? A może z rybomiejscem? Feltsmox musi przemyśleć ryboplan..." }
   ]
 }

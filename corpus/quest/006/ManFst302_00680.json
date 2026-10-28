@@ -38,7 +38,7 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_29", "hash": "23AED422B4ACE9A4", "target": "Najprawdopodobniej na pokładzie byli cywile, a jeśli meldunki są ścisłe, statek spadł niebezpiecznie blisko terenów zajętych przez Garleańczyków." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_30", "hash": "4039D2521340ACDE", "target": "Proszę czym prędzej ruszyć na południowy wschód od Dziewięciu Bluszczy, odnaleźć statek i sprawdzić, co z pasażerami." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_40", "hash": "8806173B4F5314E3", "target": "Statek spadł podobno gdzieś na południowy wschód od Dziewięciu Bluszczy. Proszę tam ruszyć bez zwłoki i sprawdzić, co z pasażerami." },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "Obowiązek wzywa. Czy rozpocząć<br>„The Company You Keep (Twin Adder)”?" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Twoja kompania (Zakon Dwóch Żmij)”?" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_1", "hash": "C06A547D34D43BA6", "target": "Tak" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_2", "hash": "132FD0F9629ED79D", "target": "Nie" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_40", "hash": "558CDAD53D5F85D5", "target": "<if(gnum4,Poszukiwaczka przygód,Poszukiwacz przygód)>?! Co ty tu robisz? Nie, czekaj─najpierw znajdźmy jakąś osłonę..." },

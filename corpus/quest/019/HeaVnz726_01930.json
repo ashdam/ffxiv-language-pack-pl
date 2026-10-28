@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz726_01930",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "Vath fleetfoot patrzy na ciebie wyczekująco." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "Vath fleetfoot niepokoi się wieściami o zbliżającym się ataku Gnathów na Loth ast Vath. Plemię Vath nie jest gotowe stawić czoła otwartej, zmasowanej ofensywie znacznie liczniejszej kolonii Gnathów. Jedyną szansą jest uderzenie wyprzedzające, które osłabi wroga, zanim ten zakończy mobilizację." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "Zabijasz wskazanych Gnathów, miejmy nadzieję, udaremniając ich plany ataku na Vath. Wróć do Vath fleetfoot i zgłoś wykonanie misji." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "Vath fleetfoot gratuluje ci udanej misji i wyjaśnia, skąd wiedział o planowanym ataku. Choć Odłączeni z plemienia Vath nie słyszą myśli Wspólnego Umysłu Gnathów, ich więź nie została całkiem zerwana, a jedynie bardzo osłabiona. Niektórzy Vath od czasu do czasu wychwytują myśli Wspólnego Umysłu. Najwyraźniej Gnathowie nie wiedzą o tej szczątkowej więzi ani o informacjach, które dzięki niej zdobywają Vath." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "Zabić Gnathów" },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "Zdać sprawę Vath fleetfoot" },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "Niesiemy złe wieści. Dowiedzieliśmy się, że Gnathowie planują niszczycielski atak na Loth ast Vath. Właśnie mobilizują swoje siły." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "Nie wytrzymamy bezpośredniego szturmu. <if(gnum4,Hojna łowczyni,Hojny łowco)>, musimy cię prosić o wyprzedzające uderzenie na Gnathów. Zabij czterech. Osłab ich siły i powstrzymaj atak, zanim się rozpocznie." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "<if(gnum4,Hojna łowczyni,Hojny łowco)>. Zabij, proszę, czterech Gnathów. Nie przetrwamy bezpośredniego szturmu ich kolonii." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "Poszło tak dobrze, jak tylko mogliśmy mieć nadzieję. Twoje uderzenie wyprzedzające zmusiło ich do obrony. Dziękujemy ci." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "Wszyscy Gnathowie słyszą nawzajem swoje myśli, a my, którzy tu mieszkamy─Vath─nie. Nie znaczy to jednak, że <italic(1)>nigdy<italic(0)> nie słyszymy cudzych myśli. Więź ze Wspólnym Umysłem nie została całkiem zerwana." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "Niektórzy z nas czasem wychwytują myśli Wspólnego Umysłu. Podejrzewamy, że oni nie wiedzą, iż od czasu do czasu poznajemy ich plany." }
   ]
 }

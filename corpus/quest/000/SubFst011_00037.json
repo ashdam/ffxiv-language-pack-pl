@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst011_00037",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_00", "hash": "7F5B583C067D9504", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_01", "hash": "4A91C58B5E45E1C0", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_02", "hash": "091D1C6549CED891", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_03", "hash": "EF566E26DC2FDEE4", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_00", "hash": "D24B5EAE4A1B4BC1", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_01", "hash": "5A0424F1EE186FAC", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_1", "hash": "49BE1D1DDB855CAF", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_2", "hash": "ED426E27B3893801", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_3", "hash": "63583D2D69CC744E", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_4", "hash": "0063F71865680921", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_5", "hash": "E2F9F013F74E8787", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_10", "hash": "DD3E30898CDFE640", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_11", "hash": "E0C26800F9DA25ED", "target": "" }
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_00", "hash": "7F5B583C067D9504", "target": "Chansteloup z Kołczanu Bogów wystawia poszukiwaczy przygód na próbę, wysyłając ich do walki ze stworzeniami forest funguar." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_01", "hash": "4A91C58B5E45E1C0", "target": "Z nieznanych przyczyn stworzenia forest funguar z Central Shroud rozmnażają się poza sezonem, pozostawiając gęste chmury zarodników, które duszą życie lasu. Dowiedź strażnikowi Chansteloup swojej wartości, zabijając sześć tych paskudnych roślinnych stworzeń." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_02", "hash": "091D1C6549CED891", "target": "Po zabiciu sześciu stworzeń forest funguar oddychasz głęboko czystym leśnym powietrzem. Zanieś wieści o swoich czynach strażnikowi Chansteloup, który czeka przed Gildią Łuczników w Gridanii." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_03", "hash": "EF566E26DC2FDEE4", "target": "Wysłuchawszy opowieści o twoim zwycięstwie nad roślinnymi stworzeniami, Chansteloup niechętnie przyznaje, że masz potencjał. Z nową otuchą zwracasz się ku przyszłym wyzwaniom." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_00", "hash": "D24B5EAE4A1B4BC1", "target": "Zabić forest funguars" },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_01", "hash": "5A0424F1EE186FAC", "target": "Złożyć raport strażnikowi Chansteloup" },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_1", "hash": "49BE1D1DDB855CAF", "target": "Zwykle stworzenia forest funguar zamieszkujące Central Shroud są co najwyżej utrapieniem." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_2", "hash": "ED426E27B3893801", "target": "Jednak otrzymaliśmy doniesienia, że ogromne chmury ich zarodników uczyniły części Lasu Dwunastu nieprzebytymi, a do tego zniszczyły uprawy." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_3", "hash": "63583D2D69CC744E", "target": "Okresowo przerzedzamy populację funguarów, by temu zapobiec, ale stworzenia zaczęły rozmnażać się poza sezonem. Coraz trudniej utrzymać ich liczebność w ryzach." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_4", "hash": "0063F71865680921", "target": "Choć to niepokojący rozwój wydarzeń, Kołczan Bogów ma pilniejsze sprawy i nie może tracić czasu na walkę z funguarami." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_5", "hash": "E2F9F013F74E8787", "target": "Jeśli chcesz się wykazać, udaj się do Central Shroud i zabij sześć tych szkodników. Zachowaj ostrożność i atakuj je pojedynczo, by twoja kariera <if(gnum4,poszukiwaczki,poszukiwacza)> przygód nie skończyła się rozczarowująco szybko." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_10", "hash": "DD3E30898CDFE640", "target": "No proszę... Wraca <if(gnum4,początkująca poszukiwaczka,początkujący poszukiwacz)> przygód─i na oko w całkiem dobrym stanie. Ha! Może jeszcze będziesz pożytkiem dla tego kraju." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_11", "hash": "E0C26800F9DA25ED", "target": "W imieniu Gridanii dziękuję." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz922_01987",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_00", "hash": "D827A9FEB5A76C1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_01", "hash": "4FFCAB5937271833", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_02", "hash": "1865DFCD07133C81", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_03", "hash": "6673DEF8980A538F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_00", "hash": "D3CAFB9263708F7C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_01", "hash": "199CB8059A82EDBD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000", "hash": "B192CD2F17B89131", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_001", "hash": "B0EE06EFAAD71A76", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010", "hash": "BF78CD1ED01E9BBF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020", "hash": "0D72F2ADC85FF39C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_021", "hash": "47E23D70433D65DC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_00", "hash": "D827A9FEB5A76C1C", "target": "Allagański węzeł logistyczny obraca się szaleńczo." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_01", "hash": "4FFCAB5937271833", "target": "Allagański węzeł logistyczny informuje cię, że kilka jednostek przeładunkowych nigdy nie otrzymało polecenia wyłączenia i działa nieprzerwanie od ponad pięciu tysięcy lat. Sam nie może wyłączyć ich zdalnie, więc upoważnia cię do zrobienia tego w jego zastępstwie. Odnajdź i wyłącz cztery maszyny adamantite claw." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_02", "hash": "1865DFCD07133C81", "target": "Maszyny adamantite claw zostały pomyślnie zniszczone. Zgłoś sukces węzłowi logistycznemu." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_03", "hash": "6673DEF8980A538F", "target": "Węzeł logistyczny przypomina ci, że polecił <italic(1)>wyłączyć<italic(0)> niereagujące jednostki, a nie je zniszczyć. W obliczu twoich przestępstw natychmiast cofa wcześniej udzielone upoważnienie." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_00", "hash": "D3CAFB9263708F7C", "target": "Zniszczyć maszyny adamantite claw" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_01", "hash": "199CB8059A82EDBD", "target": "Zdać relację węzłowi logistycznemu" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000", "hash": "B192CD2F17B89131", "target": "Osobo rasy <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, proszę o pomoc! Podsystem przeładunkowy nigdy nie otrzymał polecenia wyłączenia i działa od pięciu tysięcy dwunastu lat, ośmiu miesięcy i dwóch dni." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_001", "hash": "B0EE06EFAAD71A76", "target": "Niestety nie mam bezpośredniej kontroli nad tym podsystemem i nie mogę wydać nadrzędnego polecenia wyłączenia. Ze względu na powagę sytuacji upoważniam cię do wyłączenia odnośnych jednostek. Należy wyłączyć co najmniej cztery maszyny adamantite claw." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010", "hash": "BF78CD1ED01E9BBF", "target": "Osobo rasy <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, proszę odnaleźć i wyłączyć cztery niereagujące maszyny adamantite claw." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020", "hash": "0D72F2ADC85FF39C", "target": "\\<pik> \\<pik> Potwierdzono zniszczenie jednostek przeładunkowych. Osobo rasy <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, upoważnienie dotyczyło wyłączenia tych jednostek. Nie obejmowało ich zniszczenia!" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_021", "hash": "47E23D70433D65DC", "target": "Twoje upoważnienie zostało cofnięte, a przestępstwa zgłoszono centralnemu organowi wymiaru sprawiedliwości." }
   ]
 }

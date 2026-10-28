@@ -28,7 +28,7 @@
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_Q3_000_070", "hash": "5A7AD866F3B46434", "target": "Na pewno chcesz rozstać się z towarzyszami?" },
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_ALPHINAUD_000_071", "hash": "E0ADFA2188E3354A", "target": "O czymś zapominasz? Dobrze, poczekamy przy portalu." },
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_ALPHINAUD_000_075", "hash": "2CB86B60776FBF84", "target": "Tak, idźmy dalej. Jeden pewny krok za drugim, aż dotrzemy do Meteion." },
-    { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_SYSTEM_000_080", "hash": "4E9A84E0B74E2141", "target": "Twoi towarzysze jeszcze nie dotarli. Zanim spróbujesz iść dalej, upewnij się, że są u twojego boku." },
+    { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_SYSTEM_000_080", "hash": "4E9A84E0B74E2141", "target": "Twoi towarzysze jeszcze nie dotarli. Zanim spróbujesz kontynuować, upewnij się, że są przy tobie." },
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_ALISAIE_000_090", "hash": "81F99680B0A666B7", "target": "Powinniśmy ruszać dalej. Pójdziesz powiedzieć Alphinaudowi?" },
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_SYSTEM_000_091", "hash": "25957E8C74F10DA5", "target": "Przed wyruszeniem poproś Alphinauda, by ci towarzyszył." },
     { "gameKey": "quest/044/AktKmg113_04462#TEXT_AKTKMG113_04462_ALISAIE_000_100", "hash": "6C9613A987A451B2", "target": "To przyjaciele doprowadzili nas tak daleko. Ich odwaga i siła. Ich mądrość. Ich miłość." },

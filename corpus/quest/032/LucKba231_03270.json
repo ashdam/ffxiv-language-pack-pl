@@ -16,7 +16,7 @@
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_TODO_03", "hash": "95AC2F5EA0AC6392", "target": "Złożyć raport Giott" },
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_TODO_04", "hash": "5CE53EF9FAEBE2B4", "target": "Porozmawiać z Giott" },
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_TODO_05", "hash": "D8936B6C6FDA90AC", "target": "Porozmawiać z Giott w Wędrownych Schodach" },
-    { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_SYSTEM_100_001", "hash": "8B96060492B41BCC", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Into the Wood”." },
+    { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_SYSTEM_100_001", "hash": "8B96060492B41BCC", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „W las”." },
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_GIOTT_000_001", "hash": "299CDF7BAB7564D1", "target": "\\<łyka> \\<łyka> \\<łyka> \\<łyka> \\<łyka>" },
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_GIOTT_000_002", "hash": "0CAF639128BE7272", "target": "Lali-ho! Zapytałabym, czy wpadasz na kufelek, ale wiem, że nie. Masz tę poważną minę─jak zwykle." },
     { "gameKey": "quest/032/LucKba231_03270#TEXT_LUCKBA231_03270_GIOTT_000_003", "hash": "1B1406146C06D95E", "target": "A <italic(1)>ja<italic(0)> mam tu to, co zwykle. Właściwie już piątą kolejkę! Ha!" },

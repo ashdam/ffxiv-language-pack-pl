@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz627_01895",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_00", "hash": "F0959DC81993DAD0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_01", "hash": "B2918F0FB58C3160", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_02", "hash": "33E3312DCB7A6D1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_03", "hash": "A482B821378E6E8B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_00", "hash": "6DBF6705352388EF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_01", "hash": "2302BECAC90FD206", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_000", "hash": "6D9A16EBEF6F35DA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_001", "hash": "6984C8DE6A0AC538", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_010", "hash": "611071482F7E1B11", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_020", "hash": "B2475F7A4D1060FF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_021", "hash": "5427C148CE148C44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_022", "hash": "025F11E12BDEAB05", "target": "" }
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_00", "hash": "F0959DC81993DAD0", "target": "Jantellot najwyraźniej coś knuje." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_01", "hash": "B2918F0FB58C3160", "target": "Jantellot wymyślił niezwykły plan, lecz potrzebuje twojej pomocy w jego realizacji. Masz udać się w Łupkowe Góry i zabić cztery vindthurs─choć nie wyjaśnił jeszcze dlaczego." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_02", "hash": "33E3312DCB7A6D1B", "target": "Bez zadawania pytań wybijasz vindthurs. Jantellot z pewnością ucieszy się z tych wieści..." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_03", "hash": "A482B821378E6E8B", "target": "Wracasz do Jantellota i donosisz o zwycięstwie nad vindthurs. Zdradza ci, że zamierza zabrać z gór zamarznięte smocze zwłoki i przedstawić je jako własne zdobycze. Zaczynasz wątpić w rozsądek tego planu... i jego autora." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_00", "hash": "6DBF6705352388EF", "target": "Pokonać vindthurs" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_01", "hash": "2302BECAC90FD206", "target": "Zdać sprawę Jantellotowi" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_000", "hash": "6D9A16EBEF6F35DA", "target": "Och, dobrze cię widzieć! Wiesz, właśnie <if([gnum11<12],<if([gnum11<4],dziś rano,zeszłej nocy)>,<if([gnum11<17],dziś rano,dziś rano)>)> wpadłem na genialny pomysł... A twoja pomoc jest mi <italic(1)>właśnie<italic(0)> potrzebna w jego realizacji!" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_001", "hash": "6984C8DE6A0AC538", "target": "Idź w Łupkowe Góry i zabij dla mnie kilka vindthurs. Cztery powinny wystarczyć." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_010", "hash": "611071482F7E1B11", "target": "Pamiętaj: Łupkowe Góry, cztery vindthurs. Wszystko wyjaśni się w swoim czasie." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_020", "hash": "B2475F7A4D1060FF", "target": "Już udało ci się je zabić? Wiedziałem, że mogę na ciebie liczyć! Skoro te stworzenia zeszły z drogi, mogę przejść do następnego etapu planu!" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_021", "hash": "5427C148CE148C44", "target": "Góry są pełne zamarzniętych smoczych zwłok─doskonale zachowanych! Gdy je rozmrożę, bez trudu przekonam wszystkich, że zabiłem je własnoręcznie. Okrzykną mnie największym pogromcą smoków w całej krainie!" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_022", "hash": "025F11E12BDEAB05", "target": "Tylko czekajcie, nadęci szlachcice! Ja wam pokażę! Wszystkim wam pokażę! Młahahahaha!" }
   ]
 }

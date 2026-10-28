@@ -18,7 +18,7 @@
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_04", "hash": "FC6EA7CD08A00FD8", "target": "Porozmawiać z T'laqą Tią" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_05", "hash": "B52D52D2808ABE68", "target": "<if([lnum1<lnum2],Złowić Alnairan salmon w Ksirodzie,Dostarczyć Alnairan salmon T'lace Tii)>" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_06", "hash": "ABD1A087D199F348", "target": "Porozmawiać z T'laqą Tią w Zgromadzeniu Poszukiwaczy" },
-    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_001", "hash": "28ECDE95E852D1C7", "target": "Aby kontynuować tę misję, musisz najpierw ukończyć misję głównego scenariusza „At World's End”." },
+    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_001", "hash": "28ECDE95E852D1C7", "target": "Aby kontynuować tę misję, musisz najpierw ukończyć misję głównego scenariusza „Na końcu świata”." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_000_010", "hash": "1CA4237234B42ED6", "target": "Dzięki twojej bezinteresownej pomocy coraz bardziej zbliżam się do udowodnienia hipotezy. Inni zbieracze też mi pomagają, dostarczając kolejne okazy ze spokojniejszych wód." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_100_010", "hash": "29A0569EA2868E65", "target": "Chciałbym jednak gromadzić dane z coraz dalszych miejsc. I tu oczywiście wkraczasz ty..." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_AUBRACIE_000_011", "hash": "700BB55178779650", "target": "Profesorze!" },
@@ -122,6 +122,6 @@
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_100_117", "hash": "93B4CB896792712E", "target": "Och, małej wiary! <if(gnum4,Nasza przyjaciółka,Nasz przyjaciel)> z pewnością podoła. Prawda, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_NELE_000_119", "hash": "B636965A01442508", "target": "Hahaha! I o to chodzi, T'laqa. Dobry uczony musi rozważać każdą możliwość, nawet pozornie niemożliwą. Myśl dalej, a z pewnością wkrótce znajdziesz odpowiedź." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_120", "hash": "47BECDD4C006DF08", "target": "Kolejna misja u T'laqi Tii będzie dostępna po osiągnięciu 88. poz. w klasie Fisher." },
-    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_121", "hash": "F45E1E281212159E", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „Thou Must Live, Die, and Know”." }
+    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_121", "hash": "F45E1E281212159E", "target": "Aby rozpocząć kolejną misję, musisz najpierw ukończyć misję głównego scenariusza „Musisz żyć, umrzeć i zrozumieć”." }
   ]
 }

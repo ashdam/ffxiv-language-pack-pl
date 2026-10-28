@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzh004_04299",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_003", "hash": "6BB57668C5EB66AB", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_005", "hash": "FE1118266EED7A3A", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_006", "hash": "E070CA11EF81E301", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_007", "hash": "4A3AB1DD16356624", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_008", "hash": "B4ADDF510DC89838", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_009", "hash": "B815764A91610B5F", "target": "" }
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Pełen entuzjazmu obserwator potrzebuje pomocy w odzyskaniu zaginionych roślin." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "Zebrać kępki malwy chmurowej" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Dostarczyć kępki malwy chmurowej pełnemu entuzjazmu obserwatorowi" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "Co za widok! Ampelos kichnął i rozdmuchał kępki malwy chmurowej na wszystkie strony." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "To było bardzo zabawne, ale sam nigdy ich wszystkich nie pozbieram... chyba że zechcesz mi pomóc?" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "Bardzo dziękuję! Rozdzielmy się i zacznijmy szukać." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_003", "hash": "6BB57668C5EB66AB", "target": "Wypatruj puszystych, białych roślin unoszących się wokół Poieten Oikos. Przynieś tu wszystkie, które znajdziesz." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_005", "hash": "FE1118266EED7A3A", "target": "Udało ci się znaleźć jakieś rośliny?" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_006", "hash": "E070CA11EF81E301", "target": "Doskonale! Co za ulga, że znów są tutaj..." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_007", "hash": "4A3AB1DD16356624", "target": "Pewien raczej niedoświadczony twórca opracował tę koncepcję, by wprowadzić więcej życia w chmury. To piękny zamiar, ale te rośliny zbyt łatwo daje się zdmuchnąć." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_008", "hash": "B4ADDF510DC89838", "target": "Przydałaby im się większa odporność na wiatr... Musimy wiedzieć, że potrafią osiąść w jednym miejscu i nie odlecą, gdy jakaś bestia mocniej na nie chuchnie." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_009", "hash": "B815764A91610B5F", "target": "Lepiej odniosę je tam, gdzie ich miejsce, zanim lekki wietrzyk zniweczy twoją ciężką pracę. Proszę, przyjmij to w podzięce za pomoc." }
   ]
 }

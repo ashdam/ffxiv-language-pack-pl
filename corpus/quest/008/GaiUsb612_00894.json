@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb612_00894",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "Stephannot nie darzy poszukiwaczy przygód sympatią, ale kto prosi, nie wybiera, a twoja pomoc jest pilnie potrzebna." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "Jeden z młodych rekrutów strażnika Stephannot zaginął po wyruszeniu do Obozu Smoczy Łeb. Zapewne zabłądził na północnym trakcie, gdzie dzikie stworzenia czasem polują na łatwą zdobycz. Podążaj jego śladem, póki jest świeży." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "Po brutalnej walce, w której omal nie tracisz <if(gnum4,źródła swego zawadiackiego uroku,najcenniejszego przyrodzenia)>, krokodyl ginie. Jak przystało na dobrego tropiciela, przeszukujesz ciało i znajdujesz porysowany srebrzysty pierścień, najmniej makabryczny spośród zawartości jego trzewi. Dostarcz go strażnikowi Stephannot." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "Stephannot potwierdza, że pierścień należał do młodego rekruta. Zaskakuje cię jego początkowa niechęć do przyjęcia oczywistej prawdy, bo sprawiał wrażenie człowieka praktycznego. Najwyraźniej w Ishgardzie pożarcie przez ssaka okrywa zjedzonego hańbą..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "Podążyć śladem rekruta" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "Dostarczyć pierścień strażnikowi Stephannot" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "Powinien już wrócić, nawet gdyby musiał przeczekać najgorszą zamieć. Czy mógł zboczyć na północny trakt? Tam grasują stworzenia feral croc..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "Ekhm... Potrzebuję pomocy. Wysłałem gońca do Obozu Smoczy Łeb, ale spóźnia się już wiele godzin. Obawiam się, że zabłądził, taki z niego świeży rekrut. Prosiłbym cię o sprowadzenie go z powrotem." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "Ach, to ty. Gdzie ten głupiec? Jeśli coś mu odmroziło, może winić tylko siebie." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "To pierścień chłopca. Co to ma znaczyć? Feral croc... Masz pewność? Mógł go po prostu zgubić! Nie będę słuchał domysłów, gdy chodzi o honor chłopca... co? Tak. Był rudy. Och, na litość Halone..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "To był dobry chłopak, palił się do udziału w wojnie ze smokami. A zginął tak haniebnie... Nie mogę powiedzieć jego ojcu, ale okłamać innego rycerza w sprawie jego własnego syna─to więcej, niż potrafię teraz rozstrzygnąć." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "Wyczuwasz szybkie, potężne stworzenie!" }
   ]
 }

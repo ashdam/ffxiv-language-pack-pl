@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzc104_05074",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc104_05074#TEXT_KINGZC104_05074_SEQ_00", "hash": "2EBA7B006BA43DEE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Vendavoq jest w popłochu." },
+    { "gameKey": "quest/050/KinGzc104_05074#TEXT_KINGZC104_05074_SEQ_00", "hash": "2EBA7B006BA43DEE", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Vendavoq jest w popłochu." },
     { "gameKey": "quest/050/KinGzc104_05074#TEXT_KINGZC104_05074_TODO_00", "hash": "A0C2FFAA43A4619A", "target": "Porozmawiaj z niesfornym rzemieślnikiem." },
     { "gameKey": "quest/050/KinGzc104_05074#TEXT_KINGZC104_05074_TODO_01", "hash": "A867E06AFDB0A391", "target": "Ponownie porozmawiaj z niesfornym rzemieślnikiem." },
     { "gameKey": "quest/050/KinGzc104_05074#TEXT_KINGZC104_05074_TODO_02", "hash": "E8B3C2B045B625B3", "target": "Podążaj za niesfornym rzemieślnikiem i zapewnij mu bezpieczeństwo." },

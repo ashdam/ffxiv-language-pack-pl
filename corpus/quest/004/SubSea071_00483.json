@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea071_00483",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "" }
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "Arenlona znalazła się w małym kłopocie." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "Arenlona prosi o skropienie lawendy Althyka nektarem mszyc, by zwabić małe biedronki, a następnie rozgniecenie ich i zebranie trzech fiolek wnętrzności." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "Masz już dość biedronkowych wnętrzności. Dostarcz je Arenlonie." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "Arenlona wyjaśnia, że biedronki są naturalnymi wrogami mszyc, więc ich wnętrzności odstraszą szkodniki. Zapewnia, że to wszystko ma naukowe podstawy." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "Skropić lawendę Althyka nektarem mszyc i zdobyć trzy fiolki biedronkowych wnętrzności" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "Dostarczyć biedronkowe wnętrzności Arenlonie" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "Masz ochotę wziąć udział w niepowstrzymanym marszu nauki?" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "Mikstura, którą właśnie opracowuję, może odmienić oblicze ogrodnictwa! Wyobraź sobie płyn, którym wystarczy skropić uprawy, by odpędzić szkodniki." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "Potrzebuję tylko paru biedronek i kogoś, kto je rozgniecie." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "Biedronki nie potrafią oprzeć się mszycom. Znajdź lawendę Althyka, skrop ją nektarem mszyc, a same zlecą się na rzeź." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "Wróć do mnie, gdy zbierzesz trzy fiolki biedronkowych wnętrzności." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "To naprawdę proste. Mszyce boją się biedronek, więc zapach biedronkowej krwi na uprawach z pewnością odpędzi pasożyty. Manipulujemy prawami natury." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "Oczywiście moglibyśmy pozwolić biedronkom dalej bronić upraw, zamiast rozgniatać je dla wnętrzności, ale nie widzę w tym zbyt wiele nauki." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

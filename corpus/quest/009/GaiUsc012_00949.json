@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc012_00949",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_00", "hash": "99D2D5897EA392BC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_01", "hash": "0078A94A13543EEA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_02", "hash": "EED2E053527CD960", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_03", "hash": "E410D2E3BA38B247", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_00", "hash": "56B18F0DC9665CB8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_01", "hash": "2161F4F2732B6F8E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_000", "hash": "1C7061108D51161A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_001", "hash": "5DD58B8219320698", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_002", "hash": "4F57894AA75C1775", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_NPCA_000_010", "hash": "47B4606ACE3322E5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_030", "hash": "E878376B3D26A2B2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_031", "hash": "8AFB34FBA29CC8A1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_POP_MESSAGE_000", "hash": "E9927F20BA8EC64B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_ACCESS_MESSAGE", "hash": "99FDEF278F139169", "target": "" }
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_00", "hash": "99D2D5897EA392BC", "target": "Ourdilic szuka pomocy przy akcji ratunkowej." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_01", "hash": "0078A94A13543EEA", "target": "Jeden z badaczy w Snowcloak nie wrócił ze zbierania próbek lodu. Słynie z przyciągania ice sprite. Ourdilic prosi cię o znalezienie pechowca i w razie potrzeby uratowanie go przed napastnikami." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_02", "hash": "EED2E053527CD960", "target": "Ourdilic wykazuje się imponującą trafnością przypuszczeń: znajdujesz bladego badacza kulącego się przed ice sprite. Stwór już nie żyje, a tobie udaje się uwolnić od wylewnych podziękowań badacza. Złóż meldunek Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_03", "hash": "E410D2E3BA38B247", "target": "Ourdilic też ma dobrą wiadomość: zdusiła w zarodku nadzieje badacza na <if(gnum4,romans,braterską przyjaźń)>. Szczęśliwe zakończenie dla wszystkich─poza ice sprite, rzecz jasna." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_00", "hash": "56B18F0DC9665CB8", "target": "Uratować badacza" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_01", "hash": "2161F4F2732B6F8E", "target": "Złożyć meldunek Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_000", "hash": "1C7061108D51161A", "target": "Badania w Snowcloak nigdy nie przebiegały gładko. Choćby te ice sprite, wciąż nas dręczą." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_001", "hash": "5DD58B8219320698", "target": "Podejrzewam, że odpowiadają i za nasz najnowszy problem─badacz wysłany po próbki z odwiertów spóźnia się z powrotem do obozu." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_002", "hash": "4F57894AA75C1775", "target": "Te stworzenia szczególnie lubią dręczyć niektórych ludzi, a on właśnie do nich należy. Pospieszysz mu na ratunek?" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_NPCA_000_010", "hash": "47B4606ACE3322E5", "target": "<if(gnum4,Uratowałaś,Uratowałeś)> mi <italic(1)>życie<italic(0)>! <if(gnum4,Chyba się w tobie zakochałem!,Jesteś moim najlepszym przyjacielem!)> Wróćmy do obozu razem─och, najpierw czeka cię coś niebezpiecznego? No dobrze. To... do zobaczenia!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_030", "hash": "E878376B3D26A2B2", "target": "Witaj z powrotem, <split(<string(gstr1)>, ,1)>. Właśnie rozmawiałam z tym bladawcem. Upewniłam się też, że rozumie, jak <if(gnum4,zajętą jesteś kobietą,zajętym jesteś mężczyzną)>." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_031", "hash": "8AFB34FBA29CC8A1", "target": "Dzięki tobie my też możemy zająć się misją! Trudności wciąż będzie wiele, lecz z twoją pomocą <italic(1)>znajdziemy<italic(0)> przejście przez lodowy mur!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_POP_MESSAGE_000", "hash": "E9927F20BA8EC64B", "target": "Czujesz nagły chłód w powietrzu!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_ACCESS_MESSAGE", "hash": "99FDEF278F139169", "target": "Żywiołak wciąż żyje!" }
   ]
 }

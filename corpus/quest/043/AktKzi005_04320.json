@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_SEQ_00", "hash": "F2180DF40603D10C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zbieracz rasy Viera przygląda ci się z zainteresowaniem." },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Porozmawiaj z operatorem reaktora żywiołów." },
+    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Porozmawiać z operatorem reaktora żywiołów" },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_01", "hash": "F9852C26ECFB7CDE", "target": "Użyj /pray przed kryształem latarni." },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_02", "hash": "39DF9EA326175B21", "target": "Dostarcz kryształ latarni zbieraczowi rasy Viera." },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_GLEANER04320_000_000", "hash": "FEDE97EEA7FEE021", "target": "Odwiedzasz Sharlayan, prawda? Wyglądasz na osobę obytą w świecie..." },

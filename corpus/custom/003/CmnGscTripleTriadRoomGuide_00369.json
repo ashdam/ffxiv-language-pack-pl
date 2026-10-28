@@ -2,8 +2,8 @@
   "conversation": "custom/003/CmnGscTripleTriadRoomGuide_00369",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_001", "hash": "732910188ABB561A", "target": "" },
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_002", "hash": "8EB5D17D39673251", "target": "" },
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_003", "hash": "DA6AE5B852B630BF", "target": "" }
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_001", "hash": "732910188ABB561A", "target": "Witamy w Triple Triad Battlehall, gdzie miłośnicy Triple Triad ze wszystkich zakątków Eorzei zbierają się dniem i nocą, by mierzyć się w jednych z najbardziej porywających karcianych pojedynków, jakie widziała nasza kraina!" },
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_002", "hash": "8EB5D17D39673251", "target": "Oczywiście można bezpośrednio wyzywać innych poszukiwaczy przygód albo─jeśli woli <if(gnum4,pani,pan)> mniej bezpośrednie podejście─bezpłatnie skorzystać z wygodnej usługi dobierania przeciwników!" },
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_003", "hash": "DA6AE5B852B630BF", "target": "Jeśli chce <if(gnum4,pani,pan)> dowiedzieć się więcej, jedna z osób obsługujących salę chętnie udzieli wszelkich potrzebnych informacji. Oby pojedynki były zacięte i owocne!" }
   ]
 }

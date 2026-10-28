@@ -2,17 +2,17 @@
   "conversation": "custom/003/RegGyr3AlaGannha_00397",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_000", "hash": "C9BEEEA5642FA4AC", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_Q1_000_000", "hash": "B731966E2EBFF8F6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_002", "hash": "45E7D14A9962198E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_003", "hash": "68EE915EFFB2637E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_010", "hash": "2BDAC96DADCC364E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_011", "hash": "19A6512DBC3796BF", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_012", "hash": "3E7035E19C25B645", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_020", "hash": "CF525CBE151FDB68", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_021", "hash": "C7C2B7AE806609DB", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_022", "hash": "755017BF0956C6B0", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_023", "hash": "D8FE53226711BC71", "target": "" }
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_000", "hash": "C9BEEEA5642FA4AC", "target": "Nieczęsto mamy gości, ale witaj serdecznie, <if(gnum4,dziewczyno,chłopcze)>! Może przychodzisz kupić kamień?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_Q1_000_000", "hash": "B731966E2EBFF8F6", "target": "O co zapytasz?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "Co tu robisz?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_002", "hash": "45E7D14A9962198E", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_003", "hash": "68EE915EFFB2637E", "target": "O nic." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_010", "hash": "2BDAC96DADCC364E", "target": "Ja? Szczerze mówiąc, niewiele. Jestem zwykłą mieszkanką krainy Ala Mhigo, urodzoną i wychowaną w osadzie Ala Gannha." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_011", "hash": "19A6512DBC3796BF", "target": "Byłam tu na dobre i na złe. Byłam, gdy miasto kwitło dzięki kamieniołomowi, byłam, gdy cierpieliśmy pod rządami szalonego króla, i możesz się założyć, że byłam tu, kiedy Imperium zagarnęło nasze miasto." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_012", "hash": "3E7035E19C25B645", "target": "Mój kochany mąż zniszczył sobie płuca pracą w kamieniołomie i odszedł wraz z przemysłem, z którym niegdyś związał życie. Nie mam już łez do wylania." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_020", "hash": "CF525CBE151FDB68", "target": "Ala Gannha była niegdyś kwitnącą osadą kamieniarską. Mieliśmy najlepszy kamień i najlepszych kamieniarzy─wioska dostarczała nawet kamień do budowy pałacu Royal Palace." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_021", "hash": "C7C2B7AE806609DB", "target": "Z daleka i bliska przybywało tu mnóstwo ludzi, żeby dorobić się fortuny." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_022", "hash": "755017BF0956C6B0", "target": "Ale kiedy najechało nas Imperium, kamień wyszedł z mody i wszędzie wyrosły zimne, surowe budowle z metalu." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_023", "hash": "D8FE53226711BC71", "target": "Dziś walczymy o samo przetrwanie. Większość tutejszych domów sklecono z kamienia zabranego z pozostałości kamieniołomu, a w niektóre dni jedzenia nie starcza nawet na jeden posiłek, nie mówiąc o trzech." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegSeaWineport_00118",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_000", "hash": "B8A050CFFE6F3282", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_010", "hash": "6447404385023861", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_011", "hash": "5BD5631064369A11", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_012", "hash": "80E9966AFA1C8F24", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_020", "hash": "6B34CEE4A91AC202", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_021", "hash": "A85881F0E5EF6478", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_022", "hash": "278426C3977A631C", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_Q1_000_000", "hash": "171AA4CC70C99392", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_001", "hash": "83446C037A990F93", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_002", "hash": "60FF6A4FD6A4FA35", "target": "" },
-    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_003", "hash": "05A31E2A75AA0F97", "target": "" }
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_000", "hash": "B8A050CFFE6F3282", "target": "Tak? O co chodzi? W przeciwieństwie do was, poszukiwaczy przygód, nie mam tyle czasu, by marnować go na zamęczanie ludzi niedorzecznymi pytaniami." },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_010", "hash": "6447404385023861", "target": "Nadzoruję wytwarzanie wina w osadzie Wineport. Przypuszczam, że przez <italic(1)>twoje<italic(0)> usta przechodzi jedynie najtańsza lura, niemniej postaram się przybliżyć ci subtelności mojego fachu." },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_011", "hash": "5BD5631064369A11", "target": "Zaczyna się od troskliwie uprawianych i starannie wybranych winogron. Ich soczysty moszcz fermentuje potem w szlachetnych dębowych beczkach, a powstałe wino powoli oddycha i dojrzewa w pieczołowicie utrzymanej piwnicy. Nie znam innego zawodu, który tak sowicie nagradzałby cierpliwość i dbałość o szczegóły." },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_012", "hash": "80E9966AFA1C8F24", "target": "Jeśli zamierzasz skosztować wyrobów naszej osady Wineport, muszę mieć pewność, że docenisz każdą kroplę─od pierwszej do ostatniej. Nie obsługujemy nieokrzesanych prostaków, którzy tylko żłopią gorzałę, aż zwrócą kolację do najbliższego rynsztoka! Tacy klienci dla mnie nie istnieją!" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_020", "hash": "6B34CEE4A91AC202", "target": "To właśnie tutaj powstają najlepsze wina w całej La Noscei... ba, w całej Eorzei!" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_021", "hash": "A85881F0E5EF6478", "target": "Łączymy najwspanialsze winogrona, jakimi obdarza nas natura, z najczystszą wodą ze studni, by rok po roku tworzyć nagradzane roczniki." },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_BYRGLENT_000_022", "hash": "278426C3977A631C", "target": "Nie popełnij tylko błędu i nie stawiaj nas na równi z Aleportem─choć nazwy mogą być podobne, pod względem jakości trunków to dwa różne światy!" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_Q1_000_000", "hash": "171AA4CC70C99392", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_001", "hash": "83446C037A990F93", "target": "Co tu robisz?" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_002", "hash": "60FF6A4FD6A4FA35", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegSeaWineport_00118#TEXT_REGSEAWINEPORT_00118_A1_000_003", "hash": "05A31E2A75AA0F97", "target": "Nic." }
   ]
 }

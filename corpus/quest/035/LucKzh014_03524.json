@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzh014_03524",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_00", "hash": "6287CB27E2F988EA", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_001", "hash": "52BD43E225974D06", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_003", "hash": "283C4B50FCEBEE4D", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_004", "hash": "573FE25329BD7625", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_005", "hash": "499D80F85B62D6D7", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_006", "hash": "750A99829311FB96", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_100_010", "hash": "CF0D9EF309B32F2E", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_010", "hash": "A13005342D7B9815", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_011", "hash": "68A2E6FF27BAA9DE", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_012", "hash": "583C63EEEDA77FA8", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_013", "hash": "3FE7BC8BFFEFDBCF", "target": "" }
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Wytworna dama zgubiła coś niezwykle ważnego." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_00", "hash": "6287CB27E2F988EA", "target": "Poszukać zaginionej biżuterii" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "Zwrócić biżuterię wytwornej damie" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_001", "hash": "52BD43E225974D06", "target": "Proszę wybaczyć, że się narzucam, ale rozpaczliwie potrzebuję pomocy. W tym zamieszaniu zgubiłam kilka klejnotów szczególnie bliskich mojemu sercu i zupełnie nie mogę ich znaleźć." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_003", "hash": "283C4B50FCEBEE4D", "target": "Szukam tiary z herbem mojego rodu, grawerowanego naszyjnika i pierścienia z ametystem. Jak nietrudno się domyślić, to rodzinne pamiątki." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_004", "hash": "573FE25329BD7625", "target": "Nie wiem, gdzie je upuściłam. Byłam wtedy nieprzytomna ze strachu, ale przecież nie mogły rozpłynąć się w powietrzu. Muszą być gdzieś w mieście. Gdybym tylko miała choć cień pojęcia, gdzie szukać..." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_005", "hash": "499D80F85B62D6D7", "target": "Czy mogę błagać o pomoc? Oddałabym wszystko, by je odzyskać." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_006", "hash": "750A99829311FB96", "target": "Przepraszam, że nie potrafię dokładniej określić, gdzie mogłam je upuścić, ale proszę... Muszę odzyskać moje rodzinne pamiątki!" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_100_010", "hash": "CF0D9EF309B32F2E", "target": "Czy udało się odnaleźć którąś z moich rodzinnych pamiątek?" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_010", "hash": "A13005342D7B9815", "target": "Och, <if(gnum4,odnalazła pani,odnalazł pan)> wszystkie trzy! Nie ma żadnych wątpliwości!" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_011", "hash": "68A2E6FF27BAA9DE", "target": "Widzi <if(gnum4,pani,pan)> ten napis? „Pragnij jedynie służyć”. To dewiza mojego rodu, znacznie starsza od naszego pobytu w Eulmore. Babcia nauczyła mnie jej znaczenia─zawsze stawiać innych przed sobą, pomagać biednym i uciśnionym..." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_012", "hash": "583C63EEEDA77FA8", "target": "Teraz widzę wyraźnie. To <italic(1)>tego<italic(0)> ducha zabrakło nam w Eulmore i to jego musimy odzyskać. Tak jak moi przodkowie─tak jak <if(gnum4,pani,pan)>─musimy nauczyć się troszczyć o innych bez względu na własne korzyści." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_013", "hash": "3FE7BC8BFFEFDBCF", "target": "Nie wiem, jak mogłabym się za to dostatecznie odwdzięczyć, ale proszę mi wierzyć, moja wdzięczność będzie wieczna." }
   ]
 }

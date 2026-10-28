@@ -2,19 +2,19 @@
   "conversation": "quest/030/BanAna602_03065",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SEQ_00", "hash": "518F0445DEF71CB8", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_00", "hash": "3BAF6C27F516B0A4", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_01", "hash": "FE277F2A35DA57C9", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_000", "hash": "E4D401C6641FE444", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_001", "hash": "80CEF06CA9106F8B", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_002", "hash": "0BC601C04B6F3FF1", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_003", "hash": "2BFFE6528ACA3FB5", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_004", "hash": "A5490AE2143E50E0", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_010", "hash": "67CB3D00E904B93C", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_011", "hash": "97DF9B110405779F", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_020", "hash": "8DF9D1B2AA92989E", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_021", "hash": "3E24B840CAC06FAE", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_022", "hash": "BE56DA4A843A6101", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_023", "hash": "6B410DCAFB52A848", "target": "" }
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SEQ_00", "hash": "518F0445DEF71CB8", "target": "Eshana potrzebuje kogoś, kto nie boi się wysokości.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_00", "hash": "3BAF6C27F516B0A4", "target": "Użyć preparatu wzmacniającego rośliny i zebrać goździki" },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_01", "hash": "FE277F2A35DA57C9", "target": "Dostarczyć goździki Eshanie" },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_000", "hash": "E4D401C6641FE444", "target": "Nie boisz się wysokości, prawda? Potrzebujemy kogoś, kto wdrapie się na skały w Virdjala i zbierze goździki." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_001", "hash": "80CEF06CA9106F8B", "target": "Napar z ich płatków niezwykle skutecznie zwalcza zmęczenie. Alpa pomyślała, by częstować nim podróżnych szukających noclegu po długiej drodze." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_002", "hash": "0BC601C04B6F3FF1", "target": "Problem w tym, że te kwiaty są bardzo delikatne. Jeśli się uszkodzą, ich lecznicze właściwości znacznie osłabną. " },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_003", "hash": "2BFFE6528ACA3FB5", "target": "Na szczęście wędrowny alchemik nauczył nas sporządzać preparat wzmacniający rośliny. " },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_004", "hash": "A5490AE2143E50E0", "target": "Skrop nim kwiaty, a nie ucierpią przy zrywaniu." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_010", "hash": "67CB3D00E904B93C", "target": "Znajdujesz kwiat, o którym mówiła Eshana. Jest w pełnym rozkwicie. Już na pierwszy rzut oka widać, jak bardzo delikatne ma płatki." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_011", "hash": "97DF9B110405779F", "target": "Delikatne płatki kwiatu zdają się wzmocnione preparatem Eshany." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_020", "hash": "8DF9D1B2AA92989E", "target": "Udało ci się znaleźć kwiaty?" },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_021", "hash": "3E24B840CAC06FAE", "target": "Wygląda na to, że preparat zadziałał lepiej, niż się spodziewałam. Szkoda poświęcać takie piękno na herbatę." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_022", "hash": "BE56DA4A843A6101", "target": "Przepis przekazał nam kupiec z Ul'dah. Osobliwy człowiek, który koniecznie chciał kupić nasze wylinki. Zamiast targować się o złoto, zgodziłyśmy się na informacje przydatne w naszej pracy." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_023", "hash": "6B410DCAFB52A848", "target": "Podróżni kursujący między Gyr Abanią a Całunem mają wiele wiedzy do przekazania. Mam nadzieję, że możemy liczyć na twoją pomoc w zapewnianiu im bezpiecznej drogi." }
   ]
 }

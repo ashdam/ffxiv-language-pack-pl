@@ -2,17 +2,17 @@
   "conversation": "quest/030/BanAna502_03059",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "" }
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "Eshana prosi o rozwiązanie problemu z mrówkolwem.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "Zdetonować gromkie ładunki wybuchowe we wskazanym miejscu w Virdjala" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "Zaczekać na pojawienie się okazu hunter antlion i go zabić" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "Mamy problem z mrówkolwem, <split(<string(gstr1)>, ,1)>. Wyjątkowo zajadły okaz terroryzuje szlak do The Peaks. Proszę, zabij go." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "Stworzenie zagrzebuje się głęboko pod ziemią i czeka na zdobycz. Nie byle jaką, rzecz jasna, lecz większą─wozy chocobo i tym podobne." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "Odgłos twoich kroków nie wystarczy, by wywabić tę zachłanną bestię... ale te ładunki powinny zadziałać. Pochodzą od naszych przyjaciół z Rhalgr's Reach i są równie głośne, co potężne." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "Gdy je zdetonujesz, uważaj, żeby nie znaleźć się w zasięgu wybuchu. Byłoby mi przykro stracić <if(gnum4,tak pomocną poszukiwaczkę,tak pomocnego poszukiwacza)> przygód." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "Ziemia wybucha fontanną piasku!" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "Wyglądasz, jakby przyszło ci się tarzać w piasku. Rozumiem, że udało ci się odnaleźć─i zgładzić─mrówkolwa. Doskonale, doskonale." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "Na razie niewielu gości odwiedza ten region, lecz z czasem to się zmieni. Handel się rozwinie, a wraz z nim wzrośnie ruch na drogach." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "Szczególnie szlak do The Peaks jest niezbędny dla naszego dobrobytu. Musimy zapewnić wszystkim bezpieczny przejazd. Trzymanie w ryzach robactwa, takiego jak mrówkolwy, stanie się stałym zadaniem. Mam nadzieję, że znów będzie można się do ciebie zwrócić." }
   ]
 }

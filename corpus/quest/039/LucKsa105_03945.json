@@ -2,16 +2,16 @@
   "conversation": "quest/039/LucKsa105_03945",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SEQ_00", "hash": "A16262DAF6E00E0A", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_100_000", "hash": "4674C234DD8AEDC1", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_000", "hash": "DDAA2E0275E175CA", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_001", "hash": "E54084CA95E41E7E", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_002", "hash": "0F4190F5E48C296E", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_020", "hash": "92CA6D2AEBFB0F21", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_021", "hash": "9CFFEEA0F06E933F", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_022", "hash": "854642038186891F", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_030", "hash": "B1D70EA6E7984CB4", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_031", "hash": "B30D9CBD176867C1", "target": "" }
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SEQ_00", "hash": "A16262DAF6E00E0A", "target": "Dmitar ma ekscytujące wieści z południowego frontu." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "Porozmawiać z Dmitarem" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_100_000", "hash": "4674C234DD8AEDC1", "target": "Aby kontynuować to zadanie, musisz osiągnąć rangę Ruchu Oporu <num(lnum1)>." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_000", "hash": "DDAA2E0275E175CA", "target": "Ostrze <split(<string(gstr1)>, ,2)>! Mamy wieści z pola bitwy─siły Imperium się wycofały!" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_001", "hash": "E54084CA95E41E7E", "target": "Nasze oddziały posunęły się na tyle daleko, by zająć wrogi obóz w pobliżu południowych okopów." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_002", "hash": "0F4190F5E48C296E", "target": "Mój dowódca polecił mi oprowadzić <if(gnum4,panią,pana)> po tym miejscu przy najbliższej okazji. Będę tam czekał." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_020", "hash": "92CA6D2AEBFB0F21", "target": "Witam w Olana's Stand. Aby podróżować między tym miejscem a Utya's Aegis, proszę korzystać z tamtego odłamka eterytu. Radzę dostroić się do niego przed odejściem." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_021", "hash": "9CFFEEA0F06E933F", "target": "I jeszcze jedno: choć znacznie posunęliśmy się w walce z Imperium, wiele jeszcze trzeba zrobić, zanim odzyskamy Castrum Lacus Litore." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_022", "hash": "854642038186891F", "target": "Podejrzewam, że im dalej zajdziemy, tym większą determinację okaże wróg. Musimy jednak iść naprzód. Za Bozję!" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_030", "hash": "B1D70EA6E7984CB4", "target": "Linia frontu ruchu oporu przesuwa się naprzód. Możesz teraz uczestniczyć w nowych potyczkach i krytycznych starciach." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_031", "hash": "B30D9CBD176867C1", "target": "Kolejne zadanie można przyjąć od Mikoto po osiągnięciu rangi Ruchu Oporu <num(lnum1)> lub wyższej." }
   ]
 }

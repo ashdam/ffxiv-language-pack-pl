@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz602_02780",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_003", "hash": "9B4B4289963E6F6A", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SYSTEM_000_005", "hash": "2980EC0D04CE5521", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_010", "hash": "6B06DB81274CDC32", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_011", "hash": "14329C7A96AE955A", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_012", "hash": "257B6A0BAB189E54", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_013", "hash": "9FDA39C19F070DB2", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_014", "hash": "1FFCFFEBE289B67A", "target": "" }
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "Yabuqa wpatruje się w płomienie z tęsknotą na twarzy." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "Pomodlić się we wskazanym miejscu za pomocą /pray" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "Zdać sprawę wojownikowi imieniem Yabuqa" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "Powiedz, zrobisz mi przysługę?" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "Niedaleko stąd, na południowym wschodzie, leżą zniszczone ruiny Kahkol Iloh. Proszę, idź tam i odmów <colortype(500)><edgecolortype(501)>Modlitwę<edgecolortype(0)><colortype(0)> za dusze moich zmarłych rodziców i siostry." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "\\<wzdycha> Pozostali ludzie z plemienia Buduga nie zrozumieliby takich uczuć. Dlatego potrzebuję kogoś, kto pójdzie za mnie." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_003", "hash": "9B4B4289963E6F6A", "target": "Proszę, udaj się do Kahkol Iloh i odmów <colortype(500)><edgecolortype(501)>Modlitwę<edgecolortype(0)><colortype(0)> za moich rodziców i siostrę. Może dzięki tobie dotrą do nich także moje modły." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SYSTEM_000_005", "hash": "2980EC0D04CE5521", "target": "Odmów <colortype(500)><edgecolortype(501)>Modlitwę<edgecolortype(0)><colortype(0)> za zmarłą rodzinę wojownika imieniem Yabuqa." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_010", "hash": "6B06DB81274CDC32", "target": "Dziękuję za spełnienie takiej... dziwnej prośby. Wielu wojowników Buduga uznałoby mnie za mięczaka, ale co roku o tej porze czuję potrzebę, by wysłać kogoś do dawnej wsi na modlitwę za bliskich." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_011", "hash": "14329C7A96AE955A", "target": "Ach ─ chyba nie powiedziałem ci, że pochodzę z Kahkol Iloh. Kiedy byłem dzieckiem, ludzie z plemienia Buduga napadli i splądrowali naszą osadę. Rodzina oddała im mnie jako daninę." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_012", "hash": "257B6A0BAB189E54", "target": "Długo miałem do nich żal. Z czasem dowiedziałem się jednak, że niedługo po moim odejściu dawna wieś padła ofiarą śmiertelnej zarazy. Zabiła wszystkich, którzy tam pozostali." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_013", "hash": "9FDA39C19F070DB2", "target": "Podejrzewam, że rodzice wiedzieli, co nadchodzi, i odesłali mnie, by mnie chronić. \\<wzdycha> Potrzebuję wielu lat, by odkupić nienawiść, którą do nich żywiłem." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_014", "hash": "1FFCFFEBE289B67A", "target": "Jako członkowi plemienia Buduga trudno mi znaleźć sposobność, by odwiedzić Kahkol Iloh i się za nich pomodlić. Dlatego proszę o pomoc przejezdnych. Z całego serca ci dziękuję." }
   ]
 }

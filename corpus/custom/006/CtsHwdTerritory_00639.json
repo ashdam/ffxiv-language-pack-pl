@@ -2,10 +2,10 @@
   "conversation": "custom/006/CtsHwdTerritory_00639",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000", "hash": "4B5A21120A63A0D5", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010", "hash": "13AD2D6D90AA4CF5", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_020", "hash": "80CF3714A401EF91", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_030", "hash": "CA42096ECCF6BB3A", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_040", "hash": "067AF4674095A19D", "target": "" }
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000", "hash": "4B5A21120A63A0D5", "target": "No proszę, <split(<string(gstr1)>, ,1)>! Twoje przybycie nie mogło wypaść w lepszej chwili." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010", "hash": "13AD2D6D90AA4CF5", "target": "Jak widzisz, właśnie się tu bawimy. Aby uczcić zakończenie prac, mieszkańcy i rzemieślnicy postanowili wspólnie urządzić święto." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_020", "hash": "80CF3714A401EF91", "target": "Nazywa się Święto Podniebnej Odbudowy i każdy znajdzie na nim coś dla siebie. Jeśli nic innego cię nie zajmuje, pewnie spodoba ci się udział w fetach. Odbywają się regularnie i można w nich zdobyć niezłe nagrody." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_030", "hash": "CA42096ECCF6BB3A", "target": "Podczas Święta Podniebnej Odbudowy w regularnych odstępach odbywają się kolejno rozmaite zabawy zwane fetami. Informacje o terminie następnych fet można sprawdzić w dzielnicy the Firmament." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_040", "hash": "067AF4674095A19D", "target": "Aby wziąć udział i zdobywać nagrody, musisz należeć do grupy klas Disciple of the Hand lub Disciple of the Land." }
   ]
 }

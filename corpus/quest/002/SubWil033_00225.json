@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubWil033_00225",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "" }
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "Coś bardzo wzburzyło Fafafona z The Silver Bazaar." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "Fafafono padł ofiarą tragarzy, którzy nie dokończyli pracy. Jego towary leżą za bramą, niedostarczone i bez opieki. Zbierz trzy pozostawione pakunki i zanieś je zmartwionemu właścicielowi." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "Wszystkie porzucone pakunki są już w twoich rękach. Zanieś je bezpiecznie zaniepokojonemu Fafafonowi." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "Pakunki Fafafona zawierają ubrania z wadami tkackimi pochodzące z Sunsilk Tapestries. Odciętym od świata mieszkańcom The Silver Bazaar wystarcza jednak, że są to markowe towary." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "Zebrać pakunki Fafafona" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "Zanieść pakunki Fafafonowi" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "Przeklęci tragarze! Za kogo oni się mają!? Słono zapłaciłem, żeby─ O, ty tam! Szukasz zajęcia, jak to poszukiwacze przygód, prawda?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "Dotarły towary, które zamówiłem u kupca z Ul'dah, ale ci bezużyteczni tragarze po prostu rzucili je przed bramą i sobie poszli." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "„Dalej nosić nie musimy” ─ tak powiedziały te leniwe dranie. „Brama bazaru to też bazar. W zamówieniu nie było nic o dostawie pod sam dom”. Co za bezczelność! \\<wzdycha> Są trzy pakunki. Przyniesiesz mi je?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "Na bogów, niech no te gamonie uszkodzą moje pakunki... I co? Udało ci się je znaleźć?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "Zobaczmy... Jest, jest i jest. Doskonale! Niczego nie brakuje! W tych pakunkach są ubrania z Sunsilk Tapestries, choć każde ma... jakąś wadę." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "W Ul'dah nawet drobna wada splotu wystarczy, by najwspanialsza suknia trafiła do pieca. Ale nie tutaj. Jeśli tylko na ubraniu widnieje słynna marka, mieszkańcy The Silver Bazaar nie przejmują się jakością." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "\\<wzdycha> Kiedyś było lepiej. Nigdy nie musieliśmy upadać... tak nisko. Teraz coraz trudniej o gile. Z każdym dniem gorzej. Zostali tu już tylko ludzie o przerośniętej dumie i niewyrobionym guście." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "Wszyscy kurczowo trzymają się dawnej świetności, ale nikt nie próbuje zmienić tej ponurej teraźniejszości. Oby ten przeklęty bazar kiedyś utonął w piaskach, które go duszą. Im prędzej, tym lepiej." }
   ]
 }

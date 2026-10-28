@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegYok6Kozanuakiy_00872",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_000", "hash": "C6EB0D910114A38C", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_001", "hash": "E928B981BCF02110", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_002", "hash": "90DBA3E6392F1261", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_003", "hash": "518CE611A09E59B8", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_Q1_000_000", "hash": "3D67640A9EC5FEA2", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_001", "hash": "B348749989590476", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_002", "hash": "E86B1184844E5D16", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_003", "hash": "041F6EA4CB47E893", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_010", "hash": "7B4FFFBFAE1108D8", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_011", "hash": "39676A9B94F8ADF9", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_020", "hash": "8DCAB8FC49143830", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_021", "hash": "D261865D2C8A2727", "target": "" },
-    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_022", "hash": "EEF495034F1ACA8A", "target": "" }
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_000", "hash": "C6EB0D910114A38C", "target": "Och, witam. Od dawna nie mieliśmy gościa spoza ludu Hanu. Jeśli chce <if(gnum4,pani,pan)> dowiedzieć się czegoś o tym miejscu, podzielę się swoją wiedzą." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_001", "hash": "E928B981BCF02110", "target": "Witam, witam! Czy przybywa <if(gnum4,pani,pan)>, by oddać cześć bóstwu o imieniu Kixaihih? Byłby to dla nas zaszczyt. Jeśli mogę jeszcze jakoś służyć pomocą, wystarczy zapytać." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_002", "hash": "90DBA3E6392F1261", "target": "Nowa Służebnica Świtu podróżowała na świętej platformie! To dla nas niezrównany zaszczyt, nawet jeśli nie była wtedy jeszcze koronowana. Z największą przyjemnością odpowiem na pytania jej <if(gnum4,towarzyszki,towarzysza)>." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_003", "hash": "518CE611A09E59B8", "target": "Zamierzam jak najserdeczniej zaprosić Sług Świtu na nasze następne święto Ihih'hana. Oczywiście <if(gnum4,pani,pana)> obecność też byłaby mile widziana. Tymczasem jestem do dyspozycji." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_Q1_000_000", "hash": "3D67640A9EC5FEA2", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_001", "hash": "B348749989590476", "target": "Proszę opowiedzieć o sobie." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_002", "hash": "E86B1184844E5D16", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_A1_000_003", "hash": "041F6EA4CB47E893", "target": "Nic." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_010", "hash": "7B4FFFBFAE1108D8", "target": "Moim zadaniem jest zarówno strzec tego świętego miejsca, jak i dbać o potrzeby odwiedzających." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_011", "hash": "39676A9B94F8ADF9", "target": "Rozmowy z innymi nigdy nie były moją mocną stroną, ale jeśli tylko służę bóstwu o imieniu Kixaihih, żaden obowiązek nie jest zbyt trudny. Widok przybyszów z odległych krain, takich jak <if(gnum4,pani,pan)>, którzy pragną poznać nasze zwyczaje, sprawia mi wielką radość." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_020", "hash": "8DCAB8FC49143830", "target": "W świątyni Kozanuakiy otaczamy czcią wizerunek wielkiego ptaka o imieniu Kixaihih, który zapewnia nam obfite plony. Błogosławi nam tutaj słońce, dzięki któremu pozostajemy w suchym miejscu pośród podmokłych bagien krainy Kozama'uka." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_021", "hash": "D261865D2C8A2727", "target": "Świątynia Kozanuakiy odgrywa też główną rolę w jednym z naszych najświętszych świąt, choć burza chyba zmyła nasz świąteczny nastrój. Mam nadzieję, że po odbudowie <if(gnum4,zobaczy pani,zobaczy pan)> uroczystości na własne oczy." },
+    { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_022", "hash": "EEF495034F1ACA8A", "target": "Święto Ihih'hana przypomniało mi, że Kixaihih nad nami czuwa. Następne zbiory z pewnością będą obfite!" }
   ]
 }

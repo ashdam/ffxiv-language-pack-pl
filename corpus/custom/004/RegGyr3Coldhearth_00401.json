@@ -2,15 +2,15 @@
   "conversation": "custom/004/RegGyr3Coldhearth_00401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000", "hash": "D8651DAECBF5983F", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000", "hash": "FEFE0B679748CEA6", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_001", "hash": "4AF37039FBB7A558", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_002", "hash": "C487FA2145B4556C", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_003", "hash": "3C9C2E271B828145", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010", "hash": "DC2DE942AC44827D", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011", "hash": "158FD51EEDC5731B", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020", "hash": "999FA1A9227F21A5", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021", "hash": "1F4626FAB5DAB53E", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022", "hash": "AFAD46E78D355CF1", "target": "" }
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000", "hash": "D8651DAECBF5983F", "target": "Och, <if(gnum4,poszukiwaczka,poszukiwacz)> przygód. Nie mamy nic do zaoferowania, ale możesz tu odpoczywać, ile zechcesz." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000", "hash": "FEFE0B679748CEA6", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_001", "hash": "4AF37039FBB7A558", "target": "Opowiedz o sobie." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_002", "hash": "C487FA2145B4556C", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_003", "hash": "3C9C2E271B828145", "target": "Nic." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010", "hash": "DC2DE942AC44827D", "target": "Mam na imię Gibbon. Jestem prostym człowiekiem z prostej wioski. Dawniej byłem wojskowym. Ach, cóż to były za czasy." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011", "hash": "158FD51EEDC5731B", "target": "Nawet najlepszy żołnierz nie wygra z czasem. W końcu odszedłem ze służby i wróciłem do domu. Od tamtej pory od świtu do zmierzchu uprawiam tę odrobinę ziemi, jaką mamy." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020", "hash": "999FA1A9227F21A5", "target": "Ta wioska─a przynajmniej to, co z niej zostało─to Coldhearth." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021", "hash": "1F4626FAB5DAB53E", "target": "Moim zdaniem to cholerny cud, że cokolwiek tu rośnie. Udaje nam się zebrać trochę do jedzenia i trochę na handel. Większość tego, co mamy, zawdzięczamy garstce młodych, którzy odeszli, by dołączyć do Ruchu Oporu. Ze swego żołdu wspierają nas, jak tylko mogą." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022", "hash": "AFAD46E78D355CF1", "target": "Kiedy przybyli ci przeklęci Garleańczycy, wcielili do wojska wszystkich, którzy jeszcze nie wyjechali. Teraz zostały tu głównie dzieci i my, starzy ludzie. Jeśli nic się wkrótce nie zmieni, za kilka lat po Coldhearth może nie być śladu..." }
   ]
 }

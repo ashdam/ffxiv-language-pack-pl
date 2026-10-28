@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq114_03819",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SEQ_00", "hash": "A26AC5E6269E6B53", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_00", "hash": "754940BCB2AAD810", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_01", "hash": "8494181D717210E2", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_000", "hash": "40F5F454997E6618", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_001", "hash": "0A0CA74508A83A55", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_010", "hash": "30FD1149F0C070EF", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_011", "hash": "B681EE24C0EDADF2", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_020", "hash": "AB069D681D7EA2B0", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_030", "hash": "3ADFB05EC1FDACDE", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_031", "hash": "1F9FB88FD03967D9", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_040", "hash": "796E24ADD369099D", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_041", "hash": "27C44D3AA35BA267", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SAYTODO_000_000", "hash": "283B7A26FA831E85", "target": "" }
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SEQ_00", "hash": "A26AC5E6269E6B53", "target": "Qhoterl Pasol chce, by padło słowo mocy.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_00", "hash": "754940BCB2AAD810", "target": "Ustawić tryb czatu na <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> i wpisać „la-hee”, by odezwać się do uśpionej lalki z Ronki przy Gwiazdach Poranka" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_01", "hash": "8494181D717210E2", "target": "Zdać sprawę Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_000", "hash": "40F5F454997E6618", "target": "Gwiazd Poranka strzegą najrozmaitsi strażnicy stworzeni przez Ronkańczyków. To żywe posągi, które nie dopuszczają intruzów." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_001", "hash": "0A0CA74508A83A55", "target": "Skoro my również staramy się zachować ich dziedzictwo, uważam, że powinny chronić nas podczas badań jaskiń! Jeśli powie <if(gnum4,pani,pan)> „la-hee” jednej z uśpionych lalek, z pewnością usłucha wezwania i ruszy nam na pomoc!" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_010", "hash": "30FD1149F0C070EF", "target": "Lalka z Ronki spoczywa w ciszy." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_011", "hash": "B681EE24C0EDADF2", "target": "Ustaw tryb czatu na <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> i za pomocą klawiatury zwykłej lub ekranowej wpisz „la-hee”, by obudzić śpiącą lalkę." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_020", "hash": "AB069D681D7EA2B0", "target": "Lalka się przebudziła!" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_030", "hash": "3ADFB05EC1FDACDE", "target": "To cud! Strażnik przybył! Zszedł do jaskiń tuż przed <if(gnum4,pani,pana)> powrotem i bez wątpienia przegania już wszystko, co mogłoby zagrozić naszym pracownikom." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_031", "hash": "1F9FB88FD03967D9", "target": "A co najlepsze, skoro już się przebudził, będzie patrolować bez odpoczynku i potrzeby karmienia. Może nawet uda się nakłonić go do pomocy przy samych wykopaliskach..." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_040", "hash": "796E24ADD369099D", "target": "Wypowiedziane przez <if(gnum4,panią,pana)> pradawne słowo mocy, „la-hee”, znaczy w ronkańskim języku „obudź się”, ale używano go również jako powitania." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_041", "hash": "27C44D3AA35BA267", "target": "Podobno wybrańcy bogów mogą nawet usłyszeć głosy pradawnych niesione wiatrem, gdy przemierzają Greatwood. Może <if(gnum4,pani,panu)> też się to zdarzyło?" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SAYTODO_000_000", "hash": "283B7A26FA831E85", "target": "la-hee" }
   ]
 }

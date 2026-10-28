@@ -2,18 +2,18 @@
   "conversation": "custom/005/RegNor4Garik_00597",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_000", "hash": "809073392835CB1C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_010", "hash": "CCF5201E02853C8A", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_020", "hash": "04A5429CB23B663D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_030", "hash": "887FA3B31EABE857", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_Q1_000_000", "hash": "ECA3C7358C97B410", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_001", "hash": "2BD6D1552A97DB9C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_002", "hash": "E4AEFA365B1E5A2E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_003", "hash": "ED7C4CFA42F60FFA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_100", "hash": "51426BA0047CC5FE", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_101", "hash": "EE9E279A18387679", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_200", "hash": "512D95B69FA22D6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_201", "hash": "CBEA8CB851BE5361", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_202", "hash": "405C9FC659E27C47", "target": "" }
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_000", "hash": "809073392835CB1C", "target": "Może skusisz się na skalne wijce? Tłuściutkie, soczyste i wijące się! Nie? W czymś innym mogę pomóc?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_010", "hash": "CCF5201E02853C8A", "target": "Ciemne bardzo i chłodne są noce. Dobry czas na podróż, ale i na polowanie drapieżników, które jedzą mięso!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_020", "hash": "04A5429CB23B663D", "target": "Przy całym tym Świetle łatwiej widzieć drogę, to prawda. Ale nikomu nie trzeba go chyba <italic(1)>aż<italic(0)> tyle? Zwłaszcza gdy Rhen Ren potrafi pokierować radą!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_030", "hash": "887FA3B31EABE857", "target": "Światło i mrok, noc i dzień. Wszystko w doskonałej równowadze! Nastały szczęśliwe czasy, ale przez pustynię nadal trzeba iść ostrożnie." },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_Q1_000_000", "hash": "ECA3C7358C97B410", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_001", "hash": "2BD6D1552A97DB9C", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_002", "hash": "E4AEFA365B1E5A2E", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_003", "hash": "ED7C4CFA42F60FFA", "target": "O nic." },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_100", "hash": "51426BA0047CC5FE", "target": "Jestem takim „Mordem-pośrednikiem” między osadą Twine a Crystalline Mean. Do miasta Crystarium większość górników ma za daleko, więc kupuję ich kamienie szlachetne i rudę, a potem sprzedaję drożej!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_101", "hash": "EE9E279A18387679", "target": "Sprzedaję tylko na skrzynie, więc jeśli szukasz pojedynczych przedmiotów, zajrzyj do innych kupców! Mają wiele towarów dla podróżnych takich jak ty!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_200", "hash": "512D95B69FA22D6D", "target": "Garik to dawna osada górnicza. To znaczy, była nią, dopóki wszyscy górnicy się nie wyprowadzili!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_201", "hash": "CBEA8CB851BE5361", "target": "Uprzejmie zostawili nam, Mord, swoje domy do użytku. A jak zawsze mawiamy: „Kto nie marnuje, temu nie brakuje!”" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_202", "hash": "405C9FC659E27C47", "target": "Jak widzisz, niewiele tu mamy, ale przechodzi tędy mnóstwo ludzi podróżujących do miasta Crystarium i z powrotem. Głównie odpoczywają lub korzystają z naszej studni. To najbliższe oazie miejsce, jakie tu znajdziesz!" }
   ]
 }

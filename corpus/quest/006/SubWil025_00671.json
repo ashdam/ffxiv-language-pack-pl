@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_00", "hash": "2F784995D063F3C5", "target": "Naczelnik stacji Papashan ma proste zadanie dla początkującego poszukiwacza przygód." },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_01", "hash": "07672F67DEDA1D12", "target": "Papashan współczuje Przysięgłym Sułtanki, którym powierzono obronę Dispatch Yard, i chciałby dołożyć swoje, by strudzeni strażnicy trzymali się na nogach. Weź od Papashana zmierzchowe precle i dostarcz je zmęczonym patrolom." },
-    { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_02", "hash": "84CF1EB101C6B48D", "target": "Wartownicy są bardzo wdzięczni za precle Papashana. Wróć do lalafellińskiego naczelnika stacji i powiadom go, że Dispatch Yard pozostaje dobrze strzeżone." },
+    { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_02", "hash": "84CF1EB101C6B48D", "target": "Wartownicy są bardzo wdzięczni za precle Papashana. Wróć do lalafelskiego naczelnika stacji i powiadom go, że Dispatch Yard pozostaje dobrze strzeżone." },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_03", "hash": "C330EF72D99B974C", "target": "Choć Papashan jest wdzięczny za pomoc, zdaje się, że coś innego zaprząta mu głowę." },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_TODO_00", "hash": "7716A6041E294B3F", "target": "Dostarczyć zmierzchowe precle patrolom" },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_TODO_01", "hash": "E87094BA7AB0FE71", "target": "Porozmawiać z Papashanem" },

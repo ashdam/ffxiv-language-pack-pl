@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc911_01046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "" }
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "Porucznik Edelstein ma pilną prośbę przed następną fazą operacji." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Edelsteinem w Ceruleum Processing Plant.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "Udaje ci się dostatecznie osłabić imperialne siły na Rubieży Raubahna. Udaj się do punktu zbiórki operacji i zamelduj się u Raubahna." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "Zastajesz Generała Płomieni w cieniu Castrum Meridianum. Wkrótce rozpocznie się ostateczna bitwa o przyszłość Eorzei." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Edelsteinem w Ceruleum Processing Plant<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Edelsteinem w Ceruleum Processing Plant<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Edelsteinem w Ceruleum Processing Plant<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "Przed chwilą Generał Płomieni ruszył ku Castrum Meridianum. Niestety ledwie jego oddział dotarł do linii oporu, zaatakował go imperialny patrol." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "Doniesiono nam, że zdołali się przebić, ale w okolicy wciąż krążą wrogie patrole. Nasza główna armia bez trudu by ich zmiażdżyła, lecz nie możemy jej teraz wysłać, by przedwcześnie nie wsadzić kija w mrowisko." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "By operacja przebiegła bez przeszkód, proszę o osłabienie imperialnych sił na Rubieży Raubahna. Powinno wystarczyć pokonanie trzech maszyn vanguard i trzech piechurów." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "Gdy to będzie załatwione, proszę dołączyć do Generała Płomieni w punkcie zbiórki operacji. Niech Rhalgr da <if(gnum4,pani,panu)> siłę!" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "Pokonać trzy magitek vanguards i trzech imperialnych żołnierzy" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "Widzę, że droga dla głównej armii jest już wolna. Dziękuję. Wolałbym powierzyć to zadanie komuś innemu, zamiast narażać twoją głowę przed misją, ale co się stało, to się nie odstanie. Poza tym pewnie pozwoliło ci to rozruszać stawy." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "Oto i ona, <split(<string(gstr1)>, ,1)>─chwila rozstrzygnięcia. Przyszłość Eorzei zależy od naszych dzisiejszych czynów." }
   ]
 }

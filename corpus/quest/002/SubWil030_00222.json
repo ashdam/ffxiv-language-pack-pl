@@ -2,18 +2,18 @@
   "conversation": "quest/002/SubWil030_00222",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "" }
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "Oswell potrzebuje twojej pomocy w odnalezieniu zagubionej dostawy." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "Oswell nie może znaleźć trzech skrzyń przeznaczonych dla Kompanii Handlowej Wschodniego Aldenardu. Przeszukaj Rozdroże Skorpiona w poszukiwaniu brakujących skrzyń." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "Odnajdujesz trzy zagubione skrzynie. Zanieś je Oswellowi, by mógł odetchnąć z ulgą." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "Oswell dziękuje ci za pomoc w odnalezieniu skrzyń. Niestety mimo twoich wysiłków ten zapracowany człowiek nie zazna wytchnienia jeszcze przez długi czas." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "Odnaleźć zaginione skrzynie ładunku" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "Dostarczyć skrzynie Oswellowi" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "Masz trochę wolnego czasu, prawda? Przydaj się na coś i pomóż mi znaleźć zaginione skrzynie!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "Spis ładunku wyraźnie podaje, że ostatnia dostawa z Zatoki Nieszporów obejmowała trzy skrzynie dla Kompanii Handlowej Wschodniego Aldenardu. Tylko jakoś nie mogę znaleźć tych cholernych pudeł!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "Powinny być gdzieś tutaj, ale nie mogę już tracić czasu na szukanie. Jak je znajdziesz, przynieś je do mnie!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "Są moje skrzynie?" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "Świetna robota! Dzięki tobie pojadą następnym wozem!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "Dostawy płyną bez przerwy, dzień po dniu. Od samego pilnowania tego wszystkiego można dostać migreny." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "Interes się kręci, owszem, ale po co komu pieniądze, jeśli nie ma czasu ich wydawać? Od tygodni nie wychyliłem kufla z przyjaciółmi!" }
   ]
 }

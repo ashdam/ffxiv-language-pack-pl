@@ -6,7 +6,7 @@
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_00", "hash": "F51E09EFB08A623A", "target": "Porozmawiaj ze stworzeniem ailouros i podążaj za jego przewodnictwem." },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_01", "hash": "147FEBD21AD3A9EB", "target": "Poskrom walczące stworzenia." },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_02", "hash": "088B0CFD5239D07C", "target": "Porozmawiaj ze stworzeniem ailouros." },
-    { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_03", "hash": "37C8270AC671FD22", "target": "Porozmawiaj z Hippothoe." },
+    { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_03", "hash": "37C8270AC671FD22", "target": "Porozmawiać z Hippothoe" },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_000", "hash": "84ABF3285A2D0865", "target": "Ojej, jaka znajoma esencja! Niczym u chowańca... O ile znasz pojęcie chowańca?" },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_001", "hash": "7F3CCB8D7E21D60E", "target": "Och, to tylko żarcik. <split(<string(gstr1)>, ,1)>, tak? Jestem Hippothoe." },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_GEALCAT04288_000_002", "hash": "BA065D7398A003DE", "target": "Miaaau. Miau!" },

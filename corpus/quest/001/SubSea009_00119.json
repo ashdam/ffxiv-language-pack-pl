@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubSea009_00119",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "" }
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "Ginnade szuka pomocy z narastającym problemem w Limsie Lominsie." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "Ginnade powierza ci listę zaginionych osób. Dostarcz ją N'delice, która wita nowo przybyłych podróżników w Sali Bastionu na dolnych pokładach." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "Wbrew pozorom N'delika należy do Żółtych Kurtek. Jej zadaniem jest uważnie obserwować wszystkich wchodzących do miasta i je opuszczających." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "Dostarczyć listę zaginionych osób N'delice w Sali Bastionu" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "Ostatnio zaginęła niepokojąco duża liczba mieszkańców, choć przypuszczam, że pogłoski już do <if(gnum4,pani,pana)> dotarły." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "Musimy koniecznie ustalić, czy są bezpieczni. Przygotowałam więc listę na podstawie zgłoszeń mieszkańców. Czy mogę prosić o dostarczenie jej mojej koleżance w Sali Bastionu? Nazywa się N'delika. Z góry dziękuję." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "Witam w Limsie Lominsie! Jeśli chce się <if(gnum4,pani,pan)> czegoś dowiedzieć, proszę śmiało─<br>...Hm? Ma <if(gnum4,pani,pan)> coś dla mnie? Listę zaginionych osób? Chyba nie rozumiem..." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "(Dziękuję za przyniesienie listy─na pewno zapamiętam te nazwiska. Jeśli ktoś z zaginionych znów się pojawi, można liczyć na to, że go zauważę.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "(Większość ludzi przybywa do miasta przez Dryf Zefiru, muszą więc przejść przez Salę Bastionu. Dlatego stale tu czuwam, i to incognito, żeby wypatrywać podejrzanych działań.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "(Robię to od tak dawna, że całkiem dobrze nauczyłam się oceniać ludzi. Proszę się nie martwić, jeśli kręcą się tu podejrzane typy, potrafię je wyłowić z tłumu. He he he.)" }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/002/CmnGscGilToCoin_00240",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "" }
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "Witamy w Gold Saucer! Jeśli chce <if(gnum4,pani,pan)> wymienić zwykłe stare gile na nowiutkie, błyszczące MGP, to właściwe miejsce. Co <if(gnum4,pani,pan)> na to?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "Przepraszam, ale wygląda na to, że brakuje środków na tę transakcję. Może warto sprawdzić, czy sakiewka nie jest dziurawa?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "Oho! Wygląda na to, że ma <if(gnum4,pani,pan)> już pokaźną sumę MGP. Jeśli chce <if(gnum4,pani,pan)> więcej, trzeba będzie samodzielnie na nie zapracować!" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "Z usługi wymiany mogą korzystać wyłącznie goście mający mniej niż 500 MGP." },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "Więcej MGP można wygrać w licznych wydarzeniach i atrakcjach Gold Saucer. Niech Prządka się do ciebie uśmiechnie!" }
   ]
 }

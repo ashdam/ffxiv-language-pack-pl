@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz924_01989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "Allagański węzeł montażowy drży z niecierpliwości." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "Allagańskiemu węzłowi montażowemu zabrakło surowców do dalszej pracy. Z powodu niedoboru zasobów prosi cię o zniszczenie trzech stalowych olbrzymów, by można było je przetworzyć i wykorzystać ich części w procesie produkcyjnym systemu." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "Niszczysz stalowe olbrzymy zgodnie z poleceniem. Poinformuj węzeł montażowy, że są gotowe do odzysku." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "Węzeł montażowy potwierdza unieszkodliwienie stalowych olbrzymów, ale nie potrafi zidentyfikować części nadających się do odzysku i wkrótce znów powtarza komunikaty, które wygłaszał przy twoim przybyciu." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "Zniszczyć maszyny Mark III magitek colossus" },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "Zdać relację węzłowi montażowemu" },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "\\<pik> \\<pik> Za mało materiałów do kontynuowania produkcji. Proszę dostarczyć dodatkowe materiały.<br>\\<pik> \\<pik> Za mało materiałów do kontynuowania produkcji. Proszę dostarczyć dodatkowe materiały." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "Jeśli surowce są niedostępne, można odzyskać je z niepotrzebnego sprzętu. Proszę zniszczyć trzy stalowe olbrzymy, by umożliwić odzysk ich części." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "Proszę zniszczyć trzy stalowe olbrzymy, by umożliwić odzysk ich części i wznowienie produkcji." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "Potwierdzanie zniszczenia niepotrzebnego sprzętu... \\<pik> \\<pik> Potwierdzono.<br>Sprawdzanie stanu części nadających się do odzysku... \\<pik> Nie można potwierdzić jakości materiałów. Nie można kontynuować produkcji." }
   ]
 }

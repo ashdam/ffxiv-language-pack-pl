@@ -2,12 +2,12 @@
   "conversation": "custom/006/RegRoc2Jaquoinie_00671",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_000", "hash": "F121D5E77C4B0698", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_001", "hash": "01CCE1ED7764D064", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_002", "hash": "2F6A1902C8FF044C", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_003", "hash": "06858E24147110EE", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_010", "hash": "24C54437C800B59E", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_011", "hash": "C83DF7802ECA1320", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_012", "hash": "8BD4D04374780507", "target": "" }
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_000", "hash": "F121D5E77C4B0698", "target": "Jestem żołnierzem w służbie lorda Aurvaela de Haillenarte. Jeśli szuka <if(gnum4,pani,pan)> mojego pana, obawiam się, że jest zajęty przygotowaniami do nowego przedsięwzięcia." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_001", "hash": "01CCE1ED7764D064", "target": "Jestem żołnierzem w służbie lorda Aurvaela de Haillenarte. Jeśli szuka <if(gnum4,pani,pan)> mojego pana, przebywa obecnie w dzielnicy Firmament, zajmując się nowym przedsięwzięciem." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_002", "hash": "2F6A1902C8FF044C", "target": "Chętnie jednak pomogę <if(gnum4,pani,panu)> z posiadanymi zamkniętymi skrzynkami, a także wymienię towary za <if(gnum4,pani,pana)> łupy sky pirate spoils." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_003", "hash": "06858E24147110EE", "target": "Ze względu na ostatnie wydarzenia przedmioty te nie są już tak pospolite jak dawniej, ale jeśli uda się je <if(gnum4,pani,panu)> zdobyć, proszę śmiało do mnie przyjść." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_010", "hash": "24C54437C800B59E", "target": "Jeśli szuka <if(gnum4,pani,pan)> mojego pana Aurvaela, obawiam się, że jest zajęty przygotowaniami do nowego przedsięwzięcia." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_011", "hash": "C83DF7802ECA1320", "target": "Jeśli szuka <if(gnum4,pani,pan)> mojego pana Aurvaela, przebywa obecnie w dzielnicy Firmament, zajmując się nowym przedsięwzięciem." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_012", "hash": "8BD4D04374780507", "target": "Chętnie jednak pomogę <if(gnum4,pani,panu)> z posiadanymi zamkniętymi skrzynkami, a także wymienię towary za <if(gnum4,pani,pana)> łupy sky pirate spoils." }
   ]
 }

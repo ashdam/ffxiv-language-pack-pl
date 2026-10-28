@@ -2,10 +2,10 @@
   "conversation": "custom/005/CtsErkEureka4Guide2_00555",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_000", "hash": "1DF7E11A340A3F29", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_010", "hash": "E630E2CCE0B9E458", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_020", "hash": "25862C2E083CC52D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_030", "hash": "98139FE1D82EA599", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_040", "hash": "D7FB848D0ED3ECAB", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_000", "hash": "1DF7E11A340A3F29", "target": "Przy takim natężeniu eteru wody trudno się dziwić, ale powietrze jest tu strasznie wilgotne. \\<wzdycha> Teraz trzeba będzie uważać na pleśń. W chłodniejszych regionach utrzymanie świeżości jedzenia nie stanowiło problemu..." },
+    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_010", "hash": "E630E2CCE0B9E458", "target": "Zapieczętowali bożka, tak? To dobrze. Uczeni i bohaterowie dokonują wielkich czynów, ale moje miejsce jest tutaj, przy garnku. Napełnianie pustych brzuchów pożywnymi daniami w takich warunkach samo w sobie jest epickim przedsięwzięciem..." },
+    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_020", "hash": "25862C2E083CC52D", "target": "A więc to koniec wyprawy? Może na tę okazję wymyślę nowy smak gulaszu!" },
+    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_030", "hash": "98139FE1D82EA599", "target": "Wyprawa dobiega końca, ale w obozie panuje ponury nastrój. Może lekkie, smaczne danie pomoże rozproszyć ten przytłaczający smutek..." },
+    { "gameKey": "custom/005/CtsErkEureka4Guide2_00555#TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_040", "hash": "D7FB848D0ED3ECAB", "target": "Cokolwiek wydarzyło się w tej wieży, wiem tylko, że oznacza to koniec wyprawy. Czas przygotować moje najwspanialsze danie i przywrócić siły naszym strudzonym badaczom!" }
   ]
 }

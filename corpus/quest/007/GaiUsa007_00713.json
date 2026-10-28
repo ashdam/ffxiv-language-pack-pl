@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa007_00713",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "" }
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "Piralnaut potrzebuje zdolnych ochotników do patrolowania gridańskiego pogranicza." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "Straty uszczupliły załogę Wieży Josselina. Piralnaut prosi o patrolowanie okolicy w zastępstwie rannych. Na trasie znajdują się trzy strategiczne punkty, każdy oznaczony sztandarem Zakonu Dwóch Żmij. Udaj się kolejno do każdego z nich." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "Bezpiecznie kończysz patrol. Zdaj raport wartownikowi o imieniu Piralnaut." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "Na wieść o twoim spotkaniu z groźnymi potworami Piralnaut wyraża niepokój z powodu ich rosnącej liczby." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "Pełnić wartę przy sztandarach Zakonu Dwóch Żmij" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "Zdać raport wartownikowi o imieniu Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "Wyglądasz na kogoś twardszego niż przeciętny poszukiwacz przygód. Może dołożysz swoją cegiełkę do utrzymania pokoju? Patrolujemy okolicę dniem i nocą, ale po ostatniej potyczce tuzin moich najlepszych ludzi trafił do lecznicy. Bardzo nam teraz brakuje rąk." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "Będę wdzięczny za pomoc w zastąpieniu rannych. Na trasie patrolu są trzy strategiczne punkty, każdy oznaczony sztandarem Zakonu Dwóch Żmij. Wystarczy odwiedzić je po kolei i przez chwilę utrzymać pozycję. Nic trudnego, prawda?" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "Dobrze widzieć cię w jednym kawałku. Jest coś do zgłoszenia?<br>...Spotkanie z groźnymi potworami? To bardzo dziwne. Nigdy wcześniej miejscowe zwierzęta nie sprawiały kłopotów na tej trasie." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "Hmm... Może ich przybywa. Musimy bacznie obserwować sytuację. Tak czy inaczej, dziękuję za pomoc." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

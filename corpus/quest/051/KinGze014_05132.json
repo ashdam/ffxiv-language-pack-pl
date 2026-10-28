@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze014_05132",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "" }
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Szkodniki atakujące uprawy to jedno. Co jednak począć, kiedy to uprawy <italic(1)>są<italic(0)> szkodnikami?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "Rozlać środek odstraszający flying popoto we wskazanych miejscach i pokonać pojawiających się wrogów" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "Porozmawiać ze zmartwionym cywilem" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>, <if(gnum4,podróżniczko,podróżniku)>. Heh, wyglądasz na kogoś, komu nieobce jest niebezpieczeństwo. Jeśli tak, mam dla ciebie robotę." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "Ostatnio roi się tu od stworzeń flying popoto. Nie daj się zwieść nazwie─to paskudne małe bestie. Jakiś czas temu rozlaliśmy środek odstraszający, ale chyba przestaje działać." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "Odkąd pojawiła się ta olbrzymia kopuła, mamy na głowie tyle kłopotów, że nie sposób znaleźć czas na rozlanie środka. Pewnie dlatego te przeklęte popoto nadciągają całymi chmarami. W tym tempie niedługo opanują całą osadę!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "Chcę rozlać środek osobiście, ale zaraz zrobiłyby sobie ze mnie ucztę. Może mnie wyręczysz?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "Aha, środek nie działa od razu, więc obecne tam stworzenia flying popoto pewnie trzeba będzie przerzedzić tradycyjnym sposobem. Jeśli tym też się zajmiesz, wyświadczysz nam wszystkim ogromną przysługę!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "Kurczę, ostatnie, czego mi trzeba, to nekrolog z napisem: „Pożarty przez popoto”..." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "Wszystko gotowe? To powinno je przynajmniej na jakiś czas odstraszyć." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "Zanim odkryliśmy, jak zrobić środek odstraszający z gorzko pachnących soków, te popoto pustoszyły nasze pola i pożerały rroneeki... Niejednego mieszkańca też próbowały ugryźć!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "Prosiliśmy Straż Pyłu, żeby się nimi zajęła, ale nie chciała mieć nic wspólnego z tępieniem dzikich... eee, bulw. Można by też postawić ogrodzenie, tyle że brakuje nam ludzi i materiałów. Dlatego opracowaliśmy ten środek." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "Ale dość już zawracania ci tym głowy! Bardzo nam pomagasz i nieprędko to zapomnę." }
   ]
 }

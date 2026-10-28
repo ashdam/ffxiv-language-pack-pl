@@ -1,0 +1,32 @@
+{
+  "sheet": "GcArmyExpeditionTraitCond",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "GcArmyExpeditionTraitCond#1", "hash": "97C3F3FA09D7967C", "target": "Podczas czynnego udziału w misji szwadronu" },
+    { "gameKey": "GcArmyExpeditionTraitCond#2", "hash": "A3F7B35F44D78E6A", "target": "Na zalecanym poziomie instancji lub wyższym" },
+    { "gameKey": "GcArmyExpeditionTraitCond#3", "hash": "83BE76FC926D275A", "target": "Powyżej poziomu 50" },
+    { "gameKey": "GcArmyExpeditionTraitCond#4", "hash": "5C3B4B39195E08A8", "target": "W towarzystwie osoby z ludu Hyur" },
+    { "gameKey": "GcArmyExpeditionTraitCond#5", "hash": "934D0CF5C62DDC29", "target": "W towarzystwie osoby z ludu Elezen" },
+    { "gameKey": "GcArmyExpeditionTraitCond#6", "hash": "E073FBEB255DBCB2", "target": "W towarzystwie osoby z ludu Miqo'te" },
+    { "gameKey": "GcArmyExpeditionTraitCond#7", "hash": "0F710548BAF22B93", "target": "W towarzystwie osoby z ludu Lalafell" },
+    { "gameKey": "GcArmyExpeditionTraitCond#8", "hash": "3A6EB511FF91DB56", "target": "W towarzystwie osoby z ludu Roegadyn" },
+    { "gameKey": "GcArmyExpeditionTraitCond#9", "hash": "48D39948FBAAE451", "target": "W towarzystwie osoby z ludu Au Ra" },
+    { "gameKey": "GcArmyExpeditionTraitCond#10", "hash": "A1C87B28813FEE37", "target": "W towarzystwie osoby klasy Gladiator" },
+    { "gameKey": "GcArmyExpeditionTraitCond#11", "hash": "83470D5B81C6D486", "target": "W towarzystwie osoby klasy Marauder" },
+    { "gameKey": "GcArmyExpeditionTraitCond#12", "hash": "A07B1C984FD87AB7", "target": "W towarzystwie osoby klasy Archer" },
+    { "gameKey": "GcArmyExpeditionTraitCond#13", "hash": "0CBB061AADCB57F7", "target": "W towarzystwie osoby klasy Lancer" },
+    { "gameKey": "GcArmyExpeditionTraitCond#14", "hash": "D46F1BFF724DEBEE", "target": "W towarzystwie osoby klasy Rogue" },
+    { "gameKey": "GcArmyExpeditionTraitCond#15", "hash": "FBC40624992291EB", "target": "W towarzystwie osoby klasy Pugilist" },
+    { "gameKey": "GcArmyExpeditionTraitCond#16", "hash": "2739AD53DBE3D11B", "target": "W towarzystwie osoby klasy Conjurer" },
+    { "gameKey": "GcArmyExpeditionTraitCond#17", "hash": "2258AE28F0E10943", "target": "W towarzystwie osoby klasy Thaumaturge" },
+    { "gameKey": "GcArmyExpeditionTraitCond#18", "hash": "554620C85139D261", "target": "W towarzystwie osoby klasy Arcanist" },
+    { "gameKey": "GcArmyExpeditionTraitCond#19", "hash": "72673A6FA84191BB", "target": "W towarzystwie osoby tej samej rasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#20", "hash": "1A9A6BD4E9D4DAAB", "target": "Bez towarzysza tej samej rasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#21", "hash": "51BB67C07695B815", "target": "W towarzystwie osoby tej samej klasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#22", "hash": "7C5141F5A73F0383", "target": "Bez towarzysza tej samej klasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#23", "hash": "3EEC23F06AB6880E", "target": "Gdy każdy członek szwadronu jest innej rasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#24", "hash": "71F48781FFFC15D7", "target": "Gdy każdy członek szwadronu ma inną klasę" },
+    { "gameKey": "GcArmyExpeditionTraitCond#25", "hash": "B19F87900220A757", "target": "Z co najmniej 3 członkami tej samej rasy" },
+    { "gameKey": "GcArmyExpeditionTraitCond#26", "hash": "C4CF7CF6AE40E583", "target": "Z co najmniej 3 członkami tej samej klasy" }
+  ]
+}

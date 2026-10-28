@@ -2,15 +2,15 @@
   "conversation": "quest/011/GaiUse106_01180",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_00", "hash": "8069D322F212F65F", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_01", "hash": "5739CDDB54C9147C", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_02", "hash": "83716521AED67DB5", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_TODO_00", "hash": "D1DCD383ED621D66", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_000", "hash": "348E57A8179247BE", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_001", "hash": "5228B34F15D45F9A", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_002", "hash": "C1BE01F1854EB198", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_010", "hash": "BDADCDF30982B347", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_011", "hash": "77320513635F3CFB", "target": "" },
-    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_012", "hash": "84744D082B8F2205", "target": "" }
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_00", "hash": "8069D322F212F65F", "target": "Minfilia zamierza wysłać cię do Revenant's Toll." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_01", "hash": "5739CDDB54C9147C", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Minfilią w Przebudzonych Piaskach.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_02", "hash": "83716521AED67DB5", "target": "Slafborn cieszy się, że właśnie tobie powierzono reprezentowanie Dziedziców w Mycie Upiora, i żartobliwie oznajmia, że zamierza obarczyć cię pracą za tuzin ludzi. Choć potem twierdzi, że żartuje, jego przewrotna mina każe ci podejrzewać, że czasu w Mor Dhona nie spędzisz bezczynnie..." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_TODO_00", "hash": "D1DCD383ED621D66", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Minfilią w Przebudzonych Piaskach<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_000", "hash": "348E57A8179247BE", "target": "Zastanawiasz się czasem, jak on to robi? Mam na myśli Alphinauda. Niemal można było przewidzieć, że pojawi się z wysłannikiem Gildii Poszukiwaczy Przygód ledwie chwilę po tym, jak wyraziłam potrzebę zacieśnienia więzi między naszymi organizacjami. Doprawdy, jego wyczucie chwili dorównuje nawet twojemu..." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_001", "hash": "5228B34F15D45F9A", "target": "Odłóżmy jednak na razie te tajemnice─mam dla ciebie dwa zadania." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_002", "hash": "C1BE01F1854EB198", "target": "Po pierwsze, chciałabym, żeby te dokumenty trafiły do Slafborna. Dotyczą nadchodzącej przeprowadzki. Po drugie─a to trudniejsze zadanie─chcę, by Slafborn mógł liczyć na twoje usługi, zgodnie z umową między nami a Gildią Poszukiwaczy Przygód. Dobrze nas reprezentuj, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_010", "hash": "BDADCDF30982B347", "target": "Powiedziano mi, że mam oczekiwać kogoś od Dziedziców, ale nie sądziłem, że to będziesz ty. Minęło stanowczo zbyt wiele czasu, <split(<string(gstr1)>, ,1)>. Masz coś dla mnie, tak?" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_011", "hash": "77320513635F3CFB", "target": "Zobaczmy... Tak, wszystko wydaje się w porządku." },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_012", "hash": "84744D082B8F2205", "target": "Zostaniesz z nami na jakiś czas, prawda? Doskonale. Przydałby się nam tuzin takich jak ty. Skoro jednak nie mamy, po prostu damy ci pracę za tuzin ludzi. He! Żartuję, żartuję... Cóż, wkrótce się przekonasz." }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "custom/009/RegYok6Bakooljaja_00975",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_000", "hash": "63E6429F5D07A0C1", "target": "" },
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_100", "hash": "26291EDF051B4F8B", "target": "" },
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_101", "hash": "EE9FA4F407AEC24C", "target": "" },
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_102", "hash": "D66174FBBB1D1A60", "target": "" },
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_103", "hash": "9F5AE24000BCA98E", "target": "" },
-    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_104", "hash": "BAF569FAB480313A", "target": "" }
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_000", "hash": "63E6429F5D07A0C1", "target": "Słudzy Świtu powierzyli nam ochronę lasu i będziemy go chronić." },
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_100", "hash": "26291EDF051B4F8B", "target": "Choć udało nam się go powstrzymać, Sareel Ja wyrządził znaczne szkody. Jako dowódca tutejszej straży musiałem poinformować Sługi Świtu o sytuacji i przeprosić za to, że sprawy tak bardzo wymknęły się spod kontroli." },
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_101", "hash": "EE9FA4F407AEC24C", "target": "Po wysłuchaniu całej historii powiedziała tylko: „Cóż, cieszę się, że udało ci się znaleźć nowych przyjaciół”. Co za tupet!" },
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_102", "hash": "D66174FBBB1D1A60", "target": "Cóż, nie myliła się, bracie." },
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_103", "hash": "9F5AE24000BCA98E", "target": "Ugh, nie zachęcaj jej!" },
+    { "gameKey": "custom/009/RegYok6Bakooljaja_00975#TEXT_REGYOK6BAKOOLJAJA_00975_BAKOOLJAJA_000_104", "hash": "BAF569FAB480313A", "target": "W każdym razie, jeśli kiedykolwiek wrócą do Turalu, nikt nie powie, że zaniedbaliśmy obowiązki." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah102_01380",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "" }
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "Fyuu chce przeciwdziałać agresywnym poczynaniom Koralowych Trójzębów." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "Fyuu obawia się, że sztandary bojowe postawione przez Koralowe Trójzęby sprowokują żołnierzy strzegących zapór. Zabierz otrzymane od młodego wojownika krzemienie do Bazy Lądowej Sahagin i spal te symbole wojny i przemocy." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "Sztandary bojowe Koralowych Trójzębów płoną. Wróć do Fyuu w Wylęgarni Novva i zgłoś powodzenie." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "Fyuu jest przekonany, że twój drobny akt wandalizmu niepostrzeżenie przysłużył się pokojowym dążeniom Novva. Choć jego lęg w miarę możliwości woli dyplomację, młody wojownik Sahagin uważa, że wobec fanatycznych pobratymców skuteczne jest tylko bardziej bezpośrednie działanie." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "Spalić sztandary bojowe Sahagin przed zaporami" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "Złożyć raport Fyuu" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "Psssz... Koralowe Trójzęby postawiły sztandary bojowe zaledwie kilka kroków od zapór. Uważam, że pozwalanie im tak prowokować żołnierzy na murach jest niebezpieczne." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "Wiem, że ojciec lęgu zaleca rozmowę zamiast niszczenia, ale─w przeciwieństwie do mojego brata z lęgu Pyuu─nie sądzę, by Trójzęby przychylnie przyjęły uprzejmą prośśśbę." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "Moim zdaniem pora na drobny akt wandalizmu. Weź te krzemienie i wykrzesz isskry na ich sztandary. Powinny pięknie płonąć." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "Weź krzemienie, które ci dałem, i spal te sztandary bojowe! Stosunek Trójzębów do rzeczowej rozmowy jest dobrze znany─skoro nie możemy odwieść ich słowami, musimy inaczej przeciwdziałać ich wrogości!" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "Świetna robota! Prosty czyn, to prawda, ale niepostrzeżenie przyssłużył się naszej sprawie." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "Psssz. Bracia z lęgu uważają mnie za porywczego, a ojciec lęgu Novv często karci mnie za mój temperament..." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "Ale bezpośrednie działanie to <italic(1)>jedyny<italic(0)> sssposób na Koralowe Trójzęby. I pamiętaj: wszystko robimy po to, by zapobiec większemu konfliktowi z waszymi bezpłetwymi ludami." }
   ]
 }

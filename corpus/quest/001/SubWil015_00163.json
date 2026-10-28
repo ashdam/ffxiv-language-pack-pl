@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubWil015_00163",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "" }
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "Kupiec Jajakuta jest wyraźnie zaniepokojony i potrzebuje pomocy." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "Jajakuta otrzymał z Gildii Pięściarzy zamówienie na rękawice i skórzane ochraniacze, ale brakuje mu materiałów. Zdobądź potrzebne skóry, udając się do rejonu Central Thanalan i zabijając snapping shrew." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "Zbierasz pięć skór ryjówek, o które prosił Jajakuta. Dostarcz mu je przed Gildię Pięściarzy." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "Po dostarczeniu skór możesz spać spokojnie, wiedząc, że te nieszczęsne ryjówki będą żyć wiecznie w narzędziach wojny, którymi staną się ich skóry." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "Zebrać skóry ze snapping shrew w rejonie Central Thanalan" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "Zdać sprawę Jajakucie przed Gildią Pięściarzy" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "Powiedz, co cię tu sprowadza? Hm? Może szukasz pracy? Drobnej robótki, która dociąży twoją sakiewkę, hm?" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "No to masz szczęście! Pięściarze właśnie zamówili u mnie skórzane rękawice i ochraniacze, których używają do sparingów." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "Ale Kupcy są okrutni, bo zabrakło mi potrzebnych skór. Gdybym tylko miał skóry kilku snapping shrew..." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "Co ty na to, hm? Pomożesz kupcowi, któremu nie sprzyja los? Przynieś pięć skór snapping shrew, a obiecuję, że nie pożałujesz. Te stworzenia grasują w rejonie Central Thanalan." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "Już z powrotem? Pokaż, co masz." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "Wybornie! To naprawdę znakomite skóry ryjówek! Dobra robota." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "Gildia Pięściarzy to jeden z moich największych klientów. Boję się myśleć, co by było, gdyby zamówienie opóźniło się jeszcze bardziej." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "Weź to, hm? Należy ci się z nawiązką." }
   ]
 }

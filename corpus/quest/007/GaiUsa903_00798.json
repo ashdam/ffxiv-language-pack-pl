@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa903_00798",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "Ademarowi przydałoby się trochę wysokości." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "Ademar chce szukać nowych żył rudy i prosi o pomoc w ustawieniu drabin, dzięki którym dotrze w trudno dostępne miejsca." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "Wszystkie trzy drabiny stoją już zgodnie ze wskazówkami. Poinformuj Ademara o wykonaniu zadania." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "Żyły rudy szybko się wyczerpują, a poszukiwacze złóż muszą stale rozglądać się za kolejnymi. Ademar kopie dalej z nadzieją, że dzień wielkiego bogactwa jest już bliski." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "Ustawić drabiny zgodnie ze wskazówkami Ademara" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "Zdać relację Ademarowi" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "Może znowu mi pomożesz? Upatrzyłem sobie nowe żyły rudy, ale te moje nogi są trochę za krótkie, żeby tam dotrzeć." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "Możesz ustawić dla mnie te drabiny? Sam bym to zrobił, ale ostatnio w tych stronach zrobiło się strasznie niebezpiecznie." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "Znowu ogromnie mi pomagasz. Przy tych wszystkich paskudnych stworach w okolicy sam nigdy bym tego nie zrobił." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "Nie wiem, jaka ruda tam czeka, ale zapamiętaj moje słowa: pewnego dnia dorobię się fortuny i opuszczę to miejsce na dobre!" }
   ]
 }

@@ -10,7 +10,7 @@
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_SEQ_05", "hash": "67343D19EA6739CF", "target": "Ranny zapewnia, że obrażenia są niegroźne i może wracać w stronę miasta. Wróć do mistrza rzemiosła na zachód od Yedlihmad." },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_SEQ_06", "hash": "2D51EA4962E0515E", "target": "Pracodawca dziękuje za ocalenie jego kolegi. Zapłatę można odebrać od Kancany w samym Yedlihmad." },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_SEQ_07", "hash": "D0A818653983999C", "target": "Otrzymujesz obiecaną nagrodę od Kancany, a także jej szczere uznanie. Możliwość dalszej pracy wisi w powietrzu, lecz zważywszy na głęboko zakorzeniony lęk Ogul przed wszystkim, co wiąże się z ludem Matanga, zastanawiasz się, czy nie będzie nadal potrzebować twojej pomocy..." },
-    { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_TODO_00", "hash": "A2CF490BB5890B7E", "target": "Porozmawiaj z Ogul." },
+    { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_TODO_00", "hash": "A2CF490BB5890B7E", "target": "Porozmawiać z Ogul" },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_TODO_01", "hash": "CCF1700CB08E0D2E", "target": "Porozmawiaj z mistrzem rzemiosła na zachód od Yedlihmad." },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_TODO_02", "hash": "0940208AD819911D", "target": "Poszukaj Ogul." },
     { "gameKey": "quest/044/AktKza201_04489#TEXT_AKTKZA201_04489_TODO_03", "hash": "56419DB32CA81D4D", "target": "Pomóż rannemu przedstawicielowi ludu Arkasodara." },

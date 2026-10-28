@@ -116,7 +116,7 @@
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSARUDH_000_198", "hash": "6D56AA3F402EE6F0", "target": "Wszystko w porządku, pani Tataru. Wkrótce będziemy gotowi do otwarcia." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_199", "hash": "E1F80AD15D93A4BB", "target": "Właśnie dlatego chciałam, by <if(gnum4,została pani naszą pierwszą klientką,został pan naszym pierwszym klientem)>. Czy mogę prosić o jeszcze chwilkę cierpliwości?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_210", "hash": "17B2B8BC2B6DEE7C", "target": "Proszę poczekać jeszcze chwileczkę. Zaraz wszystko będzie gotowe!" },
-    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_SYSTEM_000_220", "hash": "2D23BBAEBA7D5A2C", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_SYSTEM_000_220", "hash": "2D23BBAEBA7D5A2C", "target": "Następnego wydarzenia nie można pominąć. Warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_Q2_000_221", "hash": "4639CCC490273FF4", "target": "Poczekać na otwarcie butiku Tataru?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSHAHN_000_222", "hash": "C570EF0CE925A87C", "target": "Ach, nie spodziewałem się ciebie tutaj." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSHAHN_000_223", "hash": "3191BC4D75C7E071", "target": "Nidhana zapewne również chciałaby cię pozdrowić. Niestety, po dostarczeniu naszych smoczych łusek inżynierom została, by pomóc im przy reaktorze eterycznym." },

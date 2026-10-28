@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq032_03803",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_00", "hash": "1C0D038527562618", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_01", "hash": "E0DDD7A9FD9E14C9", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_02", "hash": "8784BA6951CFC665", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_TODO_00", "hash": "0DF091E0C9F71C71", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_001", "hash": "13CDCF4E55B58C02", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_002", "hash": "411A920D884615E5", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SYSTEM_000_003", "hash": "651CE27F5984E2CA", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SYSTEM_000_004", "hash": "4E688E657AED003C", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_Q1_000_000", "hash": "0591FFE576BBC972", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_005", "hash": "F13BF0B0CBD2D596", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_QITARLNATL_000_006", "hash": "65A2DFFFF90101DD", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_007", "hash": "928CC59C8BBA07EB", "target": "" },
-    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_008", "hash": "8F2E0F5C1360F41F", "target": "" }
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_00", "hash": "1C0D038527562618", "target": "Chaqurl Qhotl chce przekonać cię do swojej teorii o wspólnej historii Qitari i Viis.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego obecnego poziomu." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_01", "hash": "E0DDD7A9FD9E14C9", "target": "Przekonują cię argumenty Chaqurla Qhotla i popierasz jego teorię, że Qitari i Viis od samego początku żyli w przyjaźni, czym bardzo cieszysz chłopca. Niechętnie przyznając, że syn może mieć rację, Qitarl Natl zgadza się pomóc w odtworzeniu drugiej steli.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je wykonywać tylko tą klasą lub tym jobem, którymi je przyjęto." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SEQ_02", "hash": "8784BA6951CFC665", "target": "Pod twoim czujnym okiem rzemieślnicy Qitari odtwarzają drugą stelę zgodnie z interpretacją Chaqurla Qhotla. Pokrzepieni odzyskaniem ważnej części dziedzictwa, Opiekunowie przystępują do wykopalisk z nowym zapałem. Jeśli zechcesz, nadal wspieraj ich wysiłki." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_TODO_00", "hash": "0DF091E0C9F71C71", "target": "Porozmawiać z Chaqurlem Qhotlem" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_001", "hash": "13CDCF4E55B58C02", "target": "Przecież <if(gnum4,widziała pani,widział pan)>, jak mistrzyni Lanille przyjęła nas w Fanow. To po prostu nie-<italic(1)>dorzeczyszcze<italic(0)>, żeby przyjaciółki moich pra-pra-pra─i tak dalej─babć i dziadków polowały na nas jak na szkodniki!" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_002", "hash": "411A920D884615E5", "target": "Tak, jestem pewien, że Viis były naszymi przyjaciółkami od początku. Qitari na rycie wznosi ręce z czystej radości. Z pewnością się <if(gnum4,pani,pan)> zgodzi?" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SYSTEM_000_003", "hash": "651CE27F5984E2CA", "target": "Jeśli poprzesz teorię Chaqurla Qhotla, druga stela zostanie odtworzona zgodnie z jego interpretacją historii. Po podjęciu tej decyzji nie zobaczysz wersji steli, którą wyobraża sobie Qitarl Natl." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_SYSTEM_000_004", "hash": "4E688E657AED003C", "target": "Nagrody i zawartość kolejnych zadań będą takie same niezależnie od dokonanego wyboru. Wybierz wersję historii, która najbardziej cię przekonuje." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_Q1_000_000", "hash": "0591FFE576BBC972", "target": "Poprzeć teorię Chaqurla Qhotla?" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_005", "hash": "F13BF0B0CBD2D596", "target": "Prze-<italic(1)>wspaniaśnio<italic(0)>! O, dziękuję, <split(<string(gstr1)>, ,1)>. Wiedziałem, że <if(gnum4,pani,pan)> spojrzy na to tak jak ja!" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_QITARLNATL_000_006", "hash": "65A2DFFFF90101DD", "target": "Uważa <if(gnum4,pani,pan)>, że syn ma rację? Cóż... może pogodniejsze spojrzenie na historię ma pewne zalety. Dobrze, przystąpmy do odtwarzania steli." },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_007", "hash": "928CC59C8BBA07EB", "target": "Nareszcie kolejna część historii staje się jasna! Ale odzyskiwanie dziedzictwa jeszcze się nie skończyło. Proszę nadal nas wspierać!" },
+    { "gameKey": "quest/038/BanQiq032_03803#TEXT_BANQIQ032_03803_CHAQURLQHOTL_000_008", "hash": "8F2E0F5C1360F41F", "target": "Ojciec i ja poślemy po najlepszych rzemieślników. Prace muszą ruszyć natychmiast!" }
   ]
 }

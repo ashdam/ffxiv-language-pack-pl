@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz610_01878",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_00", "hash": "2CACD9F0DA01016D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_01", "hash": "E737960C7A66E7F9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_02", "hash": "E5C3575B04AA8E6D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_03", "hash": "A93AE5C58E3F3522", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_00", "hash": "7455A25E909A2A4D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_01", "hash": "BBB550F81FCAF805", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_AIRPORTINVESTIGATOR01871_000_011", "hash": "1128608515A46DB2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_000", "hash": "F96D2FD85996105A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_001", "hash": "C771EF98BEF9FDE4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_010", "hash": "027A552C73AF5A2B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_BALOON_000_015", "hash": "96ECCB2BC97886C9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_020", "hash": "B963AD194EFD132E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_021", "hash": "F43F551ABC928079", "target": "" }
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_00", "hash": "2CACD9F0DA01016D", "target": "Maenne nie może pozbyć się wrażenia, że ktoś ją obserwuje." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_01", "hash": "E737960C7A66E7F9", "target": "Od przybycia Maenne czuje wrogie spojrzenie skierowane na jej zwiadowców. Obawia się smoczej zasadzki. Prosi cię o zbadanie okolicy w poszukiwaniu wrogów, podczas gdy smoczy rycerze zostaną na posterunkach." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_02", "hash": "E5C3575B04AA8E6D", "target": "Odnajdujesz kilka smoków czekających, by zaskoczyć smoczych rycerzy, i szybko je zabijasz. Zdaj relację Maenne, by mogła zaplanować następny etap zwiadu." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_03", "hash": "A93AE5C58E3F3522", "target": "Maenne nie jest zaskoczona potwierdzeniem swoich podejrzeń, lecz zastanawia się, skąd smoki wiedzą o ruchach smoczych rycerzy. Ta wyprawa zwiadowcza może okazać się groźniejsza, niż początkowo sądzono." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_00", "hash": "7455A25E909A2A4D", "target": "Zbadać wskazane miejsca i zabić pojawiających się wrogów" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_01", "hash": "BBB550F81FCAF805", "target": "Zdać relację Maenne" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_AIRPORTINVESTIGATOR01871_000_011", "hash": "1128608515A46DB2", "target": "Pomyśleć, że kraina The Churning Mists kryje tak wspaniałe budowle... Czas i zaniedbanie zrobiły jednak swoje." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_000", "hash": "F96D2FD85996105A", "target": "Od przybycia czuję niepokój, jakby coś nas obserwowało..." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_001", "hash": "C771EF98BEF9FDE4", "target": "Lepiej zostańmy tutaj, na wypadek gdyby smoki szykowały zasadzkę. Nie zdradzajmy swoich podejrzeń. <split(<string(gstr1)>, ,1)>, proszę zbadać okolicę i sprawdzić, czy w cieniu nie czają się smoki." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_010", "hash": "027A552C73AF5A2B", "target": "Wpadnięcie w zasadzkę już podczas pierwszego wypadu byłoby fatalnym początkiem. Proszę zbadać okolicę, nim ruszymy dalej." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_BALOON_000_015", "hash": "96ECCB2BC97886C9", "target": "Giń, <if(gnum4,śmiertelniczko,śmiertelniku)>!" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_020", "hash": "B963AD194EFD132E", "target": "...Tak jak sądziłam, smoki próbowały nas zaskoczyć. Pod osłoną chmur uniknęliśmy gniewu Hordy w przestworzach, ale tutejsze smoki jakimś sposobem zwiedziały się o naszym przybyciu." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_021", "hash": "F43F551ABC928079", "target": "Nie możemy się jednak wahać tylko dlatego, że czeka nas niebezpieczeństwo. Przeprowadzimy zwiad zgodnie z planem. <split(<string(gstr1)>, ,1)>, proszę się przygotować─ta misja może okazać się trudniejsza, niż przewidywaliśmy." }
   ]
 }

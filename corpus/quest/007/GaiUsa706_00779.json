@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa706_00779",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_00", "hash": "1B20FF37E1F05268", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_03", "hash": "01429D6106D1A88C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_00", "hash": "C8EBF905A3B8CAAD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_01", "hash": "CBF4DE6587FAC61A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_000", "hash": "626FFED6DAE906A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_001", "hash": "2C5A9B081C9ECB80", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_002", "hash": "9AED37D478A6A76A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_030", "hash": "2308D9E03A14896D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_031", "hash": "CD4E80B4985EC822", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_032", "hash": "C07D8963BD6C165D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_POP_MESSAGE_000", "hash": "B009F7EDFF1A37EB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_00", "hash": "1B20FF37E1F05268", "target": "Hremfing potrzebuje pomocy w rozprawieniu się z rozbójnikami." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "Wyjątkowo okrutna banda przestępców zwana Trupią Brygadą zadomowiła się w pobliżu osady Little Ala Mhigo. Udaj się na północny wschód od osady i zabij napotkanych złodziei." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "Szeregi Trupiej Brygady zostały przerzedzone. Bandyci wiedzą już, że mieszkańcy osady Little Ala Mhigo nie będą znosić ich niegodziwości. Powiadom Hremfinga o sukcesie." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_03", "hash": "01429D6106D1A88C", "target": "Zanim członkowie Trupiej Brygady stali się pospolitymi złodziejami, byli honorowymi Alamhigańczykami. Choć Hremfing współczuje rodakom, zamierza zrobić wszystko, by przestali kalać imię jego ojczyzny." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_00", "hash": "C8EBF905A3B8CAAD", "target": "Zabić bandytów Trupiej Brygady" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_01", "hash": "CBF4DE6587FAC61A", "target": "Zdać raport Hremfingowi" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_000", "hash": "626FFED6DAE906A3", "target": "Może dotarły do ciebie wieści o Trupiej Brygadzie─paskudnej bandzie rozbójników, która ostatnio terroryzuje te okolice." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_001", "hash": "2C5A9B081C9ECB80", "target": "Przemyt, kradzieże, mordowanie niewinnych z zimną krwią─gdy w okolicy dzieje się coś podłego, najpewniej stoi za tym Brygada." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_002", "hash": "9AED37D478A6A76A", "target": "Najchętniej ruszyłbym do ich kryjówki na północnym wschodzie i dał im nauczkę, ale wiem, kiedy przeciwnik mnie przerasta. Zwykle wahałbym się powierzyć zadanie komuś obcemu, lecz tobie chyba nie brak umiejętności. Co powiesz na danie tym łajdakom nauczki?" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_030", "hash": "2308D9E03A14896D", "target": "Dzięki ci─o twoim zwycięstwie mówi już cała osada. Może to jeszcze nie koniec Trupiej Brygady, ale przynajmniej wiedzą, że nie boimy się stawiać oporu!" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_031", "hash": "CD4E80B4985EC822", "target": "A pomyśleć, że ci ludzie byli niegdyś moimi rodakami. Czy oni nie mają wstydu?" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_032", "hash": "C07D8963BD6C165D", "target": "W czasach świetności Ala Mhigo Trupia Brygada służyła naszemu państwu z dumą i honorem. Smutno patrzeć, czym się stali, ale wybiłbym ich do nogi, gdybym dzięki temu miał pewność, że nie zhańbią już imienia naszej ojczyzny." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_POP_MESSAGE_000", "hash": "B009F7EDFF1A37EB", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

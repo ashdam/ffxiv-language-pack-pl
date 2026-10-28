@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb707_00902",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_00", "hash": "23FF77CAFD20D46F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_01", "hash": "449497F5EB1E3E13", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_02", "hash": "E324273C7712B40D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_03", "hash": "47C920C0B098C795", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_00", "hash": "1209F7E25FBCAE7B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_01", "hash": "9839AA0EACE9FB33", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_000", "hash": "C6501EA2438BEAA9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_001", "hash": "7175D626D0FE81E9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_002", "hash": "7BE57FACBD9A9670", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_060", "hash": "588CA0C6ABB4DB07", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_061", "hash": "4F213423A1A4FC57", "target": "" }
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_00", "hash": "23FF77CAFD20D46F", "target": "Arthurioux bardzo chce poprosić cię o przysługę w tę zimną, wietrzną noc." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_01", "hash": "449497F5EB1E3E13", "target": "Krzywiąc się na wycie wiatru, ser Arthurioux poleca ci sprawdzić, czy nie pogasły znicze wokół obozu. Użyj tlących się węgli, by rozpalić każdy niezapalony znicz." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_02", "hash": "E324273C7712B40D", "target": "Wszystkie ciemne znicze już płoną. Wdzięczni ludzie wkrótce ogrzeją przy nich zmarznięte dłonie i przeczytają listy z domu. Zdaj raport rycerzowi Arthurioux." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_03", "hash": "47C920C0B098C795", "target": "Ser Arthurioux cieszy się, że po raz pierwszy od jakiegoś czasu w wietrzną noc płoną wszystkie znicze w Obozie Smoczy Łeb. Może i uważa służbę za nudną, ale podejrzewasz, że całkiem mu odpowiada drzemanie przy ogniu." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_00", "hash": "1209F7E25FBCAE7B", "target": "Rozpalić znicze tlącymi się węglami" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_01", "hash": "9839AA0EACE9FB33", "target": "Zdać raport rycerzowi Arthurioux" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_000", "hash": "C6501EA2438BEAA9", "target": "Prawdę mówiąc, dawniej złościłem się, gdy przypadało mi pilnowanie ognia, ale teraz dziękuję swoim szczęśliwym gwiazdom. W Coerthas nuda w cieple zawsze wygrywa z nudą na zimnie. Na ciepło na pewno nie narzekam!" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_001", "hash": "7175D626D0FE81E9", "target": "Brakuje nam jednak ludzi. Nasze światła tak przygasły, że nic dziwnego, iż patrol wziął błędne ogniki za warownię. Dziś mocno wieje północny wiatr─obejdziesz znicze i rozpalisz te, które zgasły?" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_002", "hash": "7BE57FACBD9A9670", "target": "Brrr, słyszysz ten wrzask! Czasem przysięgam, że sam klimat wypowiedział nam wojnę. Masz, weź ten żarzący się węgiel do rozpalania zniczy." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_060", "hash": "588CA0C6ABB4DB07", "target": "Gotowe? Podejdź bliżej ognia─skóra ci trochę posiniała. Cieszy mnie myśl, że dziś płoną wszystkie znicze, szczodrze dając światło i ciepło." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_061", "hash": "4F213423A1A4FC57", "target": "Tak, nudna praca, ale w cieple i do tego ważna. I jak mówiłem, na ciepło nie narzekam, ani trochę." }
   ]
 }

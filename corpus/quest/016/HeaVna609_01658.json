@@ -5,7 +5,7 @@
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_00", "hash": "88C4F8F7F0440C80", "target": "Wdzięczny Slowfix jest gotów spełnić twoje życzenie." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_01", "hash": "057EE2AE33A08AA7", "target": "Podczas skromnej uroczystości Slowfix ogłasza ciebie i twoich towarzyszy honorowymi mieszkańcami Idyllshire. Możecie już przekroczyć rzekę Thaliak. Porozmawiaj z gobwatch, gdy zechcesz ruszyć dalej." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_02", "hash": "E6B6437DF311CA0B", "target": "Gobwatch uprzątnął gruz z drogi. Porozmawiaj z Y'shtolą o następnym celu podróży." },
-    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_03", "hash": "CBA294867AD79118", "target": "Według Y'shtoli jaskinia Matoyi leży niedaleko. Cel podróży jest już blisko." },
+    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_03", "hash": "CBA294867AD79118", "target": "Według Y'shtoli Jaskinia Matoi leży niedaleko. Cel podróży jest już blisko." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_TODO_00", "hash": "88E7AFEABD2DC80F", "target": "Porozmawiać z gobwatch" },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_TODO_01", "hash": "67D2AF1A3AEBFAF7", "target": "Porozmawiać z czarodziejką Y'shtola" },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SLOWFIX_000_000", "hash": "D683C170B523632F", "target": "Pszsz... Szkoo... Wierzchniaki dotrzymały umowy znakomicie. Jak obiecał, Slowfix mianuje wierzchniaki honorowymi mieszkańcami Idyllshire. Mogą przekraczać rzekę, kiedy chcą." },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_GOBLINGUARD01658_000_010", "hash": "9C350783F52262F6", "target": "Pszsz... Szkoo...<br>Na rozkaz wodza Slowfixa wierzchniaki mogą swobodnie przechodzić." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_GOBLINGUARD01658_100_010", "hash": "A79BCF6731FB4724", "target": "Chwila na usunięcie barykady." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_020", "hash": "508DAF0A5CEA30F3", "target": "Nareszcie możemy ruszyć dalej." },
-    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_021", "hash": "E5459FF1498D724A", "target": "Ekhem. Jeśli nic nam nie przeszkodzi, wkrótce dotrzemy do jaskini Matoyi. Jeśli nie masz już spraw w Idyllshire, wyruszmy od razu." },
+    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_021", "hash": "E5459FF1498D724A", "target": "Ekhem. Jeśli nic nam nie przeszkodzi, wkrótce dotrzemy do jaskini Matoi. Jeśli nie masz już spraw w Idyllshire, wyruszmy od razu." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_023", "hash": "C5D9BE2E1E65ECE8", "target": "Przed nami Answering Quarter, gdzie uczeni z Sharlayanu gromadzili się, by doskonalić wiedzę." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_024", "hash": "BF1C00F11A5B049A", "target": "Nawet stąd widać, że przyroda odzyskała znaczną jego część." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_ALPHINAUD_000_022", "hash": "64FBBC573850EF06", "target": "Jestem gotów, kiedy tylko zechcecie. Chodźmy poznać legendarną Matoyę." }

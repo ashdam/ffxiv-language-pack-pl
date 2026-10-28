@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsc302_00969",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_00", "hash": "50E3FCC4786A90EC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_01", "hash": "020B831ECCBDF7E7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_02", "hash": "FFEAA55A9BB1371D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_TODO_00", "hash": "1E2290F50E69F314", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_000", "hash": "3B1D2BE247C8691B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_001", "hash": "6686379340B605F2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_002", "hash": "080A2AD818FC1A19", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_010", "hash": "EC4CDF5A39CB6C72", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_011", "hash": "89C5D95C1421ADC7", "target": "" }
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_00", "hash": "50E3FCC4786A90EC", "target": "Selaine potrzebuje doświadczonego poszukiwacza przygód jako dodatku do perfum." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_01", "hash": "020B831ECCBDF7E7", "target": "Selaine ma krótką, lecz wybredną listę zakupów, na której najwyraźniej jesteś i ty. Zanieś Jeulerandowi siebie oraz flakon perfum ze słodkich róż z rozpylaczem, by mogła odhaczyć kolejny obowiązek." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_02", "hash": "FFEAA55A9BB1371D", "target": "Jeulerand odbiera perfumy i spogląda na ciebie z niewytłumaczalnym zachwytem. Oby jego definicja dobrego poszukiwacza przygód nie odbiegała zbytnio od przyjętych norm." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_TODO_00", "hash": "1E2290F50E69F314", "target": "Dostarczyć perfumy Jeulerandowi w Małej Pociesze" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_000", "hash": "3B1D2BE247C8691B", "target": "Kolega po fachu poprosił, żebym znalazła w Gridanii dwie rzeczy: perfumy ze słodkich róż i dobrego poszukiwacza przygód." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_001", "hash": "6686379340B605F2", "target": "Perfumy już mam. Choć nie było łatwo, my, botanicy, niechętnie oddajemy nasze słodkie róże─a co do poszukiwacza przygód... Witaj, <if(gnum4,piękna,przystojniaku)>!" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_002", "hash": "080A2AD818FC1A19", "target": "No i lista zakupów gotowa! <if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód, zaniesiesz te perfumy i siebie do Jeuleranda w Małej Pociesze?" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_010", "hash": "EC4CDF5A39CB6C72", "target": "Witaj. Ty jesteś...? Och, <if(gnum4,poszukiwaczka,poszukiwacz)> przygód! Powiedz, nie masz przypadkiem perfum ze słodkich róż?" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_011", "hash": "89C5D95C1421ADC7", "target": "Ta Selaine to dobra kobieta! I perfumy, <italic(1)>i<italic(0)> <if(gnum4,poszukiwaczka,poszukiwacz)> przygód. Wie, jak załatwiać sprawy!" }
   ]
 }

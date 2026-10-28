@@ -29,7 +29,7 @@
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_21", "hash": "36F86C7EF027F58E", "target": "Bogowie świadkami, że nasze doniesienia leżałyby na biurku Ghimthoty i zbierały kurz, gdyby nie pomoc takich jak ty." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_22", "hash": "356B4ED9B093B29F", "target": "A skoro o doniesieniach mowa: widziałam jednego z tych parszywych piratów, jak czaił się przy urwisku koło Pustego Serca. Przyjrzałabym się temu, nim zdąży zatrzeć ślady." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CORSAIRFOLLOWA_000_30", "hash": "51A20FB4CEE0057E", "target": "<if(gnum4,Ba\\, wypatrzyłaś mnie,Ba\\, wypatrzyłeś mnie)>, co? Ale za późno─to, co ma się stać, już się dzieje." },
-    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_Q1_000_1", "hash": "BD8CCEB267485F85", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Victory in Peril”?" },
+    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_Q1_000_1", "hash": "BD8CCEB267485F85", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Victory w niebezpieczeństwie”?" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_A1_000_1", "hash": "A228FDF10C316AB7", "target": "Tak" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_A1_000_2", "hash": "E1462DD2627AF5A3", "target": "Nie" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_40", "hash": "B6020F5FF713EF7C", "target": "<if(gnum4,A więc znalazłaś mi jednego z tych piratów,A więc znalazłeś mi jednego z tych piratów)>?" },

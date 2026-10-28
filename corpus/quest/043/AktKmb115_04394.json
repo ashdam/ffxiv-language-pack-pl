@@ -23,7 +23,7 @@
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_YSHTOLA_000_033", "hash": "9BD2861C13ECAC10", "target": "Dla ich dobra nie możemy się wahać─ale nie możemy też w pogoni za zwycięstwem pędzić na oślep i sprowadzić kolejnego nieszczęścia..." },
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_SYSTEM_000_035", "hash": "6DC46E654AA29E78", "target": "Aby kontynuować, musisz mieć co najmniej 83. poziom jako <if(gnum4,Uczennica,Uczeń)> Wojny lub Magii." },
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_SYSTEM_000_040", "hash": "5F0CAD0B46BDDC97", "target": "Po zajęciu miejsca przy kolacji rozpocznie się seria przerywników filmowych." },
-    { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_SYSTEM_000_041", "hash": "FAD874AB1C9409DC", "target": "Zalecamy zarezerwowanie wystarczającej ilości czasu na obejrzenie tych scen w całości." },
+    { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_SYSTEM_000_041", "hash": "FAD874AB1C9409DC", "target": "Zalecamy zarezerwować dość czasu, by obejrzeć te sceny w całości." },
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_Q1_000_042", "hash": "18E15D66A896A3F6", "target": "Zasiąść do spokojnej kolacji?" },
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_ALPHINAUD_000_050", "hash": "739920DEB4EA2430", "target": "Na pewno wszystko już w porządku? Nie wolno ci się przemęczać, zwłaszcza po takim doświadczeniu." },
     { "gameKey": "quest/043/AktKmb115_04394#TEXT_AKTKMB115_04394_THANCRED_000_055", "hash": "9820703A7BA3335F", "target": "Nie trzeba przepraszać, zwłaszcza mnie. Jeśli już, dziwnie pokrzepia mnie myśl, że nie tylko ja służyłem łotrowi za marionetkę. Choć oby na tobie się skończyło..." },

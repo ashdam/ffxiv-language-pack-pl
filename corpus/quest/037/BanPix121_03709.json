@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix121_03709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "" }
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "Uin Nee przyda się pomoc w spełnieniu najskrytszego marzenia młodego członka ludu Mord.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "Zabić stworzenie anemone na północ od Lydha Lran i zdobyć wijący się wąs" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "Dostarczyć wijący się wąs Uin Nee" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "A więc niedawno zabawiam się we śnie małego Mord─tak, tak, ciebie też witam─a on zaczyna opowiadać, jak chciałby zjeść „całe wiadro robaków”! Zapewniam więc, że da się to zrobić. W końcu zajmuję się tkaniem snów i chętnie pomagam. Choć nie mam bladego pojęcia, o co mu chodzi..." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "Jak się okazuje, takie robaki─ponoć <italic(1)>niezwykle<italic(0)> dziwne─niełatwo zdobyć w Il Mheg. To znaczy nie ma ich tu wcale, a co dopiero całego wiadra!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "Ale bez obaw! Wystarczy trochę magii na czymś odpowiednio wijącym się i powinno wyjść na to samo. Mniej więcej. Chyba." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "Tak czy inaczej nie dowiemy się, póki nie spróbujemy! Dlatego przynieś mi wijący się kawałek stworzenia anemone. Im szybciej, tym lepiej, <if(gnum4,moja ulubiona śmiertelniczko,mój ulubiony śmiertelniku)>!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "Sądząc po ruchach tego worka, masz to, czego potrzebujemy!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "Idealnie! Ooo, ależ to obrzydliwe!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "Kilka drobnych poprawek i bez trudu zrobię z tego sennego robaka. Bez żadnego trudu! Zaraz, gdzie jest ta odłożona na później flegma..." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix118_03706",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "" }
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "Uin Nee chce narobić fal w Lyhe Mheg.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "Zbadać wskazane miejsce na północny wschód od Phisor Lran i zdobyć serce istoty icewater undine" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "Dostarczyć serce istoty icewater undine Uin Nee" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "Wiesz, kogo mi żal? Dzieci z Amh Araeng. Dlaczego? Bo woda jest tam tak cenna, że ledwie starcza im na kąpiel. A co dopiero na zabawy w „Podtop wiedźmę” czy „Blef Bismarcka”!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "Na szczęście dla nich mam kolejny genialny plan! Napełnimy Lyhe Mheg wodą!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "Dzięki temu dzieci będą się świetnie bawić, a my, pixie, popluskamy się do woli, bez tych nieznośnych Fuath, którzy wiecznie nam dokuczają." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "Potrzebujemy tylko serca istoty icewater undine. Gdy potraktuję je swoją magią, będziemy mieć rzek i wodospadów pod dostatkiem! Oczywiście zdobycie serca przypadnie tobie, choć wątpię, żeby oddano ci je z ochotą. Bez obaw, <italic(1)>raczej<italic(0)> nie czeka cię straszliwa śmierć!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "Udało ci się skraść serce tej istocie? Mam na myśli dosłownie." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "Ooo, piękny okaz! Dzięki niemu stworzymy tyle wody, ile potrzebujemy!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "Wkrótce Lyhe Mheg wypełni śmiech dzieci, które będą pływać, pluskać się i wciągać nawzajem w głębiny, zupełnie jak Fuath! To tylko sen, więc wszystko jest całkowicie bezpieczne. Chyba że prawdziwa jest ta plotka, że śmierć we śnie oznacza śmierć naprawdę...<br>Właściwie trzeba to będzie kiedyś sprawdzić." }
   ]
 }

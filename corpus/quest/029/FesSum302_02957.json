@@ -2,18 +2,18 @@
   "conversation": "quest/029/FesSum302_02957",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "" }
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "P'obyano potrzebuje kogoś do pomocy przy pokazach fajerwerków podczas Festynu Księżycowego Ognia.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "P'obyano prosi cię o pomoc w odpalaniu fajerwerków na Festynie Księżycowego Ognia. Użyj letniego fajerwerku na trzech moździerzach do fajerwerków w pobliżu Wyspy Wiecznego Lata.<br><br>※Po zakończeniu wydarzenia sezonowego ukończenie tego zadania nie będzie możliwe. Szczegóły można znaleźć w serwisie Lodestone." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "Udaje ci się użyć letniego fajerwerku na moździerzach do fajerwerków. Wróć z relacją do P'obyano na Wyspie Wiecznego Lata." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "Zdajesz P'obyano relację ze swoich działań. Porozmawiaj z nią ponownie, jeśli chcesz dalej pomagać przy pokazach fajerwerków na Festynie Księżycowego Ognia." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "Użyć letniego fajerwerku na moździerzu do fajerwerków" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "Zdać relację P'obyano" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "Wracasz po więcej? Nie odrzucę propozycji pomocy. Zechcesz odpalić dla nas jeszcze trochę fajerwerków?" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "Na wypadek, gdyby sposób wyleciał ci z głowy─wystarczy wrzucić letni fajerwerk do moździerza do fajerwerków w pobliżu zgromadzonych uczestników festynu." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "Nie musisz już rozmawiać z Jiriri. Ale tym razem proszę o odpalenie fajerwerków w trzech miejscach zamiast w jednym. Tylko się tam nie przegrzej!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "Wciąż ci mało tych fajerwerków, prawda, <split(<string(gstr1)>, ,1)>? Doskonale, nie zamierzam narzekać." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "Zadanie jest takie samo jak poprzednio. Odpal fajerwerki, wrzucając letni fajerwerk do moździerza do fajerwerków w pobliżu naszych gości. Będę wypatrywać ich na niebie." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "Pamiętaj─musisz wrzucić letnie fajerwerki do trzech moździerzy do fajerwerków. Uczestnicy festynu czekają. Pospiesz się!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "Kolejna świetna robota. Dziękuję, <split(<string(gstr1)>, ,1)>. Jeśli chcesz dalej pomagać, wiesz, gdzie mnie znaleźć. Tymczasem baw się dobrze na Festynie Księżycowego Ognia!" }
   ]
 }

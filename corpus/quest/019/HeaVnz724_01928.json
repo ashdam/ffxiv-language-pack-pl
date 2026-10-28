@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz724_01928",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_00", "hash": "147451316C8649C8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_01", "hash": "D1294A0A05A0B1D6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_02", "hash": "DE5A79527ACBBBD0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_03", "hash": "D2D8EE8F151C0998", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_04", "hash": "4E13B7093857258A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_00", "hash": "F998FBCB52E92C48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_01", "hash": "39E570772AF9BB07", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_02", "hash": "6F0F3EB0D6512CC6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_000", "hash": "5E4ECD3A337EB2B3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_001", "hash": "416C7BEC20E4EB1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_010", "hash": "A08216A85B2C7BE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_020", "hash": "D2CE42BEB22E6184", "target": "" }
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_00", "hash": "147451316C8649C8", "target": "Marcechamp siedzi w fotelu i aż się gotuje." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_01", "hash": "D1294A0A05A0B1D6", "target": "Jakaś dzika bestia porywa cenne chocobo Marcechampa, zanim ten zdąży wyjąć je z pułapek. Myśliwy prosi cię o zwabienie i zabicie stworzenia. Połóż otrzymane udo chocobo we wskazanym miejscu w Lesie Chocobo, by wywabić bestię." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_02", "hash": "DE5A79527ACBBBD0", "target": "Mięso chocobo leży na miejscu. Zaczaj się i zabij bestię, gdy się pojawi." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_03", "hash": "D2D8EE8F151C0998", "target": "Niedźwiedź nie żyje i nie skrzywdzi już żadnego chocobo Marcechampa. Zgłoś sukces nękanemu dotąd łowcy chocobo." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_04", "hash": "4E13B7093857258A", "target": "Marcechamp jest wdzięczny za tę pomoc i za wszystko, co dla niego robisz od przybycia do Tailfeather." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_00", "hash": "F998FBCB52E92C48", "target": "Położyć udo chocobo we wskazanym miejscu" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_01", "hash": "39E570772AF9BB07", "target": "Poczekać, aż bestia się ujawni, i zabić ją" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_02", "hash": "6F0F3EB0D6512CC6", "target": "Zdać sprawę Marcechampowi" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_000", "hash": "5E4ECD3A337EB2B3", "target": "...Niech to wszystko... Siedem piekieł! Jakaś bestia porywa <italic(1)>moje<italic(0)> ciężko zdobyte chocobo, zanim zdążę wyjąć je z pułapek. Moi ludzie mówią, że to jeden z największych niedźwiedzi, jakie kiedykolwiek widzieli.<br><br>Mam plan, jak zwabić tego żarłocznego drania, ale potrzebuję kogoś niezawodnego, kto go zabije─a niewielu dorównuje tobie!" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_001", "hash": "416C7BEC20E4EB1C", "target": "Weź to mięso chocobo i połóż tam, gdzie moi ludzie ostatnio widzieli bestię. Potem zaczaj się i czekaj, aż się pokaże. Jestem pewien, że dalej szybko sobie poradzisz." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_010", "hash": "A08216A85B2C7BE5", "target": "Idź tam, gdzie ostatnio widziano niedźwiedzia, i zwab go mięsem chocobo. Dopilnuj, żeby więcej nie sprawiał mi kłopotów." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_020", "hash": "D2CE42BEB22E6184", "target": "Rozumiem, że bestia nie będzie już nękać moich chocobo? Dziękuję, <if(gnum4,przyjaciółko,przyjacielu)>. Jestem twoim dłużnikiem za całą tę pomoc." }
   ]
 }

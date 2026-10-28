@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb406_00862",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "" }
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "Sierżant Swygrael czegoś chce, a ta dama zwykle dostaje to, czego zapragnie." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "Z uroczym brakiem rozwagi, właściwym pannom na całym świecie, sierżant Swygrael z Camp Overlook gubi osobiste drobiazgi podczas zatłukiwania welociraptorów. Prosi cię o zebranie pazurów raptorów i ząbkowanych grotów strzał, po trzy sztuki." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "Odzyskujesz pazury i groty ze śmierdzących trucheł welociraptorów. Powlecz się z powrotem do obozu i oddaj łup Swygrael." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "Mistrzostwo plemienia Kobold w obróbce metalu budzi respekt. Czy jednak łakomienie się na resztki po wrogu może okazać się jego słabością? A może istnieje powód, dla którego tak bardzo pragną więcej metalu?" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "Zebrać pazury welociraptorów" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "Zebrać ząbkowane groty strzał" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "Dać Swygrael pazury i groty strzał" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "Ej, ty! Tak, ty, ze słodką buźką i tymi wszystkimi klamrami. Mam dla ciebie robotę. Potrzebowałam pazurów raptorów, ale te gnojki tak mi dały w kość, że całkiem zapomniałam, po co je zabijam. Wściekłam się, roztrzaskałam im łby i poszłam sobie, pogwizdując." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "Truchła leżą gdzieś w pobliżu, poprzeszywane moimi strzałami. Przynieś mi pazury, <if(gnum4,moja dzika różyczko,mój dzielny gołąbku)>, a może znowu weźmie mnie na praktyczne zajęcia!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "I ej, jeszcze jedno. Jak zobaczysz moje strzały, zabierz groty! Opierzyć strzałę łatwo, ale groty na ptakach nie rosną!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "Ej, cukiereczku! Przynieś mi moje pazury i groty!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "Dzięki, serduszko! Co taka smętna mina? Oho, myślisz, że aż tak nam brakuje zaopatrzenia. Słuchaj, ptysiu, plemię Kobold nie przepuści żadnemu metalowi. Cokolwiek w nich rzucimy, nawet groty? Wraca do ich nor i idzie do przetopienia na nową broń." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "Więc rozkaz brzmi: żadnego metalu dla nich. Robić groty z pazurów, krzemienia, kawałka piernika naszego kucharza─i zabierać wszystkie stalowe czy brązowe groty. Nam, ludziom morza, przychodzi to naturalnie. Oszczędne z nas bestie!" }
   ]
 }

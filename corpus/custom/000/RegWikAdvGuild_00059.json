@@ -2,16 +2,16 @@
   "conversation": "custom/000/RegWikAdvGuild_00059",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "" }
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Witaj, <if(gnum4,podróżniczko,podróżniku)>. Znasz już któreś z dań podawanych w Quicksand? Nic tak nie przygotowuje na dzień pełen przygód jak porządny posiłek!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "Czego chcesz się dowiedzieć?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "Dlaczego to miejsce nazywa się „Quicksand”?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "Nic." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "Och, po prostu uwijam się po Quicksand, spełniając wszelkie życzenia naszych gości." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "Czasami pomagam też w kuchni. Nikt nie podaje placuszków crumpet z taką ilością masła jak ja. Gdy znów przygotuję porcję, koniecznie spróbuj!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "Oczywiście warto spróbować wszystkich naszych dań─wszystko, co podajemy, jest wyśmienite. Może coś przekąsisz i chwilę odpoczniesz? Obiecuję, że nie pożałujesz!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "Rozejrzyj się─Quicksand przyciąga najróżniejszych ludzi! Zbierają się tu, żeby się spotkać i spędzić razem czas." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "Oczywiście wy, poszukiwacze przygód, rzadko zostajecie na dłużej. Jesteście jak sam piasek─im mocniej próbujemy was zatrzymać, tym łatwiej przesypujecie się nam przez palce..." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "Och, znam <italic(1)>doskonale<italic(0)> takich jak ty. Mój mąż też był kiedyś poszukiwaczem przygód. Ach, dawno temu był z niego szarmancki bohater. Ale jego śmiałe wyczyny są już tylko odległym wspomnieniem─tak samo jak jego krzepka sylwetka. \\<sigh>" }
   ]
 }

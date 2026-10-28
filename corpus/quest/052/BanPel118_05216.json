@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel118_05216",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_SEQ_00", "hash": "824003FADCBB97D3", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_00", "hash": "AFD620BBD8990A57", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_01", "hash": "3697B8788250647C", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_000", "hash": "D41769E42DB0B1EA", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_001", "hash": "6153A6CF56E8E3CF", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_002", "hash": "BF41A3F09C37E3B8", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_005", "hash": "605D6D0701755DB1", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_006", "hash": "F6FDAB611077B482", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_007", "hash": "1FCF11FC20ABDD1E", "target": "" }
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_SEQ_00", "hash": "824003FADCBB97D3", "target": "Yubli potrzebuje pomocy w usunięciu cuchnącego potwora.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_00", "hash": "AFD620BBD8990A57", "target": "Rozejrzeć się w miejscu docelowym i pokonać wszystkie uprooted morbols, które się pojawią" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_01", "hash": "3697B8788250647C", "target": "Porozmawiać z Yubli" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_000", "hash": "D41769E42DB0B1EA", "target": "Mieszkańcy Earthenshire przekazali nam niepokojące wieści. Podobno w okolicy pełza morbol z Urqopachy. Być może uciekł tu po ponownym przebudzeniu Valigarmandy." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_001", "hash": "6153A6CF56E8E3CF", "target": "Ta odmiana znana jest z wydychania gazów wulkanicznych─albo czegoś podobnego. Jeśli pozwolimy jej swobodnie krążyć, aż trudno wyobrazić sobie zakłócenia na naszych trasach turystycznych." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_002", "hash": "BF41A3F09C37E3B8", "target": "Proszę udać się do Miyakabek'zoma i zabić tego cuchnącego potwora. Trzeba zachować czyste powietrze Kozama'uka!" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_005", "hash": "605D6D0701755DB1", "target": "Czyli <if(gnum4,rozprawiła się pani,rozprawił się pan)> z tym górskim morbolem? To będzie ulga dla mieszkańców okolicy─ludzie i punutiy znów mogą swobodnie odetchnąć." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_006", "hash": "F6FDAB611077B482", "target": "Naturalne piękno Kozama'uka to narodowy skarb i największy atut naszej branży. W interesie biura jest słuchać ostrzeżeń sąsiadów i robić wszystko, by to piękno pozostało nietknięte." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_007", "hash": "1FCF11FC20ABDD1E", "target": "Bardzo doceniamy <if(gnum4,pani,pana)> pomoc. Będziemy wypatrywać kolejnych wtargnięć i możemy znów <if(gnum4,pani,pana)> potrzebować, jeśli podobne szkodniki podniosą swoje zaraźliwe łby." }
   ]
 }

@@ -54,7 +54,7 @@
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_THOMELIN_000_050", "hash": "06DCB14300448EC1", "target": "Wciąż <if(gnum4,pani,pan)> tutaj? Sądziłem, że idzie <if(gnum4,pani,pan)> z lordem Francelem do Jeweled Crozier." },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_FRANCEL_000_055", "hash": "6067F0AA1EFD0815", "target": "Tak, to powinno być odpowiednie miejsce." },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_SYSTEM_000_060", "hash": "2E26C4368A229ABE", "target": "Dołącz do Francela, który pyta przechodniów o ich opinię na temat dzielnicy Firmament." },
-    { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_SYSTEM_000_061", "hash": "89D6B31DFF4E3195", "target": "Rozmowy mogą potrwać kilka minut, więc warto anulować oczekujące zgłoszenia w Duty Finder." },
+    { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_SYSTEM_000_061", "hash": "89D6B31DFF4E3195", "target": "Rozmowy mogą potrwać kilka minut, więc warto anulować oczekujące zgłoszenia w wyszukiwarce aktywności." },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_Q3_000_000", "hash": "7C5F72DC8767E9C2", "target": "Poczekać na przechodniów?" },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_HILDA_000_062", "hash": "EEF5939B6432E68A", "target": "No proszę. Przychodzę po zaopatrzenie dla straży, a tu znajoma twarz." },
     { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_HILDA_000_063", "hash": "1C51D1C66E2A9B08", "target": "No proszę. Przychodzę po zaopatrzenie dla moich Ogarów, a tu znajoma twarz." },

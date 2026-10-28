@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea015_00663",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "" }
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya ma wiadomość, która tym razem na pewno cię zainteresuje." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Niniya twierdzi, że strażnicy przy Oczach w rejonie Lower La Noscea często proszą poszukiwaczy przygód o pomoc, gdy mają za dużo pracy. Wyjdź z miasta i porozmawiaj z Ancretą, by dowiedzieć się więcej." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "Wygląda na to, że Niniya znów sobie z ciebie zażartowała, bo Ancreta nie może oficjalnie zlecać ci pracy. Jeśli jednak nie przeszkadza ci nieoficjalna pomoc, ta Żółta Kurtka może mieć dla ciebie zajęcie..." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "Porozmawiać z Ancretą przy Oczach" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "Och, znowu jesteś. Mam nadzieję, że nie chowasz urazy za moje wcześniejsze kłamstewko. Widzisz, najważniejsza lekcja dla początkujących poszukiwaczy przygód to zawsze zastanawiać się nad pobudkami napotkanych osób." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "Jeśli cię uraziłam, pozwól, że wynagrodzę ci to radą. Powiedz, znasz już Oczy, za Bramą Burzy i Mostem Szaleńca?" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "Stacjonujący tam strażnicy pilnują drogi, a gdy pojawiają się kłopoty, czasem proszą o pomoc kogoś z zewnątrz." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "Jeśli chcesz zasłynąć z rzetelności wśród poszukiwaczy przygód, porozmawiaj z Ancretą przy Oczach i zaoferuj pomoc." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "Mówisz, że ktoś cię tu przysłał po robotę, <if(gnum4,dziewczyno,chłopcze)>? Obawiam się, że to był żart twoim kosztem." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "Owszem, najmujemy poszukiwaczy przygód, ale zawsze przez Gildię Poszukiwaczy Przygód." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "Nawet gdybym chciała dać ci zajęcie, przepisy Żółtych Kurtek zabraniają mi zlecać je bezpośrednio." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "Jeśli jednak nie masz nic przeciw nieoficjalnej robocie, mogłabym poprosić cię o prywatną przysługę..." }
   ]
 }

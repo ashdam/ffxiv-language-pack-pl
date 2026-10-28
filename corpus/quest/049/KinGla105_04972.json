@@ -92,7 +92,7 @@
     { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_RRALSOJ_000_113", "hash": "458D0BDDD2287BF5", "target": "To witaj z powrotem w sklepie, Papawni. Dajmy z siebie wszystko." },
     { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_RRALSOJ_000_114", "hash": "FE11FF9C8FBF58FA", "target": "Musimy omówić z Papawni, jak odtąd będziemy pracować. Daj nam kilka minut, dobrze?" },
     { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_SYSTEM_000_120", "hash": "93AF4E0B58959059", "target": "Kolejne zlecenie będzie dostępne u Rral Soj po osiągnięciu poz. 98 klasą Blacksmith, Armorer lub Goldsmith." },
-    { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_SYSTEM_000_121", "hash": "BCE2C64DD29E02FF", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Together as One”." },
+    { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_SYSTEM_000_121", "hash": "BCE2C64DD29E02FF", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Razem jak jedno”." },
     { "gameKey": "quest/049/KinGla105_04972#TEXT_KINGLA105_04972_SYSTEM_000_130", "hash": "E4BBD25BD870E549", "target": "Przedmioty zwykłej jakości wytworzone podczas tego zadania nie mają zastosowania i nie można ich sprzedać. Zaleca się je wyrzucić." }
   ]
 }

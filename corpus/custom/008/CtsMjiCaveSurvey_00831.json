@@ -2,9 +2,9 @@
   "conversation": "custom/008/CtsMjiCaveSurvey_00831",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_000", "hash": "5D0AC3D5B80D06B1", "target": "" },
-    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_005", "hash": "80DE3CA3C32D20C9", "target": "" },
-    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_010", "hash": "27E14F86185E4126", "target": "" },
-    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_015", "hash": "BEF9D02402FF1439", "target": "" }
+    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_000", "hash": "5D0AC3D5B80D06B1", "target": "Nic nie wydaje się tu szczególnie podejrzane. Może w innym miejscu dopisze ci szczęście." },
+    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_005", "hash": "80DE3CA3C32D20C9", "target": "Słyszysz odgłosy zwierzęcia rozbrzmiewające za skalną ścianą. Może to oznaka ukrytej pieczary? Tak czy inaczej pomyślny futrzak zechce poznać wyniki twoich poszukiwań." },
+    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_010", "hash": "27E14F86185E4126", "target": "Nic nie wydaje się tu szczególnie podejrzane. Może w innym miejscu dopisze ci szczęście." },
+    { "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_015", "hash": "BEF9D02402FF1439", "target": "Stukanie knykciami w skalną ścianę wydaje głuchy odgłos. Może za nią leży ukryta pieczara? Zdeterminowany kopacz bez wątpienia zechce o tym usłyszeć." }
   ]
 }

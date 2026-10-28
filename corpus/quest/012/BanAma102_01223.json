@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma102_01223",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_00", "hash": "07661D46D319E97C", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_01", "hash": "ABF89A97A1101E2E", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_02", "hash": "B9F360CAA4E7699D", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_03", "hash": "F85769C8096B39CC", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_00", "hash": "69177D89E83066F1", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_01", "hash": "F0D8635D1B4044E5", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_02", "hash": "97D0E1C4A9BD7196", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_001", "hash": "7FA588847ECF6469", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_002", "hash": "E32B88C0407043F8", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_003", "hash": "D10164449EA00448", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_004", "hash": "2A5C9BF0C95666A8", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_011", "hash": "478167E2E7AE1DA4", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_021", "hash": "9C5BD7D6CC9983FE", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_022", "hash": "CBC4CCCBD1B4711D", "target": "" }
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_00", "hash": "07661D46D319E97C", "target": "Fibubb Gah chce, by wkraczający na jego ziemie zwiadowcy posłużyli za przestrogę." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_01", "hash": "ABF89A97A1101E2E", "target": "Fibubb Gah zleca ci zabicie wrogich zwiadowców, którzy zaczęli zapuszczać się na ziemie Bractwa na północ od Zanr'ak. Odszukaj i wyeliminuj przeciwników Amalj'aa thaumaturges i Amalj'aa lancers." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_02", "hash": "B9F360CAA4E7699D", "target": "Zaklinacze i włócznicy skradający się przy granicach Kręgu Popiołu nie żyją. Zdaj sprawę wojownikowi Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_03", "hash": "F85769C8096B39CC", "target": "Fibubb Gah jest zadowolony z twojej rozważnie odmierzonej rzezi. Zachowaj gotowość do zabicia kolejnych zwiadowców, gdyby znów ośmielili się zbliżyć do ziem Bractwa Popiołu." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_00", "hash": "69177D89E83066F1", "target": "Zabić przeciwników Amalj'aa lancers" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_01", "hash": "F0D8635D1B4044E5", "target": "Zabić przeciwników Amalj'aa thaumaturges" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_02", "hash": "97D0E1C4A9BD7196", "target": "Zdać sprawę wojownikowi Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_001", "hash": "7FA588847ECF6469", "target": "Cienie zwiadowców z Zahar'ak padają na granice Kręgu Popiołu. Choć szukają słabości w naszej obronie, przekonają się, że mur Bractwa niezachwianie odpiera ich wtargnięcia." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_002", "hash": "E32B88C0407043F8", "target": "Nauczymy tych nieostrożnych głupców, jaki szybki i ostateczny wyrok czeka każdego, kto próbuje chwycić jaszczura za ogon!" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_003", "hash": "D10164449EA00448", "target": "Idź, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>, i połóż kres zwiadom napotkanych zaklinaczy oraz włóczników Amalj'aa." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_004", "hash": "2A5C9BF0C95666A8", "target": "Gdy ich pobratymcy ujrzą trupy rozrzucone na podejściach do Zanr'ak, pojmą, że nie należy lekkomyślnie sprawdzać granic Bractwa." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_011", "hash": "478167E2E7AE1DA4", "target": "Amalj'aa z Zahar'ak sprawdzają granice naszych ziem. Zabij ich zwiadowców─zaklinaczy i włóczników─i naucz ich, co czeka tych, którzy próbują chwycić jaszczura za ogon." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_021", "hash": "9C5BD7D6CC9983FE", "target": "Twoje rozważne użycie przemocy nie uszło uwagi, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>. Tchórze z Zahar'ak już spoglądają ku horyzontowi z narastającym lękiem." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_022", "hash": "CBC4CCCBD1B4711D", "target": "Nie będziemy ich jednak nękać zbyt długo─to mogłoby umocnić ich determinację. Nie, najpierw pozwólmy, by strach zapuścił korzenie i wzrósł..." }
   ]
 }

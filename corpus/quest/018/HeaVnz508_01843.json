@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz508_01843",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_00", "hash": "613A5186B778E456", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_01", "hash": "C1BC25FAF04CD2DC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_02", "hash": "58DB5F9F6F664476", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_03", "hash": "D362AF9AB53EEE55", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_00", "hash": "58B56043E138A088", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_01", "hash": "92ABF583EE0AAF25", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_000", "hash": "6DF4FB6D7E347D47", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_001", "hash": "BA1254AD46C90F34", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_010", "hash": "BB6B33FF7E096CEF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_020", "hash": "E704C05899828149", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_021", "hash": "6820BDA5C6AE8E4D", "target": "" }
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_00", "hash": "613A5186B778E456", "target": "Pompon Mogeuge cały się trzęsie." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_01", "hash": "C1BC25FAF04CD2DC", "target": "Mogeuge opowiada, że elder wyvern gromadzą siły pod jego punktem obserwacyjnym, szykując zmasowany atak. Ciągłe czuwanie nadszarpnęło mu nerwy. Błaga o pomoc w opóźnieniu planów wiwern. Zejdź do Czterech Ramion i zabij cztery elder wyvern, by Mogeuge mógł dać odpocząć znękanemu umysłowi." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_02", "hash": "58DB5F9F6F664476", "target": "Zabijasz odpowiednią liczbę elder wyvern i opóźniasz ich atak. Wróć na szczyt ruin Asah i zdaj sprawę Mogeuge." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_03", "hash": "D362AF9AB53EEE55", "target": "Mogeuge z ulgą słyszy o przetrzebieniu szeregów elder wyvern. Odkąd ryk Nidhogga wprawił smoki w szał, moogle żyje w nieustannym strachu. Twoja życzliwa pomoc zapewnia mu jednak parę godzin odpoczynku i odprężenia." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_00", "hash": "58B56043E138A088", "target": "Pokonać elder wyvern" },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_01", "hash": "92ABF583EE0AAF25", "target": "Zdać sprawę Mogeuge" },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_000", "hash": "6DF4FB6D7E347D47", "target": "Elder wyvern tu, elder wyvern tam... elder wyvern wszędzie! Wiem, że coś knują, ale co? Obserwuję je od wielu dni i tylko czekam, aż ruszą do ataku. Jestem taki zmęczony, kupo..." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_001", "hash": "BA1254AD46C90F34", "target": "Mogę cię prosić o ogromną przysługę? Pozbądź się ich dla mnie! Nie musisz wszystkich, kupo─wystarczą cztery. Może zastanowią się dwa razy, zanim zrobią to, co tam knują... Albo chociaż dasz mi trochę czasu na odpoczynek, kupo." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_010", "hash": "BB6B33FF7E096CEF", "target": "Proszę! Takie wiszenie i czekanie na atak wiwern źle mi robi na nerwy! Jeśli pozbędziesz się dla mnie czterech, wreszcie trochę się odprężę, kupo... Może nawet utnę drzemkę..." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_020", "hash": "E704C05899828149", "target": "Dziękuję, kupo! Teraz, gdy jest ich mniej, wiwerny nieprędko zaatakują! Wreszcie mogę odpocząć... choćby przez godzinę albo dwie." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_021", "hash": "6820BDA5C6AE8E4D", "target": "To wszystko wina tego straszliwego smoka─odkąd zaryczał, smoki wpadły w szał i atakują wszystko, co zobaczą. Są takie przerażające, kupo..." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegOth3YuzukaManor_00414",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_000", "hash": "AC2EDF2257C78B03", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_Q1_000_000", "hash": "9C3636BF31D2B3BF", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_001", "hash": "CF105D1906B53D90", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_002", "hash": "E03438EC4230D53A", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_003", "hash": "52F967E634140857", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_010", "hash": "60DB9E1B0E92C063", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_011", "hash": "A9684742843DC51C", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_020", "hash": "8B371BA1BC937353", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_021", "hash": "6710530F2C148502", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_022", "hash": "F009ED7F64E8748C", "target": "" },
-    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_023", "hash": "57A6B257A65D9F0E", "target": "" }
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_000", "hash": "AC2EDF2257C78B03", "target": "Witamy we Dworze Yuzuka. Tak, tak. Gyosan z ludu Namazu, do usług. Jeśli chce <if(gnum4,pani,pan)> czegoś się dowiedzieć, wystarczy zapytać. Pytać, dociekać." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_Q1_000_000", "hash": "9C3636BF31D2B3BF", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_001", "hash": "CF105D1906B53D90", "target": "Co możesz powiedzieć o sobie?" },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_002", "hash": "E03438EC4230D53A", "target": "Co możesz powiedzieć o tym miejscu?" },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_003", "hash": "52F967E634140857", "target": "Nic." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_010", "hash": "60DB9E1B0E92C063", "target": "Powtórzę więc: nazywam się Gyosan i należę do ludu Namazu. Witam <if(gnum4,panią,pana)> i innych gości we Dworze Yuzuka, a podczas pobytu służę jako przewodnik." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_011", "hash": "A9684742843DC51C", "target": "Zawsze jest wiele do wyjaśnienia, zwłaszcza przy pierwszej wizycie. Można powiedzieć, że jestem twarzą tego miejsca dla świata zewnętrznego. To napawa mnie wielką dumą. Ogromny zaszczyt, wielka przyjemność." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_020", "hash": "8B371BA1BC937353", "target": "To miejsce nosi nazwę Dwór Yuzuka. Jest to posiadłość zarządcy, który niegdyś władał okoliczną wioską. Yuzuka było nazwą jego rodu." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_021", "hash": "6710530F2C148502", "target": "Ród Yuzuka nie miał sobie równych w posługiwaniu się bronią palną. Gdy zaatakowali Garleańczycy, to ród Yuzuka poprowadził przeciw nim oddział wojowników uzbrojonych w broń z własnych kuźni. Walczyli mężnie. Tak, tak." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_022", "hash": "F009ED7F64E8748C", "target": "Ostatecznie Garlemald zwyciężył, a ród Yuzuka znalazł się pod jego władzą. Nastały dla nich ciężkie dni. Bardzo ciężkie, wielce trudne. Ale nie ustępowali. Z czasem powstali wraz ze swoim panem i ponownie podjęli walkę. \\<westchnienie> Niestety znów przegrali, a tym razem ich ród rozwiązano." },
+    { "gameKey": "custom/004/RegOth3YuzukaManor_00414#TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_023", "hash": "57A6B257A65D9F0E", "target": "Teraz nikt z rodu Yuzuka już nie pozostał, a my, Namazu, opiekujemy się dworem. Tak upływają nam dni i to już wszystko, co można o tym powiedzieć. Tak, tak." }
   ]
 }

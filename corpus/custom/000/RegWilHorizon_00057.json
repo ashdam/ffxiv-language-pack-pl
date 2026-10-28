@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegWilHorizon_00057",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_000", "hash": "D2494CAF3EACD3AC", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000Q", "hash": "F853F79EA09C6DC4", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A1", "hash": "CED1EF67C964841A", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A2", "hash": "7D34787D74DA2A33", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A3", "hash": "40358B57CD37F6C1", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_010", "hash": "A527E5B5675CFD20", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_011", "hash": "0C4E0A4B152B9657", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_012", "hash": "DFDDF71E3437D6E1", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_020", "hash": "4B8EC24F7E4E5431", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_021", "hash": "C7CDD6DF94F71C71", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_022", "hash": "0E487026985312B9", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_023", "hash": "92BF1A184BEB55BE", "target": "" }
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_000", "hash": "D2494CAF3EACD3AC", "target": "<if(gnum4,Zgubiłaś się,Zgubiłeś się)>? Jeśli chcesz coś wiedzieć, śmiało pytaj." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000Q", "hash": "F853F79EA09C6DC4", "target": "O co zapytasz?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A1", "hash": "CED1EF67C964841A", "target": "Co tu robisz?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A2", "hash": "7D34787D74DA2A33", "target": "Co to za osada, to Horizon?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A3", "hash": "40358B57CD37F6C1", "target": "O nic." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_010", "hash": "A527E5B5675CFD20", "target": "Służyć i chronić, oczywiście! Mosiężne Ostrza Róży pilnują porządku tutaj, w osadzie Horizon." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_011", "hash": "0C4E0A4B152B9657", "target": "Dbamy, żeby kupcy mogli bezpiecznie prowadzić interesy. Dobrze płacą nam za nasze miecze." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_012", "hash": "DFDDF71E3437D6E1", "target": "My dostajemy zapłatę, kupcy mają ochronę. Wszyscy zyskują." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_020", "hash": "4B8EC24F7E4E5431", "target": "Ruch tu jak diabli, ot co! Horizon leży na trasie całego ruchu między Ul'dah a Zatoką Nieszporów. Wszystko, co załadowano lub wyładowano w dokach, przechodzi tędy." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_021", "hash": "C7CDD6DF94F71C71", "target": "Przez ten nieustanny przepływ towarów kupcy kazali zamontować to ustrojstwo w Bramie Zachodzącego Słońca. Taszczenie ładunków w górę i w dół tej rampy to harówka." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_022", "hash": "0E487026985312B9", "target": "Tak, dzięki całemu temu handlowi osada Horizon z biegiem lat mocno się wzbogaciła. Ściągnęło tu przez to wielu ludzi, nie zawsze z dobrymi zamiarami." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_023", "hash": "92BF1A184BEB55BE", "target": "Właśnie dlatego <italic(1)>my<italic(0)> tu jesteśmy, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Bez nas tę osadę już dawno by splądrowano." }
   ]
 }

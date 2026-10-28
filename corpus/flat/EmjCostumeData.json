@@ -1,0 +1,27 @@
+{
+  "sheet": "EmjCostumeData",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "EmjCostumeData#1", "hash": "FCC7EBF104D6104D", "target": "Strój Heavensward" },
+    { "gameKey": "EmjCostumeData#2", "hash": "2FE326AA7308B04A", "target": "Strój Endwalker" },
+    { "gameKey": "EmjCostumeData#3", "hash": "936E4079C7D2ECC4", "target": "Strój Stormblood" },
+    { "gameKey": "EmjCostumeData#4", "hash": "F77ECFE1C8E92619", "target": "Strój Endwalker" },
+    { "gameKey": "EmjCostumeData#5", "hash": "E233872089A6B355", "target": "Strój z Shadowbringers" },
+    { "gameKey": "EmjCostumeData#6", "hash": "60FD05FCB71EDEBA", "target": "Strój Heavensward" },
+    { "gameKey": "EmjCostumeData#7", "hash": "ED01C2664F17BD46", "target": "Strój z Shadowbringers" },
+    { "gameKey": "EmjCostumeData#8", "hash": "33FFCE215C7BB686", "target": "Stroje z A Realm Reborn" },
+    { "gameKey": "EmjCostumeData#9", "hash": "D10ED32E7683BA57", "target": "Strój z Shadowbringers" },
+    { "gameKey": "EmjCostumeData#10", "hash": "7FBBD1031795EF07", "target": "Strój Heavensward" },
+    { "gameKey": "EmjCostumeData#11", "hash": "43FE4DFCD4EA97E5", "target": "Strój Stormblood" },
+    { "gameKey": "EmjCostumeData#12", "hash": "ED02B4E8E62A5C26", "target": "Strój Endwalker" },
+    { "gameKey": "EmjCostumeData#13", "hash": "161FA1FAEF13FCBF", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#14", "hash": "4CBD60C7AC52CE11", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#15", "hash": "483D1F023AFA79E8", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#16", "hash": "3656BA55DF60BA60", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#17", "hash": "BA972689874704A0", "target": "Strój Endwalker" },
+    { "gameKey": "EmjCostumeData#18", "hash": "66E624E5602D9F64", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#19", "hash": "597B3E73220C398A", "target": "Strój Dawntrail" },
+    { "gameKey": "EmjCostumeData#20", "hash": "5FAB12522DE88292", "target": "Strój Endwalker" },
+    { "gameKey": "EmjCostumeData#21", "hash": "F602126AF98D91FA", "target": "Strój rosnącego światła" }
+  ]
+}

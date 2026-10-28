@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz808_01938",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_00", "hash": "13A07E2523262AE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_01", "hash": "D0CC17964AD841BF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_02", "hash": "C7E19F2D45162FB8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_03", "hash": "D090671AA0444F50", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_00", "hash": "C25AF6AC61E663D5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_01", "hash": "E893C70A1750507A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_000", "hash": "B6D0853537ACBB48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_001", "hash": "0ABB686A401049E3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_010", "hash": "B56749C14ED96744", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_020", "hash": "662621FD914F7530", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_021", "hash": "39580CEDFAF52060", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_022", "hash": "42B69722B82129F8", "target": "" }
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_00", "hash": "13A07E2523262AE5", "target": "Holepix jest gotów spuścić ze smyczy psy wojny." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_01", "hash": "D0CC17964AD841BF", "target": "Holepix uważa, że jego pobratymcy nie zaznają prawdziwego pokoju, dopóki Idyllshire nie pokaże Illuminati swojej siły. Prosi cię więc o wyprawę do Arkhitekton i zabicie dowolnych sześciu goblinów Illuminati─czy będą to brandisher, tinkerer, sharpshooter, czy glider." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_02", "hash": "C7E19F2D45162FB8", "target": "Zabijasz sześcioro członków Illuminati. Wróć do Holepixa i sprawdź, czy to zaspokoi jego żądzę krwi." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_03", "hash": "D090671AA0444F50", "target": "Holepix cieszy się, że Illuminati dostali pokaz waszej przewagi. Obawia się jednak, że wrogowie Idyllshire zbiorą siły i znów zaatakują z ukrycia. Dlatego przyrzeka wzmocnić straże, by chronić swoich pobratymców." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_00", "hash": "C25AF6AC61E663D5", "target": "Zabić członków Illuminati w pobliżu Arkhitekton" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_01", "hash": "E893C70A1750507A", "target": "Zdać sprawę Holepixowi" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_000", "hash": "B6D0853537ACBB48", "target": "Pszsz... Szkoo...<br>Goblopobratymcy Holepixa mówią o pokoju. Ale nie ma pokoju bez wojny, dopóki Illuminati próbują kraść ziemie Idyllshire!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_001", "hash": "0ABB686A401049E3", "target": "Teraz nie czas odkładać bojowidło! Teraz czas je podnieść! <if(gnum4,Wierzchniaczko,Wierzchniaku)>, przynieś Holepixowi głowy sześciu znienawidzonych wrogów! Pokaż Illuminati, że Idyllshire nie boi się ich ani ich Arkhitekton!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_010", "hash": "B56749C14ED96744", "target": "Śmierć Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_020", "hash": "662621FD914F7530", "target": "Szkoo... Ha! <if(gnum4,Wierzchniaczka,Wierzchniak)> rozgniata mózgopudła Illuminati jak jajka! Dziś zwycięża Idyllshire!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_021", "hash": "39580CEDFAF52060", "target": "Ale wojna się nie skończyła. Illuminati wciąż patrzą chciwooczami na ziemie Idyllshire. Nadal zdobywają wiedzę okrucieństwem i strzegą jej bojowidłami." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_022", "hash": "42B69722B82129F8", "target": "Illuminati zaatakują chytrymi planami i tajnymi spiskami. Holepix podwoi─nie, <italic(1)>potroi<italic(0)> straże! Idyllshire nie przegra wojny! Nigdy!" }
   ]
 }

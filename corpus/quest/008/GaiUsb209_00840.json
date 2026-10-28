@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_SEQ_00", "hash": "2DC09477F8C9D106", "target": "Shamani Lohmani chciałby porozmawiać z tobą o winie." },
     { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_SEQ_01", "hash": "132A533A95C2F290", "target": "Shamani Lohmani mówi ci, że jedyne wina godne bankietu pana Gegeruju są w rękach Byrglaenta, właściciela i zarządcy największej winnicy na Vylbrand. Przedstaw się Byrglaentowi i wyłóż swoją prośbę." },
-    { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_SEQ_02", "hash": "F3E2EC6BA8C3AA26", "target": "Byrglaent przyjmuje twoje prośby nader chłodno i zamiast wina proponuje ci mocz goobbue. Zanieś złe wieści Shamani Lohmani." },
+    { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_SEQ_02", "hash": "F3E2EC6BA8C3AA26", "target": "Byrglaent przyjmuje twoje prośby nader chłodno i zamiast wina proponuje ci mocz goobbue. Zanieś złe wieści Shamaniemu Lohmaniemu." },
     { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_SEQ_03", "hash": "A621A6E6C74246C8", "target": "Początkujący winiarz jest rozczarowany, ale nie zaskoczony ostrą odmową Byrglaenta. Zdaje się, że wino na bankiet trzeba zdobyć inaczej." },
     { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_TODO_00", "hash": "6B77011EB1772E00", "target": "Porozmawiać z Byrglaentem" },
     { "gameKey": "quest/008/GaiUsb209_00840#TEXT_GAIUSB209_00840_TODO_01", "hash": "02DA091F38DA0E28", "target": "Porozmawiać z Shamanim Lohmanim" },

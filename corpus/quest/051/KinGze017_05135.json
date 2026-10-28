@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze017_05135",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "" }
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kiedy już się zdaje, że życie na pustyni nie może być bardziej nieznośne, zjawiają się węże." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "Pokonać dwa węże aspis, a potem zabić elder aspis, gdy się pojawi" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "Dostarczyć truchło elder aspis inspektorowi kolejowemu" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "Jak leci, <if(gnum4,przyjaciółko,przyjacielu)>? Jeśli masz wolną chwilę, chcę cię poprosić o małą przysługę." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "Niedaleko na północny zachód stąd grupa węży zaatakowała kilku kolejarzy. Dokładniej mówiąc, węży aspis." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "Wiem, co myślisz: „Przecież węże nie polują w grupach?”. Otóż te polują, a jeden wyjątkowo wielki wygląda na ich przywódcę. Jeśli zechcesz, rusz tam i go zabij!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "Pozbądź się przywódcy, a reszta zrozumie aluzję. Problem w tym, że zwykle się ukrywa, więc radzę zabić kilka mniejszych, żeby zwrócić jego uwagę. Kiedy skończysz, przynieś mi dowód, dobrze?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "Węże aspis nie tylko są jadowite, ale też piekielnie wielkie. Uważaj na siebie!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "Dobrze cię widzieć w jednym kawałku! Masz jakieś wężowe szczątki do pokazania?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "No popatrz! To musiał być prawdziwy olbrzym!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "Myślę, że można z tego nawet zrobić odtrutkę. Jeśli kogoś ukąsi wąż, może uratować mu życie." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "Wiesz, aż głupio to mówić, ale jeśli na miejscu zostało jeszcze coś z tego węża, można sprzedać jego skórę do garbowania. Mięso też nadaje się do jedzenia i jest zaskakująco smaczne. To może się nawet okazać niezłym źródłem dochodu dla firmy!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "Lepiej jednak się pospieszyć, bo pustynne stworzenia zostawią mi same kości! Dzięki za pomoc!" }
   ]
 }

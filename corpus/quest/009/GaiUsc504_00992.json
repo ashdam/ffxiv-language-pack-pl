@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc504_00992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_00", "hash": "D45B4C87BD7EA839", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_01", "hash": "ED98EE97C383E543", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_02", "hash": "86B7261633C7B831", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_03", "hash": "F28AD945A88D6686", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_00", "hash": "19DA498A28B11F03", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_01", "hash": "10E3B1B0B4EAFAD3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_000", "hash": "2F7A59CD46E3F820", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_001", "hash": "78907433BECCBE7A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_020", "hash": "43AF484BD4AA11EC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_021", "hash": "1076BA0DF40BA4D6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_022", "hash": "1D1B675237D06F2B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_023", "hash": "C49863F0A05CEDD9", "target": "" }
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_00", "hash": "D45B4C87BD7EA839", "target": "Rammbroes ma powody do zmartwień. Już jeden atak hippogryph to nie przelewki─a co dopiero trzy." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_01", "hash": "ED98EE97C383E543", "target": "Kilku członków ekspedycji Synów Świętego Coinacha padło ofiarą hippogryph na skrystalizowanej równinie. Obrażenia dowodzą, że nie były to figlarne szturchańce. Rammbroes prosi cię o zabicie trzech tych nieokrzesanych stworzeń." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_02", "hash": "86B7261633C7B831", "target": "Trzy hippogryph nie żyją. Musisz przyznać Rammbroesowi rację: były wyjątkowo szybkie i zaciekłe. Powiadom go, że zadanie zostało wykonane." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_03", "hash": "F28AD945A88D6686", "target": "Ruiny badane przez Synów dopiero zaczynają odsłaniać swe tajemnice. Jeśli rzeczywiście mieszkali tu budowniczowie Crystal Tower, znaleziska powinny dać bezcenny wgląd w odległą przeszłość." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_00", "hash": "19DA498A28B11F03", "target": "Zabić hippogryph" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_01", "hash": "10E3B1B0B4EAFAD3", "target": "Złożyć raport Rammbroesowi" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_000", "hash": "2F7A59CD46E3F820", "target": "Jesteś <split(<string(gstr1)>, ,1)>, prawda? Kilku naszych badaczy zostało rannych podczas ataków hippogryph na skrystalizowanym obszarze na północy. Tutejsze osobniki są zdumiewająco szybkie i zaciekłe." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_001", "hash": "78907433BECCBE7A", "target": "Musimy jednak nauczyć je uciekać, zamiast szarżować na Synów Świętego Coinacha przy pracy. Proponuję zabić kilka hippogryph, by przyswoiły sobie tę lekcję." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_020", "hash": "43AF484BD4AA11EC", "target": "Ach, <if(gnum4,wraca nasza obrończyni,wraca nasz obrońca)>! Dziękuję za tak szybkie wykonanie zadania. Możemy zaplanować badania <if([gnum11<12],<if([gnum11<4],na jutro z samego rana,jeszcze na dzisiejsze popołudnie)>,<if([gnum11<17],jeszcze na dzisiejszy wieczór,na jutro z samego rana)>)>." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_021", "hash": "1076BA0DF40BA4D6", "target": "Te ruiny starożytnego Allagu kryją całe dziedziny zaginionej wiedzy. To Allagańczycy wznieśli Crystal Tower, przynajmniej według najlepszych teorii." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_022", "hash": "1D1B675237D06F2B", "target": "Jeśli tak, czy te ruiny nie mogły być wsią, a nawet miasteczkiem dla robotników i ich rodzin? Może zachowały świadectwa życia tych, którzy wznosili lśniącą budowlę tak nas dziś fascynującą?" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_023", "hash": "C49863F0A05CEDD9", "target": "Badania nad wieżą stoją w miejscu. Jej doskonałość nie daje uczonym punktu zaczepienia. Ale tutaj... tutaj możemy się czegoś dowiedzieć. Przynajmniej taką mamy nadzieję." }
   ]
 }

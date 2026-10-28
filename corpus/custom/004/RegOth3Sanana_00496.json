@@ -2,10 +2,10 @@
   "conversation": "custom/004/RegOth3Sanana_00496",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_000", "hash": "86022ED7236B57FF", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_010", "hash": "B462A4357DDD0DFE", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_020", "hash": "7FBDAD6248C7F2A4", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_030", "hash": "3C01FAB8E8C4DFEE", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_040", "hash": "73C638D42A10A3C3", "target": "" }
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_000", "hash": "86022ED7236B57FF", "target": "Szczerze mówiąc, to ulga mieć na pokładzie <if(gnum4,tak zdolną poszukiwaczkę przygód,tak zdolnego poszukiwacza przygód)> jak ty. Przypomnę, że udało nam się ocalić trochę zapasów z wraku. Mogę załatwić ci wszystko, czego potrzebujesz─za symboliczną opłatą, oczywiście, hehe." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_010", "hash": "B462A4357DDD0DFE", "target": "No proszę, szybko się skomplikowało. A ja właśnie zastanawiam się, jak zapewnić Domowi dostęp do Sui<-->no<-->Sato..." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_020", "hash": "7FBDAD6248C7F2A4", "target": "Wszystko od tego zależy, <split(<string(gstr1)>, ,1)>. Pokażmy temu Jikkanowi, co traci, odcinając się od świata. Hmm, odrobina przyjemności z Sanjo Hanamachi chyba by nie zaszkodziła..." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_030", "hash": "3C01FAB8E8C4DFEE", "target": "Dobrze, <split(<string(gstr1)>, ,1)>. Zadbajmy, żeby Sui<-->no<-->Sato miało tak cholernie dobry sztandarowy produkt, by Jikkan nie mógł już na nic narzekać!" },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_040", "hash": "73C638D42A10A3C3", "target": "Tak trzymaj, <split(<string(gstr1)>, ,1)>. Skarbiec Domu─eee... to znaczy Kurenai i jej ludzie na ciebie liczą!" }
   ]
 }

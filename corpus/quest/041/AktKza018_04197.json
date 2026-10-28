@@ -2,19 +2,19 @@
   "conversation": "quest/041/AktKza018_04197",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_00", "hash": "956910E547A85DBF", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_01", "hash": "A3E1B87F81D15111", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_000", "hash": "4F5AF040453E7712", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_001", "hash": "6B3428161719876B", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_002", "hash": "2EE1C4142D9BE2B0", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_003", "hash": "D0182F98E7F85B15", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_005", "hash": "39AA2485503719E0", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_006", "hash": "0A57C1DB443B7335", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_007", "hash": "00805A785E5E4879", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_008", "hash": "13ECBBD365D6999A", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_009", "hash": "518871A38978FC04", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_010", "hash": "D4EE02BEA86F42C1", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_011", "hash": "12A27FD063F31472", "target": "" }
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mehrunnah wpatruje się w dal, jakby szukał statku na horyzoncie." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_00", "hash": "956910E547A85DBF", "target": "Pokonać kacchapa i zebrać ich pancerze" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_01", "hash": "A3E1B87F81D15111", "target": "Dostarczyć pancerze Mehrunnahowi" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_000", "hash": "4F5AF040453E7712", "target": "Z daleka można cię wziąć za sprzedawcę ryb, ale z bliska widać, że nie pochodzisz z tych stron. Dziwny masz strój, lecz nawet ja dostrzegam, że nadaje się do ciężkiej roboty. Szczęśliwie mam dla ciebie zajęcie." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_001", "hash": "6B3428161719876B", "target": "Chcę zrobić naszyjnik dla pewnej znajomej, ale do mojego projektu potrzeba pancerzy groźnych kacchapa. Choć ze mnie niezły rzemieślnik, na polowaniu niestety zupełnie się nie znam." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_002", "hash": "2EE1C4142D9BE2B0", "target": "Za wyręczenie mnie w tej niewdzięcznej robocie dostaniesz sowitą zapłatę i moją dozgonną wdzięczność. Potrzebuję dwóch pancerzy tych ogromnych bestii─dla ciebie to chyba nic trudnego." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_003", "hash": "D0182F98E7F85B15", "target": "Potrzebuję dwóch pancerzy kacchapa, ale jeśli masz ochotę ubić ich więcej, nie zamierzam odbierać ci tej przyjemności. Wróć tu, kiedy nasycisz swój głód przygód─będę czekał!" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_005", "hash": "39AA2485503719E0", "target": "Widzę, że nie próżnujesz. Masz pancerze?" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_006", "hash": "0A57C1DB443B7335", "target": "Ach, tak, tak! Właśnie tego potrzebuję. Naszyjnik chcę wręczyć kobiecie o bardzo wybrednym guście, więc dziękuję za wybranie pancerzy tak wysokiej jakości." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_007", "hash": "00805A785E5E4879", "target": "Zajmuje się poborem i naliczaniem ceł na Alnairze, a obowiązki często sprowadzają ją do tego portu. Przez ostatnich kilka księżyców bardzo się do siebie zbliżyliśmy." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_008", "hash": "13ECBBD365D6999A", "target": "Zaledwie kilka dni temu przysłała mi amulet na zdrowie i pomyślność. Od razu zrobiło mi się raźniej, bo to znak, że darzy mnie głębokim zaufaniem. Słyszałem, że takie amulety daje sobie rodzeństwo na znak wzajemnej miłości." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_009", "hash": "518871A38978FC04", "target": "Zwyczaj nakazuje odwdzięczyć się podarunkiem, więc pomyślałem, że zrobię jej─" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_010", "hash": "D4EE02BEA86F42C1", "target": "...Rodzeństwo? Rodzeństwo!? Ach... Więc tak mnie postrzega? Byłem pewien, że chodzi o coś zupełnie innego, ale teraz, kiedy mówię to na głos..." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_011", "hash": "12A27FD063F31472", "target": "Chyba... chyba to też może dać mi szczęście. Będę się nią opiekował jak brat ukochaną siostrą. Chronił ją przed krzywdą. Tak... No dobrze, obiecałem ci zapłatę, prawda? Proszę─należy ci się." }
   ]
 }

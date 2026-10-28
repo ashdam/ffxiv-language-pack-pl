@@ -37,7 +37,7 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28", "hash": "71D743DE566680B0", "target": "<split(<string(gstr1)>, ,1)>, nie ma czasu na formalności! Nieśmiertelne Płomienie potrzebują pomocy <italic(1)>natychmiast<italic(0)>!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29", "hash": "814AD192CA444A2C", "target": "Jesteśmy w środku wielkiej operacji przeciw Amalj'aa i w zachodnim Thanalanie nie mamy nikogo wolnego. Trzeba dotrzeć do tego statku przed Garleańczykami!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_30", "hash": "83576264EDACDF8F", "target": "Jeśli ktoś przeżył, proszę zadbać, by nie stała mu się dalsza krzywda. A teraz w drogę!" },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "Obowiązek wzywa. Czy rozpocząć<br>„The Company You Keep (Immortal Flames)”?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Twoja kompania (Nieśmiertelne Płomienie)”?" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_1", "hash": "692FD92F8B106875", "target": "Tak" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_2", "hash": "E9A23A55E3344FA8", "target": "Nie" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_40", "hash": "1AE2A56731DDBAF3", "target": "<if(gnum4,Poszukiwaczka przygód,Poszukiwacz przygód)>?! Co ty tu robisz? Nie, czekaj─najpierw znajdźmy jakąś osłonę..." },

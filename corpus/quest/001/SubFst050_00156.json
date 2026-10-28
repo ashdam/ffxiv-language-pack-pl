@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst050_00156",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_02", "hash": "940AFD0A3EE41232", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_03", "hash": "F9B53C6548FCC1C2", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_00", "hash": "B3CD7BF71B8902BE", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_01", "hash": "97D98B84E8C9B1E3", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_1", "hash": "FE36B49C4A7247BF", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_2", "hash": "013C5214C8CB0FD1", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_3", "hash": "97880E056D877CF6", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_4", "hash": "296896403E8A20FA", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_5", "hash": "5568678DC57DCFE4", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_10", "hash": "F84EDB5365081E37", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_11", "hash": "2C3D9B521AF376F4", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_12", "hash": "1BAC37A725352B80", "target": "" }
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "Keitha, główna opiekunka chocobo w hodowli Bentbranch Meadows, chce, by zebrać nasiona roselet. Zamierza wytłoczyć z nich olej znany z kojącego działania na rozdrażnione chocobo." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając, zależnie od postępów, z Eylgarem lub Luquelotem w hodowli Bentbranch Meadows, z Lothaire'em przy Wieży Galvantha albo z Armelle na Lustrzanym Pomoście.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_02", "hash": "940AFD0A3EE41232", "target": "Masz już sześć nasion roselet. Dostarcz je opiekunce imieniem Keitha w hodowli Bentbranch Meadows." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_03", "hash": "F9B53C6548FCC1C2", "target": "Po otrzymaniu nasion roselet Keitha przyznaje, że nadal nie wie, co mogło niepokoić jej chocobo. Mimo to ma nadzieję, że olej uzyskany z nasion pomoże uspokoić rozdrażnione ptaki." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_00", "hash": "B3CD7BF71B8902BE", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, by rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_01", "hash": "97D98B84E8C9B1E3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, by rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_1", "hash": "FE36B49C4A7247BF", "target": "Skoro już <if(gnum4,pani,pan)> tu jest, mam prośbę: proszę zebrać dla mnie sześć nasion z tych roślinnych potworów zwanych roselets." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_2", "hash": "013C5214C8CB0FD1", "target": "Olej z nasion roselet działa uspokajająco na płochliwe chocobo. Każda szanująca się opiekunka zwykle trzyma pod ręką słoik albo dwa." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_3", "hash": "97880E056D877CF6", "target": "Myślałam, że mój zapas wystarczy na dłużej, ale ostatnio ptaki są niespokojne jak letnia burza." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_4", "hash": "296896403E8A20FA", "target": "Chocobo nawet w najlepszych okolicznościach są wrażliwe. Nic dziwnego, że czasem nagle robią się odrobinę nerwowe... Ale to zupełnie co innego." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_5", "hash": "5568678DC57DCFE4", "target": "Te roselets, o których wspominałam, znajdzie <if(gnum4,pani,pan)> w pobliżu Wieży Galvantha. No już, szkoda czasu." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_10", "hash": "F84EDB5365081E37", "target": "Czy zdobycie tych nasion sprawiło <if(gnum4,pani,panu)> kłopot?" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_11", "hash": "2C3D9B521AF376F4", "target": "Zobaczmy... jeden, dwa, trzy... tak, całe sześć. I jakie dorodne. Wytłoczymy z nich dobry olej." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_12", "hash": "1BAC37A725352B80", "target": "Nadal nie mam pojęcia, co niepokoi ptaki, ale cokolwiek to jest, mam nadzieję, że olej z nasion roselet trochę je uspokoi..." }
   ]
 }

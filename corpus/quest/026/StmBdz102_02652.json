@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz102_02652",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "" }
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "Ranny bojownik ruchu oporu ma wiele na głowie." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "Dostarczyć zakrwawioną bandanę matce bojownika ruchu oporu w Ala Gannha" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "Chciałbym cię o coś poprosić, <if(gnum4,dziewczyno,chłopcze)>." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "Wstąpiłem do ruchu oporu wbrew woli matki. Czeka na mnie w rodzinnym mieście." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "Mam szczęście, że nadal tu jestem po ostatniej bitwie, i nie chcę dłużej brać jej miłości za pewnik." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "Proszę, zanieś w moim imieniu tę bandanę matce w Ala Gannha." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "I powiedz jej ode mnie: „Dziękuję”. Chcę, żeby wiedziała, że rozumiem, dlaczego sprzeciwiała się mojemu udziałowi w walce z Imperium." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "Proszę, zanieś w moim imieniu tę bandanę matce w Ala Gannha. I przekaż jej moją wdzięczność." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "Czy my się znamy?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "A-ale to należy do mojego syna! Czy coś mu się stało!?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "Dzięki niebiosom. Nadal jest bezpieczny. Próbowałam odwieść go od wstąpienia do ruchu oporu, ale nie chciał słuchać. Strasznie się pokłóciliśmy, a on wymknął się pod osłoną nocy." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "Kamień spadł mi z serca na wieść, że nie ma do mnie żalu. Skoro jednak odesłał tę bandanę, musi zamierzać dalej walczyć." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "Jeśli jest naprawdę tak zdeterminowany, raczej nie zdołam namówić go na powrót do domu. Nadal będę modlić się o jego bezpieczny powrót." }
   ]
 }

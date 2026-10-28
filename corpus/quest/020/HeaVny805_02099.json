@@ -2,13 +2,13 @@
   "conversation": "quest/020/HeaVny805_02099",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "" }
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "W imieniu Domu Splendorów, <if(gnum4,szanowna pani,szanowny panie)>, proszę pozwolić mi przedstawić najnowsze pozycje w naszej ofercie." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "Dom rozumie, że nawet najbardziej doświadczeni Uczniowie Ziemi od czasu do czasu potrzebują pomocnej dłoni. Dlatego z dumą oferujemy wyjątkowy wybór talizmanów nasyconych błogosławieństwami Dwunastu." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "Gwarantujemy wydajniejsze zbieractwo. Zwrotów nie przyjmujemy." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "Możesz teraz kupować talizmany u sprzedawczyni Domu Splendorów." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "Talizmany zapewniają specjalne, tymczasowe statusy, które pozwalają odkrywać normalnie niewidoczne punkty zbieractwa." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "Każdy talizman działa tylko na obszarze wskazanym w jego opisie pomocy i wyłącznie tam ujawnia punkty zbieractwa. W ukrytych punktach można znaleźć rzadkie przedmioty niedostępne w zwykłych miejscach." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "Witam, <if(gnum4,szanowna pani,szanowny panie)>. Z przyjemnością przedstawię najnowsze pozycje w naszej ofercie... gdy już się upewnię, że ma <if(gnum4,pani,pan)> kwalifikacje, by z nich skorzystać." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "Aby kontynuować to zadanie, musisz używać klasy z kategorii Uczniowie Ziemi na co najmniej 60. poziomie." }
   ]
 }

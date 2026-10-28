@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza012_04191",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_SEQ_00", "hash": "EABFAD674A963E2C", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_00", "hash": "8CD283C03FEC7BA5", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_01", "hash": "DCC78B5FC441B7EC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_000", "hash": "2B833F2946BAEC90", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_001", "hash": "53EAC191C7CA899F", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_002", "hash": "6AFA76A7AF5D95CC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_003", "hash": "29BEE7D8A8BB3CBC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_004", "hash": "12901EFD29F0EBAA", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_010", "hash": "B809E0C615944E6C", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_011", "hash": "B27DFA1E6B62C442", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_012", "hash": "D7124681502FCC90", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_013", "hash": "43578FE32DEB6212", "target": "" }
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_SEQ_00", "hash": "EABFAD674A963E2C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Chatbert najwyraźniej wpadł w panikę." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_00", "hash": "8CD283C03FEC7BA5", "target": "Odszukać runaway coblyn we wskazanym miejscu, osłabić go i schwytać do wytrzymałego worka" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_01", "hash": "DCC78B5FC441B7EC", "target": "Dostarczyć worek z coblynem Chatbertowi" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_000", "hash": "2B833F2946BAEC90", "target": "Wszystko będzie dobrze, muszę tylko... tylko... O bogowie, co ja mam robić!?" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_001", "hash": "53EAC191C7CA899F", "target": "Poprosiłem zbieracza o przywiezienie żywotnego okazu coblyna, ale chyba za bardzo nalegałem na tę „żywotność”─tak się rzucał, że rozbił ścianę zagrody i uciekł!" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_002", "hash": "6AFA76A7AF5D95CC", "target": "Przez chwilę myślałem, żeby samemu go gonić... Potem dotarło do mnie, że pewnie rozgniótłby moje wątłe ciało uczonego na krwawą miazgę. Za to <if(gnum4,pani,pan)> wydaje się mieć znacznie więcej sił." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_003", "hash": "29BEE7D8A8BB3CBC", "target": "Ostatnio widziałem, jak uciekał w stronę Lasu Porannego Woalu. Proszę wytropić i osłabić naszego żwawego zbiega, wepchnąć go do tego wytrzymałego worka i przynieść mi tutaj. Będę bardzo wdzięczny, a nagroda będzie hojna!" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_004", "hash": "12901EFD29F0EBAA", "target": "Proszę pamiętać: najpierw osłabić, potem schwytać! Worek jest wprawdzie wytrzymały, ale wątpię, by utrzymał dziko miotającego się coblyna." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_010", "hash": "B809E0C615944E6C", "target": "Udało się go złapać!? Coblyn jest w worku!?" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_011", "hash": "B27DFA1E6B62C442", "target": "Och, chwała Uczonemu..." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_012", "hash": "D7124681502FCC90", "target": "Zlecono mi ocenę twierdzeń o wartości odżywczej zawartych w dziele <italic(1)>Potrawy z coblyna<italic(0)>. Właśnie miałem przygotować pierwsze danie." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_013", "hash": "43578FE32DEB6212", "target": "Jak będzie smakować? Czy w ogóle jest jadalny? Dzięki <if(gnum4,pani,panu)> mogę odpowiedzieć na takie pytania. Dziękuję za wkład w nauki kulinarne!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/000/SubFst009_00034",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_00", "hash": "E905E709AD4791C1", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_01", "hash": "688C2FC9D0A9DB07", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_02", "hash": "FDDC64E02E1248A0", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TODO_00", "hash": "92942711CB82B84F", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_1", "hash": "8B207C77C0007719", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_2", "hash": "5DF41ECB8BEA2617", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_3", "hash": "789B9EC977C6B209", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_4", "hash": "1898F9E9BB4D6BC8", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_10", "hash": "3F353CA3B9E6A405", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_11", "hash": "72A1E011ED4B1367", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_12", "hash": "1D16E645A3C07440", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_13", "hash": "B09DB0074CE02E69", "target": "" }
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_00", "hash": "E905E709AD4791C1", "target": "Celestine, znużona światem weteranka wielu przygód, szuka kogoś młodego i niedoświadczonego, kto dostarczy przesyłkę w jej imieniu." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_01", "hash": "688C2FC9D0A9DB07", "target": "Celestine, doświadczona poszukiwaczka przygód, która dawno znudziła się prostymi pracami, ocenia cię jednym spojrzeniem i uznaje za idealną osobę do wykonania jej ostatniego zlecenia. Dostarcz worek podstawowego prowiantu Tsubh Khamazom w The Bannock." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_02", "hash": "FDDC64E02E1248A0", "target": "Dostarczasz worek podstawowego prowiantu Tsubh Khamazom, jawnej tchórzyni, która chwali twoją odwagę, jednocześnie powątpiewając w twój rozsądek. Choć odczuwasz dumę z pomocy łagodniejszym duszom Gridanii, nieco zaskakuje cię wzmianka o wcześniejszej zapłacie. Odsuwasz jednak tę myśl i czekasz na dzień, gdy i tobie uda się zrzucić podobną harówkę na początkujących poszukiwaczy przygód." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TODO_00", "hash": "92942711CB82B84F", "target": "Dostarczyć prowiant Tsubh Khamazom" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_1", "hash": "8B207C77C0007719", "target": "Hej, <if(gnum4,dziewczyno,chłopcze)>, chyba nie masz zajęcia." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_2", "hash": "5DF41ECB8BEA2617", "target": "Znasz The Bannock, prawda? Zaniesiesz tam za mnie worek podstawowego prowiantu? Nie jest zbyt ciężki. W środku głównie suszone mięso i inne nijakie racje." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_3", "hash": "789B9EC977C6B209", "target": "To prosta robota, którą wykonałabym z uśmiechem i sprężystym krokiem... Gdybym była o dziesięć lat młodsza. Niestety moje upodobania dojrzały. Rozwinęły się. Można nawet powiedzieć, że weszły na wyższy <italic(1)>poziom<italic(0)>." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_4", "hash": "1898F9E9BB4D6BC8", "target": "Ale dla kogoś tak <italic(1)>niedoświadczonego<italic(0)> jak ty to idealne zadanko. Nie martw się─po dostawie otrzymasz stosowną zapłatę i możesz ją zatrzymać z moim błogosławieństwem." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_10", "hash": "3F353CA3B9E6A405", "target": "Dostawa, tak?<br>...Masz pewność, że nikt cię nie śledził?" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_11", "hash": "72A1E011ED4B1367", "target": "Tak, to moje zamówienie. Dziwne... Spodziewałam się kogoś bardziej doświadczonego. Zazwyczaj wzdragam się przed tak <italic(1)>wygórowanymi<italic(0)> płatnościami przed dostawą." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_12", "hash": "1D16E645A3C07440", "target": "Szczerze mówiąc, dziwię się, że udało ci się dotrzeć aż tutaj! Ten las roi się od anole i innych paskudztw, gotowych szybko pożreć nieprzygotowanych." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_13", "hash": "B09DB0074CE02E69", "target": "Podziwiam twoją odwagę i dziękuję za trud. Proszę, oto reszta zapłaty. Chętnie zatrudniłabym cię pono─<br>Chwila! Widzisz to!? Wyglądało jak anole! Szybko, idź, zanim sprowadzisz go tutaj i wszyscy zginiemy!" }
   ]
 }

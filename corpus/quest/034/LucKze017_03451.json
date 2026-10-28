@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKze017_03451",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_SEQ_00", "hash": "1E4F778DA753F37A", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_00", "hash": "6E11A7C7CCB95173", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_01", "hash": "5829EE4D4CD6D084", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_001", "hash": "DB4292B8036064F5", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_002", "hash": "115F6AF660CBFD03", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_003", "hash": "3E2D193BDC6B63F3", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_004", "hash": "3644FF3A61BD7446", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_005", "hash": "43C4366F1557457B", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_020", "hash": "6438A8B349149A4C", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_021", "hash": "25BFA3CA52B5F8CF", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_022", "hash": "E21D3F7A3C0426C1", "target": "" },
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_023", "hash": "29793ADE89BB59FC", "target": "" }
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_SEQ_00", "hash": "1E4F778DA753F37A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Ovelin potrzebuje pary silnych rąk." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_00", "hash": "6E11A7C7CCB95173", "target": "Zbadać okolice Kleryka" },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_01", "hash": "5829EE4D4CD6D084", "target": "Porozmawiać z Ovelin" },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_001", "hash": "DB4292B8036064F5", "target": "Hmm... Nie pochodzisz z tych lasów, prawda?" },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_002", "hash": "115F6AF660CBFD03", "target": "Prawie już nie widzę, ale co do tego nie mam wątpliwości. Zbyt głośno stawiasz kroki." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_003", "hash": "3E2D193BDC6B63F3", "target": "Tak, twój chód ma w sobie pewien ciężar. Ciężar przezwyciężonych trudów. Jeśli zechcesz, mam dla ciebie zadanie." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_004", "hash": "3644FF3A61BD7446", "target": "Ostatnio z okolic Kleryka dobiegają dziwne odgłosy. Obawiam się, że ktoś─albo coś─tam grasuje. Choć przypuszczam, że nie dorówna <if(gnum4,zaprawionej w bojach podróżniczce,zaprawionemu w bojach podróżnikowi)> jak ty." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_005", "hash": "43C4366F1557457B", "target": "Nie wiem, co zakłóca spokój Kleryka, ale trzeba to powstrzymać." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_020", "hash": "6438A8B349149A4C", "target": "Słyszysz? ...Ten słodki dźwięk ciszy." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_021", "hash": "25BFA3CA52B5F8CF", "target": "Przykro mi to mówić, ale takie zajścia nie są rzadkością. Najpewniej to sprawka Światła. Chronimy się przed jego dotykiem, jak umiemy, ale zwierzęta Greatwoodu są bezbronne wobec jego potęgi." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_022", "hash": "E21D3F7A3C0426C1", "target": "Z czasem Światło wypacza wszystko. Nawet jeśli zwierzęta nie staną się pożeraczami grzechów, pozostaje nam tylko czym prędzej odesłać je do bezsłonecznego morza." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_023", "hash": "29793ADE89BB59FC", "target": "Może to okrutne, ale tylko tak można zachować równowagę w Greatwoodzie." }
   ]
 }

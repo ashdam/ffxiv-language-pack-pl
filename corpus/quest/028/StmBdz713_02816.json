@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_SEQ_00", "hash": "31162CB4548148D6", "target": "Prapti obawia się, że ktoś wkracza na terytorium Vira." },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_00", "hash": "C828579346F42E8E", "target": "Udać się na tereny łowieckie Vira" },
-    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_01", "hash": "93EE36CA9DE68B61", "target": "Porozmawiać z postacią Vira bowmaid" },
+    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_01", "hash": "93EE36CA9DE68B61", "target": "Porozmawiać z łuczniczką Vira" },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_02", "hash": "28A4D14A2CE7054B", "target": "Porozmawiać z postacią strapping leader" },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_03", "hash": "6D1E640CC4281D67", "target": "Złożyć raport postaci Prapti" },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_PRAPTI_000_000", "hash": "BA1BA298CC9476FB", "target": "<if(gnum4,Poszukiwaczko,Poszukiwaczu)> przygód. Chcę cię poprosić o przysssługę." },

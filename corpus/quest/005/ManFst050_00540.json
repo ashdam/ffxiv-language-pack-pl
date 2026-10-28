@@ -2,15 +2,15 @@
   "conversation": "quest/005/ManFst050_00540",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200010_NARRATION", "hash": "794FF8CBE3962EDC", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200020_NARRATION", "hash": "994CFD00F3811E61", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200030_NARRATION", "hash": "695951594F4456CC", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200040_NARRATION", "hash": "61ECFBAC0D1C530E", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200050_NARRATION", "hash": "E8DF399969FFB82F", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200060_NARRATION", "hash": "74D4BDFA1DC5F8B7", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200070_NARRATION", "hash": "12A3971031B292BA", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200080_NARRATION", "hash": "1BABAC7A7594ED6C", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200090_NARRATION", "hash": "C976AFE8D8B9F6A9", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200100_NARRATION", "hash": "EBC4BA46F9F15EBF", "target": "" }
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200010_NARRATION", "hash": "794FF8CBE3962EDC", "target": "Podczas bitwy pod Carteneau, gdy z niebios spadał deszcz ognia..." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200020_NARRATION", "hash": "994CFD00F3811E61", "target": "Archont Louisoix przywołał moc Strażnika i wysłał towarzyszących mu bohaterów w szczelinę eteryczną, poza zasięg zniszczenia." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200030_NARRATION", "hash": "695951594F4456CC", "target": "Pięć lat po owym pamiętnym dniu, gdy Siódma Era Umbralna zmieniła świat na zawsze, nadszedł czas powrotu bohaterów." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200040_NARRATION", "hash": "61ECFBAC0D1C530E", "target": "Czarny Całun─pradawny las bliski sercu Eorzei." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200050_NARRATION", "hash": "E8DF399969FFB82F", "target": "Pod koronami strzelistych drzew leży leśne miasto<-->państwo Gridania." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200060_NARRATION", "hash": "74D4BDFA1DC5F8B7", "target": "Niegdyś schronienie przed światem za granicą zwaną Hedge. Lecz nawet potężne żywiołaki, wieczni<br>strażnicy lasu, nie zdołały powstrzymać nadejścia Siódmej Ery Umbralnej." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200070_NARRATION", "hash": "12A3971031B292BA", "target": "Bogini Nophica nigdy jednak nie porzucała<br>swoich dzieci. Dziś wita kolejną odważną duszę..." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200080_NARRATION", "hash": "1BABAC7A7594ED6C", "target": "...duszę, która raz jeszcze stanie do walki w obronie przyszłości krainy." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200090_NARRATION", "hash": "C976AFE8D8B9F6A9", "target": "Niech Matrona przyjmie <if(gnum4,ją,go)> do swego łona,<br>by <if(gnum4,nigdy jej,nigdy mu)> niczego nie zabrakło." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200100_NARRATION", "hash": "EBC4BA46F9F15EBF", "target": "I niech w <if(gnum4,jej,jego)> sercu zasieje spokój, czystość i świętość." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/046/AktKua102_04644",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "" }
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "Po krótkim i najwyraźniej niechętnym wyjaśnieniu zasad Island Sanctuary Baldin oferuje swoje usługi. Porozmawiaj z nim, gdy tylko zechcesz odwiedzić wyspę kogoś znajomego." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "Ahoj, <if(gnum4,dziewczyno,chłopcze)>. Chcesz zajrzeć na jedną z tych wysp, co?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "Niech mnie, nic nie wiesz o całym tym zamieszaniu?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "\\<wzdycha> Jeśli popłyniesz stąd na południowy wschód─z wyspy Vylbrand, znaczy się─dotrzesz do archipelagu Cieldalaes. Poszukiwacze przygód tacy jak ty dostali prawo zagospodarowania części tamtejszych bezludnych wysp." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "Ale nie rób sobie nadziei. Nie każdy może dostać pozwolenie na jedną z tych wysp. Z tego, co wiem, całe przedsięwzięcie ledwie ruszyło, a pani admirał cholernie wybrzydza przy doborze kandydatów." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "Powiem ci co─skoro cię lubię, zawiozę cię bezpiecznie na wyspę dowolnej znajomej osoby. Wystarczy słowo." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "Możesz teraz odwiedzać wyspy w ramach Island Sanctuary należące do członków drużyny, członków Free Company lub znajomych, którzy odblokowali tę funkcję. Porozmawiaj z Baldinem w Moraby Drydocks." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "Nie odwiedzisz wyspy w ramach Island Sanctuary, jeśli dostęp został zakazany, na wyspie nikogo nie ma albo osiągnęła ona już maksymalną liczbę gości." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "Ponadto, aby odwiedzić czyjąś wyspę w ramach Island Sanctuary, musisz przebywać na Świecie macierzystym tej osoby." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "Aby odblokować własną wyspę w ramach Island Sanctuary, najpierw ukończ zadanie głównego scenariusza „Endwalker” i poczyń postępy w zadaniu „W poszukiwaniu azylu”." }
   ]
 }

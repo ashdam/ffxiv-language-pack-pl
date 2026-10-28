@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea052_00464",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "" }
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "Gurcant wypatrzył nowe żyzne pola dla Summerford Farms, ale szkodniki przeszkadzają mu w orce." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając ze Staelwyrnem lub Gurcantem w Summerford Farms, zależnie od swoich postępów.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "Pola są już gotowe pod uprawę. Przekaż Gurcantowi dobre wieści." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "Gurcant ubolewa, że musi prosić o pomoc kogoś z zewnątrz, zwłaszcza gdy tylu dawnych piratów obija się w pobliżu. Mimo wszystko jest wdzięczny za twoją pomoc." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, by rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, by rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "Do licha! Jak ogrodnik ma prowadzić prace polowe, skoro nie ma pola, na którym mógłby pracować?" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "Wypaleni piraci świetnie się nadają do plądrowania i grabienia pól, ale nie do ich orania." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "Samotny ogrodnik taki jak ja raczej nie budzi strachu w sercach potworów, ale po twoim kroku wnoszę, że <italic(1)>tobie<italic(0)> może się to udać." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "Będę ci niezmiernie wdzięczny, jeśli oczyścisz pole z kilku potworów mandragoras. Gdy ubędzie pięć tych kiełkujących stworzonek, na pewno zdołam wrócić do pracy." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "Proszę, proszę! Już masz na koncie więcej niż cała ta zgraja leniwych morskich ślimaków razem wzięta." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "Gdyby tylko choć połowę czasu, który spędzają na przechwałkach, poświęcali na udowadnianie swojej wartości." }
   ]
 }

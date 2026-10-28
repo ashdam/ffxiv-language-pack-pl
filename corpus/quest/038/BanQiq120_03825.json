@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq120_03825",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_SEQ_00", "hash": "466E11955DDB9892", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_SEQ_01", "hash": "D7EB7033DDE16AC3", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_TODO_00", "hash": "3A04E0119E3FDE78", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_000", "hash": "1EAB7F1FD25BDDD1", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_001", "hash": "9927BE04FBD480B9", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_002", "hash": "3FCAD6A04E1EFB8F", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_003", "hash": "A6FB07968ED63A9A", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_004", "hash": "A41D500ECE971F87", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_005", "hash": "4C4892EC0CB82681", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_006", "hash": "50AD4C5D6B533FBF", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_007", "hash": "4BAB4FCCE6E34368", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_010", "hash": "135D29704C9C5D6A", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_011", "hash": "391CC18C2B1FF807", "target": "" },
-    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_012", "hash": "59C288757B19BD73", "target": "" }
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_SEQ_00", "hash": "466E11955DDB9892", "target": "Qhoterl Pasol niespokojnie przebiera palcami nad zakurzoną tablicą.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_SEQ_01", "hash": "D7EB7033DDE16AC3", "target": "Dostarczyć zamówione materiały Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_TODO_00", "hash": "3A04E0119E3FDE78", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć handfuls of splendid gravel w Żalu Mjrla,Dostarczyć handfuls of splendid gravel Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać bundles of splendid broombush w Żalu Mjrla,Dostarczyć bundles of splendid broombush Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid pipira w Lozatl,Dostarczyć splendid pipira Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_000", "hash": "1EAB7F1FD25BDDD1", "target": "Te kamienne tablice należą do najświętszych reliktów Opiekunów. Przyroda podchodzi do nich jednak mniej sentymentalnie, więc to my musimy chronić ich świetność przed żywiołami." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_001", "hash": "9927BE04FBD480B9", "target": "Jeśli pragniemy, by nasze dzieci i dzieci ich dzieci patrzyły na te kamienie z takim samym podziwem jak my, potrzebujemy narzędzi do ich pielęgnacji. Gdyby <if(gnum4,pani pomogła,pan pomógł)> mi je wykonać, byłabym dozgonnie wdzięczna." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_002", "hash": "3FCAD6A04E1EFB8F", "target": "Polerowanie tablic żwirem sprawi, że ich blask nigdy nie przygaśnie. Podobno można go znaleźć rozsypanego w Żalu Mjrla." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_003", "hash": "A6FB07968ED63A9A", "target": "Opadłe liście i pył trzeba sumiennie usuwać, inaczej przyrodnicze szczątki wkrótce pochłonęłyby tablice. Żarnowiec z Żalu Mjrla do zamiatania kurzu znacznie przyspieszy ten codzienny obowiązek." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_004", "hash": "A41D500ECE971F87", "target": "Tablice trzeba regularnie szorować, by nie straciły połysku i nie stały się nieodróżnialne od zwykłych skał. Twarde łuski ryb pipira─dość pospolitych w Lozatl─świetnie się do tego nadają. Proszę nie zapomnieć o przynęcie fruit worms!" },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_005", "hash": "4C4892EC0CB82681", "target": "Czy jutro, czy za tysiąc lat, pragnę widzieć każdą tablicę równie promienną jak zapisane na niej dzieje. Żwir wydobyty w Żalu Mjrla powinien pomóc nam osiągnąć ten cel." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_006", "hash": "50AD4C5D6B533FBF", "target": "To, co odrzuca przyroda, pogrzebałoby nas wszystkich, gdybyśmy jej na to pozwolili. Żarnowiec z Żalu Mjrla powinien pomóc odpierać to nieustające zagrożenie." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_007", "hash": "4BAB4FCCE6E34368", "target": "Aby tablice pozostały nieskazitelne przez pokolenia, musimy je regularnie szorować. Łuski ryb pipira z Lozatl wytrzymają to zadanie przez wiele księżyców." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_010", "hash": "135D29704C9C5D6A", "target": "Widać, że zbieranie pochłonęło <if(gnum4,panią,pana)> bez reszty! Proszę powiedzieć, że w tym zapale udało się zdobyć materiały, o które prosiłam." },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_011", "hash": "391CC18C2B1FF807", "target": "Wiedziałam, że słusznie na <if(gnum4,panią,pana)> liczę! Ostatnio moje dni wypełniały zamiatanie, polerowanie i troska o stan tablic. Śmiem twierdzić, że te nowe materiały pozwolą mi uporać się z obowiązkami w mig!" },
+    { "gameKey": "quest/038/BanQiq120_03825#TEXT_BANQIQ120_03825_QHOTERLPASOL_000_012", "hash": "59C288757B19BD73", "target": "Wreszcie znajdę czas, by dać odpocząć obolałym kolanom i pulsującym bólem nadgarstkom. To prawda, ta praca jest wyczerpująca, lecz myśl o przodkach cieszących się owocami mojej pracy─<italic(1)>naszej<italic(0)> pracy─sprawia, że warto." }
   ]
 }

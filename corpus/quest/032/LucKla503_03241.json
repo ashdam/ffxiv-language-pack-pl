@@ -14,7 +14,7 @@
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_02", "hash": "8AB2D5CAABA3989A", "target": "Dostarczyć rybę prospero eel Frithrikowi w Crystalline Mean" },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_03", "hash": "FECB4D28D53CA5E1", "target": "Porozmawiać z Frithrikiem w Spagiryce" },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_04", "hash": "790235F2C3091446", "target": "Porozmawiać z Frithrikiem w Crystalline Mean" },
-    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_900", "hash": "F7E2251FC54CAF7D", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Waiting in the Depths”." },
+    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_900", "hash": "F7E2251FC54CAF7D", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Oczekiwanie w głębinach”." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_000", "hash": "677796729283D76D", "target": "Jeśli przychodzisz po dobre wieści, nie mam żadnych. Wciąż nie jesteśmy bliżej lekarstwa na krysteozę." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_001", "hash": "F7B9147C2B95F988", "target": "Tej nazwy zaczęto używać dopiero po pojawieniu się Kryształowej Wieży. Nie mam pojęcia, jak nazywano chorobę wcześniej." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_002", "hash": "4FF4623A2217C3C1", "target": "Dawne zapiski wspominają jednak o „szlacheckiej zgniliźnie”, której objawy niezwykle przypominają chorobę Hurielle." },

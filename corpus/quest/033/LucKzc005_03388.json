@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzc005_03388",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "" }
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Aiscar potrzebuje nasion." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "Zabić lake anemone i zdobyć ich nasiona" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "Dostarczyć nasiona stworzeń lake anemone Aiscarowi" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "Czy mogę prosić o przysługę? Zapewniam, że to nic uciążliwego. Oczywiście pod warunkiem, że nie ma <if(gnum4,pani,pan)> nic przeciwko zabiciu kilku stworzeń lake anemone." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "Potrzebuję ich nasion i chętnie zapłacę ponad zwykłą stawkę za szybką dostawę. Na razie nie trzeba się przejmować powodami. Proszę tylko przynieść je jak najprędzej!" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "Może zna <if(gnum4,pani,pan)> zawilce jako kwiaty, a ukwiały jako wodne drapieżniki. Stworzenia <italic(1)>lake<italic(0)> anemone mają jednak chyba coś z jednych i drugich..." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "Rozumiem, że udało się spełnić moją prośbę?" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "Tak, powinny wystarczyć. Oczywiście nie chcę hodować własnych stworzeń lake anemone, uchowajcie niebiosa! Zamierzam wycisnąć olej do pewnych ulepszeń teleskopu." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "Wspaniały, prawda? Zbudowano go długo przed Potopem. Pierwotnie służył do obserwacji ciał niebieskich." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "Jak łatwo sobie wyobrazić, niebo zalane Światłem nie sprzyja obserwacji gwiazd. Teleskop skierowano więc w dół, by wypatrywać nadciągających pożeraczy grzechów." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "Powrót ciemności rozbudził we mnie pragnienie badania ruchów gwiazdozbiorów. Ale przez lata spędzone w opuszczonej pozycji mocowania zesztywniały. Właściwie ani drgną." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "Stąd potrzeba oleju z nasion tych stworzeń. Gdy obficie go nałożę, skieruję teleskop ku górze i będę mógł napawać się wspaniałością niebios!" }
   ]
 }

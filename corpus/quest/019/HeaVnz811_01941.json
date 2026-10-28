@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz811_01941",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_00", "hash": "AF9FAE0F95E57B9D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_01", "hash": "B122EB061AF138D9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_02", "hash": "F9520AE35B663208", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_03", "hash": "E993B5577DA8ED99", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_00", "hash": "70BAF05AF6B27BDB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_01", "hash": "61F4E8BA793FEDEE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_000", "hash": "88415F1482239400", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_001", "hash": "C038299A93F0B952", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_010", "hash": "3DA410ED495BB206", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_020", "hash": "0CEC18E66098D289", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_021", "hash": "E00AA07B55F6C106", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_022", "hash": "F705B3C89D6657DD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_00", "hash": "AF9FAE0F95E57B9D", "target": "Loudjox skończył się towar na sprzedaż." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_01", "hash": "B122EB061AF138D9", "target": "Loudjox bierze cię za klienta, ale orientuje się, że może zapłacić ci za zdobycie liści narbrooi. Udaj się do rejonu The Makers' Quarter i zabij słodko pachnące potwory, by zebrać sześć ich aromatycznych liści." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_02", "hash": "F9520AE35B663208", "target": "Zabijasz potwory narbrooi i zrywasz liście z ich nieruchomych ciał. Wróć z aromatyczną zdobyczą do Loudjox." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_03", "hash": "E993B5577DA8ED99", "target": "Loudjox płaci ci za liście i wyjaśnia, że są składnikiem mieszanki, którą gobliny wkładają do masek, by chronić się przed przykrymi zapachami. Wspominając własne doświadczenia z goblińskimi aromatami, odmawiasz powąchania. Odbierasz za to nagrodę za pomoc w uczynieniu świata choć odrobinę przyjemniejszym dla nosa." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_00", "hash": "70BAF05AF6B27BDB", "target": "Zebrać liście z potworów narbrooi w rejonie The Makers' Quarter" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_01", "hash": "61F4E8BA793FEDEE", "target": "Dostarczyć liście narbrooi Loudjox" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_000", "hash": "88415F1482239400", "target": "Pszszkoo... Loudjox już <italic(1)>mówiła<italic(0)>, że pachnących ziół nie ma na dzi─ Hm? <if(gnum4,Wierzchniaczka,Wierzchniak)>? To nie po zakupy?" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_001", "hash": "C038299A93F0B952", "target": "<if(gnum4,Wierzchniaczka,Wierzchniak)> <italic(1)>szuka<italic(0)> zlecenia? Hmm... Loudjox <italic(1)>naprawdę<italic(0)> potrzebuje sześciu liści narbrooi do wiązania pachnących ziół. Z każdego trupa można wziąć dwa liście─a Loudjox zapłaci dobrym brzękobłyskiem, żeby wszyscy byli szczęśliwi!" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_010", "hash": "3DA410ED495BB206", "target": "<if(gnum4,Wierzchniaczka,Wierzchniak)> nie wie, gdzie gnieżdżą się narbrooi? Niech idzie do The Makers' Quarter─dużo ich tam fruwa. Ale najpierw trzeba zabić potwory─inaczej bardzo piszczą..." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_020", "hash": "0CEC18E66098D289", "target": "Narbrooi paskudnie skrzeczą, ale ich liście pachną jak pyszoświeże jedzenie." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_021", "hash": "E00AA07B55F6C106", "target": "Pszszkoo... Cztery, pięć... tak, sześć całych liści. Dziękuję, <if(gnum4,wierzchniaczko,wierzchniaku)>. Goblostado wypycha goblomaski ziołami, żeby chronić nosy przed smrodem bagien i mokradeł. Loudjox może zrobić wiele wiązek i podwoić brzękobłysk!" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_022", "hash": "F705B3C89D6657DD", "target": "Może <if(gnum4,wierzchniaczka,wierzchniak)> też chce powąchać? Nie? To pewnie chce zadonagrodę. Loudjox to słowna Gobka─oto brzękobłysk za przysługę!" }
   ]
 }

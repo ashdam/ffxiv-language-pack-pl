@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegYok6MiplusMateGarden_00867",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_000", "hash": "9D955C59B654778C", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_001", "hash": "EDB6D619E1639229", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_002", "hash": "925784DD570DF1AB", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_Q1_000_000", "hash": "D09062F5B442DEEE", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_001", "hash": "F1DEDCA45DF521C8", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_002", "hash": "05E8E7744C6C48B8", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_003", "hash": "47F22FE8BCF186A2", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_010", "hash": "30D5E606526051B8", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_011", "hash": "46887DA30CA9520A", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_020", "hash": "8296AABA7D385DA3", "target": "" },
-    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_021", "hash": "0A1F3A4CECA2E1A4", "target": "" }
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_000", "hash": "9D955C59B654778C", "target": "O co chodzi? Jeśli czegoś potrzebujesz, mów śmiało." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_001", "hash": "EDB6D619E1639229", "target": "Dotarły do nas wieści─Trzecia Pretendentka zabiła Valigarmandę! Wreszcie wszyscy możemy odetchnąć nieco spokojniej." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_002", "hash": "925784DD570DF1AB", "target": "W Tuliyollalu nadchodzą zmiany. Cokolwiek przyniosą, nie mam wątpliwości, że nasze pola przetrwają i będą rozkwitać." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_Q1_000_000", "hash": "D09062F5B442DEEE", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_001", "hash": "F1DEDCA45DF521C8", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_002", "hash": "05E8E7744C6C48B8", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_003", "hash": "47F22FE8BCF186A2", "target": "Nic." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_010", "hash": "30D5E606526051B8", "target": "Pracuję tu na polach Ogrodu Mate Miplu, tak jak wszyscy. Oczywiście poza sezonem zbioru herbaty mam więcej czasu i często poświęcam go podróżnym, którzy przybywają zwiedzić ogród." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_011", "hash": "46887DA30CA9520A", "target": "Choć nie jestem już tak żwawą młodą kobietą jak dawniej, mate wciąż dodaje mi werwy." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_020", "hash": "8296AABA7D385DA3", "target": "Tak, oczywiście. Gdybym tylko pamiętała, co mamy przekazywać gościom zgodnie z prośbą Miplu..." },
+    { "gameKey": "custom/008/RegYok6MiplusMateGarden_00867#TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_021", "hash": "0A1F3A4CECA2E1A4", "target": "W Ogrodzie Mate Miplu uprawiamy najświeższe liście mate, pełne składników odżywczych i dorównujące nawet najzdrowszym warzywom. Początkowo uprawa miała zaspokajać gusta naszego ludu Pelupelu, lecz mamy nadzieję, że pewnego dnia mate trafi na stoły całego Tural." }
   ]
 }

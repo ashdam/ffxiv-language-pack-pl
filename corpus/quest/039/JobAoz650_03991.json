@@ -13,7 +13,7 @@
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_00", "hash": "DAD481D534B50D86", "target": "Porozmawiać z Martynem" },
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_01", "hash": "22C8E9B4AB31ABC1", "target": "Porozmawiać z kupcami w Kogane Dori." },
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_02", "hash": "B4942F8E1E4300AB", "target": "Porozmawiać z mężczyzną rasy Lalafell." },
-    { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_03", "hash": "40BAA0E209C56ED3", "target": "Dostarczyć Azuro costume Martynowi." },
+    { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_03", "hash": "40BAA0E209C56ED3", "target": "Dostarczyć kostium Azuro mistrzowi imieniem Martyn" },
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_04", "hash": "8AF33E5095EF912B", "target": "Porozmawiać z Martynem" },
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_TODO_05", "hash": "CF77D4599BC8E67C", "target": "Ponownie porozmawiać z Martynem." },
     { "gameKey": "quest/039/JobAoz650_03991#TEXT_JOBAOZ650_03991_MARTYN_100_000", "hash": "18BC860997332BD0", "target": "Musimy być gotowi na wszystko, <split(<string(gstr1)>, ,1)>. Siły ci nie brakuje, ale pamiętaj, że największym atutem niebieskiej magii jest wszechstronność!" },

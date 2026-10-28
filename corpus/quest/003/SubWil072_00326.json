@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil072_00326",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "" }
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "Zezeda potrzebuje kogoś, kto zdobędzie żebra hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "Szlifiernia Eshtaime'a zamawia sztaby srebra do wyrobu ceremonialnych naczyń. Zezeda zaniedbała jednak zapasy żeber hammer beak potrzebnych do oczyszczania rudy srebra. Pomóż jej, zabijając hammer beak i zbierając ich żebra." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "Masz już potrzebną liczbę żeber. Dostarcz je Beringaerowi na stacji Black Brush Station." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "Według Beringaera oczyszczanie srebra za pomocą żeber jest czasochłonne i niepotrzebnie drogie. Obrzędy pogrzebowe muszą przynosić niezłe zyski, skoro Ossuarium Arrzaneth stać na opłacenie takiej metody." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "Zabić hammer beak i zdobyć ich żebra" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "Dostarczyć żebra hammer beak Beringaerowi" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "<if(gnum4,Szuka pani,Szuka pan)> pracy przy stacji? Może polowanie na hammer beak?" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "Właśnie dostaliśmy zamówienie ze Szlifierni Eshtaime'a na sztaby srebra. Podobno potrzebują ich do wyrobu ceremonialnych naczyń." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "Kazali nam jednak oczyszczać rudę, topiąc ją w piecu wyłożonym popiołem kostnym. Zwykle nie wytapiamy srebra w ten sposób, więc od dawna nie uzupełniałam zapasów żeber hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "Niestety nie ma już czasu ich zamawiać. Będę dozgonnie wdzięczna za zabicie kilku tych stworów i zaniesienie ich kości Beringaerowi." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "Mówiłem jej, mówiłem! Co ta nieudolna smarkula wyprawia!? Choćby takie zamówienia trafiały się od święta, zawsze powinniśmy mieć zapas żeber hammer beak!" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "A niech mnie─jednak znalazła sposób. Dzięki za pomoc." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "Sam nie całkiem rozumiem, ale kazali robić po staremu─choć odłamkami oczyścilibyśmy srebro szybciej i taniej." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "Cóż, to nie moje gile, więc skoro tak chcą... Widać gildia taumaturgów ma tyle pieniędzy, że nie wie, co z nimi robić. Bogowie, ile bym dał za takie zmartwienia!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb809_00918",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_00", "hash": "D22CE01D85453811", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_01", "hash": "5C577FE1736C8DF1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_02", "hash": "C97C2CF5FCF66322", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_TODO_00", "hash": "AF19C694954A1617", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_000", "hash": "A9C73720F115E61D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_001", "hash": "42FCCA4960F719FC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_002", "hash": "51E9A9913654E847", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_003", "hash": "65615B7AF9B387E5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_010", "hash": "C3839D4060285D7B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_020", "hash": "53950C31E93DD93E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_030", "hash": "330F6BC54A059885", "target": "" }
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_00", "hash": "D22CE01D85453811", "target": "Gdy kupiec jest wściekły, zwykle można zarobić, rozwiązując jego problem─a Edwyn wygląda na naprawdę wściekłego." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_01", "hash": "5C577FE1736C8DF1", "target": "Zamówione ceruleum wciąż nie dotarło z Ul'dah i Edwyn wścieka się na dostawcę. Udaj się na Targowisko Szafirowej Alei, odszukaj Syntgohta i zakwestionuj jego słowa za pomocą /doubt. Może wtedy wyjawi prawdę." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_02", "hash": "C97C2CF5FCF66322", "target": "Pod ciężarem twojego niedowierzania Syntgoht przyznaje, że z dostawą ceruleum jest problem, i daje do zrozumienia, że jest taką samą ofiarą jak Edwyn. Obawiasz się, że jego wykręty niewiele pomogą osłabić nieufność Edwyna wobec mieszkańców Ul'dah." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_TODO_00", "hash": "AF19C694954A1617", "target": "Wypytywać Syntgohta z niedowierzaniem za pomocą /doubt" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_000", "hash": "A9C73720F115E61D", "target": "Hej, ty! Nie ma czasu na uprzejmości, czekam na ceruleum. Ten rzezimieszek z Ul'dah, co zwie się handlarzem, spóźnia się z dostawą!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_001", "hash": "42FCCA4960F719FC", "target": "Ceruleum rozpala się jak karczmarka zimą, a bez niego nie da się zrobić prochu do balist. Przeklęty Syntgoht... Myśli, że z czym my tu walczymy, z biedronkami?" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_002", "hash": "51E9A9913654E847", "target": "Wyglądasz na kogoś, kto lubi gorące sprawy! Dowiedz się, gdzie jest moje zamówienie ceruleum─idź do Syntgohta i, no wiesz, trochę go przyciśnij. Wypytaj go, znaczy się." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_003", "hash": "65615B7AF9B387E5", "target": "Mówię ci, ci mieszkańcy Ul'dah─<switch(gnum70,chętnie biorą zapłatę\\, niechętnie wykonują pracę!,chętnie biorą zapłatę\\, niechętnie wykonują pracę!,chętnie biorą zapłatę\\, niechętnie wykonują pracę... oczywiście bez urazy dla obecnych!)> Nie można im ufać, zwłaszcza tej zgrai z Targowiska Szafirowej Alei!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_010", "hash": "C3839D4060285D7B", "target": "Witam, <italic(1)>witam<italic(0)>! Czego życzy sobie tak <if(gnum4,wytrawna znawczyni,wytrawny znawca)>─Och, nie chodzi o zakupy? To może obejrzy <if(gnum4,pani,pan)> towar po cichu? Jestem bardzo zajęty." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_020", "hash": "53950C31E93DD93E", "target": "Od Edwyna z Coerthasu? Ojej. <if(gnum4,Przyjaciółko,Przyjacielu)>─mogę tak mówić? Och, no dobrze, <split(<string(gstr1)>, ,1)>, jest problem z ceruleum. A jeśli uważa <if(gnum4,pani,pan)>, że Edwyn jest rozdrażniony, nie ma <if(gnum4,pani,pan)> pojęcia, jakie to trudne dla <italic(1)>mnie<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_030", "hash": "330F6BC54A059885", "target": "Proszę posłuchać, są tu tylko dwie możliwości: <italic(1)>targowanie<italic(0)> albo <italic(1)>pożegnanie<italic(0)>! Właśnie robię spis towarów i nie mam czasu na <if(gnum4,pani,pana)> wygłupy!" }
   ]
 }

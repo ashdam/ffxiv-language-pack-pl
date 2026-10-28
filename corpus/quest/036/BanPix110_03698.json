@@ -2,19 +2,19 @@
   "conversation": "quest/036/BanPix110_03698",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "" }
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "Uin Nee potrzebuje nektaru.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "Porozmawiać z Lugg Aenc" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "Dosiąść porxie, polecieć do miejsca Jezioro Ręcznego Zwierciadła i zebrać nektar za pomocą Siphon Snout" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "Zdać relację Uin Nee" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "Pobawimy się w zgadywanie, <split(<string(gstr1)>, ,1)>? Zgadnij, co kocham <italic(1)>najbardziej<italic(0)> na świecie! Nie, nie ciebie, głuptasie. Nektar! Słodki, soczysty, cudowny nektar!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "A zgadnij, co kocham <italic(1)>prawie<italic(0)> tak mocno jak nektar? Oczywiście po prostu <italic(1)>doskonałe<italic(0)> porxie, które Nu Mou stworzyły dla nas, by zbierać nektaru do woli!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "A teraz <italic(1)>moja<italic(0)> kolej zgadywać: od zawsze marzy ci się jazda na porxie? No to dziś twój szczęśliwy dzień! Porozmawiaj tylko z Lugg Aenc, a zaraz znajdziesz się na grzbiecie jednego z naszych uroczych chowańców! Czy to nie brzmi zabawnie?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "Witam serdecznie! Bez obaw─wszystko wiem już od Uin Nee. Chodzi o wyprawę na jednym z naszych porxie po solidny zapas nektaru, prawda? To naprawdę miły gest, tak z własnej woli podjąć się tak żmudnego zadania. W każdym razie z radością udostępnię jednego z moich ulubieńców." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "Czy wszystko w porządku? Gdy porxie wrócił sam, ogarnęła mnie obawa o nieszczęśliwy upadek. Dobrze widzieć, że nic się nie stało─Uin Nee bardzo już się niecierpliwi w oczekiwaniu na obiecany nektar." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "Porxie głęboko wciąga powietrze, napełniając nos─i zapewne inne części wnętrzności─słodkim, słodziutkim nektarem. Starasz się nie myśleć o tym, jak Uin Nee zamierza wydobyć ów nektar z wnętrza zwierzaka." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "Dociera do ciebie aromat słodkiego nektaru. Niestety nie masz jak zebrać go samodzielnie. Porozmawiaj z Lugg Aenc w Lydha Lran, by zdobyć porxie i zaradzić sytuacji." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "Och, witaj. Właśnie wrócił porxie z brzuchem pełnym najsłodszego, najpyszniejszego nektaru. Pewnie nie masz z tym nic wspólnego, co? W każdym razie mam nadzieję, że lot ci się podobał!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "Tak, już nie mogę się doczekać, by napić się do syta tego słodkiego, słodziutkiego nektaru! Och, może ciekawi cię, jak wydobywamy go z porxie?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "Cóż, skoro chcesz wiedzieć... Staram się o tym nie myśleć. Czasem robi się trochę obrzydliwie. Raz porxie kichnął, gdy już prawie─fuj! Po namyśle chyba nie chce mi się już pić. Och, po co mi to przypominasz!?" }
   ]
 }

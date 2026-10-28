@@ -2,18 +2,18 @@
   "conversation": "custom/003/RegGyr3CastrumOriens_00394",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_000", "hash": "CE37753774F19AD4", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_Q1_000_000", "hash": "44182CE90CABD391", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_001", "hash": "ED26681D8B742580", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_002", "hash": "4421F1C5FCECD3AD", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_003", "hash": "8F392CDBBA4368BB", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_010", "hash": "3AE0B8EE13EDD750", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_011", "hash": "0656063F7CFD497B", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_012", "hash": "2A9638A9CBC26DF1", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_020", "hash": "DAE34F57F692EFD7", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_021", "hash": "7E4464516A8BC50D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_022", "hash": "BDF602B5CEC39EB1", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_023", "hash": "CA8F50F661886E91", "target": "" },
-    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_024", "hash": "4CB97DF4BB763E7A", "target": "" }
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_000", "hash": "CE37753774F19AD4", "target": "No proszę, to przecież <if([gnum52>0],<string(gstr1)> z Maelstromu,<if([gnum53>0],<head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> <split(<string(gstr1)>, ,2)>,<string(gstr1)> z Nieśmiertelnych Płomieni)>)>. W czym mogę pomóc?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_Q1_000_000", "hash": "44182CE90CABD391", "target": "O co zapytasz?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_001", "hash": "ED26681D8B742580", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_002", "hash": "4421F1C5FCECD3AD", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_003", "hash": "8F392CDBBA4368BB", "target": "O nic." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_010", "hash": "3AE0B8EE13EDD750", "target": "Po zdobyciu muru skierowano tu żołnierzy Sojuszu na wypadek odwetu ze strony wojsk imperialnych." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_011", "hash": "0656063F7CFD497B", "target": "Każde z państw, w tym Ishgard, przysłało oddziały, by wesprzeć nasze działania." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_012", "hash": "2A9638A9CBC26DF1", "target": "Jak można się spodziewać, procedury wojskowe i protokół różnią się między armiami, co, przyznaję, czasem powoduje trudności. Mimo to Garleańczycy jak dotąd nie potrafią dorównać naszym połączonym siłom." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_020", "hash": "DAE34F57F692EFD7", "target": "Garleańczycy zbudowali Castrum Oriens jako garnizon dla oddziałów odpowiedzialnych za utrzymanie muru Baelsar's Wall." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_021", "hash": "7E4464516A8BC50D", "target": "Kiedy przybyli tu po raz pierwszy, mieszkańcy okolicznych wiosek musieli uciekać. Większość szukała schronienia w Gridanii." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_022", "hash": "BDF602B5CEC39EB1", "target": "Niestety te ziemie nie pierwszy raz były świadkami takiego rozlewu krwi. Prawie sto lat temu król Ala Mhigo próbował poszerzyć granice kraju. Jego zakusy na ziemie Gridanii przerodziły się w konflikt znany jako Wojna Jesienna." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_023", "hash": "CA8F50F661886E91", "target": "Ostatecznie z pomocą Limsy Lominsy, Ul'dah, a nawet Ishgardu Gridania zadała Ala Mhigo druzgocącą klęskę." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_024", "hash": "4CB97DF4BB763E7A", "target": "Trudno niemal uwierzyć, że teraz Sojusz stara się ocalić Ala Mhigo, zamiast z nim walczyć jak przed laty." }
   ]
 }

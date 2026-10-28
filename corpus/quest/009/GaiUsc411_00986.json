@@ -36,6 +36,6 @@
     { "gameKey": "quest/009/GaiUsc411_00986#TEXT_GAIUSC411_00986_CID_000_061", "hash": "FF6E6557FB3E559F", "target": "Istota bez zmian: przebieramy się za imperialnych żołnierzy i przenikamy do twierdzy." },
     { "gameKey": "quest/009/GaiUsc411_00986#TEXT_GAIUSC411_00986_CID_000_062", "hash": "50F19787D6A86F00", "target": "Glaumunt szuka sposobu, by zdobyć zbroję magitek. Tymczasem ja potrzebuję twojej pomocy przy własnych przygotowaniach." },
     { "gameKey": "quest/009/GaiUsc411_00986#TEXT_GAIUSC411_00986_CID_000_063", "hash": "87C73DA9D6DAB872", "target": "Minfilia i pozostali na nas liczą, <split(<string(gstr1)>, ,1)>. Nie każmy im czekać dłużej, niż to konieczne!" },
-    { "gameKey": "quest/009/GaiUsc411_00986#TEXT_GAIUSC411_00986_POP_MESSAGE_000", "hash": "231E49A0F5875ACE", "target": "Nieznośne bzyczenie wypełnia ci uszy!" }
+    { "gameKey": "quest/009/GaiUsc411_00986#TEXT_GAIUSC411_00986_POP_MESSAGE_000", "hash": "231E49A0F5875ACE", "target": "W uszach rozbrzmiewa nieznośne brzęczenie!" }
   ]
 }

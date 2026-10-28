@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegAbr2CampCloudtop_00291",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "" }
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "Potrzebujesz czegoś? Jeśli eskorty, to chyba znajdę chwilę wolnego czasu." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "Co tutaj robisz?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "O nic." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "Jako rycerze służący rodowi Haillenarte mamy obowiązek wypatrywać oznak aktywności smoków z Dravanii tutaj, w Camp Cloudtop." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "Obawiam się jednak, że niewiele mamy do roboty. Wygląda na to, że smoki nie chcą mieć nic wspólnego z tym miejscem, więc większość czasu spędzamy na utrzymaniu obozu. Lud Vanu Vanu ostatnio sprawia kłopoty, ale to nic, z czym nie potrafilibyśmy sobie poradzić." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "Ten senny obozik to miejsce, z którego wypatrujemy nadciągających ataków smoków z Dravanii." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "Ale tak między nami, stacjonują tu tylko osoby uznane za niezdolne do... innych zadań, jeśli wiesz, co mam na myśli. Ponieważ smoki z Dravanii mają główne siedziby po drugiej stronie Ishgardu, najpewniej zobaczymy co najwyżej chmury w kształcie smoków." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "Przynajmniej mamy zajęcie przy naprawach statku <italic(1)>Protector<italic(0)>. Ale biorąc pod uwagę brak zaopatrzenia i jakichkolwiek prawdziwych obowiązków, każdy szanujący się rycerz powinien unikać przeniesienia tutaj." }
   ]
 }

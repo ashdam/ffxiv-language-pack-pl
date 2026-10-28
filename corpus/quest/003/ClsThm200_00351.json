@@ -22,7 +22,7 @@
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_06", "hash": "0070944398FCDB34", "target": "Zbadać zacienioną wychodnię" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_07", "hash": "6A9E422DF9655882", "target": "Zdać raport Cocobosze w Gildii Taumaturgów" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_08", "hash": "F8D1D777F5F6B7E7", "target": "Porozmawiać z Cocobukim" },
-    { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0ADFC05BF28BB0FE", "target": "Czeka cię walka. Czy chcesz kontynuować<br>zadanie „The Threat of Perplexity”?" },
+    { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0ADFC05BF28BB0FE", "target": "Czeka cię walka. Czy chcesz kontynuować<br>zadanie „Zagrożenie osaczeniem”?" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_YES", "hash": "5797A4D18E860203", "target": "Tak" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_NO", "hash": "00AA880F85772595", "target": "Nie" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_COCOBUKI_000_001", "hash": "837C70CD92CE8E11", "target": "<split(<string(gstr1)>, ,1)>, nic ci nie jest! Bałem się, że <if(gnum4,padłaś,padłeś)> ofiarą „Magobójcy”! Nie dotarły do ciebie wieści o niedawnej serii makabrycznych morderstw w Ul'dah?" },

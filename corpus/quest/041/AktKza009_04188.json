@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza009_04188",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_001", "hash": "A8CB057AE30D9C79", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_002", "hash": "4265832C471C1209", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_003", "hash": "54C12A85A2E02778", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_004", "hash": "169143BD04DDD861", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_005", "hash": "667DAF52C0D2EF54", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_010", "hash": "A2B7CE0085480BA2", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_011", "hash": "46A3035633D517B9", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_012", "hash": "6D690D1E86DADC77", "target": "" }
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>N'nagali przygląda ci się z matczyną troską." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "Zebrać gnijące kłody" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "Dostarczyć gnijące kłody N'nagali" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "<if(gnum4,Proszę pani,Proszę pana)>, czy mogę prosić o wyciągnięcie dłoni? Mam coś, czego koniecznie trzeba spróbować. Proszę, nalegam!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_001", "hash": "A8CB057AE30D9C79", "target": "Czy to nie najbardziej soczysty, najsłodszy i najbardziej krzepiący przysmak, jakiego zdarzyło się <if(gnum4,pani,panu)> skosztować? Właśnie upiekłam całą porcję. Widząc <if(gnum4,pani,pańską)> bladawą cerę, pomyślałam, że przyda się mały poczęstunek!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_002", "hash": "4265832C471C1209", "target": "Proszę się nie martwić─dobrze wiem, czym częstuję. Choć teraz pracuję w tym archiwum skarbów kultury, niegdyś studiowałam nauki o żywieniu na Wydziale Medycyny." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_003", "hash": "54C12A85A2E02778", "target": "Wiedza ze studiów bardzo mi się przydaje, gdy dbam o zdrowie i siły moich zmęczonych współpracowników. ...Tylko nie zawsze mam czas zebrać wszystkie potrzebne składniki." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_004", "hash": "169143BD04DDD861", "target": "Zastanawiam się nawet, czy mogę prosić o pomoc. Zaraz pójdę po składniki na wschód, ale byłabym ogromnie wdzięczna za przeszukanie okolicy na północnym zachodzie i przyniesienie dwóch gnijących kłód!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_005", "hash": "667DAF52C0D2EF54", "target": "Tak, gnijących kłód! Nie muszą być wielkie, ale potrzebuję ich w całości!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_010", "hash": "A2B7CE0085480BA2", "target": "Udało się znaleźć kłody?" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_011", "hash": "46A3035633D517B9", "target": "Tak! Powinno się w nich <italic(1)>roić<italic(0)> od maleństw!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_012", "hash": "6D690D1E86DADC77", "target": "Dziękuję w swoim imieniu i w imieniu pozostałych archiwistów, którzy z pewnością też będą wdzięczni! W końcu nie ma nic pożywniejszego niż danie z larw chrząszczy!" }
   ]
 }

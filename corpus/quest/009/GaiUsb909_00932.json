@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb909_00932",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "" }
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "Ser Chaunollet chce, by kolejne twoje zbiory ulżyły niedoli rycerzy." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "Z nieco teatralną władczością ser Chaunollet każe ci przynieść tłuszcz szynszyli. Zbyt mało wiesz o ishgardzkiej kuchni, by znać powód, ale zabij cztery stworzenia chinchilla i zbierz ich obfity tłuszcz trzewny." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "Szynszyle były dziwnie liczne i dobrze odżywione jak na delikatne zwierzęta w środku zimy. Coerthas jest pełen takich tajemnic, ale na razie powstrzymaj dociekliwość i złóż kremowy tłuszcz w ręce rycerza Chaunollet." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "Ser Chaunollet na chwilę zapomina o swej władczej minie i zachwyca się jakością tłuszczu. Wobec niewytłumaczalnej pulchności zwierząt cieszy cię wiadomość, że tłuszcz trafi na łapy chocobo, a nie do garnka z potrawką." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "Pozyskać tłuszcz ze stworzeń chinchilla" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "Dostarczyć tłuszcz szynszyli rycerzowi Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "Widzę, że palisz się do służby. Nie zaprzeczaj─ogień w twoich oczach cię zdradza. <italic(1)>Jest<italic(0)> coś, co możesz zrobić: zabij żyjące w pobliżu stworzenia chinchilla i zbierz ich tłuszcz." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "Ile tych zwierząt? Widzę, że zadanie cię ekscytuje! Wystarczą cztery słusznej wielkości. A teraz bądź moim sokołem i poluj tam na szynszyle!" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "Ach, sokół Świątyni! Masz to, co kazałem przynieść?" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "To znakomity tłuszcz, starannie wybrany. Widzę, że umiesz oprawiać zwierzęta. Po wytopieniu i wzbogaceniu powstanie z niego maść na odmrożenia dla naszych chocobo." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "Jedynie chocobo spośród zwierząt należy się cześć. Na każdego rycerza Ishgardu, który poległ na krucjacie, przypada tyle samo poległych szlachetnych ptaków. Nikt, kto widzi koniec chocobo, nie pozostaje niewzruszony." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzc110_05080",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_SEQ_00", "hash": "73F5B8737635F767", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_TODO_00", "hash": "4173D04B2E5DCE8C", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_TODO_01", "hash": "D39369F49E56604D", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_000", "hash": "4809A441A353233D", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_001", "hash": "794CDF2C09B2F0D0", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_002", "hash": "595E9670A8F33600", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_003", "hash": "6A115A60811C2275", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_004", "hash": "1D2631931B8B11E2", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_005", "hash": "7DCB58A96AB050BC", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_006", "hash": "A6A1CFE6C336F85E", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_007", "hash": "2EAAD4834362DF5D", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_008", "hash": "AE10C3B6BEB9E0DF", "target": "" },
-    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_009", "hash": "8BA7A832A959AC24", "target": "" }
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_SEQ_00", "hash": "73F5B8737635F767", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Przy drodze do Many Fires stoi zakłopotany Pelupelu." },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_TODO_00", "hash": "4173D04B2E5DCE8C", "target": "Odzyskać zgubione rzeczy zakłopotanego Pelupelu" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_TODO_01", "hash": "D39369F49E56604D", "target": "Zwrócić zgubione rzeczy zakłopotanemu Pelupelu" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_000", "hash": "4809A441A353233D", "target": "Ach! Proszę zaczekać. Mam propozycję─zapewne okaże się korzystna dla nas <if(gnum4,obojga,obu)>." },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_001", "hash": "794CDF2C09B2F0D0", "target": "Pamięta <if(gnum4,pani,pan)> ostatnią burzę? Gdy uderzyła, byłem już niemal w Many Fires, więc zamiast natychmiast szukać schronienia, poganiałem alpakę przez smagające wichry. Niestety, gdy burza ucichła, odkryłem, że te same wiatry porwały połowę mojego towaru." },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_002", "hash": "595E9670A8F33600", "target": "Bardzo chciałbym go odzyskać, ale słyszałem, że ostatnio drogi roją się od rozbójników─to kolejny powód, dla którego tak śpieszno mi było do bezpiecznego Many Fires. Waham się więc, co rozsądniejsze: spisać straty na straty czy zaryzykować, by je odrobić?" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_003", "hash": "6A115A60811C2275", "target": "Teraz jednak pojawia się trzecia możliwość: zainwestować w kogoś, dla kogo powrotna wyprawa będzie o wiele mniej ryzykowna ze względu na całkowitą pogardę dla niebezpieczeństwa. Zgubione przedmioty zapewne leżą wzdłuż brzegu rzeki między tym miejscem a Earthenshire─czy przyjmie <if(gnum4,pani,pan)> ofertę?" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_004", "hash": "1D2631931B8B11E2", "target": "Przebyta przeze mnie trasa wiodła wzdłuż rzeki od Earthenshire, więc zgubione rzeczy zapewne wciąż leżą na jej brzegach... o ile nie spłynęły z prądem lub nie zabrali ich jacyś nicponie." },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_005", "hash": "7DCB58A96AB050BC", "target": "Ach, jest <if(gnum4,pani,pan)> z powrotem─i widzę, że w jednym kawałku. To przynajmniej jedna dobra wiadomość. Czy... są też inne?" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_006", "hash": "A6A1CFE6C336F85E", "target": "Och, dziękuję, dziękuję! Opakowania może nieco namokły, ale towar w środku wygląda na nienaruszony." },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_007", "hash": "2EAAD4834362DF5D", "target": "Narzędzia rzemieślnicze, jeśli ciekawość nie daje spokoju. Tym właśnie handluję. Szczególnie żal było mi je zostawić, gdy dowiedziałem się o zawaleniu wielkich schodów. Popyt będzie ogromny!" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_008", "hash": "AE10C3B6BEB9E0DF", "target": "Dzięki bogom za przybycie w takiej chwili. Natura obdarzyła nas, Pelupelu, duchem przedsiębiorczości i nieugaszonym pragnieniem wędrówki, ale dała nam też drobne ciała i niewiele siły.<br><br>Gdybym to ja wrócił ich szukać, zapewne straciłbym głowę pod toporem bandyty albo porwałaby mnie woda i runąłbym ku śmierci z wodospadu!" },
+    { "gameKey": "quest/050/KinGzc110_05080#TEXT_KINGZC110_05080_LOSSPELUPELU05080_000_009", "hash": "8BA7A832A959AC24", "target": "Dlatego mój lud często zatrudnia najemników do ochrony karawan... ale po chaosie, jaki burza wywołała na drogach, ich stawki z pewnością co najmniej się podwoiły... Bez obaw jednak─dzięki <if(gnum4,pani,panu)> wiem, że gdy brak najemnika, wystarczy poszukiwacz przygód!" }
   ]
 }

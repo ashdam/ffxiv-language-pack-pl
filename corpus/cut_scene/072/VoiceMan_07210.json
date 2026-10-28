@@ -2,11 +2,11 @@
   "conversation": "cut_scene/072/VoiceMan_07210",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000010_METEM", "hash": "463B6C4146962319", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000020_METEM", "hash": "EA7F9535FDBEBCBE", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000030_METEM", "hash": "507268663F5464CC", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000040_METEM", "hash": "9E5E24E8F2238B4B", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000050_REFEREE", "hash": "2CAF834EF2526953", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000060_METEM", "hash": "BE0E553D9FEF3FEB", "target": "" }
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000010_METEM", "hash": "463B6C4146962319", "target": "Młody, stylowy i zna wszystkie kroki! Dusza towarzystwa i król parkietu─Dancing Green!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000020_METEM", "hash": "EA7F9535FDBEBCBE", "target": "Ring jest jej pracownią, a rzeczywistość płótnem! Buntowniczka w słusznej sprawie, która czaruje wszystkich iluzjami─Sugar Riot!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000030_METEM", "hash": "507268663F5464CC", "target": "Powrócił, by się zemścić─i to jak! Podły zawodnik znany wcześniej jako Brute Bomber─Brute Abombinator!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000040_METEM", "hash": "9E5E24E8F2238B4B", "target": "Niezrównany szermierz o nadnaturalnej zwinności, najgroźniejszy drapieżnik wagi junior ciężkiej─Howling Blade!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000050_REFEREE", "hash": "2CAF834EF2526953", "target": "K.O.!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000060_METEM", "hash": "BE0E553D9FEF3FEB", "target": "Walka rozstrzygnięta! Zwycięstwo <if(gnum4,pretendentki,pretendenta)>!" }
   ]
 }

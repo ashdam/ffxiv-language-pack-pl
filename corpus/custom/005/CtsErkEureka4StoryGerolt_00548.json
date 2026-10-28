@@ -2,19 +2,19 @@
   "conversation": "custom/005/CtsErkEureka4StoryGerolt_00548",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000", "hash": "E7AFC3072A128C3D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010", "hash": "331EC4A2FCE68144", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011", "hash": "080B7D65490BDCFF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012", "hash": "E86FA2C0ECC75944", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013", "hash": "A37D8B489D2CE411", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013", "hash": "7EEFBFA7290D627F", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013", "hash": "D36BE93C8CC44469", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013", "hash": "FBCCB08FA41E1695", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013", "hash": "EDACD4412EE47017", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014", "hash": "0E783310DC04BB71", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014", "hash": "879094F886BB1E7A", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015", "hash": "BF6176AC3031821D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015", "hash": "CB00816B70C065CE", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015", "hash": "C61C99FB37B541D1", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000", "hash": "E7AFC3072A128C3D", "target": "Ach, zastanawiałem się, kiedy się tu wreszcie przywleczesz. Haruję jak wół, żeby ułatwić ci życie, ale zanim przejdę do smakowitych szczegółów, idź dać Krile znać, że tu jesteś, co?" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010", "hash": "331EC4A2FCE68144", "target": "Wszystko z Krile załatwione? Dobrze, dobrze. Jak wcześniej, mam ci kupę rzeczy do opowiedzenia. Nadstaw uszu i słuchaj." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011", "hash": "080B7D65490BDCFF", "target": "Najpierw sprawa manipulatora Logos. Ulepszyliśmy fiolki do przechowywania przekształconych wspomnień, więc możesz nosić przy sobie więcej tego towaru. Alchemik wyprawy wszystko ci wyjaśni." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012", "hash": "E86FA2C0ECC75944", "target": "Teraz twoja Magia Board. Jeśli już sześć kryształów magicite robiło na tobie wrażenie─raduj się! Możemy ją teraz ulepszyć, żeby mieściła <italic(1)>siedem<italic(0)> kamieni. Pogadaj z inżynierem wyprawy, a wszystko ci załatwi." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013", "hash": "A37D8B489D2CE411", "target": "I na koniec mój ulubiony temat.<br>...Nie, nie moje cholerne długi, ty <if(gnum4,bezczelna cholero,bezczelny draniu)>. Broń! Wymyśliłem, jak jeszcze ją wzmocnić. Jeśli cię to kręci, daj znać." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013", "hash": "7EEFBFA7290D627F", "target": "Ach, a skoro już tu jesteś..." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013", "hash": "D36BE93C8CC44469", "target": "Drake! Rusz tu dupę i powiedz <if(gnum4,tej kobiecie,temu mężczyźnie)> o logogramach!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013", "hash": "FBCCB08FA41E1695", "target": "<if(gnum4,Proszę pani,Proszę pana)>, z przyjemnością informuję, że odkryliśmy tu, w Hydatos, nowe odmiany logogramów." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013", "hash": "EDACD4412EE47017", "target": "Pewne ich połączenia mogą dać nieznane dotąd wspomnienia. Zachęcam <if(gnum4,panią,pana)> do eksperymentowania ze znalezionymi logogramami." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014", "hash": "0E783310DC04BB71", "target": "...A zatem wygląda na to, że to ostatni etap wyprawy. Trzymałem się z tobą przez całą drogę, więc nie zawiedź mnie teraz, co? Doprowadź sprawę do końca!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014", "hash": "879094F886BB1E7A", "target": "Ja również życzę <if(gnum4,pani,panu)> jak największego powodzenia w tutejszych przedsięwzięciach!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015", "hash": "BF6176AC3031821D", "target": "Dobra, wszystko, co trzeba było powiedzieć, zostało powiedziane. Jeśli chcesz wiedzieć coś o wzmacnianiu broni, możemy pogadać teraz. Jeśli nie, to spieprzaj z powrotem do Krile." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015", "hash": "CB00816B70C065CE", "target": "Po zapisaniu co najmniej pięćdziesięciu sześciu różnych wpisów w Dzienniku akcji logos i rozmowie z Drakiem uzyskasz dostęp do nowych przedmiotów." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015", "hash": "C61C99FB37B541D1", "target": "Pamiętaj, że te przedmioty staną się dostępne dopiero po odblokowaniu pancerzy Eureka oferowanych przez rzemieślnika wyprawy w Northpoint." }
   ]
 }

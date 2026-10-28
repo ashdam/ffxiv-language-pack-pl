@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz305_02701",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_SEQ_00", "hash": "A928C105413E3A9F", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_00", "hash": "5957A7E396E968D5", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_01", "hash": "5C3A9413176C3C2B", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_000", "hash": "46E760ACD9CFF6C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_001", "hash": "0EE0A3D690774A71", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_002", "hash": "92D9F552C6F1F08C", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_003", "hash": "2F6645E6C66B7B6B", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_004", "hash": "425EE1783D7F8C2F", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_010", "hash": "8F81B0602C242BCB", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_011", "hash": "39937186F052ECD1", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_012", "hash": "3AEB57707A886A6E", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_013", "hash": "847FEB6876EEB1A4", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_014", "hash": "E5272557218DA06D", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_015", "hash": "FBC647DF4C58047A", "target": "" }
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_SEQ_00", "hash": "A928C105413E3A9F", "target": "Dziewczyna o szafirowych włosach cieszy się z ponownego spotkania." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_00", "hash": "5957A7E396E968D5", "target": "Zebrać mozuku" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_01", "hash": "5C3A9413176C3C2B", "target": "Dostarczyć mozuku dziewczynie o szafirowych włosach" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_000", "hash": "46E760ACD9CFF6C4", "target": "Och, wiedziałam, że skądś znam tę twarz! Może i <if(gnum4,pani,pan)> mnie pamięta? To ja, dziewczyna uratowana przed przybrzeżnymi meduzami w Onokoro." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_001", "hash": "0EE0A3D690774A71", "target": "To takie zaskoczenie, że jestem z Sui<-->no<-->Sato? Rzadko oddalamy się od naszej małej podwodnej wioski, to prawda, ale czasem wychodzimy po jedzenie." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_002", "hash": "92D9F552C6F1F08C", "target": "W dniu mojego ratunku właśnie po to wyszłam, ale nim zebrałam potrzebne mi mozuku, te okropne stworzenia zaatakowały mnie z zasadzki." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_003", "hash": "2F6645E6C66B7B6B", "target": "Wciąż nie doszłam do siebie po ranach i liczyłam na jeszcze jedną przysługę. Czy mogę prosić o zebranie czterech kęp mozuku i przyniesienie ich tutaj?" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_004", "hash": "425EE1783D7F8C2F", "target": "Czy mogę prosić o cztery kępy mozuku? Powinny rosnąć w wodzie przy brzegach Onokoro." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_010", "hash": "8F81B0602C242BCB", "target": "Witam z powrotem─czy udało się przynieść moje mozuku?" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_011", "hash": "39937186F052ECD1", "target": "Och, dziękuję! Te wodorosty są bardzo ważną częścią naszej diety. Nie wiem, co bym zrobiła bez pomocy przy ich zbieraniu." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_012", "hash": "3AEB57707A886A6E", "target": "Dotąd nigdy nic mnie nie poparzyło przy zbieraniu mozuku. \\<wzdycha> Chyba sama jestem sobie winna. Nie powinnam była dać się rozproszyć połyskującym łuskom przepływających ryb." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_013", "hash": "847FEB6876EEB1A4", "target": "Gdybyśmy mieli pola takie jak na powierzchni, moglibyśmy zmniejszyć to ryzyko. Niestety nasza wioska jest mała i trudno nam znaleźć miejsce pod uprawy." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_014", "hash": "E5272557218DA06D", "target": "Choć morze jest szczodre i pełne bogactw, w przeciwieństwie do <if(gnum4,pani,pana)> obdarza łaskami tylko tych, którzy czują przed nim respekt. To była pycha z mojej strony, zapomnieć o lęku przed jego potężnymi falami." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_015", "hash": "FBC647DF4C58047A", "target": "A jednak jestem wdzięczna za tę próbę, bo przypomniała mi coś ważnego i pozwoliła zyskać wspaniałą nową przyjaźń. Proszę przyjąć ten podarek." }
   ]
 }

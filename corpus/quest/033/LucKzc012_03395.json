@@ -2,10 +2,10 @@
   "conversation": "quest/033/LucKzc012_03395",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SEQ_00", "hash": "5EAADDAC0B6591A8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Lad Kenn bardzo martwi się o przyjaciela." },
+    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SEQ_00", "hash": "5EAADDAC0B6591A8", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Lad Kenn bardzo martwi się o przyjaciela." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_00", "hash": "8E7D3858E12A2F8F", "target": "Porozmawiaj z Kenn Gyuf." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_01", "hash": "036823EA549E7F9F", "target": "W trybie czatu <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> wpisz dowolne zdanie zawierające „Kenn Gyuf”, by zawołać pixie." },
-    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_02", "hash": "E65BF2FDFD8C9688", "target": "Zdaj relację Lad Kenn." },
+    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_02", "hash": "E65BF2FDFD8C9688", "target": "Zdać relację Lad Kenn" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_LADKENN_000_000", "hash": "EAD488AC5EFB41F4", "target": "Pomocy! Błagam, pomóż! Mój przyjaciel idzie do Phisor Lran, dokąd pod żadnym pozorem nie wolno nam zaglądać..." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_LADKENN_000_001", "hash": "27A8704B03559634", "target": "Przychodzi mi do głowy, żeby ruszyć w pościg, ale boję się spotkania z tym... z tym <italic(1)>czymś<italic(0)>." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_LADKENN_000_002", "hash": "2AC395D33B958A47", "target": "Ale ty jesteś <if(gnum4,dużą i odważną kobietą,dużym i odważnym mężczyzną)>. Takie rzeczy cię nie przerażają, prawda? Proszę, znajdź mojego przyjaciela, Kenn Gyuf, i przyprowadź go z powrotem! Pośpiesz się, a może zdążysz, zanim dotrze do Phisor Lran!" },

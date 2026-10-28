@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa806_00790",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "" }
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "Oriane z Wieży Florentela martwi się o drzewa." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "Oriane i pozostali Leśni Płaczkowie muszą poświęcić wszystkie siły odpieraniu najazdów Ixal, więc nie mogą zająć się szkodliwymi Shroud hare pustoszącymi roślinność Lasu Dwunastu. Polej pokaleczone drzewa zwietrzałym piwem, by zwabić szkodniki, a następnie je zabij." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "Szkodniki obgryzające korę i pożerające liście już nie będą ucztować na miejscowej roślinności. Poinformuj Oriane o swoim sukcesie." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "Oriane dziękuje za twoje wysiłki. Jest zdecydowana chronić Las Dwunastu, by uczcić pamięć Florentela, legendarnego bohatera, którego imię nosi wieża." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "Polać pokaleczone drzewa zwietrzałym piwem i zabić Shroud hare" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "Zdać relację Oriane" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "Jako członkini Leśnych Płaczków przysięgłam chronić swój kraj przed ludem Ixal. Ale jako Gridańczankę boli mnie widok drzew, które więdną i umierają, gdy my toczymy bitwy." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "Shroud hare ostatnio wyrządzają coraz większe szkody, obgryzają drzewa i wyrywają krzewy z ziemi. Ale przecież nie możemy prosić ptakoludzi, by odłożyli włócznie, kiedy my polujemy na przerośnięte ślimaki, prawda?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "...Dlatego zwracam się do <if(gnum4,pani,pana)>. Proszę polać pokaleczone drzewa tym tygodniowym piwem, a sprawcy powinni się zaraz pojawić. Ich zgładzenie przyniesie lasowi wielką ulgę." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "Dziękuję. Teraz mogę walczyć z ludem Ixal z czystym sumieniem, wiedząc, że ludzie tacy jak <if(gnum4,pani,pan)> są przyjaciółmi lasu." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "Florentel, którego imię nosi ta wieża, był jednym z największych bohaterów z czasów powstania Gridanii. Jego wojenne czyny przewyższała jedynie miłość do lasu." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "...I miłość do Eugenii─patronki naszej siostrzanej wieży. Ach... czyż takie dawne opowieści nie przyprawiają serca o drżenie?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

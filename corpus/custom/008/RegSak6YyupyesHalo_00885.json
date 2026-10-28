@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegSak6YyupyesHalo_00885",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_000", "hash": "3D7CE7E55DCE981D", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_Q1_000_000", "hash": "CBE4F1DAFC33306B", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_001", "hash": "8AB8A487EA1C76E0", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_002", "hash": "03F8F55EAC34379C", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_003", "hash": "EC8833729B5515D8", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_010", "hash": "437779CB511B0C78", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_011", "hash": "FE0E30136C5D6542", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_020", "hash": "BB9BABD749147418", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_021", "hash": "0586FAC33CFA1575", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_022", "hash": "4B6302D3DB4FD47A", "target": "" },
-    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_023", "hash": "5736163BF1A87D19", "target": "" }
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_000", "hash": "3D7CE7E55DCE981D", "target": "Och, interesują cię nasze pola? Powiem ci wszystko, czego chcesz się dowiedzieć." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_Q1_000_000", "hash": "CBE4F1DAFC33306B", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_001", "hash": "8AB8A487EA1C76E0", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_002", "hash": "03F8F55EAC34379C", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_A1_000_003", "hash": "EC8833729B5515D8", "target": "Nic." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_010", "hash": "437779CB511B0C78", "target": "Och, chcesz wiedzieć coś o mnie? Nie ma wiele do opowiadania, ale nazywam się Yyopyicana." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_011", "hash": "FE0E30136C5D6542", "target": "Od zawsze lubię uprawiać rośliny i całkiem dobrze radzę sobie z przyrządzaniem różnych warzyw. Potrafię też rozpoznać ich świeżość na pierwszy rzut oka." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_020", "hash": "BB9BABD749147418", "target": "To Aureola Yyupye, ważne miejsce w życiu mieszkańców obrzeży. Pracuję tu razem z Shaloaci, która zarządza gospodarstwem, i uprawiamy najróżniejsze warzywa." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_021", "hash": "0586FAC33CFA1575", "target": "Z pomocą technologii electrope w pełni korzystamy z tego, co daje ziemia, i wspieramy ludzi, którzy mają tu swój dom." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_022", "hash": "4B6302D3DB4FD47A", "target": "W Everkeep też uprawiają warzywa, ale nie są to te same rośliny, które pochodzą z Turalu. Na tych polach uprawiamy przede wszystkim turalijskie warzywa tradycyjnymi metodami." },
+    { "gameKey": "custom/008/RegSak6YyupyesHalo_00885#TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_023", "hash": "5736163BF1A87D19", "target": "Po tym, co wydarzyło się w Everkeep, nasza praca nabrała jeszcze większego znaczenia. Musimy przemyśleć nasze metody, jeśli mamy wyhodować dość warzyw dla wszystkich." }
   ]
 }

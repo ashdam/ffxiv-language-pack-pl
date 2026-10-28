@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst001_00024",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_00", "hash": "2FD8BFB5A0C3BF1D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_01", "hash": "A06E7A76F78A0E9D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_02", "hash": "DB5455B624CC2C09", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_TODO_00", "hash": "B2EE3DAA35BC5BEA", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_1", "hash": "FA8CC52747EB48BD", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_2", "hash": "9C52FF8E4F3E495B", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_3", "hash": "E89851A7A0320665", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_4", "hash": "85B2B1786CD5DE26", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_5", "hash": "A78691F5A5414391", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_10", "hash": "2DA78489614DA698", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_11", "hash": "490B727BA4AC8BF1", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_12", "hash": "3775C49A209B087D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_13", "hash": "9AE97BC0BF50A9FA", "target": "" }
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_00", "hash": "2FD8BFB5A0C3BF1D", "target": "F'mibhas z Gildii Łuczników prosi cię o dostarczenie zapieczętowanej wiadomości na targ." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_01", "hash": "A06E7A76F78A0E9D", "target": "Zanieś zapieczętowaną wiadomość od F'mibhas na targ i doręcz ją Parnell w Zacienionej Altanie." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_02", "hash": "DB5455B624CC2C09", "target": "Parnell wyjawia, że wiadomość od F'mibhas dotyczy dostępności towarów na targu. Zastanawia się, dlaczego poszukiwaczka przygód po prostu nie porozmawiała z nią osobiście, i rozmyśla o oschłości, jaką przybysze przypisują Gridańczykom." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_TODO_00", "hash": "B2EE3DAA35BC5BEA", "target": "Dostarczyć zapieczętowaną wiadomość Parnell na targu" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_1", "hash": "FA8CC52747EB48BD", "target": "Witaj, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Masz chwilę?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_2", "hash": "9C52FF8E4F3E495B", "target": "Potrzebuję kogoś godnego zaufania, kto zaniesie list do Parnell. Znajdziesz ją w Zacienionej Altanie pośrodku targu." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_3", "hash": "E89851A7A0320665", "target": "Hmm? Dlaczego po prostu nie pójdę porozmawiać z nią osobiście?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_4", "hash": "85B2B1786CD5DE26", "target": "Cóż, eee... Na pewno widać, że... Gridańczycy bywają dość... Ehem. Chcę powiedzieć... <italic(1)>Przy osobistym spotkaniu<italic(0)> potrafią być... no... trochę nieprzystępni." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_5", "hash": "A78691F5A5414391", "target": "Sprawa nie jest pilna─po prostu przekaż list przy następnej wizycie na targu. Proszę, przysługa po znajomości między poszukiwaczami przygód!" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_10", "hash": "2DA78489614DA698", "target": "Witam <if(gnum4,panią,pana)>. Czy chce <if(gnum4,pani,pan)> skorzystać z usług retainera?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_11", "hash": "490B727BA4AC8BF1", "target": "Co to? List od F'mibhas? Czego może dotyczyć? Niech spojrzę...<br>...Hmm? Chce się dowiedzieć, jakie mikstury są dostępne na targu." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_12", "hash": "3775C49A209B087D", "target": "To chyba nie wymaga listu, a tym bardziej wynajmowania kuriera! Dlaczego nie mogła zapytać osobiście? \\<wzdycha> Mam wrażenie, że poszukiwaczom przygód spoza naszych granic trudno porozumieć się z Gridańczykami." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_13", "hash": "9AE97BC0BF50A9FA", "target": "Czy naprawdę jesteśmy aż tak pozbawieni ciepła? Nie ufamy obcym tylko dlatego, że tylu z nich sprowadziło chaos na Las Dwunastu─a takich grzechów długo się nie zapomina. Ale... Chyba <italic(1)>moglibyśmy<italic(0)> postarać się być nieco mniej... chłodni." }
   ]
 }

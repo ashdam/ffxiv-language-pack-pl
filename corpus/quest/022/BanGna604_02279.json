@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna604_02279",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "" }
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "Vath keeneye jest pogrążony w głębokim namyśle.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "Gęsta chmura dymu ze srebrnej rosy spowija Anyx Trine, a mieszkańcy wieży uważają Vath za sprawców tej haniebnej zbrodni. Vath podejrzewają jednak, że prawdziwym źródłem dymu są kadzielnice pojawiające się ostatnio na ziemiach Gnathów. Vath keeneye doliczył się z daleka czterech osobnych smug, więc sądzi, że nowych kadzielnic jest cztery. Udaj się na Dymiące Pustkowia, wyłącz kadzielnice Gnath i pomóż Vath oczyścić atmosferę.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "Wyłączasz wszystkie kadzielnice Gnath. Wróć do Loth ast Vath i złóż meldunek Vath keeneye." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "Vath keeneye dziękuje ci za trud. Jest pewien, że teraz, po wyłączeniu kadzielnic Gnath, Vath utrzymają przychylność smoków." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "Wyłączyć kadzielnice Gnath" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "Złożyć meldunek Vath keeneye" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "<if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, dobrze, że jesteś. Otrzymaliśmy skargi. Smoki mówią, że Anyx Trine i okolice cuchną płonącą srebrną rosą." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "Są pewne, że to nasza wina. To bez sensu. Nie zmieniliśmy ilości palonej srebrnej rosy. \\<klika> \\<klika> Wyjaśnienie może być tylko jedno. Wspólny Umysł─jego członkowie wznoszą nowe kadzielnice." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "Zaufanie zbudowane między nami a smokami jest poważnie zagrożone. Musimy dowieść niewinności! Inaczej możemy stracić tych klientów na zawsze." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "Nasi zwiadowcy dostrzegli cztery nowe słupy dymu. Bez wątpienia pochodzą z tych kadzielnic. \\<klika> \\<klika> Proszę, odszukaj je i udaremnij ich plany." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "\\<klika> \\<klika> Istoto z mięsa, jak śmiesz kłaść łapy na naszych cennych kadzielnicach!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "\\<klika> \\<klika> Po raz ostatni sprzeciwiasz się woli Nadrzędnego Umysłu!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "Nie wiemy, jak ci dziękować, <if(gnum4,dobra łowczyni,dobry łowco)>. Smoki pozostaną naszymi przyjaciółmi i klientami. Kto by pomyślał, że utrzymywanie dobrych stosunków z sąsiadami wymaga tyle pracy?" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "Mamy nadzieję, że pewnego dnia Vath, Gnathowie i smoki z Dravanii znajdą sposób na zgodne życie. \\<klika> \\<klika> Wtedy nikt nie będzie już musiał znosić smrodu srebrnej rosy!" }
   ]
 }

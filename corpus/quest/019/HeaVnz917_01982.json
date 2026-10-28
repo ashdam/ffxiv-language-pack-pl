@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz917_01982",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "Allagański węzeł pacyfikacyjny próbuje uruchomić test systemu." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "Allagański węzeł pacyfikacyjny musi potwierdzić skuteczność podsystemu zapewniania posłuszeństwa obywateli. Wypróbuj go, podejmując próbę zniszczenia trzech jednostek clockwork engineer i trzech jednostek clockwork paladin." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "Test został zakończony. Wróć do węzła pacyfikacyjnego, by potwierdzić wyniki." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "Węzeł pacyfikacyjny zdaje się uznawać twoje przetrwanie za porażkę podsystemu i zaleca modernizację infrastruktury." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "Zniszczyć jednostki clockwork paladin" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "Zniszczyć jednostki clockwork engineer" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "Zdać relację węzłowi pacyfikacyjnemu" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "Uruchamianie testu systemu. \\<pik> \\<pik> Nie znaleziono obiektu testowego. Przerywanie... Uruchamianie testu systemu. \\<pik> \\<pik> Nie znaleziono obiektu testowego. Przerywanie... Uruchamianie testu systemu." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "Gratulujemy wyboru do udziału w testach systemu. Proszę sprawdzić skuteczność podsystemu zapewniania posłuszeństwa obywateli, zbliżając się do jednostek clockwork engineer i clockwork paladin i demonstrując nieposłuszne zachowanie.<br>Proszę sprawdzić...\\<bzzzzzzz>...podsystemu zapewniania, zbliżając się do jednostek clockwork... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "\\<bzzzzzzz> ...nieposłuszne zachowanie. Proszę sprawdzić skuteczność podsystemu zapewniania posłuszeństwa obywateli, zbliżając się do jednostek clockwork engineer i clockwork paladin i demonstrując nieposłuszne zachowanie. Proszę sprawdzić... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "Dziękujemy za udział w programie testów podsystemu zapewniania posłuszeństwa obywateli.<br>Unieszkodliwione obiekty testowe... <italic(1)>ZERO<italic(0)>.<br>Skuteczność podsystemu... <italic(1)>NIEZADOWALAJĄCA<italic(0)>." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "Zalecana modernizacja infrastruktury pacyfikacyjnej w celu zapewnienia optymalnej uległości obywateli." }
   ]
 }

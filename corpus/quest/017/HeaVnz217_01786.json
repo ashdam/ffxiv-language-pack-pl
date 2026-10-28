@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz217_01786",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "" }
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "Cibleroit przygląda ci się głodnym wzrokiem." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "Cibleroit ma ochotę na jaja nanka, a ty musisz pomóc mu zaspokoić głód. Zdobądź pięć jaj od bestii ninki nanka z pobliskiej rzeki i przynieś je Cibleroitowi." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "Masz już lepki, oślizgły skrzek nanka. Pozbądź się go z rąk jak najszybciej, dostarczając go Cibleroitowi." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "Cibleroit z zachwytem przyjmuje jaja. Dla the Hungerer są one jednak obrzydliwe. Różnice zdań─i wszystkie ich konsekwencje─zdają się wyróżniać Odłączonych na tle Gnathów należących do Wspólnego Umysłu." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "Zabić bestię ninki nanka i zdobyć jej jaja" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "Dostarczyć jaja Cibleroitowi" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "<if(gnum4,Hojna łowczyni,Hojny łowco)>, chcemy cię o coś poprosić. To nietrudna praca." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "Potrzebujemy jaj nanka. Pięciu pysznych jaj nanka. \\<klik> \\<klik> Zabij bestię ninki nanka i zdobądź dla nas jej pyszne jaja." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "Masz jaja? Pięć soczystych jaj nanka?" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "Zastanawiamy się, czy nigdy nie znudzą ci się jaja nanka, Cibleroit?" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "Masz jaja nanka? \\<klik> \\<klik> Smaczne, soczyste jaja nanka... \\<klik> \\<klik> \\<klik>" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "\\<klik> \\<klik> Takkk. Dziękujemy ci za te jaja. Ich konsystencji nie sposób się oprzeć. Moglibyśmy zjeść ich tysiąc... ale na razie wystarczy pięć." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "Nie rozumiemy twojego upodobania do jaj nanka. Są obrzydliwe. \\<klik> \\<klik> Masz zły gust." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "Nie rozumiemy twojej niechęci do jaj nanka. Ale właśnie to znaczy należeć do Odłączonych." }
   ]
 }

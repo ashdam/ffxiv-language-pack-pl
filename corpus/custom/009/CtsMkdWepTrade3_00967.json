@@ -2,12 +2,12 @@
   "conversation": "custom/009/CtsMkdWepTrade3_00967",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_000", "hash": "C0F0BFACF5421133", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_001", "hash": "63ABAA4D783CF17B", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_002", "hash": "66052273CFFEBC31", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_003", "hash": "03F60A0C204DA7B7", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_004", "hash": "79F86E9140C8C715", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_005", "hash": "6B1D719838BD972A", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_006", "hash": "01BE984BC3B94CE5", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_000", "hash": "C0F0BFACF5421133", "target": "Pora sprawdzić, co przemiana eteryczna zrobiła z moim młotem─i co on zrobi z twoją bronią Phantom!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_001", "hash": "63ABAA4D783CF17B", "target": "MUAHAHAHAHAHA!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_002", "hash": "66052273CFFEBC31", "target": "Udało się! Jeszcze chwilę temu przysiągłbym, że tak doskonała harmonia eteryczna jest niemożliwa..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_003", "hash": "03F60A0C204DA7B7", "target": "Oto przerażająca moc Otchłani w namacalnej postaci: <ennoun(Item,3,lnum1,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_004", "hash": "79F86E9140C8C715", "target": "Oto przerażająca moc Otchłani w namacalnej postaci: <ennoun(Item,3,lnum1,1,1)> i <ennoun(Item,3,lnum2,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_005", "hash": "6B1D719838BD972A", "target": "Sprawdź, jak ci leży. Jasne, bez ćwiczeń nawet najlepszy oręż będzie w twoich rękach kupą złomu." },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_006", "hash": "01BE984BC3B94CE5", "target": "Innymi słowy, musisz tego cholerstwa używać. Pomachaj nim, ubij parę paskudztw─rób to, co umiesz najlepiej, <if(gnum4,dziewczyno,chłopcze)>!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq117_03822",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_SEQ_00", "hash": "5436F1801931EBF4", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_SEQ_01", "hash": "5B8C4E63ED8A41AC", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_TODO_00", "hash": "4E38CC5CC55BD096", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_000", "hash": "DA64727B2A2611BD", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_001", "hash": "D9E2CE633FD782AF", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_002", "hash": "320ADFEF380336F8", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_003", "hash": "D4F64CE4C59C811C", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_004", "hash": "E5F255FF3C044BAD", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_005", "hash": "483484A660EE77E6", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_006", "hash": "94C994245BF43042", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_010", "hash": "0FAE13F619A9250F", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_011", "hash": "3E31D1B18D19C18D", "target": "" },
-    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_012", "hash": "84F47515E2CB380B", "target": "" }
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_SEQ_00", "hash": "5436F1801931EBF4", "target": "Qhoterl Pasol ma apetyt na zniszczenie.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_SEQ_01", "hash": "5B8C4E63ED8A41AC", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_TODO_00", "hash": "4E38CC5CC55BD096", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć pinches of splendid saltpeter przy Łupinie,Dostarczyć pinches of splendid saltpeter Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać sprigs of splendid mugwort przy Łupinie,Dostarczyć sprigs of splendid mugwort Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid magmatongue w Łzach Mjrla,Dostarczyć splendid magmatongue Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_000", "hash": "DA64727B2A2611BD", "target": "Ostatnio pracownicy borykają się z najróżniejszymi trudnościami. Najgorsze są zawały, przez które pękają czaszki i zatykają się tunele. Nad rozwiązaniem pierwszego problemu nadal pracujemy, ale na drugi mamy już plan: materiały wybuchowe!" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_001", "hash": "D9E2CE633FD782AF", "target": "Oszczędzę szczegółów, ale do wykonania naszych niszczycielskich urządzeń potrzeba trochę saletry. Z wdzięcznością przyjmiemy każdą ilość!" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_002", "hash": "320ADFEF380336F8", "target": "Oszczędzę szczegółów, ale do wykonania naszych niszczycielskich urządzeń potrzeba trochę bylicy. Z wdzięcznością przyjmiemy każdą ilość!" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_003", "hash": "D4F64CE4C59C811C", "target": "Oszczędzę szczegółów, ale do wykonania naszych niszczycielskich urządzeń potrzeba ryby magmatongue. Wystarczy hojna porcja przynęty fruit worms na haczyku, a ryby aż podskoczą z chęci złapania się!" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_004", "hash": "E5F255FF3C044BAD", "target": "To właśnie przy Łupinie najłatwiej znaleźć to, czego szukamy. Muszę jednak uprzedzić, że droga stąd jest dość długa." },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_005", "hash": "483484A660EE77E6", "target": "To właśnie przy Łupinie najłatwiej znaleźć to, czego szukamy. Muszę jednak uprzedzić, że droga stąd jest dość długa." },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_006", "hash": "94C994245BF43042", "target": "Choć zwykle przemieszczają się z miejsca na miejsce, ostatnio widziano ich wiele w Łzach Mjrla. Może warto właśnie tam rozpocząć poszukiwania?" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_010", "hash": "0FAE13F619A9250F", "target": "Czy ma <if(gnum4,pani,pan)> to, czego potrzebuję, by spróbować swoich sił w wytwarzaniu materiałów wybuchowych?" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_011", "hash": "3E31D1B18D19C18D", "target": "Ach, tak. Właśnie tego szukałam. Chyba. Po zmieszaniu tego z trawami, saletrą, węglem drzewnym, siarką i odrobiną moczu─dodam, że nie mojego─powinno już dać się wysadzić te rumowiska!" },
+    { "gameKey": "quest/038/BanQiq117_03822#TEXT_BANQIQ117_03822_QHOTERLPASOL_000_012", "hash": "84F47515E2CB380B", "target": "Szczerze mówiąc, nie mam w tym wielkiego doświadczenia. Wygląda jednak na to, że metodą prób i błędów w końcu dojdę do doskonałości. W końcu co najgorszego może się stać?" }
   ]
 }

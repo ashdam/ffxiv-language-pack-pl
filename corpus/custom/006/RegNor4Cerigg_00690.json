@@ -2,12 +2,12 @@
   "conversation": "custom/006/RegNor4Cerigg_00690",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_000", "hash": "B57D7BA685C1B733", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_010", "hash": "DF5D0C6DAC325153", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_020", "hash": "0CF7BADFD7595050", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_030", "hash": "2F0D85D9B92C560F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_031", "hash": "389964CD2F4E483C", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_050", "hash": "346733F2BEE09D69", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_055", "hash": "53CBBF3C75971102", "target": "" }
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_000", "hash": "B57D7BA685C1B733", "target": "Pożeracz grzechów Phronesis, jedna z tych przeklętych Cnót, przemierza pustkowia i swą złowrogą magią sieje spustoszenie wśród przechodniów. Gdyby tylko znalazł się dostatecznie zdolny mag, chętny pomóc staremu Ceriggowi." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_010", "hash": "DF5D0C6DAC325153", "target": "Nie martw się. Stary Cerigg wypłaci ci twoją część nagrody z własnej sakiewki." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_020", "hash": "0CF7BADFD7595050", "target": "Jak na chłopca w swoim wieku Taynor ma głowę na karku. Zdążył już znacznie poprawić stan naszych finansów─głównie ograniczając mój budżet na alkohol." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_030", "hash": "2F0D85D9B92C560F", "target": "Dobrze widzieć cię w jednym kawałku, <split(<string(gstr1)>, ,1)>. Nie wiedziałem, czego się spodziewać, gdy wyszedłem sprawdzić, co to za zamieszanie. Ale na wszystkie piekła, na pewno nie tego, że zobaczę, jak lecisz w dół z tej skały." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_031", "hash": "389964CD2F4E483C", "target": "Podobno właśnie miało dojść do wyrównania twoich rachunków z największym wrogiem. Po spokojnej twarzy wnoszę, że już po wszystkim. Dobra robota, <if(gnum4,przyjaciółko,przyjacielu)>. Dobra robota." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_050", "hash": "346733F2BEE09D69", "target": "Ta krasnoludka potrafi <italic(1)>pić<italic(0)>. Czuję się, jakby tkwił mi topór w czaszce, a jej nic nie jest!" },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_055", "hash": "53CBBF3C75971102", "target": "Cieszę się, że Taynor znalazł przyjaciela w swoim wieku. Trochę dziwnego, ale czy nie wszyscy tacy jesteśmy?" }
   ]
 }

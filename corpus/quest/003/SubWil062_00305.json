@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil062_00305",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "" }
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "Roger ma ekscytującą propozycję dla poszukiwaczy przygód szukających pracy." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Rogerem w karczmie Coffer & Coffin.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "Po serii bohaterskich starć masz już pięć żuwaczek mrówczaka. Zanieś dowód swoich umiejętności Warinowi na stacji Black Brush Station." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "Choć z początku jest zaskoczony, Warin dostrzega twój potencjał i serdecznie cię wita. Proponuje dalszą pracę, jeśli masz chęci i siły." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Rogerem w karczmie Coffer & Coffin<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Rogerem w karczmie Coffer & Coffin<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "Podobno na stacji Black Brush Station dotkliwie brakuje ludzi. Tutejsze Kamienne Pochodnie nie mają ani chwili spokoju." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "Nie pomaga też to, że antlings mnożą się na potęgę. Na każdego stwora, którego zabiją Warin i jego ludzie, pojawiają się dwa kolejne paskudztwa." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "Pomyślałem, że może przydasz się na stacji, zabijając trochę antlings. Nie wątpię, że Warin doceni pomoc." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "A jeśli zdobędziesz jego zaufanie, pewnie znajdzie dla ciebie więcej pracy. Tylko pamiętaj, trzeba pokazać człowiekowi dowód swoich czynów. Pięć żuwaczek mrówczaka powinno przemówić za ciebie." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "Co? Mówisz, że udało ci się zabić trochę antlings? Nie ty <if(gnum4,pierwsza,pierwszy)> przychodzisz tu z takim gadaniem, licząc na łatwy zarobek. Bez dowodu tego wyczynu nie zobaczysz ode mnie ani jednego gila." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "Na jaja Thala... czy to żuwaczki mrówczaka!? Więc to prawda─naprawdę udało ci się przetrzebić te bestie! Przepraszam, że zwątpiłem w twoje słowa." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "Ul'dah leży tak blisko, że można by sądzić, iż nic nam nie grozi. Prawda jest taka, że antlings są aktywniejsze niż kiedykolwiek. Sprawnych poszukiwaczy przygód do pomocy w utrzymaniu spokoju nigdy nie będzie za wielu." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "Jeśli zechcesz nam pomóc, z przyjemnością przydzielę ci zadanie. Bogowie wiedzą, że tutaj ich nie brakuje." }
   ]
 }

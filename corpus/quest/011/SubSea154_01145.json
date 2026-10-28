@@ -2,19 +2,19 @@
   "conversation": "quest/011/SubSea154_01145",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "" }
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "<if([gnum11<12],<if([gnum11<4],Pierwsze gwiazdy błyskają bladymi brzuchami w głębi nieba,Świeża poranna bryza łopoce proporcami)>,<if([gnum11<17],Jasne\\, mocne światło pada na nabrzeże,Pierwsze gwiazdy błyskają bladymi brzuchami w głębi nieba)>)>, a marynarza Ahldfoeta naszła ochota na opowieści." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "Ahldfoet ma nieco makabryczną prośbę, choć ćwiartowanie stworzeń nie jest ci już obce. Upoluj dusk bat i zbierz pięć skrzydeł." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "Uwalniasz skrzydła od niezbyt chętnych do współpracy dusk bat. Dostarcz skórzaste trofea Ahldfoetowi." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "Schowawszy talizmany w przepastnej kieszeni, Ahldfoet wreszcie rozwiązuje język. Choć masz ochotę poznać dalszy ciąg opowieści, gawędziarz najwyraźniej na razie woli na tym poprzestać." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "Zdobyć skrzydła dusk bat" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "Przekazać skrzydła nietoperzy Ahldfoetowi" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "Ahoj! Moja łajba niedługo wypływa, a ja potrzebuję drobiazgu na podróż. Dusk bat już latają─dasz radę przynieść mi pięć skrzydeł? Pamiętaj, cztery nie wystarczą, a sześć też odpada." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "Nadwyżkę możesz zatrzymać, jeśli wiesz, co z nią zrobić. To jak, przyniesiesz mi te skrzydła?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "Ahoj. Ciszej trochę, to nasza sprawa, nie innych, co? Masz to, o co prosiłem?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "Właśnie o to chodziło. Kawał porządnej roboty! W walce czujesz się jak ryba w wodzie, co? No to pięknie, dzięki." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "Dlaczego? My, marynarze, bywamy przesądni. Niektórzy z załogi dziwnie by patrzyli na noszenie części nietoperzy. A kiedy wiatr ustaje i kończy się woda w beczkach, jednego dnia jesteś <italic(1)>dziwakiem<italic(0)>, a drugiego lądujesz <italic(1)>za burtą<italic(0)>." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "Co? Z <italic(1)>tym<italic(0)> żaden przesąd nie ma nic wspólnego. Nietoperze przynoszą mi szczęście od dziecka. Kiedyś przetrwałem ponad dwa tygodnie dzięki trzem, które złapałem na szczycie opuszczonej strażnicy. Nawet zjadłem jednemu skrzydło, zanim odważyłem się zejść po ścianie." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "Tym razem popłyniemy obok Wysp Umbry. Już czuję, jak morze ostrzy tamte rafy. Od Katastrofy światła Pharos Sirius ledwie się tlą. A ta latarnia zawsze za bardzo przypominała mi starą strażnicę, żebym mógł patrzeć na nią spokojnie." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "Już dawno nie jestem tamtym przerażonym chłopcem─skrzywdzonym, wygłodzonym i niemal obłąkanym, co zsuwał się po ścianie z piaskowca, chwytając występy nie większe od opuszka palca. Ale w każdą podróż zabiorę pięć skrzydeł nietoperza. Tak samo jak on." }
   ]
 }

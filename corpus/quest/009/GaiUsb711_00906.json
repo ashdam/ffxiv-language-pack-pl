@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb711_00906",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "" }
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "Ranne zwierzę jest niebezpieczne, a członek Białych Baranów wracający do zdrowia w Fallgourd Float doskonale pasuje do tego opisu. Cokolwiek Isaudorel ma na myśli, lepiej się zgodzić." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "Ranny po starciu z ludem Ixal Isaudorel leży w gospodzie i musi prosić innych o wytropienie zwiadowców. Powinni nadal przebywać na północny wschód od Fallgourd Float i żywić się dziką zwierzyną. Ukryj się przy zwłokach antylopy i zabij Ixali wildtalon, które się pojawią." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "Łowcy stają się zwierzyną, a wildtalon nie mają szans z twoją dzikością zahartowaną na szlakach. Zastanów się przez chwilę, czy nie robisz się nazbyt bezwzględnym człowiekiem, po czym powiadom Isaudorela o zabiciu wrogów." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "Isaudorel szczerze dziękuje za pomoc. Najwyraźniej myśl o dwóch wildtalon na wolności mocno mu ciążyła. Gdy słuchasz jego planów dalszej zemsty, uświadamiasz sobie, że raniąc Isaudorela, wojownicy Ixal uczynili go dwa razy groźniejszym..." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "Zaczaić się przy zwłokach antylopy i zabić Ixali wildtalon" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "Zdać raport Isaudorelowi" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "Niech to szlag, jak boli! Przeklinam własną nieuwagę przy tych Ixal i przeklinam ich za pocięcie mnie jak połcia ryby!" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "No, zanim wrócisz do Coerthas, może trochę rozprostujesz nogi? Dorwij dla mnie te Ixali wildtalon." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "Wyglądali na nowych w okolicy, więc pewnie nie odeszli daleko od miejsca, w którym ich widziałem─Ruin Gelmorry. Szukaj świeżo zabitej zdobyczy, czegoś dużego." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "Przysługa załatwiona? Wielkie dzięki, <split(<string(gstr1)>, ,1)>! Odwiedzę ich przyjaciół, kiedy stanę na nogi." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "Chociaż Molkot urwie mi łeb za to, że dałem się zaskoczyć tym wildtalon. Przynajmniej mogę jej teraz powiedzieć, że ptaszyska długo potem nie pożyły." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

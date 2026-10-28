@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz319_01811",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "Nieposkromiona wiwerna nie posiada się z niepokoju z powodu czyjegoś zniknięcia." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "Po chwili wahania nieposkromiona wiwerna przyznaje, co ją trapi: zaginął jej młodszy brat. Nie ma pewności, lecz podejrzewa, że zgubił się gdzieś w Mourn. Przeszukaj jaskinię Mourn i znajdź zaginionego smoczego malca." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "Znajdujesz całego i zdrowego smoczka budzącego się ze snu. Wciąż zaspany, patrzy na ciebie obojętnie, niemal z niesmakiem. Jednak wzmianka o bracie sprawia, że natychmiast leci ku wyjściu. Wróć do nieposkromionej wiwerny i sprawdź, czy młodszy brat dotarł bezpiecznie." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "Po wyjściu z jaskini zastajesz nieposkromioną wiwernę z młodszym bratem. Dziękuje ci i spogląda na malca, licząc, że również okaże szacunek. Ten jednak odlatuje bez słowa. Nieposkromiona wiwerna szybko przeprasza, obiecując niezwłocznie przywołać brata do porządku." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "Odnaleźć nielotnego smoczka w Mourn" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "Wrócić do nieposkromionej wiwerny" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "Człowiek!? Hm... pomożesz mi? Mój brat zniknął bez śladu." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "Jest jeszcze młody i lubi się wałęsać. Znajdź go, zanim wpadnie w kłopoty. Podejrzewam, że zgubił się w jaskini Mourn." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "Brat często poddaje się ciekawości i wędruje po Mourn. Znajdź go, nim będzie za późno." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "\\<ziewa> W cieple tej jaskini dobrze się śpi, ale teraz jestem głodny... Hm? Czego chcesz?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "Brat mnie woła? To muszę iść." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "Dziękuję. Słusznie zwróciłem się do ciebie. Mały, gdzie twoja wdzięczność?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "Wybacz mu. Nie przywykł rozmawiać z... twoim rodzajem. Nie martw się, zajmę się nim." }
   ]
 }

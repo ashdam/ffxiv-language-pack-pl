@@ -22,6 +22,6 @@
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_016", "hash": "9D067FE2611F8112", "target": "To tylko środek tymczasowy, ale ze względu na mieszkańców nie możemy ich zabić. Proszę zająć się ostatnimi dwoma, których uśpiłam. Ja zajmę się resztą." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_020", "hash": "C897CC5AF618E348", "target": "\\<chrapie> ...<if(gnum4,Mamo,Tato)>, to ty...?" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_030", "hash": "3B6D251E40178DBB", "target": "Ja... chcę do domu... \\<chrapie>" },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_040", "hash": "7A03CA8D509B2DF5", "target": "Chodźmy szybko! Musimy opowiedzieć innym o sterowcu albo dowiedzieć się, co oni o nim wiedzą!" }
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_040", "hash": "7A03CA8D509B2DF5", "target": "Chodźmy szybko! Musimy opowiedzieć innym o statku powietrznym albo dowiedzieć się, co oni o nim wiedzą!" }
   ]
 }

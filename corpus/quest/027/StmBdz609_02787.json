@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz609_02787",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_SEQ_00", "hash": "977187613EDBAB98", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_000", "hash": "AB1F72453903A286", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_001", "hash": "66829C4641DD222B", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_002", "hash": "87FD54E907A742FA", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_003", "hash": "3722380EE6A51FD4", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_004", "hash": "24A8BFAE85EADEE4", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_005", "hash": "31ACE8CC46F2D2A1", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_010", "hash": "E48BA16C20DA231E", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_011", "hash": "CA1886F04F74DF0C", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_012", "hash": "0DE78D29E132CC00", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_013", "hash": "1F34899FBB1AB5FD", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_014", "hash": "015BBE587716EE68", "target": "" }
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_SEQ_00", "hash": "977187613EDBAB98", "target": "Dagasi obawia się o miejscowe zwierzęta hodowlane." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "Zabić gulo gulo" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "Zdać sprawę Dagasi" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_000", "hash": "AB1F72453903A286", "target": "Widać, że potrafisz walczyć. A ja rzadko się mylę." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_001", "hash": "66829C4641DD222B", "target": "Nie należysz do Dotharl, ale jeśli masz doświadczenie w zabijaniu bestii, mam do ciebie prośbę." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_002", "hash": "87FD54E907A742FA", "target": "Niedawno pod wsią pojawiła się grupa stworzeń. Zagrażają naszym owcom. Do tej pory widywano je tylko znacznie dalej na północy." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_003", "hash": "3722380EE6A51FD4", "target": "W naszym plemieniu nie brak odważnych wojowników. Nie boimy się śmierci. Gulo gulo należą jednak do tych nielicznych bestii, które sprawiają kłopot nawet najlepszym z nas." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_004", "hash": "24A8BFAE85EADEE4", "target": "Dlatego chcę powierzyć to zadanie komuś z zewnątrz. Proszę, zabij cztery z tych stworzeń. Nie martw się, wynagrodzę cię." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_005", "hash": "31ACE8CC46F2D2A1", "target": "Zabij cztery z tych stworzeń. Jeśli ci się uda, otrzymasz zapłatę." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_010", "hash": "E48BA16C20DA231E", "target": "Zadanie wykonane? Dobrze, teraz nasze owce mogą spać spokojnie." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_011", "hash": "CA1886F04F74DF0C", "target": "Jak pewnie zauważasz, gulo gulo to chytre stworzenie. Usypia czujność napastnika, a potem zastawia na niego pułapkę. Tak właśnie zginął mój brat." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_012", "hash": "0DE78D29E132CC00", "target": "Choć są sprytne, to wciąż bestie. Trzeba jednak uważać, próbując je zabić. Niejeden człowiek z plemienia Dotharl pomylił lekkomyślność z odwagą i przypłacił to życiem." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_013", "hash": "1F34899FBB1AB5FD", "target": "Nasi wojownicy mogliby wiele zyskać, obserwując kogoś takiego jak ty. Dopilnuję, by w następnym życiu mój brat nie był już tak nierozważny." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_014", "hash": "015BBE587716EE68", "target": "Dziękuję za pomoc. Dopilnuję, żeby przy następnym pojawieniu się gulo gulo nie była nam potrzebna pomoc z zewnątrz." }
   ]
 }

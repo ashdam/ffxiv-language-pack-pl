@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzb004_04209",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_00", "hash": "0A45B267E723E245", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_01", "hash": "B0B978A2201E45B5", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_000", "hash": "55F891408D071611", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_001", "hash": "4652630075B2B88F", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_002", "hash": "4DA182599AAF0022", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_003", "hash": "5039C64DA4094E05", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_005", "hash": "928CA99ABB05473A", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_006", "hash": "B1272FF6C8C1457E", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_007", "hash": "4E68098B14CD7614", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_008", "hash": "A48911210B37955F", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_009", "hash": "74AA261CE1A35DCC", "target": "" }
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kusuma najwyraźniej waha się, czy do ciebie zagadnąć." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_00", "hash": "0A45B267E723E245", "target": "Użyć noża z rudy giantsgall, by zeskrobać korę z drzewa na zboczu" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_01", "hash": "B0B978A2201E45B5", "target": "Dostarczyć skrawki kory i nóż z rudy giantsgall Kusumie" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_000", "hash": "55F891408D071611", "target": "Przepraszam, <if(gnum4,odkrywczyni,odkrywco)>... <if(gnum4,najemniczko,najemniku)>... osobo od przygód! Zwykle nawet nie śniłabym o zawracaniu ci głowy, ale to chyba nie pora, by dokładać obowiązków dzielnym żołnierzom Promienistego Zastępu." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_001", "hash": "4652630075B2B88F", "target": "Potrzebuję tylko prostego składnika do dalszych badań. Cała trudność w tym, żeby go zebrać i przy okazji nie dać się zabić tutejszym zwierzętom." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_002", "hash": "4DA182599AAF0022", "target": "Możesz wybrać się na wzgórza i przynieść mi skrawki kory z rosnących tam drzew? Masz, pożyczę ci swój specjalny nóż do okorowywania!" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_003", "hash": "5039C64DA4094E05", "target": "Tylko go nie zgub─jest z rudy giantsgall i był bardzo drogi!" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_005", "hash": "928CA99ABB05473A", "target": "Ach, jesteś! Masz korę... i mój nóż?" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_006", "hash": "B1272FF6C8C1457E", "target": "Tak, pachnie doprawdy cudownie! Już sobie wyobrażam woń kolejnej partii kadzidła." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_007", "hash": "4E68098B14CD7614", "target": "Badam różne sposoby wzmacniania działania kadzideł─szczególnie zapachów, które sprzyjają wyciszeniu i spokojowi." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_008", "hash": "A48911210B37955F", "target": "A po tym wszystkim, co się dzieje, każdemu przydałaby się odrobina wyciszenia i spokoju, prawda?" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_009", "hash": "74AA261CE1A35DCC", "target": "Życie bywa trudne nawet w dobrych czasach. Mam nadzieję, że moje badania pomogą ludziom przetrwać te najgorsze. Dziękuję ci za pomoc!" }
   ]
 }

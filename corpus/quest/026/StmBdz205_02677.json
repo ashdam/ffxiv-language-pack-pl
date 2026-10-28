@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz205_02677",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_SEQ_00", "hash": "8C053DB9EF8A4C08", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_00", "hash": "979C553DDD319AEF", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_01", "hash": "F7253643A144BABF", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_000", "hash": "1C687D6B9EB9902E", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_001", "hash": "EADE66C0EBCB1C1C", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_002", "hash": "84405D5D219CF647", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_003", "hash": "6EBFF8E3F2D5B8E0", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_004", "hash": "09E136E22B84AAC6", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_SYSTEM_000_009", "hash": "74159A4E64D1B558", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_010", "hash": "C52112B2B6072A5E", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_011", "hash": "32C84AD0F50CFA2A", "target": "" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_012", "hash": "AFFC86FA4E0E0822", "target": "" }
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_SEQ_00", "hash": "8C053DB9EF8A4C08", "target": "Hayama wydaje się całkowicie pochłonięty wypatrywaniem czegoś na morzu." },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_00", "hash": "979C553DDD319AEF", "target": "Rozejrzeć się we wskazanych miejscach i pokonać ominous onibi" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_01", "hash": "F7253643A144BABF", "target": "Porozmawiać z Hayamą" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_000", "hash": "1C687D6B9EB9902E", "target": "Kami na niebiosach! N-nie można tak podkradać się do ludzi! No, czego ci trzeba? Jeśli niczego, pozwól łaskawie, że wrócę na wart─" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_001", "hash": "EADE66C0EBCB1C1C", "target": "Ach─gdy się przyjrzeć, masz chyba o wiele więcej siły niż przeciętny przedstawiciel rasy <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>. Może w czymś mi pomożesz. Ostatnio widujemy niepokojące błyski wzdłuż wschodniego wybrzeża Sakazuki." },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_002", "hash": "84405D5D219CF647", "target": "T-to pewnie tylko przepływające statki, ale niektórzy z tutejszych ludzi są przekonani, że to onibi. Są przerażeni. Pójdziesz się dla nas rozejrzeć?" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_003", "hash": "6EBFF8E3F2D5B8E0", "target": "Ostatnio widziano te światła na północny zachód stąd. Jeśli jednak okażą się onibi, proszę je zgładzić. O-oczywiście sam bym się tym zajął, ale po prostu nie mogę opuścić posterunku." },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_004", "hash": "09E136E22B84AAC6", "target": "Ostatnio widziano te światła na północny zachód stąd. Idź tam i jeśli naprawdę jest tam onibi, zgładź je." },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_SYSTEM_000_009", "hash": "74159A4E64D1B558", "target": "Mimo wysiłków nie dostrzegasz żadnej istoty ominous onibi." },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_010", "hash": "C52112B2B6072A5E", "target": "Więc chcesz powiedzieć, że nie było onibi─tylko maleńkie żywiołaki ognia?" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_011", "hash": "32C84AD0F50CFA2A", "target": "Hahahaha! Nie mogę się doczekać, aż powiem innym. Ale będą się wstydzić, że tak się bali!" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_012", "hash": "AFFC86FA4E0E0822", "target": "Nagroda, mówisz? Czy dobry uczynek dla bliźniego sam w sobie nie jest nagrodą? Hahaha! Oczywiście żartuję. Proszę bardzo! " }
   ]
 }

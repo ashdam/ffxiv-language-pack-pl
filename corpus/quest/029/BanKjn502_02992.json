@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn502_02992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "" }
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Na południowy brzeg Skały na Mieliźnie fale wyrzucają dziwne skrzynie.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Zbadać eorzeańskie skrzynie i zebrać skarby" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Dostarczyć monety Zukinowi" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Jeden z naszych znalazł trzy skrzynie wyrzucone na Skałę na Mieliźnie. Wyglądały na eorzejski wyrób, ale niczego więcej nie ustalił. Zamykał je szczelnie jakiś nieznany nam mechanizm." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Mamy trochę doświadczenia z otwieraniem zamkniętych skrzyń, ale nie takich z zachodnich krain. Ty jednak pewnie rozgryziesz ten mechanizm. Możesz się tym zająć?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "Jak poszło z tymi skrzyniami?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "To było w środku? Niech no spojrzę... Stara zachodnia waluta, i to wybita ze szlachetnych metali. Dzięki za przyniesienie tych monet!" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "Co? Skrzynie, które ożywają i zaciekle kłapią wiekiem? Czy to złe duchy czyhające na nieszczęsnych poszukiwaczy skarbów? A może oszalałe bóstwa tsukumogami? To doprawdy niepokojące." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "Tak czy inaczej, bardzo się cieszę, że nic ci się nie stało. Nie myślałem o niebezpieczeństwie, prosząc o pomoc, ale słusznie zwróciłem się do tak zahartowanej w przygodach osoby jak ty." }
   ]
 }

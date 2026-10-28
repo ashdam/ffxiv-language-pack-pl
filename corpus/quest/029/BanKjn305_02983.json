@@ -2,15 +2,15 @@
   "conversation": "quest/029/BanKjn305_02983",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_SEQ_00", "hash": "6B3B80728D3CE39C", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_00", "hash": "FD9D6C483354064F", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_01", "hash": "DB283A410175158C", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_000", "hash": "7A5A7AA3DF895CE5", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_001", "hash": "09586531BCCD9CFE", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_002", "hash": "F9E7B45CC6C29435", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_020", "hash": "8F02B25947FDB2C1", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_021", "hash": "89B09A80B43DB447", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_022", "hash": "527B29E8309B1DFA", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_023", "hash": "704AFD44031C4935", "target": "" }
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_SEQ_00", "hash": "6B3B80728D3CE39C", "target": "Zukin potrzebuje pomocy w przygotowaniu uczty.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_00", "hash": "FD9D6C483354064F", "target": "Zwabić stworzenia man-eating gasame mięsem ostryg w Hells' Lid i zabić je, aby zdobyć rozżarzone pancerze" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_01", "hash": "DB283A410175158C", "target": "Dostarczyć rozżarzone pancerze Zukinowi" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_000", "hash": "7A5A7AA3DF895CE5", "target": "Jak zapewne wiesz, od szukania skarbów można porządnie zgłodnieć. Kaioke ugotuje sycący posiłek, żeby nie zabrakło nam sił. Potrzebuje do tego kilku rozżarzonych pancerzy." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_001", "hash": "09586531BCCD9CFE", "target": "Jeśli każde z nas zdobędzie choć dwa, uzbieramy dość w mgnieniu oka. Masz, weź to mięso ostryg. Możesz nim zwabić żarłoczne stworzenia gasame w Hells' Lid." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_002", "hash": "F9E7B45CC6C29435", "target": "Na przynętę mogą się też skusić inne stworzenia gasame, ale nie wszystkie mają pancerze, których potrzebujemy. Uważaj na siebie i powodzenia!" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_020", "hash": "8F02B25947FDB2C1", "target": "Ach, jesteś z powrotem. Masz już swoją część pancerzy?" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_021", "hash": "89B09A80B43DB447", "target": "Ho, ho, jakie wielkie, rozpalone skorupy! Będzie prawdziwa uczta!" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_022", "hash": "527B29E8309B1DFA", "target": "Odwrócimy je, włożymy składniki i w mig będziemy mieli smaczny, pożywny gulasz ze stworzeń gasame! Ach, na samą myśl ślinka mi cieknie..." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_023", "hash": "704AFD44031C4935", "target": "Tobie też na pewno posmakuje. Ale cieszy się takim wzięciem, że wybaczysz nam chyba, jeśli zabraknie go, zanim zdołasz spróbować!" }
   ]
 }

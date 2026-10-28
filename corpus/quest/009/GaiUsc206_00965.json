@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc206_00965",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "" }
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "Są duchy i są <italic(1)>duchy w butelce<italic(0)>. Ahlduwil jednych się boi, drugich łaknie." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "Podpity samozwańczy wydobywca zatopionych skarbów prosi cię o napełnienie pustej butelki winem z beczki na Cmentarzysku Statków. Wina z wraków nie są ci obce, więc postanawiasz spełnić tę prośbę." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "Zapuszczasz się na wilgotne, nawiedzone Cmentarzysko Statków i znajdujesz beczkę wina, po drodze pokonując ducha. Masz już bezpiecznie przy sobie butelkę wina z wraku, czas więc wrócić do Ahlduwila." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "Ahlduwil zachłannie przyjmuje szlachetny trunek, po czym ubolewa, że z wiekiem nabrał on siarkowego posmaku. Jego marzenie o wypiciu zawartości wszystkich ładowni na Cmentarzysku Statków legło w gruzach. Może teraz przestanie być pijakiem?" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "Napełnić butelkę winem z beczki wina" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "Dać butelkę wina Ahlduwilowi" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "Ta butelka jest pusta! A przed chwilą nie była... Coś tu jes─coś tu <italic(1)>podejrzanego<italic(0)> się dzieje. O, proszę! Widzę <italic(1)><if(gnum4,poszukiwaczkę,poszukiwacza)> przygód<italic(0)>. Witam, <if(gnum4,pani poszukiwaczko,panie poszukiwaczu)> przygód!" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "Widzi <if(gnum4,pani,pan)> tę wielką kupę piachu za mną? To Cmentarzysko Statków. Prądy je przynoszą, te wszystkie wraki... i to, co mają w ładowniach. Beczki wina... rumu... miodu i winiaku... Ten dla kapitana! A ja jestem jakby kapitanem..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "Wygląda <if(gnum4,pani,pan)> na <italic(1)>prawdziwą osobę<italic(0)>. Nie wszyscy są prawdziwi, wie <if(gnum4,pani,pan)>, ci, co mnie odwiedzają. Nie miałbym nic przeciwko, ale niektórzy są <italic(1)>niemili<italic(0)>. Muszę się napić. Proszę, niech <if(gnum4,pani,pan)> weźmie tę butelkę i napełni ją tam czymś." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "To nie fair, że ciągle zmieniają zasady. Byłem <italic(1)>dobrym<italic(0)> szabrownikiem, mówię <if(gnum4,pani,panu)>! A teraz nagle mam też użerać się z duchami?" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "No proszę, pełna butelka! Miałem już tu taką. Chyba coś się z nią stało. Dzięki! Jest <if(gnum4,pani,pan)> <italic(1)>najlepszą<italic(0)> zjawą, jaką kiedykolwiek widziałem." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "Podobno są też inne ładunki─skrzynie pełne sztabek elektrum i tym podobnych, na handel ze Wschodem i z Mera... Mera... czymś tam. Ja tam wolę wino..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "\\<węszy> \\<węszy> Fuj, bleee! Śmierdzi zgniłymi jajami! Nie wypiję tego. Co za marnotrawstwo, tyle wina... i miodu... Piwa też, nie zapominajmy o piwie... I winiaku dla kapitana! \\<szlocha>" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "Czujesz upiorny chłód!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/021/BanVan101_02171",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_00", "hash": "3DDD6BE4B474AB8F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_01", "hash": "485D18E23154DA74", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_02", "hash": "3252C050198D2E59", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_03", "hash": "B3EEC8E0D6311E74", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_00", "hash": "F23BB87CAF81565C", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_01", "hash": "F105EAA999FF8F25", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_000", "hash": "DFE8678280AABAEC", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_001", "hash": "D3394EC1F4F07F25", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_002", "hash": "955F6342B1B5889F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_010", "hash": "AC807BED9FAD4090", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_011", "hash": "906375B566A1221F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_020", "hash": "6838CCB0DF99812C", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_021", "hash": "B46FC072F02D7C89", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_022", "hash": "2AD93D853EF5EF5D", "target": "" }
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_00", "hash": "3DDD6BE4B474AB8F", "target": "Muna Vanu martwi się rosnącą agresją Vundu.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_01", "hash": "485D18E23154DA74", "target": "Do Muna Vanu dotarły niepokojące doniesienia o działaniach Vundu przy granicy ziem Zundu. Niestety, jego plemieniu brak ludzi, by odpowiedzieć na zagrożenie. Prosi cię o patrolowanie granicy w jego zastępstwie i ochronę Gundu przed napotkanymi intruzami. Udaj się na granicę na północnym wschodzie i poszukaj zwiadowców Vundu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_02", "hash": "3252C050198D2E59", "target": "Pokonujesz kilku zwiadowców Vundu kryjących się na ziemiach Zundu, tuż przy ich granicy. Wróć do Muna Vanu i powiadom go, że zagrożenie dla suwerenności jego plemienia zostało zażegnane." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_03", "hash": "B3EEC8E0D6311E74", "target": "Muna Vanu szczerze dziękuje za twój trud. Jego plemię nadal ma wobec Zundu wielki dług wdzięczności, a twoje starania znacznie przybliżyły spłatę za ich dobroć. Zarazem jednak, przez wszystko, co robisz dla Gundu, Muna Vanu uważa ich za równie mocno zadłużonych wobec ciebie." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_00", "hash": "F23BB87CAF81565C", "target": "Poszukać zwiadowców Vundu na północny wschód od Ok' Zundu" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_01", "hash": "F105EAA999FF8F25", "target": "Zdać relację doradcy Muna Vanu" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_000", "hash": "DFE8678280AABAEC", "target": "Jeśli rozstawimy zwiadowców tu... i tu... Och, <split(<string(gstr1)>, ,1)>! Muna Vanu nie słyszy twego nadejścia! Może istota z dołu użyczy swej siły Gundu?" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_001", "hash": "D3394EC1F4F07F25", "target": "Zundu mówią, że widzą w pobliżu zwiadowców Vundu. Nasze plemię musi patrolować swoje ziemie, ale brakuje wojowników. Proszę, pomóż nam znaleźć złych zwiadowców Vundu i ich odpędzić!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_002", "hash": "955F6342B1B5889F", "target": "Ziemie Vundu graniczą z ziemiami Zundu na północny wschód stąd. Proszę, przeszukaj tę okolicę. Znajdź ich zwiadowców i pokaż Vundu całą zaciekłość Gundu!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_010", "hash": "AC807BED9FAD4090", "target": "Dlaczego są tu istoty z dołu?!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_011", "hash": "906375B566A1221F", "target": "Nie powstrzymasz nas, istoto z dołu!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_020", "hash": "6838CCB0DF99812C", "target": "<split(<string(gstr1)>, ,1)>! Do Muna Vanu docierają wieści o twoich czynach! Gundu spadają na nikczemnych łotrów Vundu z siłą gwałtownej wichury!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_021", "hash": "B46FC072F02D7C89", "target": "Zwiadowcy Vundu z każdym dniem są śmielsi. Słyszymy, że polują na ziemiach Zundu ─ zjadają żywność Zundu!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_022", "hash": "2AD93D853EF5EF5D", "target": "Praca istoty z dołu pomaga nam spłacać dług wobec Zundu. Ale teraz to <italic(1)>tobie<italic(0)> jesteśmy dłużni, <split(<string(gstr1)>, ,1)>. Nie martw się. Gundu nie zapomną twojej pomocy." }
   ]
 }

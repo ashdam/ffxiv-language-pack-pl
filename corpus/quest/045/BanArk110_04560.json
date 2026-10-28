@@ -2,13 +2,13 @@
   "conversation": "quest/045/BanArk110_04560",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_SEQ_00", "hash": "A89982A08A96D729", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_00", "hash": "DB88366937D5A009", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_01", "hash": "CAECB6DEB1824B10", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_000", "hash": "FBCCA5ED875EDFCA", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_001", "hash": "A8184334FD5730AE", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_010", "hash": "EF347DA21B9BEADA", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_011", "hash": "048B14FEAA526A54", "target": "" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_012", "hash": "7FF5C3A899C8A4D9", "target": "" }
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_SEQ_00", "hash": "A89982A08A96D729", "target": "Maru liczy na twoją przychylność w sprawie ukwiałów.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_00", "hash": "DB88366937D5A009", "target": "Zebrać czerwonokwiatowe ukwiały" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_01", "hash": "CAECB6DEB1824B10", "target": "Dostarczyć czerwonokwiatowe ukwiały do Maru" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_000", "hash": "FBCCA5ED875EDFCA", "target": "<split(<string(gstr1)>, ,1)>, możesz mi nazbierać czerwonokwiatowych ukwiałów? Chcę wypróbować pewien przepis..." },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_001", "hash": "A8184334FD5730AE", "target": "Szukaj tuż przy brzegu Powitania Słonego Wiatru. Przynieś mi kilka takich, co rosną blisko powierzchni wody. Będę bardzo wdzięczny." },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_010", "hash": "EF347DA21B9BEADA", "target": "Są te czerwonokwiatowe?" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_011", "hash": "048B14FEAA526A54", "target": "Właśnie te! Czerwonokwiatowe mają mnóstwo zastosowań─wędkarze łowią na nie duże ryby, a jak smakują smażone w głębokim tłuszczu albo gotowane na parze z mlekiem kokosowym! Z takimi ukwiałami inne wcale nie są mi potrzebne!" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_012", "hash": "7FF5C3A899C8A4D9", "target": "...W-w każdym razie są tak popularne, że wolno je zbierać tylko w wyznaczonych miejscach. Nie można przecież być zbyt zachłannym..." }
   ]
 }

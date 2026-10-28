@@ -63,7 +63,7 @@
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_053", "hash": "5940EF8DFD170FE5", "target": "Rozumiem... Tak bardzo pragnął uwolnić przyjaciół z więzienia, że sam został przestępcą. Jakież to straszne..." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_054", "hash": "9EB6AFCE52024D76", "target": "Serdecznie dziękuję, <if(gnum4,proszę pani,proszę pana)>. Czy mogę prosić o zaprowadzenie mnie do niego?" },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q2_000_000", "hash": "D98424E1DDE3EFD3", "target": "Co zrobisz?" },
-    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_001", "hash": "428F578F642DA397", "target": "Pogawędzić." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_001", "hash": "428F578F642DA397", "target": "Porozmawiać." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_002", "hash": "6FE4649DECF571B1", "target": "Rozstać się z Wihuwte." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_003", "hash": "18BCC777F4EF57A9", "target": "Nic." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_059", "hash": "287B77A9F3A4E9CD", "target": "Coś się stało? Jeśli nie, proszę prowadzić." },

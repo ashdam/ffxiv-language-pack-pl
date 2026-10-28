@@ -12,7 +12,7 @@
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "Leśni Płaczkowie wracają ostatnio z osobliwymi artefaktami. Zawiniętymi w dziwne worki i pogrzebanymi w jeszcze dziwniejszych miejscach. Pieczętują je zaklęcia podobne do osłon Palace of the Dead, przez co nawet otwieranie jest dość niebezpieczne." },
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "Moim obowiązkiem jest rozpraszanie zaklęć ochronnych na takich osobliwych pojemnikach przyniesionych z ruin. W razie znalezienia któregoś proszę przynieść go do mnie, a dopilnuję bezpiecznego otwarcia. " },
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "Podczas wypraw do głębokiego lochu gracze znajdą przedmioty z przeklętego skarbu─kosztowności ukryte i pogrzebane przez nieumarłych." },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "Wartość przedmiotów znalezionych w Palace of the Dead poznasz, przedstawiając je kapłance ekspedycji do wyceny." },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "Kapitan wyprawy Leśnych Płaczków udzieli szczegółowych informacji o znajdowaniu tych ukrytych skarbów." }
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "Wartość przedmiotów znalezionych w Palace of the Dead poznasz, przedstawiając je biskupce wyprawy do wyceny." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "Kapitan ekspedycji Leśnych Płaczków udzieli szczegółowych informacji o znajdowaniu tych ukrytych skarbów." }
   ]
 }

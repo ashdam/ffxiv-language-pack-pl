@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz513_01848",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "„Orzechy!” woła nieporadnie manewrujący moogle." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "Nieporadnie manewrujący moogle zgubił orzechy podczas niefortunnego spotkania z bestią. Przemierzał Ohl Tahn, gdy dostrzegł go uzbrojony w ostrza gad i ruszył w pościg. Przerażony moogle uciekł bez szwanku do Zenith, lecz po drodze upuścił kolekcję orzechów kupo. Prosi cię o powrót na miejsce jego hańby i odzyskanie pięciu cennych orzechów." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "Zbierasz pięć orzechów kupo z kolekcji nieporadnie manewrującego moogle'a. Wróć do Zenith, by znów mógł cieszyć się swoimi orzechami." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "Nieporadnie manewrujący moogle jest wzruszony twoją dobrocią. Teraz, gdy odzyskał orzechy, znów jest szczęśliwym moogle'em." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "Zebrać orzechy kupo" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "Zwrócić orzechy kupo nieporadnie manewrującemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "Tym razem naprawdę narozrabiałem, kupo... Szedłem sobie wesoło przez Ohl Tahn, kiedy zaczął mnie gonić bladed vinegaroon. Tak się przestraszyłem, że zgubiłem orzechy!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "Niosłem pięć orzechów kupo, a teraz nie mam żadnego. Proszę, znajdź je dla mnie, kupo! Bez orzechów jestem niczym!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "Nie wierzę, że straciłem orzechy... Wszystkie pięć, kupo! Byłem najszczęśliwszym moogle'em na świecie, a teraz jestem niczym! Proszę, przynieś moje orzechy kupo!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "Czy w twojej dłoni są moje orzechy? Wszystkie pięć!?" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "Moje orzechy! Moje piękne orzechy! Wszędzie rozpoznam te orzechy kupo, kupo! Dziękuję─dzięki tobie żyję. Gdy zrozumiałem, że je zgubiłem, z rozpaczy prawie wyrwałem sobie pompon!" }
   ]
 }

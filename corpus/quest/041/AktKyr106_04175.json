@@ -2,13 +2,13 @@
   "conversation": "quest/041/AktKyr106_04175",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "" }
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "Oho! Ty musisz być <split(<string(gstr1)>, ,1)>. Pani Rowena wszystko mi o tobie opowiedziała. Podobno jesteś <if(gnum4,cenioną specjalistką,cenionym specjalistą)> w profesji <sheet(ClassJob,gnum68,0)>!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "A ja nazywam się Ofpilona. Pani Rowena powierzyła mi zarządzanie filią w Radz<-->at<-->Han. Liczę na owocne interesy!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "...Co nie znaczy, że mam do ciebie jakąś szczególną prośbę. Chodzi tylko o to, że twoje interesy są tu równie mile widziane jak w każdym innym Domu Splendorów." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "Oczywiście najchętniej widziałoby się twoje zakupy właśnie tutaj, a nie gdzie indziej. Tacy szanowani klienci przyciągają kolejnych, rozumiesz." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "A jeśli interesy będą szły tak dobrze, wkrótce trzeba będzie zmienić nazwę na Dom Splendorów Ofpilony... Ta stara wiedźma nie będzie wiedziała, co ją trafiło..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "...Eee, nie przejmuj się tą ostatnią częścią. Po prostu obejrzyj nasze towary i kup coś, jeśli ci się spodoba!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "\\<wzdycha> Czego by tu nie dać za spotkanie fachowego rzemieślnika..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 80. lub wyższym." }
   ]
 }

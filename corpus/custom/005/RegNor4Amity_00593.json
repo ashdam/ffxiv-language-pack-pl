@@ -2,16 +2,16 @@
   "conversation": "custom/005/RegNor4Amity_00593",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_000", "hash": "D71782B1E33E13FA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_Q1_000_000", "hash": "F0C8E6574A2DFC76", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_001", "hash": "C54653B6E40363B8", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_002", "hash": "A27FDB30387D1BBA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_003", "hash": "9843FF6E0B0C19FA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_010", "hash": "996813AF3224D6C1", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_011", "hash": "847AF0D2D16A85A7", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_012", "hash": "452033AE3DAA7288", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_020", "hash": "8666B9C3D5904E18", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_021", "hash": "69DE9DD9783778B8", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_022", "hash": "44EE33FE0215F762", "target": "" }
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_000", "hash": "D71782B1E33E13FA", "target": "Witam, <if(gnum4,podróżniczko,podróżniku)>. Wiem, że Amity nie należy do najbardziej znanych osad, więc proszę śmiało pytać, jeśli chce się <if(gnum4,pani,pan)> czegoś dowiedzieć." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_Q1_000_000", "hash": "F0C8E6574A2DFC76", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_001", "hash": "C54653B6E40363B8", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_002", "hash": "A27FDB30387D1BBA", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_003", "hash": "9843FF6E0B0C19FA", "target": "Nic." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_010", "hash": "996813AF3224D6C1", "target": "Och, robię wszystko, co potrzebne. W Eulmore pracowałam jednak jako kucharka... aż do dnia, gdy podałam danie, które pewien wolny obywatel uznał za „mdłe i pozbawione polotu”." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_011", "hash": "847AF0D2D16A85A7", "target": "Nim się obejrzałam, wyrzucono mnie na zewnątrz razem z odpadkami i zostawiono na zmarnowanie. Ale przetrwałam. Pogłoski o innych ocalałych zaprowadziły mnie tutaj, do Amity." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_012", "hash": "452033AE3DAA7288", "target": "Może i straciłam dostatnie życie, ale nic nie równa się wolności, którą teraz czuję. Nad głową nie wisi już katowski miecz za każdym razem, gdy przygotowuję posiłek..." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_020", "hash": "8666B9C3D5904E18", "target": "Znawcy historii mówią, że niegdyś był tu kwitnący ośrodek handlu między Eulmore a krasnoludami. Ale to było ponad sto lat temu." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_021", "hash": "69DE9DD9783778B8", "target": "Wszelkie więzi, które przetrwały Potop, zostały później całkiem zerwane, gdy lord Vauthry doszedł do władzy. Obie strony porzuciły Amity." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_022", "hash": "44EE33FE0215F762", "target": "Zdziwiłabym się, gdyby poza garstką ludzi poniżej The Ladder ktokolwiek jeszcze wiedział, że to miasteczko istnieje. Trzeba przyznać, że była to idealna sytuacja dla grupy wygnańców i uciekinierów, którzy chcieli po prostu mieć spokój." }
   ]
 }

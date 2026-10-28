@@ -2,16 +2,16 @@
   "conversation": "custom/007/RegIsb5PalakasStand_00750",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_000", "hash": "60A10C1BF2A546F0", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_Q1_000_000", "hash": "A064CCEB7829879E", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_001", "hash": "4AC42727AD3496A3", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_002", "hash": "A6D4DF54F4EE3341", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_003", "hash": "F6EFB34432D9EB97", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_010", "hash": "4FF865F458D4AC30", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_011", "hash": "9347F0D4D13DFB6E", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_020", "hash": "D497397360517A0F", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_021", "hash": "353256F8FF7D3A19", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_022", "hash": "C2A6A6C0E897CF78", "target": "" },
-    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_023", "hash": "1C57A7AF938D7DB7", "target": "" }
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_000", "hash": "60A10C1BF2A546F0", "target": "Każda para rąk do pomocy jest tu mile widziana. Nie mamy wiele, ale proszę czuć się jak u siebie. Gdyby <if(gnum4,miała pani,miał pan)> pytania, wystarczy zapytać." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_Q1_000_000", "hash": "A064CCEB7829879E", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_001", "hash": "4AC42727AD3496A3", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_002", "hash": "A6D4DF54F4EE3341", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_A1_000_003", "hash": "F6EFB34432D9EB97", "target": "O nic." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_010", "hash": "4FF865F458D4AC30", "target": "Należę do grona opiekunów tego miejsca i jego okolic. Na pewno <if(gnum4,zauważyła pani,zauważył pan)>, jak wiele jest tu świętych miejsc? Mamy obowiązek się nimi opiekować i naprawiać szkody wyrządzone przez żywioły lub bardziej niegodziwe siły." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_011", "hash": "9347F0D4D13DFB6E", "target": "Mam tyle pracy, że rzadko zdarza mi się zapuszczać daleko poza Całun Samgha. Ledwie pamiętam ostatni widok morza, a co dopiero Radz<-->at<-->Han. Nie muszę chyba dodawać, że mam nadzieję nigdy nie musieć ratować życia pływaniem..." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_020", "hash": "D497397360517A0F", "target": "Palaka's Stand to dom opiekunów Całunu Samgha. Strzeżemy świętych miejsc poświęconych bóstwom i pomagamy wiernym w pielgrzymkach między nimi." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_021", "hash": "353256F8FF7D3A19", "target": "Tę osadę zbudował lud Arkasodara, który zamieszkiwał ją przez wiele pokoleń. Dlatego na świątyniach często widnieją imiona ich słynnych postaci. Skrucha Pavany i Świątynia Agamy to dwa takie przykłady." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_022", "hash": "C2A6A6C0E897CF78", "target": "Po wszystkich ostatnich wydarzeniach osada Palaka's Stand znalazła się w naprawdę trudnym położeniu. Możemy tylko się modlić, by nie przyszło nam jej opuścić." },
+    { "gameKey": "custom/007/RegIsb5PalakasStand_00750#TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_023", "hash": "1C57A7AF938D7DB7", "target": "Choć przeżyliśmy wiele tragedii, tutejsza ludność jest wytrwała i zdołaliśmy przywrócić naszym życiom odrobinę spokoju. Wciąż jednak wiele osób pozostaje bez domu, więc nadal będziemy pomagać im, jak tylko możemy." }
   ]
 }

@@ -2,12 +2,12 @@
   "conversation": "quest/007/GaiUsa610_00772",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "Aedoc z Quarrymill zmaga się z kulinarnym kryzysem." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "Aedoc skończył się sos Mun<-->Tuy i obawia się gwałtownego spadku morale, jeśli jej potrawy będą pozbawione tej wyrazistej przyprawy. Udaj się do Piwnic Mun<-->Tuy i zdobądź butelkę sosu od Erimmonta." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "Erimmont informuje cię, że kolejna partia sosu Mun<-->Tuy niebawem skończy fermentować. Czy będzie gotowa na czas, by uchronić Aedoc przed pożarciem przez wygłodzonych żołnierzy oszalałych na punkcie fasoli? To się jeszcze okaże..." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "Porozmawiać z Erimmontem" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "Lepszego momentu nie można było wybrać! Mam tu prawdziwy kryzys! Jaki kryzys? Widać tę butelkę sosu Mun<-->Tuy? Jest <italic(1)>pusta<italic(0)>, do ostatniej kropli!" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "<italic(1)>Oczywiście<italic(0)>, że to kryzys! Jeśli strażnicy uznają, że kolacja nie ma smaku, gotowi skierować włócznie na mnie zamiast na wrogów! Proszę udać się do Piwnic Mun<-->Tuy i zdobyć trochę sosu od Erimmonta, żeby oszczędzić biednej kucharce tak strasznego losu!" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "Aedoc znowu wyczerpała zapasy? \\<wzdycha> Tyle razy jej mówiłem, żeby zamawiała więcej naraz, ale nigdy nie słucha. Proszę wstrzymać chocobo─następna partia niedługo będzie gotowa." }
   ]
 }

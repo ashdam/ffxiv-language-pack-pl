@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz015_02649",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_SEQ_00", "hash": "05EDE13C9891169E", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_00", "hash": "1A4AF6F7904BE7CE", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_01", "hash": "E67864E86A7B7CB6", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_000", "hash": "1920553FC08D790C", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_001", "hash": "C9B096A6E5EBEAA4", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_002", "hash": "1B7851075417B2CE", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_010", "hash": "BA51AAE5A8AF3371", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_020", "hash": "CBA999BACC6BC021", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_021", "hash": "7D2B0F0494D946A4", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_022", "hash": "2D59760B5335F29D", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_030", "hash": "2BCE410BA5F5111F", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_031", "hash": "AD59E43B3776C86C", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_032", "hash": "4F1269EFE535038F", "target": "" }
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_SEQ_00", "hash": "05EDE13C9891169E", "target": "Leaning Ent żałuje, że jego przyjaciel nie biega szybciej." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_00", "hash": "1A4AF6F7904BE7CE", "target": "Uratować uwięzionego mężczyznę" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_01", "hash": "E67864E86A7B7CB6", "target": "Zdać sprawę Leaning Ent" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_000", "hash": "1920553FC08D790C", "target": "Proszę, musisz pomóc mojemu przyjacielowi!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_001", "hash": "C9B096A6E5EBEAA4", "target": "Spokojnie nieśliśmy nawóz, nikomu nie wadząc, kiedy napadła nas grupa Qiqirn. Mnie udało się uciec, ale mój przyjaciel nie miał tyle szczęścia." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_002", "hash": "1B7851075417B2CE", "target": "Te szczurze bękarty na pewno trzymają go związanego w Karmazynowej Kuchni. Błagam, uratuj go!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_010", "hash": "BA51AAE5A8AF3371", "target": "Te szczurze bękarty na pewno trzymają mojego przyjaciela związanego w Karmazynowej Kuchni. Błagam, uratuj go!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_020", "hash": "CBA999BACC6BC021", "target": "Och, ogromnie dziękuję!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_021", "hash": "7D2B0F0494D946A4", "target": "Nawet nie chcę sobie wyobrażać, co by się stało bez tej pomocy." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_022", "hash": "2D59760B5335F29D", "target": "Zresztą nie wytrzymam tu już długo. Wracam do wioski. Jeszcze raz dzięki!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_030", "hash": "2BCE410BA5F5111F", "target": "Dopiero co widziałem mojego przyjaciela. Ani draśnięcia!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_031", "hash": "AD59E43B3776C86C", "target": "Imperium nie uważa ludu Qiqirn za bandytów. Traktuje ich jak zwykłe zwierzęta. Kiedy prosimy o pomoc w usunięciu rabusiów, odpowiadają więc, że szkodnikami mamy zająć się sami." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_032", "hash": "4F1269EFE535038F", "target": "Ale dość już narzekania. Dzięki za uratowanie mojego przyjaciela przed pożarciem przez te szczury." }
   ]
 }

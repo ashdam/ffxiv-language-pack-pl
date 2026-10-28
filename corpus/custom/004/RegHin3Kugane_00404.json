@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegHin3Kugane_00404",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "" }
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "Jak rozumiem, odwiedza <if(gnum4,pani,pan)> Kugane? Czy czegoś <if(gnum4,pani,panu)> potrzeba?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "O co zapytasz?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "Nic." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "Jestem Tenzan, celnik tego portu. Pan bugyō powierzył mi zadanie pilnowania, by żadne zakazane towary nie trafiały na nasze ziemie." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "Choć jesteśmy otwartym portem, nie oznacza to, że można sprowadzać tu wszystko, czego dusza zapragnie. Jeśli chce <if(gnum4,pani,pan)> prowadzić tu interesy, należy przestrzegać naszych praw." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "Próby sprowadzania towarów uznanych za zagrożenie dla bezpieczeństwa kraju kończą się aresztem Sekiseigumi i surową karą. Jeśli chce <if(gnum4,pani,pan)> znów ujrzeć rodzinne brzegi, proszę potraktować to jako ostrzeżenie." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "Skoro <if(gnum4,pani,pan)> tu stoi, powinno to już być jasne, ale mimo wszystko zaspokoję tę ciekawość." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "Kugane to miasto portowe położone na Shishu, najdalej na zachód wysuniętej wyspie Hingashi. Mimo krajowej polityki izolacji jest jedynym portem otwartym na świat zewnętrzny." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "Ponieważ cały handel zagraniczny skupia się tutaj, my, celnicy, stale mamy pełne ręce roboty, ale nie możemy pozwolić sobie na niedbalstwo. Każdy zagraniczny statek bez wyjątku musi przejść kontrolę tutaj, przy nabrzeżu numer dwa." }
   ]
 }

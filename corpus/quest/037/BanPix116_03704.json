@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix116_03704",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "" }
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "Uin Nee chce wnieść do Lyhe Mheg odrobinę przepychu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "Zdobyć błyszczący kamyk na południowy wschód od miejsca Półki Uczonego" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "Dostarczyć błyszczący kamyk Uin Nee" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "Rubiny! Szmaragdy! Szafiry! Och, jak lśnią! Nie żeby było wiele okazji je oglądać tutaj, w Il Mheg. Podobno są bardzo cenne. Pewnie dlatego poszukiwacze skarbów tak się trudzą, by je wykopać." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "To podsuwa mi kolejny genialny pomysł! Udekorujmy Lyhe Mheg własnymi klejnotami!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "Oczywiście nie musimy mozolić się w poszukiwaniu prawdziwych kamieni szlachetnych. Wystarczy coś, co choć trochę je przypomina. Nasza magia zrobi resztę!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "Wygląda na to, że masz trochę wolnego czasu. Może zrobisz coś pożytecznego i nazbierasz dla mnie ładnych, błyszczących kamyków?" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "Powinny leżeć tam, przy jeziorze. A jeśli zobaczysz Fuath, przyłóż im ode mnie!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "No już, dawaj!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "Cóż, trochę zwyczajny, ale chyba się nada. Może nawet uda mi się zamienić takie kamyki w złote monety, żeby dzieci poczuły, jak to jest być bogatym!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "Oczywiście po przebudzeniu wszystko zniknie, ale póki sen trwa, mogą się nim cieszyć. Nawet jeśli w prawdziwym życiu nie mają grosza przy duszy, w Lyhe Mheg będą żyć po królewsku!" }
   ]
 }

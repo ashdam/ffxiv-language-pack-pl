@@ -2,13 +2,13 @@
   "conversation": "quest/021/HeaVny806_02106",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_003", "hash": "CDEF71C4FF701858", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_004", "hash": "EE88B5E6EBD65B8E", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_000_005", "hash": "47346BA5D42EC0EC", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_005", "hash": "1DF1460D6EDD637F", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_006", "hash": "8E126407EC2BC303", "target": "" }
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "Przepraszam, czy to <if(gnum4,pani,pan)> <split(<string(gstr1)>, ,2)>?" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "Świetnie, że spotykam właśnie <if(gnum4,panią,pana)>! Tak się składa, że mam pewną propozycję." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "Otóż zgodnie z rozkazem lorda dowódcy ustanowiliśmy nowy system, podobny do tego, którym zarządzają Gildie Poszukiwaczy Przygód Eorzei." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_003", "hash": "CDEF71C4FF701858", "target": "Mamy spisywać prośby mieszkańców i przekazywać je chętnym osobom, takim jak <if(gnum4,pani,pan)>." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_004", "hash": "EE88B5E6EBD65B8E", "target": "Gdyby <if(gnum4,zechciała pani,zechciał pan)> pomóc nam, wykonując te zlecenia, bylibyśmy niezmiernie wdzięczni─i odpowiednio byśmy to wynagrodzili!" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_000_005", "hash": "47346BA5D42EC0EC", "target": "Możesz teraz przyjmować zlecenia świątynne, rozmawiając z Eloinem." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_005", "hash": "1DF1460D6EDD637F", "target": "Oprócz zwykłych zleceń levequest, których przyjęcie wymaga jednego przydziału, dostępne są też <colortype(500)><edgecolortype(501)>Levequests na wielką skalę<edgecolortype(0)><colortype(0)>, wymagające dziesięciu." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_006", "hash": "8E126407EC2BC303", "target": "Te zadania wymagają więcej wysiłku, ale zapewniają bogatsze nagrody." }
   ]
 }

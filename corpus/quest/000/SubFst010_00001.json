@@ -2,16 +2,16 @@
   "conversation": "quest/000/SubFst010_00001",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "" }
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "Bernadette szuka poszukiwaczy przygód pragnących dowieść swojej wartości." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "Bernadette informuje cię, że Kołczan Bogów szuka ambitnych poszukiwaczy przygód do pomocy. Zachęca cię do zgłoszenia się do strażnika Chansteloup przed Gildią Łuczników." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "Choć sceptyczny, Chansteloup zgadza się dać ci szansę wykazania się." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "Porozmawiać ze strażnikiem Chansteloup" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "Dopiero co przybywasz do Gridanii? Może w poszukiwaniu sławy i bogactwa?" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "Jeśli wierzysz w swoje umiejętności, zachęcam cię do rozmowy ze strażnikiem Chansteloup z Kołczanu Bogów. Znajdziesz go na warcie przed Gildią Łuczników." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "Stworzenia Lasu Dwunastu zachowują się ostatnio bardzo nienaturalnie, a obowiązek ich poskromienia spadł na Kołczan Bogów. Niestety bardzo brakuje im ludzi." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "Dlatego szukają zdolnych poszukiwaczy przygód, którzy wesprą ich szeregi. Jestem pewna, że chętnie przyjmą twoją pomoc." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "Bernadette przysłała do mnie <italic(1)>ciebie<italic(0)>? Hm!" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "Cóż, bez względu na doświadczenie, jeśli chcesz dowieść swojej wartości mieszkańcom Gridanii, jesteś we właściwym miejscu." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "Przecież <italic(1)>chcesz<italic(0)> się wykazać, prawda?" }
   ]
 }

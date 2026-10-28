@@ -2,17 +2,17 @@
   "conversation": "custom/009/RegYok6HouseofWindsHigh_00907",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_000", "hash": "999AEF461461F44C", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_001", "hash": "7AE381855358DB16", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_002", "hash": "6003F5A95C66A2EA", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_Q1_000_000", "hash": "85B44A3525147F2A", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_001", "hash": "AFF1BDF592A8CEA6", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_002", "hash": "72C0CD74780C26C0", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_003", "hash": "0D8EBF97FC454823", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_010", "hash": "A272DC5393050C6B", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_011", "hash": "129619EF52EF2FCE", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_012", "hash": "1236C7EA12768201", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_020", "hash": "EF5D9FA72E214EE3", "target": "" },
-    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_021", "hash": "E2EF3A149F19FE93", "target": "" }
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_000", "hash": "999AEF461461F44C", "target": "Och, witaj. Jeśli czegoś potrzebujesz, mogę pomóc... O ile nie przeszkadza ci rozmowa z kimś, kto dopiero się uczy i ledwie potrafi unieść pojedyncze pióro." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_001", "hash": "7AE381855358DB16", "target": "Witaj w Domu Wysokich Wiatrów! Od święta Ihih'hana moje panowanie nad wiatrem rozwija się w zawrotnym tempie! Jeśli czegoś potrzebujesz, pytaj śmiało!" },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_002", "hash": "6003F5A95C66A2EA", "target": "Koronacja nowych Sług Świtu to powód do świętowania dla wszystkich! Kiedy już będę mieć pewność, że w pełni panuję nad wiatrem, mam nadzieję jakoś im służyć. Na razie mogę służyć tobie, odpowiadając na pytania!" },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_Q1_000_000", "hash": "85B44A3525147F2A", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_001", "hash": "AFF1BDF592A8CEA6", "target": "Opowiedz o sobie." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_002", "hash": "72C0CD74780C26C0", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_A1_000_003", "hash": "0D8EBF97FC454823", "target": "Nic." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_010", "hash": "A272DC5393050C6B", "target": "Należę do grona uczniów, którzy zgłębiają tu magię wiatru. Ale postępy robię powoli, a porażki towarzyszą mi każdego dnia..." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_011", "hash": "129619EF52EF2FCE", "target": "Jednak się nie poddam. Pewnego dnia wiatr będzie mi posłuszny na każde skinienie." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_012", "hash": "1236C7EA12768201", "target": "Przy okazji, te srebrnowłose bliźnięta z grona twoich towarzyszy podzieliły się ze mną energią, dzięki czemu udało mi się stanąć do zawodów o tytuł „Wybraniec Wiatru”! Jeszcze nigdy moje pióro nie poleciało tak daleko jak tamtego dnia!" },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_020", "hash": "EF5D9FA72E214EE3", "target": "Tutaj Hanuhanu uczą się panować nad wiatrem. To niełatwe i dzień i noc przechodzimy próby, ale w końcu stajemy się jednością z otaczającym nas powietrzem." },
+    { "gameKey": "custom/009/RegYok6HouseofWindsHigh_00907#TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_021", "hash": "E2EF3A149F19FE93", "target": "Polecam wejść na tamte schody, zbudowane wokół wielkiego drzewa. Widok na krainę Kozama'uka nie ma sobie równych, a bryza pomoże ci zapomnieć o troskach!" }
   ]
 }

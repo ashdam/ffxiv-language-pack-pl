@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_SEQ_00", "hash": "69620EF68707C381", "target": "Ognisko już wygasło, a Jullus jest gotów ruszyć dalej." },
     { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_00", "hash": "B5532FE0BEDCEEA5", "target": "Porozmawiać z żołnierzem Jullus" },
-    { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_01", "hash": "CC27DF9D8434B261", "target": "Użyć materiału wybuchowego Ist Legion incendiary #37 na zniszczonej zbroi magitek, aby odzyskać zbiornik ceruleum" },
+    { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_01", "hash": "CC27DF9D8434B261", "target": "Użyć substancji zapalającej I Legionu nr 37 na zniszczonej zbroi magitek, aby odzyskać zbiornik ceruleum" },
     { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_02", "hash": "28366930D390DCC6", "target": "Dostarczyć żołnierzowi Jullus zbiornik ceruleum machiny wojennej" },
     { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_03", "hash": "A1D17700A26AB58F", "target": "Zaczekać we wskazanym miejscu" },
     { "gameKey": "quest/043/AktKmb112_04391#TEXT_AKTKMB112_04391_TODO_04", "hash": "6B32BB1652B13DF2", "target": "Porozmawiać z żołnierzem Jullus" },

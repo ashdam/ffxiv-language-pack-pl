@@ -89,6 +89,6 @@
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_MARTYN_000_090", "hash": "648A00F4338E95D1", "target": "Ruszaj, <if(gnum4,Azuro II,Azurze II)>! Pomścij swojego mistrza i przywróć honor Gildii Niebieskich Magów!" },
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_000_100", "hash": "77FFBB8E16185F54", "target": "Do Masked Carnivale dodano nowe etapy. Porozmawiaj z pracownikiem Celestium, by uzyskać do nich dostęp." },
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_000_101", "hash": "178E88A19C5CBEDF", "target": "Ponadto Blue Mage Log jest teraz dostępny przez Blue Magic Spellbook." },
-    { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_100_101", "hash": "345CD461EBC9F7B1", "target": "Rozmawiając z Latool Ja, możesz wymienić Allied Seals na rozmaite przedmioty, które mogą się przydać podczas przygód." }
+    { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_100_101", "hash": "345CD461EBC9F7B1", "target": "Rozmawiając z Latool Ja, możesz wymienić pieczęcie Sojuszu na rozmaite przedmioty, które mogą się przydać podczas przygód." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "custom/009/RegYok6BreathBetween_00906",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_000", "hash": "5E725C35EDBF0256", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_001", "hash": "E542AC4D95C1C349", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_002", "hash": "46BACBA220455031", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_003", "hash": "BFA938FE1DA0D203", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_Q1_000_000", "hash": "3C789179942DA804", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_001", "hash": "151247592D6210AA", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_002", "hash": "58BE49599E765FB4", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_003", "hash": "D1CF664B5AB02166", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_010", "hash": "73105D06D3A56AA2", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_011", "hash": "97E2121E642C86B2", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_012", "hash": "E14F1C994991759C", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_013", "hash": "6F80EF06187C7D27", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_020", "hash": "3CE5680AA6E394CF", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_021", "hash": "2FDBD636F790B1C6", "target": "" }
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_000", "hash": "5E725C35EDBF0256", "target": "Witaj! Przybywasz tu połowić ryby?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_001", "hash": "E542AC4D95C1C349", "target": "Ryby wreszcie biorą! To dobry moment na wizytę─oczywiście pod warunkiem, że masz ze sobą wędkę!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_002", "hash": "46BACBA220455031", "target": "Nawet ryby świętują koronację nowych Sług Świtu. Jeśli mi nie wierzysz, zarzuć wędkę i przekonaj się na własne oczy!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_003", "hash": "BFA938FE1DA0D203", "target": "Bystrza wprawiają ryby w istny szał żerowania! Radzę zarzucić wędkę, zanim <italic(1)>ja<italic(0)> wyłowię je wszystkie!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_Q1_000_000", "hash": "3C789179942DA804", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_001", "hash": "151247592D6210AA", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_002", "hash": "58BE49599E765FB4", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_003", "hash": "D1CF664B5AB02166", "target": "Nic." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_010", "hash": "73105D06D3A56AA2", "target": "Pomagam tutejszym rybakom we wszystkim, czego potrzebują. Jeśli potrzeba wędki, kosza czy naprawy, jestem odpowiednią osobą z ludu Hanu!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_011", "hash": "97E2121E642C86B2", "target": "Przychodzą tu tylko najbardziej wytrwali. Wzburzone wody basenu kształtują temperament tutejszych ryb. Kto chce cokolwiek złowić, potrzebuje silnych ramion i mocnej wędki." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_012", "hash": "E14F1C994991759C", "target": "A przynajmniej tak było dawniej. Ostatnio zarówno rybom, jak i rybakom zdaje się brakować właściwej im werwy. Nie wiem, jak przywrócić im zapał..." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_013", "hash": "6F80EF06187C7D27", "target": "I choć nastały trudne czasy, gdy ani rybom, ani rybakom nie dopisywała energia, z radością mogę powiedzieć, że to już za nami! Sądząc po zaciekłych zmaganiach na tym pomoście, niemalże nadrabiają stracony czas!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_020", "hash": "3CE5680AA6E394CF", "target": "Chwilę Wytchnienia zbudowano nad wodami Miyakabek'zu, jednego z dopływów wielkiej rzeki. Najśmielsi rybacy przychodzą tu codziennie spróbować złowić najbardziej zawzięte ryby w tej krainie!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_021", "hash": "2FDBD636F790B1C6", "target": "Wielki basen przed nami nazywa się Ku'uxage, co oznacza „wielki język”. Nieustannie napływające wody obdarzają tutejsze życie równie niewyczerpaną energią." }
   ]
 }

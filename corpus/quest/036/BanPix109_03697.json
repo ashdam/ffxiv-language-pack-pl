@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix109_03697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "" }
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "Uin Nee nigdy nie przyszłoby do głowy narzucać się swojej ulubionej osobie wśród śmiertelników.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "Obejrzeć teren na północny zachód od miejsca Płycizna Sześcioraczków i zabić grzyba moss fungus, by zdobyć jego kapelusz" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "Dostarczyć kapelusz grzyba moss fungus Uin Nee" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "Wiesz, czasem mam wyrzuty sumienia, że ciągle wysyłam cię tu i tam po sprawunki. Ale bez obaw─dziś nie zrobię nic takiego! Dziś opowiem ci historię. Historię o grzybach moss fungus i dzieciach." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "Grzyby moss fungus często rosną na grobach, dlatego mieszkańcy Kholusii uważają je za złowieszcze, za zwiastuny śmierci, chorób i wszelkich paskudztw. Przez to wielu dzieciom śni się, że gonią je ogromne moss fungusy! Czy tak się mówi, moss fungusy?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "Tak czy owak naszła mnie myśl. Czy nie byłoby <italic(1)>przemiło<italic(0)>, gdyby <italic(1)>ktoś<italic(0)> ukoił serca tych biednych śniących, przynosząc mi kapelusz zabitego grzyba moss fungus? Wplotę go w sen, by pokazać dzieciom, że nie ma się czego bać w tych zabawnie wyglądających stworzeniach." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "Nie proszę cię o to. Wielkie nieba, skądże! Mówię jedynie, że <italic(1)>gdyby<italic(0)> ktoś miał ochotę na taki miły gest, wystarczy króciutka wycieczka do miejsca Płycizna Sześcioraczków i wyrwanie kapelusza jednemu z tych niczego niepodejrzewających moss fungusówów. Ale bez obaw─moim śniącym na pewno nie przeszkodzi dzień czy dwa dłużej w okropnym strachu." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "Hm? Masz coś dla mnie? Ale przecież o nic nie proszę!" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "Kapelusz grzyba moss fungus! Skąd wiesz, że właśnie takiego szukam? Zupełnie jakby <italic(1)>mój<italic(0)> umysł nie miał przed tobą tajemnic! Ale czym mogę wynagrodzić ten bezinteresowny gest, całkowicie z własnej inicjatywy?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "Wiem, opowiem ci kolejną historię o grzybach moss fungus! Dawno temu, w królestwie śmiertelników, które już nie istnieje, ludzie czasem płatali drobne figle tym, których nie lubili. Codziennie potajemnie dosypywali im do picia tyciusieńką dawkę trucizny z tych grzybów." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "Zgadnij, co się wtedy działo? Biedna osoba stopniowo zapadała na zdrowiu, aż w końcu umierała, a nikt niczego nie podejrzewał! Niezły figiel, prawda? Szkoda, że ten pomysł nie przyszedł mi do głowy! Przy okazji, może łyczek wody przed wyjściem? Hihihi!" }
   ]
 }

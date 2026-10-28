@@ -2,7 +2,7 @@
   "conversation": "quest/036/LucKze202_03657",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_SEQ_00", "hash": "F73ED05B8438E604", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Quinfort jest oczarowany nowym towarzyszem." },
+    { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_SEQ_00", "hash": "F73ED05B8438E604", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Quinfort jest oczarowany nowym towarzyszem." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_SEQ_01", "hash": "44D9FC5C828E541A", "target": "Valan nie wie, co sądzić o stworzeniu znalezionym przez Quinforta, ale postanawia pobłażyć przyjacielowi. Najpierw trzeba zanieść bestię do Slitherbough, z dala od niebezpieczeństw i ciekawskich oczu. Valan brzydzi się wężopodobnym stworem, a Quinfort uważa się za niegodnego jego noszenia. Pozostajesz tylko ty.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_SEQ_02", "hash": "E25004C81DE5610B", "target": "Mocno, choć nie za mocno, by nie rozgniewać Quinforta, trzymasz jutowy worek i ruszasz przez las do Slitherbough." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_SEQ_03", "hash": "DEDE68F473474C94", "target": "Po strasznej podróży na palcach obok treantów i przerośniętych chrząszczy docierasz z workiem do Slitherbough. Valan czeka w kącie jaskini, licząc na odrobinę prywatności w cieniu. Proponuje wyjąć wężopodobne stworzenie z worka i sprawdzić, czy nadal jest całe." },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_VALAN_000_006", "hash": "D5D421A313EBEF54", "target": "Wąż? Po prostu podnieś to cholerstwo i chodźmy." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_QUINFORT_000_007", "hash": "2720396DA7568C21", "target": "Na otchłań, Valan, okaż szacunek! To <italic(1)>ja<italic(0)> powinienem go nieść, ale nie jestem jeszcze godny tego brzemienia." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_QUINFORT_000_008", "hash": "07F4AE6F8E2D56F0", "target": "Ale ty możesz obronić wielkiego węża przed zagrożeniami Greatwood, bestiami i pożeraczami grzechów." },
-    { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_VALAN_000_009", "hash": "21C136E93DE0435A", "target": "Teraz wciągasz w swoje plany gościa mistrzyni Matoyi? Co inni pomyślą, kiedy <if(gnum4,ona,on)> wkroczy do Slitherbough z tym czymś?" },
+    { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_VALAN_000_009", "hash": "21C136E93DE0435A", "target": "Teraz wciągasz w swoje plany gościa mistrzyni Matoi? Co inni pomyślą, kiedy <if(gnum4,ona,on)> wkroczy do Slitherbough z tym czymś?" },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_VALAN_000_0010", "hash": "25A67A71230E83BA", "target": "Proszę, włóż go do worka." },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_QUINFORT_000_011", "hash": "013777B64611CC78", "target": "Nie zrobię tego!" },
     { "gameKey": "quest/036/LucKze202_03657#TEXT_LUCKZE202_03657_VALAN_000_012", "hash": "A5402B7FB770E9EF", "target": "Jest czysty, suchy i, co najważniejsze, pozwoli wnieść go do Slitherbough niezauważenie." },

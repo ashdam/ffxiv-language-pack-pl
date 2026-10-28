@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna304_03045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_SEQ_00", "hash": "9D9574150087FC7B", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_00", "hash": "E2FE75A830D1DAEF", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_01", "hash": "E0ACA2D375F13726", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_000", "hash": "002F6314BCD0DF8D", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_001", "hash": "C74D889585817D0A", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_002", "hash": "55ADC3C5B02832AA", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_020", "hash": "6E0467A6EAD68074", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_021", "hash": "ED55D2DE293B7A48", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_022", "hash": "AB4DB6703F817DCC", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_023", "hash": "9EDC184D7F758ED0", "target": "" }
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_SEQ_00", "hash": "9D9574150087FC7B", "target": "Eshana szuka kogoś, kto ma rękę do roślin.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_00", "hash": "E2FE75A830D1DAEF", "target": "Polać skażone korzenie Przenikliwego tonikiem ochronnym" },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_01", "hash": "E0ACA2D375F13726", "target": "Zdać raport Eshanie" },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_000", "hash": "002F6314BCD0DF8D", "target": "Aby poprawić stosunki z Gridanią, kapitan Alpa zaproponowała wspólne przedsięwzięcie mające przywrócić siły Przenikliwemu i oczyścić okoliczną ziemię." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_001", "hash": "C74D889585817D0A", "target": "Gridańczycy zaoferowali eliksiry do oczyszczenia gleby, my zaś przygotowałyśmy tonik, który ochroni korzenie przed gniciem i rozkładem." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_002", "hash": "55ADC3C5B02832AA", "target": "Proszę, zanieś te dwie fiolki toniku do Przenikliwego i polej nim jego korzenie." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_020", "hash": "6E0467A6EAD68074", "target": "Wracasz. Czy zatem zadanie wykonane?" },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_021", "hash": "ED55D2DE293B7A48", "target": "Doskonale. Od wielu księżyców nie potrzebowałyśmy takiego specyfiku. Jego ochronne właściwości pozwalają roślinom rozkwitać nawet w najtrudniejszych warunkach." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_022", "hash": "AB4DB6703F817DCC", "target": "Nigdy nie przypuszczałam, że posłuży do pielęgnacji Przenikliwego. Przywrócenie mu dawnej świetności zajmie trochę czasu i będzie wymagało kolejnych dawek toniku." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_023", "hash": "9EDC184D7F758ED0", "target": "Ufam, że znów możemy liczyć na twoją pomoc, gdy zajdzie potrzeba." }
   ]
 }

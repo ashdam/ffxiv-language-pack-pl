@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob102_01326",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_00", "hash": "42390E8E8582DCEC", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_01", "hash": "4E0327058682C7FD", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_02", "hash": "FEF13ADECC8C8EAB", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_03", "hash": "635C69DC5BCCB165", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_00", "hash": "A394786C189211D3", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_01", "hash": "C54802FFD6B60A3E", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_000", "hash": "EE32C3D83AA62E04", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_001", "hash": "3B590C8D97CC1336", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_002", "hash": "6AF91A2432791FD7", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_003", "hash": "2F6D9FEFF8F64FA2", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_004", "hash": "0E3DD1B339C47085", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_010", "hash": "76BB67DEB3642B8D", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_011", "hash": "8A7F4F661053E2F3", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_012", "hash": "D40250C6BB9AB3C1", "target": "" }
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_00", "hash": "42390E8E8582DCEC", "target": "789th Order Dustman Bo Zu chce zjeść obiad, ale za nic nie zamierza na niego pracować." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_01", "hash": "4E0327058682C7FD", "target": "Stroniący od pracy Bo Zu usłyszał, że Zo Ga rozdaje obfite posiłki pracowitym członkom plemienia Kobold, którzy zaskarbili sobie jego przychylność. Uznał, że 789. brygada równie mocno zasługuje na kulinarne rozkosze mimo zdecydowanego braku wydajności. Udaj się nad Żelazne Jezioro i przywłaszcz sobie trzy garnki z obfitym posiłkiem, żeby Bo Zu i jego przyjaciele mogli przez jeden dzień ucztować jak ich pracowici pobratymcy." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_02", "hash": "FEF13ADECC8C8EAB", "target": "Udaje ci się zdobyć trzy garnki z gorącym posiłkiem. Dostarcz ucztę do Wyrobiska 789. Oddziału w nadziei, że nasyci żołądek śliniącego się Bo Zu." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_03", "hash": "635C69DC5BCCB165", "target": "Bo Zu rozkoszuje się owocami twojego sukcesu, ale wszelkie nadzieje, że poznał wartość ciężkiej pracy, pryskają, gdy bezwstydnie wyraża chęć ponownego wykorzystania twojej pomocy w podobny sposób. Możesz tylko liczyć na to, że żołądek tego próżniaka z plemienia Kobold pozostanie na jakiś czas nasycony." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_00", "hash": "A394786C189211D3", "target": "Zdobyć garnki z obfitym posiłkiem nad Żelaznym Jeziorem" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_01", "hash": "C54802FFD6B60A3E", "target": "Dostarczyć garnki z obfitym posiłkiem do 789th Order Dustman Bo Zu" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_000", "hash": "EE32C3D83AA62E04", "target": "Cóż za niesprawiedliwość─krzywda, niegodziwość, niesprawiedliwość!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_001", "hash": "3B590C8D97CC1336", "target": "Gdy 789. brygada głoduje─przymiera, łaknie, głoduje─Zo Ga i jego kolesie ucztują! Ucztują nad garnkami wypełnionymi, tak, tak wypełnionymi smakołykami, że jeden wystarczyłby dla całego naszego wyrobiska na tydzień." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_002", "hash": "6AF91A2432791FD7", "target": "Czy Zo Ga i jego pracowici kolesie mają dostawać wszystkie nagrody? Nie, nie, po stokroć nie! Nam też burczy w brzuchach─buczy, mruczy, burczy─tak samo jak im!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_003", "hash": "2F6D9FEFF8F64FA2", "target": "Mam ochotę─chęć, zamiar, ochotę─pójść nad Żelazne Jezioro i zabrać dla siebie jeden albo trzy. Ale chodzenie to ciężka praca. Tak, tak, a twoje nogi są o wiele <if([gnum71==3],silniejsze,dłuższe)> od moich..." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_004", "hash": "0E3DD1B339C47085", "target": "Pójdziesz nad Żelazne Jezioro i przyniesiesz trzy garnki wyśmienitego jedzenia od przywódcy Zo Gi, tak? Aż się ślinię z wyczekiwania─cieknie mi ślinka, kapie ślinka, ślinię się z wyczekiwania!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_010", "hash": "76BB67DEB3642B8D", "target": "Czy czuję to, co myślę, że czuję? Tak, tak, chyba tak!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_011", "hash": "8A7F4F661053E2F3", "target": "Świeżo wyrwane udka lawowych ropuch? Dżdżownice, które jeszcze się wiją i wiercą? To więcej niż posiłek, to uczta─bankiet, biesiada, uczta dla zmysłów!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_012", "hash": "D40250C6BB9AB3C1", "target": "Czy przysmaki kolegów zachęcą Bo Zu do cięższej pracy? Nie, nie, nigdy! Dlaczego miałyby zachęcić, skoro mam takich przyjaciół jak ty, z takimi <if([gnum71==3],silnymi,długimi)> nogami?" }
   ]
 }

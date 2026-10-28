@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix112_03700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "" }
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "Uin Nee chce poznać radość pływania łodzią tam, gdzie nie ma Fuath.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "Obejrzeć wskazane miejsce na wschód od Mithai Glorianda i zdobyć błonę skrzydłową stwora deepglider" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "Dostarczyć błonę skrzydłową stwora deepglider Uin Nee" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "Znam już od Tyr Beq całą historię waszej wyprawy na Kholusię. Czy to prawda, że ocean jest jeszcze większy niż Jezioro Długiego Zwierciadła? Podobno śmiertelnicy uwielbiają tam pływać łodziami, by zapomnieć o troskach i może złowić rybę czy dwie." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "Z chęcią spróbuję tego tutaj, ale te okropne Fuath na pewno się zjawią i zepsują nam zabawę! <br>...Och, oczywiście! Możemy to zrobić w Lyhe Mheg i zabrać ze sobą dzieci!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "Jest tylko jeden problem: nie mam pojęcia, jak wygląda łódź. Może spróbujemy zrobić ją ze skrzydła stwora deepglider... które z pewnością bardzo chętnie dla mnie zdobędziesz!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "Coś mi świta, że masz mi coś przynieść... Co to było?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "Ach, tak! Już pamiętam! To powinno się świetnie nadać. Choć nadal nie mam pojęcia, co z tym zrobić..." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "A więc musi unosić się na wodzie i utrzymać ciężar kilkorga małych dzieci. Zrobienie czegoś takiego z kawałka jaszczurzej skóry nie może być aż tak trudne, prawda?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "A skoro nie będziemy pływać po prawdziwej wodzie, wystarczy wyczarować coś, co przynajmniej <italic(1)>wygląda<italic(0)> jak łódź, i będzie dobrze. Och, tak, przeżyjemy z dziećmi najwspanialsze przygody na błękitnym oceanie! ...On <italic(1)>jest<italic(0)> błękitny, prawda?" }
   ]
 }

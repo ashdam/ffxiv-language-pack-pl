@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz210_01779",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_00", "hash": "C2B9BA947FD1D6E4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_01", "hash": "A55CBD335F5659FA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_02", "hash": "2A914CD1148AC879", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_03", "hash": "0676F7C732767C48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_00", "hash": "CAA6845CF04AD12F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_01", "hash": "6C15347EAC50D5DA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_000", "hash": "7545C6EF45789035", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_001", "hash": "2B07F77B58AF2DD1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_002", "hash": "AD393A6FF12C2EA0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_010", "hash": "921875AFBDB27B9C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_020", "hash": "6F3E9072EC4A412A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_021", "hash": "228D4BFB16B67998", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_022", "hash": "2530F33966DE052F", "target": "" }
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_00", "hash": "C2B9BA947FD1D6E4", "target": "Las jest zagrożony, a Marcechamp potrzebuje twojej pomocy, by go ocalić." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_01", "hash": "A55CBD335F5659FA", "target": "Ślimaki opanowały las wokół Tailfeather, a Marcechamp prosi cię o pomoc w ich wytępieniu. Spryskaj otrzymanym od niego roztworem drzewa na południu Lasu Chocobo i zabij wszystkie ślimaki, które się pojawią." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_02", "hash": "2A914CD1148AC879", "target": "Zabijasz sporo ślimaków, chroniąc tym samym zdrowie lasu. Wróć do Marcechampa i opowiedz mu o swoim sukcesie." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_03", "hash": "0676F7C732767C48", "target": "Marcechamp dziękuje ci za pomoc. Wyjaśnia, że zdrowy las oznacza zadowolone chocobo, a zadowolone chocobo to zadowoleni łowcy─wszyscy na tym korzystają." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_00", "hash": "CAA6845CF04AD12F", "target": "Użyć roztworu na drzewach i zabić ślimaki" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_01", "hash": "6C15347EAC50D5DA", "target": "Zdać sprawę Marcechampowi" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_000", "hash": "7545C6EF45789035", "target": "Ach, <split(<string(gstr1)>, ,1)>, właśnie <if(gnum4,takiej dziewczyny,takiego chłopaka)> szukałem! Ślimaki zalęgły się w okolicznych lasach i potrzebuję twojej pomocy, żeby się ich pozbyć." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_001", "hash": "2B07F77B58AF2DD1", "target": "Kilku ludzi już się tym zajmuje, ale te oślizgłe paskudy mnożą się szybciej, niż zdołają je zabijać!" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_002", "hash": "AD393A6FF12C2EA0", "target": "W tej chwili brakuje nam rąk do pracy na południu Lasu Chocobo. Ruszaj tam czym prędzej i wywab ślimaki tym roztworem. Chyba wiesz, co potem zrobić." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_010", "hash": "921875AFBDB27B9C", "target": "Pospiesz się na południe Lasu Chocobo i spryskaj drzewa tym roztworem, żeby wywabić ślimaki. Wiesz, co potem zrobić." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_020", "hash": "6F3E9072EC4A412A", "target": "Ślimaki załatwione? Dzięki ci, <if(gnum4,przyjaciółko,przyjacielu)>. Strach pomyśleć, co by się stało, gdyby zaczęły mnożyć się bez opamiętania." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_021", "hash": "228D4BFB16B67998", "target": "Jeśli las umrze, chocobo przestaną tu przychodzić. Chyba nie muszę mówić, jak źle by to się dla nas skończyło. Chroniąc las, dbamy o ptaki, a przez to o siebie. Wszyscy na tym korzystają, prawda?" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_022", "hash": "2530F33966DE052F", "target": "Co? Pytasz, z czego jest ten roztwór? Cóż, główny składnik pochodzi od chocobo─a zresztą, nieważne. Pewnych rzeczy lepiej nie wiedzieć! Błahaha!" }
   ]
 }

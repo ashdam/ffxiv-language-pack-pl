@@ -2,18 +2,18 @@
   "conversation": "custom/009/FesHlx2025Witch_00948",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_000", "hash": "3FF440342C384039", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_Q1_000_000", "hash": "05420EA95E74A6F3", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_001", "hash": "29F1F313A1403A52", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_002", "hash": "3D773F5AED729DDE", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_003", "hash": "85AFBB440B571EBD", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_004", "hash": "24E649C81E059B45", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_010", "hash": "1B4A68164E8B5FAF", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_020", "hash": "31FB64174AB9F6F0", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_021", "hash": "646EA565B415DACD", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_030", "hash": "87FA3B03C702D80D", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_031", "hash": "073157CD9C7CF8BF", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_032", "hash": "AC223016AAAF1F3D", "target": "" },
-    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_033", "hash": "49849AEE6786E190", "target": "" }
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_000", "hash": "3FF440342C384039", "target": "Chcesz porozmawiać? ...Dobrze, czego chcesz się dowiedzieć?" },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_Q1_000_000", "hash": "05420EA95E74A6F3", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_001", "hash": "29F1F313A1403A52", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_002", "hash": "3D773F5AED729DDE", "target": "Kim jesteś?" },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_003", "hash": "85AFBB440B571EBD", "target": "Czym właściwie się zajmujesz?" },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_A1_000_004", "hash": "24E649C81E059B45", "target": "Nic." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_010", "hash": "1B4A68164E8B5FAF", "target": "Czy twoja pamięć jest równie ulotna jak twoje życie, dziecko? Jak już mówiłam, to mój dom. Możesz przychodzić i odchodzić, kiedy tylko zechcesz." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_020", "hash": "31FB64174AB9F6F0", "target": "Musisz pytać? Ta głowa nie jest jedynie ozdobą: jestem arcydemonicą, która od niepamiętnych czasów budzi strach i cześć. Wielką Dynią, która niegdyś przewodziła legionom ciemności..." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_021", "hash": "646EA565B415DACD", "target": "...A to w rzeczywistości tylko tytuł noszony przez członków mojego sabatu. W każdym pokoleniu wraz z mianem przekazywana jest wiedza o panowaniu nad mieszkańcami Otchłani." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_030", "hash": "87FA3B03C702D80D", "target": "Czuwam. Moi przodkowie niegdyś podporządkowywali sobie pomioty Otchłani, by prowadzić wojny, i wyrządzili w ten sposób światu nieodwracalne szkody." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_031", "hash": "073157CD9C7CF8BF", "target": "Dręczeni wyrzutami sumienia przysięgli, że nigdy więcej nie przyłożą ręki do takiej tragedii. Od tamtej pory czuwamy. Naszym celem nie jest krzywdzenie sług Ciemności, lecz uczenie ich. Pokazywanie im, że pokój jest możliwy." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_032", "hash": "AC223016AAAF1F3D", "target": "Ale dość już mojego gadania. Nie wiedziałam, że podejmowanie gościa może być takie ekscytujące... he he he." },
+    { "gameKey": "custom/009/FesHlx2025Witch_00948#TEXT_FESHLX2025WITCH_00948_PUMPKIN_000_033", "hash": "49849AEE6786E190", "target": "...Wyczuwam, że i ciebie łączy pakt z istotą z Otchłani. Miej się na baczności, dziecko. Wystarczy chwila nieuwagi, a sługa stanie się panem." }
   ]
 }

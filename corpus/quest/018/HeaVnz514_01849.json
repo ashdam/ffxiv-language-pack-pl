@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz514_01849",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "" }
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "Nieporadnie manewrującemu moogle'owi ptaki zawróciły w głowie." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "Nieporadnie manewrujący moogle opowiada o wędrownych ptakach gniazdujących na szczytach Zenith. Tegoroczne pisklęta niedawno opuściły gniazda. Widok młodych ptaków rozpoczynających życiową wędrówkę koi duszę. Mniej przyjemne są sterty gnijących liści i połamanych skorupek, które po sobie zostawiają. Moogle prosi cię o przeszukanie wysoko położonych części Zenith i zebranie opuszczonych gniazd." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "Usuwasz puste ptasie gniazda. Szczyty Zenith lśnią czystością i są gotowe na powrót ptaków. Zejdź z Zenith i dostarcz gniazda nieporadnie manewrującemu moogle'owi." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "Moogle dziękuje za zebranie gniazd i zdradza mały sekret─podobno można z nich ugotować pyszną zupę. Zamierza wypróbować przepis na przyniesionych przez ciebie gniazdach. Jeśli zapragniesz gorącej filiżanki patyków, piór, skorupek i wyplutych robaków, nieporadnie manewrujący moogle jest właściwym kucharzem." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "Zebrać ptasie gniazda" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "Dostarczyć ptasie gniazda nieporadnie manewrującemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "Wiele dzikich ptaków gniazduje na szczytach Zenith. Tegoroczne młode wreszcie wzbiły się w powietrze. Mam nadzieję, że kiedyś wrócą, kupo... Ale do tego czasu musimy coś zrobić ze stertą pustych gniazd." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "Te wielkie stosy patyków, piór i na wpół przeżutych robaków nie pasują do piękna tego miejsca. Pomożesz je uprzątnąć, kupo? Ptaki budują gniazda bardzo wysoko, więc uważaj, żeby nie spaść!" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "Musimy usunąć wszystkie stare gniazda, zanim ptaki wrócą. W końcu kto chce wracać do zabałaganionego domu, kupo?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "Jak idą porządki, kupo? Wszystkie gniazda już posprzątane?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "Dzięki za pomoc, kupo! Między nami mówiąc, podobno z ptasich gniazd można zrobić pyszną zupę. Gdy wrócę do Moghome, ugotuję je z paroma świeżymi orzechami kupo! ...Myślisz, że zostawić te nadgryzione robaki, czy je wyskrobać?" }
   ]
 }

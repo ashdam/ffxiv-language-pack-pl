@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq103_03808",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_00", "hash": "70A9B0994345E8F1", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_01", "hash": "0E6ADB9238A6BDA0", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_TODO_00", "hash": "D03757A505978534", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_000", "hash": "CFB7993A341575E9", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_002", "hash": "22696107D2DB40E5", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_010", "hash": "05DF43E718D4A5AC", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_020", "hash": "113769EFFF61EDD1", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_030", "hash": "16BCE26C4F02AD05", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_010", "hash": "4CE35F6CF500FCFC", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_020", "hash": "4ECE2673D42BB8D2", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_030", "hash": "C1ECBA82C17E9351", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_040", "hash": "8AF7CB5B2C58ED9A", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_050", "hash": "56264C078AD796FE", "target": "" },
-    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_051", "hash": "D0F373845B0001DC", "target": "" }
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_00", "hash": "70A9B0994345E8F1", "target": "Qhoterl Pasol chce nadać Zatyczce nieco domowego ciepła.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_01", "hash": "0E6ADB9238A6BDA0", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_TODO_00", "hash": "D03757A505978534", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć slabs of splendid slate w głębinach Jeziora Tusi Mek'ta,Dostarczyć slabs of splendid slate Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać lengths of splendid water ivy w głębinach Jeziora Tusi Mek'ta,Dostarczyć lengths of splendid water ivy Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić splendid eryops w Jeziorze Tusi Mek'ta,Dostarczyć splendid eryops Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_000", "hash": "CFB7993A341575E9", "target": "Podjęliśmy się wielkiego przedsięwzięcia i zapewne zadomowimy się tu na długo. Dlatego zamierzam nieco uprzytulnić Zatyczkę." },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_002", "hash": "22696107D2DB40E5", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>, będę wdzięczna za zdobycie kilku rzeczy, dzięki którym poczujemy się tu jak w domu." },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_010", "hash": "05DF43E718D4A5AC", "target": "Potrzebuję dokładnie trzech płyt łupku. Można je znaleźć w głębinach Jeziora Tusi Mek'ta. Serdecznie dziękuję, <if(gnum4,szanowna pani,szanowny panie)>, i życzę owocnych wykopalisk!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_020", "hash": "113769EFFF61EDD1", "target": "Potrzebuję dokładnie trzech pędów bluszczu wodnego. Można je znaleźć w głębinach Jeziora Tusi Mek'ta. Serdecznie dziękuję, <if(gnum4,szanowna pani,szanowny panie)>, i życzę owocnych zbiorów!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_030", "hash": "16BCE26C4F02AD05", "target": "Potrzebuję dokładnie jednego stworzenia eryops. Żyją w wodach Jeziora Tusi Mek'ta i przepadają za przynętą fruit worms. Serdecznie dziękuję, <if(gnum4,szanowna pani,szanowny panie)>, i życzę udanych połowów!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_010", "hash": "4CE35F6CF500FCFC", "target": "Nie da się uniknąć odrobiny zamoczenia, ale zdobycie łupku nie powinno przysporzyć większych trudności. Czekam na powrót z zapartym tchem!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_020", "hash": "4ECE2673D42BB8D2", "target": "Nie da się uniknąć odrobiny zamoczenia, ale zdobycie bluszczu wodnego nie powinno przysporzyć większych trudności. Czekam na powrót z zapartym tchem!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_100_030", "hash": "C1ECBA82C17E9351", "target": "Z przynętą fruit worms złowienie stworzenia eryops nie powinno przysporzyć większych trudności. Czekam na powrót z zapartym tchem!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_040", "hash": "8AF7CB5B2C58ED9A", "target": "Ach, witam, <if(gnum4,szanowna pani,szanowny panie)>. Czy udało się zdobyć to, o co prosiłam?" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_050", "hash": "56264C078AD796FE", "target": "Tak, to wprost wspaniałe! Serdecznie dziękuję!" },
+    { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_QHOTERLPASOL_000_051", "hash": "D0F373845B0001DC", "target": "W wygodniejszej Zatyczce nasi pracownicy lepiej wypoczną. A wypoczęty pracownik to <italic(1)>wydajny<italic(0)> pracownik! Och tak, może pomyślimy o wydłużeniu zmian..." }
   ]
 }

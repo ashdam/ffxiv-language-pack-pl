@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzd301_05114",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd301_05114#TEXT_KINGZD301_05114_SEQ_00", "hash": "B69DC809F375A83E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Oczy Shiidil Ja są pełne łez." },
+    { "gameKey": "quest/051/KinGzd301_05114#TEXT_KINGZD301_05114_SEQ_00", "hash": "B69DC809F375A83E", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Oczy Shiidil Ja są pełne łez." },
     { "gameKey": "quest/051/KinGzd301_05114#TEXT_KINGZD301_05114_SEQ_01", "hash": "692DE337E8562204", "target": "Ledwo panując nad paniką, Shiidil Ja wyjaśnia, że wraz z mężem Gotoll Ja została zaatakowana przez dzikie wivre za miastem. Mąż odwrócił ich uwagę, by mogła uciec. Obawiając się najgorszego, błaga cię o odnalezienie go przy Gaju Golmajiik.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
     { "gameKey": "quest/051/KinGzd301_05114#TEXT_KINGZD301_05114_SEQ_02", "hash": "AE8B223F55E0EF7C", "target": "Docierasz za Gajem Golmajiik i zastajesz Gotoll Ja osaczonego przez rozwścieczone wivre. Bestie nie mają jednak szans wobec twojego kunsztu bojowego. Po ich pokonaniu sprawdzasz, jak pomóc cierpiącemu mężczyźnie." },
     { "gameKey": "quest/051/KinGzd301_05114#TEXT_KINGZD301_05114_SEQ_03", "hash": "F6C6E58ED1476668", "target": "Gotoll Ja dziękuje i ponownie przygląda się twojemu wyraźnie obcemu wyglądowi. Mimo to zaprasza cię do Mamook, gdzie otrzymasz należytą zapłatę za bohaterski czyn." },

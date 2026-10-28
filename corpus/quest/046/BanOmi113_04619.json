@@ -2,17 +2,17 @@
   "conversation": "quest/046/BanOmi113_04619",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "" }
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "Stigma-4 ma pilną prośbę.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "Umieścić spragnionego Grebuloff w worku na zwłoki zatrzymującym wilgoć" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "Dostarczyć worek na zwłoki zatrzymujący wilgoć Stigma-4" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "Prośba o pomoc w pilnej sprawie. Jednostka Grebuloff wyruszyła na inną planetę w nadziei na złowienie większych ryb. Od tego czasu jej nadajnik nie odpowiada. Należy rozpocząć akcję poszukiwawczo-ratowniczą." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "Standardowe zapasy wody nie nadają się na tak długą wyprawę. Obiekt prawdopodobnie cierpi na zaawansowane wysuszenie prowadzące do zaniku funkcji organizmu." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "Proszę odnaleźć zaginioną jednostkę i umieścić ją w tym worku na zwłoki zatrzymującym wilgoć. Poziom wilgotności powinien pozostać stabilny do twojego powrotu, po którym będzie można udzielić odpowiedniej pomocy medycznej." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "Obiekt ostatnio widziano w pobliżu wioski ludu Ea. Aby zachować życie, konieczne jest szybkie odnalezienie przedstawiciela ludu Grebuloff." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "W-wody... Wody..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "Przedstawiciel ludu Grebuloff leży twarzą do ziemi, najwyraźniej umierając z pragnienia. Przygotowujesz worek na zwłoki..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "Powrót potwierdzony. Proszę przedstawić worek na zwłoki do zapobiegawczego skanu medycznego." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "...Skan zakończony. Choć poziom nawodnienia jest poważnie obniżony, funkcje życiowe pozostają stabilne." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "Aby zapobiec podobnym incydentom, wszyscy przedstawiciele ludu Grebuloff będą zobowiązani zabierać dodatkowe zapasy wody na wyprawy. Nieprzestrzegający nakazu zostaną uznani za wrogie elementy podlegające natychmiastowej likwidacji.<br>Dziękuję za współpracę. Proszę dobrze odpocząć." }
   ]
 }

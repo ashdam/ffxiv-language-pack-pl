@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst042_00198",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "" }
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "Zaklinaczka Pauline w Chacie Gabineaux szuka sprawnego poszukiwacza przygód, by zmniejszyć miejscową populację hoglets." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Pauline w Chacie Gabineaux.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "Pół tuzina hoglets zostało zarżniętych. Zdaj sprawę Pauline w Chacie Gabineaux." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "Pauline wyczuwa radość żywiołaków z twoich starań o przywrócenie naturalnej równowagi. Każde małe zwycięstwo stabilizuje leśny krąg życia." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Pauline w Chacie Gabineaux<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Pauline w Chacie Gabineaux<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "Jeśli może <if(gnum4,pani,pan)> poświęcić chwilę, <split(<string(gstr1)>, ,1)>, proszę zmniejszyć liczbę hoglets w Zielonej Łzie." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "Choć te bestie od zawsze zamieszkują Las Dwunastu, ich apetyt stał się ostatnio tak nienasycony, że obawiam się, iż pożrą wszystkie orzechy z leśnego poszycia. Krąg życia nie wytrzyma takiego obżarstwa." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "Muszę prosić o zabicie co najmniej sześciu tych stworzeń. Ich ofiara przysłuży się dobru Lasu Dwunastu, zapewniam." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "Tak... żywiołaki cieszą się z <if(gnum4,pani,pana)> czynów." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "Życie lasu opiera się na delikatnej równowadze. Niekontrolowane rozmnażanie się bestii oznaczałoby dla Lasu Dwunastu powolną, ale pewną śmierć. Naszym obowiązkiem jest szybko przywracać tę równowagę, nawet jeśli wymaga to przelania krwi..." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "Choć może się to wydawać drobnostką, dzisiejsza przysługa ma wielkie znaczenie. Niech żywiołaki błogosławią <if(gnum4,pani,pana)> przyszłym przedsięwzięciom." }
   ]
 }

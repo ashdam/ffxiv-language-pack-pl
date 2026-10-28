@@ -11,7 +11,7 @@
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_TODO_01", "hash": "73DABEDE865B8ACC", "target": "Poczekać na postacie Kyusei i Rasho" },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_TODO_02", "hash": "305DDEBAF3C74CBE", "target": "Porozmawiać z Kyusei" },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_000", "hash": "44681876FC5F5F11", "target": "Aby rozpocząć to zadanie, musisz najpierw ukończyć 50. piętro Palace of the Dead." },
-    { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_001", "hash": "F9ABE2A8D08C720F", "target": "Aby uzyskać dostęp do Palace of the Dead, musisz ukończyć zadanie „The House That Death Built”." },
+    { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_001", "hash": "F9ABE2A8D08C720F", "target": "Aby uzyskać dostęp do Palace of the Dead, musisz ukończyć zadanie „Dom zbudowany przez śmierć”." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_000", "hash": "D4E7682A12468ED7", "target": "To ty jesteś <split(<string(gstr1)>, ,1)>, tak? Jeśli się nie mylę, Rasho cię szuka." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_001", "hash": "42AAA8AA84C28B7F", "target": "Powiedział, że jeśli się pojawisz, mam cię wysłać do Kyusei w Crick." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_002", "hash": "13E5185C37EDEDAF", "target": "Dlaczego? A skąd, do diabła, mam wiedzieć! Tutaj nikt nic mi nie mówi. Lepiej zapytaj samego Kyusei." },

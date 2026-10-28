@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah204_01393",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "" }
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "Na Tarlisku Sapsa tryby wojny obracają się nieubłaganie, ale Houu liczy, że sabotaż w odpowiedniej chwili zdoła je zablokować." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "Na Tarlisku Sapsa pod strażą stoją nowe machiny oblężnicze, które mają ruszyć na front i pochłonąć mnóstwo istnień. Houu wybiera właśnie ciebie do zniszczenia za wszelką cenę co najmniej dwóch takich balist fresh whelk ballista." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "Dwie balisty zostają zniszczone, choć nie możesz oprzeć się obawie, że wkrótce zastąpią je następne. Natychmiast wróć do Houu, by poznać jego zdanie." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "Choć Houu bardzo cieszy się z powodzenia misji, jego zapał słabnie na wieść, że Trójzęby zgromadziły w okolicy większe siły, niż sądzono. Liczy na to, że twoje czyny dadzą im do myślenia, lecz wyraźnie czujesz, że utrzymanie pokoju będzie wymagać jeszcze wielu wysiłków..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "Zniszczyć balisty fresh whelk ballista" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "Złożyć raport Houu" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "Psssz... Psssz... Koralowe Trójzęby zbudowały nowe machiny oblężnicze. Morski ślimak na podstawie z kołami, wykonanej przez Wężowych Łupieżców. Już jeden zniszczy umocnienia brzegołazów, a jest ich kilka..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "Słyszałem o tych mięczakach. Ponoć to niesamowity widok: miotane przez nie pociski energii rozświetlają ocean Indigo Deep oślepiającym błyskiem." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "Balisty dopiero wyładowano, ale ruszą na front, i to wkrótce. Trzeba je zniszczyć teraz, zanim zostaną użyte. Wzdrygam się na myśl o spustoszeniu, jakie mogą zasiać. Psssz..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "Tobie przypadnie rozbicie balist. Będą strzeżone i obawiam się, że nie unikniemy rozlewu krwi. Psssz..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "Psssz... Zniszcz co najmniej dwie balisty fresh whelk ballista na Tarlisku Sapsa. Będą tam strażnicy, ale... zrób, co trzeba." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "Psssz! Twój powrót może oznaczać tylko, że balisty zostały─<br>...Co mówisz? Było ich więcej, niż nawet ja przypuszczałem? To złe wieści." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "Chcę wierzyć, że twoje działania zasiały trochę strachu w Koralowych Trójzębach, bo tego nam trzeba. Skoro nawet pilnie strzeżona broń nie jest bezpieczna, jak bezpieczni mogą być ich wojownicy? A jednak wygląda na to, że przed nami jeszcze długa droga..." }
   ]
 }

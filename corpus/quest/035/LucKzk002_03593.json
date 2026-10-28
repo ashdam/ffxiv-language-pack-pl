@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzk002_03593",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_SEQ_00", "hash": "DD8DB4C12B5C65F6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Rozmowny mieszkaniec Amaurot chce zmierzyć się z tobą na rozum." },
+    { "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_SEQ_00", "hash": "DD8DB4C12B5C65F6", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Rozmowny mieszkaniec Amaurot chce zmierzyć się z tobą na rozum." },
     { "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_SEQ_01", "hash": "EEB41D3E57358FA0", "target": "Sala Retoryki przyciąga mieszkańców Amaurot pragnących dyskutować. Ten, który cię zagaduje, nie jest wyjątkiem. Bierze cię za dziecko nieznające tradycji retorycznych i prosi o przywołanie znajomego sprzed sali. Zamierza dać ci pokaz na żywo, może nawet z twoim udziałem.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },
     { "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_SEQ_02", "hash": "D8CF197DA19EF98B", "target": "Łatwo znajdujesz zapalczywego mówcę, ale nie chce przerwać obecnej debaty. Jeśli pierwsza próba się nie powiedzie..." },
     { "gameKey": "quest/035/LucKzk002_03593#TEXT_LUCKZK002_03593_SEQ_03", "hash": "078539619F0A3C84", "target": "Kolejna pobieżna próba zwrócenia uwagi mówcy zawodzi. Zastanawiasz się, ile jeszcze masz się trudzić." },

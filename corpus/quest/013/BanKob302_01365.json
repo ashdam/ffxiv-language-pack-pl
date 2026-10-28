@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob302_01365",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "" }
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "W tunelach roi się od zwolenników i sługusów Zo Gi. Dla 789th Order Dustman Bo Bu jest ich stanowczo za wielu." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "Zdaniem Bo Bu buńczuczny Zo Ga zawdzięcza wysoką pozycję nie własnym zasługom, lecz niemal fanatycznemu poparciu licznych, groźnych popleczników. Udaj się do U'Ghamaro i zabij przynajmniej pięciu członków jego elity─elite roundsman, elite quarryman, elite priest lub elite bedesman─by osłabić żelazny uścisk przywódcy na tunelach." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "Pięciu sługusów Zo Gi padło z twojej ręki, zbyt późno pojmując los tych, którzy wiążą się z niedoszłymi tyranami. Wróć na Wyrobisko 789. Oddziału i przekaż Bo Bu wieści o zwycięstwie." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "Bo Bu cieszy się, że popleczników Zo Gi dosięgła zasłużona kara za występki. Twoje wysiłki dodały mu nieco odwagi. Może dzień, w którym 789. brygada powstanie przeciw ciemięzcom, nie jest aż tak odległy..." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "Zabić sługusów Zo Gi w U'Ghamaro Mines" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "Zdać raport 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "Zo Ga wcale nie jest taki wielki─taki wysoki, taki potężny, taki wielki. Nie, nie, sam Zo Ga nie jest silniejszy ode mnie czy ciebie─ciebie czy mnie." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "Więc dlaczego Zo Ga stawia na swoim, pytasz? Przenikliwe pytanie─bystre, trafne, przenikliwe." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "Zo Ga ma wielu przyjaciół w U'Ghamaro─pachołków, sługusów, przyjaciół. Tak, tak, potężnych przyjaciół." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "Kiedy Zo Ga mówi: „Kopać!”, oni pytają: „Jak głęboko?”.<br>Kiedy Zo Ga mówi: „Zabić Bo Bu!”, oni pytają: „Jak bardzo na śmierć?”." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "Bez przyjaciół Zo Ga będzie cieniem siebie─łupiną, skorupą, cieniem. Nasza 789. będzie miała szansę. Tak, tak, będziemy ją mieć!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "Bez przyjaciół Zo Ga będzie cieniem siebie─łupiną, skorupą, cieniem. Nasza 789. będzie miała strzęp nadziei. Tak, tak, szansę na zwycięstwo!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "Gdzieś tam Zo Ga zaciska pięści we wściekłości─gniewie, furii, wściekłości. Tak, tak, dobra robota. Dobra jest ta robota." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "Rewolucja się zaczyna, zaczyna powoli, lecz nieuchronnie. Wkrótce Zo Ga zostanie sam─opuszczony, zagubiony, sam─a my się zemścimy. Tak, tak, zemsta będzie nasza!" }
   ]
 }

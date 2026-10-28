@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz804_02832",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_002", "hash": "2E1D54518A9A12C6", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_003", "hash": "E24B3A2BD2EC2017", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_004", "hash": "15EED463C60D60C1", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_010", "hash": "C45538CB537C15FB", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_011", "hash": "4A5D902049BC0280", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_012", "hash": "D58C44C76C678FDD", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_013", "hash": "E2009B1213EC4796", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_014", "hash": "D7FA6683EC803E4C", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_015", "hash": "6B3B6B31AA27F6C4", "target": "" }
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "Ta samotna dziewczyna potrzebuje odważnej osoby do pomocy." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Rozejrzeć się we wskazanym miejscu i zabić stray gazelle, by zdobyć jej róg" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "Dostarczyć róg gazeli samotnej dziewczynie" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "Po tym dziwnym stroju zgaduję, że zajmuje się <if(gnum4,pani,pan)> poszukiwaniem przygód? Jeśli znajdzie się trochę czasu, bardzo przydałaby mi się pomoc." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "Chcę zrobić talizman dla przyjaciółki i pilnie potrzebuję rogu gazeli. Trudno go tu dostać, w Ala Ghiri, a sama nigdy nie upoluję gazeli. Dla kogoś takiego jak <if(gnum4,pani,pan)> to pewnie jak kopnięcie kamyka." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_002", "hash": "2E1D54518A9A12C6", "target": "Zwykle trzeba daleko podróżować, by w ogóle zobaczyć gazelę. Ale podobno jedną zabłąkaną widziano koło Szczęścia Miriam." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_003", "hash": "E24B3A2BD2EC2017", "target": "Niewiele mam, ale chętnie zapłacę za jej rogi, jeśli uda się ją znaleźć." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_004", "hash": "15EED463C60D60C1", "target": "Oficerowie mówili, że widzieli gazelę koło Szczęścia Miriam. Oby nadal tam była." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_010", "hash": "C45538CB537C15FB", "target": "To prawda? Naprawdę była tam gazela?" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_011", "hash": "4A5D902049BC0280", "target": "Och, wspaniale. Dziękuję! Talizman z tego rogu na pewno ją zachwyci." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_012", "hash": "D58C44C76C678FDD", "target": "Podobno rogi gazeli to symbol siły. Przyda jej się tam, dokąd zmierza." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_013", "hash": "E2009B1213EC4796", "target": "Skoro Ala Ghiri wreszcie uwolniło się od Garleańczyków, zamierza przenieść się do Ul'dah i otworzyć interes." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_014", "hash": "D7FA6683EC803E4C", "target": "Nigdy nie zdobyłabym się na taką śmiałość. Po wszystkim, co przeszłyśmy, świat wydaje się taki straszny. Gdyby los znów oddał mnie Garleańczykom, ja... ja..." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_015", "hash": "6B3B6B31AA27F6C4", "target": "Mniejsza o mnie. To ona zawsze była odważna. Wiem, że sobie poradzi. Mimo wszystko poczuję się lepiej, wiedząc, że ma przy sobie mój talizman." }
   ]
 }

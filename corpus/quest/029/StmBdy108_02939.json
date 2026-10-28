@@ -16,7 +16,7 @@
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_012", "hash": "B1DF94D2FB0B73F3", "target": "Witamy wśród naszych najwyższych rangą łowców, <if(gnum4,siostro,bracie)>. Życzymy ci powodzenia w przyszłych polowaniach. Przyda ci się, bo teraz będziesz polować na najgroźniejszą zwierzynę Dalekiego Wschodu." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_013", "hash": "92B762FAAD38FDFD", "target": "Na tych polowaniach przyznajemy celom rangi stosownie do ich siły. Im wyższa ranga, tym większa nagroda. Ale oczywiście tym większe także niebezpieczeństwo." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_014", "hash": "8A2C464A245F5D3A", "target": "Estrild jeszcze nigdy nie ceniła tak wysoko żadnego ze swoich rekrutów. Daleko <if(gnum4,zaszłaś,zaszedłeś)>. Tak daleko, że dalsze ostrzeżenia mogą być bezcelowe. Mimo to ich udzielę. Teraz bardziej niż kiedykolwiek uważaj, by nie przeceniać swoich możliwości. " },
-    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SYSTEM_000_015", "hash": "5E2CE568582641AE", "target": "Możesz teraz podejmować elitarne zlecenia Veteran Clan mark bills z tablic Clan Hunt board w Kugane i Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SYSTEM_000_015", "hash": "5E2CE568582641AE", "target": "Możesz teraz podejmować elitarne listy gończe weteranów Klanu z tablic polowań klanu w Kugane i Rhalgr's Reach." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_020", "hash": "830FF7E08495315E", "target": "Klan nas łączy, <if(gnum4,moja siostro,mój bracie)> w łowach. Nie pozwolę ci teraz tak łatwo umrzeć. Idź porozmawiać z Wlvevą. Hunt wzywa!" }
   ]
 }

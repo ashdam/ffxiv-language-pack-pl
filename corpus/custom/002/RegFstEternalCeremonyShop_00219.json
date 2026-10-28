@@ -2,9 +2,9 @@
   "conversation": "custom/002/RegFstEternalCeremonyShop_00219",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000", "hash": "598E548F4D2E7A54", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001", "hash": "1F4A4D4007A096C7", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020", "hash": "13355C723BDD37CC", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021", "hash": "2B83B3DC8806DE55", "target": "" }
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000", "hash": "598E548F4D2E7A54", "target": "Jeśli planuje <if(gnum4,pani,pan)> Ceremonię Wiecznej Więzi tutaj, w Sanctum, mogę zaoferować rozmaite przedmioty, dzięki którym ten wyjątkowy dzień będzie naprawdę niezwykły!" },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001", "hash": "1F4A4D4007A096C7", "target": "Oferowane towary są dostępne wyłącznie dla osób wykonujących obecnie zadanie „Więzy, które łączą”, których ceremonia jeszcze się nie odbyła. Aby przyjąć to zadanie, trzeba posiadać przedmiot promise wristlet, który można zdobyć w sklepie internetowym." },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020", "hash": "13355C723BDD37CC", "target": "To tutaj, w Sanctum, <if(gnum4,zawarła pani,zawarł pan)> związek z ukochaną osobą, prawda? Życzę wam wszystkiego najlepszego na wspólną przyszłość!" },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021", "hash": "2B83B3DC8806DE55", "target": "Oferowane towary są dostępne wyłącznie dla osób wykonujących obecnie zadanie „Więzy, które łączą”, których ceremonia jeszcze się nie odbyła. Aby przyjąć to zadanie, trzeba posiadać przedmiot promise wristlet, który można zdobyć w sklepie internetowym." }
   ]
 }

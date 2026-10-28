@@ -44,7 +44,7 @@
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_45", "hash": "260FDCA3A0C78C77", "target": "Komandor Reyner przysłał wieść, że dostaniemy posiłki, ale nie spodziewałem się, że przyśle akurat ciebie! Widać po tobie, że <if(gnum4,niejedno widziałaś,niejedno widziałeś)>─niewiele w tobie z tego gapiowatego szczeniaka, którego poznałem prosto z promu." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_46", "hash": "AA6C55B3BB297F20", "target": "W każdym razie wiesz, o co tu walczysz? To miejsce─Swiftperch─odbudowali ludzie, którzy nie ugięli się pod żadnym ciosem Katastrofy." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_47", "hash": "9A73A6354A6E3D10", "target": "I nie damy jakiejś rybiej hołocie zaszczytu złamania ich ducha. Nie oddawaj tym pirackim draniom ani jednego cholernego ilma, słyszysz?" },
-    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_Q1_000_1", "hash": "AF86C11A4A47B2D8", "target": "Obowiązek wzywa. Czy chcesz przystąpić do<br>„Feint and Strike”?" },
+    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_Q1_000_1", "hash": "AF86C11A4A47B2D8", "target": "Obowiązek wzywa. Czy chcesz przystąpić do<br>„Zwód i cios”?" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_1", "hash": "81D115B820DC67AB", "target": "Tak" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_2", "hash": "D596AD2A3B9203C7", "target": "Nie" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_GLAZRAEL_000_50", "hash": "20E4EDBE5C826254", "target": "Nadchodzą!" },

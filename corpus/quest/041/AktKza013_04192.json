@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza013_04192",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "" }
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Jonquinet potrzebuje pomocy kogoś o mocnych plecach." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Zasiać eksperymentalne nasiona we wskazanych miejscach" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Zdać relację badaczowi Jonquinet" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "Czy znajdzie się chwila dla starego badacza, <if(gnum4,młoda damo,młody człowieku)>? Praca fizyczna nie przychodzi mi już tak łatwo jak dawniej, więc szukam kogoś żwawszego do pomocy." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "Proszę się nie obawiać, to proste zadanie. Wystarczy zasiać te eksperymentalne nasiona na pobliskich polach. Oczywiście zapłacę za trud." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "Nie potrzeba żadnych szczególnych umiejętności. Kto umie zasiać jedno nasiono, z większością pozostałych też sobie poradzi. Cóż, z niecierpliwością czekam na wyniki." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "Nasiona są, prawda? Zakładam, że wie <if(gnum4,pani,pan)>, co z nimi zrobić. Jeśli nie, cóż... obawiam się, że mamy większe powody do niepokoju." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "Widzę lekkie rumieńce? Dobrze. Rozumiem, że nasiona już są posadzone. Dziękuję, a jeśli wszystko pójdzie zgodnie z planem, podziękuje też cały świat." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "Moje badania dotyczą produkcji roślin bogatych w składniki odżywcze, z których można uzyskać większe plony niż z jakichkolwiek dotychczasowych upraw." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "Nawet najwspanialsze rośliny są jednak bezużyteczne, jeśli zwykli ludzie nie potrafią ich sadzić i uprawiać." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "Od dawna przy tworzeniu nowych nasion dbam przede wszystkim o łatwość uprawy. Proszę różnych ludzi, od doświadczonych badaczy po ochocze dzieci, by je zasiali, a potem porównuję wyniki." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "Ale oczywiście długich wyjaśnień po tych wszystkich podróżach ma <if(gnum4,pani,pan)> pewnie dość na całe życie. Proszę przyjąć nagrodę za pomoc i cieszyć się dobrze wykonaną pracą." }
   ]
 }

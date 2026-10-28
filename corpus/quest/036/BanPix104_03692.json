@@ -2,18 +2,18 @@
   "conversation": "quest/036/BanPix104_03692",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "" }
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "Ulubieni liściarze Uin Nee potrzebują porządnego przycięcia.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "Zbadać overgrown leafmen i zdobyć liście" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "Dostarczyć liście liściarzy Uin Nee" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "Och, ale który był moim ulubieńcem? Ten, który próbował się do mnie zakraść i wyrwać mi skrzydła? Czy ten, który przy wyznaniu miłości był <italic(1)>tak<italic(0)> uroczy, że po prostu <italic(1)>nie było innej rady<italic(0)>, jak zatrzymać go przy sobie na wieki?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "Widzujesz przecież moją kolekcję uroczych liściarzy? Zawsze beztrosko wygrzewają się w słońcu, wypuszczając nowe listki tu, tam i wszędzie!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "Chodzi mi po głowie, by od czasu do czasu je przystrzyc, ale ostre przedmioty za bardzo kłują i są zbyt niebezpieczne jak na mój gust. Za to <italic(1)>tobie<italic(0)>, mojej ulubionej osobie wśród śmiertelników─chyba niestraszne noże i nożyce, prawda?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "Może więc pójdziesz trochę przystrzyc moich ulistnionych przyjaciół? I nie zapomnij przynieść trochę ich ślicznych liści! Dzieci w Ogrodzie Snów uwielbiają usypywać z nich sterty i wskakiwać do środka!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "Z każdego zakamarka ciała liściarza wyrasta obfite zielone listowie. Wiele liści i gałęzi zbiło się w splątane kołtuny." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "Kilka cięć usuwa nadmiar zieleni z ciała liściarza, który wygląda teraz równie schludnie jak w dniu narodzin!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "Potrzebujesz czegoś? Ach, oczywiście! To przecież tobie przypada przystrzyżenie moich kochanych liściarzy. I jak, gotowe?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "Ogromnie dziękuję! Nie bez powodu mam cię za moją ulubioną osobę wśród śmiertelników. Ooo, spójrz tylko na te śliczne listki, które mi przynosisz! Może utkamy z nich małego liściarza dla dzieci!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "Niektóre mają niewielu przyjaciół, wiesz? Serce mi pęka na ten widok. Stworzę im więc całą hordę liściarzy do zabawy! Powinni się świetnie dogadać─w końcu liściarze też kiedyś byli śmiertelnikami!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "Czasem zastanawiam się, jak to jest być liściarzem. Tobie też przychodziło to do głowy? Jeśli tak, da się to przecież załatwić! Wystarczy tylko słowo─zaraz, dlaczego tak się ode mnie odsuwasz?" }
   ]
 }

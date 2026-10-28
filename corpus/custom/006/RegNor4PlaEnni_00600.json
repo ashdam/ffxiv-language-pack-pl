@@ -2,16 +2,16 @@
   "conversation": "custom/006/RegNor4PlaEnni_00600",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_000", "hash": "F5A1B210A5EDD8C1", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_Q1_000_000", "hash": "F515E6A9D3B31D2B", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_001", "hash": "349824D469B874D7", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_002", "hash": "1541F072299B269C", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_003", "hash": "939E6F17A9229D9F", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_100", "hash": "930177E471AE3D40", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_101", "hash": "AC30D30B093EF17F", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_102", "hash": "E05689D7E3B5EE4C", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_200", "hash": "4333D0201B33E34E", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_201", "hash": "DB50FFA726CFD91D", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_202", "hash": "9E5A2FB7E090DECC", "target": "" }
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_000", "hash": "F5A1B210A5EDD8C1", "target": "C-Chcesz mnie o coś zapytać? Chętnie powiem ci wszystko, co wiem! A co do odpowiedniej zapłaty... Ach, tak─proszę tylko, żebyś mnie <if(gnum4,wysłuchała,wysłuchał)>!" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_Q1_000_000", "hash": "F515E6A9D3B31D2B", "target": "O co zapytasz?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_001", "hash": "349824D469B874D7", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_002", "hash": "1541F072299B269C", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_003", "hash": "939E6F17A9229D9F", "target": "Nic." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_100", "hash": "930177E471AE3D40", "target": "Nic mnie nie wyróżnia spośród innych Nu Mou. Oferuję usługi potrzebującym w zamian za odpowiednią zapłatę." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_101", "hash": "AC30D30B093EF17F", "target": "Choć jeśli zapytasz pozostałych, powiedzą, że zupełnie nie umiem ustalać cen. Twierdzą, że żądam zbyt mało w zamian." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_102", "hash": "E05689D7E3B5EE4C", "target": "Odpowiadam na to: każdemu wedle upodobań. Jeśli tylko jest się zadowolonym, to zapłata była odpowiednia, nie zgodzisz się?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_200", "hash": "4333D0201B33E34E", "target": "Ta jaskinia nazywa się Pla Enni, a nasz lud mieszka tu od pokoleń. Dla pixie to miejsce wilgotne, ciemne i ponure, ale my, Nu Mou, właśnie takie lubimy." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_201", "hash": "DB50FFA726CFD91D", "target": "Gdyby cię to ciekawiło, Pla Enni to nazwa odmiany grzybów, które odgrywają kluczową rolę w naszym życiu. Budujemy z nich domy, a ich zarodników używamy do przyrządzania magicznych mikstur." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_202", "hash": "9E5A2FB7E090DECC", "target": "Niestety, odkąd ludzie z Voeburtu dawno odeszli, niewielu przychodzi po nasze mikstury. Brakuje nam tak upragnionych klientów. \\<wzdycha> Ciężkie nastały czasy..." }
   ]
 }

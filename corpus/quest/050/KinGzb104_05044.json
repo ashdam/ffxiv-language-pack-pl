@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzb104_05044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_001", "hash": "3F0339A8DFC207C6", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_002", "hash": "5F6DD1FAC271D19C", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_003", "hash": "1E4478B05A54A4C1", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_005", "hash": "942DECCD23E295A5", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_010", "hash": "4F7D4DAC2078D964", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_011", "hash": "200028264F5A0D39", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_012", "hash": "BD27027BD16293C1", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_013", "hash": "81548EBA65488D35", "target": "" }
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Ranny Yok Huy najwyraźniej cierpi z bólu." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "Poszukać dzbana pigmentu" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "Dostarczyć dzban pigmentu rannemu Yok Huy" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "Urrrgh... Chwileczkę, proszę. Szedłem właśnie z pigmentem z Worlar's Echo do pobliskiej Strażnicy." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_001", "hash": "3F0339A8DFC207C6", "target": "Ale głupio straciłem czujność i ─ <italic(1)>uuuch<italic(0)> ─ gdy zaatakowały potwory, musiałem ratować życie ucieczką. Porzuciłem racje żywnościowe, a nawet cenny ładunek." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_002", "hash": "5F6DD1FAC271D19C", "target": "Bestie mogą sobie zjeść prowiant, ale pigment jest niezbędny do naprawy naszych malowideł jaskiniowych." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_003", "hash": "1E4478B05A54A4C1", "target": "Dlatego proszę ─ aaach! ─ nie, <italic(1)>błagam<italic(0)>: proszę odzyskać dzban pigmentu, który zostawiłem koło Zatopionych Gwiazd!" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_005", "hash": "942DECCD23E295A5", "target": "Pigment leży gdzieś w pobliżu Zatopionych Gwiazd. Nnngh, nieźle mnie urządzili..." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_010", "hash": "4F7D4DAC2078D964", "target": "Podczas tej nieobecności ból trochę ustąpił. Udało się znaleźć pigment?" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_011", "hash": "200028264F5A0D39", "target": "Tak, to on! Rad jestem znów go widzieć, i to bez choćby pęknięcia na dzbanie. Bardzo przyda się przy naprawach." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_012", "hash": "BD27027BD16293C1", "target": "Choć te malowidła są osłonięte przed słońcem i pogodą, z czasem i tak blakną. Wymagają więc regularnej opieki." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_013", "hash": "81548EBA65488D35", "target": "Zamierzałem sam wziąć udział w naprawach, ale... aaaj! Obawiam się, że najpierw muszę opatrzyć rany w Strażnicy." }
   ]
 }

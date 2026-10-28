@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa808_00792",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "" }
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "Aeluuin z Bobbing Cork prosi o pomoc w porządkach." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "Pracownicy Aeluuina ostatnio zaniedbują obowiązki, a zdobiące gospodę obrazy zbierają kurz. Pożycz od gospodarza miotełkę z piór chocobo i przywróć arcydziełom nieskazitelny wygląd." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "Jeszcze przed chwilą obrazy tonęły w kurzu, a teraz znów lśnią żywymi barwami. Powiedz Aeluuinowi, że praca została wykonana." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "Aeluuin cieszy się, że jego obrazy znów są czyściutkie. Choć jeden z nich szczególnie przypadł mu do gustu, dotąd nie zdołał ustalić tożsamości artysty." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "Odkurzyć obrazy miotełką z piór chocobo" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "Zdać relację Aeluuinowi" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "Widać tamten obraz? Oczywiście, że nie─przez moich nierobów pokrywa go kurz z dwóch tygodni!" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "Sam bym je odkurzył, ale ci lenie chyba lepiej zapamiętają lekcję, gdy zobaczą, jak robi to gość taki jak <if(gnum4,pani,pan)>. Co <if(gnum4,pani,pan)> na to? Kilka machnięć tą miotełką z piór chocobo powinno wystarczyć. Odpłacę się za trud." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "Dziękuję. \\<wzdycha> Gdyby tylko moi pracownicy podzielali naszą miłość do sztuki, prawda?" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "Zwłaszcza ten obraz na piętrze─nie wiem dlaczego, ale ta samotna postać, stojąca i patrząca w dal... Zwykle nie jestem sentymentalny, a jednak coś we mnie porusza." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "Czy z tęsknotą wspomina dawne przygody? A może zbiera siły przed nadchodzącą bitwą? Niestety, skoro tożsamość artysty pozostaje zagadką, być może nigdy się nie dowiemy." }
   ]
 }

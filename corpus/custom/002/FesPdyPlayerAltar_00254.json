@@ -2,13 +2,13 @@
   "conversation": "custom/002/FesPdyPlayerAltar_00254",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "" }
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "Podest obok mnie to jeden z elementów wykonanych pierwotnie do niezwykle wyszukanej wystawy lalek pana Nanapasi z okazji Dnia Małych Dam." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "Ostatecznie wybrano inny projekt, ale mój pan nie chciał, żeby ten się zmarnował. Zaproponował więc ustawienie go tutaj, by każdy mógł swobodnie z niego korzystać." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "Ten podest jest udostępniany bezpłatnie wszystkim poszukiwaczom przygód. Możesz wykorzystać go do pamiątkowych zdjęć albo wedle własnego uznania!" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "Korzystaj z podestu tak często, jak chcesz, ale miej wzgląd na innych poszukiwaczy przygód, którzy mogą czekać na swoją kolej." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "Na podeście stoi lalka tak duża i tak misternie wykonana, że łatwo pomylić ją z żywą istotą." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "Witam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Jak zapewne widać, mój pan ma wielkie plany na tegoroczny Dzień Małych Dam─plany, które niestety napotkały pewną przeszkodę. Jeśli zechce <if(gnum4,pani,pan)> pomóc, z radością skorzystamy z tych usług." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "<if(gnum4,Pani,Pana)> starania bez wątpienia sprawią, że ten Dzień Małych Dam na długo zapadnie w pamięć. W imieniu pana Nanapasi składam najszczersze podziękowania." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "Przez wszystkie lata służby tej rodzinie nigdy dotąd nie widziałam pana Nanapasi i panny Ninimo tak szczęśliwych. Bez <if(gnum4,pani,pana)> nie byłoby to możliwe. Z całego serca dziękuję." }
   ]
 }

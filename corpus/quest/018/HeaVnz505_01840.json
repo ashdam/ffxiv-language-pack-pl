@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz505_01840",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_00", "hash": "6B8A1B4269FCE7C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_01", "hash": "1A925C1BBF09906D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_02", "hash": "DEB51DF23B7C095D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_03", "hash": "79B36721E0BC64CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_00", "hash": "42A056EBFE56EA15", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_01", "hash": "22F5D2A7216E27FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_000", "hash": "38FE94494D715D96", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_001", "hash": "1B9F6B88BF966BBA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_010", "hash": "CD6CA8A2ABC097AE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_020", "hash": "F2AF507624CB5708", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_021", "hash": "07A3233C19CB60D3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_00", "hash": "6B8A1B4269FCE7C3", "target": "Mogmill wygląda, jakby bujał w obłokach─choć trudno powiedzieć." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_01", "hash": "1A925C1BBF09906D", "target": "Mogmill ciągle myśli, skąd wziąć kolejny ludzki skarb. Wysyła cię do Domu Liter na poszukiwanie błyskotek. Zapewnia, że wszystkie inne moogle'e latają do Tharl Oom Khash, więc w Domu Liter powinno być błyskotek pod dostatkiem. Udaj się do Domu Liter i zbierz pięć błyszczących przedmiotów o wątpliwej wartości." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_02", "hash": "DEB51DF23B7C095D", "target": "Zdobywasz pięć błyszczących drobiazgów. Poza połyskiem nie dostrzegasz w nich żadnej praktycznej wartości. Wróć do Moghome i zanieś je Mogmillowi─może on zrobi z nich lepszy użytek." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_03", "hash": "79B36721E0BC64CD", "target": "Mogmill jest zachwycony przyniesionymi przedmiotami. Jest o krok bliżej do posiadania największej kolekcji błyszczących, bezużytecznych drobiazgów w całym Moghome." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_00", "hash": "42A056EBFE56EA15", "target": "Zdobyć błyszczące drobiazgi" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_01", "hash": "22F5D2A7216E27FB", "target": "Dostarczyć błyszczące drobiazgi Mogmillowi" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_000", "hash": "38FE94494D715D96", "target": "Błyszczące drobiazgi wykonane przez ludzi są modne w całym Moghome, kupo! Ale moogle'e same nie potrafią obrabiać metalu, więc wszyscy szukają błyskotek w Tharl Oom Khash." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_001", "hash": "1B9F6B88BF966BBA", "target": "Za to <italic(1)>ja<italic(0)> znam tajemne miejsce─Dom Liter, kupo! Tyle błyskotek czeka tam, aż ktoś żądny przygód je zbierze. A ty <italic(1)>podobno<italic(0)> lubisz przygody, więc... Co ty na to? Pięć błyszczących przedmiotów wystarczy, żeby inne moogle'e zzieleniały z zazdrości!" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_010", "hash": "CD6CA8A2ABC097AE", "target": "Nie mów nikomu, ale skarby zaścielają Dom Liter. Przynieś mi tylko pięć, a wszystkie inne moogle'e będą mi zazdrościć!" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_020", "hash": "F2AF507624CB5708", "target": "Nie mogę uwierzyć, że nikt jeszcze nie wpadł na to, żeby tam zajrzeć... Ach, udało ci się znaleźć dość ludzkich błyskotek?" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_021", "hash": "07A3233C19CB60D3", "target": "Cudowne! Wspaniałe! Niesamowite, kupopo! Nigdy nie widziałem tak lśniących przedmiotów! Wkrótce całe Moghome będzie o mnie mówić. Pamiętaj, Dom Liter to nasza mała tajemnica!" }
   ]
 }

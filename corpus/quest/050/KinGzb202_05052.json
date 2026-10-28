@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb202_05052",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_00", "hash": "07D05BD7363E55EF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nopli chce położyć kres niecnym planom niegodziwego handlarza." },
+    { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_00", "hash": "07D05BD7363E55EF", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Nopli chce położyć kres niecnym planom niegodziwego handlarza." },
     { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_01", "hash": "DD4C2857E787CD4A", "target": "Aby nikt więcej nie padł ofiarą oszustwa, Nopli prosi cię o odnalezienie handlarza w Gospodzie Icuvlo. To Lalafell o imieniu Gigimolu.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
     { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_02", "hash": "D8420D25ADF3519E", "target": "Odnajdujesz Gigimolu, lecz z niepokojem odkrywasz, że to ten sam kupiec z Ludu Wydm, znany ci z wcześniejszego rejsu do Turalu. Ledwie zamieniacie kilka słów, a on już spieszy do Zacisza Panaqpelu. Pamiętając o swoim zadaniu, ruszasz za nim." },
     { "gameKey": "quest/050/KinGzb202_05052#TEXT_KINGZB202_05052_SEQ_03", "hash": "B107AC26A24E9F0E", "target": "Ponownie rozmawiasz z Gigimolu, którego zastajesz w gorących źródłach. Niestety szybko nabiera podejrzeń wobec twojego nagłego zainteresowania. Aby nie przejrzał podstępu, postanawiasz porozmawiać z jego wynajętym pomocnikiem, Cavlim." },

@@ -2,10 +2,10 @@
   "conversation": "custom/002/CmnDefExpansionGuide1_00261",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000", "hash": "B43F6FD7367148CE", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001", "hash": "3DC41FFEE41FF26E", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005", "hash": "82CC14BF3F1AE291", "target": "" }
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000", "hash": "B43F6FD7367148CE", "target": "Nikt nie przejdzie przez Bramy Sądu bez stosownego zezwolenia." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001", "hash": "3DC41FFEE41FF26E", "target": "Aby wejść do Ishgardu, musisz najpierw spełnić następujące wymagania:" },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "※Musisz mieć ukończone zadanie głównego scenariusza „Przed świtem”." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "※ Musisz mieć obecnie podjęte zadanie „Przybycie do Ishgardu”." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005", "hash": "82CC14BF3F1AE291", "target": "Aby sprawdzić postępy zadań, wybierz z menu głównego <colortype(500)><edgecolortype(501)>Aktywności<edgecolortype(0)><colortype(0)>, a następnie <colortype(500)><edgecolortype(501)>Dziennik<edgecolortype(0)><colortype(0)>." }
   ]
 }

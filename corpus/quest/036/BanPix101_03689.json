@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix101_03689",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "" }
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "Uin Nee chce przywrócić Wełnianemu Traktowi dawną świetność.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "Zebrać kłębki puszystej wełny w pobliżu Lydha Lran" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "Dostarczyć kłębki puszystej wełny Uin Nee" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "Och, kiedyś był taki puszysty, puchaty i mięciutki, a teraz... <italic(1)>wcale<italic(0)>! Co się dzieje z tym światem?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "Mówię oczywiście o Wełnianym Trakcie! Czy to nie <italic(1)>oczywiste<italic(0)>? Nadążaj za mną, proszę. W każdym razie Wełniany Trakt leży stąd na północ. Dawno temu była to wspaniała droga, którą śmiertelnicy przewozili ogromne kłęby puszystej wełny w tę i we w tę, we w tę i w tę. Czy to nie brzmi przeuroczo?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "Oczywiście, że tak! Dlatego zamierzam utkać sen o drodze tak miękkiej i puszystej, jakby powstała z wełny tysiąca owieczków! Yyy, stad... owieczków? Tak czy owak potrzebuję do tego wielkiego kłębka wełny. A właściwie <italic(1)>trzech<italic(0)> wielkich kłębków wełny! Przyniesiesz mi je, prawda?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "I jak? Nie mogę przecież w nieskończoność czekać na moją wełnę. Mam sny do utkania i miejsca do odwiedzenia!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "Spójrz tylko, jaki ten jest duży i puszysty! A ten jeszcze bardziej! To naprawdę przechodzi moje oczekiwania. Teraz utkam najbardziej wełniany trakt, jaki kiedykolwiek przyśnił się moim śniącym!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "Według legend Nu Mou w czasach, gdy mieszkali tu śmiertelnicy, Wełnianym Traktem jeździły w obie strony wielkie wozy, po brzegi wyładowane najpuszystszymi runami wiezionymi na targ." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "Dziś─niestety!─pozostała tylko nazwa. \\<pociąga nosem> Czy to nie najsmutniejsza historia, jaka obiła ci się o uszy? Ale nic to, utkamy <italic(1)>nowy<italic(0)> Wełniany Trakt w snach dzieci─i to jeszcze wspanialszy niż dawniej!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "Już widzę, jak podskakują na drodze z runa i puchu, niczym na olbrzymiej chmurze! Nie dołączysz do nich? Tylko uważaj─będzie tak rozkosznie i sennie, że możesz już nigdy nie chcieć się obudzić! Hihihi!" }
   ]
 }

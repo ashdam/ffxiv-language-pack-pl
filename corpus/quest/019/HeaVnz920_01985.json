@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz920_01985",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_00", "hash": "7A07D23D6FE41719", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_01", "hash": "3C4A0E7479118906", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_02", "hash": "7D4AF33036EF5513", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_03", "hash": "D258769096AA8CE1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_00", "hash": "1C242E3C3C7B4C35", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_01", "hash": "6947243B04EC9037", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_000", "hash": "38DC8AD5F98A35E8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_001", "hash": "F0BE3D416365E98A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_010", "hash": "D11197D67C106E4E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_020", "hash": "A23E5D2B90D5DFF7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_021", "hash": "19698169C073E642", "target": "" }
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_00", "hash": "7A07D23D6FE41719", "target": "Allagański węzeł tropiący czeka na interakcję z użytkownikiem." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_01", "hash": "3C4A0E7479118906", "target": "Allagański węzeł tropiący najwyraźniej prowadzi jakiś program szkoleniowy i rzuca ci wyzwanie upolowania czterech bestii empuse." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_02", "hash": "7D4AF33036EF5513", "target": "Polujesz na bestie empuse zgodnie z instrukcją. Wróć do węzła tropiącego po ocenę wyników." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_03", "hash": "D258769096AA8CE1", "target": "Wygląda na to, że węzeł tropiący nie potrafi ukończyć programu szkoleniowego. Sądząc po celu łowów na przyszły tydzień, może to nawet lepiej..." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_00", "hash": "1C242E3C3C7B4C35", "target": "Zabić bestie empuse" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_01", "hash": "6947243B04EC9037", "target": "Zdać relację węzłowi tropiącemu" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_000", "hash": "38DC8AD5F98A35E8", "target": "Witamy! Zapraszamy do programu łowieckiego dla pracowników ośrodka badań eterochemicznych─sponsorowanego przez dział świadczeń pracowniczych ośrodka badań eterochemicznych!" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_001", "hash": "F0BE3D416365E98A", "target": "Dbajcie o kondycję i zdrowie, uczestnicząc w naszym codziennym konkursie łowieckim! Dzisiejszy cel to cztery bestie empuse! Działajcie jak najszybciej i spróbujcie pobić obecny rekord wynoszący <italic(1)>NIE ZNALEZIONO DANYCH<italic(0)>. Gotowi... Start! \\<pik>" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_010", "hash": "D11197D67C106E4E", "target": "Dzisiejszy cel łowiecki to cztery bestie empuse. Ruchy! Zegar tyka!" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_020", "hash": "A23E5D2B90D5DFF7", "target": "\\<bzzzzzzz> ...przypomina wszystkim uczestnikom, że asystenci laboratoryjni i mienie laboratorium nie stanowią dozwolonych celów na potrzeby... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_021", "hash": "19698169C073E642", "target": "Pamiętajcie, by wrócić na...\\<bzzzzzzz>...cel na przyszły tydzień...\\<bzzzzzzz>...i trzech przedstawicieli rasy <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>... \\<bzzzzzzz>" }
   ]
 }

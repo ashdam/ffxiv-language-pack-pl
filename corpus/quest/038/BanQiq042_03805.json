@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq042_03805",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "" }
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "Chaqurl Qhotl chce przekonać cię do swojej teorii o losie tajemniczego ludu ludzi-sumów.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego obecnego poziomu." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "Przekonują cię argumenty Chaqurla Qhotla i popierasz jego teorię, że Qitari dzielili się jedzeniem z cierpiącymi ludźmi-sumami przed ich nieszczęsnym zniknięciem z lasu. Niechętnie przyznając, że syn może mieć rację, uparty Qitari zgadza się pomóc w odtworzeniu trzeciej steli.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je wykonywać tylko tą klasą lub tym jobem, którymi je przyjęto." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "Pod twoim czujnym okiem rzemieślnicy Qitari odtwarzają trzecią stelę zgodnie z interpretacją Chaqurla Qhotla. Pokrzepieni odzyskaniem kolejnej ważnej części dziedzictwa, Opiekunowie przystępują do wykopalisk z nowym zapałem. Jeśli zechcesz, nadal wspieraj ich wysiłki." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "Porozmawiać z Chaqurlem Qhotlem" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "Ojciec inaczej odczytuje znaki, ale jestem pewien, że nasi przodkowie nie byli aż tak okrutni i gwałtowni. Gdy głód spadł na las, my, Qitari, ulitowaliśmy się nad ludźmi-sumami i podzieliliśmy najświeższymi połowami!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "Szkoda, że później zniknęli z Greatwood, ale wiem, że przodkowie zrobili wszystko, by uratować śliskich przyjaciół. Tak było zdecydowanie i nie-<italic(1)>wątpilnie<italic(0)>, czyż nie?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "Jeśli poprzesz teorię Chaqurla Qhotla, trzecia stela zostanie odtworzona zgodnie z jego interpretacją historii. Po podjęciu tej decyzji nie zobaczysz wersji steli, którą wyobraża sobie Qitarl Natl." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "Nagrody i zawartość kolejnych zadań będą takie same niezależnie od dokonanego wyboru. Wybierz wersję historii, która najbardziej cię przekonuje." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "Poprzeć teorię Chaqurla Qhotla?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "Prze-<italic(1)>wspaniaśnio<italic(0)>! Wiedziałem, że myślimy podobnie." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "Może syn ma rację, a historia czasem nie jest tak okrutna, jak się wydaje. W każdym razie, jeśli jego wersja rzeczywiście bardziej <if(gnum4,panią,pana)> przekonuje, nie widzę powodu do sprzeciwu." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "Prze-<italic(1)>wspaniaśnio<italic(0)>! Zacznijmy zatem odtwarzać trzecią stelę! Zostanie <if(gnum4,pani,pan)>, żeby dopilnować wszystkiego, prawda? Gdy tylko będzie <if(gnum4,pani gotowa,pan gotowy)>, proszę dać znak!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "Czy jest <if(gnum4,pani gotowa,pan gotowy)>, <split(<string(gstr1)>, ,1)>? W takim razie ojciec i ja natychmiast wezwiemy najlepszych rzemieślników!" }
   ]
 }

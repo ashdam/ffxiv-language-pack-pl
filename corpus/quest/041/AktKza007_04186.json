@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKza007_04186",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "" }
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Początkujący zbieracz chyba chce z tobą porozmawiać." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "Pokonać caribou" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "Porozmawiać z początkującym zbieraczem" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "Przepraszam, czy to nie ty pomagasz Erenville'owi? Jeśli masz chwilę, mnie też przydałaby się pomoc w pewnej sprawie..." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "Krótko mówiąc, mam upolować kilka caribou. Ale to moja pierwsza przyjęta praca, która wymaga jakiejkolwiek przemocy, więc nie bardzo wiem, jak podejść do zwierzyny." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "Wyglądasz na kogoś z niemałym doświadczeniem w walce─może poobserwuję cię z ukrycia, gdy zmierzysz się z wyznaczonymi zwierzętami!?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "Oczywiście nie musisz poświęcać na to całego dnia─jeden czy dwa przykłady w lesie na zachód stąd wystarczą! Powiedzmy dwa, dobrze? Nawet zapłacę! ...Proszę?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "Caribou nie powinny sprawić ci większych kłopotów. A jeśli sprawią, cóż... to też będzie dla mnie cenna lekcja!" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "Dziękuję za naukę! Choć wątpię, czy zdołam naśladować twój szczególny styl, obserwowanie cię w działaniu ogromnie mi pomogło." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "Przy okazji przysługujesz się nam, zmniejszając liczebność jednych z najpłodniejszych zwierząt Labyrinthos. Nie martw się, od czasu do czasu musimy ograniczać populację caribou, by zachować równowagę środowiska." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "I niczego nie zabijamy tu dla samej rozrywki. Każda część tuszy zostaje pozyskana i wykorzystana─dopilnuję tego również w przypadku zabitych przez ciebie stworzeń." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "Zostało jeszcze kilka do odstrzału, ale chyba już poradzę sobie sam. Taki los zbieracza. Powinienem nauczyć się tego prędzej niż później." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "Och, a oto twoja zapłata. Życz mi szczęścia!" }
   ]
 }

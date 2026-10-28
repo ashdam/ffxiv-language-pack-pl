@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz824_02852",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_SEQ_00", "hash": "C9101D7EA6A33DBE", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_000", "hash": "9D4CAD84F423BE44", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_001", "hash": "5DF5E99E58F13A5A", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_002", "hash": "F75962A67C6EEC2F", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_003", "hash": "67BBAEF993216A83", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_004", "hash": "576BE26871FB52BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_005", "hash": "DC0188FE28818640", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_010", "hash": "078D54CDBA99DBC1", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_011", "hash": "F9D2F9A6A9FC1BC5", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_012", "hash": "7D55678B39323669", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_013", "hash": "12880D3EACABA3DD", "target": "" }
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_SEQ_00", "hash": "C9101D7EA6A33DBE", "target": "Mawt szepcze coś do siebie złowieszczym tonem." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "Położyć świeże warzywa we wskazanym miejscu" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "Zaczekać na Abalathian catoblepas, użyć na nim proszku paraliżującego i zabić go, by zdobyć oko" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "Dostarczyć oko bestii catoblepas Mawt" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_000", "hash": "9D4CAD84F423BE44", "target": "Wie <if(gnum4,pani,pan)>, co to catoblepas? Rzadko się je teraz widuje, ale wypatrzyłam jednego, który odłączył się od stada." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_001", "hash": "5DF5E99E58F13A5A", "target": "Podobno oko takiej bestii kryje złowrogą moc. Chcę go. <italic(1)>Potrzebuję<italic(0)> go! Jestem tylko delikatną dziewczyną, ale <if(gnum4,pani,panu)> z pewnością łatwo przyjdzie wyłuskanie go z czaszki tego zbłąkanego potwora." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_002", "hash": "F75962A67C6EEC2F", "target": "Wszystko już obmyśliłam: trzeba rozłożyć te warzywa jako przynętę w pewnym miejscu na zachodzie i poczekać, aż bestia przyczłapie coś skubnąć. Wtedy sypnie jej <if(gnum4,pani,pan)> w pysk tym proszkiem paraliżującym!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_003", "hash": "67BBAEF993216A83", "target": "Powinno to spowolnić ją na tyle, żeby dało się zadać czysty, śmiertelny cios─nie chcę uszkodzić drogocennego oka. No dobrze! Będę czekać!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_004", "hash": "576BE26871FB52BB", "target": "Plan nie był jasny? Trzeba zwabić bestię warzywami, otumanić proszkiem, a potem delikatnie wyjąć to cudownie złowrogie oko z oczodołu!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_005", "hash": "DC0188FE28818640", "target": "Ja dostanę talizman przeklętej mocy, a <if(gnum4,pani,pan)> wybierze sobie coś z moich skarbów. <if(gnum4,Obie,Oboje)> na tym skorzystamy!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_010", "hash": "078D54CDBA99DBC1", "target": "Złe oczko, złe oczko, jakże cię pragnę...<br>I co? Udało się? Jest nieskazitelne?" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_011", "hash": "F9D2F9A6A9FC1BC5", "target": "Tak! Doskonałe! Ach, samo spojrzenie w tę złowieszczą kulę przejmuje moją duszę dreszczem!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_012", "hash": "7D55678B39323669", "target": "Jak mawiała moja droga, świętej pamięci babunia: „Jeśli chcesz najpaskudniejszej klątwy, użyj oka bestii catoblepas!”." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_013", "hash": "12880D3EACABA3DD", "target": "Ahahaha. Mwahaha! Gyahahahahaha! Zemsta jest blisko, imperialne sukinsyny! Niech pchły z tysiąca bestii jhammel obsiądą wam krocza!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb402_00858",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "" }
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "Na stoliku przy łóżku szeregowego Maelstromu Blaugybala leży list, który aż prosi się o wysłanie." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "Blaugybal błaga cię o dostarczenie jego prośby komandorowi Maelstromu Bloeidinowi w Camp Overlook. Skorzystaj z przeprawy przez jezioro przy Placówce Handlowej Jijiroona, a potem ruszaj na północ, do rejonu Outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "Wręczasz prośbę komandorowi Bloeidinowi, który ubolewa nad niedojrzałością Blaugybala i odmawia przywrócenia go do służby. Wyraźnie robi to z troski, a nie ze złośliwości, lecz rozczarowanie Blaugybala będzie wielkie." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "Wręczyć prośbę Bloeidinowi w Camp Overlook" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "Witaj. Służę w Czarnych Żaglach Maelstromu─a raczej służyłem, dopóki nie odniosłem ciężkich ran w walce z plemieniem Kobold. Uznano mnie za niezdolnego do służby i wysłano tutaj." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "Zaniesiesz to mojemu przełożonemu w Camp Overlook? To prośba o przywrócenie do służby. Leżenie w łóżku nie leży w mojej naturze." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "Powiedziano mi, że moim obowiązkiem jest wyzdrowieć. I sumiennie się do tego stosowałem. Ale chyba nie każą mi czekać, aż zrośnie się każdy skrawek ciała. Mogę utrzymać topór─to powinno wystarczyć." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "W linii prostej między nami a Camp Overlook leży terytorium plemienia Kobold. Radzę podejść do sprawy z głową: idź do Placówki Handlowej Jijiroona i przepłyń jezioro łodzią. Stamtąd ruszaj na północ, do rejonu Outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "<if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód, co? Co tam dla nas masz?" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "<italic(1)>List<italic(0)>? Nie da się go wypić, zjeść ani ogrzać nim łóżka... Zwłaszcza jeśli jest od tego szczeniaka Blaugybala." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "Słuchaj, jak cię zwą? <split(<string(gstr1)>, ,1)>? My to Czerwone Jaskółki, najtwardszy oddział w całym Maelstromie. Większość z nas ma za sobą coś, co można nazwać korsarską przeszłością. Jesteśmy <italic(1)>kłami<italic(0)> Maelstromu." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "Chcesz wiedzieć, gdzie walczą najzacieklej? Wypatruj Czerwonych Jaskółek. Tu jest front, ani chwili wytchnienia od plemienia Kobold. To nie miejsce dla szczeniaka z ledwo zabliźnionymi ranami." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "Chłopak ma serce na właściwym miejscu, przyznam. Ale jeśli się tu przytoczy, jeszcze mu je wystrzelą z piersi. Musi po prostu spać w miękkim łóżku i jeść strawę bez robactwa, aż wyzdrowieje." }
   ]
 }

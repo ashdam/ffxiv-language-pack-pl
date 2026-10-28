@@ -2,17 +2,17 @@
   "conversation": "quest/005/SubWil097_00505",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "" }
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "Totoruna chce, by przetrzebić orobon w Śladach Stóp." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "Totoruna prosi cię o zabicie sześciu bestii orobon, które opanowały wody Śladów Stóp. Znajdź te szkaradne stworzenia i pozbaw je życia." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "Bezlitośnie zabijasz sześć oślizgłych bestii. Powiedz Totorunie, że zadanie wykonane." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "Choć orobony nie stanowią prawdziwego zagrożenia, Totoruna cieszy się, że zniknęły. Gdyby choć jeden taumaturg odniósł nawet drobną ranę, Mosiężne Ostrza poniosłyby surowe konsekwencje." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "Zabić orobon" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "Zdać raport Totorunie" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "Skoro już tu jesteś, możesz się przydać." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "Bestie orobon pływające wokół wykopalisk przeszkadzają taumaturgom w pracy, więc musimy je wszystkie wyrżnąć." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "Pomożesz nam, zabijając sześć bestii. Daj znać, kiedy skończysz." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "Dzięki za pomoc. O sześć bestii orobon mniej będzie nękać naszych gości." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "Prawdę mówiąc, taumaturgowie mogli przyprowadzić eskortę z miasta. Ale skoro uparli się zwiedzać ruiny tak blisko Horizon, oficerowie uznali, że i tak odpowiemy za każdy wypadek. No i jesteśmy." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "Pracy niewiele, ale wciąż musimy mieć się na baczności. Wystarczy, że orobon skubnie jednego z nich w palec u nogi, a my możemy stracić wszystkie swoje." }
   ]
 }

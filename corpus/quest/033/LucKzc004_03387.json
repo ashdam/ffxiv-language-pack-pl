@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKzc004_03387",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_SEQ_00", "hash": "C6D96631199F0952", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_00", "hash": "6AEEC5ED0DA67987", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_01", "hash": "913AE835646533ED", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_000", "hash": "1201B8B39FF97608", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_010", "hash": "6F2C4368A253F83F", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_020", "hash": "05EB7104D60FB5BA", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_021", "hash": "09814A01B457891A", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_022", "hash": "8E0FC5EDA63B6D72", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_023", "hash": "D915A988B93D06C8", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_031", "hash": "A2B74646AE78F933", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_040", "hash": "FB26E9A7A1E900DA", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_041", "hash": "9963FAAD84E0688F", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_042", "hash": "DC13B2E9F3430940", "target": "" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_043", "hash": "3E5C4BC33594EBA3", "target": "" }
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_SEQ_00", "hash": "C6D96631199F0952", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mynes będzie bardzo wdzięczny za dostarczenie przesyłki w jego imieniu." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_00", "hash": "6AEEC5ED0DA67987", "target": "Porozmawiać z Roi-Tatchem" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_01", "hash": "913AE835646533ED", "target": "Dostarczyć skrzynię zaopatrzenia Teannie" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_000", "hash": "1201B8B39FF97608", "target": "Możesz już wyruszyć, prawda? Mój człowiek, Roi-Tatch, przygotował zaopatrzenie do Imperative. Porozmawiaj z nim, zanim ruszysz w drogę. Jeszcze raz dziękuję." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_010", "hash": "6F2C4368A253F83F", "target": "Chcesz zostać z nami trochę dłużej? Moi ludzie z pewnością doceniają towarzystwo. Tak czy inaczej, gdy zechcesz wrócić do Imperative, Roi-Tatch wyda ci zaopatrzenie do dostarczenia." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_020", "hash": "05EB7104D60FB5BA", "target": "O, witaj. To ty jesteś <if(gnum4,tą dobroduszną naiwniaczką,tym dobrodusznym naiwniakiem)>─ee, <italic(1)>dobrą duszą z dalekich stron<italic(0)>, która zgodziła się taszczyć tę ciężką skrzynię aż do przeklętej twierdzy Ostall Imperative. No to proszę, oto towar!" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_021", "hash": "09814A01B457891A", "target": "Żarty na bok, bardzo nam pomagasz. Mieliśmy szczęście, że kupiecka karawana w drodze do Amh Araeng postanowiła zatrzymać się na chwilę tu, w Round. Uzupełniliśmy przeróżne zapasy, których brakowało nam od miesięcy." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_022", "hash": "8E0FC5EDA63B6D72", "target": "Tak działa tu zaopatrzenie: karawany zmierzają do odległych miejsc, my uzupełniamy zapasy, jak się da, a następnie rozsyłamy je do posterunków w całym Lakeland." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_023", "hash": "D915A988B93D06C8", "target": "Oczywiście nie zawsze mamy dość wolnych rąk do dostaw. Dlatego bardzo doceniamy życzliwość takich przybyszów jak ty. Nie zatrzymuję cię już. Uważaj na siebie w drodze." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_031", "hash": "A2B74646AE78F933", "target": "Chcesz zostać z nami jeszcze trochę? Jeśli tak lubisz tę ponurą dziurę, może zamienimy się miejscami? Ahaha, żartuję─jeszcze raz dziękuję za pomoc w dostawie." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_040", "hash": "FB26E9A7A1E900DA", "target": "Ach, wracasz, <if(gnum4,świeżynko,żółtodziobie)>. Hm? Co tam masz?" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_041", "hash": "9963FAAD84E0688F", "target": "Świeża skrzynia zaopatrzenia! Może jednak nie jesteś do niczego! ...Właściwie muszę cię przeprosić. Podczas twojej nieobecności dowódca uświadomił mi, że nie tylko nie jesteś <if(gnum4,świeżynką,żółtodziobem)>, ale nawet nie należysz do straży." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_042", "hash": "DC13B2E9F3430940", "target": "Pewnie powinnam była poznać po twoim... nietypowym stroju. Tak czy inaczej, za tę zuchwałość porządnie mi się dostało. To się nie powtórzy." },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TEANNA_000_043", "hash": "3E5C4BC33594EBA3", "target": "Mimo wszystko <italic(1)>jestem<italic(0)> ogromnie wdzięczna─pożytek z ciebie cholernie większy niż z połowy tutejszych ludzi. Może kiedyś do nas dołączysz? Tymczasem polecono mi przekazać ci nagrodę. Zaglądaj do nas!" }
   ]
 }

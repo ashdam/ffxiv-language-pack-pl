@@ -2,16 +2,16 @@
   "conversation": "custom/006/RegNor4Wolekdorf_00601",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "" }
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "Jakże rzadko widujemy tu ludzi. Dopóki nie zakłócasz naszego spokoju, witamy cię z otwartymi skrzydłami." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "O co zapytasz?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "Nic." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "W moim dawnym życiu służba u pewnego pana wiodła mnie w najdalsze zakątki krainy. Od Nabaath Areng na dalekim południu po Voeburt tutaj, na północy, niosły nas wiatry." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "Mój pan tak kochał podróże. Najlepiej świadczy o tym imię, które mi nadał: Traveler, czyli Podróżnik." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "Od mojej ostatniej wyprawy minęło wiele lat i wyobrażam sobie, że świat poza Il Mheg bardzo się zmienił. Nie pragnę jednak znów go oglądać. Nie, wolę zachować odwiedzone miejsca takimi, jakimi widzę je w pamięci." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "Wśród nas, amaro, zdarzają się osobniki, w których budzą się dawno utracone zdolności, między innymi mowa. „Tupaq Amaro”, tak nazywali nas ludzie z Ronki. Przybywamy tu, by dożyć ostatnich dni." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "Czy to przez śmierć, czy porzucenie, każde z nas straciło swojego pana i poznało gorzką samotność. W tej wspólnocie możemy jednak odnaleźć bliskość, zrozumienie i─co nie mniej ważne─spokój." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "Jako stado skupiamy nasze życie wokół spokoju i trzymamy się z dala od kłopotów. Choć nasi sąsiedzi z ludu fae nie zawsze szanują nasze życzenia, na ogół dobrze nam się żyje." }
   ]
 }

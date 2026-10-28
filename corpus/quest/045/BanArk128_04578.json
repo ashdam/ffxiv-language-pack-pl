@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk128_04578",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SEQ_00", "hash": "B42CDFEE9C859870", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_000", "hash": "3977ED9716C27E57", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_001", "hash": "FCA5ACDFC6C0D2D2", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_002", "hash": "DD54A3F90C09F635", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SYSTEM_000_003", "hash": "2215C8AFAF8A488B", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_004", "hash": "B16ACA5E1C3C3AEF", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_005", "hash": "0456A27795B0AE0E", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_006", "hash": "3D2C1005705093AF", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_007", "hash": "6C076EF594AB1906", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_008", "hash": "A723315EA2F0E776", "target": "" }
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SEQ_00", "hash": "B42CDFEE9C859870", "target": "Maru potrzebuje zapasów dla prężnie działającej firmy.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "Zostawić wonne ryby we wskazanych miejscach i zabić zwabione stworzenia Akyaali crabs" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "Dostarczyć Maru odnóża krabów z Akyaali" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_000", "hash": "3977ED9716C27E57", "target": "Tawerna przyciągnęła do naszego zakątka najróżniejszych ludzi i bardzo mnie to cieszy. Tyle że z każdą nową twarzą rośnie zużycie zapasów. Potrzebuję twojej pomocy, zanim czegoś zabraknie." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_001", "hash": "FCA5ACDFC6C0D2D2", "target": "Chodzi o odnóża krabów z Akyaali─są równie popularne, co spiczaste! Ich właściciele powinni być dla ciebie łatwą zdobyczą. Chyba też o tym wiedzą, więc nie żałuj przynęty, jeśli mają przydreptać." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_002", "hash": "DD54A3F90C09F635", "target": "Na wszelki wypadek wyłóż trzy takie ryby, dobrze? I rozstaw je daleko od siebie, żeby zwiększyć szanse. Udanych łowów!" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SYSTEM_000_003", "hash": "2215C8AFAF8A488B", "target": "W pobliżu chyba nie ma głodnych krabów." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_004", "hash": "B16ACA5E1C3C3AEF", "target": "Ach, jesteś. Mam nadzieję, że podczas polowania był czas poczuć na twarzy słoną morską bryzę. Są odnóża?" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_005", "hash": "0456A27795B0AE0E", "target": "Ach, tak... Właśnie tego szukałem. Dzięki za takie dorodne okazy─nakarmimy nimi niejednego głodnego Jeźdźca Hipopotamów." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_006", "hash": "3D2C1005705093AF", "target": "...I wielu gości, bez wątpienia. Niewielu kucharzy garnie się do pojedynków z tymi długonogimi paskudami, chociaż ich mięso to jedne z najsmaczniejszych owoców morza na wyspie." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_007", "hash": "6C076EF594AB1906", "target": "Wrzuć je do curry, a ich smak i tak przebije się przez przyprawy. Albo dodaj do biryani dla wspaniałej konsystencji. A to dopiero początek..." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_008", "hash": "A723315EA2F0E776", "target": "Oczywiście nieświeże nie są już tak smaczne, więc pewnie niedługo znów będzie ich nam trzeba. Do zobaczenia!" }
   ]
 }

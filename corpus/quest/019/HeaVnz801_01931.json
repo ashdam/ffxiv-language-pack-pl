@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz801_01931",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_00", "hash": "FB86D3477F4C64B0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_01", "hash": "CF8DD696E1D475A3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_02", "hash": "1C819DA467180C20", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_03", "hash": "1111E8BF46AD075F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_00", "hash": "A452B46CFE242B09", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_01", "hash": "2C4335E419AF74CF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_000", "hash": "D73978E03AA8AFFA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_001", "hash": "5135A9DB0FF3A5CC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_010", "hash": "2A47C6CF921A819E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_020", "hash": "6E82890DD475892D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_021", "hash": "C5E1C1AE1456AC11", "target": "" }
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_00", "hash": "FB86D3477F4C64B0", "target": "Woolnix przygląda ci się z wyraźnym zainteresowaniem." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_01", "hash": "CF8DD696E1D475A3", "target": "Woolnix martwi się ogromnym rojem os tarantula hawk w rejonie The Collectors' Quarter. Nie czuje się bezpiecznie, pilnując bramy, gdy są tak blisko. Prosi więc o zabicie trzech, licząc, że pozostałe nie będą już zbliżały się do jego posterunku." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_02", "hash": "1C819DA467180C20", "target": "Zabijasz trzy osy tarantula hawk. Zanieś wieści o zwycięstwie Woolnixowi w pobliżu Cenotafu." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_03", "hash": "1111E8BF46AD075F", "target": "Woolnix wyjawia, że użądliła go osa tarantula hawk. Oszalały z bólu, opuścił posterunek. Teraz, gdy mniej ich krąży w pobliżu, wierzy, że może bezpiecznie pełnić służbę." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_00", "hash": "A452B46CFE242B09", "target": "Zabić osy tarantula hawk" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_01", "hash": "2C4335E419AF74CF", "target": "Zdać sprawę Woolnixowi" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_000", "hash": "D73978E03AA8AFFA", "target": "Pszsz... Szkoo...<br><if(gnum4,Wierzchniaczka,Wierzchniak)> ma dobre ramię do bojowidła, tak?" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_001", "hash": "5135A9DB0FF3A5CC", "target": "Proszę, zabij osy tarantula hawk dla Woolnixa. Roją się w rejonie Collectors' Quarter. Okropnie straszą Woolnixa przy pilnowaniu bramy. Zabij trzy, Woolnix poczuje się bezpieczniej!" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_010", "hash": "2A47C6CF921A819E", "target": "Tyle os tarantula hawk w rejonie Collectors' Quarter. Woolnix martwi się o bezpieczne pilnowanie bramy." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_020", "hash": "6E82890DD475892D", "target": "Pszsz... Szkoo...<br><if(gnum4,Wierzchniaczka,Wierzchniak)> robi wielką przysługę Woolnixowi! Tak naprawdę Woolnix uciekł przed atakiem robali. Woolnix dostał burę za zostawienie bramy bez straży, ale to niesprawiedliwe!" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_021", "hash": "C5E1C1AE1456AC11", "target": "Osa tarantula hawk użądliła Woolnixa. Woolnix uciekł, bo z bólu odchodził od zmysłów! \\<wzdycha> Ale teraz os tarantula hawk jest mniej. Woolnix może patrolować w spokoju." }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "sheet": "MKDRelicGrowth2Monster",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "MKDRelicGrowth2Monster#0", "hash": "655ED7CF47C78717", "target": "Nie mogę sięgnąć do swojej mocy...\nTrzeba rąk... Trzeba stóp." },
+    { "gameKey": "MKDRelicGrowth2Monster#1", "hash": "0425EE69AF589FB8", "target": "Moja prawdziwa postać jest... mądrzejsza, dostojniejsza.\nTakie właśnie nadaj mi naczynie!" },
+    { "gameKey": "MKDRelicGrowth2Monster#2", "hash": "BFDD28A50D9AE087", "target": "Starannie wykonaj moje naczynie.\nNie chcę pokazać się podwładnym z nieprzystojnym obliczem!" },
+    { "gameKey": "MKDRelicGrowth2Monster#3", "hash": "F0EE92D21B3A52B4", "target": "Niegdyś udało mi się zamknąć eter pokonanych wrogów w lśniącej kuli. Aby uwolnić moją moc, musisz wykorzystać podobną kulę do naczynia!" }
+  ]
+}

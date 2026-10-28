@@ -2,12 +2,12 @@
   "conversation": "quest/036/LucKyr001_03602",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_001", "hash": "2C9AB99934CBF63B", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_002", "hash": "2A66DC795BBF0D17", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_003", "hash": "02D621AE8887E857", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_004", "hash": "5CF3BAED0A545A02", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_005", "hash": "AA04332D3B25ADC5", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_006", "hash": "87E422E7A7F40DA9", "target": "" },
-    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_007", "hash": "FA8130F86A9A6B25", "target": "" }
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_001", "hash": "2C9AB99934CBF63B", "target": "<if(gnum4,Rzemieślniczka,Rzemieślnik)>, co? Tak wyglądasz. Chcesz wykorzystać swoje umiejętności przy zleceniu levequest albo dwóch?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_002", "hash": "2A66DC795BBF0D17", "target": "Wszystko jest uczciwe─cały system działa pod patronatem Kryształowego Egzarchy, bez obaw. Codziennie przyjmujemy i rozdzielamy górę zleceń levequest. Zarejestruj się, a do woli przejrzysz dostępne zadania." },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_003", "hash": "02D621AE8887E857", "target": "Dostaniesz też zapłatę, gdyby chodziło ci po głowie, że prowadzimy jakąś dobroczynność. Więc─wpisać cię do rejestru?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_004", "hash": "5CF3BAED0A545A02", "target": "No dobrze! <string(gstr1)>, tak? Uzupełnię tylko resztę papierów i możesz zaczynać!" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_005", "hash": "AA04332D3B25ADC5", "target": "Możesz teraz przyjmować zlecenia levequest w Crystarium, rozmawiając z osobą o imieniu Eirikur." },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_006", "hash": "87E422E7A7F40DA9", "target": "Zajmujesz się rzemiosłem? Nie widać. Na pewno?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_007", "hash": "FA8130F86A9A6B25", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 70. lub wyższym." }
   ]
 }

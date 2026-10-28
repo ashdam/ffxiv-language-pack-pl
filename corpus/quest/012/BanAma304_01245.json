@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanAma304_01245",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "" }
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "Yadovv Gah chce wystawić twoje wojenne umiejętności na prawdziwą próbę." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "Yadovv Gah zleca ci zabicie dowódcy osławionej elitarnej jednostki Płomiennych Kłów. Weź udział w FATE „Gaszenie płomienia” w Zahar'ak i przedstaw wojownikowi Yadovv Gah dowód swego czynu." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "Przedmiot Flamefang choker trafia do wojownika Yadovv Gah. Żołnierz Bractwa raduje się twoim wielkim zwycięstwem i upaja myślą o upadku morale wroga." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "Dostarczyć wojownikowi Yadovv Gah przedmiot Flamefang choker zdobyty w FATE „Gaszenie płomienia”" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "Mam dziś dla ciebie wyzwanie. Wśród słabych szeregów Płomiennych Kłów jest oddział żołnierzy o niezrównanej sile." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "Nawet wśród własnych sojuszników ci sadystyczni weterani budzą więcej strachu niż szacunku. Być może to jedyni żołnierze zdolni zmierzyć się z Bractwem Popiołu jak równy z równym." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "<if(gnum4,Szanowna sojuszniczko,Szanowny sojuszniku)>, chcę, by twoimi przeciwnikami zostali ci elitarni wojownicy... i ich dowódca. Jeśli zdołasz odebrać mu jego cenny naszyjnik Flamefang choker, chwała tego czynu nie będzie miała granic." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "Niedowierzające krzyki wroga zabrzmią niczym najsłodszy śpiew ptaków─o ile ci się powiedzie. To będzie prawdziwa próba twojej sprawności wojennej." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "Zabij dowódcę elitarnych żołnierzy i przynieś mi klejnot, który tak ceni. Tak wielkie zwycięstwo odbierze wrogom ochotę do walki równie pewnie jak ostrze wbite w trzewia." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "I jak, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>? Próba zakończyła się sukcesem? Dowódca elity Płomiennych Kłów nie żyje?" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "Tak! To jego cenny naszyjnik! Kły tej ozdoby trzeba wyrywać z ciała, więc dowód twojego czynu jest niepodważalny." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "Twoje zwycięstwo przyszło tam, gdzie nawet najbieglejsi wojownicy Bractwa mogliby zawieść. Chylę czoło przed twą sprawnością, <if(gnum4,potężna wojowniczko,potężny wojowniku)>!" }
   ]
 }

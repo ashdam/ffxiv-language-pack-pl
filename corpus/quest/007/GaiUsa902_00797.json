@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa902_00797",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "" }
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "Ademar tkwi w ciemnościach i potrzebuje pomocy poszukiwacza przygód." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "Ademarowi skończył się olej do latarni, przez co nie może szukać złóż nocą. Zapewnij mu inne źródło światła, osłabiając bright balloon, a następnie chwytając je do lamp." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "Masz już dwie lampy z balonami. Dostarcz je Ademarowi." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "Ademar dziękuje, po czym od razu wraca do kopania. Życie poszukiwacza złóż nie zostawia wiele czasu na czcze pogawędki." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "Osłabić bright balloon i schwytać je do lamp" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "Dostarczyć lampy Ademarowi" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "Pomóż mi, proszę. Skończyło mi się paliwo do latarni i obawiam się, że nie zdołam pracować <if([gnum11<12],<if([gnum11<4],do końca nocy,długo po zmroku)>,<if([gnum11<17],długo po zmroku,do końca nocy)>)>." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "Sam nie próbowałem, ale słyszałem, że można zrobić prowizoryczną latarnię, zamykając te latające balony w takich lampach. Jasne, trzeba je trochę przekonać, żeby weszły do środka, jeśli wiesz, co mam na myśli." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "Udało się zrobić dla mnie lampy?" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "Bogowie mi cię zesłali. Dzięki tobie <if([gnum11<12],<if([gnum11<4],mogę wrócić do kopania,będę dziś kopał długo po zmroku)>,<if([gnum11<17],będę dziś kopał długo po zmroku,mogę wrócić do kopania)>)>. Hej-ho, złoto w tych wzgórzach śpi!♪" }
   ]
 }

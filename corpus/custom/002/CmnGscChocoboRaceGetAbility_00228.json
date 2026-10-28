@@ -2,17 +2,17 @@
   "conversation": "custom/002/CmnGscChocoboRaceGetAbility_00228",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02", "hash": "D2D4EA3A08853C01", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE", "hash": "7529447DC7620227", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR", "hash": "73EA9EEA626AAC58", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_01", "hash": "3870FE44790172FB", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_02", "hash": "EBC5EE3004F1E7F1", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_01", "hash": "87F40BCF4BA24365", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_02", "hash": "0C57F1F9EE71FCE2", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_01", "hash": "FDB2CFA5B96DB88A", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_02", "hash": "CA92394D6D26118B", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_01", "hash": "930FE0E48A44B03B", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_02", "hash": "E0FE17181D546471", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_03", "hash": "99D1F6609BAAF2D5", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02", "hash": "D2D4EA3A08853C01", "target": "Chce <if(gnum4,pani,pan)> nauczyć zdolności chocobo o imieniu <string(lstr1)>? Proszę zatem dostarczyć odpowiedni podręcznik." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE", "hash": "7529447DC7620227", "target": "Mogę z przekonaniem stwierdzić, że <if(gnum4,pani,pana)> wyścigowy chocobo dobrze przyswoił szkolenie w zdolności <sheet(ChocoboRaceAbility,lnum1,0)>. Proszę się przekonać <if(gnum4,samej,samemu)>." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR", "hash": "73EA9EEA626AAC58", "target": "Chce <if(gnum4,pani,pan)> nauczyć swojego wyścigowego chocobo zdolności? Proszę zatem dostarczyć odpowiedni podręcznik." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_01", "hash": "3870FE44790172FB", "target": "...Ale przede wszystkim, czy nie należy najpierw zarejestrować wyścigowego chocobo?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_02", "hash": "EBC5EE3004F1E7F1", "target": "Wyścigowe chocobo mogą uczyć się zdolności dopiero po oficjalnej rejestracji." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_01", "hash": "87F40BCF4BA24365", "target": "...Z <if(gnum4,pani,pana)> miny wnoszę, że nie ma <if(gnum4,pani,pan)> podręcznika szkoleniowego?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_02", "hash": "0C57F1F9EE71FCE2", "target": "Do nauki zdolności wyścigowych niezbędne są odpowiednie podręczniki, które można kupić u handlarki uprzężą i paszą przy stanowisku wyścigowym." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_01", "hash": "FDB2CFA5B96DB88A", "target": "Hmmm... Rozumiem chęć wytrenowania jak najlepszego wyścigowego chocobo, ale obawiam się, że przecenia <if(gnum4,pani,pan)> możliwości swojego wierzchowca..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_02", "hash": "CA92394D6D26118B", "target": "Twój wyścigowy chocobo musi zapomnieć zdolność, zanim nauczysz go nowej." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_01", "hash": "930FE0E48A44B03B", "target": "Śmiała strategia, <if(gnum4,proszę pani,proszę pana)>, lecz obawiam się, że daremna. Chocobo nie potrafią rozróżniać tak podobnych zdolności." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_02", "hash": "E0FE17181D546471", "target": "Twój wyścigowy chocobo nie może nauczyć się dwóch zdolności tego samego typu." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_03", "hash": "99D1F6609BAAF2D5", "target": "Jeśli chcesz nauczyć chocobo potężniejszej wersji znanej zdolności, najpierw musi zapomnieć jej słabszą wersję." }
   ]
 }

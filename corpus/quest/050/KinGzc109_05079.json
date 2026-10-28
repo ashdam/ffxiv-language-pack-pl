@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc109_05079",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_SEQ_00", "hash": "93640D5E36121AE5", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_00", "hash": "DFF3FF6A8616960F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_01", "hash": "E8FBBB33D5913D8F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_02", "hash": "A676F36E20CAED08", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_000", "hash": "C94FC5C35B07FA11", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_001", "hash": "6E9CF40AB61DF88F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_002", "hash": "16D83C8F0C3BEF1E", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_003", "hash": "6AD60DF3388B5325", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_004", "hash": "1AB77429B3423149", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_005", "hash": "3E531F07F5443797", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_006", "hash": "C5E8CC07FC17A3D0", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_007", "hash": "0BE025CBE67A06E1", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_008", "hash": "EBA7EE39096B6414", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_009", "hash": "CBA42F4DE729887F", "target": "" }
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_SEQ_00", "hash": "93640D5E36121AE5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Chekochuk wygląda na nieco głodobrzuchego." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_00", "hash": "DFF3FF6A8616960F", "target": "Upolować ptaka bird of Ligaka i zdobyć jego mięso" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_01", "hash": "E8FBBB33D5913D8F", "target": "Upolować bestię widowmaker i zdobyć jej mięso" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_02", "hash": "A676F36E20CAED08", "target": "Dostarczyć łupy Chekochukowi" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_000", "hash": "C94FC5C35B07FA11", "target": "Pfffkooo...? Chekochuk cię poznaje. To ty, osoba z nizin, która podróżowspółdzieliła z Wuk Lamat. Jeśli akurat masz wolnodłonie, może wyświadczysz Chekochukowi przyjacieloprzysługę?" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_001", "hash": "6E9CF40AB61DF88F", "target": "Jak pewnie wynika z twojego oczowidzenia, Many Fires jest obecnie ciasnoupechane podróżnymi czekającymi na naprawę Schodów Bezskrzydłych... a prawdopowiedziawszy, nasze zapasy żywności to niemal pustopółki." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_002", "hash": "16D83C8F0C3BEF1E", "target": "Szczęściosposobem na nadrzecznych terenach na zachodzie jest mnóstwo smakomięsa. Chekochuk potrzebuje tylko pomocnosercych mieczoużyczaczy, którzy je zdobędą! Jeśli pomożesz uzupełnić zapasy bestomięsa i ptakomięsa, będzie bardzo wdzięczny!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_003", "hash": "6AD60DF3388B5325", "target": "Udomięso ptaka bird of Ligaka jest bardzo wargomlaskowe, zwłaszcza węglopieczone. Brzuchomięso bestii widowmaker bywa nieco długożujne, ale powietrznosuszone daje wielkosmaczne suszone mięso!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_004", "hash": "1AB77429B3423149", "target": "Chekochuk ostrokrawędził noże i żaropodsycił piece. Masz mięso?" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_005", "hash": "3E531F07F5443797", "target": "Tak, tak, nada się dobrosposobem! Teraz zaczyna się wielkozadanie─gotowanie na wielosposoby, żeby każdy, kto przechodzi przez Many Fires, był brzuchouradowany." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_006", "hash": "C5E8CC07FC17A3D0", "target": "Czy wiesz, że skromne pobytomiejsce Chekochuka nosi nazwę od obiadopłomieni wszystkich różnych ludów, które odpoczywają tu podczas długochodów? To zadanie takich kucharzoMobków jak on, by zadbać o językoczucia wszystkich." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_007", "hash": "0BE025CBE67A06E1", "target": "To, co dla kogoś z ludu Tonawawta jest wargomlaskowe, przez kogoś z ludu Shetona może zostać szybkowyplute... ale udomięso ptaka bird of Ligaka─czy to po prostu węglopieczone, czy oprószone ziarnoproszkiem i olejogotowane na złoto─jest przez wszystkich dobrze smakooceniane." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_008", "hash": "EBA7EE39096B6414", "target": "Brzuchomięso bestii widowmaker to bardziej głowodrapne mięso. Ma pewną śmierdziwatość, której wszyscy prócz nas, Moblin, unikają─ale bulgotogotowane z górokupami chili staje się przysmakiem Mamool Ja!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_009", "hash": "CBA42F4DE729887F", "target": "Ale dość językogadek! Chekochuk musi przygotować ucztę dla naszych głodobrzuchych gości!" }
   ]
 }

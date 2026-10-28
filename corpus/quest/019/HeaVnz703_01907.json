@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz703_01907",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "" }
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "Conu Vanu potrzebuje pomocy w nakarmieniu piskląt." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "Wygląda na to, że wiatry szczęścia przywiały cię do Ok' Zundu, by pomóc Conu Vanu nakarmić głodne pisklęta. Zabij pięć Window wamouracampa i przynieś mu ich oskórowane tusze." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "Po zabiciu larw wamouracampa zbierasz ich oskórowane tusze, choć zapach nie pozwala ci zrozumieć ich uroku. Dostarcz mięso Conu Vanu, aby pisklęta przestały krzyczeć z głodu." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "Dostarczasz mięso Conu Vanu, który wyjaśnia, że Vanu Vanu uważają je za przysmak. Zaprasza cię na posiłek, gdy znów będzie przyrządzać to robakowate stworzenie." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "Zabić Window wamouracampa i zdobyć ich oskórowane tusze" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "Dostarczyć oskórowane tusze wamouracampa Conu Vanu" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "Jak łagodny wiatr przynosi szczęście, tak istota z dołu przynosi Conu Vanu sposobność." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "Pisklęta pragną mięsa oskórowanych wamouracampa, lecz Conu Vanu nie śmie ich zostawić, by polować. Istota z dołu zabije bestie za Conu Vanu i przyniesie obfity łup!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "Żeby rosnąć w siłę, pisklęta muszą jeść. Pomóż Conu Vanu napełnić ich brzuchy mięsem wamouracampa." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "Krzyki piskląt niosą się jak grzmoty! Czy istota z dołu przynosi wamouracampa?" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "Tak, tak! Istota z dołu przynosi obfitą ucztę, która ukoi głód piskląt. Bardzo dobrze!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "Czy istota z dołu też skosztuje wamouracampa? Nie? Mają świeży, wyrazisty smak. Zastanów się─Conu Vanu świetnie gotuje!" }
   ]
 }

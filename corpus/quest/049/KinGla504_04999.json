@@ -8,7 +8,7 @@
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_TODO_00", "hash": "E661F8AF5286BF10", "target": "Złowić Qor Pirarucu w jeziorze Karvarhur Pierwsza i dostarczyć je Donuhanu" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_015", "hash": "A7A75D788CB99C97", "target": "Witamy w sklepie Rybne frykasy Donu─och, <split(<string(gstr1)>, ,1)>! Miło znów <if(gnum4,panią,pana)> widzieć." },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_016", "hash": "3069E22A56FE2133", "target": "Od czasu do czasu pomagam w sklepie. Tylko tyle mogę zrobić, by odwdzięczyć się <if(gnum4,państwu,panom)> za dobroć." },
-    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_017", "hash": "F7212A8F7B15C24B", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Skyruin”." },
+    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_017", "hash": "F7212A8F7B15C24B", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Niebiańska Zagłada”." },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_DONUHANU_000_000", "hash": "3224A5FA7CC58CF1", "target": "<split(<string(gstr1)>, ,1)>! Mam dobre wieści!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_DONUHANU_000_001", "hash": "92A7FD559EE930A5", "target": "Klientka, która kupiła naszą rybę Yok Huy Pleco, wszystkim opowiada, jaki to przysmak! Interes... może nie kwitnie, ale idzie znacznie lepiej niż zwykle!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_002", "hash": "AAE2BCC16BCEBF5E", "target": "Cieszę się, że moje umiejętności kulinarne choć trochę pomogły." },
@@ -39,6 +39,6 @@
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_048", "hash": "0E04E1AD995538AA", "target": "A gdy skończę... powinienem być gotów do obrzędu!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_050", "hash": "FBAAD569EC878A90", "target": "Donuhanu jest uradowany twoją pracą. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,Nieustraszoną tropicielkę ryb,Nieustraszonego tropiciela ryb)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_051", "hash": "54FC00F9DF996ECD", "target": "Dostępne jest nowe zadanie kontynuujące historię sklepu Rybne frykasy Donuhanu." },
-    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_060", "hash": "D8FA62BC01D84D65", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Feat of the Brotherhood”." }
+    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_060", "hash": "D8FA62BC01D84D65", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Próba Braterstwa”." }
   ]
 }

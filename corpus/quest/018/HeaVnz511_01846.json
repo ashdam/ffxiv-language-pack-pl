@@ -2,14 +2,14 @@
   "conversation": "quest/018/HeaVnz511_01846",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_00", "hash": "2BC52202F1DCC918", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_01", "hash": "0DCFF23651B810FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_02", "hash": "1F6113A392D117D8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_03", "hash": "79695E08905B9965", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_TODO_00", "hash": "0125846833E90E57", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_TODO_01", "hash": "F086C8AF9FF5B436", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_000", "hash": "97BE5A188B01C96B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_010", "hash": "1C0F7798118968C6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_030", "hash": "FC919636F696E39B", "target": "" }
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_00", "hash": "2BC52202F1DCC918", "target": "Niecierpliwy moogle ma miejscowej fauny powyżej pomponu." },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_01", "hash": "0DCFF23651B810FB", "target": "Niecierpliwy moogle ma serdecznie dość bladed vinegaroon, kolczastych gadów, które terroryzują podróżnych na szlaku przez Ohl Tahn. Prosi o zabicie czterech, by przynajmniej część przechodniów mogła ujść bez szwanku." },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_02", "hash": "1F6113A392D117D8", "target": "Pokonujesz cztery uzbrojone w ostrza bestie. Wróć do Zenith, gdzie niecierpliwy moogle z zapartym tchem czeka na wieści o sukcesie." },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_SEQ_03", "hash": "79695E08905B9965", "target": "Moogle dziękuje za trud. Cieszy się, że bestie nie stanowią już bezpośredniego zagrożenia. Nie może jednak spocząć na laurach─dopóki potwory ścigają przechodniów, musi stale mieć się na baczności." },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_TODO_00", "hash": "0125846833E90E57", "target": "Pokonać bladed vinegaroon" },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_TODO_01", "hash": "F086C8AF9FF5B436", "target": "Zdać sprawę niecierpliwemu moogle'owi" },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_000", "hash": "97BE5A188B01C96B", "target": "Widać stąd te bladed vinegaroon kręcące się za przełęczą, kupo? Ja napatrzyłem się na nie na całe życie. Nie dają spokojnie podróżować przez Ohl Tahn. Pozbędziesz się dla mnie czterech?" },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_010", "hash": "1C0F7798118968C6", "target": "Co dzień chodzą tam i z powrotem... tam i z powrotem... błyskają ostrzami i warczą. Mam już serdecznie dość, kupo! Jeśli zetniesz cztery, szybko zetrzesz im uśmieszki z pysków!" },
+    { "gameKey": "quest/018/HeaVnz511_01846#TEXT_HEAVNZ511_01846_AIRPORTMOG01845_000_030", "hash": "FC919636F696E39B", "target": "Dziękuję! Teraz mogę trochę odetchnąć─ale tylko trochę, kupo. Te bestie ciągle ścigają nas, moogle'e. Kłapią ostrymi szczękami i wymachują ostrymi ogonami. Gdybym ich nie odstraszał, nasza gromadka straciłaby już parę pomponów!" }
   ]
 }

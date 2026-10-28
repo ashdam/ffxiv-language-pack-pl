@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll012_01467",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "" }
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "Mimio chce pochwalić twoją pracę wśród rozmaitych społeczności Eorzei i poprosić o dalszą pomoc." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "Poruczniczka Mimio Mio wyraża wdzięczność za twoje dokonania, które położyły podwaliny pod możliwy trwały pokój ze zwierzoludami Eorzei. Wysoko ceni twoje zdolności dyplomatyczne i prosi o pomoc w ważnym zadaniu. O szczegóły zapytaj porucznika Gavina z gridaniańskiego Zakonu Dwóch Żmij." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "Porucznik Gavin z otuchą przyjmuje twoją obecność, słyszał bowiem o twoich dokonaniach na rzecz pokoju ze zwierzoludami. By dowiedzieć się więcej o zadaniu, które chce ci powierzyć Zakon Dwóch Żmij, porozmawiaj z nim ponownie." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "Porozmawiać z Gavinem w Gnieździe Żmij w Gridanii" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> <split(<string(gstr1)>, ,2)>)>)>! Opowieści o twoich dokonaniach wśród jaszczuroludzi rozchodzą się po tych salach niczym pożar." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "W tej krainie nie brakuje poszukiwaczy przygód zdolnych zabić jednego czy dwóch zwierzoludów. Lecz takich, którzy mają zdolności i chęci, by torować drogę do pokoju, jest bardzo niewielu." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "...Lepiej trafić się nie dało. Zakon Dwóch Żmij szuka kogoś obdarzonego talentem dyplomatycznym, a nie widzę nikogo, kto nadawałby się lepiej." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "Naszym kontaktem w Gridanii jest porucznik Gavin. Odszukaj go w Gnieździe Żmij, a przedstawi ci szczegóły misji." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "Naszym kontaktem w Gridanii jest porucznik Gavin. Odszukaj go w Gnieździe Żmij, a przedstawi ci szczegóły misji." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! Ileż bym dał, by przy kuflu miodu pitnego posłuchać o <if(gnum4,pani,pana)> przygodach ze zwierzoludami!" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "...Obawiam się jednak, że dziś naszej uwagi wymagają pilniejsze sprawy. Gdy przyjdzie pora na odprawę, proszę tylko dać znać." }
   ]
 }

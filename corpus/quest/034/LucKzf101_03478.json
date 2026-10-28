@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf101_03478",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_00", "hash": "C963D8C27B5B5C59", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja misji<edgecolortype(0)><colortype(0)><br>Lanille pragnie obdarzyć cię błogosławieństwem." },
+    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_00", "hash": "C963D8C27B5B5C59", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Lanille pragnie obdarzyć cię błogosławieństwem." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_01", "hash": "2E99C0EA7278AC37", "target": "Viis odprawią obrzęd, podczas którego poproszą leśnych bogów o ochronę. Mistrzyni ceremonii Lanille wyznacza cię na świadka modłów. Pokornie przyjmujesz ten zaszczyt. Prosi cię o udanie się do Gwiazd Poranka i rozmowę z jej uczennicą Phyną." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_02", "hash": "8C3701B678B1CC59", "target": "Phyna cieszy się z twojego udziału, jej siostra Ciuna znacznie mniej. Mimo jej zastrzeżeń Phyna wyjaśnia przebieg ceremonii. Kończy ją próba siły przeciw ucieleśnieniu ducha lasu. Pokonany duch zanosi modlitwy do niebios. Siostry rozpoczynają modły, ale rytuał przebiega niewłaściwie. Gdy kończą inkantację, pojawia się nie jeden, a dwa gwałtowne duchy przeciwnych żywiołów." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_03", "hash": "ADC7568D7EF6AE42", "target": "Bez większego trudu odsyłasz duchy do lasu, ale Ciuna wydaje się przerażona tym, co zobaczyła." },

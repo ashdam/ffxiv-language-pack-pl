@@ -2,19 +2,19 @@
   "conversation": "custom/001/RegSeaCampOverlook_00117",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_000", "hash": "558E2BF5DBB83CB8", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_010", "hash": "39D0F899F852EF23", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_011", "hash": "37D31B5A555508F3", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_012", "hash": "D0FA4A9534DDA00D", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_100_012", "hash": "345D7AADBC8F2053", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_020", "hash": "E1439038F460475A", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_021", "hash": "7CEC92ECB6EF8719", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_030", "hash": "ED11A73E2FBE5855", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_031", "hash": "EB385BC27DB4B0AE", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_032", "hash": "9C02E62C15E9D64A", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000", "hash": "DDCFBCDF91894454", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_001", "hash": "B69075E94E12B079", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_002", "hash": "7AB1A867E9152A2B", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_003", "hash": "B1BFF7D2FBDA37E5", "target": "" }
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_000", "hash": "558E2BF5DBB83CB8", "target": "Co tam, kwiatuszku? Masz do mnie pytanie?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_010", "hash": "39D0F899F852EF23", "target": "Nazwa „Czerwone Jaskółki” nic ci nie mówi? To my jesteśmy najtwardszą, najwredniejszą bandą zabijaków w całym cholernym Maelstromie." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_011", "hash": "37D31B5A555508F3", "target": "Może i wywodzimy się głównie z, eee, „korsarzy”, ale każdemu z moich towarzyszy z Jaskółek bez wahania powierzę osłanianie moich pleców z ostrzem w dłoni." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_012", "hash": "D0FA4A9534DDA00D", "target": "I co z tego, że pokład statku zamieniliśmy na szczyt klifu─dopóki mogę porządnie powalczyć, wszystko jest jak należy." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_100_012", "hash": "345D7AADBC8F2053", "target": "I co z tego, że pokład statku zamieniliśmy na szczyt klifu─dopóki robię swoje dla Limsy, wszystko jest jak należy." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_020", "hash": "E1439038F460475A", "target": "To front naszej walki z ludem Kobold. Ze szczytu klifu możemy podglądać wszystkie ich poczynania─dlatego to miejsce nazywa się „Overlook”. Sprytne, co?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_021", "hash": "7CEC92ECB6EF8719", "target": "Te małe dranie muszą się pieprzyć jak coeurle w rui, bo ciągle ich przybywa. Wciąż przesuwają granice na południe, wciąż się krzątają w poszukiwaniu kolejnej porcji żarcia i rudy. Patrz pod nogi, złotko, bo jeszcze któregoś rozgnieciesz butem." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_030", "hash": "ED11A73E2FBE5855", "target": "To front naszej walki z ludem Kobold. Ze szczytu klifu możemy podglądać wszystkie ich poczynania─dlatego to miejsce nazywa się „Overlook”. Sprytne, co?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_031", "hash": "EB385BC27DB4B0AE", "target": "Tyle że sytuacja zaczyna się zmieniać za sprawą pokoju, który admirał zawarła z Drugim Porządkiem." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_032", "hash": "9C02E62C15E9D64A", "target": "Współpracujemy z nimi, wypatrując ich zniewolonych pobratymców i lecząc drani, kiedy się da. Nie zawsze serce wali od emocji, ale wciąż chronimy Limsę, a to ostatecznie się liczy." },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000", "hash": "DDCFBCDF91894454", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_001", "hash": "B69075E94E12B079", "target": "Co tu robisz?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_002", "hash": "7AB1A867E9152A2B", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegSeaCampOverlook_00117#TEXT_REGSEACAMPOVERLOOK_00117_A1_000_003", "hash": "B1BFF7D2FBDA37E5", "target": "Nic." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/000/ComDefSanction_00086",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "" }
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "Jestem urzędnikiem odpowiedzialnym za przyznawanie naszym członkom statusu „Sankcja”. Ponieważ nie należy <if(gnum4,pani,pan)> do naszej organizacji, niestety nie może <if(gnum4,pani,pan)> skorzystać z tej usługi." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "Jestem urzędnikiem odpowiedzialnym za przyznawanie statusu „Sankcja” osobom w randze <switch(lnum1,starszego sierżanta Maelstromu,starszego sierżanta Żmii,starszego sierżanta Płomieni)> lub wyższej. Czym mogę dziś służyć?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "Co chcesz zrobić?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "Otrzymaj status „Sankcja”." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "Zapytaj o status „Sankcja”." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "Nic." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "Wysłuchaj mnie, o Mądry Budowniczy! Obdarz swą boską łaską tę wierną ci osobę!" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "Stało się─nasza organizacja obdarzyła <if(gnum4,panią,pana)> statusem „Sankcja”. Modlę się o wszelką pomyślność dla <if(gnum4,pani,pana)> na polu walki." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "Aby zapewnić naszym ludziom lepszy ekwipunek, najwybitniejsze umysły organizacji <switch(lnum1,Maelstrom,Zakon Dwóch Żmij,Nieśmiertelne Płomienie)> oraz Sojuszu Eorzejskiego połączyły siły, opracowując zaawansowaną metodę ulepszania wyposażenia." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "Rezultatem jest „Sankcja”, proces polegający na rzucaniu rozmaitych zaklęć wzmacniających na ekwipunek wykonany specjalnie z myślą o przechowywaniu takich zaklęć." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "Organizacja <switch(lnum1,Maelstrom,Zakon Dwóch Żmij,Nieśmiertelne Płomienie)> przeznaczyła ostatnio dodatkowe środki na wytwarzanie takiej broni i zbroi. Przedmioty przystosowane do statusu „Sankcja” są dostępne dla osób w randze <switch(lnum1,starszego sierżanta Maelstromu,starszego sierżanta Żmii,starszego sierżanta Płomieni)> lub wyższej w zamian za pieczęcie kompanii." }
   ]
 }

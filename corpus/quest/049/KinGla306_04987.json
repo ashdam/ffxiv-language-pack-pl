@@ -6,7 +6,7 @@
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_01", "hash": "EB96B42A14365575", "target": "Xeerol Ja zleca ci przygotowanie Prickly Pear Juice.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 260. Dostarczenie przedmiotów o wartości co najmniej 530 zapewni większe nagrody." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_02", "hash": "A6B567B7044F1B48", "target": "Dostarczasz Prickly Pear Juice do Xeerol Ja. Do degustacji zostało jeszcze trochę czasu, który możesz poświęcić na doskonalenie rzemiosła." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_TODO_00", "hash": "27E272CA0B1804EF", "target": "Dostarczyć Prickly Pear Juice do Xeerol Ja" },
-    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_000", "hash": "D6D5691B87AD1360", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Long Road to Xak Tural”." },
+    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_000", "hash": "D6D5691B87AD1360", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Długa droga do Xak Tural”." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_HALNARUK_100_000", "hash": "DCA513BFF60D8CA6", "target": "Pfff... Pfffkohhh! Xeerol Ja ma chyba lekkie serce! Dzięki soczystemu miąższowi Halnaruka, tak?" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_010", "hash": "39BDD0039A72E73A", "target": "Doskonałe wyczucie chwili, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_011", "hash": "0703AD1DBFD1C71B", "target": "Mam pomysł na próbny napój dla ludu Pelupelu. Masz wolną chwilę?" },
@@ -54,6 +54,6 @@
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_060", "hash": "6C0F64DCFA5A4957", "target": "Nasza własna degustacja! Nie mogę się doczekać─och, tyle trzeba zrobić! Zostaw mi planowanie─wkrótce odezwę się ze szczegółami!" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_061", "hash": "9AD8CD5DC479F964", "target": "Xeerol Ja jest zachwycona twoimi staraniami. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,dostawczynię,dostawcę)> panaceum dla Pelupelu<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_062", "hash": "18D684C8C9006B55", "target": "Kolejne zadanie będzie dostępne u Xeerol Ja po osiągnięciu poz. 100 klasą Alchemist lub Culinarian." },
-    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_063", "hash": "E99845CBD135E1FD", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „The Protector and the Destroyer”." }
+    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_063", "hash": "E99845CBD135E1FD", "target": "Aby podjąć kolejne zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Obrońca i niszczyciel”." }
   ]
 }

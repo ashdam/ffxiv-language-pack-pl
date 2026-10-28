@@ -37,7 +37,7 @@
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_GRAHATIA_000_072", "hash": "5DE298E05922AB9D", "target": "Podobnie jak te napotkane wcześniej, z pewnością zaatakują każdego, kto podejdzie za blisko." },
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_GRAHATIA_000_073", "hash": "40C5E47160A5D2C2", "target": "Unikajmy ich więc i poszukajmy takich, które wyglądają bardziej przystępnie." },
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_SYSTEM_000_080", "hash": "A78E23A3D3ADDCDA", "target": "W okolicy widzisz tylko patrolujące maszyny. Chyba nie są skłonne do pokojowych kontaktów." },
-    { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_POPMESSAGE_000_090", "hash": "A8D078BE1C354296", "target": "Atakują cię!" },
+    { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_POPMESSAGE_000_090", "hash": "A8D078BE1C354296", "target": "Ktoś cię atakuje!" },
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_BALLOON_000_095", "hash": "C599280FEA6A20B3", "target": "\\<pik> \\<bip>" },
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_BALLOON_000_096", "hash": "2357EC33C663CBF7", "target": "Witaj, witaj. Witaj, witaj." },
     { "gameKey": "quest/044/AktKmg110_04459#TEXT_AKTKMG110_04459_BALLOON_000_100", "hash": "D9D2F93320FDEC68", "target": "Wyłączanie... Bzzzt..." },

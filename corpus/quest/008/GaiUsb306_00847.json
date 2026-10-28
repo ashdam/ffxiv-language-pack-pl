@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb306_00847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_00", "hash": "8B66E4EEAF44DB31", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_01", "hash": "2E914DFAA788D414", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_02", "hash": "2D5E24087292F8A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_03", "hash": "BEBF054733F4261B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_TODO_00", "hash": "067E811B0D90515E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_TODO_01", "hash": "F12127E02A02BACB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_000", "hash": "62872B3ADE400622", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_001", "hash": "F37CB3D03EEAE728", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_020", "hash": "D3E1A0D2B62953FA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_031", "hash": "5F9F304AEE3EC6E4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_032", "hash": "D5EE750AEF4160E2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_033", "hash": "73EA69D4E22CFD5C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_034", "hash": "73DD628B056A604E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_035", "hash": "AC98687EA1ED68AD", "target": "" }
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_00", "hash": "8B66E4EEAF44DB31", "target": "Drest uspokoił się i chce teraz porozmawiać." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_01", "hash": "2E914DFAA788D414", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Drestem w Przeciętym Rzemieniu.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_02", "hash": "2D5E24087292F8A4", "target": "Udaje ci się oprawić cztery stworzenia jungle coeurls. Dostarcz ich skóry Drestowi." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_SEQ_03", "hash": "BEBF054733F4261B", "target": "Pustelnik wyznaje, że jest dezerterem z cesarskiej armii, choć sam nie jest Garleańczykiem. Cesarstwo podbiło jego ojczyste ziemie, a on nie żywi urazy do mieszkańców Eorzei. Mimo to nie miał wyboru i musiał przybyć na Vylbrand, gdzie teraz pracuje w ukryciu, by pewnego dnia móc wrócić do domu." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_TODO_00", "hash": "067E811B0D90515E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Drestem w Przeciętym Rzemieniu<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_TODO_01", "hash": "F12127E02A02BACB", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Drestem w Przeciętym Rzemieniu<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_000", "hash": "62872B3ADE400622", "target": "Masz... masz dzieci? Ja mam... syna i córkę. Byli tacy mali, gdy wyjeżdżałem... Pewnie myślą, że nie żyję." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_001", "hash": "F37CB3D03EEAE728", "target": "Od lat oszczędzam, żeby... jakoś opłacić powrót do domu. Ale... wciąż za mało. Może... może udałoby ci się przynieść skóry stworzeń jungle coeurls? Mógłbym... mógłbym je sprzedać. Ja tylko... chcę wrócić do domu..." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_020", "hash": "D3E1A0D2B62953FA", "target": "Proszę... Nawet kilka skór by pomogło..." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_031", "hash": "5F9F304AEE3EC6E4", "target": "Ty... <if(gnum4,pomogłaś,pomogłeś)> mi. Nawet po tym, co moi towarzysze i ja zrobiliśmy twojej ojczyźnie..." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_032", "hash": "D5EE750AEF4160E2", "target": "Byliśmy na misji zwiadowczej, gdy Maelstrom nas zaskoczył. Próbowaliśmy uciec, ale pozostali... N-Nikt więcej nie przeżył." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_033", "hash": "73EA69D4E22CFD5C", "target": "Nie prosiłem się o to, do cholery! Nawet nie jestem Garleańczykiem! Podbili moje ziemie, tak jak próbowali podbić twoje!" },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_034", "hash": "73DD628B056A604E", "target": "Ja... nie chcę umrzeć w jakiejś przeklętej dżungli na drugim końcu świata..." },
+    { "gameKey": "quest/008/GaiUsb306_00847#TEXT_GAIUSB306_00847_DREST_000_035", "hash": "AC98687EA1ED68AD", "target": "Chcę tylko wrócić do domu..." }
   ]
 }

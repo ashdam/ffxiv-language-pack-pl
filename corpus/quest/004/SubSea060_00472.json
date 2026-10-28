@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea060_00472",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "" }
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "Pomarańcze z La Noscei należące do Bhirdraega dojrzały i czekają na zbiór." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "Bhirdraeg prosi o zebranie dojrzałych pomarańczy z La Noscei. Podlegli mu krewcy piraci wolą obijać sobie gęby niż zbierać owoce, więc praca przypada tobie." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "Udało się zebrać dość pomarańczy. Zanieś je Bhirdraegowi." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "Wybryki piratów zasiały ziarno niezgody wśród miejscowych sadowników. Wygląda na to, że pani admirał sama zaplątała się w te chwasty." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "Zebrać pomarańcze z La Noscei" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "Dostarczyć pomarańcze Bhirdraegowi" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "Ech, nawet przy zbiorze dojrzałych pomarańczy nie mogę liczyć na tych parszywych piratów." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "A jeśli zostawię je jeszcze na dzień, zaczną spadać z gałęzi." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "Może zbierzesz dla mnie kilka? Chyba nie boisz się paru natrętnych szerszeni?" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "Spójrz na te dorodne pomarańcze pełne soku! W każdej chwili mogą spaść!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "Ach, idealnie dojrzałe! Co za słodycz!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "Jeśli tych leniwych piratów na emeryturze dopadnie szkorbut, dobrze im tak!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "Widać starego wilka morskiego nowych sztuczek nie nauczysz. Pani admirał powinna to wiedzieć!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "W uszach rozbrzmiewa nieznośne brzęczenie!" }
   ]
 }

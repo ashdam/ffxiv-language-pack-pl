@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_00", "hash": "49FA46691CA7E668", "target": "Drest zdaje się lepiej panować nad zmysłami." },
-    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_01", "hash": "8A8A86DC508F5137", "target": "By wyrazić wdzięczność Shamani Lohmani, Drest prosi cię o dostarczenie trzech kokosów z winem palmowym, słodkim trunkiem z naturalnie sfermentowanego soku drzewnego. Zbierz trzy kokosy, które zostawił przy Wodospadach Czerwonej Modliszki." },
-    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_02", "hash": "B0E5564FE4783C5B", "target": "Bez trudu odnajdujesz wino palmowe Dresta. Dostarcz dary Shamani Lohmani w Wineport." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_01", "hash": "8A8A86DC508F5137", "target": "By wyrazić wdzięczność Shamaniemu Lohmaniemu, Drest prosi cię o dostarczenie trzech kokosów z winem palmowym, słodkim trunkiem z naturalnie sfermentowanego soku drzewnego. Zbierz trzy kokosy, które zostawił przy Wodospadach Czerwonej Modliszki." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_02", "hash": "B0E5564FE4783C5B", "target": "Bez trudu odnajdujesz wino palmowe Dresta. Dostarcz dary Shamaniemu Lohmaniemu w Wineport." },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_03", "hash": "CC4597618B8E9E5B", "target": "Niewidomy winiarz natychmiast rozpoznaje wino palmowe swoim nienagannym węchem. Wdzięczny za ten gest, rozmyśla o podobieństwie między sobą a udręczonym mężczyzną. Następnie Shamani Lohmani dziękuje ci za opiekę nad Drestem i postanawia spędzać z nim więcej czasu." },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_00", "hash": "023115E07AE92E8C", "target": "Zebrać wino palmowe" },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_01", "hash": "77EE40501699E5C2", "target": "Dostarczyć wino palmowe Shamani Lohmani" },

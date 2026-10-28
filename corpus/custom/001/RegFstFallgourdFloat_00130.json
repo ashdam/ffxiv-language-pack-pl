@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegFstFallgourdFloat_00130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000", "hash": "AE833D50A4011BB1", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010", "hash": "BE89627BFC095C4C", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_011", "hash": "5F242B5412963C21", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_012", "hash": "5AF9E298D7BFA9E4", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_020", "hash": "8E165E6F6F6617AC", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_021", "hash": "08E8871B9E8BFF83", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_022", "hash": "2DD0D25586037264", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_Q1_000_000", "hash": "C4092632B7A19342", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_001", "hash": "A96A4925EA5F98FD", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_002", "hash": "E539DFF1ED1B4C78", "target": "" },
-    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_003", "hash": "CDFB1BF64356328D", "target": "" }
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000", "hash": "AE833D50A4011BB1", "target": "Witam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód. Czy potrzebuje <if(gnum4,pani,pan)> czegoś ode mnie?" },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010", "hash": "BE89627BFC095C4C", "target": "Jestem zaklinaczem ze Świątyni Cichej Polany. Przysłano mnie tutaj, bym pomagał miejscowemu Słuchaczowi przekazywać ludziom wolę żywiołaków." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_011", "hash": "5F242B5412963C21", "target": "Katastrofa pozostawiła głębokie rany w Lesie Dwunastu. Aby odbudować okolicę bez nadmiernego utrudniania jego odnowy, postanowiono założyć tu nową osadę, na wodzie." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_012", "hash": "5AF9E298D7BFA9E4", "target": "Dzięki temu nie musieliśmy naruszać lasu bardziej, niż było to konieczne. A drewno, którego <italic(1)>rzeczywiście<italic(0)> potrzebowaliśmy, pozyskiwano oszczędnie i z należytą rozwagą. Tak zachowujemy harmonię między człowiekiem a żywiołakiem─harmonię, którą mam zaszczyt wspierać." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_020", "hash": "8E165E6F6F6617AC", "target": "Jak <if(gnum4,pani sama,pan sam)> bez wątpienia widzi, Fallgourd Float to osada zbudowana na wodzie." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_021", "hash": "08E8871B9E8BFF83", "target": "Leży przy trakcie prowadzącym do Coerthas i jest popularnym przystankiem kupców zmierzających na północ. Wszystkich podróżnych gorąco zachęcamy, by zaznali słynnej gościnności zajazdu Bobbing Cork." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_022", "hash": "2DD0D25586037264", "target": "Niestety liczba gości ostatnio zmalała. Utrzymanie prowadzących tu dróg i mostów w dobrym stanie okazało się niezwykle pracochłonne, a podróż do Coerthas stała się niebezpieczna." },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_Q1_000_000", "hash": "C4092632B7A19342", "target": "O co zapytasz?" },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_001", "hash": "A96A4925EA5F98FD", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_002", "hash": "E539DFF1ED1B4C78", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/001/RegFstFallgourdFloat_00130#TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_003", "hash": "CDFB1BF64356328D", "target": "Nic." }
   ]
 }

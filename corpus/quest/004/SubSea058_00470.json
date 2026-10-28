@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea058_00470",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "" }
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "Ostfyr chce zapewnić bezpieczeństwo podróżnym przy Posterunku La Thagran, pozbywając się groźnych stworzeń z okolicy." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "Okolice Rzeki Łotrów stały się ostatnio wyjątkowo niebezpieczne. Zniszcz trzy gniazda yarzonów i zabij stworzenia, które z nich wyjdą." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "Populacja yarzonów nad Rzeką Łotrów znacznie się zmniejszyła. Wróć do Posterunku La Thagran i powiadom Ostfyra, że stworzenia nie będą już zagrażać podróżnym." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "Żółte Kurtki mają za mało ludzi do obrony Posterunku La Thagran, a w sąsiednich rejonach również brakuje rąk do pracy. Potrzebują twojej pomocy." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "Wypłoszyć yarzony z gniazd i zabić je" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "Złożyć raport Ostfyrowi" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "Z każdym dniem przez te bramy przechodzi coraz więcej zakrwawionych i posiniaczonych podróżnych." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "Mówią, że nad Rzeką Łotrów napadają na nich yarzony. Ciężko mi siedzieć bezczynnie, ale do utrzymania garnizonu potrzebujemy każdego człowieka." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "Przysłużysz się nam wszystkim, jeśli przerzedzisz szeregi yarzonów. Oczyść, powiedzmy, trzy ich gniazda, a będziemy twoimi dłużnikami." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "A więc robactwo załatwione? Każdy przejeżdżający tędy podróżny ma u ciebie dług wdzięczności." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "La Thagran to ważny punkt obronny. Maelstrom sam by go strzegł, gdyby miał dość ludzi. Flota działa na zbyt wielu frontach, dlatego wezwano Żółte Kurtki." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "Ale nasze siły też mają swoje granice. Twoja pomoc wiele znaczy dla utrzymania pokoju." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "Rozwścieczone yarzony wypadają z gniazda!" }
   ]
 }

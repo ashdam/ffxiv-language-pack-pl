@@ -2,17 +2,17 @@
   "conversation": "quest/036/BanPix102_03690",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_SEQ_00", "hash": "EB36809AE1C1C3CA", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_00", "hash": "ADD25C51601BAFD4", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_01", "hash": "7306058CBC03D1AC", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_001", "hash": "6C59F910B96316D3", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_002", "hash": "71A5ED096C10594D", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_003", "hash": "A5CC0112F6036432", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_004", "hash": "C2C295227B089652", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_030", "hash": "8038C8F19868D5EA", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_031", "hash": "D7F8DC7D26023071", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_032", "hash": "0711653648F35A59", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_033", "hash": "8B236655981590A7", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_034", "hash": "687E3CA3E1EE220D", "target": "" }
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_SEQ_00", "hash": "EB36809AE1C1C3CA", "target": "Uin Nee chce wypełnić dziecięce sny kwiatami.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_00", "hash": "ADD25C51601BAFD4", "target": "Wytropić i schwytać stwora bitsy basket we wskazanym miejscu" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_01", "hash": "7306058CBC03D1AC", "target": "Dostarczyć mały koszyk kwiatowy Uin Nee" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_001", "hash": "6C59F910B96316D3", "target": "Och, czyż nie są urocze? Jaskrawe kwiaty wszystkich barw wyrastają ze splecionych gałęzi─istne obfite bukiety, które ożyły! Widzujesz je przecież, jak przechadzają się tutaj, w Lydha Lran?" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_002", "hash": "71A5ED096C10594D", "target": "Po prostu <italic(1)>wiem<italic(0)>, że dzieci pokochałyby je równie mocno jak ja. Gdyby nie jeden maleńki szkopuł. Otóż mają paskudny zwyczaj deptać mniejsze stworzenia─z pewnością nieumyślnie─i miażdżyć je potężnymi pniami, które służą im za stopy." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_003", "hash": "A5CC0112F6036432", "target": "I wtedy przyszła mi myśl! Przecież wystarczy utkać czar, który je pomniejszy! Dokładnie tak się stało! Niestety, zadziałał <italic(1)>tak<italic(0)> dobrze, że umknęła mi nawet ucieczka jednego z tych malutkich stworzeń!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_004", "hash": "C2C295227B089652", "target": "Po prostu <italic(1)>nie zniosę<italic(0)>, jeśli dzieci będą musiały dłużej czekać! Wytropisz moje maleńkie dzieło i mi je przyniesiesz, tak? Tak? A jeśli będzie stawiać opór, śmiało stuknij je raz czy dwa w głowę, żeby przypomnieć o dobrym zachowaniu!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_030", "hash": "8038C8F19868D5EA", "target": "O, <if(gnum4,moja ulubiona śmiertelniczka,mój ulubiony śmiertelnik)>! Udało ci się schwytać mój kochany koszyczek? Bo jeśli nie, może przyjdzie mi znaleźć <italic(1)>nową<italic(0)> ulubioną osobę wśród śmiertelników." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_031", "hash": "D7F8DC7D26023071", "target": "Ojej... spójrz na te poobijane gałęzie. Chyba nie poddał się bez walki. Ale bez obaw! Och, ani trochę się nie martw! Moja magia naprawi go jak nowego w mgnieniu skrzydeł!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_032", "hash": "0711653648F35A59", "target": "Pomyśleć, że ta maluteńka wersja jest tak żwawa, podczas gdy większe rodzeństwo ma takie spokojne usposobienie. Czyżby mniejsze stworzenia chętniej biegały i skakały bez ładu i składu?" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_033", "hash": "8B236655981590A7", "target": "Dopiero co próbował zasadzić na sobie nowy kwiat. Gdy zapach zwabił ciekawego robaczka, koszyk zupełnie zapomniał o kwiatku i pogonił za owadem przez pola. Tam zobaczył <italic(1)>kolejny<italic(0)> kwiat i... jakby nie potrafił skupić się na niczym dłużej niż przez chwilę!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_034", "hash": "687E3CA3E1EE220D", "target": "Ale o czym to ja mówię? Zresztą nieważne. Pora tkać sny o moim kwiecistym przyjacielu. Pomożesz mi, jeśli znów ucieknie, prawda?" }
   ]
 }

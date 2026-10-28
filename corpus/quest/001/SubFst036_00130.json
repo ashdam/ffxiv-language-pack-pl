@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubFst036_00130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "" }
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "Gabineaux, znany z Chaty Gabineaux, potrzebuje godnego zaufania poszukiwacza przygód do ograniczenia rosnącej populacji microchu." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "Gabineaux nie posiada się z gniewu, gdy opowiada o występkach microchu. Zabij osiem tych wysysających składniki odżywcze szkodników, aby przynieść ulgę ziemi i zatroskanemu Gabineaux." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "Osiem microchu nie żyje. Zdaj raport Ealdfrithowi przed Chatą Gabineaux." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "Mniej microchu czerpie teraz pożywienie z gleby, więc drzewa powinny normalnie rosnąć. Pozostaje mieć nadzieję, że uwolni to Gabineaux od trawiącego go gniewu." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "Zabić osiem microchu" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "Zdać raport Ealdfrithowi w Chacie Gabineaux" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "Ach, to ty, <split(<string(gstr1)>, ,1)>! Po tym <italic(1)>łomocie<italic(0)>, jaki dostały od ciebie te piekielne funguary, sądzę, że możesz rozwiązać jeszcze jeden mój problem: microchu!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "Te wstrętne małe bestie czerpią pożywienie prosto z gleby. Zwykle las chętnie się nim dzieli, ale teraz jest ich po prostu za cholernie dużo!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "Tak dużo, że wysysają z ziemi ostatnie składniki odżywcze! Myślicie, że ta gleba jest tylko dla was i waszych kumpli microchu!? Grr! Powinienem tam pójść i... i... cóż, sam nie wiem, co powinienem zrobić─ale ktoś na pewno musi coś zrobić! I to zaraz! Z<-->Zanim ja─" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "P... Przepraszam. Ten gniew mnie ogarnia i potrafię tylko kipieć i się jąkać. Będę ci dozgonnie wdzięczny, jeśli zdołasz wytępić z osiem tych niszczycieli gleby." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "Gdy uporasz się z microchu, proszę, zdaj raport Ealdfrithowi. Znajdziesz go tuż przed chatą. Słyszałem, że stan gleby martwi go równie mocno jak mnie. Na pewno ucieszy go wiadomość, że problem został rozwiązany." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "Mówisz, że sporo tych microchu już nie żyje? To naprawdę dobra wiadomość!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "Bałem się, że stary Gabineaux chwyci za siekierę i sam ruszy rąbać te szkodniki! Może teraz wreszcie zazna spokoju. Dziękuję ci." }
   ]
 }

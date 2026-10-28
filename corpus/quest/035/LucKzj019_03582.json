@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzj019_03582",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "" }
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Amshs Aath szuka kogoś spośród sprawnych Bezpłetwich, kto upoluje za niego groźną bestię." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "Wywabić amphisbaena za pomocą mięsa kraba" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "Zaczaić się na amphisbaena i zabić ją, by zdobyć łuski" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "Dostarczyć łuski amfisbeny Amshsowi Aathowi" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "A kogo my tu mamy? <if(gnum4,Bezpłetwą,Bezpłetwego)>! Poświęć chwilę słabemu aath, <if(gnum4,dostojna przybyszko,dostojny przybyszu)>, jeśli łaska." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "My, Ondo, opiekujemy się tymi i innymi pradawnymi ruinami. To niebezpieczny los, bo wiele morskich stworzeń chciałoby nas stąd przepędzić i zamieszkać na naszym miejscu. Dlatego nosimy pancerze, by chronić ciała przed ich ciosami." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "Łuski amfisbeny to jeden z materiałów, z których robimy wyposażenie. Zabij jedną i przynieś mi jej łussski, bym mógł pomóc młodym koal dożyć następnego dnia." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "To drapieżniki, które wykorzystują każdą okazję. Wolą pozostać w ukryciu, aż wyczują potencjalną zdobycz. Wywab jedną mięsem kraba, a potem oszołom ją tą migoczącą kulą." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "Chętnie poszedłbym z tobą na polowanie, ale obawiam się, że w moim wieku równie dobrze mógłbym zostać kolejnym posiłkiem amfisbeny. Musisz sobie poradzić bez mojej pomocy, <if(gnum4,Bezpłetwa,Bezpłetwy)>. Mam tylko nadzieję, że kula wystarczy, by zapewnić ci zwycięstwo." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "Ach, <if(gnum4,Bezpłetwa łowczyni,Bezpłetwy łowca)>. Masz łussski, o które prosiłem?" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "Dobrze, bardzo dobrze. Właśnie takich potrzebujemy, by zrobić młodym mocne, sssolidne pancerze." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "Dawniej stronilibyśmy od takich środków, ciężkich i nieporęcznych. Ale musimy przywyknąć do życia poza wodą, a to oznacza stosowanie metod, które wy, Bezpłetwi, cenicie..." }
   ]
 }

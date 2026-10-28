@@ -2,16 +2,16 @@
   "conversation": "quest/035/LucKzh002_03512",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "" }
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Hilmar oferuje dobrą zapłatę za pozornie proste zadanie." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "Napełnić lampy górnicze olejem o ostrej woni" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "Zdać relację Hilmarowi" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "Masz coś do roboty? Chyba nie." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "Płacę za napełnienie lamp. Pasuje?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "Są cztery. Oto olej. Wróć do mnie, jak skończysz." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "Jeśli łaska, chciałbym mieć to zrobione już." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "Wreszcie koniec. Gnomy nie przeszkadzały?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "Ostatnio jest ich chyba coraz więcej. Nawet napełnianie lamp to przez nie utrapienie." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "Ale nie możemy pozwolić im powstrzymać nas od pracy. Kolejne ryzyko zawodowe." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "Tak czy siak, oto zapłata. Dobra robota, grzeszna duszo." }
   ]
 }

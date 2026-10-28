@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegWilArrzanethOssuary_00043",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_1", "hash": "2508BB9D0F023865", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000Q", "hash": "717827098BFF25BA", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A1", "hash": "29607C9B77AF6883", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A2", "hash": "6A9C3868E6AA8EF4", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A3", "hash": "01D22F8C901B9C0F", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_10", "hash": "B71909B8365CF8B0", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_11", "hash": "9DE2CA6EC78B825D", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_12", "hash": "32C30CE68E38F240", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_13", "hash": "EA560266FB7BEB21", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_20", "hash": "9B5B7CB00C73C743", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_21", "hash": "21314681DB56D936", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_22", "hash": "26DA59AFDB6FF521", "target": "" }
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_1", "hash": "2508BB9D0F023865", "target": "Witaj, <if(gnum4,podróżniczko,podróżniku)>. Jestem Yayaroku, kapłan zakonu Nald'thala. Co sprowadza cię w te uświęcone mury?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000Q", "hash": "717827098BFF25BA", "target": "O co zapytasz?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A1", "hash": "29607C9B77AF6883", "target": "Kim jest Nald'thal?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A2", "hash": "6A9C3868E6AA8EF4", "target": "Na czym polega ta praca?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A3", "hash": "01D22F8C901B9C0F", "target": "Nic." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_10", "hash": "B71909B8365CF8B0", "target": "Nald'thal, znany również jako Kupcy, jest sędzią zaświatów i handlu." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_11", "hash": "9DE2CA6EC78B825D", "target": "Jest pojedynczym wcieleniem bliźniaków Nalda i Thala. Każdy z nich czuwa nad odrębnym, lecz istotnym aspektem istnienia." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_12", "hash": "32C30CE68E38F240", "target": "Nald czuwa nad pomyślnością finansową żywych, a Thal waży wartość zmarłych." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_13", "hash": "EA560266FB7BEB21", "target": "Nasz zakon poświęca się kultowi Kupców. Dzielimy się tu mądrością z wiernymi i uczymy ich, jak osiągnąć cnotę w tym życiu, by mogli zaznać spokoju w następnym." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_20", "hash": "9B5B7CB00C73C743", "target": "Podobnie jak Kupcy, zakon Nald'thala ma dwa oblicza. Sanktuarium Milvaneth jest świątynią Nalda, a Ossuarium Arrzaneth świątynią Thala." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_21", "hash": "21314681DB56D936", "target": "Tutaj, w Ossuarium, przyjmujemy tych, którzy pragną zapewnić sobie miejsce u boku Thala. Cnotliwi spoczywają w Komorze Grobowej Erraliga, by bezpiecznie przejść do krainy umarłych." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_22", "hash": "26DA59AFDB6FF521", "target": "Ludzie mierzą cnotę na wiele sposobów, ale szale Thala najwyżej cenią bogactwo. Jeśli obawiasz się, że jeszcze ci czegoś brakuje, możesz w każdej chwili złożyć datek." }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "quest/038/LucKha011_03841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "" }
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "Gotowe, <split(<string(gstr1)>, ,1)>! The New Nest! Czyż to nie piękny widok?" },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "Postępy przekraczają moje najśmielsze nadzieje. To dzięki dobrym ludziom takim jak ty." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "Jak wiesz, ten obszar ma służyć za dzielnicę mieszkalną dla Ishgardczyków. Pierwszeństwo dostaną ci, którzy stracili domy podczas wojny." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "To od początku był główny cel Francela─sprawić, żeby żaden mieszkaniec nie marzł i nie głodował." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "Nie muszę chyba mówić, że nadal potrzebujemy zapasów. Dostarczaj je dalej, dobrze?" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea151_01142",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "" }
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "Szeregowa S'nairoh potrzebuje twojej pomocy w obronie Aleportu." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "Wszystko musi zdarzyć się pierwszy raz. Niestety dla S'nairoh, gdy po raz pierwszy poznaje smak wojny, ma za tarczę tylko kogoś z przechodzących poszukiwaczy przygód. Masz zabić pięć puk hatchling, podczas gdy ona przygotuje działo." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "Nieszczęsne puki leżą martwe zaledwie kilka godzin po opuszczeniu gniazda. Dziś najwyraźniej po obu stronach murów walczą nowicjusze, bo zwycięstwo przychodzi ci aż nazbyt łatwo. Zdaj sprawę S'nairoh." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "Stworzenia nie zagrażały Aleportowi. Przelewanie niewinnej krwi─choćby zwierzęcej─staje się dla ciebie swoistym ryzykiem zawodowym." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "Zabić puk hatchling" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "Zdać sprawę szeregowej S'nairoh" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "Uwaga, wróg na niebie! W-weź się w garść, szeregowa! P-przecież cię do tego szkolono─choć jedyne walki, jakie znasz, to uliczne bójki, karczemne bijatyki i mordobicia o oszustwa przy warcabach..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "Najpierw muszę przygotować działo. Przypomnę sobie kolejne kroki. Eee... właśnie! „Zapewnij sobie wsparcie, gdyż przygotowanie działa wymaga czasu”." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "Na razie idzie dobrze! Zawołam tylko C'mell i... C'mell? Ta dziewczyna! Nigdy jej nie ma, kiedy jest potrzebna. Dobrze, sierżant zawsze mówił, żeby improwizować!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "Hej, tam! Limsa Lominsa potrzebuje pomocy! Proszę powstrzymać wroga, a ja przygotuję działo. Będzie gotowe, zanim ostygnie piąte truchło, obiecuję!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "Gotowe do strzału! Dotrzymuję obietnic─a <italic(1)><if(gnum4,pani,pan)><italic(0)> najwyraźniej dba o wprawę w walce! Chwileczkę, właśnie dostałam depeszę..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "Co? <italic(1)>Nie<italic(0)> atakowały Aleportu? No to...! Co, nie jesteśmy dość ważni?<br>To były tylko młode? Cóż, trzeba być głupszym od wiadra kłaków, żeby w takich czasach lecieć prosto na stanowisko artylerii!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "Wszystko dobre, co się dobrze kończy. Ale... przyznaję, że chciałam wreszcie wykorzystać wyszkolenie w <italic(1)>prawdziwym<italic(0)> boju. Nie wstąpiłam do Maelstromu, żeby rozdzielać awanturników. A teraz muszę wyczyścić działo. \\<wzdycha>" }
   ]
 }

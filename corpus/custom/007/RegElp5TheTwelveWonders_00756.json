@@ -2,14 +2,14 @@
   "conversation": "custom/007/RegElp5TheTwelveWonders_00756",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_000", "hash": "248920A89C0EB76B", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_Q1_000_000", "hash": "C43BD22B388A1137", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_001", "hash": "F1FF6F66C0FC93AA", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_002", "hash": "A5166B209B8CE832", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_003", "hash": "FFE34EC2073CD3EB", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_010", "hash": "C9CCA92E2A8A8D54", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_011", "hash": "094D0F7752430D20", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_020", "hash": "A3D7AF25040F4479", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_021", "hash": "AEF4A0A1784EF21A", "target": "" }
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_000", "hash": "248920A89C0EB76B", "target": "Cóż za uroczy chowaniec! Z przyjemnością pomogę ci w tej małej wyprawie ku odkryciom i własnemu rozwojowi." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_Q1_000_000", "hash": "C43BD22B388A1137", "target": "O co zapytasz?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_001", "hash": "F1FF6F66C0FC93AA", "target": "Czym się tutaj zajmujesz?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_002", "hash": "A5166B209B8CE832", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_003", "hash": "FFE34EC2073CD3EB", "target": "O nic." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_010", "hash": "C9CCA92E2A8A8D54", "target": "Moim zadaniem jest utrzymanie instalacji Wonders, a tym samym klimatu w całym Elpis. Dbam, by każde środowisko odpowiadało potrzebom naszej flory, fauny... i personelu, rzecz jasna." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_011", "hash": "094D0F7752430D20", "target": "Odtwarzamy tu, w Elpis, środowiska z każdej części planety Etheirys, by dogłębnie poznać potencjał naszych konceptów. Utrzymanie odpowiedniej równowagi w każdym regionie to trudne zadanie─ale ze wszech miar warte wysiłku." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_020", "hash": "A3D7AF25040F4479", "target": "The Twelve Wonders to w pewnym sensie źródło pogody w Elpis. Stosujemy tu najnowszą sztukę zaklęć z Amaurot, by utrzymywać i regulować rozmaite klimaty, w których nasze stworzenia swawolą─w celach badawczych." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_021", "hash": "AEF4A0A1784EF21A", "target": "Oczywiście, jak w każdej innej części Elpis, również obserwujemy te koncepty i prowadzimy na nich eksperymenty. Być może ta rozmowa jest właśnie jednym z nich..." }
   ]
 }

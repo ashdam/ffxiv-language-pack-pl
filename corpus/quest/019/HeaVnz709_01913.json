@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz709_01913",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_00", "hash": "DCBEA37C9BFBE95E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_01", "hash": "A34160AE03D6F20A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_02", "hash": "ECD4598184DC4392", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_03", "hash": "7D6A2A39829967DC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_00", "hash": "E77941B8A1330808", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_01", "hash": "8D86BA7FF2C43917", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_000", "hash": "DCA551C30AF2680D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_001", "hash": "BBD795C073C90602", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_002", "hash": "A31336F0DDE5FFE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_010", "hash": "D2ED1D3962FA8494", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_020", "hash": "3131097A02BED90D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_021", "hash": "DAD3C1D02EB9E2FD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_00", "hash": "DCBEA37C9BFBE95E", "target": "Ganu Vali spogląda w niebo płonącym gniewem wzrokiem." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_01", "hash": "A34160AE03D6F20A", "target": "Ganu Vali opowiada ci o dokuczliwych młodzikach Vundu, którzy znęcają się nad młodymi Zundu. Odbierz łobuzom skrzydła, zabijając trzy ich wierzchowce sanuwa Vundu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_02", "hash": "ECD4598184DC4392", "target": "Wierzchowce sanuwa Vundu nie żyją. Może da to łobuzom Vundu do myślenia. Wróć do Ganu Vali i przekaż dobre wieści." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_03", "hash": "7D6A2A39829967DC", "target": "Przekazujesz Ganu Vali wieść o zwycięstwie. Wygląda na to, że młodzikom Vundu nie podoba się utrata środka transportu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_00", "hash": "E77941B8A1330808", "target": "Zabić sanuwa Vundu" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_01", "hash": "8D86BA7FF2C43917", "target": "Zdać raport Ganu Vali" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_000", "hash": "DCA551C30AF2680D", "target": "Bezczelni Vundu posuwają się za daleko! Pisklęta Ok' Zundu cierpią w gwałtownej burzy prześladowań!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_001", "hash": "BBD795C073C90602", "target": "Istota z dołu obroni pisklęta Ok' Zundu, pomoże rozproszyć dręczycieli Vundu na cztery wiatry. Ale nie wolno atakować Vundu bezpośrednio!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_002", "hash": "A31336F0DDE5FFE5", "target": "Jak wszyscy Vanu, Vundu latają na skrzydłach sanuwa Vundu. Zabij trzy, a Vundu stracą skrzydła, na których dręczą pisklęta Zundu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_010", "hash": "D2ED1D3962FA8494", "target": "Bez sanuwa Vundu łotry przestaną nękać pisklęta Zundu. Powal je jak rozwidlona błyskawica." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_020", "hash": "3131097A02BED90D", "target": "Istota z dołu sprowadza gniew na sanuwa i pogrąża Vundu w chaosie! Pisklęta Zundu ci dziękują!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_021", "hash": "DAD3C1D02EB9E2FD", "target": "Gniew Vundu na jakiś czas ucichnie, a pisklęta zaznają upragnionego spokoju. Niech łagodne wiatry prowadzą cię wśród plemienia!" }
   ]
 }

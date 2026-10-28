@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst037_00174",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_00", "hash": "08F012A3A1A223B4", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_01", "hash": "B5E3F718C776F89D", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_02", "hash": "F7032B1FC7F9B637", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_03", "hash": "3C8CFCA4F6145DAF", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_00", "hash": "F0995605DF606035", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_01", "hash": "F8644A555C8F4269", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_02", "hash": "E3DD4906D80A46D3", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_03", "hash": "C116D008E7CB5765", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_1", "hash": "CB7C21DA5B5D832E", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_2", "hash": "2E0774D116ABCF43", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_3", "hash": "1320E7D458F1813C", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_4", "hash": "E83DF72CB52F20D9", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_10", "hash": "DB2D3C1434CB6725", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_11", "hash": "CB140F812E486D3E", "target": "" }
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_00", "hash": "08F012A3A1A223B4", "target": "Guithrit chce skorzystać z usług poszukiwacza przygód w walce z plemieniem Ixal." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_01", "hash": "B5E3F718C776F89D", "target": "Leśny Płaczek Guithrit wyjawia, że zwiadowcy Ixal wtargnęli na ziemie Gridanii. Prosi o zabicie dwóch Ixali dulltalon, dwóch Ixali lostwing i dwóch Ixali slowbeak, zanim ptakoludzie zdołają zagrozić cywilom." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_02", "hash": "F7032B1FC7F9B637", "target": "Dokonujesz krwawej zemsty na zwiadowcach Ixal. Guithrit zechce usłyszeć o twoim sukcesie." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_03", "hash": "3C8CFCA4F6145DAF", "target": "Twoje działania na razie ograniczyły zagrożenie ze strony plemienia Ixal, ale wkrótce znów zacznie ono nękać mieszkańców Gridanii. Guithrit i jego przełożeni zamierzają wykorzystać ten krótki oddech, by znaleźć trwalsze rozwiązanie." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_00", "hash": "F0995605DF606035", "target": "Zabić Ixali dulltalon" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_01", "hash": "F8644A555C8F4269", "target": "Zabić Ixali lostwing" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_02", "hash": "E3DD4906D80A46D3", "target": "Zabić Ixali slowbeak" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_03", "hash": "C116D008E7CB5765", "target": "Zdać raport Guithritowi przed Wieżą E<-->Tatta" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_1", "hash": "CB7C21DA5B5D832E", "target": "Ach, <split(<string(gstr1)>, ,1)>─właśnie <if(gnum4,ciebie potrzebowałem,takiego człowieka potrzebowałem)>! Twoja pomoc dla Stajni Mowy Drzew dowodzi prawdziwego talentu. Jeśli ufasz swoim zdolnościom bojowym, może zgodzisz się pomóc nam w walce z plemieniem Ixal." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_2", "hash": "2E0774D116ABCF43", "target": "Według doniesień zwiadowców Ixal widziano nad rzeką, dokładnie na zachód stąd. Tamten obszar jest niezamieszkany, ale sąsiaduje ze Stajniami Mowy Drzew i Błogosławionym Pąkiem." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_3", "hash": "1320E7D458F1813C", "target": "Zamierzamy ich przepędzić, zanim zagrożą naszym ludziom. Gdyby kilka patroli zwiadowczych spotkał szybki koniec, ich wodzowie mogliby zwątpić w rozsądek swojego planu." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_4", "hash": "E83DF72CB52F20D9", "target": "Zabij dwóch Ixali dulltalon, dwóch Ixali lostwing i dwóch Ixali slowbeak. Pokaż im cenę za wkroczenie na nasze ziemie." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_10", "hash": "DB2D3C1434CB6725", "target": "To była krwawa robota, ale konieczna. Gridania nie zapomni twojej służby." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_11", "hash": "CB140F812E486D3E", "target": "Dzięki tobie mamy czas zaplanować następny ruch. Możemy zebrać siły i zaatakować ptakoludzi albo umocnić obronę przed ich powrotem. Muszę zasięgnąć rady dowódczyni." }
   ]
 }

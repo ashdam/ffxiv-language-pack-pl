@@ -2,8 +2,8 @@
   "conversation": "custom/007/FesHlw2021Entrance_00733",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_000", "hash": "44C1765B50FE134F", "target": "" },
-    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_001", "hash": "ACEAB94ACC89702D", "target": "" },
-    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_DUNGEON_CONFIRM", "hash": "59513B57507F7512", "target": "" }
+    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_000", "hash": "44C1765B50FE134F", "target": "Obawiam się, że jeszcze przygotowujemy ucztę. Proszę chwilę zaczekać!" },
+    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_001", "hash": "ACEAB94ACC89702D", "target": "Najstraszniej przepraszam za oczekiwanie. Czy chce <if(gnum4,pani,pan)> już udać się na bankiet? Pan Gruff niecierpliwie wyczekuje <if(gnum4,pani,pana)> przybycia." },
+    { "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_DUNGEON_CONFIRM", "hash": "59513B57507F7512", "target": "Wejść na ucztę Phantoms' Feast?" }
   ]
 }

@@ -92,7 +92,7 @@
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_ESUMIYAN_000_1009", "hash": "43BF0FEE7FF34ED7", "target": "<split(<string(gstr1)>, ,1)>, czy mogę prosić o pójście za nią...? Obawiam się, że moja obecność tylko bardziej ją rozdrażni." },
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_ESUMIYAN_000_1010", "hash": "95BE5BF7DC47F629", "target": "W takim osłabieniu nie mogła zajść daleko." },
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_QIB_TODO_001", "hash": "CDB31E51D55FBB7F", "target": "Zabij young antelope stags!" },
-    { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4C609B809857F88E", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Trial by Water”?" },
+    { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4C609B809857F88E", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Próba wody”?" },
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_YES", "hash": "4D1335A29CC17F9F", "target": "Tak" },
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_NO", "hash": "3363E7DCE9FC08EA", "target": "Nie" },
     { "gameKey": "quest/000/ClsCnj003_00092#TEXT_CLSCNJ003_00092_SYLPHIE_BATTLETALK_01", "hash": "E4FB70D49ECCE506", "target": "Ten żołnierz potrzebuje całej mojej uwagi.<br>Proszę, pomóż pozostałym Leśnym Płaczkom!" },

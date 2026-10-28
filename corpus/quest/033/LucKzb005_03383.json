@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzb005_03383",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "" }
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Bjorn potrzebuje twojej pomocy, by udzielić nowym rekrutom straży Crystarium ważnej lekcji." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "Zabić violet triffid i zdobyć pęd pełen soku" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "Dostarczyć pęd pełen soku Dawkesowi w Crystarium" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "Rozmowa z <if(gnum4,panią,panem)> to zaszczyt! Dokonania w Holminster Switch nadal są dla nas wszystkich natchnieniem. Wielu nowych rekrutów pragnie pójść <if(gnum4,pani,pańskim)> śladem." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "Niestety niewielu ma obecnie potrzebną siłę i umiejętności. Oczywiście nie chcą tego słuchać─woleliby rzucić się na zabłąkanych pożeraczy i wykazać się, zamiast przestrzegać naszego planu ćwiczeń." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "Mówiąc wprost, takim postępowaniem doprowadzą się do śmierci. Może zechce <if(gnum4,pani,pan)> pokazać im, jak wiele jeszcze brakuje do <if(gnum4,pani,pańskiego)> poziomu?" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "Doskonale! Oczywiście nie mogę prosić o walkę z nimi wręcz─nawet nie zbliżają się do gotowości na coś takiego. Ale może pokaże im <if(gnum4,pani,pan)>, z jaką łatwością wykonuje zadania, które im sprawiają tyle trudu." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "Na przykład zbieranie soku roślin triffid w Lesie Zagubionego Pasterza. Zawsze potrzebują co najmniej trzech osób, żeby zabić jedną taką roślinę, a potem całe wieki niosą pęd do Dawkesa w Crystarium. Chętnie opowiem im, jak szybko pójdzie to <if(gnum4,pani,panu)>." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "Trzeba zabić jeden violet triffid─tylko jeden! To drobiazg dla kogoś, kto poświęca czas na porządny trening, przyzna <if(gnum4,pani,pan)>." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "To <if(gnum4,pani,pan)> ma sok rośliny triffid? Bjorn uprzedził, że będzie <if(gnum4,pani,pan)> tutaj─właściwie dopiero co dostałem wiadomość." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "I jaki dorodny pęd! Powinienem uzyskać z niego naprawdę sporo soku. Przy następnym spotkaniu z rekrutami z pewnością wspomnę, o ile sprawniej <if(gnum4,pani,pan)> sobie radzi." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "To może brzmieć nieco okrutnie─ale z tego, co mówi Bjorn, grozi im poważne niebezpieczeństwo, jeśli nie zaczną traktować ćwiczeń poważniej. Miejmy nadzieję, że ten wstrząs ich otrzeźwi." }
   ]
 }

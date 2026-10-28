@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn603_02999",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "" }
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "Czerwoni nie dają Zukinowi spokoju.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "Użyć materiałów wybuchowych Konfederacji, by zniszczyć imperialne skrzynie na Isle of Zekki" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "Zdać relację Zukinowi" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "Niepokoi mnie to, co ostatnio robią Czerwoni, <split(<string(gstr1)>, ,1)>. Zaczęli wynosić z magazynów imperialną broń. Nie ma wątpliwości─szykują napaść i to my możemy być ich celem." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "Żeby do tego nie dopuścić, zamierzam zniszczyć tę broń. Mamy trochę materiałów wybuchowych Konfederacji, które nadawałyby się do tego, ale nie zrobiono ich z myślą o wielkich dłoniach Kojin." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "Musimy więc zwrócić się do ciebie. Przekradnij się do twierdzy Czerwonych na Isle of Zekki i wysadź porozstawiane tam imperialne skrzynie. Niech kami ci błogosławią i mają cię w opiece!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "<split(<string(gstr1)>, ,1)>, czekałem na twój powrót z zapartym tchem! Powiedz, że udało się zniszczyć broń!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "Co za ulga! Dzięki tobie możemy przez jakiś czas spać spokojnie. Nie znaczy to jednak, że wolno nam stracić czujność." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "Nawet jeśli na razie wyrwaliśmy Czerwonym kły, bez trudu zdobędą kolejną broń od swoich imperialnych panów. Możemy jeszcze potrzebować twojej pomocy w walce." }
   ]
 }

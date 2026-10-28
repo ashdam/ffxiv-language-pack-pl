@@ -2,12 +2,12 @@
   "conversation": "custom/000/CmnDefWarpNpc_00026",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "" }
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "Właśnie płynę przez jezioro do Pomostu Sweetbloom w regionie East Shroud." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "Właśnie zbieram się do powrotu do dzielnicy Old Gridania." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "Wsiąść na prom?" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "Tak" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "Nie" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "Prowadzę prom do Pomostu Sweetbloom jeszcze od czasów sprzed Katastrofy. Pamiętam, gdy region East Shroud był cichym, spokojnym miejscem. Teraz roi się tam od najróżniejszych strasznych stworzeń." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "Nie dałoby mi spać to, że zostawię na drugim brzegu tak <if(gnum4,biedną młodą dziewczynę,biednego młodego chłopaka)> jak <if(gnum4,pani,pan)>, tylko po to, by rozjuszony dzik wziął <if(gnum4,panią,pana)> na kły. Może najpierw nabierze <if(gnum4,pani,pan)> trochę doświadczenia, a potem pomyślimy o przeprawie?" }
   ]
 }

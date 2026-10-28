@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz926_01991",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "" }
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "Światła ostrzegawcze allagańskiego węzła administracyjnego migają." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "Allagański węzeł administracyjny informuje cię o wykryciu w pobliżu dużej liczby niezidentyfikowanych smoków. Istoty te stanowią poważne zagrożenie dla miejscowej fauny. Prosi cię o zmniejszenie zagrożenia poprzez zabicie czterech z nich." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "Zabijasz bestie zgodnie z poleceniem węzła administracyjnego. Zgłoś systemowi sukces, by mógł ponownie ocenić sytuację." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "Węzeł administracyjny wskazuje, że choć populacja smoków nieco zmalała, ich tempo rozmnażania jest zbyt wysokie, by było to skuteczne rozwiązanie na dłuższą metę. Cała populacja smoków musi zostać zlikwidowana, by zapobiec dalszemu zagrożeniu dla środowiska." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "Zabić bestie Meracydian brobinyak" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "Zdać relację węzłowi administracyjnemu" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "Ostrzeżenie. Ostrzeżenie. Czujniki wskazują dużą liczbę niezidentyfikowanych smoków w najbliższej okolicy. Istoty te stanowią poważne zagrożenie dla równowagi lokalnego środowiska. Istoty otrzymują oznaczenie Meracydian brobinyak." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "Wszystkie oddziały Imperium Allagańskiego, zlikwidować zagrożenie. Każdy żołnierz ma zgładzić cztery bestie Meracydian brobinyak." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "Pobliskie niezarejestrowane smoki stanowią skrajne zagrożenie dla bioróżnorodności lokalnego środowiska. Proszę zniszczyć cztery bestie Meracydian brobinyak." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "\\<pik> \\<pik> Potwierdzono likwidację niezarejestrowanych form życia. Sprawdzanie populacji bestii brobinyak. \\<pik> \\<pik> Tempo rozmnażania bestii brobinyak znacznie wyższe niż początkowo zakładano. Zaburzenie równowagi środowiska nieuniknione bez całkowitej zagłady populacji smoków." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "Niezarejestrowane formy życia stanowią bezpośrednie naruszenie Ustawy o ochronie środowiska Imperium Allagańskiego, Statutu ochrony zwierząt domowych i udomowionych, Uchwały o kontroli zwierząt gospodarskich w Azys Lla, Allagańskiego traktatu reformy upiększania ekologicznego... \\<bzzzzzzz>" }
   ]
 }

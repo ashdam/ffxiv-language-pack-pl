@@ -13,7 +13,7 @@
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_TODO_01", "hash": "3172493B578CBEAF", "target": "Porozmawiać z Redwaldem w Falcon's Nest" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_TODO_02", "hash": "99E909673C5C6C0B", "target": "Porozmawiać z Soubinie" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_TODO_03", "hash": "98CD4B980A3AD29D", "target": "Przeszukać <italic(1)>North Star<italic(0)> na Rzece Coerthas" },
-    { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_TODO_04", "hash": "4FA3B585BDB5E30F", "target": "Dostarczyć sack of void scholar's effects Surito Carito" },
+    { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_TODO_04", "hash": "4FA3B585BDB5E30F", "target": "Dostarczyć worek rzeczy badacza Otchłani Suritowi Caritowi" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_SURITOCARITO_000_000", "hash": "D0CA4A7D56102FBD", "target": "Jak idą ćwiczenia, przyjaciele?" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_ALKAZOLKA_000_001", "hash": "50A61F963E5C0701", "target": "Jako towarzysz broni mogę zaświadczyć, że <split(<string(gstr1)>, ,1)> dzięki radom sierżanta Tolgi niepomiernie <if(gnum4,rozwinęła,rozwinął)> swoje umiejętności w sztuce uczonych." },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_ALKAZOLKA_000_002", "hash": "15FC84AC122F4A43", "target": "Niestety o sobie nie mogę powiedzieć tego samego... Prawdę mówiąc, na podstawie odczytanych tablic uznałem się już za mistrza technik Nym. Lecz szkolenie sierżanta pozbawiło mnie tego złudzenia." },

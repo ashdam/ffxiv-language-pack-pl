@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb105_00824",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_00", "hash": "BB3DBE97FF6E5B1A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_01", "hash": "C4D1D4E17F1E173A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_02", "hash": "C83B2406B6E188FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_03", "hash": "E9459024EA0780C9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_00", "hash": "AF7E48742F298F66", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_01", "hash": "E346FB5EDF856085", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_000", "hash": "2A2128529000795B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_001", "hash": "07D7CC371E894988", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_002", "hash": "72F6CB1136048E16", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_RIRIDESU_000_010", "hash": "FBDC85B1EDAB9FAE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_DRIFTINGCLOUD_000_020", "hash": "AB34CB42540BC681", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SIDIMUND_000_030", "hash": "DA2DC760A275C145", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_050", "hash": "114BE83ADF8312D6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_051", "hash": "16BE5C384A76FF94", "target": "" }
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_00", "hash": "BB3DBE97FF6E5B1A", "target": "Ludzie rozmawiają, a U'khuba Tia chce wiedzieć, o czym." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_01", "hash": "C4D1D4E17F1E173A", "target": "Zbliża się czas wyboru wodza, a U'khubie Tii nie podoba się, że wielu widzi następnego przywódcę plemienia U w osobie U'tykhi Tii. Prosi cię o rozmowę z przybyszami i poznanie ich nadziei związanych z osadą Forgotten Springs." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_02", "hash": "C83B2406B6E188FC", "target": "Rozmowy z trzema nowymi mieszkańcami osady Forgotten Springs ujawniają, że wszyscy są w pewnym stopniu niezadowoleni z braku zmian. Wróć do U'khuby Tii i przedstaw mu ich skargi." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_03", "hash": "E9459024EA0780C9", "target": "U'khuba Tia reaguje na twoje słowa tak, jakby już je znał. Przyznaje, że plemię U będzie musiało zerwać z tradycją, aby się rozwijać. Nikt jednak nie wie, czy wprowadzenie takich zmian przyniesie korzyści." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_00", "hash": "AF7E48742F298F66", "target": "Porozmawiać z mieszkańcami osady Forgotten Springs" },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_01", "hash": "E346FB5EDF856085", "target": "Przedstawić ustalenia U'khubie Tii" },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_000", "hash": "2A2128529000795B", "target": "Nie spędzałbym zbyt wiele czasu z U'tykhą. Jego bezmyślna wesołkowatość bywa zaraźliwa, a ja uważam, że lepiej nigdy nie być <italic(1)>zbyt<italic(0)> szczęśliwym. Szczęście rodzi samozadowolenie. Tylko niezadowolenie pozwala sięgać wyżej." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_001", "hash": "07D7CC371E894988", "target": "To prowadzi nas do pytania, który z nas będzie następnym wodzem plemienia. W przeciwieństwie do U'tykhi bardzo poważnie traktuję wybór kolejnego nunha. Każdy z nas ma inną wizję przyszłości." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_002", "hash": "72F6CB1136048E16", "target": "Widzisz, fascynuje mnie przyszłość. Nie możemy jej stworzyć─ale <italic(1)>możemy<italic(0)> się do niej przygotować. <italic(1)>Możemy<italic(0)> na niej skorzystać. Albo <italic(1)>możemy<italic(0)> przez nią zginąć. Porozmawiaj z przybyszami. Oni widzą w osadzie Forgotten Springs szansę, a nie przedmiot lojalności." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_RIRIDESU_000_010", "hash": "FBDC85B1EDAB9FAE", "target": "Moim zdaniem potrzeba więcej handlu i mniej przeszkód. Forgotten Springs ma <italic(1)>idealne<italic(0)> położenie na przystanek dla kupców przemierzających pustynię. Gdyby tylko nunh zechciał nas, kupców, przyciągać, zamiast wprost <italic(1)>odrzucać<italic(0)>..." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_DRIFTINGCLOUD_000_020", "hash": "AB34CB42540BC681", "target": "Nigdy nie rozumiałem, czemu mają tu tak mało łóżek. Widzisz tych górników, co rozbijają namioty w Uderzeniu Byregota? Myślisz, że <italic(1)>chcą<italic(0)> się tam gnieździć? Pewnie, że nie! Po prostu wszystkie tutejsze gospody były pełne." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SIDIMUND_000_030", "hash": "DA2DC760A275C145", "target": "Zmasowany atak Amalj'aa przełamałby tutejszą obronę w jeden dzień. Skoro jaszczuroludzie tak swobodnie panoszą się ostatnio w Zanr'ak, wszystkim wyszłoby na dobre, gdyby Nieśmiertelne Płomienie wzmocniły posterunek w osadzie Forgotten Springs." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_050", "hash": "114BE83ADF8312D6", "target": "Fascynujące, doprawdy fascynujące. Ci przybysze mówią ci wiele prawdy. Dzięki tobie wiem, co w osadzie piszczy." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_051", "hash": "16BE5C384A76FF94", "target": "Wszyscy wołają o otwarcie bram osady Forgotten Springs. Jeśli nasze plemię ma rozkwitać, potrzebuje pieniędzy i ochrony przybyszów oraz obcych. Kiedy zostanę nunhem, stare obyczaje będą musiały ustąpić nowym." }
   ]
 }

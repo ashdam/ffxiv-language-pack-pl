@@ -2,9 +2,9 @@
   "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "" }
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "Przemieniotworzenie bardzo pomocnoużyteczne. Najpierw bierze się pięć niepotrzebnych materii, tak? Tę stopomieszać, tamtą miesztopić, ścisnąć i zgnieść, a potem wielkooczy! Pięć niepotrzebnych odradza się jako jedna błyskonowa!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "Jaka materia się odradza? Takie wiedzosprawy nie grzechoczą w mózgopudle Mutamiksa. Może nowa materia warta dużo brzękobłysku, a może jeszcze większy złomośmieć niż poprzednia piątka. Przemieniotworzenie to ekscytująca losogra, tak?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "Mutamix w każdej chwili wykona dla ciebie transmutację materii za darmo. Przynieś mu pięć sztuk niepotrzebnej materii, a przemieni je w jedną nową sztukę, którą wykorzystasz wedle uznania." },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "Transmutacja materii nadal pozostaje jednak nauką nieścisłą. Jakiego rodzaju materia powstanie, gdy Mutamix dokona swoich cudów, nie potrafi powiedzieć nawet sam genialny przedstawiciel ludu Goblin." }
   ]
 }

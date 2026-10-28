@@ -11,7 +11,7 @@
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_TODO_01", "hash": "465B80304B2C81AB", "target": "Porozmawiać z J'khebicą" },
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_TODO_02", "hash": "0B693E4454236CC7", "target": "Porozmawiać z Widem" },
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_TODO_03", "hash": "677166F50FE4F284", "target": "Porozmawiać z Halem" },
-    { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_TODO_04", "hash": "23E565669B57EF3A", "target": "Porozmawiać z Jemime w Gildii Złotników." },
+    { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_TODO_04", "hash": "23E565669B57EF3A", "target": "Porozmawiać z Jemime w Gildii Złotników" },
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_SERENDIPITY_000_030", "hash": "FDA725B99660DD2A", "target": "Och, <split(<string(gstr1)>, ,1)>! Katastrofa! Jej Wysokość sułtanka niespodziewanie postanowiła odwiedzić gildię!" },
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_SERENDIPITY_000_031", "hash": "CABB0F72DDEB3CD0", "target": "N-nie mam pojęcia, czym mogłam ściągnąć na siebie jej gniew... Zaraz, gdybym <italic(1)>naprawdę<italic(0)> ją rozgniewała, to mnie wezwano by przed jej oblicze. Tak to działa, prawda? Proszę powiedzieć, że mam rację!" },
     { "gameKey": "quest/025/ClsGld601_02599#TEXT_CLSGLD601_02599_SERENDIPITY_000_050", "hash": "DDEEC332CC3F5F5F", "target": "Tak, słucham panią? Chętnie bym pomogła, ale lada chwila spodziewamy się bardzo ważnego gościa..." },

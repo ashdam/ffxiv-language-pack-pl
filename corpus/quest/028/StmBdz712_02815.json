@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz712_02815",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "" }
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "Krzepki tragarz w Kugane doznał poważnego urazu barku." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "Porozmawiać z doświadczonym aptekarzem" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "Dostarczyć okład z ostrego imbiru krzepkiemu tragarzowi" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "Potrzebuję pomocy. Chyba mój bark źle zniósł ten worek ryżu. Tak boli, że dalej go nie zaniosę." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "Ale ja i moi koledzy tragarze mamy na takie okazje pilnie strzeżony sekret. Niedaleko Kogane Dori jest doświadczony aptekarz. Przygotowuje okład z ostrego imbiru, który działa jak magia. Zna mnie i wie, że mam czym zapłacić. Powiedz, kto cię przysyła, a da ci to, czego potrzebuję." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "Ja i moi koledzy tragarze mamy na takie okazje pilnie strzeżony sekret. Niedaleko Kogane Dori jest doświadczony aptekarz. Przygotowuje okład z ostrego imbiru, który działa jak magia. Zna mnie i wie, że mam czym zapłacić. Powiedz, kto cię przysyła, a da ci to, czego potrzebuję." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "Okład z ostrego imbiru? Skoro o niego prosisz, to pewnie przysłał cię ten tragarz. Chyba znów uszkodził sobie bark. Zawsze nosi więcej, niż człowiek powinien." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "Masz, zanieś mu to. Powiedz, że może zapłacić później, i przypomnij, że prawdziwe bogactwo to zdrowie." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "Powiedz tragarzowi, że może zapłacić za lekarstwo później, i przypomnij, że prawdziwe bogactwo to zdrowie." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "Masz okład z ostrego imbiru?" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "Dla całego Hingashi muszę wyglądać jak zwykła służka. Ale wiedz, że mój pradziadek był wielkim alchemikiem. To on pierwszy przygotował taki okład. A dopóki je mam, mogę nosić wszystko, co tylko trzeba." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "Podobno za granicą zasmakowali w ryżu Kogane. Coraz więcej kupców przypływa go kupować, więc coraz więcej tragarzy ma pełne ręce roboty. Wiedziałem, że inni kazaliby mi odpocząć, gdybym poprosił ich o pomoc. Dlatego poprosiłem ciebie." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "Kto ma czas na odpoczynek? Mam marzenie do spełnienia! Chcę poślubić piękną pannę i otworzyć gospodę z kuchnią Kugane. I to póki jeszcze jestem młody. Nie pozwolę, żeby bolący bark przeszkodził mi w zarabianiu gili, gdy jest taka okazja." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "Słyszałem, że w następnym miejscu dostawy jest urocza młoda dziewczyna. Może w tych ziarnach ryżu dźwigam ciężar własnego przeznaczenia. Czas pokaże. Dzięki za pomoc." }
   ]
 }

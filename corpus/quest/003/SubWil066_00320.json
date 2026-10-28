@@ -53,7 +53,7 @@
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_57", "hash": "0F0F258550DD231B", "target": "Znaleźliśmy ją! Znaleźliśmy żyłę! Wystan, musisz przyjść i zobaczyć!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_58", "hash": "CBD009A2B06A447C", "target": "Już!? Niesamowite! Ruszamy natychmiast!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_59", "hash": "C01E7CB60E6F2001", "target": "Chodź ze mną, <if(gnum4,przyjaciółko,przyjacielu)>! Bądź świadkiem historii, która dzieje się na naszych oczach!" },
-    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Way Down in the Hole”?" },
+    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Głęboko w dole”?" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_YES", "hash": "2973C59A4F2D502D", "target": "Tak" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_NO", "hash": "8E3AF9B80C6A5020", "target": "Nie" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_500", "hash": "B53B62560BA39CD0", "target": "Na jaja Thala, chłopcze! Żyła rudy w samym środku zrujnowanego <italic(1)>miasta<italic(0)>? Ty przeklęty przez bogów durniu!" },

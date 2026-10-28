@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb907_00930",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "Ser Loanne chce, by dla wszystkiego, co święte, przetrzebić ptactwo." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "Ser Loanne z Ishgardu każe ci przetrzebić latające zagrożenie w okolicy. Choć jej władcza gwałtowność cię dziwi, zamierzasz spełnić prośbę i zabić pięć ptaków bateleur." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "Zabijasz pięć ptaków bateleur, z każdym nabierając coraz większych wątpliwości, ale praca to praca. Wróć do ser Loanne i sprawdź, czy wyjaśni, do czego przydadzą się martwe." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "Zadowolona z wykonania tego podrzędnego zadania ser Loanne wyjawia, że ptaki bateleur podzielają rycerskie upodobanie do ryb cloud cutter i innych ryb Morza Chmur. W Ishgardzie nigdy nie warto pragnąć tego, czego pragną rycerze..." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "Zabić ptaki bateleur" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "Zdać raport Loanne" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "Bezczynność nie przystoi tak <if(gnum4,krzepkiej kobiecie,krzepkiemu mężczyźnie)>. Idź zabić dla nas pięć ptaków bateleur, które gnieżdżą się w tych stronach." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "Krucjata pochłania rycerzy Ishgardu ciałem i duszą. Tobie przypadną harówki, do których my nie możemy się zniżyć, a w których odnosisz pewne sukcesy, jeśli wierzyć opowieściom. Twoja obecność jest częścią planu Halone dla nas, niech będzie pochwalona Furia!" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "Dobrze nam służysz. Ptaki bateleur obficie korzystają z bogactw Morza Chmur, a na to nie możemy pozwolić." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "Ryby tego wzniosłego morza należą do szlachetnych rycerzy krucjaty, nie do pospolitych ptaków i bestii. Furia dała nam władzę nad wszystkimi stworzeniami tej ziemi i Drawianie także zrozumieją tę prawdę." }
   ]
 }

@@ -2,9 +2,9 @@
   "conversation": "custom/005/CtsDkbCharacter4Sub2_00579",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "Pracuję nad ulepszeniem odmian uprawianych przez nas owoców. Nic tak nie poprawia ludziom nastroju jak słodki, soczysty kąsek." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "<if(gnum4,Pani kapitan,Panie kapitanie)>! Zrobię wszystko, by przysporzyć chwały... ekhm, Drużynie Poszukiwaczy Samiela!" },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "Proszę jeszcze raz przyjąć przeprosiny za sprawione kłopoty. Obiecuję więcej nigdzie nie uciekać, a zamiast tego skupić się na tym, co robię najlepiej─analizie okazów." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "Gdy kierowniczka przychodzi z prośbą, Yalana udaje niezadowoloną, ale robi to głównie dla zachowania pozorów. W rzeczywistości uwielbia tę pracę." }
   ]
 }

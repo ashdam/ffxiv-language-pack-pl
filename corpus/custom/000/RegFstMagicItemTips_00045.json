@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegFstMagicItemTips_00045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1", "hash": "4C51C525E1317AB6", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1", "hash": "F2CB317C135B84BE", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_1", "hash": "A1C506B54B9F72B3", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_2", "hash": "ED27A07FDA26643A", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_3", "hash": "94AD113C8F40BB22", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10", "hash": "FE0CFC67D6BEE807", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11", "hash": "A876A9F1CAB1D99B", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12", "hash": "45608D502808AEF9", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20", "hash": "5FE8E71357C14BC2", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21", "hash": "70034C2A9EA2BD53", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22", "hash": "3FCA29B5233A9214", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23", "hash": "ECD9EC6EB343FA7B", "target": "" }
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1", "hash": "4C51C525E1317AB6", "target": "Tylko spójrz na to cudeńko. Widzisz, jak lśni? Niemal można <italic(1)>poczuć<italic(0)> przepływającą przez nie moc." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1", "hash": "F2CB317C135B84BE", "target": "Wybierz odpowiedź." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_1", "hash": "A1C506B54B9F72B3", "target": "Co takiego tam masz?" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_2", "hash": "ED27A07FDA26643A", "target": "Może się dogadamy?" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_3", "hash": "94AD113C8F40BB22", "target": "Chyba zostawię cię sam na sam z twoim mieczem." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10", "hash": "FE0CFC67D6BEE807", "target": "Co to jest? A na co wygląda? To krótki miecz." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11", "hash": "A876A9F1CAB1D99B", "target": "Aha, ale teraz pewnie zastanawiasz się, skąd tyle zachodu wokół krótkiego miecza? To proste. Nie jest to zwykły, pospolity, masowo kuty, kupiony w sklepie krótki miecz z samego dna kosza z przecenami. To prawdziwy <colortype(500)><edgecolortype(501)>eteryczny<edgecolortype(0)><colortype(0)> krótki miecz. Właściwie jedyny w swoim rodzaju." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12", "hash": "45608D502808AEF9", "target": "Nie widzisz jego blasku? Nie? Cóż, uwierz mi. On tam jest. A ten blask oznacza, że ten krótki miecz jest wyjątkowy. Że jest <italic(1)>potężny<italic(0)>... Albo przynajmniej trochę potężniejszy, niż można zwykle oczekiwać od zwykłego krótkiego miecza." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20", "hash": "5FE8E71357C14BC2", "target": "Dogadamy się?! Ha! Wiesz, ile czasu zajęło mi znalezienie tego cacka? W ilu drużynach musiałem znosić chciwych drani, którzy zgarniali cały eteryczny łup, choć mieli już pełne torby takich rzeczy? Nie, ten miecz jest <italic(1)>mój<italic(0)>, a jeśli go chcesz, musisz wyrwać go z moich zimnych, martwych dłoni!" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21", "hash": "70034C2A9EA2BD53", "target": "Tak właśnie, prawdę mówiąc, powstaje eteryczny ekwipunek. Zakładam, że wiesz, czym jest więź duchowa? To naładowane duchową energią eteryczne połączenie, które tworzysz z każdym noszonym elementem ekwipunku. Cóż, w rzadkich przypadkach, gdy ktoś używający przedmiotu o szczególnie silnej więzi duchowej ginie w walce, energia tej więzi pozostaje uwięziona wewnątrz, zamiast wrócić do Strumienia Życia." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22", "hash": "3FCA29B5233A9214", "target": "Ta energia wzmacnia ekwipunek i proszę! Masz eteryczny krótki miecz, eteryczną przepaskę biodrową albo parę eterycznych rękawic kowalskich z koziej skóry przeznaczonych do zbieractwa." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23", "hash": "ECD9EC6EB343FA7B", "target": "Skoro przedmiot staje się eteryczny dopiero wtedy, gdy jego właściciel zginie, mając go na sobie, zazwyczaj można takie przedmioty znaleźć tylko w niebezpiecznych miejscach, gdzie toczyły się straszliwe, krwawe bitwy. A gdybym to <italic(1)>ja<italic(0)> chciał dostać <italic(1)>kolejną<italic(0)> eteryczną broń w <italic(1)>swoje<italic(0)> ręce, może wróciłbym do lochu Sastasha. \\<puszcza oko> \\<puszcza oko>" }
   ]
 }

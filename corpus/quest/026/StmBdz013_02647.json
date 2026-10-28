@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz013_02647",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "" }
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "W domu Gelen wieje nieco bardziej niż zwykle." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "Zabić earth sprite i zdobyć ich rdzenie" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "Dostarczyć rdzenie żywiołaków ziemi Gelen" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "Pomożesz mi? Niewiele mi już życia zostało. Tyle chyba możesz dla mnie zrobić." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "Mieszkam w tym domu od ślubu. Nigdy nie był w stanie, który nazwałabym dobrym, ale jest mój. Ostatnio jednak w ścianie pojawiło się ogromne pęknięcie." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "Sama bym je naprawiła, ale nie mam potrzebnych materiałów. Zrób przysługę staruszce i zabij trzy earth sprite. Znajdziesz je przy Zigguracie. Przynieś ich rdzenie, a zobaczymy, czy da się uratować ten dom." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "Zrób przysługę staruszce i zabij trzy earth sprite. Przynieś ich rdzenie, a zobaczymy, czy da się uratować ten dom." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "Lepiej, żeby te rdzenie były z tobą." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "Cudownie! Zaraz zabiorę się do ich rozdrabniania. Potem wystarczy wymieszać je na pastę i nałożyć ją na pęknięcie." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "To powinno powstrzymać je na kilka lat. Przy odrobinie szczęścia nie doczekam już następnego pęknięcia!" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "Ponoć ziemia, na której stoimy, była kiedyś częścią kamieniołomu. Któregoś dnia ktoś postanowił urządzić tu miejsce odpoczynku. Z czasem stanął dom─jedno prowadziło do drugiego─i zanim się kto obejrzał, wyrosła cała osada." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "Ale dosyć już opowieści na dziś. Dziękuję, <if(gnum4,dziewczyno,chłopcze)>." }
   ]
 }

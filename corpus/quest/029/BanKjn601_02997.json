@@ -2,13 +2,13 @@
   "conversation": "quest/029/BanKjn601_02997",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_SEQ_00", "hash": "4F76AD906E62ABF6", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_00", "hash": "A2F8507D1AAE7960", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_01", "hash": "DB590089F94913DC", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_000", "hash": "218C26713514EF1D", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_001", "hash": "348B3FAA2791033B", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_020", "hash": "7142EB6D13F62888", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_021", "hash": "2297AE274E1234F5", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_022", "hash": "B192B474844256E1", "target": "" }
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_SEQ_00", "hash": "4F76AD906E62ABF6", "target": "Zukin ma wielki apetyt na olbrzymie małże.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_00", "hash": "A2F8507D1AAE7960", "target": "Wydobyć oślizgłe szczątki z olbrzymich małży" },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_01", "hash": "DB590089F94913DC", "target": "Dostarczyć Zukinowi oślizgłe szczątki" },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_000", "hash": "218C26713514EF1D", "target": "<split(<string(gstr1)>, ,1)>, znasz olbrzymie małże, prawda? Ich apetyt dorównuje ich pokaźnym rozmiarom. Pożerają bez wyboru wszystko, co przepływa w pobliżu." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_001", "hash": "348B3FAA2791033B", "target": "Znajdź te małże, rozchyl im muszle i przynieś mi oślizgłe szczątki, które znajdziesz w środku. Cztery kawałki wystarczą. Będę bardzo wdzięczny." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_020", "hash": "7142EB6D13F62888", "target": "O, jesteś, i obie ręce masz całe. To dobrze─mogą nam się jeszcze przydać. Ale chodź, zobaczmy, co też oddały nam małże." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_021", "hash": "2297AE274E1234F5", "target": "Tak, właśnie tego szukałem! Świetna robota!" },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_022", "hash": "B192B474844256E1", "target": "Gdy obcy przedmiot osiądzie wewnątrz muszli, stopniowo obrasta twardą, lśniącą powłoką. Choć nie jest wart tyle co foremna perła, też ma swoją cenę. A bywa przecież, że małże kryją prawdziwe skarby!" }
   ]
 }

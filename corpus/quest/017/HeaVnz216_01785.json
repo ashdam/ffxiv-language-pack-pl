@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz216_01785",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_00", "hash": "32C5B9E39B82EEE0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_01", "hash": "F14032D5CDEA45FC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_02", "hash": "B2BBDAED3B5FCA77", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_03", "hash": "02A5801BD5FBA30A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_00", "hash": "7B6B1863DFBD478E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_01", "hash": "538B4ED4329C5FFC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_HUNTER01780_000_000", "hash": "10D0EE1E182C4E67", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_000", "hash": "CEBF525582926951", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_001", "hash": "4CD210E48A297702", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_010", "hash": "377CF0B38727EEBE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SYSTEM_000_020", "hash": "9E0B099743341491", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_030", "hash": "852418A26C9E45E9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_031", "hash": "F71069C62C26F105", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_032", "hash": "1989BC76500A4743", "target": "" }
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_00", "hash": "32C5B9E39B82EEE0", "target": "Remaclon wygląda, jakby właśnie zobaczył ducha... albo coś gorszego." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_01", "hash": "F14032D5CDEA45FC", "target": "Remaclon prosi cię o potwierdzenie przerażającego odkrycia: smoków w pobliżu Przysięgi Klaczy. Udaj się do ruin i sprawdź, czy stworzenia były czymś więcej niż piwnymi majakami." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_02", "hash": "B2BBDAED3B5FCA77", "target": "W Przysiędze Klaczy znajdujesz dwa łudząco podobne do żywych smoków posągi, które pijak mógłby wziąć za prawdziwe stworzenia. Wróć do Tailfeather i przekaż Remaclonowi swoje odkrycie." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_03", "hash": "02A5801BD5FBA30A", "target": "Remaclon z ulgą przyjmuje twoje wieści i mówi ci, że ruiny Przysięgi Klaczy podobno wznieśli heretycy. Odtąd będzie trzymał się z dala od tego miejsca." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_00", "hash": "7B6B1863DFBD478E", "target": "Zbadać wskazany obszar" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_01", "hash": "538B4ED4329C5FFC", "target": "Zdać sprawę Remaclonowi" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_HUNTER01780_000_000", "hash": "10D0EE1E182C4E67", "target": "Pozostaje uzupełnić zapasy i poczekać, aż trochę się ociepli. Wtedy znów ruszymy w górę rzeki." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_000", "hash": "CEBF525582926951", "target": "Nie ma, do siedmiu piekieł, mowy, żebym naprawdę to widział! Wczoraj wieczorem spacerowałem sobie po paru kuflach i trafiłem na złowieszcze ruiny. Ruin oczywiście tutaj nie brakuje, ale czegoś takiego jak to, co tam zobaczyłem, już tak: smoków!" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_001", "hash": "4CD210E48A297702", "target": "Tak jest, <italic(1)>smoków<italic(0)>! Dwóch, z wielkimi skrzydłami i ogniem w oczach. Na ich widok popędziłem prosto do domu. Trochę mi się wszystko zaciera w pamięci, ale jeśli to <italic(1)>naprawdę<italic(0)> były smoki, wszyscy możemy być w niebezpieczeństwie. Sam przecież tam nie wrócę, ale, cóż...<br>Aż głupio mi prosić, ale może przejdziesz się za mnie do tych ruin? Zaznaczę ci na mapie obszar, po którym się włóczyłem." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_010", "hash": "377CF0B38727EEBE", "target": "Jeśli naprawdę są tam smoki, będziemy mieć zupełnie nowe kłopoty! Zaznaczyłem ci położenie ruin na mapie─tylko pamiętaj, żeby zabrać broń!" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SYSTEM_000_020", "hash": "9E0B099743341491", "target": "Widzisz dwa posągi smoków. Każdy jest dziełem kunsztownej rzeźbiarskiej roboty. Nietrudno zrozumieć, jak można je pomylić z prawdziwymi smokami." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_030", "hash": "852418A26C9E45E9", "target": "Jesteś! Widać było smoki?<br>...Mówisz, że posągi!? Uch, może powinienem trochę przystopować z piwem..." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_031", "hash": "F71069C62C26F105", "target": "Podobno te ruiny na północy wznieśli heretycy. Nawet samo kręcenie się w ich pobliżu może sprawić, że ludzie zaczną wątpić, po czyjej stoisz stronie." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_032", "hash": "1989BC76500A4743", "target": "Cóż, skoro nie ma tam <italic(1)>prawdziwych<italic(0)> smoków, chyba nie ma się czym martwić! Teraz, kiedy wiem, co to za miejsce, będę je omijać szerokim łukiem." }
   ]
 }

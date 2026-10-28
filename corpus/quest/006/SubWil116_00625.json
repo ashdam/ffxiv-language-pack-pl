@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil116_00625",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "" }
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "Caitlyn szuka poszukiwacza przygód, który zabije kilka kundli." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "Caitlyn chce zlecić polowanie na dzikie kundle. Udaj się na południowy wschód i zabij siedem tych bestii." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "Siedem kundli nie żyje. Wróć do obozu Camp Drybone i porozmawiaj z Caitlyn." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "Caitlyn wyznaje ci, że przed laty stado kundli rozszarpało jej narzeczonego. Najwyraźniej zamierza z pomocą przechodzących poszukiwaczy przygód zetrzeć te bestie z powierzchni Eorzei. Piekła nie znają gniewu równego gniewowi skrzywdzonej kobiety." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "Zabić dusty mongrel" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "Zdać raport Caitlyn" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "<if(gnum4,Szuka pani,Szuka pan)> pracy? Tak się składa, że potrzebuję kogoś do zabicia kundli─siedmiu bestii." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "Te przeklęte stwory niemal opanowały okolicę na południowym wschodzie. Napadają na mieszkańców, bydło─wszystko, co się rusza. Nie zasługują na litość." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "A więc o siedem kundli mniej nęka Thanalan? Doskonale." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "Trzy lata temu straciłam ukochanego przez stado kundli. Mieliśmy... mieliśmy się pobrać. Rozszarpały go. Gdy wreszcie je odpędziliśmy, mój ukochany był w siedmiu kawałkach. Odtąd proszę każdego poszukiwacza przygód, który tędy przechodzi, by zabił siedem bestii." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "Moja zemsta <italic(1)>nie ma końca<italic(0)>. Ale jeśli oszczędzę choć jednej przyszłej pannie młodej takiego cierpienia, wszystko będzie tego warte." }
   ]
 }

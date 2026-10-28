@@ -2,19 +2,19 @@
   "conversation": "quest/051/KinGzf104_05158",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_SEQ_00", "hash": "B8AF879700CFCFA6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_00", "hash": "49F2C545913FFD67", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_01", "hash": "40CA82C7F6D8E4A3", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_02", "hash": "594CE55BB65C51F6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_000", "hash": "B3037235A58EC65B", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_001", "hash": "3C908F0CC4389195", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_002", "hash": "2AEB1C83D9BEE533", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_003", "hash": "A30DB4FFEE7F60F6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_004", "hash": "9E7195A10C6B0574", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_005", "hash": "A3C6215823F4712D", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_006", "hash": "E58AF06E4ED72E21", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_007", "hash": "F04A62EF91B57ABA", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_008", "hash": "02F5A1B893AD0345", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_009", "hash": "D3355536B40C4F29", "target": "" }
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_SEQ_00", "hash": "B8AF879700CFCFA6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Cinnabar potrzebuje pomocnej dłoni─najlepiej uzbrojonej." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_00", "hash": "49F2C545913FFD67", "target": "Pokonać potwory rojące się przy trzeszczącej rozpadlinie na północnym zachodzie" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_01", "hash": "40CA82C7F6D8E4A3", "target": "Pokonać potwory rojące się przy trzeszczącej rozpadlinie na południu" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_02", "hash": "594CE55BB65C51F6", "target": "Porozmawiać z Cinnabarem" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_000", "hash": "B3037235A58EC65B", "target": "Ach, znakomicie. Właśnie tego potrzebuję─kogoś, kto wygląda na obeznanego z zabijaniem." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_001", "hash": "3C908F0CC4389195", "target": "Zauważasz te gęste skupiska energii piorunów porozrzucane po okolicy?" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_002", "hash": "2AEB1C83D9BEE533", "target": "Te miejsca przyciągają całe roje potworów. Zwykle wysyłamy łowcę, żeby je wybił, ale brakuje im rąk do pracy. Dlatego chcę zatrudnić ciebie." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_003", "hash": "A30DB4FFEE7F60F6", "target": "Najbardziej oblegane miejsca są na północnym zachodzie i południu. I małe ostrzeżenie: postaraj się nie wpaść do środka. Mrowienie jest wyjątkowo nieprzyjemne." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_004", "hash": "9E7195A10C6B0574", "target": "Kratery pełne potworów są na północnym zachodzie i południu. Spróbuj wybić wszystko, co znajdziesz, zanim zdrętwieje ci ręka od broni, dobrze?" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_005", "hash": "A3C6215823F4712D", "target": "Wszystkie wybite, jak rozumiem? Znakomita robota." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_006", "hash": "E58AF06E4ED72E21", "target": "Widzisz tam, za zachodnim brzegiem─złowrogą fioletową poświatę wywróconego miasta? To zawdzięczamy Wojnie Błyskawic." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_007", "hash": "F04A62EF91B57ABA", "target": "Mówią, że to wojenny oręż stworzył tę gigantyczną krynicę piorunów. A gdzie gromadzi się taka energia, tam dziesięć razy więcej potworów." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_008", "hash": "02F5A1B893AD0345", "target": "W porównaniu z tym te małe rozpadliny wyglądają wręcz dekoracyjnie. Ale potwory to zagrożenie, którego nie wolno lekceważyć. \\<wzdycha> Gdyby tylko istniało jakieś trwalsze rozwiązanie." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_009", "hash": "D3355536B40C4F29", "target": "Ach, odbiegam od tematu. Twoja praca tutaj skończona i czas ci zapłacić. Bezpiecznej drogi!" }
   ]
 }

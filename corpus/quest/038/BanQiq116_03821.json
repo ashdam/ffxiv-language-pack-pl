@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq116_03821",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_00", "hash": "C4B63AF2EEF85F7A", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_01", "hash": "1ED42C2DCD5184FD", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_TODO_00", "hash": "1F775CB3E99DD7B6", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_000", "hash": "4C4D6F85E080A897", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_001", "hash": "D643AA05AA74198A", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_002", "hash": "59759665158E9AA7", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_003", "hash": "B3EB9203838626FB", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_004", "hash": "D7E779EF182C38C8", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_005", "hash": "CB83747F4B936418", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_006", "hash": "4BFF7B838B098322", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SYSTEM_000_007", "hash": "D2BAA82A34559170", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_010", "hash": "2E172888D80D5858", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_011", "hash": "2478838A2EA7DBB6", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_012", "hash": "BF1DE158AB62A945", "target": "" }
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_00", "hash": "C4B63AF2EEF85F7A", "target": "Qhoterl Pasol staje przed niesłychanym dylematem: dotkliwą klęską dostatku delikatnej dziczyzny.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_01", "hash": "1ED42C2DCD5184FD", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_TODO_00", "hash": "1F775CB3E99DD7B6", "target": "<if([lnum4==16],<if([lnum1<lnum2],Wydobyć chunks of splendid rock salt w Astropolii K'mul,Dostarczyć chunks of splendid rock salt Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Zebrać handfuls of splendid tree bark w Astropolii K'mul,Dostarczyć handfuls of splendid tree bark Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Złowić harpunem splendid Night's bass w głębinach Jeziora Tusi Mek'ta,Dostarczyć splendid Night's bass Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_000", "hash": "4C4D6F85E080A897", "target": "Nasze przyjaciółki Viis podarowały nam ogromny zapas jeleniny w dowód uznania za naszą pracę. Problem w tym, że jest jej tak dużo, iż musimy uwędzić mięso, zanim się zepsuje!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_001", "hash": "D643AA05AA74198A", "target": "Czy mogłabym pozwolić sobie na tę straszną zuchwałość i poprosić o przyniesienie soli kamiennej? Posypanie nią mięsa przed wędzeniem wydobywa bogaty smak dziczyzny!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_002", "hash": "59759665158E9AA7", "target": "Czy mogłabym pozwolić sobie na tę straszną zuchwałość i poprosić o przyniesienie kory? Oczywiście tylko najwspanialsza się nada." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_003", "hash": "B3EB9203838626FB", "target": "Czy mogłabym pozwolić sobie na tę straszną zuchwałość i poprosić o złowienie harpunem ryby Night's bass? To może nie najoczywistszy wybór, ale podobno wędzenie jej razem z jeleniną pomaga zakonserwować mięso." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_004", "hash": "D7E779EF182C38C8", "target": "Gdybym mogła oderwać się od tutejszych obowiązków, zapewne zaczęłabym poszukiwania w okolicach Astropolii K'mul. Coś w tym miejscu po prostu krzyczy „wspaniałe”, nie uważa <if(gnum4,pani,pan)>?" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_005", "hash": "CB83747F4B936418", "target": "Gdybym mogła oderwać się od tutejszych obowiązków, zapewne zaczęłabym poszukiwania w okolicach Astropolii K'mul. Coś w tym miejscu po prostu krzyczy „wspaniałe”, nie uważa <if(gnum4,pani,pan)>?" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_006", "hash": "4BFF7B838B098322", "target": "Gdybym mogła oderwać się od tutejszych obowiązków i miała choć blade pojęcie o łowiectwie podwodnym, zapewne spróbowałabym szczęścia w Jeziorze Tusi Mek'ta." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SYSTEM_000_007", "hash": "D2BAA82A34559170", "target": "Aby kontynuować to zadanie, musisz najpierw ukończyć zadanie „Nowe doświadczenie z harpunem” i odblokować łowiectwo podwodne." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_010", "hash": "2E172888D80D5858", "target": "Czy ma <if(gnum4,pani,pan)> to, o co prosiłam? Liczy się każda chwila!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_011", "hash": "2478838A2EA7DBB6", "target": "Doprawdy, to wspaniałe! Już od samego zapachu mam ochotę wszystko spałaszować, nawet bez jeleniny..." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_012", "hash": "BF1DE158AB62A945", "target": "Ach, oczywiście wówczas na nic zdałaby się ta cała bieganina, zanim mięso się zepsuje. A przecież nie chcemy zmarnować hojnego daru Viis, prawda?" }
   ]
 }

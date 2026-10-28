@@ -2,16 +2,16 @@
   "conversation": "quest/013/BanSah207_01396",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "" }
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "Houu doskonale potrafi ważyć mniejsze zło wobec większego dobra i chciałby sprawdzić twoje miejsce w tym rachunku." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "Houu prosi cię o pokonanie stratega Worr the Whalefin, oddanego Koralowym Trójzębom. Zwycięż w FATE „Ogon wieloryba” na Tarlisku Sapsa, by zdobyć jego pierścień coral band, a potem przedstaw go Houu jako dowód swego czynu." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "Houu przyjmuje przedmiot coral band, a twoje umiejętności bojowe robią na nim wielkie wrażenie. Najwyraźniej równie mocno zapadają w pamięć innym przedstawicielom ludu Sahagin. Oby teraz mniej chętnie poddawali się podżeganiu Trójzębów do otwartej wojny z brzegołazami..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "Dostarczyć Houu przedmiot coral band zdobyty w FATE „Ogon wieloryba”" },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "Psssz... Znasz strategów Tarliska Sapsa? To przywódcy wojowników Sahagin, obdarzeni wielkimi wpływami." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "Niestety Szkarłatny Diabeł Mórz rozpala ich dumę wizjami łatwego zwycięstwa. Koralowe Trójzęby są przebiegłe i podstępne. Jeśli nic nie zrobimy, ich agresja wkrótce doprowadzi do wojny na pełną skalę z wami, brzegołazami..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "Strategowie muszą zobaczyć, że brzegołazy to groźni i sprawni przeciwnicy. Zmierzysz się z największym samochwałą spośród nich. Nazywa się Worr the Whalefin i musi dziś umrzeć. Psssz..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "Worr nosi przedmiot coral band, otrzymany jako zaprzysiężony sojusznik Koralowych Trójzębów. Przynieś mi tę błyskotkę na dowód, że umarł równie haniebnie, jak żył. Psssz..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "Psssz... Zabij stratega Worr the Whalefin i odbierz mu przedmiot coral band od Trójzębów." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "Psssz... Przedmiot coral band stratega Worr, na wszystko, co ma barwę indygo! Ojciec lęgu zawsze wybiera mądrze... Nie sądziłem, że brzegołaz pokona wojownika Worr the Whalefin." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "Strateg przewodzi nie tylko włóczniom, lecz także umysłom. Porażka stratega Worr z twoich rąk to wymowna lekcja, o której wieść obiegnie całe Tarlisko Sapsa. Psssz..." }
   ]
 }

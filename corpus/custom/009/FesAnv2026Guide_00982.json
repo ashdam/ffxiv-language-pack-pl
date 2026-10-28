@@ -2,9 +2,9 @@
   "conversation": "custom/009/FesAnv2026Guide_00982",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_000", "hash": "52B4B70B27FBDAD1", "target": "" },
-    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_010", "hash": "20975D7146651657", "target": "" },
-    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_011", "hash": "A68781571563EF0A", "target": "" },
-    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_013", "hash": "7DB3483215543327", "target": "" }
+    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_000", "hash": "52B4B70B27FBDAD1", "target": "Spoglądając w przeszłość, znajdujemy pociechę w teraźniejszości i zastanawiamy się, co przyniesie przyszłość. Oto istota Święta Odrodzenia! W tym roku przygotowaliśmy wspaniały pokaz fajerwerków. Z pewnością zachwyci wszystkich widzów!" },
+    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_010", "hash": "20975D7146651657", "target": "Święto Odrodzenia to czas zadumy, w którym wspominamy tych, którzy stracili życie podczas wielkiej tragedii, jaką była Katastrofa. Oddajemy też hołd nieznanym bohaterom, którzy narażali życie i zdrowie, by inni mogli zaznać lepszej przyszłości." },
+    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_011", "hash": "A68781571563EF0A", "target": "Dlatego ulice zdobią stonowane dekoracje, a nocne niebo wypełniają barwne fajerwerki. Niech podniosła atmosfera i jasne światła na niebie skłonią nas do rozmyślań o zagładzie, którą zwiastował Dalamud, abyśmy docenili teraźniejszość i wzbudzili w sobie nadzieję na jaśniejsze jutro." },
+    { "gameKey": "custom/009/FesAnv2026Guide_00982#TEXT_FESANV2026GUIDE_00982_NEWBORNINTERN_000_013", "hash": "7DB3483215543327", "target": "Gdyby <if(gnum4,pani zastanawiała,pan zastanawiał)> się nad miejscem obchodów, odbywają się one w Limsa Lominsa. Jeśli <if(gnum4,chce pani,chce pan)> w nich uczestniczyć, zapraszamy do talassokracji." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzb009_05038",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_SEQ_00", "hash": "86190823000F40F2", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_000", "hash": "B5CE68DEC47585CD", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_001", "hash": "02360C54968DA42C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_002", "hash": "29176F5FDE79D047", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_003", "hash": "11646ECC1548D32C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_010", "hash": "2E845F1629D2B124", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_011", "hash": "4A4DF8E8FA078091", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_012", "hash": "209E29609116DD5C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_013", "hash": "3D4292E791A09E80", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_014", "hash": "9BE2920A2762D79E", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_015", "hash": "CA2C2C8B2A15DDE4", "target": "" }
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_SEQ_00", "hash": "86190823000F40F2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mivli ma prośbę, której spełnienie wiąże się ze sporym niebezpieczeństwem." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "Rozejrzeć się we wskazanym miejscu i zabić overgrown megamaguey, by zdobyć przerośniętą bulwę" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "Dostarczyć przerośniętą bulwę Mivli" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_000", "hash": "B5CE68DEC47585CD", "target": "Słuchaj, wyglądasz na kogoś nieustraszonego. Bardzo przydałaby mi się twoja pomoc." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_001", "hash": "02360C54968DA42C", "target": "Niedaleko stąd, w Chabameki, pojawiają się wyjątkowo wielkie ─ można by rzec, przerośnięte ─ stworzenia megamaguey." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_002", "hash": "29176F5FDE79D047", "target": "Chciałbym, żeby udało ci się pokonać jedno z nich i zdobyć przerośniętą bulwę z jego ciała. A po co? Powiem ci po powrocie!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_003", "hash": "11646ECC1548D32C", "target": "Idź, dobra duszo, i powal overgrown megamaguey! Potrzebuję przerośniętej bulwy z jego ciała. Później wyjaśnię dlaczego!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_010", "hash": "2E845F1629D2B124", "target": "Witaj ponownie! Jak poszło?" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_011", "hash": "4A4DF8E8FA078091", "target": "Idealny okaz! Na pewno powstanie z niego doskonały mezcal!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_012", "hash": "209E29609116DD5C", "target": "Powiedz, wiesz, że to ludy Xak Tural nauczyły nas, Pelupelu, wytwarzać mezcal?" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_013", "hash": "3D4292E791A09E80", "target": "Nauczyli nas robić ten trunek z agawy. Ale odkryliśmy też, że bulwa stworzenia megamaguey nadaje napojowi prawdziwego kopa." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_014", "hash": "9BE2920A2762D79E", "target": "A stworzenie megamaguey dałoby prawdziwego kopa <italic(1)>mnie<italic(0)>, gdybym sam próbował zdobyć jego bulwę." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_015", "hash": "CA2C2C8B2A15DDE4", "target": "Właśnie dlatego nie wiem, jak dziękować za pomoc! Nie wątpię, że mezcal z tej bulwy będzie wyśmienity!" }
   ]
 }

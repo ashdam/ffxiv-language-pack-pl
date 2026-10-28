@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzb106_05046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_00", "hash": "3ABFD67A88C04438", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_01", "hash": "248FE6AA0641CE9F", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_000", "hash": "21AAEE6125CE794B", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_001", "hash": "E8C6C006EF0DB918", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_002", "hash": "58946511EC8E1BA9", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_005", "hash": "674DD290AFE5B978", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_010", "hash": "A2E2BF479B2A074C", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_011", "hash": "71BD031D71E3157A", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_012", "hash": "8F3A42F08BD6241E", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_013", "hash": "D469DF0D59711FF3", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_014", "hash": "3BDB2B12866AAB3C", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_015", "hash": "95CDF71671B44950", "target": "" }
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zarwarkur ma nadzieję, że doskwiera ci głód wiedzy." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_00", "hash": "3ABFD67A88C04438", "target": "Zdobyć kawałki mięsa bestii tulidile" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_01", "hash": "248FE6AA0641CE9F", "target": "Dostarczyć mięso bestii tulidile Zarwarkurowi" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_000", "hash": "21AAEE6125CE794B", "target": "Witam! Sądząc z wyglądu, zna się <if(gnum4,pani,pan)> na polowaniu, prawda? Czy interesuje <if(gnum4,panią,pana)>, jak przyrządzamy nasze tradycyjne suszone mięso?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_001", "hash": "E8C6C006EF0DB918", "target": "W zamian proszę tylko o dostarczenie głównego składnika, bo mój zapas się kurczy." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_002", "hash": "58946511EC8E1BA9", "target": "Potrzebne będzie mięso bestii tulidile. Proszę udać się na północ od naszej wioski i poszukać okazu godnego zasolenia!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_005", "hash": "674DD290AFE5B978", "target": "Bestie tulidile powinny żyć w swoim naturalnym środowisku tuż na północ stąd. Powodzenia!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_010", "hash": "A2E2BF479B2A074C", "target": "Jak idą łowy?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_011", "hash": "71BD031D71E3157A", "target": "Ooo, cóż za piękny kawał mięsa! Prawie nie trzeba odkrawać tłuszczu. Wystarczy szybko natrzeć go solą i już będziemy na dobrej drodze do suszonego mięsa, na którego widok cieknie ślinka!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_012", "hash": "8F3A42F08BD6241E", "target": "Najważniejsze to rozłożyć paski mięsa w nasłonecznionym miejscu, gdzie powietrze jest chłodne i suche. Dobrze, że jesteśmy na szczycie góry, prawda?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_013", "hash": "D469DF0D59711FF3", "target": "Sam Sługa Świtu próbował mojego suszonego mięsa przed wieloma laty. Głowie Determinacji tak zasmakowało, że pochłonęła wszystko w kilka chwil! \\<chichocze> Wciąż pamiętam wyraz obrzydzenia na obliczu Głowy Rozumu. „Musisz tak wciągać!?”" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_014", "hash": "3BDB2B12866AAB3C", "target": "Ach, ale to nie pora na wspominanie dawnych dni. Praca czeka, a z tego mięsa bestii tulidile powstanie wyborne suszone mięso, w sam raz do pogryzania." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_015", "hash": "95CDF71671B44950", "target": "Podczas polowania przyrządziłem dla <if(gnum4,pani,pana)> mały przysmak na później. Proszę uznać go za zapłatę za uzupełnienie moich zapasów!" }
   ]
 }

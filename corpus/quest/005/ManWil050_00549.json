@@ -2,15 +2,15 @@
   "conversation": "quest/005/ManWil050_00549",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200010_NARRATION", "hash": "14455125B3BB5E5E", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200020_NARRATION", "hash": "DFEAFA06119278E2", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200030_NARRATION", "hash": "FEFA8AE5DCE74F27", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200040_NARRATION", "hash": "BD0D461EB2D23E8F", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200050_NARRATION", "hash": "3E164EFF4AF255A1", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200060_NARRATION", "hash": "F398D4F97AA0E2B5", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200070_NARRATION", "hash": "DA63F24DFE09E4FE", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200080_NARRATION", "hash": "686B42F2B166B3F9", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200090_NARRATION", "hash": "FE16157D7D1DCDD6", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200100_NARRATION", "hash": "1CF7D502B5D136C9", "target": "" }
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200010_NARRATION", "hash": "14455125B3BB5E5E", "target": "Podczas bitwy pod Carteneau, gdy z niebios spadał deszcz ognia..." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200020_NARRATION", "hash": "DFEAFA06119278E2", "target": "Archont Louisoix przywołał moc Strażnika i wysłał towarzyszących mu bohaterów w szczelinę eteryczną, poza zasięg zniszczenia." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200030_NARRATION", "hash": "FEFA8AE5DCE74F27", "target": "Pięć lat po owym pamiętnym dniu, gdy Siódma Era Umbralna zmieniła świat na zawsze, nadszedł czas powrotu bohaterów." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200040_NARRATION", "hash": "BD0D461EB2D23E8F", "target": "Głęboko na spieczonym słońcem południu, otoczona wędrującymi piaskami bezkresnej pustyni, wznosi się ona." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200050_NARRATION", "hash": "3E164EFF4AF255A1", "target": "Samotna róża pośród pyłu i skał. Symbol sprzeciwu. Jej imię: Ul'dah." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200060_NARRATION", "hash": "F398D4F97AA0E2B5", "target": "Nawet z nadejściem Siódmej Ery Umbralnej nie umiera nadzieja kupców i handlarzy walczących o utracone fortuny w tej tętniącej życiem oazie." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200070_NARRATION", "hash": "DA63F24DFE09E4FE", "target": "Gdy Dwa Oblicza Nald'thala czuwają nad wszystkim,<br>co było i będzie, teraźniejszość ofiaruje odważną duszę..." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200080_NARRATION", "hash": "686B42F2B166B3F9", "target": "...duszę, której przybycie może zapoczątkować nową erę dobrobytu krainy." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200090_NARRATION", "hash": "FE16157D7D1DCDD6", "target": "Niech Kupcy zadbają o naszą pomyślność, rozniecając płomienie, które płoną w nas wszystkich." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200100_NARRATION", "hash": "1CF7D502B5D136C9", "target": "Bowiem w ogniu się odradzamy." }
   ]
 }

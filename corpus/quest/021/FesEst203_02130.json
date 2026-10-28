@@ -2,17 +2,17 @@
   "conversation": "quest/021/FesEst203_02130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "" }
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "Kulturalny zbieracz posyła ci uśmiech.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "Kulturalny zbieracz wyjaśnia, że olbrzymie jajo „benediction egg”, toczące się po rejonie Old Gridania, jest w istocie sylfim zaklęciem. Choć zdaje się niemal nieskazitelne mimo prędkości, z jaką mknie przez tłum, zbieracz prosi, by oderwać fragment skorupy, wcierając w nią magiczny pyłek. Ruszaj w pościg za jajem godnym króla.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "Udaje ci się oderwać fragment jaja „benediction egg”. Wróć do Amfiteatru Mih Khetto i dostarcz go kulturalnemu zbieraczowi." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "Kulturalny zbieracz jest zadowolony z dorodnego odłamka, który udało ci się zdobyć, i wręcza nagrodę. Cierpliwie czekasz na jajeczny dowcip, ale okazuje się, że zbieracz woli zostawić go swoim współpracownikom." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "Użyć migotliwego pyłku na jaju „benediction egg”, by zdobyć odłamek skorupki" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "Dostarczyć odłamek skorupki kulturalnemu zbieraczowi" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "Bez wątpienia <if(gnum4,widziała pani,widział pan)> olbrzymie jajo pędzące ulicami rejonu Old Gridania. Nasi przyjaciele, sylfy, zaklęli je specjalnie na tę okazję. Choć przetacza się po korzeniach, kamieniach i ludziach, nie ma na nim ani rysy!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "I na tym polega wyzwanie. Dam <if(gnum4,pani,panu)> magiczny pyłek, który po dokładnym wtarciu w skorupę osłabi ją w tym miejscu. Jeśli uda się <if(gnum4,pani,panu)> dogonić jajo i oderwać fragment, proszę przynieść go tutaj, a wymienię go na bardziej pomyślną nagrodę!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "Proszę pamiętać, że liczy się wyczucie chwili. Nigdy nie wiadomo, kiedy jajo znów ruszy, więc radzę rzucić się na nie, gdy tylko się zatrzyma." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "Pościg za jajem może szybko zmęczyć. Czy <if(gnum4,przyszła pani,przyszedł pan)> trochę odpocząć?" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "Aha, wygląda na to, że <if(gnum4,pani,pana)> determinacja zwyciężyła. To rzeczywiście fragment jaja „benediction egg”. Wypłacę nagrodę zgodnie z obietnicą." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "Znakomita robota, <if(gnum4,proszę pani,proszę pana)>! Zapraszam ponownie! ...Ach tak, <if(gnum4,zauważyła pani,zauważył pan)>, że nie powiedziałem <italic(1)>jajkonale<italic(0)> ani nic takiego? Może i jestem Marzycielem, ale tak jak innych, humor moich towarzyszy bywa dla mnie nieco...męczący." }
   ]
 }

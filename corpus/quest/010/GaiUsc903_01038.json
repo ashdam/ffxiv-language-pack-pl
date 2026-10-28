@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc903_01038",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_01", "hash": "425626251FFB9083", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_000", "hash": "66C4369A6EE32D4C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_001", "hash": "882B656C7D960F71", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_010", "hash": "CE72951D106C0EA8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_011", "hash": "2BBE6DB63415D2D4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_POP_MESSAGE_000", "hash": "73F551F8B29862B4", "target": "" }
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "Rafold potrzebuje kogoś do pełnienia warty." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "Garnizon w obozie Camp Bluefog potrzebuje dodatkowych oczu do obserwowania Garleańczyków na północy. Stań na warcie w trzech miejscach, gdzie powiewa sztandar Nieśmiertelnych Płomieni." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "Warta we wszystkich trzech miejscach dobiegła końca. Wróć do Rafolda i przekaż mu swoje spostrzeżenia." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "Rafold z ulgą słyszy, że nie dostrzeżono Garleańczyków, ale wie, że wróg tylko czeka na chwilę nieuwagi wartownika, by uderzyć." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "Pełnić wartę przy obiektach „<ennoun(EObj,3,2002253,2,1)>” i pokonać wrogów" },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_01", "hash": "425626251FFB9083", "target": "Zdać raport Rafoldowi" },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_000", "hash": "66C4369A6EE32D4C", "target": "Gdy rozmawiamy, nasz garnizon szykuje się do wymarszu, pozostawiając wieże strażnicze z niedostateczną obsadą." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_001", "hash": "882B656C7D960F71", "target": "Nie możemy jednak spuścić Garleańczyków z oczu ani zapominać, że i oni nas obserwują. Dlatego proszę stanąć na warcie i dopilnować, by nasze flagi powiewały wysoko, widoczne dla wszystkich." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_010", "hash": "CE72951D106C0EA8", "target": "Warta dobiegła końca. Może były to tylko doblyny, ale kto wie, jakie niewidoczne grozy spadłyby na nas bez tej czujnej straży." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_011", "hash": "2BBE6DB63415D2D4", "target": "Dopóki pozostajemy w cieniu Castrum Meridianum, musimy być stale czujni." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_POP_MESSAGE_000", "hash": "73F551F8B29862B4", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

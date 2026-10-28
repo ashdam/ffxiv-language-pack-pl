@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzh005_05178",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_SEQ_00", "hash": "D07407184F682F2A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Niespokojny Milalla obawia się najgorszego." },
+    { "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_SEQ_00", "hash": "D07407184F682F2A", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Niespokojny Milalla obawia się najgorszego." },
     { "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_SEQ_01", "hash": "9A482A0F7B36FDED", "target": "Zaczepia cię niespokojny Milalla. Błaga o pomoc w ocaleniu bezbronnych zwierząt przed głodnymi skorpionami w Menażerii Lontowej. Zanim zadasz dalsze pytania, pędzi ku menażerii, zakładając, że zaraz dołączysz.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },
     { "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_SEQ_02", "hash": "AB2D025E9E009DEC", "target": "Milalla z przerażeniem odkrywa, że wulkaniczne skorpiony tropią dwójkę małych stworzeń. Nie potrafi opanować emocji i ślepo rzuca się ku skorpionom, chcąc je odstraszyć. Musisz go odnaleźć, zanim dojdzie do najgorszego." },
     { "gameKey": "quest/051/KinGzh005_05178#TEXT_KINGZH005_05178_SEQ_03", "hash": "AB0F3F2CAF87E272", "target": "Choć szybko zabijasz skorpiony, Milalla zastyga ze strachu. Potrzebuje pomocnej dłoni, by otrząsnąć się i wrócić do rzeczywistości." },

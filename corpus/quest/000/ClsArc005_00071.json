@@ -80,7 +80,7 @@
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_LUCIANE_000_93", "hash": "4A332FB14D1439F1", "target": "Gdy skupimy się na jednym celu i dążymy do niego z pasją oraz zapałem, łatwo stracić z oczu wszystko inne." },
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_LUCIANE_000_94", "hash": "A58D3B4DA385DFCC", "target": "Dzięki swoim umiejętnościom i przenikliwości może <if(gnum4,pani,pan)> pomóc innym łucznikom spojrzeć poza siebie i pamiętać o towarzyszach. Mam nadzieję, że nadal mogę liczyć na <if(gnum4,pani,pana)> wsparcie, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_QIB_TODO_001", "hash": "B7FBD026B0ACA16C", "target": "Pokonaj Leih Aliapoh!" },
-    { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_TITLE", "hash": "A9E2CE95E737A515", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Homecoming”?" },
+    { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_TITLE", "hash": "A9E2CE95E737A515", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Powrót do domu”?" },
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_YES", "hash": "5EF6FBEACF1A4340", "target": "Tak" },
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_NO", "hash": "F79DCCD9126988F3", "target": "Nie" },
     { "gameKey": "quest/000/ClsArc005_00071#TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_01", "hash": "4CAC1D845216EA30", "target": "Mówię, walcz ze mną, do cholery! Czemu się powstrzymujesz!?" },

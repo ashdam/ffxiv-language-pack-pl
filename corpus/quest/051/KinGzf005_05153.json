@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzf005_05153",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_SEQ_00", "hash": "D9F26A80B5E90ED6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Niepewność Doriana jest wyczuwalna." },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_SEQ_00", "hash": "D9F26A80B5E90ED6", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Niepewność Doriana jest wyczuwalna." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_00", "hash": "639730BF57A28B32", "target": "Znajdź pechowego łowcę i pokonaj wszystkie zagrażające mu potwory." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_01", "hash": "81FE1D7AD53B5664", "target": "Pomóż pechowemu łowcy." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_02", "hash": "D4A502BC8FDB98E3", "target": "Porozmawiaj z Dorianem." },

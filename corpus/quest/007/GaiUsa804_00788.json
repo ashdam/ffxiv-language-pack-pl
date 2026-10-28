@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa804_00788",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "" }
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "Somerhild z Fallgourd Float prosi cię o pomoc dla zapominalskiego przyjaciela." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "Kompan Somerhild od kieliszka zgubił klucz do pokoju w Bobbing Cork. Odzyskaj go, by biedaczysko nie musiał spędzić ciężkiej nocy na ulicy." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "Zgubiony klucz został odnaleziony. Dostarcz go Aeluuinowi z Bobbing Cork." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "Aeluuin dziękuje za odzyskanie klucza zgubionego przez pijanego klienta. Ostatnio po okolicy kręci się tajemnicza postać w masce, więc gospodarz martwi się o bezpieczeństwo gości." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "Poszukać zgubionego klucza" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "Zwrócić klucz Aeluuinowi" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "Jak podoba się <if(gnum4,pani,panu)> Fallgourd Float? Wyborna herbata, ciepłe łóżka, dobre piwo i miłe towarzystwo w Bobbing Cork. Nic dziwnego, że tylu podróżnych lubi się tu zatrzymywać w drodze do Coerthas." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "A skoro o Bobbing Cork mowa, parę dzwonów temu piłam tam z pewnym podróżnym i gawędziliśmy. Najwyraźniej biedak trochę przesadził, bo gdy doszedł do siebie, klucz do pokoju przepadł bez śladu." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "Przez te wszystkie ostatnie pogłoski i mój znajomy, i gospodarz umierają ze strachu. Gdyby udało się znaleźć klucz, proszę go oddać w gospodzie. Oszczędzi to więcej niż jednemu człowiekowi bezsennej nocy." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "Przeklęty moczymorda! Zawsze powtarzam: kto nie ma głowy do trunków, niech pije herbatę! Przepraszam, jest coś dla mnie?" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "Przecież ja wszędzie szukałem tego klucza! Bogowie mi <if(gnum4,pani,pana)> zesłali!" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "Proszę wybaczyć. Ostatnio krążą pogłoski o podejrzanym zamaskowanym mężczyźnie w tych stronach i zarówno ja, jak i moi goście mamy nerwy napięte jak postronki." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "W każdym razie dzięki <if(gnum4,pani,panu)> ten opój może dziś spać spokojnie we własnym łóżku. Radzę również poszukać bezpiecznego noclegu." }
   ]
 }

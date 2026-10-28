@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea104_00401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "" }
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "Kazai Buoyzai, przewoźnik z Podniebnej Windy, prosi o zabicie myszołowów napadających na wozy na trakcie." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "Zwabione zapachem mięsa głodne myszołowy atakują wozy z żywnością jadące do Posterunku De Nevelle. Wykorzystaj ich upodobanie do padliny: zanieś worek zgniłego szczurzego mięsa do ich gniazda i zwab padlinożerców w śmiertelną zasadzkę." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "Myszołowy nie stanowią już zagrożenia. Wróć do Podniebnej Windy i złóż raport Kazai Buoyzai." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "Utrzymujące się skutki Katastrofy dotykają nie tylko mieszkańców Eorzei─nawet padlinożercy zmuszeni są do niezwykłych, desperackich zachowań. Choć wiele zrobiono, by naprawić zniszczenia, blizny jeszcze długo nie znikną." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "Wysypać szczurze mięso do gniazda myszołowów i zabić zwabione myszołowy" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "Złożyć raport Kazai Buoyzai przy Podniebnej Windzie" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "<if(gnum4,Przydatna z ciebie dziewczyna,Przydatny z ciebie chłopak)>. Co powiesz na jeszcze jedną przysługę? Mamy mały problem z myszołowami, które spadają z nieba i kradną ładunek z wozów jadących do Posterunku De Nevelle." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "Zwykle te pierzaste diabły trzymają się z daleka, ale wóz pełen mięsa to dla nich za wielka pokusa. Wykorzystajmy tę słabość i zwabmy chciwe dranie w pułapkę." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "Weź ten worek zgniłego szczurzego mięsa i postaw na terytorium sępów─tam, gdzie gnieżdżą się myszołowy. Kiedy dranie przylecą na ucztę, przetrzep im dzioby. Proste." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "Nie wydziobały ci oczu? Wredne są te myszołowy. Ale ostatni wóz przejechał bez straty choćby kęsa, więc chyba dość tych złodziejskich piór poleciało, żeby zabezpieczyć trasę." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "Masz moje podziękowania, <if(gnum4,dziewczyno,chłopcze)>. Zarabiam głównie na przewozie żywności. Bez twojej pomocy w tydzień spałbym w rynsztoku." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "Chyba nawet padlinożercom brakuje żarcia po Katastrofie, inaczej nie ważyłyby się na takie numery. Tym razem jednak szczęście im nie dopisało, co?" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "custom/000/CmnDefTemporaryBag_00083",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01", "hash": "E4CC2CED75F601ED", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1", "hash": "6112C4F44F96FCDC", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1", "hash": "91B000893DFBE27B", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2", "hash": "6D91D5D01E9D4176", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3", "hash": "E33EBD7AE6924765", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05", "hash": "8A17198F34401125", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06", "hash": "6727BD303A85DC79", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10", "hash": "289FAB19771A7E5C", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11", "hash": "52885FAEF6E99129", "target": "" }
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01", "hash": "E4CC2CED75F601ED", "target": "Witaj. Zajmuję się przechowywaniem dobytku utraconego podczas Katastrofy." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1", "hash": "6112C4F44F96FCDC", "target": "Czy chodzi o odzyskanie twoich rzeczy?" },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1", "hash": "91B000893DFBE27B", "target": "Tak." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2", "hash": "6D91D5D01E9D4176", "target": "Wysłuchać wyjaśnień." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3", "hash": "E33EBD7AE6924765", "target": "Nie." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05", "hash": "8A17198F34401125", "target": "Podczas Katastrofy zaginęły niezliczone rzesze ludzi, pozostawiając prawdziwą górę przedmiotów bez właścicieli. Gildia Poszukiwaczy Przygód przechowuje je bezpiecznie z nadzieją, że pewnego dnia właściciele zgłoszą się po swój dobytek." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06", "hash": "6727BD303A85DC79", "target": "Uprzedzamy jednak, że <italic(1)>nie<italic(0)> prowadzimy przechowalni. Za odzyskane przedmioty odpowiadasz wyłącznie ty i pod żadnym pozorem nie możesz nam ich oddać." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10", "hash": "289FAB19771A7E5C", "target": "Z każdym dniem coraz mniej osób zgłasza się po swoje rzeczy." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11", "hash": "52885FAEF6E99129", "target": "Smutno myśleć, że niektóre przedmioty pozostaną u nas na zawsze, a ich właściciele nigdy nie wrócą." }
   ]
 }

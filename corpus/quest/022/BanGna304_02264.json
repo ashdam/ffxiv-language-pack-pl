@@ -2,18 +2,18 @@
   "conversation": "quest/022/BanGna304_02264",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_00", "hash": "4CCBF12E1B7BEA4A", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_01", "hash": "A7D40700D43F1A86", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_02", "hash": "48673FF9530BAA1A", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_03", "hash": "97CC472628FAAAEC", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_00", "hash": "1871B92516828CDE", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_01", "hash": "CE1EF5A17894A813", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_000", "hash": "FA18FC3B212252C9", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_001", "hash": "19DD4B702C16BDD9", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_002", "hash": "A8A95774F59D2EEA", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_003", "hash": "516151A03CC4D644", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_010", "hash": "209830BB9732486B", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_011", "hash": "1AB808DC51EF4E4D", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_012", "hash": "B94CF65398849582", "target": "" }
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_00", "hash": "4CCBF12E1B7BEA4A", "target": "Vath keeneye na twój widok odczuwa ulgę.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_01", "hash": "A7D40700D43F1A86", "target": "Stosunki Vath z łowcami z Tailfeather poprawiają się z każdym dniem. Ostatnia fala ataków zwierząt utrudnia jednak podróże i handel między osadami. Vath keeneye pragnie ocalić rodzącą się przyjaźń i prosi cię o zbadanie okolicy oraz zabicie bestii nękających podróżnych w lesie.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_02", "hash": "48673FF9530BAA1A", "target": "Na drodze między Loth ast Vath a Tailfeather atakują cię niedźwiedzie brunatne. Na szczęście nie mają z tobą szans. Wróć do Vath keeneye i zapewnij go, że droga do Tailfeather znów jest bezpieczna." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_03", "hash": "97CC472628FAAAEC", "target": "Po powrocie do Loth ast Vath zastajesz wyraźnie uspokojonego Vath keeneye. Przyznaje, że otrzymali zlecenie już jakiś czas temu. Gdy jednak usłyszeli o niedźwiedziach, postanowili zaczekać na kogoś takiego jak ty, by wykonał zadanie. Ma nadzieję, że kiedyś Vath zbiorą dość odwagi, by podejmować się groźniejszych zleceń." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_00", "hash": "1871B92516828CDE", "target": "Obejrzeć wskazane miejsca i zabić bestie, które się pojawią" },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_01", "hash": "CE1EF5A17894A813", "target": "Złożyć meldunek Vath keeneye" },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_000", "hash": "FA18FC3B212252C9", "target": "Ach, <if(gnum4,wielka łowczyni,wielki łowco)>. Idealna istota z mięsa do tego zadania." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_001", "hash": "19DD4B702C16BDD9", "target": "Odkąd zaczęliśmy pomagać łowcom w Tailfeather, między naszymi osadami panuje spory ruch. \\<klika> \\<klika> Tak, spory ruch." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_002", "hash": "A8A95774F59D2EEA", "target": "Ale przyciąga to niepożądaną uwagę mieszkańców lasu. Dzikie zwierzęta ciągną ku drodze i napadają na naszych braci oraz istoty z mięsa. Podróżowanie nią nie jest już bezpieczne." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_003", "hash": "516151A03CC4D644", "target": "Większość ataków zdarza się w trzech miejscach. Zaznaczę je na mapie. Tak, trzy miejsca do sprawdzenia. \\<klika> \\<klika> Rozejrzyj się uważnie i zabij napotkane bestie." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_010", "hash": "209830BB9732486B", "target": "<if(gnum4,Wielka łowczyni wraca cała,Wielki łowca wraca cały)>! Dobrze zrobiliśmy, powierzając to zadanie istotom z mięsa." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_011", "hash": "1AB808DC51EF4E4D", "target": "Prawdę mówiąc... wiedzieliśmy, że chodzi o polowanie na niedźwiedzie. Ale są takie dzikie i takie wysokie, gdy stają na tylnych łapach! \\<klika> \\<klika> Są o wiele zbyt niebezpieczne. Tak, o wiele zbyt niebezpieczne." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_012", "hash": "B94CF65398849582", "target": "Otrzymaliśmy zlecenie kilka dni temu, ale czekaliśmy. Wiedzieliśmy, że najlepiej zaczekać na istoty z mięsa─takie jak ty, <if(gnum4,wielka łowczyni,wielki łowco)>. W przyszłości bardziej się postaramy. Tak, następnym razem spróbujemy być tak odważni jak ty." }
   ]
 }

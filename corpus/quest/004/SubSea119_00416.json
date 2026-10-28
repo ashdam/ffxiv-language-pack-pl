@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea119_00416",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "" }
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "A'zumyn, inspektorka terenowa Bramy Mealvaana, szuka pomocy w wytępieniu nieznanego szkodnika." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "Udaj się na północny wschód od Nabrzeża Candlekeep i poszukaj podejrzanych kopców ziemi. Połóż na jednym kawał cuchnącego mięsa dodo i zabij wszystko, co wypełznie z gruntu." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "Udało się pokonać rodzinę thavnairskich roztoczy. Wróć na Nabrzeże Candlekeep i złóż raport A'zumyn." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "Choć brakuje twardych dowodów, A'zumyn sądzi, że thavnairskie roztocze mogły trafić w te okolice z piratami przemycającymi zakazane towary z Radz<-->at<-->Han na Vylbrand." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "Położyć cuchnące mięso dodo na podejrzanym kopcu i zabić zwabione stworzenia" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "Złożyć raport A'zumyn na Nabrzeżu Candlekeep" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "Przepraszam, czy mogę zająć chwilę? Pozwolę się przedstawić. Jestem A'zumyn, inspektorka terenowa Bramy Mealvaana. Pracując dla urzędu celnego, badam doniesienia o nielegalnym sprowadzaniu zakazanych towarów z obcych krajów." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "Ostatnio mieszkańcy Nabrzeża Candlekeep wielokrotnie zgłaszali obecność gatunku niewystępującego naturalnie na Vylbrandzie. Jeśli rzeczywiście pochodzi spoza wyspy, trzeba go natychmiast odnaleźć i wytępić, zanim zdoła się rozmnożyć i zakłócić równowagę tutejszej fauny." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "Proszę wziąć ten kawał cuchnącego mięsa dodo i położyć na jednym z kopców ziemi, które uznajemy za gniazda inwazyjnego gatunku. Zapach powinien wywabić ukryte pod spodem stworzenia, czyniąc je łatwym celem." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "Thavnairskie roztocze!? Zbieraliśmy już ich jaja z ładunków na statkach z Radz<-->at<-->Han... ale zawsze w Limsie Lominsie." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "Nie ma zapisów, by statki płynące do tego małego wyspiarskiego państwa lub z niego zawijały na Nabrzeże Candlekeep... Zresztą nie miałyby po co." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "Chyba że... roztocze nie przypłynęły na statku, który tu zacumował, lecz na innej jednostce... o bardziej niecnych zamiarach. Sprawa wymaga dalszego dochodzenia. Jeszcze raz dziękuję za pomoc. Być może niedługo znów poproszę o przysługę." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "Głodne stworzenie wychodzi z gniazda!" }
   ]
 }

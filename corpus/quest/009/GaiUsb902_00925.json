@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb902_00925",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "" }
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "Ser Benedict najwyraźniej powstrzymuje śmiech." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Haustefortem lub Cidem w Placówce Whitebrim, zależnie od twoich postępów.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "Można by ci opowiedzieć, jak dzielnie walczyły te krokodyle. Jakie niezapomniane wyzwanie ci rzuciły, o którym z dumą opowiesz towarzyszom przy kuflu piwa. Ale Eorzea nie jest światem baśni, a życie nie jest pieśnią. Czasem zabijasz bożka, a czasem nie. Może jednak ser Clotairion bardziej doceni twoje dokonania." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "Ser Clotairion jest wdzięczny za twoją przysługę, choć doskonale zdaje sobie sprawę, że twoim zamiarem było tylko wkupienie się w jego łaski. Mimo to obiecuje powiadomić lorda Drillemonta o twoich czynach." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, aby rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i przyjąć ponownie, aby rozpocząć od nowa<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "No proszę, chyba nie sądzisz, że zdobycie zaufania lorda Drillemonta będzie <italic(1)>takie<italic(0)> łatwe? Nawet jeśli jesteś tym, za kogo się podajesz, bezmyślne zawierzenie twojej opowieści byłoby z jego strony lekkomyślne." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "Możesz przynajmniej okazać wsparcie rodowi Durendaire, zabijając za nas feral crocs." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "Tak prosty gest pewnie zjednałby ci szacunek ser Clotairiona. Ciągle ma trudności ze znalezieniem ludzi do tego zadania. Może spróbujesz?" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "Ptaszki ćwierkają, że <if(gnum4,zabiła pani,zabił pan)> kilka krokodyli, by wkupić się w moje łaski. Obawiam się, że <if(gnum4,została pani oszukana,został pan oszukany)>─ten młodzik po prostu chciał wymigać się od obowiązków." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "Mimo to intencje były dobre i nie można zaprzeczyć, że mieszkańcom Coerthas będzie lepiej bez tych bestii. Dobrze, dopilnuję, by lord Drillemont dowiedział się o <if(gnum4,pani,pana)> czynach." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "Proszę jednak spróbować zrozumieć położenie mojego pana. To on odpowiada za przygotowanie Placówki Whitebrim na każdą ewentualność, czy to niekończącą się zamieć, czy drawański atak. Nie narazi naszych starań o odbicie Stone Vigil bez ważnego powodu, którego jak dotąd mu <if(gnum4,pani nie dała,pan nie dał)>." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz011_02645",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "" }
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "Ansger martwi się o zaopatrzenie wioski w wodę." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "Zabić trzy dust anila i zdobyć ich rdzenie" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "Dostarczyć rdzenie anili Ansgerowi" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "<if([gnum11<12],<if([gnum11<4],Dobry wieczór,Dzień dobry)>,<if([gnum11<17],Dzień dobry,Dobry wieczór)>)>, <if(gnum4,dziewczyno,chłopcze)>. Wyglądasz na kogoś, kto radzi sobie w walce. Pomożesz mi?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "Kiedyś Ala Gannha słynęła z kamieniołomu i wydobywanego w nim kamienia. Niestety splot problemów położył temu kres. Jeden z nich dotyczy teraz tutejszego zaopatrzenia w wodę." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "Praca w kamieniołomie wymaga ogromnych ilości wody─która przy tym straszliwie się brudzi. Gdyby trafiła do zbiornika przy wiosce, stracilibyśmy jedyne źródło czystej wody pitnej." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "Gdybyśmy jednak mieli rdzeń anili albo dwa─niech będą trzy─moglibyśmy łatwo oczyścić wodę." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "Zabij trzy dust anila i przynieś ich rdzenie. Powinny być na południu." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "Zabij trzy dust anila i przynieś ich rdzenie. Powinny być na południu." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "Udało się zdobyć trzy rdzenie?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "Świetnie! Pomogą nam usunąć pył mineralny z wody używanej w kamieniołomie." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "Zanim najechało nas Imperium, cała wioska wspólnie polowała na anile, by zbierać ich rdzenie. Teraz nie mamy dość ludzi, skoro połowę mieszkańców Ala Gannha wcielono do imperialnej armii." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "Nie żeby było dla nas zajęcie, nawet gdyby ludzi przybyło. Garlemald buduje wyłącznie z metalu." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "Ale mniejsza z tym. Dzięki za pomoc, <if(gnum4,dziewczyno,chłopcze)>. Naprawdę ją doceniam." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz112_01761",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "" }
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "Jantellot uważa, że pora spróbować swych sił w polowaniu na smoki." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "Widząc, jak łatwo rozprawiasz się z powierzonymi ci wcześniej rheums, Jantellot proponuje tym razem polowanie na prawdziwe smoki. Archaeornis stanowią straż przednią Drawańskiej Hordy i kręcą się po zaspach na północ od obozu, w pobliżu Stawu Zguby. Jantellot poleca ci odnaleźć i zabić trzy takie łuskowate, opierzone bestie." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "Bez większego trudu odnajdujesz i zabijasz trzy archaeornis. Wróć do Convictory i powiadom Jantellota, że nie uchylasz się przed tym wyzwaniem." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "Jantellot jest pod wrażeniem sprawności, z jaką zabijasz swą zdobycz. Wyjaśnia, że jeśli zechcesz dołączyć do grupy Convictors, przyjmą cię z otwartymi ramionami. Zawsze potrzebują dobrych ludzi." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "Pokonać archaeornis" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "Zdać sprawę Jantellotowi" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "Te rheums, które ostatnio udało ci się wybić, mogły być łatwą zdobyczą, ale zapewniam cię─smoki takie nie są. Nawet doświadczeni członkowie grupy Convictors miewają z nimi czasem niemały kłopot." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "Jeśli chcesz spróbować, radzę zacząć od archaeornis. To wielkie, opierzone potwory łuskoskóre, które wchodzą w skład straży przedniej Hordy." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "Znajdziesz te bestie na północy, koło Stawu Zguby. Wytrop trzy archaeornis i zabij je bez litości. Uznaj to, jeśli chcesz, za próbę umiejętności." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "Ruszaj w stronę Stawu Zguby i zabij trzy tamtejsze archaeornis. Jeśli cię przerosną, nie ma wstydu się do tego przyznać. Nie mam zamiaru wysyłać <if(gnum4,porządnej kobiety,porządnego mężczyzny)> na śmierć." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "I jak te archaeornis? Może nie są mądre, ale porządnie walczą, nie uważasz?" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "He, mówisz o tym tak, jakby to było łatwe! Ale nie wszyscy mieliśmy okazję walczyć u boku Lazurowego Smoczego Rycerza─i na własne oczy zobaczyć, jak najlepiej powalać te potężne bestie." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "Wielu Ishgardczyków uważa, że my, szlachcice z Convictory, jesteśmy tu tylko z próżności i kaprysu. Nie rozumieją ryzyka, jakie podejmujemy, broniąc Ishgardu przed Hordą. Ale czuję, że ty chyba rozumiesz... Jeśli kiedykolwiek postanowisz dołączyć do grupy Convictors, wystarczy słowo!" }
   ]
 }

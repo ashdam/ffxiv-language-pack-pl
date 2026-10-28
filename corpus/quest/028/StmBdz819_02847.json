@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz819_02847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_SEQ_00", "hash": "9C1E72C40731D8C6", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_00", "hash": "CDEC9FEE58526B16", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_01", "hash": "8CA07A16C3040303", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_000", "hash": "035A997D1128F488", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_001", "hash": "48AD002D00D56B80", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_002", "hash": "96F92BF5EFB5C238", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_003", "hash": "F10A61BBF96A2AE9", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_009", "hash": "3E007C7A1BAC8014", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_010", "hash": "FCD76B409341E86B", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_011", "hash": "9AF8EBB79D4D4AD6", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_012", "hash": "2BD920F7FC23FB9E", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_013", "hash": "7936BCAFE89C71F8", "target": "" }
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_SEQ_00", "hash": "9C1E72C40731D8C6", "target": "Guntmarowi przydałoby się coś na pobudzenie." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_00", "hash": "CDEC9FEE58526B16", "target": "Zabić muud suud i zdobyć jego róg" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_01", "hash": "8CA07A16C3040303", "target": "Dostarczyć róg muud suud Guntmarowi" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_000", "hash": "035A997D1128F488", "target": "Kogo ja widzę w takim miejscu! Właściwie przydałaby mi się pomoc <if(gnum4,tak zdolnej poszukiwaczki,tak zdolnego poszukiwacza)> przygód." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_001", "hash": "48AD002D00D56B80", "target": "Samotne stanie na warcie jest zadziwiająco męczące. Ostatnio nie mogę się skupić i przysypiam o najdziwniejszych porach dnia." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_002", "hash": "96F92BF5EFB5C238", "target": "Bardzo by mi pomogło, gdyby udało ci się przynieść jeden róg bestii muud suud z okolic Goodblade." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_003", "hash": "F10A61BBF96A2AE9", "target": "Potrzebuję tylko jednego rogu bestii muud suud z okolic Goodblade. <if(gnum4,Takiej poszukiwaczce,Takiemu poszukiwaczowi)> przygód chyba łatwo to przyjdzie, co?" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_009", "hash": "3E007C7A1BAC8014", "target": "Nie było kłopotów ze zdobyciem rogu?" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_010", "hash": "FCD76B409341E86B", "target": "Doskonale. Właśnie tego potrzebowałem, żeby znów stanąć żwawo na nogi." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_011", "hash": "9AF8EBB79D4D4AD6", "target": "Przydzielono mnie tutaj, bo trochę znam okolicę, ale znam też kilka innych sztuczek, o których większość ludzi nie wie. Na przykład można zmielić taki róg na proszek i zalać wrzątkiem. Dobrze robi na zdrowie i ma takiego kopa, że od razu stawia na nogi." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_012", "hash": "2BD920F7FC23FB9E", "target": "Wiesz, czasem się dziwię, że przy tak skąpych zasobach udało nam się przetrwać w tych górach tak długo. To chyba najlepszy dowód wartości wiedzy i umiejętności, które przodkowie przekazywali z pokolenia na pokolenie." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_013", "hash": "7936BCAFE89C71F8", "target": "Ekhm. Przepraszam, dawno nie miałem tu z kim porozmawiać. Jeszcze raz dzięki za pomoc." }
   ]
 }

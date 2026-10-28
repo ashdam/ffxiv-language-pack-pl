@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn402_02986",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "" }
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "Zukin szuka nowego sposobu na handel z ludem Namazu.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Zabić stworzenie spry gyuki i zdobyć kawałek jego mięsa" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "Zdać sprawę Zukinowi" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "Podczas handlu z ludem Namazu odkryliśmy, że jednym z ich przysmaków jest mięso groźnych stworzeń gyuki." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Jednak sami z trudem zdobywają to mięso. Handlarze z nich sprytni, ale kiepscy myśliwi. Mogę jeszcze raz skorzystać z twoich usług?" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "I jak, łowy udane?" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "Kami, zmiłujcie się! Jeśli Namazu oceniają mięso po wielkości i smrodzie, to powinni być więcej niż zadowoleni." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "Ludzi i lud Kojin zazwyczaj odrzuca od tak cuchnącej, żylastej strawy, ale Namazu nie mają podobnych oporów." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "Handel tym skądinąd bezwartościowym mięsem wzmocni nasze więzi z ludem Namazu i zapewni nam bardzo potrzebne fundusze. Może jeszcze kiedyś skorzystamy z twojego talentu do zabijania stworzeń gyuki?" }
   ]
 }

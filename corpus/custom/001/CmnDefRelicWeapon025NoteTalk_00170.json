@@ -2,14 +2,14 @@
   "conversation": "custom/001/CmnDefRelicWeapon025NoteTalk_00170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "Próby Śmiałków to dziewięciotomowe dzieło literackie opisujące bohaterskie czyny Zodiakalnych Śmiałków." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "Jak już mówiłam, chętnie oddam każdą księgę po obniżonej cenie: 100 sztuk przedmiotu „<ennoun(Item,3,　28,1,1)>”." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "Pokonanie wszystkich wrogów wymienionych w jednym tomie Trials of the Braves zwiększy atrybuty twojej broni reliktowej atma." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "Dla każdej broni reliktowej istnieje odrębny zestaw Trials of the Braves. Składa się z dziewięciu ksiąg, z których początkowo tylko cztery są dostępne do wymiany." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "W przypadku jobu Paladin zestaw obejmuje siedem ksiąg dla miecza Curtana i dwie dla świętej tarczy. Początkowo do wymiany dostępnych jest tylko sześć z nich." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "Każdą księgę sprzedaje G'jusana. Pamiętaj jednak, że możesz mieć przy sobie tylko jedną naraz." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "Zanim kupisz kolejną księgę, musisz wykonać wszystkie cele poprzedniej." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "Możesz też pozbyć się księgi, rozmawiając z G'jusaną albo korzystając z menu Przedmioty kluczowe." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "To kończy wyjaśnienie procesu ulepszania. Niech twoja broń reliktowa nasyci się duszami wrogów!" }
   ]
 }

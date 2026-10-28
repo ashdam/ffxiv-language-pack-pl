@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea064_00476",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_00", "hash": "1BC2C09CFD8FE48A", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_01", "hash": "4365FB4772CB8914", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_02", "hash": "6101410BC0926940", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_03", "hash": "CC43DD84B0707373", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_00", "hash": "F669AF4FB104B4B6", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_01", "hash": "6CCC22E759B08725", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_0", "hash": "B99C01B5B2039152", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_1", "hash": "C3A41DC122D3F14D", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_2", "hash": "2D237DDFFA842574", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_3", "hash": "735895CC36105959", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_10", "hash": "73EF0A7484BC1697", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_11", "hash": "AC4E8E7CCC9BCBFF", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_12", "hash": "4960830732D9153A", "target": "" }
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_00", "hash": "1BC2C09CFD8FE48A", "target": "Anaoc szuka kogoś, kto pomoże Zagrodzie Red Rooster." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_01", "hash": "4365FB4772CB8914", "target": "Anaoc prosi o dostarczenie wełny do Szarej Floty. Weź worek wełny przy owczej zagrodzie." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_02", "hash": "6101410BC0926940", "target": "Worek wełny jest już w twoich rękach. Dostarcz go Weitzarenowi w Szarej Flocie." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_03", "hash": "CC43DD84B0707373", "target": "Weitzaren przyjmuje dostawę z mieszaniną irytacji i zachwytu. Dzięki tobie młynarz może wreszcie zabrać się za wyrób filcu." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_00", "hash": "F669AF4FB104B4B6", "target": "Zabrać worek wełny" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_01", "hash": "6CCC22E759B08725", "target": "Dostarczyć worek wełny Weitzarenowi w Szarej Flocie" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_0", "hash": "B99C01B5B2039152", "target": "Mam nadzieję, że nie krzywisz się na przeniesienie odrobiny wełny. Owce ostrzyżone, runo wyprane, a worek gotowy do drogi." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_1", "hash": "C3A41DC122D3F14D", "target": "Zwykle ten szalony młynarz z północy bierze je i przerabia nam na filc." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_2", "hash": "2D237DDFFA842574", "target": "Ale dziś jego kurier zajmuje się chyba tylko wełną we własnym kocu, próżniak jeden." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_3", "hash": "735895CC36105959", "target": "Miałem więc nadzieję, że zaniesiesz worek wełny leżący przy owczej zagrodzie do młynarza─nazywa się Weitzaren." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_10", "hash": "73EF0A7484BC1697", "target": "Młynarz bez runa jest jak malarz bez płótna! Poeta bez słów! Człowiek bez celu!" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_11", "hash": "AC4E8E7CCC9BCBFF", "target": "Niech szlag trafi tego kuriera! Czy owce przestają porastać wełną? Czy młyn przestaje się kręcić? Kto mu pozwolił odpoczywać?" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_12", "hash": "4960830732D9153A", "target": "Ech! Niech sobie liczy owce w łóżku! Wełna wreszcie jest moja, a wkrótce powstanie filc! Młahahaha..." }
   ]
 }

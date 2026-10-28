@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc707_01019",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "Bloeidin potrzebuje twojej pomocy w przeprowadzeniu dywersji." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "Bloeidin zamierza zniszczyć nowy tygiel opracowany przez biegłe w alchemii plemię Kobold. Tobie powierza zadanie odwrócenia jego uwagi. Udaj się nad Żelazne Jezioro i za pomocą otrzymanych od komandora prowizorycznych bomb wysadź zapasy wrogiej armii, odciągając jej uwagę od głównego celu." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "Niszczysz zapasy Kobold zgodnie z rozkazami. Wróć do Bloeidina i dowiedz się, czy misja zakończyła się powodzeniem." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "Bloeidin oznajmia, że operacja zakończyła się sukcesem, w niemałej mierze dzięki tobie. Utrata tygla powinna na jakiś czas podciąć skrzydła plemieniu Kobold." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "Wysadzić zapasy Kobold prowizorycznymi bombami" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "Zdać sprawę Bloeidinowi" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "Nie możemy przecież zostawić całej zabawy moim ludziom, co? Pomożesz nam w małej operacji? Uderzymy tych z plemienia Kobold tam, gdzie zaboli ich najbardziej─w tygiel." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "Jak wiesz, te bestie szczycą się znajomością alchemii. Znaleźliśmy ukryty magazyn z prototypem nowego tygla. Nie wiem, co potrafi, i wcale nie chcę się przekonać. Odwróć uwagę wroga, a moi ludzie zajmą się tyglem." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "Zabierz te prowizoryczne bomby nad Żelazne Jezioro. Znajdziesz tam zapasy armii Kobold─chyba nie muszę tłumaczyć, co dalej. I pamiętaj: im większy wybuch, tym lepiej." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "Dobra robota─wybuchy było słychać aż tutaj! Z przyjemnością donoszę, że operacja zakończyła się pełnym sukcesem. Tygla już nie ma." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "To powinno na jakiś czas uspokoić plemię Kobold. Ach, nie ma to jak dobrze wykonana robota. Dzisiejszy grog będzie smakował najlepiej od wielu miesięcy." }
   ]
 }

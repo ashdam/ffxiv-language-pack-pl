@@ -2,16 +2,16 @@
   "conversation": "quest/043/AktKzj011_04347",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEQ_00", "hash": "6BCCCD33DA3E75DF", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_00", "hash": "3CC89DA1B5F7617B", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_01", "hash": "1D0253569725D771", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_000", "hash": "799D53B48FE4781A", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_001", "hash": "41C1025407E5FEB2", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_002", "hash": "7786EF9C8159267C", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_003", "hash": "08D10E16A4F80836", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_010", "hash": "B5CE915D7AC15BE3", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011", "hash": "6C5D1F00187A2CA5", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_012", "hash": "19790FCAF3D260F6", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_013", "hash": "AE588A8AD2961111", "target": "" }
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEQ_00", "hash": "6BCCCD33DA3E75DF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tęskniąca istota Ea najwyraźniej wpatruje się w ciebie uważnie." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_00", "hash": "3CC89DA1B5F7617B", "target": "Zdobyć dwa rdzenie stworzeń luminion" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_01", "hash": "1D0253569725D771", "target": "Dostarczyć rdzenie stworzeń luminion tęskniącej istocie Ea" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_000", "hash": "799D53B48FE4781A", "target": "Witaj, nieznana formo życia. Skoro posiadasz cielesną postać─a ja, jak widzisz, niewątpliwie nie─być może pomożesz mi wyjść z kłopotliwej sytuacji. Otóż próbuję stworzyć naczynie, w którym mogłyby zamieszkać nasze znużone dusze. Niestety, nie mając wzoru, muszę ze wstydem przyznać, że moje eksperymenty zawiodły─i to dość widowiskowo. " },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_001", "hash": "41C1025407E5FEB2", "target": "Być może dostrzegasz produkty uboczne moich nieudanych prac, błąkające się teraz bez celu i żałośnie po okolicy. Plan zakładał samodzielne uprzątnięcie tego bałaganu, lecz dla bezpostaciowej istoty takiej jak ja może to być trudne. Czy zechcesz zamiast mnie położyć kres cierpieniu tych nieszczęsnych stworzeń?" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_002", "hash": "7786EF9C8159267C", "target": "Dziękuję ci, ciekawa istoto! Jeśli przy okazji odzyskasz dla mnie ich wewnętrzne rdzenie, z pewnością bardzo pomogą mi one w przyszłych eksperymentach. W każdym razie niecierpliwie czekam na wieści o twoim nieuniknionym sukcesie." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_003", "hash": "08D10E16A4F80836", "target": "Wciąż tu jesteś? Jeśli zadanie wyleciało ci z pamięci, masz upolować dwa z tych nieszczęsnych stworzeń luminion i odzyskać dla mnie ich rdzenie. Niczym więcej nie musisz się martwić─rozumiem, że wiele spraw tutaj przekracza zdolności pojmowania twego nieoświeconego umysłu." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_010", "hash": "B5CE915D7AC15BE3", "target": "I jak? Czy nieświadome niczego owoce moich prac już nie cierpią? Czy masz dla mnie ich rdzenie? Jeśli tak, oddaj mi je." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011", "hash": "6C5D1F00187A2CA5", "target": "...Tak. To niewątpliwie rdzenie tworzące smutne serca istot mego ludu. Choć zasmuca mnie taki koniec moich wysiłków, pozostaje wyciągnąć z porażek wszelką możliwą naukę, by przyszłe eksperymenty zaowocowały odpowiednim naczyniem." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_012", "hash": "19790FCAF3D260F6", "target": "...W każdym razie od dawna nie spotykaliśmy bytów obdarzonych choć odrobiną inteligencji, którą najwyraźniej posiadasz. Nasze rozmowy dostarczyły nam bodaj odrobiny stymulacji, której brakowało nam od wieków." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_013", "hash": "AE588A8AD2961111", "target": "Dziękuję za pomoc z więcej niż jednego powodu. Mam nadzieję, że nadejdzie dzień, w którym spotkamy się─ach, jak to mówicie?─w ciele z krwi i kości." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubFst069_00385",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "" }
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "Berthe z Lustrzanego Pomostu szuka kogoś, kto przyniesie jej wędkę z Liliowego Kamienia." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "Berthe zgubiła wędkę przy Liliowym Kamieniu, gdy rzuciła nią w upiorny płomień, który nagle pojawił się za jej plecami. Udaj się do Liliowego Kamienia i odzyskaj wysłużoną wędkę dla roztrzęsionej mieszkanki Lustrzanego Pomostu." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "Znajdujesz wysłużoną wędkę. Wróć na Lustrzany Pomost i oddaj ją Berthe." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "Wędka wraca do Berthe. Elezenka dobrze zna zwykłych mieszkańców okolicy, lecz nigdy wcześniej nie widziała podobnego, upiornego płomienia. Choć cieszy się z odzyskanego dobytku, zastanawia się, czy kiedykolwiek znów spróbuje łowić przy Liliowym Kamieniu." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "Odzyskać wysłużoną wędkę" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "Dostarczyć wysłużoną wędkę Berthe na Lustrzanym Pomoście" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "Wygląda <if(gnum4,pani,pan)> na kogoś zaradnego. Czy mogę prosić o pójście do Liliowego Kamienia i odzyskanie mojej ulubionej wędki?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "Spokojnie zarzucałam wędkę, gdy nagle spostrzegłam, że od tyłu zbliża się do mnie jakaś upiorna kula ognia. W panice obróciłam się, cisnęłam wędką w zjawę i uciekłam tutaj, na pomosty." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "Pamiętam mgliście, że wędka przeleciała przez te nienaturalne płomienie i uderzyła w namiot, który rozstawiłam na popołudniowe drzemki. Pewnie wciąż tam leży, ale nie mogę się zmusić, żeby─ Pójdzie <if(gnum4,pani,pan)> zamiast mnie? Och, dziękuję!" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "Czy udało się znaleźć moją wędkę?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "Tak, to ona! Dzięki Nophice za tę pomoc─inną po prostu nie potrafię łowić." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "Tutejsze robactwo i inne stworzenia mi nie zagrażają, ale te płomienie... Nigdy nie widziałam podobnych." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "Ciekawe, czy kiedykolwiek zbiorę odwagę, by znów łowić przy Liliowym Kamieniu..." }
   ]
 }

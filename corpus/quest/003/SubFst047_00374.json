@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubFst047_00374",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_00", "hash": "463A4323B041EB37", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_01", "hash": "DFA5A089FDD94C3E", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_02", "hash": "8D8C4924769692C8", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_03", "hash": "8D230B644B91F0D5", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_04", "hash": "AED4CA8B3A8EF760", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_00", "hash": "5C0FCD0A8232DA32", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_01", "hash": "B760DC2FB119A6AF", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_02", "hash": "998F3D5BCC8D31EF", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_1", "hash": "A180F83CB4CCC439", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_2", "hash": "B922BE6EAFF947AB", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_3", "hash": "6BE576876CDD3020", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_11", "hash": "612EB3BA71A83BC6", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_12", "hash": "41A49F4F97AF9799", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_13", "hash": "F29DEE1FBBE2A07A", "target": "" }
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_00", "hash": "463A4323B041EB37", "target": "Keitha, główna opiekunka chocobo w hodowli Bentbranch Meadows, ma dla ciebie pracę na ranczu." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_01", "hash": "DFA5A089FDD94C3E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Keithą w hodowli Bentbranch Meadows.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_02", "hash": "8D8C4924769692C8", "target": "Masz już naręcze szerokolistnej zieleniny Gysahl. Obejdź hodowlę Bentbranch Meadows i uzupełnij każde z koryt na paszę dla chocobo." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_03", "hash": "8D230B644B91F0D5", "target": "Wszystkie koryta na paszę dla chocobo zostały uzupełnione. Wróć do Keithy i powiadom ją o wykonaniu zadania." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_04", "hash": "AED4CA8B3A8EF760", "target": "Keitha wyjaśnia, że chocobo z hodowli Bentbranch Meadows otaczane są troskliwą opieką od wyklucia aż do osiągnięcia wczesnej dorosłości. Zaoferuj pomoc pracownikom rancza, by ptaki były zdrowe i szczęśliwe." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_00", "hash": "5C0FCD0A8232DA32", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Keithą w hodowli Bentbranch Meadows<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_01", "hash": "B760DC2FB119A6AF", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Keithą w hodowli Bentbranch Meadows<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_02", "hash": "998F3D5BCC8D31EF", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Keithą w hodowli Bentbranch Meadows<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_1", "hash": "A180F83CB4CCC439", "target": "Skoro jest tu <if(gnum4,pani,pan)> od niedawna, zacznijmy od łatwej pracy, która pomoże rozeznać się w okolicy, dobrze?" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_2", "hash": "B922BE6EAFF947AB", "target": "Tak się składa, że pora nakarmić chocobo. Proszę wziąć parę wiązek szerokolistnej zieleniny Gysahl ze sterty obok tamtego pola i włożyć je do koryt na paszę." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_3", "hash": "6BE576876CDD3020", "target": "Bentbranch to rozległe miejsce, proszę pamiętać, żeby żadnego nie pominąć. No to w drogę." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_11", "hash": "612EB3BA71A83BC6", "target": "Dziękuję za rozdzielenie zieleniny, <split(<string(gstr1)>, ,1)>. Ufam, że przy okazji udało się <if(gnum4,pani,panu)> z grubsza poznać układ tego miejsca? Dobrze." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_12", "hash": "41A49F4F97AF9799", "target": "Tutaj, w Bentbranch, opiekujemy się chocobo od jajka do wczesnej dorosłości. Można więc powiedzieć, że spędzają u nas swoje „lata kształtowania się”." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_13", "hash": "F29DEE1FBBE2A07A", "target": "Chronienie ptaków przed chorobami i urazami to ciężka harówka. Jestem pewna, że moi współpracownicy docenią każdą pomoc, jakiej może im <if(gnum4,pani,pan)> udzielić." }
   ]
 }

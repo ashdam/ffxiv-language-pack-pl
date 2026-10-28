@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz618_02796",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "" }
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "Bujir wiedział, że przybędziesz." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "Zbadać Jaskinie Uyagirów i pokonać napotkanych wrogów" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "Złożyć raport Bujirowi" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "Witam <if(gnum4,panią,pana)>. Ibakha powiedziała mi, że mogę się tu <if(gnum4,pani,pana)> spodziewać." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "Widzi zdarzenia na długo, zanim nadejdą." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "Jednak nie tylko ten przyjazd ukazał się jej oczom. Dostrzegła też wielkie zagrożenie." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "Nie wiemy jeszcze, czym jest, lecz czai się w Jaskiniach Uyagirów. Proszę to zbadać w naszym imieniu." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "Nie wiemy jeszcze, czym jest, lecz czai się w Jaskiniach Uyagirów. Proszę to zbadać w naszym imieniu." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "Atakują cię!" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "Proszę powiedzieć, co udało się odkryć?" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "Bird of prophecy? Dziękuję za zabicie tego stworzenia. W tamtej jaskini znajdują się minerały, z których wyrabiamy barwniki." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "Bez tych minerałów nie moglibyśmy malować na ścianach naszej jaskini─przedstawiać niebezpieczeństw, jakie niesie uleganie chciwości. Robimy to podczas każdej pełni, aby przyszłe pokolenia przejęły nasze wartości." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "Z całego serca dziękuję za wszelką pomoc. Mamy wielki dług wdzięczności." }
   ]
 }

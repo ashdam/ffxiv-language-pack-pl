@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzc005_05064",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_SEQ_00", "hash": "E7565D6466CB010F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A'anuhanu chce podzielić się zwyczajami Ok'hanu z nowymi gośćmi." },
+    { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_SEQ_00", "hash": "E7565D6466CB010F", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>A'anuhanu chce podzielić się zwyczajami Ok'hanu z nowymi gośćmi." },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_00", "hash": "BE454292791F08C6", "target": "Zbierz owoce ofiarne." },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_01", "hash": "39A4453B1130B480", "target": "Dostarcz owoce ofiarne Lanuhali." },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_02", "hash": "736597B44487CA05", "target": "Dostarcz worek pobłogosławionych owoców A'anuhanu." },

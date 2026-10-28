@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna308_03049",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_002", "hash": "261F8B448498C523", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_010", "hash": "CAA988C6FCC54012", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_011", "hash": "D91DA39261F1682C", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_012", "hash": "FD6243792C7B947F", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_013", "hash": "41B8C173FC6F3601", "target": "" }
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "Eshana ma apetyt na coś szczególnego.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "Zbadać wskazane miejsce i zabić okazy gallivanting gazelle, aby zdobyć ich mięso" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "Dostarczyć mięso gazeli Eshanie" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "Ach, cóż za szczęśliwy zbieg okoliczności. Potrzebujemy twoich łowieckich umiejętności, żeby uzupełnić zapasy żywności." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "Nie grozi nam głód, rzecz jasna, ale jak na mój gust zostało nam zbyt mało mięsa gazeli." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_002", "hash": "261F8B448498C523", "target": "Często można je spotkać w Virdjala. Zaznaczę ci miejsce na mapie. Jeśli zdobędziesz mięso choćby z dwóch gazeli, oddasz straży wielką przysługę." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_010", "hash": "CAA988C6FCC54012", "target": "Udało ci się je znaleźć?" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_011", "hash": "D91DA39261F1682C", "target": "Doskonale. Mnie i moim siostrom to mięso jest niezbędne do zachowania lśniącej skóry. Szkoda, że większość dwunogów uważa je za zbyt twarde lub żylaste." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_012", "hash": "FD6243792C7B947F", "target": "Dlatego nie wliczamy go do zaopatrzenia, którym trzeba dzielić się nie tylko ze strażą, lecz także z ruchem oporu. Polujemy, gdy czas pozwala, ale to niełatwa zdobycz." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_013", "hash": "41B8C173FC6F3601", "target": "Jeśli znów będzie nam trudno utrzymać zapasy mięsa, proszę o ponowną pomoc." }
   ]
 }

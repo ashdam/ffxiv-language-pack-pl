@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegAbr2Helix_00293",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_000", "hash": "C032794D9A0CD70A", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_Q1_000_000", "hash": "D62ADAD34503B70C", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_001", "hash": "46E43D6CC8A91428", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_002", "hash": "8A270D589E66529F", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_003", "hash": "64AFC973DBE7C066", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_010", "hash": "78375FCDBBEC156D", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_011", "hash": "0ABF1ED4DE7DD58F", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_020", "hash": "B1CD71F6E663700A", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_021", "hash": "A03BB2868EDF7570", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_022", "hash": "49086FA480234765", "target": "" }
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_000", "hash": "C032794D9A0CD70A", "target": "\\<pik> \\<pik> Węzeł sterowania działa. Proszę podać zapytanie." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_Q1_000_000", "hash": "D62ADAD34503B70C", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_001", "hash": "46E43D6CC8A91428", "target": "Co tu robisz?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_002", "hash": "8A270D589E66529F", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_003", "hash": "64AFC973DBE7C066", "target": "Nic." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_010", "hash": "78375FCDBBEC156D", "target": "Przetwarzanie... \\<pik> \\<pik> Węzeł zarządzania systemami Helix, model BB7. Wsparcie dla tego węzła zostało zakończone. Proszę wymienić go na model BB8 lub nowszy." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_011", "hash": "0ABF1ED4DE7DD58F", "target": "Oprogramowanie operacyjne w wersji 3.0 zainstalowano...\\<bzzzzzz>...dni temu. To oprogramowanie jest przeznaczone wyłącznie do celów ewaluacyjnych. Aby kupić pełną wersję... \\<bzzzzzz>" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_020", "hash": "B1CD71F6E663700A", "target": "Przetwarzanie... \\<pik> \\<pik> Obecna lokalizacja: Helix, Kwadrant Alfa, Azys Lla." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_021", "hash": "A03BB2868EDF7570", "target": "Głównym celem nowo przybyłych jest placówka Aetherochemical Research Facility na Okręcie Flagowym, na południowym wschodzie." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_022", "hash": "49086FA480234765", "target": "Uprzejmie informujemy, że zgodnie z warunkami korzystania użytkownik i jego drużyna ponoszą wszelkie ryzyko szkód i obrażeń, w tym śmierci, których mogą doznać po wejściu do sektorów o ograniczonym dostępie." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk121_04571",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "" }
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "Maru trzyma się z daleka od pobliskiej skrzyni.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Użyć ładunków „Burzyciele rodu Daemir” na kopcu mułowca w Całunie Samgha" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "Zabrać bryłę mułowca z Ksirody" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "Dostarczyć Maru bryłę mułowca z Ksirody" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "Od jakiegoś czasu chciałem cię o to poprosić, <split(<string(gstr1)>, ,1)>, ale prawdę mówiąc, bałem się. Wydawało mi się to zbyt niebezpieczne..." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "Ale Kancana powiedziała, że twoje przygody nieraz rzucały cię w paszczę śmierci i z powrotem. Przy tym zabawa materiałami wybuchowymi to chyba pestka... prawda?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "...No, skoro wciąż tu jesteś, uznam to za milczącą zgodę. Trzeba rozbić mułowiec przy Ksirodzie i przynieść kawałek. Alchemicy wciąż powtarzają, że to najlepszy sposób, ale... uważaj na palce, dobrze?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "Jesteś─i wszystkie palce u rąk i nóg też! Czyli alchemicy mieli jednak rację." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "Dobrze, dobrze─to się nada. Mułowiec zmieszany z wodą tworzy pastę, która jak mało co chroni skórę przed słońcem i wiatrem." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "Może nie widać tego na pierwszy rzut oka, ale hipopotamy mają delikatną skórę. Jeśli nie jest odpowiednio wilgotna, pęka jak błoto w upalny dzień. Tym razem naprawdę mamy u ciebie dług." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "Pewnie, może wystarczyłyby młotek i dłuto... ale teraz nie muszę się też martwić, że ktoś przypadkiem podpali te ładunki i wyśle nas wszystkich na tamten świat." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa605_00767",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "Wlfric z Leśnych Płaczków szuka poszukiwacza przygód, który wytropi kłusowników ukrywających się w Quarrymill." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "Schwytana przez Wlfrica kłusowniczka uciekła i ukrywa się gdzieś w Quarrymill. Odszukaj zbiegłą i schwytaj ją." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "Odnaleziona kłusowniczka przyznaje, że zeszła na drogę przestępstwa jedynie po to, by wyżywić rodzinę. Jej skrucha skłania cię do przymknięcia oka na występki. Wróć do Wlfrica i opowiedz mu tę smutną historię." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "Wlfric z Leśnych Płaczków jest oburzony, że kłusowniczka uniknęła sprawiedliwości. Obawia się skutków tego rażącego pogwałcenia woli żywiołaków." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "Wytropić kłusowniczkę ukrywającą się w Quarrymill" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "Zdać relację Wlfricowi" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "Przeklęta przestępczyni! Nie uciekniesz sprawiedliwości Leśnych Płaczków!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "<if(gnum4,Pani,Panie)>, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Jedna z tych odrażających kłusowniczek uciekła do wioski i właśnie ukrywa się pod naszym nosem. Proszę natychmiast dołączyć do poszukiwań─to rozkaz!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "P-proszę, niech mi <if(gnum4,pani,pan)> nie robi krzywdy!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "Przysięgam na życie, nigdy nie chciałam nic złego! Ale mój brat choruje i głoduje... Kiedy obiecali pieniądze na lekarstwo, co innego mogłam zrobić?" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "Daję słowo. Od dziś zarobię na chleb uczciwą pracą albo wcale. Proszę okazać mi litość ten jeden raz. Niech Dwunastu błogosławi <if(gnum4,pani łagodną duszę,pańską łagodną duszę)>!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "Kłusowniczka <italic(1)>uciekła<italic(0)>!? Niewybaczalne! Powinienem był wiedzieć, że takich zadań nie powierza się poszukiwaczom przygód. Ci, którzy sprzeciwiają się woli żywiołaków, muszą ponieść karę, inaczej wszyscy za to zapłacimy. Lepiej o tym pamiętać." }
   ]
 }

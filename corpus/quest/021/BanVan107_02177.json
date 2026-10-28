@@ -2,17 +2,17 @@
   "conversation": "quest/021/BanVan107_02177",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_00", "hash": "6B7D666E63469695", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_01", "hash": "C43D2A84659B8C97", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_02", "hash": "F5B95EC05D9549C0", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_03", "hash": "BB0F74937C37D300", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_00", "hash": "47E885313E0CFCD2", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_01", "hash": "B085D8D835B13C14", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_000", "hash": "95329319B2FE7418", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_001", "hash": "BB1A9F5182C29D04", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_010", "hash": "5C613A529D6D2D34", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_011", "hash": "FE58C85B5ACC997A", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_012", "hash": "A27065AF1FC6362F", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_013", "hash": "57E4C6697B54B896", "target": "" }
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_00", "hash": "6B7D666E63469695", "target": "Muna Vanu ma dla ciebie jajecznie ekscytujące zadanie.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_01", "hash": "C43D2A84659B8C97", "target": "Muna Vanu informuje cię, że abalathyjskie ptaki anzu właśnie znoszą jaja. Będą one doskonałym uzupełnieniem stale malejących zapasów Gundu. Udaj się do Gniazdowiska, gdzie te bestie zakładają gniazda, i zbierz dla niego trzy jaja anzu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_02", "hash": "F5B95EC05D9549C0", "target": "Wielkie i zaciekłe ptaki anzu nie zdołały powstrzymać cię przed zabraniem jaj. Dostarcz je doradcy Muna Vanu." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_03", "hash": "BB0F74937C37D300", "target": "Muna Vanu cieszy się ze smakowitych jaj, lecz jeszcze bardziej z tego, że dla jego ludu stawiasz czoła strasznym ptakom anzu. Tylko najodważniejsi wojownicy Gundu ważą się podejść do tych potworów. Twoja odwaga usuwa wszelkie wątpliwości co do twej wierności Gundu." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_00", "hash": "47E885313E0CFCD2", "target": "Zebrać jaja anzu w Gniazdowisku" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_01", "hash": "B085D8D835B13C14", "target": "Dostarczyć jaja doradcy Muna Vanu" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_000", "hash": "95329319B2FE7418", "target": "<split(<string(gstr1)>, ,1)>, zapasy żywności Gundu niebezpiecznie maleją, ale łagodne wiatry niosą doskonałą okazję. Ptaki anzu składają jaja na wyspie zwanej przez istoty z dołu Gniazdowiskiem. Wystarczy je wziąć." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_001", "hash": "BB1A9F5182C29D04", "target": "Proszę, zbierz trzy jaja do zapasów wioski. Ale delikatnie, jak łagodna bryza ─ Vanu nie zjedzą jaj, jeśli skorupy rozpadną się na kawałki!" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_010", "hash": "5C613A529D6D2D34", "target": "Witaj z powrotem, <split(<string(gstr1)>, ,1)>. Czy istota z dołu przynosi jaja anzu?" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_011", "hash": "FE58C85B5ACC997A", "target": "Stawić czoła strasznym ptakom anzu i tak szybko zebrać jaja... <split(<string(gstr1)>, ,1)>, twoja odwaga jest prawdziwa, jak młode drzewko trwające niewzruszenie w wielkiej burzy." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_012", "hash": "A27065AF1FC6362F", "target": "Jaja anzu są tak wyśmienite, że wielu Vanu zjada je razem ze skorupami! Ale jaja podarowane nam przez istotę z dołu zamarynujemy w occie, by przetrwały i dobrze nakarmiły plemię, gdy zapasy się skurczą." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_013", "hash": "57E4C6697B54B896", "target": "Tylko najsilniejsi wojownicy Gundu stają bez lęku przed ptakami anzu. Twoja odwaga dowodzi wierności. Gundu długo będą pamiętać twoją pomoc." }
   ]
 }

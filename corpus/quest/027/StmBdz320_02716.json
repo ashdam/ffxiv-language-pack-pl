@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz320_02716",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_SEQ_00", "hash": "5B26E3DF94953599", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_00", "hash": "CF33071EA71C96D7", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_01", "hash": "BCD3CE0DD7C56078", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_02", "hash": "842412D27873C959", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_03", "hash": "CBD012006B545F83", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_000", "hash": "B6D1D8F6947BDCB8", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_001", "hash": "73CC430FD8CA4D45", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_002", "hash": "8CBBABFA002B443C", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_003", "hash": "40E4B7FDE89088D8", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_100_010", "hash": "953E6C0411389259", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_010", "hash": "E718AC6B169CC2A9", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_011", "hash": "1E1CF940391C648E", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_012", "hash": "068CA20F1F4C59FF", "target": "" }
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_SEQ_00", "hash": "5B26E3DF94953599", "target": "Twarz Misago szpeci głęboki grymas." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_00", "hash": "CF33071EA71C96D7", "target": "Zebrać karmazynową trawę morską" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_01", "hash": "BCD3CE0DD7C56078", "target": "Zebrać wigorogrzyby" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_02", "hash": "842412D27873C959", "target": "Zdobyć świeże mięso bestii island gedan" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_03", "hash": "CBD012006B545F83", "target": "Dostarczyć zamówione przedmioty do Misago" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_000", "hash": "B6D1D8F6947BDCB8", "target": "<if(gnum4,Poszukiwaczka przygód,Poszukiwacz przygód)>? Chwała kami! Musisz coś dla mnie zrobić." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_001", "hash": "73CC430FD8CA4D45", "target": "Mąż zachorował i leży w łóżku. Jeśli szybko nie wróci do pracy, będziemy w ciężkich tarapatach. Chcę przyrządzić mu pożywny gulasz, żeby prędzej wyzdrowiał. Pomożesz zebrać potrzebne składniki?" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_002", "hash": "8CBBABFA002B443C", "target": "Przynieś mi garść wigorogrzybów rosnących na północ stąd, trzy kawałki mięsa bestii island gedan i trochę karmazynowej trawy morskiej z Isle of Zekki." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_003", "hash": "40E4B7FDE89088D8", "target": "Wigorogrzyby znajdziesz na północ stąd, tak jak island gedan. Po karmazynową trawę morską musisz jednak wyprawić się na Isle of Zekki." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_100_010", "hash": "953E6C0411389259", "target": "Ach, witaj z powrotem. Udało się znaleźć wszystko, o co prosiłam?" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_010", "hash": "E718AC6B169CC2A9", "target": "Wspaniale! Pozostaje wrzucić to do garnka i pozwolić składnikom się podusić." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_011", "hash": "1E1CF940391C648E", "target": "Łowimy tu doskonałe ryby, ale jedzenie w kółko tego samego nie jest zbyt zdrowe. Zrównoważona dieta powinna zawierać mięso i różne warzywa." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_012", "hash": "068CA20F1F4C59FF", "target": "Dziękuję, <if(gnum4,podróżniczko,podróżniku)>. Oby te składniki pozwoliły mężowi szybko wrócić do pełni sił!" }
   ]
 }

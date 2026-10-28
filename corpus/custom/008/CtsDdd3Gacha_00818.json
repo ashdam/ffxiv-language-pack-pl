@@ -2,15 +2,15 @@
   "conversation": "custom/008/CtsDdd3Gacha_00818",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000", "hash": "9219667097855926", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010", "hash": "6363D1FD14C75093", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_Q1_000_020", "hash": "2CA2E91C0B952A90", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_021", "hash": "6ECD26601FEADF84", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_022", "hash": "8BA8D3501C9D4A6D", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_023", "hash": "9D96C341180DC30E", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030", "hash": "7DB05E91167963F4", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031", "hash": "AB77B4FF551FB64C", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032", "hash": "AE8A33E27FEFD6FE", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033", "hash": "25F2B8E179EDD92F", "target": "" }
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000", "hash": "9219667097855926", "target": "Powierzono mi rozpoznawanie i ocenę wartości wszelkich skarbów, które znajdziesz w allagańskim laboratorium. To zaszczyt znaleźć się w tak znakomitym towarzystwie. Z niecierpliwością czekam na zdobycze z twojej pierwszej wyprawy." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010", "hash": "6363D1FD14C75093", "target": "Jak idzie badanie Eureka Orthos? Bez wątpienia masz już jeden czy dwa zabytki starożytnej allagańskiej techniki, które warto wydobyć na powierzchnię. Pokaż mi je, a chętnie powiem ci, czy były warte wysiłku." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_Q1_000_020", "hash": "2CA2E91C0B952A90", "target": "Co zrobisz?" },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_021", "hash": "6ECD26601FEADF84", "target": "Zlecić wycenę części przeklętego skarbu." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_022", "hash": "8BA8D3501C9D4A6D", "target": "Zapytać o przeklęty skarb." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_023", "hash": "9D96C341180DC30E", "target": "Nic." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030", "hash": "7DB05E91167963F4", "target": "Eureka Orthos było najlepiej ukrytym spośród licznych laboratoriów nadzorowanych przez Imperium Allagańskie. Żadne znalezione tam przedmioty nie zdradzą łatwo swych sekretów." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031", "hash": "AB77B4FF551FB64C", "target": "Niewiele żyjących osób─poza samą arcymaginią─wie o allagańskich artefaktach więcej ode mnie. Właśnie dlatego wybrano mnie do tego zadania. Pokaż mi swoje znaleziska, a znajdę sposób na ich zawiłe zamki i zaklęcia ochronne." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032", "hash": "AE8A33E27FEFD6FE", "target": "Podczas badania głębokich lochów gracze znajdą części przeklętego skarbu─kosztowności chronione dawno zapomnianą techniką." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033", "hash": "25F2B8E179EDD92F", "target": "Wartość części znalezionych w Eureka Orthos można poznać, przedstawiając je Valeroine do wyceny." }
   ]
 }

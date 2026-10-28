@@ -42,7 +42,7 @@
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_OTCHAKHA_000_106", "hash": "F894059038DD0E29", "target": "Ze wszystkich sił starał się pan wskazać mu właściwą drogę, tak samo jak nam." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_DZENTSA_000_107", "hash": "AB09523AA795A061", "target": "Właśnie. Nie powinien pan być dla siebie taki surowy." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_WIDARGELT_000_108", "hash": "8AD2E04D89DF0242", "target": "Ciebie również wiele spotkało, <if(gnum4,siostro,bracie)>. To widać. Opowiedz mi swoją historię." },
-    { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_Q1_000_000", "hash": "602CAF5A3273F778", "target": "O czym opowiesz?" },
+    { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_Q1_000_000", "hash": "602CAF5A3273F778", "target": "O czym porozmawiasz?" },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_A1_000_001", "hash": "F3D77B708B6EFF25", "target": "O łowcy imieniem Lue-Reeq." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_A1_000_002", "hash": "A6E76C4267A89516", "target": "O łowcy, który odnalazł własną ścieżkę." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_WIDARGELT_000_110", "hash": "E7FFFCD793317D3E", "target": "...A więc Lue-Reeq postanowił zerwać więzi z rodziną." },

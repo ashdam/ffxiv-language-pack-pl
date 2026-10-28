@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz919_01984",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "" }
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "Kontrolka stanu allagańskiego węzła podtrzymywania życia mruga złowieszczo na czerwono..." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "Allagański węzeł podtrzymywania życia informuje cię, że stężenie zarodników roślin corpse flower w atmosferze osiągnęło krytycznie niebezpieczny poziom─i nadal rośnie. Zniszcz te rośliny, by ograniczyć wydzielanie owych najwyraźniej niebezpiecznych zanieczyszczeń." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "Usuwasz kłopotliwe rośliny corpse flower. Wróć do węzła podtrzymywania życia, by potwierdzić, że nie ma innych źródeł niebezpiecznych zanieczyszczeń atmosferycznych." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "Dzięki ograniczeniu emisji zarodników system podtrzymywania życia może teraz oczyszczać powietrze szybciej, niż jest ono zanieczyszczane. Nienaturalnie duża populacja roślin corpse flower zdaje się wynikać z uwolnienia do atmosfery środka pobudzającego wzrost z placówki badań nad syntezą ekologiczną." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "Zniszczyć rośliny corpse flower" },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "Zdać relację węzłowi podtrzymywania życia" },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "Krytyczny poziom zanieczyszczeń atmosferycznych. Stężenie zarodników roślin corpse flower w atmosferze wynosi obecnie tysiąc trzysta dwanaście procent maksymalnego bezpiecznego poziomu i rośnie." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "Zdecydowanie zalecane natychmiastowe zniszczenie roślin corpse flower w celu zapewnienia bezpieczeństwa obywateli." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "Zdecydowanie zalecane natychmiastowe zniszczenie roślin corpse flower w celu dalszego zapewnienia bezpieczeństwa obywateli." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "Stężenie zarodników roślin corpse flower w atmosferze wynosi obecnie tysiąc trzysta jedenaście procent maksymalnego bezpiecznego poziomu i maleje." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "Ustalono, że zwiększona populacja roślin corpse flower wynika z nieumyślnego uwolnienia do atmosfery katalizatora wzrostu przez placówkę badań nad syntezą ekologiczną. Przesyłanie raportu do placówki badawczej... \\<pik> \\<pik> Transmisja zakończona." }
   ]
 }

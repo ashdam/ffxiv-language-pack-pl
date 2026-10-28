@@ -2,13 +2,13 @@
   "conversation": "custom/002/RegWilReduce_00276",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "" }
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "Czym jest redukcja eteryczna?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "Jakie przedmioty nadają się do redukcji eterycznej?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "Nic." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "Jak już wiesz, to sposób na rozkładanie niektórych przedmiotów na podstawowe składniki eteryczne. Głównie kryształy, ale czasem też inne rzadkie materiały." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "Ale nie byle jakich─przedmiotów kolekcjonerskich. Niełatwo dorwać takie rarytasy, więc lepiej zajrzyj do dzienników i upewnij się, że szukasz we właściwym miejscu." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "Cóż...jeśli to nie przedmiot kolekcjonerski, nie poddasz go redukcji. Ot i cała sprawa." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "Poza tym, choć redukcji można poddać każdy przedmiot kolekcjonerski, znacznie więcej zyskasz na tych o wyjątkowo wysokiej wartości kolekcjonerskiej. Jasne, trzeba będzie się z nim pożegnać, ale chyba nie muszę przypominać oczywistości, co?" }
   ]
 }

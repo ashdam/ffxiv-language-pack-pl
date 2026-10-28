@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc003_05062",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "" }
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Lenuhali szuka kogoś o sile zdolnej powalać drzewa─lub przynajmniej miażdżyć szkodniki." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "Zbadać wskazane miejsce i zabić wszystkie stwory u'out, które się pojawią" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "Porozmawiać z Lenuhali" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "Cóż za krzepkie nogi, niczym pień strzelistego drzewa. Cóż za potężne ramiona, niczym sękate konary. Użyczysz mi swej siły w prostym polowaniu?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "Burza pozostawiła po sobie nie tylko zniszczenia. Teraz las roi się od straszliwych bestii, a ich tępienie nie ma końca." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "Według doniesień przy przystani na wschodzie czają się trzy stwory u'out─łatwa zdobycz dla kogoś takiego jak ty. Czy zechcesz je wytępić, byśmy znów mogli bezpiecznie podróżować wodą?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "Przez stwory u'out przystań na wschodzie stała się niebezpiecznym miejscem. Zabij je, byśmy znów mogli pływać po tych wodach!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "Ach, oto wraca <if(gnum4,potężna łowczyni,potężny łowca)>! Czy po stworach u'out zostały tylko strzępy pnączy?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "Wiedziałam, że podołasz temu zadaniu! Rozgłoszę, że przystań znów jest otwarta i można bezpiecznie przeprawiać się wodą." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "Wielka burza dotknęła całe życie w lesie. Zmyła to, co znaliśmy, pozostawiając jedynie niepewność. Na wielu rzadko uczęszczanych drogach wciąż czają się zdesperowane potwory..." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "Odkąd zawaliły się wielkie schody, korzystamy z dróg wodnych i innych nietypowych szlaków, by przemieszczać się do czasu ukończenia napraw. Nie możemy doczekać się tego dnia!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "Do tego czasu musimy jednak jakoś sobie radzić. Dziękuję za twoją odwagę!" }
   ]
 }

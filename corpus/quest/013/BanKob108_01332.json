@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob108_01332",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "" }
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "W oczach 789th Order Dustman Bo Zu błyszczy nietypowy dla niego zapał." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "W jednym z najbardziej wstrząsających wydarzeń Siódmej Ery Astralnej legendarny obibok Bo Zu oświadcza, że chce się zmienić i dla odmiany trochę popracować. Prosi jednak o pomoc w zebraniu potrzebnej determinacji. Udaj się na Wykopaliska Ludu Kobold i przynieś trochę elektrum od 639. brygady, by Bo Zu mógł na własne oczy zobaczyć owoce uczciwej pracy." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "Udaje ci się „pożyczyć” nieco nieskazitelnego elektrum z zapasów 639. brygady. Dostarcz je Bo Zu, by podnieść go na duchu." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "Ku absolutnie niczyjemu zdziwieniu Bo Zu postanawia przywłaszczyć sobie pożyczone elektrum w imieniu 789. brygady. Choć jego metody są wątpliwe, bez wątpienia to ucisk i zniewagi, jakich on i jego towarzysze doznają z rąk przywódcy Zo Gi, pchnęły ich do tak rozpaczliwych środków..." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "Przeszukać garnki 639. Zakonu, aby znaleźć wysokiej jakości rudę elektrum" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "Dostarczyć wysokiej jakości rudę elektrum do 789th Order Dustman Bo Zu" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "Bo Zu był leniem─obibokiem, nierobem, leniem. Ale Bo Zu już nie chce być leniem─nie, nie, już nie!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "Gi Gu mówi, że 639. brygada znajduje błyszczące metale─tak, tak, najbardziej błyszczące. Czy to prawda? Kiedyś byli tak samo mizerni jak my─obdarci, zaniedbani, mizerni." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "Jeśli 639. brygada może znaleźć błyskotki, to dlaczego nie ja? Tak, tak, dlaczego nie ja? Bo Zu też może się wzbogacić!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "Ale chcę wiedzieć na pewno─naprawdę, z pewnością, na pewno. Pójdziesz do wyrobiska, tak? Przyniesiesz Bo Zu dowód osiągnięć 639. brygady? Tak, tak, musisz to zrobić!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "Chcę wiedzieć na pewno─naprawdę, z pewnością, na pewno. Pójdziesz do wyrobiska, tak? Przyniesiesz Bo Zu dowód osiągnięć 639. brygady? Tak, tak, musisz to zrobić!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "Wracasz z błyskotkami, tak? Od 639. brygady do Bo Zu?" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "Patrz, jak się iskrzy─lśni, połyskuje, iskrzy! 639. brygada wykopała fortunę. Tak, tak, trafili w sedno!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "Na pewno... nie zauważą braku błyskotki─nie, nie, jednej czy dwóch. Dziękuję─tak, dziękuję! Bo dzisiaj bogactwo zawitało też do Bo Zu!" }
   ]
 }

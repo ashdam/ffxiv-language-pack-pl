@@ -2,19 +2,19 @@
   "conversation": "custom/005/RegNor4LydhaLran_00599",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000", "hash": "E2188A5DE1E4A4F2", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000", "hash": "F144E788F9029BBF", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_001", "hash": "C5805FD2C26B53AD", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_002", "hash": "70753463C6A6BF50", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_003", "hash": "FB964B5AC772954C", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_100", "hash": "50C0AFE420A694E3", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_101", "hash": "65FAF11D96201360", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_102", "hash": "438CDA0ED5294A70", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_200", "hash": "B0E51BCD84119FDB", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_201", "hash": "1EE036B850292DE8", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_202", "hash": "06A1DCB6038CDF87", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_203", "hash": "FD9F28DDACC981BB", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_204", "hash": "AA46903BF5766132", "target": "" },
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_205", "hash": "63386B75DB45DB72", "target": "" }
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000", "hash": "E2188A5DE1E4A4F2", "target": "Och, <if(gnum4,przyjaciółka,przyjaciel)> Uriangera! Witaj w naszej wiosce! Zostań na dzień, na cztery, a może na wieki!" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000", "hash": "F144E788F9029BBF", "target": "O co zapytasz?" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_001", "hash": "C5805FD2C26B53AD", "target": "Opowiedz mi o sobie." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_002", "hash": "70753463C6A6BF50", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_003", "hash": "FB964B5AC772954C", "target": "Nic." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_100", "hash": "50C0AFE420A694E3", "target": "Mam zaszczytny obowiązek oprowadzać zabłąkanych śmiertelników, którzy zawędrowali do Il Mheg." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_101", "hash": "65FAF11D96201360", "target": "Och, mogę opowiedzieć mnóstwo rzeczy! Gdzie znaleźć najsłodszy nektar, jak wygrać wyścig trzcinowych łódeczek, gdzie najlepiej się schować i tak dalej, i tak dalej! Ale wy, śmiertelnicy, chyba pytacie tylko o drogę z naszej krainy. Hmph." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_102", "hash": "438CDA0ED5294A70", "target": "Czy odpowiadam? Oczywiście! Ale czy jest to <italic(1)>właściwa<italic(0)> odpowiedź, to już inne pytanie, hihi!" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_200", "hash": "B0E51BCD84119FDB", "target": "To Lydha Lran, wioska, w której mieszkamy my, pixie. Tak naprawdę zbudowali ją dawno, dawno temu śmiertelnicy, ale wszyscy gdzieś uciekli." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_201", "hash": "1EE036B850292DE8", "target": "Choć musimy uważać na pożeraczy grzechów i inne paskudne bestie, pośród kwiatów i pól nie mogłoby być nam lepiej. Och, a czasami z zewnątrz przybywa ktoś nowy do zabawy!" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_202", "hash": "06A1DCB6038CDF87", "target": "Może jeszcze nie wiesz, ale Il Mheg znaczy Królestwo Tęczy. Dlaczego? Bo z góry widać olśniewający wir barw. Szkoda tylko, że nad naszymi głowami wisi wciąż to samo nudne, rozpalone niebo." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_203", "hash": "FD9F28DDACC981BB", "target": "Może jeszcze nie wiesz, ale Il Mheg znaczy Królestwo Tęczy. Dlaczego? Bo z góry widać olśniewający wir barw! A teraz mamy też piękne nocne niebo, z uroczymi gwiazdkami, które do nas mrugają!" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_204", "hash": "AA46903BF5766132", "target": "Może jeszcze nie wiesz, ale Il Mheg znaczy Królestwo Tęczy. Dlaczego? Bo z góry widać olśniewający wir barw. Szkoda tylko, że nad naszymi głowami znów wisi to nudne, rozpalone niebo." },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_205", "hash": "63386B75DB45DB72", "target": "Może jeszcze nie wiesz, ale Il Mheg znaczy Królestwo Tęczy. Dlaczego? Bo z góry widać olśniewający wir barw! A teraz mamy też piękne nocne niebo, z uroczymi gwiazdkami, które do nas mrugają!" }
   ]
 }

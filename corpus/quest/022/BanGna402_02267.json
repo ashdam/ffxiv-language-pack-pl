@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna402_02267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "" }
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "Vath keeneye z przygnębieniem wpatruje się w pojedynczą zwiędłą gałązkę srebrnej rosy.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "Vath keeneye potrzebuje czterech gałązek srebrnej rosy, by zrealizować zamówienie do Convictory. Prosi cię o zebranie ich w Upadłej Avalonii. Przed twoim odejściem zaleca czujność. Widziano wielu Gnathów gorączkowo zbierających tę samą roślinę.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "Znajdujesz i zbierasz gałązki srebrnej rosy. Wróć do Loth ast Vath i dostarcz je Vath keeneye." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "Działania Gnathów wskazują, że planują uderzenie wyprzedzające na smoki. Vath keeneye obawia się, że może to doprowadzić do niedoboru srebrnej rosy i pozbawić jego lud środków utrzymania. By zapobiec nadciągającej katastrofie, uznaje, że pora zacząć własną uprawę." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "Zdobyć srebrną rosę" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "Dostarczyć srebrną rosę Vath keeneye" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "<if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, zjawiasz się w doskonałej chwili. \\<klika> \\<klika> Właśnie otrzymaliśmy zlecenie z Convictory. Proszą o zwykłą dostawę srebrnej rosy. Idź, proszę, i zbierz dla nas cztery gałązki tych cennych roślin." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "Srebrnej rosy jest dużo w Upadłej Avalonii. Ale uważaj. Członków Wspólnego Umysłu ogarnął ostatnio szał. Widziano wielu przy zbieraniu tych ziół. Twoja obecność im się nie spodoba." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "Podła istoto z mięsa! \\<klika> \\<klika> Jak śmiesz kraść naszą rosę!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "\\<klika> \\<klika> Odejdź, istoto z mięsa, albo zginiesz tu, gdzie stoisz!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "Nareszcie jesteś! \\<klika> \\<klika> Masz naszą srebrną rosę?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "Och, są piękne! Ty za to wyglądasz o wiele gorzej niż przy ostatniej rozmowie. Twoja droga przecięła się z drogą naszych braci ze Wspólnego Umysłu?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "Ich obsesja na punkcie tego zioła bardzo nas niepokoi, <if(gnum4,wielka łowczyni,wielki łowco)>. Boimy się, że zamierzają użyć go w wojnie ze smokami. Jeśli mamy rację, nasi bracia ze Wspólnego Umysłu nie ustaną, aż ogołocą ziemię z całej srebrnej rosy." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "Nie możemy do tego dopuścić. \\<klika> \\<klika> Gdyby zniknęła, nasza gildia rozsypałaby się w pył. Wkrótce po niej padłyby mury schronienia. Musimy zacząć własną uprawę, by nigdy do tego nie doszło." }
   ]
 }

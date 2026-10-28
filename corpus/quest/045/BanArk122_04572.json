@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk122_04572",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_SEQ_00", "hash": "DAA6F2CC7E7DEE1A", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_00", "hash": "BE40E1D193289116", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_01", "hash": "1B843423DCFE449B", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_000", "hash": "0CD49B13C8480CC3", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_001", "hash": "4CA7203957D241BD", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_002", "hash": "87AE5296B83DBD1D", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_010", "hash": "5F1581C8A6E91900", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_011", "hash": "545782C157B49F6C", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_012", "hash": "A2BD552178CCA62E", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_013", "hash": "19DB783EAC2156E3", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_014", "hash": "0F2C9467631B43A1", "target": "" }
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_SEQ_00", "hash": "DAA6F2CC7E7DEE1A", "target": "Maru szuka łowcy, który odważy się ruszyć w dzicz.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_00", "hash": "BE40E1D193289116", "target": "Obserwować wskazane miejsca i zabić pojawiające się stworzenia odqan" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_01", "hash": "1B843423DCFE449B", "target": "Dostarczyć Maru odłamki stworzeń odqan" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_000", "hash": "0CD49B13C8480CC3", "target": "Teraz trochę polowania─do którego ja zupełnie się nie nadaję. Za to ty jesteś właściwą osobą." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_001", "hash": "4CA7203957D241BD", "target": "Twoja zdobycz to stworzenia, na widok których nawet najdzielniejsi wojownicy Promienistego Zastępu trzęsą się ze strachu... czy jakoś tak. Sam nie wiem, ale założę się, że na myśl o takim przeciwniku krew zaczyna ci szybciej krążyć." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_002", "hash": "87AE5296B83DBD1D", "target": "Ruszaj z bronią w ręku do Całunu Samgha i wypatruj grasujących tam stworzeń odqan. Zapoluj na nie i zbierz dwa odłamki ich stwardniałej skóry. ...Brzmi dobrze? Prawda, że tak?" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_010", "hash": "5F1581C8A6E91900", "target": "Witaj z powrotem. Groźnie wyglądasz─widocznie bitewny szał jeszcze nie minął. Mam nadzieję, że nie padło więcej stworzeń odqan, niż było trzeba..." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_011", "hash": "545782C157B49F6C", "target": "Tym razem to już mistrzostwo, <split(<string(gstr1)>, ,1)>. Zmielę to na drobny proszek i uwarzę trunek, przy którym ludzie będą gawędzić─i pić─długo po tym, jak hipopotamy pójdą spać." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_012", "hash": "A2BD552178CCA62E", "target": "Podobno pewien alchemik odkrył ten przepis po serii porażek─próbował zrobić z proszku płynny materiał wybuchowy, a wychodziła mu tylko płynna ciecz. Zdesperowany postanowił utopić smutki w tej letniej mieszaninie." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_013", "hash": "19DB783EAC2156E3", "target": "Wyobraź sobie jego zdumienie, gdy pierwsza kropla dotknęła języka. Niedostatki siły wybuchu roztwór nadrabiał bogactwem smaku! Wkrótce trunek dotarł do każdego zakątka wyspy, a jego okrzyknięto geniuszem." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_014", "hash": "0F2C9467631B43A1", "target": "Tak przynajmniej głosi opowieść. Wierz lub nie, ale trunek znika niemal równie szybko, jak go robimy. Pewnie niedługo znów poproszę cię o pomoc..." }
   ]
 }

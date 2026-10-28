@@ -2,17 +2,17 @@
   "conversation": "custom/008/JobDefRPM_00863",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_000", "hash": "B9A326FC31BBBD99", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_Q1_000_000", "hash": "9576A842E1166BD2", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_001", "hash": "E9209DB0530085E3", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_002", "hash": "994E394BF339113D", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_003", "hash": "622CE4289ADC6DB4", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_010", "hash": "59D5B896E94604D4", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_011", "hash": "2082DEE7C24C6F66", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_012", "hash": "A3A6FB45975FF422", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_020", "hash": "4D9F7643616153F2", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_021", "hash": "75E5B98DE17B839B", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_022", "hash": "F0EACCCAD25F6653", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_023", "hash": "1BC10066CE43C76D", "target": "" }
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_000", "hash": "B9A326FC31BBBD99", "target": "<split(<string(gstr1)>, ,1)>! Jak miło, że nasze drogi znów się krzyżują." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_Q1_000_000", "hash": "9576A842E1166BD2", "target": "O co zapytasz?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_001", "hash": "E9209DB0530085E3", "target": "Co ostatnio słychać?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_002", "hash": "994E394BF339113D", "target": "Czym jest Pictomancer?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_003", "hash": "622CE4289ADC6DB4", "target": "Nic." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_010", "hash": "59D5B896E94604D4", "target": "Moja podróż trwa dzięki <if(gnum4,pani,panu)> i Kupopo. Po powrocie do rzeczywistości wyruszyłam w drogę, szukając nowych perspektyw, i znalazłam ich mnóstwo tutaj, w mieście Radz-at-Han." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_011", "hash": "2082DEE7C24C6F66", "target": "To miasto fascynuje mnie bez końca... Życie rozkwita tu we wszystkich barwach, a moja wyobraźnia bardzo się dzięki temu wzbogaciła!" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_012", "hash": "A3A6FB45975FF422", "target": "Zamierzam przez jakiś czas wędrować po Thavnairze i po drodze pomagać potrzebującym. Jeśli moja piktomancja choć trochę zmieni świat na lepsze─tak jak udało się <if(gnum4,pani,panu)> i naszym poprzednikom─wszystko będzie tego warte." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_020", "hash": "4D9F7643616153F2", "target": "Jak doskonale <if(gnum4,pani,pan)> wie, Pictomancer włada wyobraźnią. Za pomocą zaczarowanego pędzla wcielamy w życie najśmielsze marzenia." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_021", "hash": "75E5B98DE17B839B", "target": "Początki piktomancji sięgają Piątej Ery Astralnej, kiedy młoda kobieta imieniem Relm zaczęła wplatać eter w swoje dzieła sztuki." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_022", "hash": "F0EACCCAD25F6653", "target": "Relm była bezinteresowną osobą i nie chciała stać bezczynnie, gdy szalała Wojna Magów. Podczas podróży ocaliła wiele istnień, a za swe czyny otrzymała tytuł archontki." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_023", "hash": "1BC10066CE43C76D", "target": "Jej nauka nakłada na nas obowiązek wędrowania po świecie i rozpalania światła nadziei dla potrzebujących." }
   ]
 }

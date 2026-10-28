@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb810_00919",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_00", "hash": "E0501FFB66CF2AFE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_01", "hash": "93D53550C8757A24", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_02", "hash": "A24C07363142E2CA", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_TODO_00", "hash": "5CD6292E77AA370F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_000", "hash": "A2A10743BDB35434", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_001", "hash": "935EABA53662BB8C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_003", "hash": "F019151A4BE3AF7A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_004", "hash": "EF29F91CECA537E7", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_010", "hash": "4F5FF1FBF0F57B48", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_011", "hash": "CDECC8F3D8966061", "target": "" }
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_00", "hash": "E0501FFB66CF2AFE", "target": "Przyciśnięty do muru pośrednik zawsze znajdzie sposób, by się wyślizgnąć. Dowiedz się, co zamierza Syntgoht." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_01", "hash": "93D53550C8757A24", "target": "Syntgoht narzeka, że ustały dostawy przetworzonego ceruleum z kopalń firmy Amajina i Synowie. Zastanawiasz się, czemu w takim razie nadal przyjmował zamówienia, ale to nie twoja sprawa. Udaj się do obozu Camp Bluefog i porozmawiaj z przedstawicielem kompanii, Papawazu." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_02", "hash": "A24C07363142E2CA", "target": "Wysłuchujesz wersji Papawazu, choć przez połowę czasu nie masz pewności, czy w ogóle mówi do <italic(1)>ciebie<italic(0)>. Przypuszczalnie i on ma swój krzyż do dźwigania." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_TODO_00", "hash": "5CD6292E77AA370F", "target": "Porozmawiać z Papawazu w obozie Camp Bluefog" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_000", "hash": "A2A10743BDB35434", "target": "Złości się na spóźnione ceruleum? <if(gnum4,Droga pani,Drogi panie)>─przepraszam, <split(<string(gstr1)>, ,1)>─rozumiem jego sytuację, naprawdę. Wysłałbym mu towar, gdybym tylko go miał!" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_001", "hash": "935EABA53662BB8C", "target": "Rzecz w tym, że od wielu księżyców zdobycie przetworzonego ceruleum od Amajiny i Synów graniczyło z cudem, a teraz całkiem przestali handlować z większością sprzedawców." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_003", "hash": "F019151A4BE3AF7A", "target": "Ciężkie jest życie pośrednika, <if(gnum4,droga pani,drogi panie)>. Płacimy za grzechy producentów takich jak Amajina, a co dostajemy w zamian? Nawet zwykłego dzień dobry. Edwyn powinien mieć pretensje do nich, nie do mnie." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_004", "hash": "EF29F91CECA537E7", "target": "Tss, nie wie <if(gnum4,pani,pan)>? Kompania ma wyłączne prawo wydobywania ceruleum w rejonie Northern Thanalan. Mogą robić, co chcą. Można spróbować bezpośrednio u nich. Proszę porozmawiać z Papawazu w obozie Camp Bluefog─ale ostrzegam, to mały, zadufany ropuch!" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_010", "hash": "4F5FF1FBF0F57B48", "target": "Aaa ty to kto? Poszukiwacze przygód, hmmm... nie, nie pamiętam, żebym jakichś zamawiał. A coś takiego <italic(1)>bym<italic(0)> pamiętał, skoro po raz dziewiąty jestem Pracownikiem Miesiąca... dziękuję, dziękuję... a teraz cicho, słucham tej obszarpanej osoby." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_011", "hash": "CDECC8F3D8966061", "target": "<italic(1)>Py<italic(0)>tanie o dostawę przetworzonego ceruleum? Od Syntgohta z Ul'dah... hm, hm, hmmm. <italic(1)>Cie<italic(0)>kawe." }
   ]
 }

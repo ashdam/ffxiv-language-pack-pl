@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz224_02696",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "" }
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "Urokuzu wszędzie szuka kogoś doświadczonego w walce." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "Rozejrzeć się po okolicy i pokonać bestie, które się pojawią" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "Zdać raport Urokuzu" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "Ach, <if(gnum4,wojowniczka,wojownik)> z powierzchni! Wygląda na to, że walka to dla <if(gnum4,pani,pana)> nic nowego! Te odwiedziny właśnie teraz─to nie przypadek!" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "Niedawno jeden z naszych młodych Kojin został zaatakowany podczas połowu i ciężko ranny. Nie rozpoznał napastnika, ale wielu podejrzewa koralowego skorupiaka. O tej porze zaczynają składać jaja i bywają bardzo agresywne." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "Ja jednak sądzę, że stoi za tym coś znacznie groźniejszego. Ten młodzieniec to najlepszy wojownik Tamamizu. Zwykły koralowy skorupiak nie zdołałby go zaskoczyć." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "Do zdarzenia doszło na północnym brzegu Wyspy Bekko. Czy mogę prosić o zbadanie, kto za tym stoi?" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "Proszę zachować ostrożność. Nie chcę mieć niczyjej śmierci na sumieniu." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "...Sprawcami byli Czerwoni Kojin? To oburzające! Nie łączy nas przyjaźń, ale dotąd nigdy nie próbowali zabić nikogo z naszych." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "...A może nie chodziło im o jego życie, lecz o kradzież starej wędki, której używał? To przecież jeden z naszych najcenniejszych skarbów." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "Muszę ostrzec pozostałych, by szczególnie uważali, opuszczając wioskę z czymś wartościowym. Dziękuję, <if(gnum4,szanowna pani,szanowny panie)>, za pomoc w wyjaśnieniu tej niepokojącej sprawy." }
   ]
 }

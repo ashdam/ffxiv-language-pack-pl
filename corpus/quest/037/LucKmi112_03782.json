@@ -28,7 +28,7 @@
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_BEQLUGG_000_040", "hash": "97CF9B3F5358BC03", "target": "Ach, już jesteście. Rozumiem, że wszystko gotowe do podróży." },
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_BEQLUGG_000_041", "hash": "0880288B4C3B3E13", "target": "Naczynia duszy są przygotowane i wszyscy się zebrali. Możemy zacząć, gdy tylko <if(gnum4,pani,pan)> da znak." },
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_SYSTEM_000_042", "hash": "C0ED457E977E40AC", "target": "Po rozpoczęciu rytuału przeniesienia dusz zostanie odtworzonych kilka przerywników filmowych z rzędu." },
-    { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_SYSTEM_000_043", "hash": "AEF4A7EF0F461CE9", "target": "Zaleca się zarezerwowanie czasu na obejrzenie ich w całości." },
+    { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_SYSTEM_000_043", "hash": "AEF4A7EF0F461CE9", "target": "Zalecamy zarezerwować dość czasu, by obejrzeć te sceny w całości." },
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_Q2_000_044", "hash": "2546B2A584E66CEF", "target": "Rozpocząć rytuał przeniesienia dusz i wrócić z towarzyszami do Źródła?" },
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_BEQLUGG_000_045", "hash": "45B305383E9D6F8E", "target": "Doskonale. Zaraz rozdam naczynia." },
     { "gameKey": "quest/037/LucKmi112_03782#TEXT_LUCKMI112_03782_Q3_000_050", "hash": "245D49A994D3DA2C", "target": "Kontynuować główny wątek fabularny?" },

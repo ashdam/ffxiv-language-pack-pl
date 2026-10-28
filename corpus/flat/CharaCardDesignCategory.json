@@ -1,0 +1,17 @@
+{
+  "sheet": "CharaCardDesignCategory",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "CharaCardDesignCategory#0", "hash": "7FD5A94C4202C700", "target": "Pokaż wszystko" },
+    { "gameKey": "CharaCardDesignCategory#1", "hash": "A32C90BF0F035FE3", "target": "Standardowe" },
+    { "gameKey": "CharaCardDesignCategory#2", "hash": "DA37DE2357E6B00F", "target": "Klasy/joby" },
+    { "gameKey": "CharaCardDesignCategory#3", "hash": "E1FC0CB4E6F1C85B", "target": "Zadania" },
+    { "gameKey": "CharaCardDesignCategory#4", "hash": "F403446CC0C381CE", "target": "Aktywności" },
+    { "gameKey": "CharaCardDesignCategory#5", "hash": "A12B98B442706516", "target": "Sezony PvP" },
+    { "gameKey": "CharaCardDesignCategory#6", "hash": "B14F9A9E1297A749", "target": "Maskotki" },
+    { "gameKey": "CharaCardDesignCategory#7", "hash": "0B5119001C8CD81B", "target": "Inne" },
+    { "gameKey": "CharaCardDesignCategory#8", "hash": "C55662240AA7A225", "target": "Zawartość poboczna" },
+    { "gameKey": "CharaCardDesignCategory#9", "hash": "DAC133AD5E0EEB2E", "target": "Region" },
+    { "gameKey": "CharaCardDesignCategory#10", "hash": "CA0775CE8D7535D9", "target": "Serie PvP" }
+  ]
+}

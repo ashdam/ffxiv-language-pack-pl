@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz608_01876",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_00", "hash": "0A4EC678E1D0BCE6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_01", "hash": "60505BEBDDA4356F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_02", "hash": "902F0C3D547F7B2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_03", "hash": "5A1493D6566AD014", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_00", "hash": "12A43D9B0E4BAAC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_01", "hash": "3EA5730453507485", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_000", "hash": "D465375B28BC4E1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_001", "hash": "D7596312742F69F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_010", "hash": "5B27CA2D44063E2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_020", "hash": "5BEF00A80FDFF916", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_021", "hash": "CBF84EB088530451", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_030", "hash": "BA78F029DD996CFA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_031", "hash": "3A12B217762ABD29", "target": "" }
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_00", "hash": "0A4EC678E1D0BCE6", "target": "Mogoona niepokoją wody na wschodzie." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_01", "hash": "60505BEBDDA4356F", "target": "Mogoon opowiada ci o stadzie wędrownych anzu, które zadomowiły się w świętych wodach przy posągu Siwej Matki. Nie można tolerować ich agresji. Przepędź je, a w razie konieczności zabij." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_02", "hash": "902F0C3D547F7B2C", "target": "Wszystkie natrętne anzu są przepędzone lub zabite. Wróć do Mogoona z wiadomością o sukcesie." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_03", "hash": "5A1493D6566AD014", "target": "Mogoon rozumie, jak ważna jest woda dla wędrownych ptaków, lecz upiera się, że dzikie stworzenia nie mogą kalać świętych wód." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_00", "hash": "12A43D9B0E4BAAC2", "target": "Przepędzić anzu lub zabić je w razie ataku" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_01", "hash": "3EA5730453507485", "target": "Zdać relację Mogoonowi" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_000", "hash": "D465375B28BC4E1B", "target": "Stado wędrownych anzu bezcześci święte wody przy posągu, kupo! Proszę się ich pozbyć!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_001", "hash": "D7596312742F69F4", "target": "Ale nie wolno zbezcześcić świętego miejsca, zabijając przy posągu─proszę zrobić wszystko, by je tylko przepłoszyć. Jeśli jednak anzu okażą się zaczepne, cóż... chyba nie będzie innego wyjścia, jak pokazać im swój gniew, kupo!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_010", "hash": "5B27CA2D44063E2C", "target": "Anzu zjawiły się pewnego ranka bez ostrzeżenia i bezczeszczą święte wody przy posągu Siwej Matki. Proszę je stąd zabrać, kupo!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_020", "hash": "5BEF00A80FDFF916", "target": "Udaje ci się przepłoszyć anzu." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_021", "hash": "CBF84EB088530451", "target": "Udaje ci się przepłoszyć anzu." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_030", "hash": "BA78F029DD996CFA", "target": "Nie słyszę już skrzeków anzu! Dziękuję, w okolicy znowu zapanował spokój." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_031", "hash": "3A12B217762ABD29", "target": "Wody przy posągu są święte. Jeśli dzikie bestie się tam zadomowią, tylko je zbezczeszczą. Dlatego trzeba się ich pozbyć, tak czy inaczej, kupo!" }
   ]
 }

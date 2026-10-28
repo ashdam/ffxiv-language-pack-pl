@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKta515_04048",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "" }
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "Lali-przyszło kolejne urządzenie do zapisu-ho. Cokolwiek robi Konogg, póki je wysyła, możemy zakładać, że jest cały i zdrów. No, proszę." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "Eee, szefie? Możemy chwilę porozmawiać?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "Jasne, o co chodzi?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "O Glagga. Przed chwilą wpadliśmy na siebie i zachowywał się dziwnie..." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "Zdaje się, że jest wściekły, a nagle wybucha płaczem. Po chwili rozmawia z tobą jak z kimś bliskim od lat." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "Ach, to... Zachowuje się tak od zebrania." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "Ale zajmę się nim, więc bez obaw. Dzięki za wiadomość. Daj znać, jeśli zauważysz coś jeszcze." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "Wygląda na to, że stan Glagga nie jest jeszcze powszechnie znany. Ale to tylko kwestia czasu, jeśli nadal będzie się pogarszał, a chyba właśnie tak jest." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "Wybacz, mówię to wszystko na głos, ale to nie twój problem. Skup się na odbudowie─tak najlepiej nam pomożesz." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "Otrzymujesz wiadomość od Konogga." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "Wiadomość można przeczytać w <colortype(500)><edgecolortype(501)>Archiwum przenośnym<edgecolortype(0)><colortype(0)>, dostępnym w sekcji Kolekcja, w kategorii Aktywność w menu głównym." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa206_00729",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_00", "hash": "BFF047F08C4FE67B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_01", "hash": "831A7CDCDBC13BB3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_02", "hash": "B8F992CC1DF898D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_03", "hash": "FF38CD20F7243901", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_00", "hash": "5724E9A67F5F1862", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_01", "hash": "4886DE93C651CCDE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_000", "hash": "62A1EF15F7D8B25C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_001", "hash": "ED2906A00F01A330", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_002", "hash": "AA4700A779AAB604", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_010", "hash": "DBA296160FA6216E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_011", "hash": "AA21A283D33AC9CE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_012", "hash": "FAFACAC7C51D6310", "target": "" }
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_00", "hash": "BFF047F08C4FE67B", "target": "Auphiliot prosi o wytępienie smallmouth orobon, które dziesiątkują rzeczne ryby." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_01", "hash": "831A7CDCDBC13BB3", "target": "Orobon zjadają wszystkie ryby, które Buscarron zwykle podaje gościom. Udaj się na wschód do rzeki i zabij co najmniej trzy żarłoczne drapieżniki." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_02", "hash": "B8F992CC1DF898D9", "target": "Patroszysz wymaganą liczbę smallmouth orobon. Wróć do Buscarron's Druthers i dumnie pokaż zleceniodawcy o imieniu Auphiliot ręce oblepione wnętrznościami." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_03", "hash": "FF38CD20F7243901", "target": "Po twoich zmaganiach z orobon Auphiliot uznaje, że zasługujesz na miejsce w gospodzie. Zachęca cię do dalszego wspierania Buscarrona w pracy." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_00", "hash": "5724E9A67F5F1862", "target": "Zabić smallmouth orobon" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_01", "hash": "4886DE93C651CCDE", "target": "Zdać raport zleceniodawcy o imieniu Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_000", "hash": "62A1EF15F7D8B25C", "target": "Hmm... Ten błysk w oku... Przemoc nie jest ci obca, co? Mam robotę dla <if(gnum4,twardej dziewczyny,twardego chłopaka)> jak ty!" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_001", "hash": "ED2906A00F01A330", "target": "Skocz do rzeki na wschodzie i wypatrosz mi trzy smallmouth orobon, dobra? Pożerają wszystkie rybki, które Buscarron podaje nam na kolację. A na <italic(1)>to<italic(0)> przecież nie pozwolimy, co?" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_002", "hash": "AA4700A779AAB604", "target": "Wróć z rybimi flakami na rękach, a dopilnuję, żeby traktowano cię jak <if(gnum4,prawdziwą stałą bywalczynię,prawdziwego stałego bywalca)> gospody." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_010", "hash": "DBA296160FA6216E", "target": "Orobon już załatwione? To chyba niedługo zjem miskę rzecznego pstrąga! Albo ładny kawałek szczupaka..." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_011", "hash": "AA21A283D33AC9CE", "target": "Stary Buscarron zawsze był wobec mnie w porządku, nieważne, co wyprawiałem za dawnych lat. Nie lubię więc tych, którzy sprawiają mu kłopoty─nawet jeśli to ryby." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_012", "hash": "FAFACAC7C51D6310", "target": "Wyglądasz na kogoś godnego zaufania, a po twojej robocie widać, że masz zdolności. Może wykorzystasz je dla staruszka, co?" }
   ]
 }

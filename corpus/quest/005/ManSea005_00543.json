@@ -23,7 +23,7 @@
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_18", "hash": "9C3627AA14B649E7", "target": "Tylko uważaj, <split(<string(gstr1)>, ,2)>─nie umiem powiedzieć na pewno, z jakim rodzajem łotrów mamy tu do czynienia. Jeśli to <italic(1)>są<italic(0)> ci porywacze... no, po prostu miej się na baczności, dobrze?" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_30", "hash": "E780F099F700B1E6", "target": "Za chwilę wejdziesz do bitwy w instancji. Bitwy w instancji odbywają się wyłącznie podczas określonych zadań i misji." },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_31", "hash": "8D030AEBD6ADED17", "target": "Poświęć chwilę na przeczytanie informacji w oknie Active Help, zanim odpowiesz na wezwanie obowiązku." },
-    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_Q1_000_1", "hash": "7AC360578641DDE8", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Lurkers in the Grotto”?" },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_Q1_000_1", "hash": "7AC360578641DDE8", "target": "Obowiązek wzywa. Czy rozpocząć<br>„Przyczajeni w grocie”?" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_1", "hash": "A7D5280EF261D5B4", "target": "Tak" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_2", "hash": "CDE7927F0D24F7A2", "target": "Nie" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000010_YSHTOLA", "hash": "3959C7DC0D1F7D75", "target": "<italic(1)>Jam jest fala, co niesie.<br>Jam jest wiatr, co wiedzie.<italic(0)>" },

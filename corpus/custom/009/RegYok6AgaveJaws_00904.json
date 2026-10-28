@@ -2,17 +2,17 @@
   "conversation": "custom/009/RegYok6AgaveJaws_00904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "" }
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "Ach, ktoś z podróży! Witaj w Szczękach Agawy. Czym mogę służyć?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "Nawet do nas dotarły wieści, że Valigarmanda grasuje na wolności. I to tuż po tym, jak Trzecia Pretendentka odparła dla nas hordę potworów... Najwyraźniej nie jest nam dana ani chwila wytchnienia." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "Na szczęście Valigarmanda nigdy się tu nie zapuścił. Teraz, gdy został pokonany, mogę znów skupić się na gospodarstwie bez obaw o życie." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "Może przygotuję nasze najlepsze agawy do destylacji na cześć nowych Sług Świtu. Z pewnością mają mnóstwo obowiązków, ale kiedyś musi nadejść wieczór, gdy odpoczną przy kilku kieliszkach mezcalu." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "O co zapytasz?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "Nic." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "Och, wieloma rzeczami! Badam glebę i pogodę, by zapewnić agawom najlepsze warunki wzrostu, ustalam tempo upraw i określam, ile roślin przygotujemy do destylacji." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "Nic nie cieszy mnie bardziej niż czyjeś zainteresowanie gospodarstwem! Całymi dniami doglądamy agaw wraz ze współpracownikami─chyba po prostu miło, gdy ktoś docenia naszą ciężką pracę." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "To oczywiście gospodarstwo uprawiające agawy! Zbieramy ich sok i destylujemy go, by otrzymać mezcal." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "A skąd nazwa gospodarstwa? Wystarczy spojrzeć, jak równiutko posadziliśmy rośliny! Czy ten widok nie przypomina rozwartej paszczy dzikiej bestii? Eee, nie znam takiej paszczy z bliska..." }
   ]
 }

@@ -40,7 +40,7 @@
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_RYNE_000_090", "hash": "A2903F70E319CA5C", "target": "Nie przejmuj się nami. Będziemy patrzeć z bezpiecznej odległości." },
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_ARKIL_000_095", "hash": "1AFBA10179FCC22A", "target": "Nie mrugnę! Ani razu!" },
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_EIRWEL_000_100", "hash": "F6B7069F5586233B", "target": "A więc nietoperze gnieżdżą się pod okapami... Trzeba znać wroga!" },
-    { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_SYSTEM_000_105", "hash": "16C6B1DF1C1C43F0", "target": "Atakują cię!" },
+    { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_SYSTEM_000_105", "hash": "16C6B1DF1C1C43F0", "target": "Ktoś cię atakuje!" },
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_ARKIL_000_110", "hash": "B2BAB684D9BF5B0B", "target": "Ojej! To było niesamowite!" },
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_EIRWEL_000_115", "hash": "C3A99C4ED91784D9", "target": "Nietoperze nie miały szans!" },
     { "gameKey": "quest/037/LucKmi102_03772#TEXT_LUCKMI102_03772_RYNE_000_120", "hash": "0EB0813DE8D5753F", "target": "Świetna walka, <split(<string(gstr1)>, ,1)>! Dzieci śledziły każdy twój ruch!" },

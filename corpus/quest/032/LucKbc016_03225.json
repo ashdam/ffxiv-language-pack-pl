@@ -18,7 +18,7 @@
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_TODO_05", "hash": "3716E4E1824778FF", "target": "Porozmawiać z Radovanem w Revenant's Toll" },
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_RADOVAN_000_000", "hash": "AADEB5F4D7976B40", "target": "Ach, <split(<string(gstr1)>, ,1)>. Miło znów <if(gnum4,panią,pana)> widzieć. Od naszego spotkania poznałem sporo poszukiwaczy przygód pragnących zgłębić sztukę gunbreakera. Choć po szkoleniu tak <if(gnum4,zdolnej uczennicy,zdolnego ucznia)> mogę mieć nieco zbyt wysokie wymagania." },
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_SOPHIE_000_001", "hash": "02A71372562B5666", "target": "Radovan był tak zajęty, że niemal nie brał innych zleceń. Zostało mi mnóstwo wolnego czasu. Kobiety pracujące dla Roweny ganiają mnie za jakimiś księgokamieniami. Czy kamienioksięgami? Nie pamiętam. A co u <if(gnum4,pani,pana)>?" },
-    { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_Q1_000_000", "hash": "990939205D224E1B", "target": "O czym opowiesz?" },
+    { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_Q1_000_000", "hash": "990939205D224E1B", "target": "O czym porozmawiasz?" },
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_A1_000_001", "hash": "C90683C821EAF1F4", "target": "O przyjacielu, który został gunbreakerem." },
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_A1_000_002", "hash": "66220ABCB20E47D5", "target": "O człowieku, który chroni bliskich za pomocą gunblade'a." },
     { "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_RADOVAN_000_002", "hash": "6BF8E206EB2CFB55", "target": "Jak to możliwe!?" },

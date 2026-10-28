@@ -30,7 +30,7 @@
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_22", "hash": "D0D56FA4CEB3EC44", "target": "Nie wątpię, że chcesz jak najprędzej poznać nowych towarzyszy, ale proszę, najpierw odwiedź starych. Pamiętaj: choć jesteś teraz <if(gnum4,żołnierką,żołnierzem)> Maelstromu, pozostajesz <if(gnum4,Dziedziczką,Dziedzicem)>! Wróć proszę do Przebudzonych Piasków, gdy tylko zdołasz. Jest tu kilkoro przyjaciół, których bardzo chciałabym ci przedstawić. Będziemy czekać!" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_023", "hash": "EEE28C9C0723A13A", "target": "Nie ma odpoczynku dla niegodziwych, co?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_024", "hash": "A0E3DEE50BAFAC54", "target": "Zanim się ulotnisz, radzę zamienić słowo z komandor Rhiki. Może się opłacić..." },
-    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025", "hash": "C911403A6F023600", "target": "Możesz teraz przyjąć misję „My Little Chocobo (Maelstrom)”, rozmawiając z R'ashaht Rhiki." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025", "hash": "C911403A6F023600", "target": "Możesz teraz przyjąć misję „Mój mały chocobo (Maelstrom)”, rozmawiając z R'ashaht Rhiki." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_026", "hash": "7C8421CB76E4757D", "target": "To zadanie trzeba ukończyć, by dotrzeć do końca głównej fabuły A Realm Reborn." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_GUIDE_000_200", "hash": "FBDB1CA351164436", "target": "Witaj z powrotem, <split(<string(gstr1)>, ,1)>! Pani Minfilia czeka w środku." }
   ]

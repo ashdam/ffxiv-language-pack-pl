@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix125_03713",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_SEQ_00", "hash": "CED13279F84CEDED", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_00", "hash": "C48BE00BF2AF9136", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_01", "hash": "8C5D7BC55EE41B51", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_02", "hash": "90A06FC0718F7DD0", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_000", "hash": "E66CD6F837EB2C89", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_001", "hash": "783C7CB1DF605B1E", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_002", "hash": "7F6093EBCFEFCA90", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_SYSTEM_000_005", "hash": "5A8D15AD30479423", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_010", "hash": "97D3C176BBDD6D93", "target": "" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_011", "hash": "69C85DA06805F85A", "target": "" }
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_SEQ_00", "hash": "CED13279F84CEDED", "target": "Uin Nee okazuje jeszcze większy niepokój niż zwykle, co powinno budzić niemałą trwogę.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_00", "hash": "C48BE00BF2AF9136", "target": "Pokonać przeciwników Nu Mou porxienapper na Płyciźnie Sześcioraczków" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_01", "hash": "8C5D7BC55EE41B51", "target": "Pomóc drżącemu porxie" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_02", "hash": "90A06FC0718F7DD0", "target": "Zdać raport Uin Nee" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_000", "hash": "E66CD6F837EB2C89", "target": "Cóż, <if(gnum4,ulubiona śmiertelniczko,ulubiony śmiertelniku)>, <italic(1)>byłaby<italic(0)> teraz okazja do dokazywania z porxie we snach. Ale nieee! Ci okropni, paskudni wyjęci spod prawa musieli porwać porxie z mojego zamówienia z Pla Enni. Teraz zarówno ja, <italic(1)>jak i<italic(0)> sny jesteśmy... bez porxie!" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_001", "hash": "783C7CB1DF605B1E", "target": "Uch! Mówię: uch! Ooo, jak dorwę tych porywaczy porxie..." },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_002", "hash": "7F6093EBCFEFCA90", "target": "Chwila! Wcale nie muszę ich dorwać! Mamy przecież twoje o wiele większe ręce! Dobrze, dobrze. Idź i daj ode mnie w twarz porywaczowi, <if(gnum4,śmiertelniczko,śmiertelniku)>!" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_SYSTEM_000_005", "hash": "5A8D15AD30479423", "target": "Twoja opieka wyraźnie uspokaja porxie. Po serdecznym chrumknięciu w twoją stronę zwraca się ku Lydha Lran." },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_010", "hash": "97D3C176BBDD6D93", "target": "Cały i zdrowy! I okrągły! I uroczy! Właśnie na to liczę! Z tak czarującym porxie mogę utkać najpiękniejsze sny..." },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_011", "hash": "69C85DA06805F85A", "target": "\\<wzdycha> Ale najpierw chyba trzeba powiadomić Nu Mou w Pla Enni, że jednak dotarł bezpiecznie. Tak bardzo się o niego <italic(1)>niepokoili<italic(0)>. Niektóre istoty fae naprawdę powinny się nauczyć spokoju, moim zdaniem..." }
   ]
 }

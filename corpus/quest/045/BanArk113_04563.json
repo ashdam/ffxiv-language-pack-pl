@@ -2,18 +2,18 @@
   "conversation": "quest/045/BanArk113_04563",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SEQ_00", "hash": "6A587633715020BF", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_00", "hash": "BB260E0CA9B46EA0", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_01", "hash": "563DBAC6B6974DDF", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_02", "hash": "FC49D7E867E96710", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_001", "hash": "81781AFC2D838FE6", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_002", "hash": "B5E7CE730572E4AE", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_003", "hash": "5E06B0FD09378C63", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_004", "hash": "84A66805305F464E", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SYSTEM_000_020", "hash": "165B6BB73ABD40B2", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_030", "hash": "6B9F26510C65D0D7", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_031", "hash": "80FF5900AC03DAE3", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_032", "hash": "B64CF00F7D4F639F", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_033", "hash": "67EA31845CD4191F", "target": "" }
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SEQ_00", "hash": "6A587633715020BF", "target": "Maru niepokoi się cuchnącą roślinnością.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_00", "hash": "BB260E0CA9B46EA0", "target": "Użyć odtrutki rodu Daemir na nasionie asvattha" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_01", "hash": "563DBAC6B6974DDF", "target": "Wydobyć nasiono asvattha" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_02", "hash": "FC49D7E867E96710", "target": "Dostarczyć nasiono asvattha do Maru" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_001", "hash": "81781AFC2D838FE6", "target": "<split(<string(gstr1)>, ,1)>! Przy Skrusze Pavany rośnie asvattha. Chcę zdusić problem w zarodku. A raczej w nasionie." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_002", "hash": "B5E7CE730572E4AE", "target": "Zwykle posłalibyśmy kogoś, żeby je spalił─i tak dosyć tego paskudztwa wije się po naszej dżungli." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_003", "hash": "5E06B0FD09378C63", "target": "Tylko że tym razem jeden z kucharzy chce go użyć do... brr, ciarki mnie przechodzą na samą myśl. W każdym razie możesz mi je przynieść?" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_004", "hash": "84A66805305F464E", "target": "Nasiona asvattha są z natury pokryte trucizną, więc najpierw musisz je polać tą odtrutką. Spróbuj je przynieść w jednym kawałku, ale nie strać przy tym ręki." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SYSTEM_000_020", "hash": "165B6BB73ABD40B2", "target": "Odtrutka przestaje syczeć. Udaje ci się wydobyć okrągłe nasiono asvattha! Kucharz w Svarnie powinien się ucieszyć. Wróć ze znaleziskiem do Maru." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_030", "hash": "6B9F26510C65D0D7", "target": "Uuuch! Nie muszę nawet pytać─masz to nasiono. Siostry, chrońcie mnie przed tym okropnym smrodem..." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_031", "hash": "80FF5900AC03DAE3", "target": "Dzięki, chyba. W Vanaspati nie brakuje tego paskudztwa, ale nie sposób się przyzwyczaić..." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_032", "hash": "B64CF00F7D4F639F", "target": "Ale kucharz się ucieszy─bogowie, miejcie nas w opiece. Podobno po odsączeniu trucizny i namoczeniu tego świństwa w spirytusie wychodzi znakomity trunek." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_033", "hash": "67EA31845CD4191F", "target": "<italic(1)>Ja<italic(0)> tego za nic nie wypiję, ale pewnie znajdą się chętni..." }
   ]
 }

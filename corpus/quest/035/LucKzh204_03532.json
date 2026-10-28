@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzh204_03532",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_SEQ_00", "hash": "35891C18DC0DC2B8", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_TODO_00", "hash": "0F5CB3FBDA920BC2", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_TODO_01", "hash": "F9E763B968E3C46D", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_000", "hash": "722F310599E0B76F", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_001", "hash": "A6492D12E2FAEB2B", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_002", "hash": "018F73E1EA252D53", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_003", "hash": "A0249CBDAEE080C2", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_004", "hash": "BFAAE1F605CDBFA2", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_005", "hash": "809E36314C0E5E3C", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDCRIMINALA03532_000_010", "hash": "92DE16C6766FA07A", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_020", "hash": "7A918AA09644EACE", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_021", "hash": "D614FECAC9BDA792", "target": "" },
-    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_022", "hash": "2CA52F9B447262E4", "target": "" }
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_SEQ_00", "hash": "35891C18DC0DC2B8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Trop ściganych przez gotowego do walki wojownika Mord doprowadził go do Chochli." },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_TODO_00", "hash": "0F5CB3FBDA920BC2", "target": "Stawić czoła handlarzom kryształów" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_TODO_01", "hash": "F9E763B968E3C46D", "target": "Zdać relację gotowemu do walki wojownikowi Mord" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_000", "hash": "722F310599E0B76F", "target": "Tym razem mi nie uciekną, o nie. Kto? Przestępcy! Łamią prawo Mord i przynoszą wstyd nam wszystkim!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_001", "hash": "A6492D12E2FAEB2B", "target": "Nie wolno nam zabierać kryształów z Muru, bo wierzymy, że mogą zmieniać ludzi w pożeraczy grzechów. Nawet odłamane kawałki są zakazane!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_002", "hash": "018F73E1EA252D53", "target": "Ale ci oszuści je zbierają i sprzedają! Oczywiście nie mówią klientom, skąd pochodzą kryształy, ale ja znam ich sekret." },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_003", "hash": "A0249CBDAEE080C2", "target": "Dlatego tu jestem, żeby doprowadzić ich przed oblicze sprawiedliwości. Łamią nasz kodeks, oszukują kupujących. Bardzo poważne przestępstwa!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_004", "hash": "BFAAE1F605CDBFA2", "target": "Trop doprowadził mnie aż tutaj i wkrótce będą moi! Ale jest ich zbyt wielu na mnie jednego, a nie mogę ryzykować porażki. Pomożesz mi, <if(gnum4,wędrowniczko,wędrowcze)>?" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_005", "hash": "809E36314C0E5E3C", "target": "Obejdę pałac od zachodu, a ty podejdź od wschodu. Niczym zatrzaskujące się szczęki zonure! Jeśli się da, weź ich żywcem, ale jeśli będą stawiać opór, nie okazuj litości, bo oni też jej nie okażą. Kiedy skończysz, spotkajmy się tutaj." },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDCRIMINALA03532_000_010", "hash": "92DE16C6766FA07A", "target": "<if(gnum4,Widziała,Widział)> za dużo! Zabić <if(gnum4,ją,go)>!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_020", "hash": "7A918AA09644EACE", "target": "He. Rozumiem, że to nie twoja krew? Ci, których złapałem, też nie chcieli pójść po dobroci. Cóż, stało się. Dostali to, na co zasłużyli, plując na nasz kodeks!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_021", "hash": "D614FECAC9BDA792", "target": "Nie mnie oceniać, czy kryształy Muru mają coś wspólnego z pożeraczami grzechów. Wiem za to, że bez zasad, bez prawa, nie jesteśmy lepsi od zwierząt. Od zwierząt, mówię ci!" },
+    { "gameKey": "quest/035/LucKzh204_03532#TEXT_LUCKZH204_03532_MOLDWARRIOR03532_000_022", "hash": "2CA52F9B447262E4", "target": "Ekhm! Wybacz. Zanim się rozstaniemy, oto twoja nagroda za ukaranie niegodziwców." }
   ]
 }

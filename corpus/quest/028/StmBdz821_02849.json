@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz821_02849",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_SEQ_00", "hash": "BA430AA34721B4FD", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_00", "hash": "150B4E4BF5D717CE", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_01", "hash": "422DA56ED89EB7EA", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_000", "hash": "EA40F36F1CDED43D", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_001", "hash": "CE250338AA7D3E52", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_002", "hash": "A73971F2ED7EEBD0", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_003", "hash": "0BBC89CCA80A64E5", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_004", "hash": "CB6375213DF17C47", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_010", "hash": "14D4043F1CE1D73C", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_020", "hash": "B740164A60140085", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_030", "hash": "B34A5F1574A84B51", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_031", "hash": "8C122EAB4C62FA7F", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_032", "hash": "2840636273580780", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_033", "hash": "FD3105C620F7E2A9", "target": "" }
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_SEQ_00", "hash": "BA430AA34721B4FD", "target": "Garrulous Gall chce przygotować się do rozpoczęcia nowego interesu." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_00", "hash": "150B4E4BF5D717CE", "target": "Rozlać syrop miodowy we wskazanym miejscu i zdobyć kupkę opalizujących łusek od purple morpho" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_01", "hash": "422DA56ED89EB7EA", "target": "Dostarczyć kupkę opalizujących łusek Garrulous Gallowi" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_000", "hash": "EA40F36F1CDED43D", "target": "Jest <if(gnum4,pani,pan)> z Sojuszu Eorzejskiego? Jesteśmy wdzięczni za wszystko, co <if(gnum4,pani zrobiła,pan zrobił)>, by uwolnić Radiatę z uścisku Imperium." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_001", "hash": "CE250338AA7D3E52", "target": "Żeby przeżyć, musieliśmy kłaniać się Imperium i wykonywać najcięższe prace dla jego armii. Teraz odeszli, a my musimy znaleźć nowe źródła utrzymania." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_002", "hash": "A73971F2ED7EEBD0", "target": "Właśnie w tym może mi <if(gnum4,pani,pan)> pomóc, jeśli zechce. Potrzebuję tylko trochę łusek motyla purple morpho." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_003", "hash": "0BBC89CCA80A64E5", "target": "Proszę wziąć ten syrop. Wystarczy wylać odrobinę na ziemię w tym miejscu na mapie, a zapach powinien zwabić jednego z tych skrzydlatych pięknisiów." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_004", "hash": "CB6375213DF17C47", "target": "Dzięki łuskom mógłbym zacząć nowy interes, ale nawet jeden przeklęty motyl to dla mnie zbyt wiele. Ostatnim razem omal nie straciłem oka..." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_010", "hash": "14D4043F1CE1D73C", "target": "Ma <if(gnum4,pani,pan)> jeszcze syrop? Wystarczy wylać trochę na ziemię we wskazanym miejscu, a powinien zwabić motyla. Proszę uważać, żeby nie uszkodzić łusek!" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_020", "hash": "B740164A60140085", "target": "Udało się zdobyć łuski?" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_030", "hash": "B34A5F1574A84B51", "target": "Och, są po prostu...<br>Widzi <if(gnum4,pani,pan)>, jak mienią się w świetle? Będą idealne do wyrobu przedmiotów glamour prism." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_031", "hash": "8C122EAB4C62FA7F", "target": "...Kiedyś szorowałem podłogi w koszarach i innych budynkach armii. Niby niezbyt wymagające zajęcie... dopóki nie trzeba zmywać krwi własnych rodaków." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_032", "hash": "2840636273580780", "target": "Chcę zostawić te mroczne dni za sobą i handlować czymś pięknym, pełnym światła. Dlatego potrzebowałem łusek." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_033", "hash": "FD3105C620F7E2A9", "target": "Dziękuję za pomoc. Oby światło, które <if(gnum4,pani,panu)> zawdzięczam, rozjaśniło także <if(gnum4,pani,pańską)> drogę, gdy wszystko dobiegnie końca." }
   ]
 }

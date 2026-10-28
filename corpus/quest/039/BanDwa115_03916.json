@@ -2,19 +2,19 @@
   "conversation": "quest/039/BanDwa115_03916",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "" }
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "Regitt ponuro spogląda w dal, być może zastanawiając się nad nieobecnością zagubionych automatów.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub profesją, którą przyjęto zadanie." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "Poszukać zagubionych automatów w Lesie Zagubionego Pasterza" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "Dostarczyć zagubione automaty Regittowi" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "Uch, gdzie one są!? Te automaty miały wrócić wieki temu! Wysłałem je między drzewa po materiały, a tu ani śladu." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "W tym tempie nigdy nie zbudujemy czołgów. Ale jeśli sam wlezę w gęstwinę na poszukiwania, zgubię się jak pasterz, od którego ten las wziął nazwę. Naprawdę powinienem lepiej przestudiować mapę..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "Tak czy owak! Jesteś tu, a okolicę znasz─jak zakładam─znacznie lepiej. Zrób mi przysługę i sprowadź tę parę durniów bez poczucia kierunku!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "Witaj, zacna istoto śmiertelna! Cóż cię sprowadza do tego cudownego lasu? Jeśli masz do mnie sprawę, niestety musi poczekać. Mam pilne, wcześniej umówione zajęcie!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "Figlarna istoto śmiertelna, wyjaśnij się natychmiast! Dlaczego chcesz porwać tego cudownego i mistycznego przedstawiciela Fuath?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "...Automat krasnoludzkiej roboty, powiadasz?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "O, okrutna prawdo! Ta pogoń miała prowadzić do nowego krewniaka w tym świecie, co swą postać fae okrył skórą twardą jak żelazo..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "Tyle zmarnowanego czasu! Cenne zioła czekają na zebranie, a mikstury na uwarzenie. Zabieraj swą zdobycz i nie zawracaj mi już głowy!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "Lali-ho! Udało się znaleźć nasze zagubione automaty?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "Przygotowałem stertę części zamiennych do naprawy tej dwójki. Na pierwszy rzut oka nie są szczególnie uszkodzone, ale sprawdźmy, co poszło nie tak... Hm?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "Brak paliwa...? Dałem im przecież dość na całe cholerne godziny! Coś musiało je gonić, skoro tak szybko spaliły węgiel. Widzisz, właśnie dlatego potrzebujemy czołgów!" }
   ]
 }

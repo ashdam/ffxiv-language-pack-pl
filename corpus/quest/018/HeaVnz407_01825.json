@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz407_01825",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_00", "hash": "727102699BE41493", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_01", "hash": "E843D72D62A6179A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_02", "hash": "5C9C8D38598566BC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_03", "hash": "E55953909E5DD5B2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_00", "hash": "FA2CEF0A839E577C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_01", "hash": "D6FFF70D156F3DE7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_000", "hash": "7C528CD46D36E3EF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_001", "hash": "B410C166DF8E46FE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_010", "hash": "140D734E57374B4A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_020", "hash": "51FB103CB6024F1A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_030", "hash": "429AF7F785D86647", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_031", "hash": "B30DA06134E388A3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_00", "hash": "727102699BE41493", "target": "Mogson patrzy na ciebie z nabożnym zdumieniem." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_01", "hash": "E843D72D62A6179A", "target": "Mogson nie może uwierzyć, że ktoś z powierzchni przemierza The Churning Mists. Kiedy otrząsa się z wrażenia, wspomina o trzech koszach zostawionych w okolicy Czterech Ramion. Pomóż temu znawcy ludzkich zabytków odnaleźć zguby." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_02", "hash": "5C9C8D38598566BC", "target": "Odnajdujesz plecione kosze, choć ich znaczenie pozostaje zagadką. Zanieś je Mogsonowi." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_03", "hash": "E55953909E5DD5B2", "target": "Moogle ledwie zauważa kosze. Oznajmia, że spotkanie kogoś z powierzchni jest znacznie większą atrakcją niż wszelkie zabytki, jakie mogą skrywać ruiny." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_00", "hash": "FA2CEF0A839E577C", "target": "Odnaleźć kosze w pobliżu Czterech Ramion" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_01", "hash": "D6FFF70D156F3DE7", "target": "Dostarczyć kosze Mogsonowi" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_000", "hash": "7C528CD46D36E3EF", "target": "Czy... czy to istota z <italic(1)>powierzchni<italic(0)>!? Myślałem, że istniejecie tylko w legendach, kupo! Nigdy nie sądziłem, że zobaczę kogoś takiego na własne oczy..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_001", "hash": "B410C166DF8E46FE", "target": "...Ale o czym to ja? Ach, tak. Szukam trzech koszy, które gdzieś zapodziałem. Może zostawiłem je w pobliżu Czterech Ramion..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_010", "hash": "140D734E57374B4A", "target": "Gdzież te kosze? Ostatnio widziałem je chyba gdzieś w okolicy Czterech Ramion..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_020", "hash": "51FB103CB6024F1A", "target": "Gdzie mogą być te kosze, kupo? Masz jakiś pomysł?" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_030", "hash": "429AF7F785D86647", "target": "Moje kosze! <if(gnum4,Naprawdę poszłaś ich szukać,Naprawdę poszedłeś ich szukać)>? Legendy nie wspominają, że istoty z powierzchni są takie miłe." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_031", "hash": "B30DA06134E388A3", "target": "Lubię zwiedzać ruiny po ludziach i zbierać rozrzucone tam skarby. Ale nawet nie marzyłem, że spotkam kogoś z powierzchni! Żaden zabytek nie byłby choć w połowie tak cenny jak nasze spotkanie, kupo!" }
   ]
 }

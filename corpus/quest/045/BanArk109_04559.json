@@ -2,19 +2,19 @@
   "conversation": "quest/045/BanArk109_04559",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_SEQ_00", "hash": "AB3FC49EC03BDD51", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_010", "hash": "9B5D8FD6A6943533", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_011", "hash": "88A6F904E8ABC727", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_012", "hash": "D5BEF9EFEF1AB342", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_020", "hash": "499A99FEA190FDA4", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_021", "hash": "334B5B304F5BD602", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_022", "hash": "4E57B302695FFBE7", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_023", "hash": "CE9696A9AAE6EA39", "target": "" }
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_SEQ_00", "hash": "AB3FC49EC03BDD51", "target": "Maru z niepokojem czeka na czyjś powrót.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "Odszukać milczącego jeźdźca" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "Porozmawiać z milczącym jeźdźcem" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "Zdać relację Maru" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "<split(<string(gstr1)>, ,1)>, może wpadł ci w oko ponury jeździec z dwoma dzbanami oleju z valras?" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "To twardy chłop, więc posłałem go tłuc valras bez wahania─ale teraz się martwię, że coś mu się stało." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "Myślę, że masz jeszcze więcej krzepy od niego, więc możesz go poszukać? Powinien być gdzieś na Wonnym Wzgórzu─oby w jednym kawałku." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_010", "hash": "9B5D8FD6A6943533", "target": "...Winien ci jestem podziękowanie. Okoliczności nie pozwalały mi się wycofać." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_011", "hash": "88A6F904E8ABC727", "target": "Zabiorę olej i niezwłocznie wrócę. Przekaż to Maru, jeśli możesz." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_012", "hash": "D5BEF9EFEF1AB342", "target": "Wstyd przyznać, ale widok tego kruchego stworzenia w śmiertelnym niebezpieczeństwie sprawił, że zapomniałem o ostrożności... Przekaż Maru, że zaraz wrócę z olejem." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_020", "hash": "499A99FEA190FDA4", "target": "Udało się go znaleźć w jednym kawałku?" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_021", "hash": "334B5B304F5BD602", "target": "No jasne... Zwykle to rozsądny gość, ale kiedy w grę wchodzi małe zwierzątko, niczego nie da się przewidzieć." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_022", "hash": "4E57B302695FFBE7", "target": "W każdym razie ulżyło mi, że nic mu nie jest. Inaczej nie wiem, co bym zrobił..." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_023", "hash": "CE9696A9AAE6EA39", "target": "Zapamiętam to sobie, zanim znowu wyślę go po coś. Jak zawsze dzięki za pomoc, <split(<string(gstr1)>, ,1)>!" }
   ]
 }

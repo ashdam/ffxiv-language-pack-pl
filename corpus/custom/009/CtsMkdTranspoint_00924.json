@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsMkdTranspoint_00924",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000", "hash": "203C63418AAD4044", "target": "" },
-    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010", "hash": "34E649A0848847F7", "target": "" }
+    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000", "hash": "203C63418AAD4044", "target": "Zestrajasz się z odłamkiem Aethernet i zyskujesz dostęp do sieci eterycznej wyspy." },
+    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010", "hash": "34E649A0848847F7", "target": "Kolejne odłamki znajdziesz na terenie Occult Crescent. Zestrajaj się z nimi, by szybciej podróżować po wyspie." }
   ]
 }

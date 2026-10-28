@@ -2,15 +2,15 @@
   "conversation": "quest/030/SubCts501_03088",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_000", "hash": "0ECFC2380D632B99", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_001", "hash": "58F18776F367AB06", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_002", "hash": "24D09ACE65A5DEB6", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_003", "hash": "35A3542645992EB6", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_004", "hash": "3B36009D9CE0F026", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_005", "hash": "B682DFDD6ED69B98", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_006", "hash": "566754DAB3970D2E", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_007", "hash": "C185749E9DD53D11", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_010", "hash": "40C97AD825644BB0", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_011", "hash": "CDE7BE36BEA2A391", "target": "" }
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_000", "hash": "0ECFC2380D632B99", "target": "Chcesz posłuchać mojej harfy? Jakiej większej pochwały mógłby pragnąć minstrel niż obecności <if(gnum4,bohaterki\\, która,bohatera\\, który)> jest natchnieniem jego pieśni!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_001", "hash": "58F18776F367AB06", "target": "A jednak nie mam nowych utworów godnych uszu takiej sławy. Gdybym tylko miał czym cię zabawić..." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_002", "hash": "24D09ACE65A5DEB6", "target": "Ach! Olśnił mnie najwspanialszy pomysł! <italic(1)>Ty<italic(0)> będziesz <if(gnum4,autorką,autorem)>─i tematem─własnych dzieł!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_003", "hash": "35A3542645992EB6", "target": "Tak! Tkając epos z własnych dokonań, spojrzysz krytycznie na dawne czyny. Uznaj takie dzieła za muzy, które pomogą ci dalej się rozwijać!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_004", "hash": "3B36009D9CE0F026", "target": "Napisać wiersz to nic trudnego─słowa przyjdą same, zapewniam. Po prostu wyobraź sobie scenę i wiernie opisz wspomnienia, dbając o szczegóły." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_005", "hash": "B682DFDD6ED69B98", "target": "Niczego nie pomijaj ani nie dodawaj, a prawda zostanie zachowana. Recytacja gotowego utworu przywoła potem przeszłość przed oczy twej wyobraźni." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_006", "hash": "566754DAB3970D2E", "target": "A kiedy spojrzysz wstecz jasno i bez rozproszenia, to, co ginęło w chaosie, może stać się oczywiste. Zwłaszcza bez \\<kaszle> <italic(1)>upiększeń<italic(0)>, które mógłbym dodać do opowieści..." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_007", "hash": "C185749E9DD53D11", "target": "Oby spisywanie własnych sag przyniosło ci natchnienie i głębsze zrozumienie. Ach, wróć kiedyś i podziel się swoim dziełem!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_010", "hash": "40C97AD825644BB0", "target": "Uzyskano dostęp do funkcji <colortype(500)><edgecolortype(501)>Duty Recorder<edgecolortype(0)><colortype(0)>, pozwalającej nagrywać aktywności i oglądać je w pokoju w gospodzie." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_011", "hash": "CDE7BE36BEA2A391", "target": "Otwórz interfejs <colortype(500)><edgecolortype(501)>Duty Recorder<edgecolortype(0)><colortype(0)> w sekcji <colortype(500)><edgecolortype(501)>Aktywność<edgecolortype(0)><colortype(0)> w menu głównym. Szczegółowe informacje o korzystaniu z tej funkcji znajdziesz w tekście pomocy." }
   ]
 }

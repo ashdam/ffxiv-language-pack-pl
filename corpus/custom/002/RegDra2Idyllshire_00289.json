@@ -2,16 +2,16 @@
   "conversation": "custom/002/RegDra2Idyllshire_00289",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_Q1_000_000", "hash": "FF8C93BC7A11E674", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_001", "hash": "5D35725A3D451ED3", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_002", "hash": "6FB342DB25C9870E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_003", "hash": "659179FB97C45221", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_010", "hash": "AB2DAF5A9A451EC0", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_011", "hash": "1DCC4D060B2CD0C9", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_012", "hash": "DC5077E8CAF6C4D0", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_020", "hash": "D66A6750323456C5", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_021", "hash": "FFDAF4C6A44F8CFC", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_022", "hash": "019F77A488AA0547", "target": "" }
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "Pshkohhh... <if(gnum4,Wierzchniaczka ma,Wierzchniak ma)> pytania? Cheepchix ma odpowiedzi!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_Q1_000_000", "hash": "FF8C93BC7A11E674", "target": "O co zapytasz?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_001", "hash": "5D35725A3D451ED3", "target": "Czym się tu zajmujesz?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_002", "hash": "6FB342DB25C9870E", "target": "Co to za miejsce?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_003", "hash": "659179FB97C45221", "target": "Nic." },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_010", "hash": "AB2DAF5A9A451EC0", "target": "Zbierać, uczyć się, budować! Technologia Sharlayanu czeka, by ją przejąć!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_011", "hash": "1DCC4D060B2CD0C9", "target": "Goblostado codziennie uczy się coraz więcej ze złomu i ksiąg. Napełniać mózgopudła słowami i mądrością wierzchniaków!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_012", "hash": "DC5077E8CAF6C4D0", "target": "Ale Illuminati chcą wszystkie słowa i całą mądrość tylko dla siebie. Cheepchix tego nie zniesie! Cheepchix lubi mieć powiększone słownictwo!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_020", "hash": "D66A6750323456C5", "target": "Goblostado wędruje przez wiele lat, zgodnie z goblińską tradycją. Aż tu wielkie szczęście: goblostado trafia do opuszczonego Sharlayanu!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_021", "hash": "FFDAF4C6A44F8CFC", "target": "Wiele mądrości czeka w badaniu złomu i czytaniu ksiąg. Decyzja zapadła: goblostado musi zostać!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_022", "hash": "019F77A488AA0547", "target": "Później przychodzą podobnie myślący wierzchniacy, by dzielić zdobycze. Razem budujemy Idyllshire─społeczność pracowitych, zaradnych osób!" }
   ]
 }

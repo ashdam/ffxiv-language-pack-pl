@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma310_01251",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "" }
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "Yadovv Gah żąda ugaszenia płomieni palenisk Ifryta." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "Paleniska Płomiennych Kłów są symbolami potęgi i prestiżu─zwłaszcza te, które noszą imię Władcy Piekielnych Ogni. Yadovv Gah chce, by zniszczyć te plugastwa i nieodwracalnie zszargać dobre imię fanatyków." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "Płomienne Kły gorzko pożałują tego dnia. Wróć do Kręgu Popiołu i zdaj sprawę wojownikowi Yadovv Gah." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "Wycie Płomiennych Kłów słyszane na wiele malmów powiadomiło wojownika Yadovv Gah o twoim sukcesie. Oznajmia on, że dzięki twoim niestrudzonym staraniom zaprzysięgli wrogowie Bractwa wkrótce legną rozbici u ich stóp." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "Zniszczyć obiekty Ifrit's beacons" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "Zdać sprawę wojownikowi Yadovv Gah" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "Paleniska Płomiennych Kłów są skazą na Zahar'ak─zwłaszcza te, które noszą imię Władcy Piekielnych Ogni." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "Każde jest symbolem potęgi i prestiżu. Niszcząc je, odbierzemy fanatykom jedno i drugie." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "Wiedz, że misja nie będzie łatwa. Paleniska płoną w sercu Zahar'ak i bronią ich najżarliwsi wyznawcy Ifryta." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "Co więcej, te plugastwa same bronią się obronną magią, ciskając płomienie we wszystko, co uznają za zagrożenie." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "Niewielu potrafi podjąć się tak niebezpiecznego zadania, lecz ufam, że przyniesiesz Bractwu wielką chwałę." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "Gdy wycie fanatyków rozejdzie się po całym Zahar'ak, będę wiedział, że palenisk już nie ma." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "Wiatr przyniósł wieść o twoim sukcesie, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>. Jakże drżała ziemia, jakże płakały Płomienne Kły!" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "Każde zwycięstwo przybliża nas do dnia rozrachunku, gdy zaprzysięgli wrogowie legną rozbici u naszych stóp!" }
   ]
 }

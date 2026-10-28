@@ -71,7 +71,7 @@
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_YWAIN_000_74", "hash": "5B0F9D07542DBFD7", "target": "Co do Foulques'a... jeśli został w nim choć okruch rozsądku, dzisiejsza lekcja nauczyła go tego samego. Choć była bolesna, pozostaje liczyć, że otworzy mu oczy." },
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_YWAIN_000_75", "hash": "46432CFAEACF13D7", "target": "Ruszaj, <split(<string(gstr1)>, ,1)>, i przygotuj się na kolejne próby. Czekam na następne spotkanie." },
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_QIB_TODO_001", "hash": "50F007925D44A791", "target": "Pokonaj kolejno trzech kopijników!" },
-    { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_TITLE", "hash": "B0A974913442A840", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Lance of Destiny”?" },
+    { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_TITLE", "hash": "B0A974913442A840", "target": "Wzywa cię misja. Czy chcesz rozpocząć<br>„Włócznia przeznaczenia”?" },
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_YES", "hash": "338EE14D9202595B", "target": "Tak" },
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_NO", "hash": "A5B34771D738FADA", "target": "Nie" },
     { "gameKey": "quest/000/ClsLnc004_00056#TEXT_CLSLNC004_00056_QIB_002_TODO_1", "hash": "9486F3B04627535E", "target": "Pokonaj Kamapuaa, Pana Cierniowego Gąszczu!" },

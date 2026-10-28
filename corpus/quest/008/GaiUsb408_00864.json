@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb408_00864",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "" }
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "Komandor Bloeidin wyraźnie ufa już twoim umiejętnościom i dyskrecji." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "Komandor Maelstromu Bloeidin opowiada o niedawnych obserwacjach wojowników Kobold w pobliżu Camp Overlook i chce, by to zbadać. Przeszukaj wskazane miejsca przy obozie i zabij każdego wojownika Kobold, który będzie miał pecha cię napotkać." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "Zdobisz zbocze szczątkami pokonanych wrogów. Czas jednak skończyć te samochwalcze popisy i zdać sprawę komandorowi Bloeidinowi." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "Szacunek komandora Maelstromu rośnie z każdą twoją misją. Niepokoi go jednak, że zwiadowcy Kobold budzą w nim jakieś wciąż mgliste wspomnienie..." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "Przeszukać wskazane miejsca i zabić wojowników Kobold" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "Zdać sprawę Bloeidinowi" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Dzięki za poprzednie razy─nie brak ci twardości, przyznam. Mam robotę dla kogoś, kogo trudno zabić─trzeba poszukać zwiadowców Kobold." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "Moi chłopcy mówią, że gdzieś na wzgórzu jest ich co najmniej trzech. Poradzisz sobie, prawda?" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "Chwyciłem za lunetę, gdy tylko usłyszałem walkę. Od razu widziałem w tobie <if(gnum4,piekielnicę,zakapiora)>! Na pewno nie chcesz porzucić wędrówek i do nas dołączyć? Wojowników Kobold wystarczy dla wszystkich!" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "Jest coś znajomego w tych pokonanych przez ciebie wojownikach Kobold. Przysięgam, widziałem już takich, co się tak poruszali. Przypomnę sobie─o ile mamy choć tyle czasu." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "Czujesz woń ziemi i metalu!" }
   ]
 }

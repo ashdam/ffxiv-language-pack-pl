@@ -2,16 +2,16 @@
   "conversation": "quest/003/SubWil021_00394",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "" }
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "Alewyn potrzebuje pomocy w wypróbowaniu przełomowego nowego lekarstwa." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "Alewyn opracował właśnie coś, co nazywa przełomowym lekarstwem na wszelkie dolegliwości. Nie sprawdził jednak jeszcze jego skuteczności i prosi, by zaoferować tonik Landebertowi, jednemu z przywódców alamhigańskich uchodźców mieszkających na Perłowej Uliczce." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "Landebert doskonale zdaje sobie sprawę z prawdziwych motywów Alewyna. Mimo ryzyka, jakie niosą niesprawdzone alchemiczne mikstury, uchodźcy nie mają jednak wyboru i muszą przyjąć tę rzekomą pomoc." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "Zaoferować tonik Alewyna Landebertowi" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "Tak, tak... <italic(1)>Tak<italic(0)>! Wreszcie ukończyłem swe dzieło!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "Zapamiętaj moje słowa: ta formuła na zawsze odmieni alchemię! Wystarczy łyk tego toniku, a nawet najwyższa gorączka natychmiast ustąpi!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "Ale muszę go wypróbować! Kiedy ja będę wytwarzał więcej, zanieś tę porcję na Perłową Uliczkę, do człowieka imieniem Landebert. Inni uchodźcy mu ufają." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "Przekonaj tego Landeberta, żeby przyjął mój tonik i rozdał go swoim ludziom. Niczego nie chcę w zamian ─ jeśli naprawdę zadziała, będzie to ogromny krok naprzód dla sztuk alchemicznych... i, ee, całej ludzkości!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "Co? Lekarstwo dla chorych?" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "Ha! Nie jesteśmy głupi, <if(gnum4,dziewczyno,chłopcze)>. Dobrze wiemy, co kombinuje ten drań Alewyn." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "...Ale mimo to przyjmiemy jego lek. Spójrz na nas ─ żebrak nie może wybrzydzać. Dla niego to może tylko eksperyment, ale dla nas to kwestia życia i śmierci. Jeśli mamy wybierać między lurą tego drania a niczym, to co to za wybór?" }
   ]
 }

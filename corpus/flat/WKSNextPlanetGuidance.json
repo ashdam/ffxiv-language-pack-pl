@@ -1,0 +1,9 @@
+{
+  "sheet": "WKSNextPlanetGuidance",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "WKSNextPlanetGuidance#0", "hash": "823B48E0272C2AA5", "target": "Tu Searchingway z ekscytującą wiadomością: jesteśmy już oficjalnie gotowi do podróży międzygwiezdnych! Osoby chętne do odwiedzenia innej planety proszę o niezwłoczne zgłoszenie się do mnie." },
+    { "gameKey": "WKSNextPlanetGuidance#1", "hash": "F12CCEB504E1D872", "target": "Uwaga: przygotowania do skoku z Phaenny dobiegły końca! Wszyscy zainteresowani dalszą podróżą międzyplanetarną powinni zgłosić się do Searchingwaya! (Czyli do mnie!)" },
+    { "gameKey": "WKSNextPlanetGuidance#2", "hash": "7EEBD3AA93FF726A", "target": "Nareszcie jesteśmy gotowi opuścić Oizys i ruszyć ku nowym rubieżom! Wszystkich chętnych do pracy na kolejnej planecie zapraszam do siebie. Do usług, Searchingway!" }
+  ]
+}

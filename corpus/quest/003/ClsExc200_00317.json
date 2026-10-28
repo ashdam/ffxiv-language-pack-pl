@@ -41,7 +41,7 @@
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SOLKWYB_100_80", "hash": "F182ED375796AC88", "target": "Udało ci się znaleźć jakiś ślad Sigharda?" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SOLKWYB_000_80", "hash": "4396948A6A4915DC", "target": "Musiał straszliwie się spieszyć, skoro tak beztrosko porzucał swoje rzeczy. Sama znalazłam tę siekierę─może chłopiec zabrał ją z zagrody?" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SOLKWYB_000_81", "hash": "535109A8BB1C5F2B", "target": "Na bogów! <split(<string(gstr1)>, ,1)>, tam!" },
-    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0F81C188FDAEC83E", "target": "Czeka cię walka. Czy chcesz kontynuować<br>zadanie „The Mountain that Strides”?" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0F81C188FDAEC83E", "target": "Czeka cię walka. Czy chcesz kontynuować<br>zadanie „Góra, która kroczy”?" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_YES", "hash": "E50F3467BCED9620", "target": "Tak" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_NO", "hash": "D26D93DECF41745E", "target": "Nie" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SIGHARD_000_40", "hash": "C4E78877F16F14E3", "target": "\\<jęczy> ..." },

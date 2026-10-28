@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk103_04553",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_SEQ_00", "hash": "3969D744CA96B497", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_001", "hash": "7602E6F4811024C6", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_002", "hash": "D6B48ED6A19A5637", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_003", "hash": "37BDD7840EE38DEC", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_004", "hash": "C96E43ED3659207E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_POPMESSAGE_000_010", "hash": "75142553E2260A2E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_020", "hash": "7ADCAAE05F6E2F4F", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_021", "hash": "25CC92CE8631E0EA", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_022", "hash": "B31C69E64EC2A8B0", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_023", "hash": "6BDD409AB441F564", "target": "" }
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_SEQ_00", "hash": "3969D744CA96B497", "target": "Maru smutno wpatruje się w pustą skrzynię.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Aby robić w nim postępy, musisz korzystać z tej samej klasy lub tego samego jobu co przy jego przyjmowaniu." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "Rozejrzeć się ze wskazanego miejsca i pokonać potwory manjusaka, jeśli się pojawią" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "Dostarczyć wiązkę grubych pnączy manjusaka Maru" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_001", "hash": "7602E6F4811024C6", "target": "Słuchaj, <split(<string(gstr1)>, ,1)> ─ ważnym elementem jeżdżenia jest ciągła gotowość do jazdy. A to oznacza regularne doglądanie wozu." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_002", "hash": "D6B48ED6A19A5637", "target": "Tak się składa, że kończą nam się pewne części zamienne, a zdobycie nowych... Powiedzmy, że najlepiej nadaje się do tego ktoś z wojowniczym zacięciem. Ktoś taki jak ty!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_003", "hash": "37BDD7840EE38DEC", "target": "Gdyby udało ci się zajrzeć do dawnej Wylęgarni Hamsa i przynieść mi trochę pnączy manjusaka, byłbym bardzo wdzięczny." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_004", "hash": "C96E43ED3659207E", "target": "Żeby dostać się do tego bardziej poskręcanego osobnika, trzeba najpierw pokonać trochę drobnicy. Ale to jego pnączy nam potrzeba. Solidna garść powinna wystarczyć!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_POPMESSAGE_000_010", "hash": "75142553E2260A2E", "target": "Przed tobą rozwija się potwór overgrown manjusaka!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_020", "hash": "7ADCAAE05F6E2F4F", "target": "Masz te pnącza?" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_021", "hash": "25CC92CE8631E0EA", "target": "Idealne! Nasze hipopotamy doceniają twoją dobroć. Ja też." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_022", "hash": "B31C69E64EC2A8B0", "target": "Widzisz, te pnącza oddzielają jarzmo od skóry naszych kochanych hipopotamów ─ a wierz mi, nigdy nie chcesz zobaczyć hipopotama z odparzeniami." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_023", "hash": "6BDD409AB441F564", "target": "Zawsze pilnujemy, żeby mieć świeże pnącza w zapasie, ale zużywamy je szybciej, niż myślisz. Mam nadzieję, że gdy przyjdzie pora, nie będziesz mieć nic przeciwko zdobyciu kolejnych..." }
   ]
 }

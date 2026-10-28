@@ -2,19 +2,19 @@
   "conversation": "custom/003/RegSeaBeginnerDPSGuide_00338",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "" }
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "Jestem mistrzem broni i mam za zadanie uczyć początkujących poszukiwaczy przygód podstaw walki w drużynie. Hmm. Chyba jeszcze nie do końca udało ci się wykluć z jajka. Wróć, gdy nieco bardziej obrośniesz w pióra!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "Aby rozpocząć szkolenie w Sali Nowicjusza, musisz używać klasy z grupy Uczniów Wojny lub Magii na poziomie 15 lub wyższym." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "Jestem mistrzem broni i mam za zadanie uczyć początkujących poszukiwaczy przygód podstaw walki w drużynie. A ty masz w sobie właśnie tę młodzieńczą krzepę, na którą czekam. Powiedz tamtemu instruktorowi, że chcesz ćwiczyć, a od razu rozpoczniemy szkolenie!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "Moja dziedzina skupia się wyłącznie na obrażeniach i rozważnym ich zadawaniu. Jeśli bardziej interesuje cię zapobieganie obrażeniom lub leczenie ich skutków, być może ktoś z moich kolegów lepiej odpowie na twoje potrzeby." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "Przychodzisz na szkolenie? Porozmawiaj z instruktorem, by umówić lekcję, a spotkamy się na placu ćwiczeń!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "Ach, <split(<string(gstr1)>, ,1)>! Toż to czołówka naszych uczniów! Nie wątpię, że dobrze wykorzystasz nasze lekcje na polu walki. Jeśli kiedykolwiek zechcesz dalszych wskazówek, wystarczy słowo!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "O co zapytasz?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "O czym pamiętać podczas walki u boku sojuszników?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "Jak postępować z posiłkami wroga?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "Co robić z dźwigniami i podobnymi urządzeniami?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "Nic." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "Walcząc u boku sojuszników, dobrze przemyśl wybór przeciwnika. Zamiast rozdzielać ataki między kilku wrogów, często znacznie skuteczniej jest skupić całą drużynę na pokonywaniu jednego przeciwnika naraz!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "Pojawienie się nowych wrogów w środku bitwy może wywołać chaos i zamęt! Jeśli walczysz z bardzo silnym przeciwnikiem, radzę na chwilę od niego odstąpić, by wyeliminować natrętne posiłki!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "Warto zbadać działanie wszelkich dźwigni i urządzeń odkrytych na polu walki. Rozważne wykorzystanie takich mechanizmów może zapewnić właśnie tę przewagę, której potrzebujesz do zwycięstwa." }
   ]
 }

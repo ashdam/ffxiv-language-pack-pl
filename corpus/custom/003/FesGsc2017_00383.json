@@ -2,8 +2,8 @@
   "conversation": "custom/003/FesGsc2017_00383",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_000", "hash": "A31130D85CFD2AFD", "target": "" },
-    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_100", "hash": "70FB92316122ECDE", "target": "" },
-    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_200", "hash": "73C4F5E5E89E57D5", "target": "" }
+    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_000", "hash": "A31130D85CFD2AFD", "target": "Nie myśl, że nie widzę, jak podziwiasz mój strój! Pewnie chcesz wiedzieć, skąd go mam? Odwiedź Ul'dah, popytaj, a może szczęście dopisze i się dowiesz!" },
+    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_100", "hash": "70FB92316122ECDE", "target": "Widzę, że tobie też wpadło w oko moje przyodzianie. Skąd je mam, pytasz? Ale gdzie w tym zabawa, jeśli od razu ci powiem? Ruszaj do Ul'dah i przekonaj się na własne oczy!" },
+    { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_200", "hash": "73C4F5E5E89E57D5", "target": "Przyznam, że to było coś...<br>Co takiego? Skąd ta moja radość? Po co słuchać o <italic(1)>moich<italic(0)> marzeniach, skoro możesz spełniać własne? Ruszaj na Szmaragdową Aleję i popytaj!" }
   ]
 }

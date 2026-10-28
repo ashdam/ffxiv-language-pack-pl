@@ -1,0 +1,18 @@
+{
+  "sheet": "XPVPGroupActivity",
+  "gameVersion": "2026.10.16.0000.0000",
+  "entries": [
+    { "gameKey": "XPVPGroupActivity#1", "hash": "529D95F4B3C8C732", "target": "Utworzono drużynę PvP „<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>”." },
+    { "gameKey": "XPVPGroupActivity#2", "hash": "52D55000C9F8B358", "target": "<head(<if([gstr1==gstr2],ty,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],dołączasz,dołącza)> do drużyny." },
+    { "gameKey": "XPVPGroupActivity#3", "hash": "D691784911FB809F", "target": "<head(<if([gstr1==gstr2],ty,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],opuszczasz,opuszcza)> drużynę." },
+    { "gameKey": "XPVPGroupActivity#4", "hash": "064A6499508FD8B6", "target": "<head(<if([gstr1==gstr2],ty,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],opuszczasz,opuszcza)> drużynę." },
+    { "gameKey": "XPVPGroupActivity#7", "hash": "C65AC844E819C5C4", "target": "Nazwa drużyny została zmieniona na „<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>”." },
+    { "gameKey": "XPVPGroupActivity#8", "hash": "DCF61270429D57F6", "target": "Herb drużyny został zaktualizowany." },
+    { "gameKey": "XPVPGroupActivity#9", "hash": "0B916E59A87625EF", "target": "Drużyna awansowała do rangi „<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>”." },
+    { "gameKey": "XPVPGroupActivity#10", "hash": "7440FC2E6586F40B", "target": "Drużyna spadła do rangi „<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>”." },
+    { "gameKey": "XPVPGroupActivity#11", "hash": "BBD46207F17EBAAB", "target": "Rozpoczyna się nowy sezon." },
+    { "gameKey": "XPVPGroupActivity#12", "hash": "313CEA2CA05C75C7", "target": "Nie znaleziono osoby dowodzącej. <if([gstr1==gstr2],Przejmujesz dowodzenie drużyną.,Dowodzenie drużyną przejmuje <if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>.)>" },
+    { "gameKey": "XPVPGroupActivity#13", "hash": "344082D405F73485", "target": "<head(<if([gstr1==gstr2],ty,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],otrzymujesz,otrzymuje)> rangę Subleader." },
+    { "gameKey": "XPVPGroupActivity#14", "hash": "8FEFF6F43FC79CEB", "target": "<head(<if([gstr1==gstr2],ty,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],obejmujesz,obejmuje)> funkcję lidera drużyny." }
+  ]
+}

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa801_00785",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "Aideen ma propozycję dotyczącą twojego śledztwa." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Aideen w osadzie Fallgourd Float.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "Zgodnie z sugestią zabijasz sześć stworzeń ziz, lecz jedynym rezultatem są liczne ukąszenia i rany. Wróć do osady Fallgourd Float i zdaj relację Aideen." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "Aideen skreśla ziz z listy podejrzanych i znów skupia uwagę na zamaskowanym mężczyźnie i jego skrzydlatej gałce ocznej." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Aideen w osadzie Fallgourd Float<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzucić je i rozpocząć ponownie, rozmawiając z Aideen w osadzie Fallgourd Float<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "Oto co wiem o tych zgonach: wszystkie ofiary znaleziono z twarzami poszarpanymi na strzępy." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "Spośród miejscowych zwierząt tylko łuskoskóre stworzenia zwane ziz mogłyby zadać takie rany. Dlatego niektórzy obwiniają właśnie je." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "Coś mi mówi, że odpowiedź nie jest taka prosta, ale dla porządku trzeba to sprawdzić. Może zabijesz, powiedzmy, sześć tych stworzeń i poszukasz dowodów łączących je z tymi zgonami?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "(Pokonaj sześć stworzeń ziz.)" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "Ziz już załatwione? Dobra robota! Czy udało ci się znaleźć coś wskazującego, że to te stworzenia są sprawcami?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "...Nic? Prawdę mówiąc, nawet gdyby były jakieś dowody, nie wiedziałabym, jak wyglądają. Nooo, w każdym razie myślę, że możemy spokojnie skreślić ziz z listy podejrzanych. Zostaje więc... zamaskowany mężczyzna i jego skrzydlata gałka oczna!" }
   ]
 }

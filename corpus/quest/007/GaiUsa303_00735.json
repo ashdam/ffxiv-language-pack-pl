@@ -2,14 +2,14 @@
   "conversation": "quest/007/GaiUsa303_00735",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "" }
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "Gegeroon z Faktorii Memeroona ma przesyłki do dostarczenia." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "Gegeroon z Faktorii Memeroona ma przesyłkę do dostarczenia, ale sam nie ma na to czasu. Pomóż mu i zanieś gorący obiad w pudełku badaczowi Tandze Tondze, który mieszka w chatce w rejonie Thalaos." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "Tanga Tonga niezmiernie cieszy się z otrzymania torebki pełnej tostów i jajecznych przysmaków. Najedzony do syta może teraz skupić się na badaniach." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "Dostarczyć gorący obiad w pudełku badaczowi Tandze Tondze" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "Gegeroon ma dobry towar. Dobry towar trzeba dostarczyć. Ale Gegeroon zajęty. Bardzo, bardzo zajęty." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "Mam gorący obiad w pudełku. Gorący obiad Qiqirn w pudełku. Obiad dla Tanga Tonga. Tanga Tonga w Thalaos. Zanieś za Gegeroona!" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "Zostaw mnie. Jestem zbyt głodny, żeby kontynuować badania, a co dopiero przyjmować gości." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "To... To gorący obiad Qiqirn w pudełku z Faktorii Memeroona! J-jak ci się...? Dziękuję, <if(gnum4,przyjaciółko,przyjacielu)>! Wreszcie usłyszę własne myśli, a nie tylko burczenie w brzuchu." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "Tak mi się spieszyło do badania skamieniałości, że w ogóle nie pomyślałem o posiłkach. Nie mam czasu ani składników, by samemu gotować, więc faktoria to prawdziwy dar niebios. Zawsze chętnie przyjmę porządny, gorący obiad w pudełku!" }
   ]
 }

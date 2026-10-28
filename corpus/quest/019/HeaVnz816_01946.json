@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz816_01946",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_00", "hash": "17AFA8DF36A5F830", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_01", "hash": "2DA054765CE540ED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_02", "hash": "C7CE3E7C6AFB019B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_03", "hash": "7B61EE1DEF8C292E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_00", "hash": "7C8166D51AEBDA9A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_01", "hash": "1ECEC3BAA69735AC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_000", "hash": "2442A286FAE1A0A9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_001", "hash": "FB9C7A758D9A1670", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_010", "hash": "5222BD52E99BA769", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_020", "hash": "FCA6D81311192B55", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_021", "hash": "3B18AC5ED0B72D4F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_022", "hash": "623263BB5C6CF86D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_00", "hash": "17AFA8DF36A5F830", "target": "Holepix niepokoi się poczynaniami Illuminati." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_01", "hash": "2DA054765CE540ED", "target": "Holepix dowiedział się, że Illuminati stworzyli nowe machiny wojenne, ogromne mechaniczne postacie, które jego zdaniem mogą rzucić Idyllshire na kolana. By temu zapobiec, prosi cię o uderzenie wyprzedzające: zniszczenie trzech maszyn findertype magitek vangob G-III w pobliżu Arkhitekton w Dravanian hinterlands." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_02", "hash": "C7CE3E7C6AFB019B", "target": "Odnajdujesz i niszczysz kolejno trzy maszyny findertype magitek vangob G-III. Gdy ostatni z mechanicznych koszmarów pada, wróć do Holepixa w Idyllshire z dobrymi wieściami." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_03", "hash": "7B61EE1DEF8C292E", "target": "Holepix dziękuje ci za pomoc Idyllshire i opowiada o powstaniu maszyn vangob. Illuminati zdobyli starą garleańską broń magitekową, rozłożyli ją na części i przebudowali w coś jeszcze silniejszego. Choć Holepix podziwia ich pomysłowość, wie też, że bez wahania zniewolą swoich goblińskich pobratymców. Ma nadzieję, że twoje działania pokrzyżują ich plany." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_00", "hash": "7C8166D51AEBDA9A", "target": "Zniszczyć maszyny findertype magitek vangob G-III w pobliżu Arkhitekton" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_01", "hash": "1ECEC3BAA69735AC", "target": "Zdać sprawę Holepixowi" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_000", "hash": "2442A286FAE1A0A9", "target": "Pszkoo... Idyllshire w wielkim niebezpieczeństwie, <if(gnum4,wierzchniaczko,wierzchniaku)>! Illuminati wypuścili nowe maszyny vangob. Chodzą jak Gobki, ale wirują, tną i ranią!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_001", "hash": "FB9C7A758D9A1670", "target": "Teraz patrolują wokół Arkhitekton, ale niedługo przyjdą zniewolić tutejsze goblostado! Holepix błaga, <if(gnum4,wierzchniaczko,wierzchniaku)>─zrób złom z trzech maszyn vangob Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_010", "hash": "5222BD52E99BA769", "target": "Illuminati przyjdą po goblostado Holepixa z bojowidłami i krzywdzącymi maszynami vangob! Ale Idyllshire nie będzie bezczynne przed atakiem. Uderz za nas, zanim oni zaatakują!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_020", "hash": "FCA6D81311192B55", "target": "Pszkoo... Dziękuję, <if(gnum4,wierzchniaczko,wierzchniaku)>, za tak wielką pomoc Idyllshire!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_021", "hash": "3B18AC5ED0B72D4F", "target": "Illuminati uczą się rozkładać garleańskie maszyny magitekowe na części i przerabiać na silne maszyny vangob. Wielkie dokonania─bardzo straszne, tak, ale wielkie." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_022", "hash": "623263BB5C6CF86D", "target": "Ale Illuminati nie zostawiają w mózgopudłach miejsca na dobroć. Trzymają sekrety dla siebie, używają szczególnej wiedzy do robienia niewolników z goblopobratymców! Holepix ma nadzieję, że poznają siłę Idyllshire i przestaną próbować..." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl201_01267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "" }
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "Ponnixia martwi się nowym zagrożeniem dla bezpieczeństwa swojego ludu." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "Dotknięci sylfowie znów sprawiają kłopoty. Tym razem tresują miejscowe zwierzęta, by nękały i raniły ich pokojowo nastawionych pobratymców. Udaj się na Ziemie Ludu Sylph, zabij dwa kondory i rozpraw się z sylfami odpowiedzialnymi za przemianę ptaków w krwiożerczych zabójców." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "Ptasie zagrożenie zostało zażegnane. Zdaj relację Ponnixii." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "Ponnixia dziękuje ci za usunięcie kolejnego zagrożenia dla lasu i wyraża nadzieję, że pewnego dnia uda się nauczyć ptaki łagodniejszego usposobienia." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "Pokonać ptaki Sylphlands condor" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "Pokonać sylfów sylpheed snarl" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "Zdać relację Ponnixii" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "Dotknięci znów knują coś niedobrego. Kradną dziobatych z gniazd i uczą dziobatych złośliwości wobec tych tutaj." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "Ta tutaj poszła zbierać kwiaty przy Ziemiach Ludu Sylph i złośliwy dziobaty omal nie odziobał głowy tej tutaj!" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "Ta tutaj nigdy nie była tak zła. Ten las powinien być dla wszystkich! Proszę, niech <if(gnum4,przyjazna,przyjazny)> powstrzyma dotkniętych i złośliwych dziobatych." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "Proszę, <if(gnum4,przyjazna,przyjazny)>! Niech idzie na Ziemie Ludu Sylph i powstrzyma dotkniętych oraz złośliwych dziobatych." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "Ta tutaj dziękuje <if(gnum4,przyjaznej,przyjaznemu)>. Może kiedyś ta tutaj nauczy dziobatych, jak być przyjaznymi..." }
   ]
 }

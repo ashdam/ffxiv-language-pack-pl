@@ -2,11 +2,11 @@
   "conversation": "custom/008/CtsMjiContactNpc_00807",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_000", "hash": "E8A910CAB8D439BC", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_010", "hash": "353CB75E14E9EB3C", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_020", "hash": "F249A4BA9589ED05", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_030", "hash": "41A9D3BFF529B927", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_040", "hash": "93C8EA1CA0E0C12F", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_050", "hash": "EC4640C86C403701", "target": "" }
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_000", "hash": "E8A910CAB8D439BC", "target": "Witam! Mam zaszczytny obowiązek obsługiwać łączność na wyspie─zwłaszcza wiadomości od pani Tataru. Powiadomię <if(gnum4,panią,pana)>, gdy tylko pojawią się wieści do przekazania." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_010", "hash": "353CB75E14E9EB3C", "target": "Jeśli znów otrzymam wiadomość od pani Tataru, dowie się <if(gnum4,pani,pan)> o tym w pierwszej kolejności." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_020", "hash": "F249A4BA9589ED05", "target": "Witam na wyspie! Życzę miłego pobytu." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_030", "hash": "41A9D3BFF529B927", "target": "Mamy gości! Uwielbiam, gdy mamy gości!" },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_040", "hash": "93C8EA1CA0E0C12F", "target": "Pani Tataru poleciła mi oczekiwać jeszcze jednej, ostatniej grupy gości. Powiadomię <if(gnum4,panią,pana)>, gdy tylko się odezwie!" },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_050", "hash": "EC4640C86C403701", "target": "Brak kontaktu! Brak wiadomości od pani Tataru! ...Chyba pozostaje <if(gnum4,pani,panu)> zaprosić własnych przyjaciół!" }
   ]
 }

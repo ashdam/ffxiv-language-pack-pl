@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa502_00754",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "Siostra Kyokyozo z Zakonu Nald'thala szuka poszukiwacza przygód, który zabije stworzenia odstraszające pielgrzymów od Wytchnienia Thala." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "Ostatnio niewielu pielgrzymów dociera do Wytchnienia Thala. Winne są groźne axe beak panoszące się na drogach do sanktuarium. Zabij cztery z tych straszliwych ptaków." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "Cztery axe beak nie żyją, więc pielgrzymi mogą wejść do świętych komnat Wytchnienia Thala bez obaw o bezpieczeństwo. Powiadom siostrę Kyokyozo o swoich czynach." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "Siostra Kyokyozo mówi ci, że dzięki twojej pomocy przyjęła już wędrowną kupczynię z rodziną. Z radością oczekuje kolejnych spotkań, którymi pobłogosławią ją Kupcy." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "Zabić axe beak" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "Zdać raport Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "Poszukiwacze przygód, kupcy, podróżni─Wytchnienie Thala zawsze stoi otworem dla tych, którzy szukają chwili wytchnienia od trudów drogi." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "Niegdyś przyjmowaliśmy tu niezliczone rzesze. Niestety coraz liczniejsi wrodzy zwierzoludzie i dzikie stworzenia odstraszają wielu od pielgrzymki. Szkoda, prawda?" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "Może <if(gnum4,mogłaby pani,mógłby pan)> nam pomóc? Najgroźniejsza z tutejszych bestii to axe beak. Przetrzebienie stada─powiedzmy o cztery ptaki─ z pewnością ułatwiłoby dostęp do sanktuarium." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "Wędrowny kupiec z rodziną przekroczył nasze progi zaledwie przed chwilą. Każde spotkanie jest błogosławieństwem─błogosławieństwem, do którego nie doszłoby, gdyby groźne ptaki nadal panoszyły się przed sanktuarium. Za to serdecznie dziękuję." }
   ]
 }

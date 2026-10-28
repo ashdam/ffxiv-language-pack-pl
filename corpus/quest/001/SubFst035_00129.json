@@ -117,7 +117,7 @@
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_152", "hash": "F79961E2443CA640", "target": "W uznaniu twoich zasług otrzymujesz dostęp do guildleve i pokoi w gospodzie." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_153", "hash": "DE57FE112FE26996", "target": "W miarę jak wykonujesz zadania i ruszasz na nowe przygody, świat będzie wciągał cię coraz głębiej w swoje tajemnice." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_154", "hash": "F06566C7C69E3137", "target": "Wielka kraina Eorzei kryje jeszcze niezliczone nieprzebyte drogi i niewidziane widoki. Podążaj dalej ścieżką poszukiwacza przygód i odkryj, jakie cuda na ciebie czekają!" },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_Q1_000_1", "hash": "3792AE56BAC90C14", "target": "Obowiązek wzywa. Rozpocząć zadanie<br>„Spirithold Broken”?" },
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_Q1_000_1", "hash": "3792AE56BAC90C14", "target": "Obowiązek wzywa. Rozpocząć zadanie<br>„Upadek Więzienia Duchów”?" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_A1_000_1", "hash": "44C47B560A4177E9", "target": "Tak" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_A1_000_2", "hash": "FABCAEB19225002F", "target": "Nie" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_BATTLETALK_01", "hash": "12175A9B763A0B59", "target": "<if(gnum4,Silna jesteś. Ale czy dość silna,Silny jesteś. Ale czy dość silny)>, by wytrzymać <italic(1)>to<italic(0)>?" },

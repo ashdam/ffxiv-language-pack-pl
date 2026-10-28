@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc413_00988",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_00", "hash": "E21DFBF78623513D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_01", "hash": "E54ABF5C0FE28713", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_02", "hash": "124E315108E1FDC3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_03", "hash": "9D2EDAB879C963BA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_00", "hash": "955FBD0DCB9B4F69", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_01", "hash": "8915DAACF170AC88", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_000", "hash": "14C4064FE695AF28", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_001", "hash": "42659A8FAC519C82", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_002", "hash": "F45DA82A921EE968", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_003", "hash": "21D3F95AEECBB58A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_004", "hash": "C5F557AB704B9E9C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_030", "hash": "524F754020A11EB3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_031", "hash": "3D9ACEE9E2BF0A00", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_POP_MESSAGE_000", "hash": "E7EA32FF961D267D", "target": "" }
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_00", "hash": "E21DFBF78623513D", "target": "Npah Tayuun chce z twoją pomocą dać nauczkę wodnym stworzeniom, które ośmielają się stawać między uczoną a jej badaniami." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_01", "hash": "E54ABF5C0FE28713", "target": "Na zachodzie drzemie skrystalizowana równina, pełna obietnic ukrytych tajemnic. Zbadaj dwa miejsca w pozostałościach Obozu Myta Upiora i rozpraw się z potworami nix, które zakłócą ci pracę." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_02", "hash": "124E315108E1FDC3", "target": "Co się dzieje, gdy uderzysz nix ostrym kawałkiem metalu? To samo co ze wszystkim innym. Wróć do Npah Tayuun i opowiedz o swych krwawych czynach." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_03", "hash": "9D2EDAB879C963BA", "target": "Kiedyś spotkasz uczonego, który nie cieszy się z gwałtownej śmierci wroga, lecz ten dzień jeszcze nie nadszedł. Niestety twój talent do unicestwiania nix przyciąga niepożądane zainteresowanie Npah Tayuun..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_00", "hash": "955FBD0DCB9B4F69", "target": "Zbadać wskazane miejsca i pokonać nix" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_01", "hash": "8915DAACF170AC88", "target": "Złożyć raport Npah Tayuun" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_000", "hash": "14C4064FE695AF28", "target": "Crystal Tower to nie tylko przedmiot moich badań─to moja pasja. Budowla takich rozmiarów, która pojawiła się z dnia na dzień, zaraz po Katastrofie! Przez pięć lat jej tajemnice opierały się moim cierpliwym zalotom..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_001", "hash": "42659A8FAC519C82", "target": "Ale przełamię jej nieśmiałość albo nie nazywam się Npah Tayuun. Zna <if(gnum4,pani,pan)> skrystalizowaną równinę na zachód od Myta Upiora, prawda?" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_002", "hash": "F45DA82A921EE968", "target": "Wszystkie dotychczasowe badania wskazują, że na tej lśniącej równinie czeka ważne odkrycie. Zapewne klucz do samej wieży. A jednak..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_003", "hash": "21D3F95AEECBB58A", "target": "A jednak nie mogę przyjrzeć się tym kryształom z bliska przez─przez te <italic(1)>nix<italic(0)>!" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_004", "hash": "C5F557AB704B9E9C", "target": "Chyba nie trzeba więcej wyjaśniać? Te nix <italic(1)>muszą<italic(0)> zginąć. Nie pozwolę, by powstrzymały mnie przed zgłębieniem tajemnicy wieży!" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_030", "hash": "524F754020A11EB3", "target": "Te nix już nie żyją? Ale minęła ledwie─przecież ja wciąż mam rumieńce po tamtym wybuchu. Zginęły, zanim ostygł mój gniew? To─cudownie! Zasłużyły sobie, te skoczki." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_031", "hash": "3D9ACEE9E2BF0A00", "target": "Crystal Tower nadal zajmuje moje myśli, ale poszukiwacze przygód też chyba są warci zbadania─może w ramach pobocznego projektu? Tym razem badania byłyby bardziej doświadczalne. Znajdę jakiś cyrograf do podpisania..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_POP_MESSAGE_000", "hash": "E7EA32FF961D267D", "target": "Ziemia drży od rytmicznych uderzeń!" }
   ]
 }

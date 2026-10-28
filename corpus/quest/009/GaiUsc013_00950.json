@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc013_00950",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "Meurise martwi się o zaginiony patrol, który walczy o przetrwanie w wyjącej zamieci." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "Meurise otrzymuje wieść, że patrol z innego obozu schronił się we Włościach Behemota, zgubiwszy drogę wśród wyjącego wiatru i śniegu. Wysłanie medyków z noszami nie wchodzi w grę, ale ratunkowy winiak może pomóc." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "Dajesz butelkę winiaku jednemu z mężczyzn, który szybko wychodzi z otępienia. Zajmie się resztą i wykorzysta przerwę w zamieci, by wrócić do obozu. Zrób to samo, by nie powtórzyć ich błędu." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "Dzięki dostarczonemu przez ciebie pokrzepiającemu winiakowi patrol wrócił do obozu bez strat. Najwyraźniej zachowało im to życie do lepszych celów─a mianowicie znacznie boleśniejszej śmierci." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "Przekazać ratunkowy winiak zaginionym smoczym rycerzom" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "Złożyć meldunek Meurise" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "Niedobra noc na patrole przy takiej zamieci. Połączyliśmy się przez linkpearl─jeden z oddziałów zabłądził akurat do Włości Behemota." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "Zimno i zmęczenie odebrały im siły do marszu. Podobno jesteś jak śnieżny wilk, znacznie lepiej znosisz mróz niż <if(gnum4,inne kobiety,inni mężczyźni)>. Jeśli dostarczysz patrolowi ten winiak, uratujesz dziś ludzkie życie." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "Jeszcze jedno. Nie waż się prowokować behemota do walki. Przegrasz i zginiesz. Uratuj smoczych rycerzy─to twoje jedyne zadanie na dziś." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "C<-->c<-->co tu robisz? T<-->t<-->ty głuptasie, behemot krąży blisko, a my nie możemy się ruszyć. Ratuj siebie!" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "C<-->co to? Przyłóż mi do ust, tak─<italic(1)>khy! Khy<italic(0)>! Niesamowite, znów czuję stopy. Chyba─tak, mogę już chodzić." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "Reszta patrolu jest tam. Podam im lekarstwo. Wichura ucichła, więc szybko znajdziemy drogę powrotną. Ty masz dalej do Placówki Whitebrim i musisz zdążyć, nim wróci wiatr." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "Rzeczywiście śnieżny wilk. Dziś chyba nie potrzebujesz winiaku. Jest mocny, ale każe sobie za to płacić..." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "Patrol bez wątpienia jest już w obozie. Niewiele im brakowało. Cóż za wstyd, gdyby zabił ich zwykły behemot, skoro mają stawiać czoła smokom..." }
   ]
 }
