@@ -8,21 +8,15 @@
   "groups": [
     {
       "expansion": null,
-      "content": "Quests",
-      "translated": 34855,
-      "total": 34855
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
     },
     {
       "expansion": null,
-      "content": "Interface menus",
-      "translated": 67668,
-      "total": 67668
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 2365,
-      "total": 2365
+      "content": "Items",
+      "translated": 15309,
+      "total": 15309
     },
     {
       "expansion": null,
@@ -32,57 +26,9 @@
     },
     {
       "expansion": null,
-      "content": "Collections and customization",
-      "translated": 14841,
-      "total": 14841
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23090,
-      "total": 23090
-    },
-    {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 80771,
-      "total": 80771
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
-    },
-    {
-      "expansion": null,
-      "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43158,
-      "total": 43158
-    },
-    {
-      "expansion": null,
-      "content": "Character",
-      "translated": 14484,
-      "total": 14484
-    },
-    {
-      "expansion": null,
-      "content": "Place names",
-      "translated": 10520,
-      "total": 10520
-    },
-    {
-      "expansion": null,
-      "content": "Items",
-      "translated": 15309,
-      "total": 15309
+      "content": "Interface menus",
+      "translated": 67668,
+      "total": 67668
     },
     {
       "expansion": "A Realm Reborn",
@@ -122,9 +68,63 @@
     },
     {
       "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43158,
+      "total": 43158
+    },
+    {
+      "expansion": null,
+      "content": "Tutorials and guides",
+      "translated": 3059,
+      "total": 3059
+    },
+    {
+      "expansion": null,
+      "content": "Collections and customization",
+      "translated": 14841,
+      "total": 14841
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23090,
+      "total": 23090
+    },
+    {
+      "expansion": null,
       "content": "Chat and system messages",
       "translated": 12869,
       "total": 12869
+    },
+    {
+      "expansion": null,
+      "content": "Quests",
+      "translated": 34855,
+      "total": 34855
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 80771,
+      "total": 80771
+    },
+    {
+      "expansion": null,
+      "content": "Character",
+      "translated": 14484,
+      "total": 14484
+    },
+    {
+      "expansion": null,
+      "content": "Place names",
+      "translated": 10520,
+      "total": 10520
+    },
+    {
+      "expansion": null,
+      "content": "Internal UI catalogs",
+      "translated": 2365,
+      "total": 2365
     }
   ],
   "excludedFromLocalization": [
@@ -144,9 +144,9 @@
   "inventoryExclusions": [
     {
       "expansion": null,
-      "content": "DefaultTalk",
+      "content": "TextCommand",
       "translated": 0,
-      "total": 26,
+      "total": 89,
       "wholeSheet": false
     },
     {
@@ -158,17 +158,10 @@
     },
     {
       "expansion": null,
-      "content": "Pet",
+      "content": "Action",
       "translated": 0,
-      "total": 90,
+      "total": 44412,
       "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3,
-      "wholeSheet": false
     },
     {
       "expansion": null,
@@ -179,17 +172,10 @@
     },
     {
       "expansion": null,
-      "content": "TextCommand",
+      "content": "LeveClient",
       "translated": 0,
-      "total": 89,
+      "total": 1,
       "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Action",
-      "translated": 0,
-      "total": 44412,
-      "wholeSheet": true
     },
     {
       "expansion": null,
@@ -200,10 +186,24 @@
     },
     {
       "expansion": null,
-      "content": "LeveClient",
+      "content": "DefaultTalk",
       "translated": 0,
-      "total": 1,
+      "total": 26,
       "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "ActionTransient",
+      "translated": 0,
+      "total": 3,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Pet",
+      "translated": 0,
+      "total": 90,
+      "wholeSheet": true
     }
   ],
   "tree": [
