@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 618061,
-  "total": 618061,
+  "translated": 618067,
+  "total": 618067,
   "percent": 100,
-  "chars": 55288318,
+  "chars": 55288382,
   "unresolved": 5779,
   "groups": [
     {
@@ -105,8 +105,8 @@
     {
       "expansion": null,
       "content": "Floating names",
-      "translated": 80771,
-      "total": 80771
+      "translated": 80777,
+      "total": 80777
     },
     {
       "expansion": null,
@@ -166,8 +166,8 @@
     {
       "expansion": null,
       "content": "BNpcName",
-      "translated": 6,
-      "total": 29447,
+      "translated": 0,
+      "total": 29441,
       "wholeSheet": false
     },
     {
@@ -25829,13 +25829,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 80771,
-        "translated": 80771,
+        "total": 80777,
+        "translated": 80777,
         "pending": 0,
         "stale": 0,
-        "excluded": 29843,
-        "excludedTranslated": 6,
-        "chars": 938697,
+        "excluded": 29837,
+        "excludedTranslated": 0,
+        "chars": 938761,
         "percent": 100
       },
       "children": [
@@ -25887,13 +25887,13 @@
             "bnpcname"
           ],
           "counts": {
-            "total": 28,
-            "translated": 28,
+            "total": 34,
+            "translated": 34,
             "pending": 0,
             "stale": 0,
-            "excluded": 29495,
-            "excludedTranslated": 6,
-            "chars": 238,
+            "excluded": 29489,
+            "excludedTranslated": 0,
+            "chars": 302,
             "percent": 100
           },
           "children": [
@@ -25904,13 +25904,13 @@
               "value": "BNpcName",
               "sheets": [],
               "counts": {
-                "total": 28,
-                "translated": 28,
+                "total": 34,
+                "translated": 34,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 29495,
-                "excludedTranslated": 6,
-                "chars": 238,
+                "excluded": 29489,
+                "excludedTranslated": 0,
+                "chars": 302,
                 "percent": 100
               },
               "children": []
