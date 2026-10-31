@@ -28,7 +28,7 @@
     { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_SYSTEM_102_030", "hash": "DA92693F08D39EA7", "target": "Aby otrzymać nagrodę za zabicie celu rangi B, musisz mieć przy sobie elitarny list gończy wystawiony na tego właśnie przeciwnika." },
     { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_030", "hash": "B54BB36115D4520F", "target": "Pieczęcie Sojuszu są wyrazem uznania, którym Sojusz obdarza osoby uznane za godne tego zaszczytu. Jeśli jednak wolisz wymienić je na bardziej przyziemne nagrody, wystarczy się do mnie zgłosić." },
     { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_031", "hash": "2E806B36726DA6CB", "target": "Pieczęcie Sojuszu otrzymasz za zabicie celów rangi A lub S albo dowolnego celu wskazanego w posiadanym zleceniu." },
-    { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032", "hash": "E27E1307117867E7", "target": "Odznaki Allied Seals możesz wymieniać na przedmioty u zarządcy zleceń łowieckich swojej obecnej Wielkiej Kompanii. Dostępne towary nieco różnią się w zależności od kompanii." },
+    { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032", "hash": "E27E1307117867E7", "target": "Pieczęcie Sojuszu możesz wymieniać na przedmioty u zarządcy zleceń łowieckich swojej obecnej Wielkiej Kompanii. Dostępne towary nieco różnią się w zależności od kompanii." },
     { "gameKey": "custom/001/ComDefMobOfficer_00180#TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_033", "hash": "E77C1473D2EE1C93", "target": "Zmiana Wielkiej Kompanii w żaden sposób nie wpływa na posiadane pieczęcie Sojuszu." }
   ]
 }
