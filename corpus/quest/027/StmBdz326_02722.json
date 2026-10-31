@@ -14,7 +14,7 @@
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_01", "hash": "F526E0B6E9E3EAF1", "target": "Spotkać się z Nayoshi" },
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_02", "hash": "F19BB83B7AB6B3AE", "target": "Spotkać się z Nayoshi i pokonać hooked bombfish, by zdobyć jej zwłoki" },
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_03", "hash": "6B58992D11D28171", "target": "Porozmawiać z Nayoshi" },
-    { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_04", "hash": "98A869BEAE6003E8", "target": "Dostarczyć zwłoki ryby hooked bombfish bystrookiej poławiaczce" },
+    { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_04", "hash": "98A869BEAE6003E8", "target": "Dostarczyć zwłoki haczykowatej ryby-bomby bystrookiej poławiaczce" },
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_TODO_05", "hash": "4958DF950412DE8C", "target": "Porozmawiać z Koruri" },
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_NAYOSHI_000_000", "hash": "BF2390A0BE1EFECA", "target": "Ta kupa popiołu prędko nie przyciągnie dzikich zwierząt. Skończyliśmy tutaj." },
     { "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_NAYOSHI_000_001", "hash": "466E4AC0E8C2B472", "target": "<if(gnum4,Dobrodziejko,Dobrodzieju)> <split(<string(gstr1)>, ,2)>, poznanie cię było wielkim zaszczytem. Nie tylko dzięki tobie wciąż oddycham, ale twoje towarzystwo podczas tej drogi pomogło mi zrozumieć coś ważnego: nie nadaję się na rybaka." },
