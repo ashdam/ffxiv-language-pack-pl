@@ -24,7 +24,7 @@
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_TAFF_110_004", "hash": "07F8646EA2635710", "target": "Wierzysz mi? Wiedziałem, że nie jesteś jak cała reszta! Naprawdę widziałem drzewko Święta Gwiezdnego Blasku, przysięgam!" },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_TAFF_120_004", "hash": "85CD8B2D9ADAD6FD", "target": "Myślisz, że zmyślam? Wszyscy jesteście tacy sami! A mnie nie obchodzi, czy mi wierzysz. Wiem, co widziałem! To było drzewko Święta Gwiezdnego Blasku!" },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_BAENFAELD_000_006", "hash": "FBD89D3E278A4345", "target": "Dobrze, synku, spokojnie, co? Na pewno nic ci się nie przywidziało? Może za dużo sera przed snem?" },
-    { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_007", "hash": "78268ABA37D06D0E", "target": "Ho, ho, ho! Ten czujny chłopiec mówi prawdę!" },
+    { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_007", "hash": "2E8AA536E0B39870", "target": "(-???-)Ho, ho, ho! Ten czujny chłopiec mówi prawdę!" },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_BAENFAELD_000_008", "hash": "EA769C7A82E268E7", "target": "To pan! Co roku przychodzi nam pan pomagać podczas Święta Gwiezdnego Blasku! Jest pan Go..." },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_009", "hash": "DCF8E662B30A6548", "target": "Wędrownym pielgrzymem, który przybył dopilnować sprawiedliwości! Mogę poręczyć za zeznania chłopca, gdyż sam na własne oczy widziałem tę haniebną zbrodnię! A co na to <if(gnum4,pani,pan)>? Co podpowiada <if(gnum4,pani,panu)> przeczucie?" },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_Q1_000_000", "hash": "663408B1C4C1A6AD", "target": "Co powiesz?" },
@@ -60,6 +60,6 @@
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_SYSTEM_000_110", "hash": "74B8FB6188BCC2EE", "target": "Nie masz pewności, ale jakoś czujesz, że mówi: „Walka u twego boku była przyjemnością! Ogromnie się cieszymy, że radość Święta Gwiezdnego Blasku powróciła na Łąki Bentbranch”." },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_BAENFAELD_000_111", "hash": "780C4BBEFD692BAD", "target": "Ode mnie też wielkie dzięki! Oczywiście musimy teraz z powrotem rozwiesić wszystkie ozdoby, ale jestem pewien, że dzieciaki chętnie pomogą. Święto Gwiezdnego Blasku uratowane i to wszystko dzięki tobie!" },
     { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_BAENFAELD_000_112", "hash": "5F20A2E732A30DF0", "target": "Wciąż brakuje kilku drobiazgów, pewnie zaplątanych w gałęzie innych drzewców. Jeśli masz czas, pomóż nam ich szukać! Miejscowe dzieciaki i te nasze „Trzy Zuchy” bardzo by się ucieszyły!" },
-    { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_POLARIS_000_113", "hash": "C3EF1F07F5FB56FD", "target": "Grrruuuaa!" }
+    { "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_POLARIS_000_113", "hash": "56FD5B4EFE7BDA92", "target": "(-Trzy Niedźwiedzie-)Grrruuuaa!" }
   ]
 }

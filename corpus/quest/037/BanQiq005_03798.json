@@ -133,7 +133,7 @@
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_114", "hash": "BA92DD16A3C76D1F", "target": "Ja też jestem <if(gnum4,pani,panu)> <italic(1)>dźwięczny<italic(0)>, <split(<string(gstr1)>, ,1)>! Nie zapominajmy o wielkim wężu, który zaprowadził nas do lekarstwa! A skoro o nim mowa... dokąd poszedł?" },
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_QITARLNATL_000_115", "hash": "F71B75C6218D2C31", "target": "Nie nam dociekać boskich zamysłów, synu. Zapewne uznał, że jego rola dobiegła końca, i wrócił w miejsce znane tylko bogom." },
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_116", "hash": "BE31BD22587B82EA", "target": "To znaczy─\\<pociąga nosem>─że już nigdy go nie zobaczę?" },
-    { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_TSUCHINOKO_000_117", "hash": "7114CF221021556D", "target": "Piii!" },
+    { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_TSUCHINOKO_000_117", "hash": "21B6AD00F6122AF0", "target": "(-Great Serpent of Ronka-)Piii!" },
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_118", "hash": "F0E1CD2B6D472F68", "target": "Czy usłyszałem to, co mi się zdaje!?" },
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_119", "hash": "DF26CFC4BA194614", "target": "Wąż do nas wrócił! A może... przez cały czas czuwał nad nami zza steli?" },
     { "gameKey": "quest/037/BanQiq005_03798#TEXT_BANQIQ005_03798_QITARLNATL_000_120", "hash": "8F9AE7A61FC02E83", "target": "Zapewne, Chaqurlu. Istotnie... niezbadane są ścieżki wielkiego węża." },

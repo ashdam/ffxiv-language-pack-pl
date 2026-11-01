@@ -34,7 +34,7 @@
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_CONSTAINT_000_034", "hash": "6CD655CE14CEB1D4", "target": "O tyle rzeczy chciałbym zapytać─tyle pytań powinienem był zadać, gdy jeszcze żył..." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_CONSTAINT_000_040", "hash": "11DA43EAE7D6847C", "target": "Szczerze mówiąc, nigdy nie rozumiałem, dlaczego przyjął mnie pan na ucznia..." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_CONSTAINT_000_041", "hash": "9E68A9DB05718431", "target": "Co skłoniło pana do zmiany zdania? Co pan we mnie dostrzegł? I co... czego oczekiwałby pan ode mnie, gdy pana już nie ma?" },
-    { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_JENLYNS_000_042", "hash": "22B6741B7743E332", "target": "Więc to jednak prawda." },
+    { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_JENLYNS_000_042", "hash": "707F20A6495A5C86", "target": "(-???-)Więc to jednak prawda." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_JENLYNS_000_043", "hash": "C3D12A0A83122E82", "target": "Papashan nie mógł wiecznie ukrywać przede mną prawdy. Powiedział mi o doniesieniach Solkzagyla i <if(gnum4,pani,pana)> poszukiwaniach." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_JENLYNS_000_044", "hash": "842C330873C881A0", "target": "Nie mogłem w to uwierzyć. <italic(1)>Nie chciałem<italic(0)> uwierzyć. A jednak teraz..." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_JENLYNS_000_050", "hash": "8494FB20797B0FCC", "target": "C-co to za czary!?" },

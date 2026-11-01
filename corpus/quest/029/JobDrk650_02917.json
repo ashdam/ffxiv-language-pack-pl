@@ -72,7 +72,7 @@
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_MYSTE_000_137", "hash": "EE722657EC9E5646", "target": "Chciałby pan znów go zobaczyć? Swojego mistrza?" },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_SIDURGU_000_138", "hash": "E81C5DD28BB64B0E", "target": "Hę? Skąd to pytanie? Co ci Rielle naopowiadała? To znaczy... wiele chciałbym go zapytać, gdyby nie odszedł, ale─" },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_SIDURGU_000_139", "hash": "527E7F55323247F0", "target": "Zaraz, nie! Ani się waż, gówniarzu!" },
-    { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_OMPAGNE_000_140", "hash": "A418CEDA1F1EC653", "target": "Och, Sid. Jak zawsze czarujący, widzę." },
+    { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_OMPAGNE_000_140", "hash": "E98950235182113E", "target": "(-???-)Och, Sid. Jak zawsze czarujący, widzę." },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_SIDURGU_000_141", "hash": "3A85D7B2BF5FCA48", "target": "Mistrzu!" },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_OMPAGNE_000_142", "hash": "A29C22BA6FA5D733", "target": "A to zapewne <if(gnum4,następczyni,następca)> Fraya. I bez wątpienia <if(gnum4,godna,godny)> tej roli. Nazywam się Ompagne. To zaszczyt i przyjemność cię poznać, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_OMPAGNE_000_143", "hash": "0CF798636C3B7C77", "target": "Dobrze ci szło w pojedynkę jeszcze przed poznaniem Sida. A razem tak bardzo rozwinęliście umysł, ciało i duszę. Jako mroczni rycerze i prawdziwi bohaterowie." },

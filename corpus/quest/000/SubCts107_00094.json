@@ -44,7 +44,7 @@
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_REYNER_000_040", "hash": "4994BDB68D127ED8", "target": "Wieści o twoim sukcesie już do mnie dotarły. Nie zawodzisz, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_YELLOWJAKET00094_000_041", "hash": "31D0B97523097640", "target": "Komandorze! Przybyło ciało do oględzin!" },
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_REYNER_000_042", "hash": "F38552EB580D8A56", "target": "To...to <italic(1)>coś<italic(0)> było człowiekiem? Łaskawi bogowie... Jak do tego doszło?" },
-    { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_CEANA_000_043", "hash": "1B22DC23BBFF9415", "target": "Widok wywracający żołądek... Dobrze, że jeszcze nie jadłam." },
+    { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_CEANA_000_043", "hash": "B542E32DFABD757B", "target": "(-???-)Widok wywracający żołądek... Dobrze, że jeszcze nie jadłam." },
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_YELLOWJAKET00094_000_044", "hash": "8D17EB89BF511B5C", "target": "Proszę pani! Dziękujemy za poświęcenie nam cennego czasu i wiedzy." },
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_YELLOWJAKET00094_000_045", "hash": "32E7B13049494813", "target": "Komandorze, pozwolę sobie przedstawić pannę Ceanę, najlepszą uczennicę sławnego profesora Lamberteinta." },
     { "gameKey": "quest/000/SubCts107_00094#TEXT_SUBCTS107_00094_CEANA_000_046", "hash": "B1156FD11EF05DCD", "target": "Obejdźmy się bez ceremonii. Przyjaciele─sądzę, że nienaturalna postać tego człowieka wynika z nadmiernego wchłonięcia eteru o aspekcie wody." },

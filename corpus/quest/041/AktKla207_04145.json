@@ -27,7 +27,7 @@
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_066", "hash": "915890D7CC21FD3D", "target": "Wydział Astronomii dostarczył Kołu Astronomii Klasycznej drewnianą skrzynię pełną materiałów. Możesz z nich swobodnie korzystać." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_067", "hash": "D2D45ED81F0B200E", "target": "Skoro wszystkie części są już gotowe, dostarcz Jude'owi ukończoną różdżkę." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JEROMERE_000_100", "hash": "D23A4D1F8CCF4087", "target": "Ach, znowu ty. Przepraszam, ale nie mamy już o czym rozmawiać." },
-    { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JUDE_000_101", "hash": "D17B0F00912376E3", "target": "Ty może nie masz nic więcej do powiedzenia, ale ja mam wiele." },
+    { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JUDE_000_101", "hash": "DBE41DB6A9176C58", "target": "(-???-)Ty może nie masz nic więcej do powiedzenia, ale ja mam wiele." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JEROMERE_000_102", "hash": "D4499D428B3D7891", "target": "Jude..." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JUDE_000_103", "hash": "5DFE6DBD861ABAF0", "target": "Gwiezdny wziernik, nad którym <split(<string(gstr1)>, ,1)> i ja pracowaliśmy, jest już gotowy. Bardzo bym chciał, żebyś przyszedł zobaczyć, jak rozpoczynam poszukiwania Błękitnej Gwiazdy." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_JEROMERE_000_104", "hash": "18B1A87951E19F30", "target": "Przykro mi, Jude. Obawiam się, że nie mogę tego zrobić." },

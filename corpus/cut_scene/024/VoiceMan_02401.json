@@ -106,7 +106,7 @@
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600170_ALPHINAUD", "hash": "2684F5CF094D5752", "target": "Jak długo czekałem, by to usłyszeć! W końcu znalazłaś swoją determinację!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600180_ALPHINAUD", "hash": "680E9B85D2A97FAF", "target": "Pozwól mi połączyć moją siłę z twoją." },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600190_ALPHINAUD", "hash": "E23C0261D0896F94", "target": "W tym miejscu, w tej chwili nasz cel stał się jednym!" },
-    { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600191_ALPHINAUDANDALISAIE", "hash": "2F0EB2A094DF620A", "target": "Za przyszłość Eorzei!" },
+    { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600191_ALPHINAUDANDALISAIE", "hash": "4233CA4D48C3BC5B", "target": "(-Alphinaud i Alisaie-)Za przyszłość Eorzei!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600200_ALISAIE", "hash": "EBA151F5A59C024A", "target": "To ostatnie zadanie należy do ciebie, <if(gnum4,Wojowniczko,Wojowniku)> Światła! Musisz zniszczyć kryształowe jądro Bahamuta!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_700010_ALISAIE", "hash": "755661062752B8EC", "target": "Udało ci się!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_700020_ALISAIE", "hash": "29E06F1FC2DCA2AE", "target": "Ale zostało jeszcze jedno zadanie..." },

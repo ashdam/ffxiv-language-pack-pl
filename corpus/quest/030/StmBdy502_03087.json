@@ -59,7 +59,7 @@
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_085", "hash": "2E9FC333E48D45BD", "target": "Gdy osadnicy potrzebowali pomocnej dłoni, byliście przy nich. Gdy nie było nikogo, kto mógłby zająć się młodszymi dziećmi, byliście przy nich." },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_086", "hash": "D96FB51B08A0D8AB", "target": "A przy tym każde z was wypełniało obowiązki z uśmiechem. Dlatego jesteście kimś więcej niż dzielnymi poszukiwaczami przygód─dla mieszkańców Myta jesteście bohaterami!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_087", "hash": "8CE06C75A8F08972", "target": "Bohaterami zasługującymi na wyjątkową nagrodę, która przypadkiem znajduje się właśnie...tam...o, tam!" },
-    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "51D60254978878C6", "target": "Skarb!" },
+    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "3A40053F1F1A7A3E", "target": "(-Domańska Gildia Poszukiwaczy Przygód-)Skarb!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_089", "hash": "013659273A867E9F", "target": "Ojej, spójrzcie na to!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_KOHARU_000_090", "hash": "30B80903BB216E31", "target": "Patrz, <if(gnum4,przyjaciółko,przyjacielu)> <split(<string(gstr1)>, ,1)>! Dała nam jednakowe czapki!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_091", "hash": "ED1DA9232A00D808", "target": "Zrobimy z nich oficjalny mundur Domańskiej Gildii Poszukiwaczy Przygód!" },

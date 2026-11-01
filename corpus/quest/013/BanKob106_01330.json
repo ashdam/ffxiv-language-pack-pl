@@ -36,9 +36,9 @@
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_BOZU_000_032", "hash": "176BCF37CB742263", "target": "Jeśli kiedykolwiek zapomną tę lekcję, musisz wrócić jako <if(gnum4,nauczycielka,nauczyciel)>─<if(gnum4,mentorka\\, instruktorka\\, nauczycielka,mentor\\, instruktor\\, nauczyciel)>. Dasz radę, tak? Tak, tak, Bo Zu może ci ufać." },
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_POPMESSAGE_000_000", "hash": "2D2A189BC696D4E3", "target": "Wyczuwasz wrogą obecność!" },
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_POPMESSAGE_000_001", "hash": "E52C82BE53BEDF17", "target": "Z żaru bucha gorąco!" },
-    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_040", "hash": "CECAD4D1C086B4C5", "target": "Ty! Tak, ty!<br>Co tam robisz!?" },
-    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_041", "hash": "A999947B584584CE", "target": "Długo i ciężko na to harowaliśmy!<br>Tyraliśmy, trudziliśmy się, harowaliśmy!" },
-    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_042", "hash": "0DE7AD7351C7C104", "target": "Zostaw to! Tak, tak, nie dotykaj!<br>Zo Ga nas zmiażdży, rozgniecie, zgniecie!" },
+    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_040", "hash": "55705283DD2E4969", "target": "(-Zwiadowca 596. Zakonu-)Ty! Tak, ty!<br>Co tam robisz!?" },
+    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_041", "hash": "30BCFB77D95F4FA1", "target": "(-Zwiadowca 596. Zakonu-)Długo i ciężko na to harowaliśmy!<br>Tyraliśmy, trudziliśmy się, harowaliśmy!" },
+    { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_042", "hash": "FADA2376505AD33C", "target": "(-Zwiadowca 596. Zakonu-)Zostaw to! Tak, tak, nie dotykaj!<br>Zo Ga nas zmiażdży, rozgniecie, zgniecie!" },
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_BALLOON_000_050", "hash": "4DCA29B61819D9DF", "target": "Co to!?<br>Co, co, pytam!" },
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_BALLOON_000_051", "hash": "E51004E608435B59", "target": "Hurrr... urrrgh!" },
     { "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_POPMESSAGE_000_002", "hash": "3B05267572A51B15", "target": "Wróg nadal jest w pobliżu!" }

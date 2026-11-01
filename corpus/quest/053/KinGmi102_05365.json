@@ -47,7 +47,7 @@
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_ORIGINALSPHENE_000_075", "hash": "00D351EED18DA7DD", "target": "Proszę, Geode... Oby nic ci nie było..." },
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_SYSTEM_000_080", "hash": "ABEF5E6F8565B7D1", "target": "Nie widzisz śladu Geode. Może należy poszukać dalej na wschód." },
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_SYSTEM_000_090", "hash": "19E9C795D92484F3", "target": "Nie widzisz śladu Geode. Z komunikatora dobiega trzeszczący głos Wayakkwe..." },
-    { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_WAYAKKWE_000_091", "hash": "B70A8F8AD8661EF3", "target": "Geode! Geode, odpowiedz!" },
+    { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_WAYAKKWE_000_091", "hash": "8B9DEBA8F3790731", "target": "(-Wayakkwe-)Geode! Geode, odpowiedz!" },
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_SYSTEM_000_092", "hash": "7D2B4C296FA48569", "target": "Brak odpowiedzi. Może należy szukać dalej na wschód." },
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_SYSTEM_000_100", "hash": "FCD867C334936E6E", "target": "Nie widzisz śladu Geode. Następnym miejscem poszukiwań powinien być sąsiedni krąg mieszkalny..." },
     { "gameKey": "quest/053/KinGmi102_05365#TEXT_KINGMI102_05365_KRILE_000_105", "hash": "2C4E3DAA1BC9D6C4", "target": "Nie mogę... Brakuje mi słów..." },

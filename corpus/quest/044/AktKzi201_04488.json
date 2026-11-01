@@ -105,6 +105,6 @@
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_LITTLETROLL_000_087", "hash": "093A129C1D64FE30", "target": "Nic z tego by się nie wydarzyło, gdyby nie nasze spotkanie, prawda?" },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_088", "hash": "279B53C83517AA95", "target": "Bez <if(gnum4,pani,pana)> nie dostałbym takiej szansy ani nie zyskał tak wspaniałego nowego przyjaciela." },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_089", "hash": "3AF6BB405C0FEF1F", "target": "Dziękuję. Naprawdę, z całego serca." },
-    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_090", "hash": "5E6F618709E3BE6C", "target": "Do zobaczenia!" }
+    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_090", "hash": "BAFEEEE48084CB19", "target": "(-Verpaulaine i Shaggles-)Do zobaczenia!" }
   ]
 }

@@ -25,14 +25,14 @@
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_AYMERIC_000_052", "hash": "A4B3C1769152CC34", "target": "Czy dowódca Leveilleur już wie? Śmiałkowie muszą zostać uprzedzeni." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_AYMERIC_000_060", "hash": "65A4512EBF4BF44C", "target": "Hmm... Jeśli Halone okaże łaskę, może uda nam się przyłapać wroga, gdy będzie wychodził z tuneli... Bardzo by się przydało wiedzieć, dokąd prowadzą." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_100_060", "hash": "4BA22282680BC31C", "target": "Ser Aymeric? Jest tam. Pomów z nim, jeśli trzeba─my porozmawiamy później." },
-    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_110_060", "hash": "18ABC89C2FE63E43", "target": "Teren nam nie sprzyja... Nie powinniśmy tu zostawać dłużej, niż to konieczne." },
+    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_110_060", "hash": "88ACC92984409407", "target": "(-Małomówna Rycerka Świątynna-)Teren nam nie sprzyja... Nie powinniśmy tu zostawać dłużej, niż to konieczne." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_YUYUHASE_120_060", "hash": "FE0407D903FE875E", "target": "Niech bogowie błogosławią temu, kto zaprojektował ten mundur. Bez tego płaszcza dawno bym zamarzł na kość!" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_TEMPLER00075_130_060", "hash": "742435A1F8FA8A11", "target": "Jak ktokolwiek miałby przekopać się przez tak gruby lód? To praca na lata..." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_001", "hash": "0667931A261E1777", "target": "To <italic(1)>musi<italic(0)> tu być! Jestem pewien! Inaczej po co tak zaciekle broniliby Snowcloak?" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_002", "hash": "E9DCC38704C24446", "target": "Szkoda tylko, że odkrycie przychodzi wtedy, gdy wróg ma nad nami taką przewagę. Choć jesteśmy uprzedzeni, heretycy znają teren o wiele lepiej niż my. Boję się myśleć, ilu z nich obserwuje nas w tej właśnie chwili..." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_003", "hash": "3995E398C2E34569", "target": "Do licha! To wszystko na opak. Lodowe Serce zmusza nas do ratowania własnej skóry, a przecież powinniśmy z całych sił szukać jej samej i przerwać to przeklęte przyzywanie!" },
-    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_004", "hash": "DCCB3F45B2260142", "target": "Tam jest!" },
-    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_005", "hash": "0C63286E161D1964", "target": "Chodź no tu, panienko!" },
+    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_004", "hash": "3A649F905D83325D", "target": "(-???-)Tam jest!" },
+    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_005", "hash": "F0FD6FE741B052A9", "target": "(-Heretyk-)Chodź no tu, panienko!" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_YDA_000_010", "hash": "9EA4A39F10F06ABD", "target": "Mało brakowało! Nic ci nie zrobili, prawda?" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_011", "hash": "1089EA9C9CBF0DAD", "target": "...Tylko mojej dumie, Ydo." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_012", "hash": "6386BF13A517C5A1", "target": "W pobliżu będą inni. Zadbajmy, by przyjęto ich równie ciepło." },
@@ -64,7 +64,7 @@
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_118", "hash": "D1A67E46C915344B", "target": "Rzecz jasna reszta Dziedziców nie próżnowała. Minfilia i Urianger przekopują archiwa rodu Fortemps i zbierają, co się da, na temat Sziwy." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_ALPHINAUD_000_119", "hash": "D78EF4583CD9D889", "target": "A skoro o tym mowa: jeśli <if(gnum4,zamierzałaś,zamierzałeś)> wlec się z powrotem do Obozu Smoczego Łba, żeby zdać sprawę z dzisiejszych wydarzeń─daruj sobie. Antecedentka będzie tu lada moment. Widać niektórzy <italic(1)>lubią<italic(0)> wystawiać się na taki mróz. \\<drży>" },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_AYMERIC_000_120", "hash": "7B9FFC1037A607E3", "target": "Nie wątpiłem, że wrócisz, a mimo to z ulgą patrzę, jak mój osąd się potwierdza." },
-    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_000_130", "hash": "7120D88BCA16876C", "target": "Dobrze, że wciąż jesteś wśród nas. Dowódca Leveilleur chodził tam i z powrotem przez cały czas twojej nieobecności." },
+    { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_000_130", "hash": "5C75A6724D608AA2", "target": "(-Małomówna Rycerka Świątynna-)Dobrze, że wciąż jesteś wśród nas. Dowódca Leveilleur chodził tam i z powrotem przez cały czas twojej nieobecności." },
     { "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_YUYUHASE_000_140", "hash": "DF34C036FB76C76E", "target": "Skończone? Czyli możemy opuścić to zapomniane przez bogów miejsce? Nie czuję już własnych─ Ekhm, proszę wybaczyć. Nie będę zatrzymywać, dowódca Leveilleur czeka." }
   ]
 }

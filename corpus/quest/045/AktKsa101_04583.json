@@ -131,7 +131,7 @@
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_MEHDJINA_000_181", "hash": "62B50936BA99D6E3", "target": "Naszyjnik jej matki? Ależ to wspaniały pomysł." },
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_MEHDJINA_000_182", "hash": "42BDCECAA373AB90", "target": "Proszę pozwolić mi pomóc─przysięgam, że nie pisnę pani Tataru ani słówka!" },
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_MEHDJINA_100_200", "hash": "0C9A0E2F87E41D07", "target": "Zastanawiam się, jakie części będą potrzebne... Wie <if(gnum4,pani,pan)>, jaki styl lubi pani Tataru?" },
-    { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_VARSARUDH_110_200", "hash": "53E4D086648DC3D5", "target": "Jeśli ten naszyjnik ma być pamiątką, czemu nie skupić się właśnie na tym?" },
+    { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_VARSARUDH_110_200", "hash": "BCF0B6AF053B833B", "target": "(-???-)Jeśli ten naszyjnik ma być pamiątką, czemu nie skupić się właśnie na tym?" },
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_VARSARUDH_120_200", "hash": "0CF0E2C0C5BD16F8", "target": "Ach─przepraszam! Trudno było nie usłyszeć waszej rozmowy." },
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_MEHDJINA_130_200", "hash": "52CE09E344E9C879", "target": "Nic nie szkodzi, ale mów ciszej, proszę! Co masz na myśli?" },
     { "gameKey": "quest/045/AktKsa101_04583#TEXT_AKTKSA101_04583_VARSARUDH_140_200", "hash": "41673E368CDDEB1D", "target": "Przyszło mi tylko do głowy, że skoro tak chętnie podarowano wam szafir, to może pozostali partnerzy tego przedsięwzięcia też chcieliby coś ofiarować pani Tataru." },

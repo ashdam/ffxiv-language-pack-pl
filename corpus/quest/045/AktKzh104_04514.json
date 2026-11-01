@@ -34,7 +34,7 @@
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_ALKAIOS_000_050", "hash": "0D5505D005AE423A", "target": "Zastanawiasz mnie, <split(<string(gstr1)>, ,1)>... Czy naprawdę jesteś chowańcem? Twoje myśli, twoje zachowanie tak bardzo przypominają nasze." },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_MAIRA_000_055", "hash": "F68435BCA958C97E", "target": "Mam wrażenie, że po tylu latach życia nasza twórczość popada w zastój. Twoje odkrywcze pomysły są mile widzianym powiewem świeżości." },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_MAIRA_000_060", "hash": "3D47F2ADD59DB666", "target": "Kleona nie ma już dłużej niż „kilka chwil”. Jak rozległe mogą być te jego zmiany...?" },
-    { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_KLEON_000_061", "hash": "1ECC32312643D67A", "target": "Gotowe!" },
+    { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_KLEON_000_061", "hash": "A4F6514F5D8DEEE5", "target": "(-Kleon-)Gotowe!" },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_ALKAIOS_000_062", "hash": "58BA9A7471D879B9", "target": "Panie Kleonie, pan... Cóż, z pewnością miał pan pełne ręce roboty, prawda?" },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_KLEON_000_063", "hash": "DEB5CBF4763E20E1", "target": "Rada naszego gościa, <split(<string(gstr1)>, ,1)>, zapoczątkowała cały proces, a potem trudno już było przestać!" },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_KLEON_000_064", "hash": "F12ADBCB10AC39A3", "target": "Po skróceniu rogów i sierści wzmocniłem szpony, a potem zająłem się zdolnościami magicznymi. Teraz potrafi rzucać Meteor, a także Charybdis. Chyba moja io stoi już na szczycie wśród drapieżników?" },

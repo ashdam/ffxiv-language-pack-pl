@@ -33,7 +33,7 @@
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_ULDAHMILITARYATTACHE_000_013", "hash": "0F4C4562A1D90E36", "target": "Sułtanka od razu zaoferowała Ala Mhigo pomoc Płomieni, gdy bestia się pojawiła. Dobrze, że tak zrobiła!" },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_020", "hash": "06C315CAAED0E55C", "target": "Ach, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,2)>. Uprzedzono nas o <if(gnum4,pani,pana)> podróży, ale to jeszcze szybciej, niż oczekiwano." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_021", "hash": "CA81992331284792", "target": "Powiadomię dowódcę Aldynna o przybyciu. Chwileczkę." },
-    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_022", "hash": "89BADA69F931792A", "target": "Dobrze, że możesz dołączyć." },
+    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_022", "hash": "C639D4B16C23FE18", "target": "(-Raubahn-)Dobrze, że możesz dołączyć." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_023", "hash": "512168EE3AE96C43", "target": "Wiem, że mamy znacznie większy kryzys, lecz nie możemy też ignorować tutejszej sytuacji." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_024", "hash": "B28D43629BBCCDFF", "target": "Teraz gdy większy kryzys zażegnano, możemy i musimy skupić całą uwagę na sprawach mniejszych, ale nie mniej śmiertelnych." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_025", "hash": "C1F96FEFE334BA7D", "target": "Tak, najchętniej posłuchałbym o twoich przygodach, lecz obawiam się, że uprzejmości muszą zaczekać." },

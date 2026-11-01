@@ -32,7 +32,7 @@
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_033", "hash": "3B3C630A8379B379", "target": "Udało się coś znaleźć?" },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_034", "hash": "F1B9A97FEB1991C6", "target": "\\<łapie oddech> Rozpoznaję te oznaczenia. To pojemnik z Czarną Różą! Niech Dwunastu ma nas w opiece, jeśli zostały jeszcze inne próbki." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_035", "hash": "F71CD9BA9E4ABBA9", "target": "Czy sądzi <if(gnum4,pani,pan)>, że to Qalyana go tu ukryły? Po co im coś takiego?" },
-    { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_036", "hash": "1D20B00B6074CAA4", "target": "<split(<string(gstr1)>, ,1)>! Nic <if(gnum4,pani,panu)> nie jest?" },
+    { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_036", "hash": "453B4866F9979360", "target": "(-Znajomy głos-)<split(<string(gstr1)>, ,1)>! Nic <if(gnum4,pani,panu)> nie jest?" },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_037", "hash": "EAE126837A9202CD", "target": "Proszę się tak nie dziwić. Wystrzelenie kilku strzał nie jest <italic(1)>aż tak<italic(0)> trudne, nawet dla mnie." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_038", "hash": "CB9C8E5361C35411", "target": "Ale to nieważne. Przynoszę wieści od M'rahza Nunh." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_039", "hash": "6CCFE0C490DB3466", "target": "Poszedł spotkać się z plemieniem Vira, by podziękować za przyjęcie mnie po zniknięciu mojego ojca. Tam poznał straszną prawdę o zdarzeniu, które odebrało życie mojemu ojcu." },

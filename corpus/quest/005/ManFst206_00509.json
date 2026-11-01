@@ -36,7 +36,7 @@
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_TATARU_000_41", "hash": "D36C4773310940CA", "target": "Antecedentka czeka na dole, w Sali Świtu. Można wejść w każdej chwili." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_45", "hash": "3C30D49D2419A68B", "target": "Rozumiem, że to ty jesteś <string(gstr1)>. Tataru przysłała wieść o twoim przybyciu." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_46", "hash": "97904A3E10B61193", "target": "Pani Minfilia z niecierpliwością czeka. Tędy, proszę." },
-    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "5732BEA667C5D5EA", "target": "A więc to o tobie tyle słyszałam." },
+    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "B2DB2EFC15785C23", "target": "(-???-)A więc to o tobie tyle słyszałam." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100020_MINFILIA", "hash": "5AD89690C12CDCD2", "target": "Witaj, <if(gnum4,przyjaciółko,przyjacielu)>. Nazywam się Minfilia i przewodzę Dziedzicom Siódmego Świtu." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100030_MINFILIA", "hash": "25B51B481EAF5D9D", "target": "Czekałam na twoje przyjście." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100040_MINFILIA", "hash": "76CA7A48A588EB93", "target": "Po pięciu długich latach... wracasz do nas, dokładnie tak, jak zapowiadał Louisoix..." },

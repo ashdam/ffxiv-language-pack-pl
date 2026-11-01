@@ -40,7 +40,7 @@
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_Q1_100_098", "hash": "0150212092263A30", "target": "Kontynuować i porozmawiać z Mikoto?" },
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MIKOTO_000_100", "hash": "1E69E76D584E0DAA", "target": "Jeśli jest pan gotów, chciałabym rozpocząć badanie. Proszę przypomnieć sobie pobyt w cytadeli Bozji. Nie musi się pan skupiać na konkretnym wspomnieniu, jeśli to pomoże." },
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_CID_000_101", "hash": "ADF848427564D65D", "target": "Dobrze. Obiecajcie tylko, że będziecie tam ostrożni." },
-    { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_SOLUSZOSGALVUS_000_160", "hash": "C7275251C5512314", "target": "Znaj swoje miejsce, szczeniaku. Projekt Meteor nie może zostać─<italic(1)>nie zostanie<italic(0)>─wstrzymany. A już na pewno nie przez kogoś takiego jak ty." },
+    { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_SOLUSZOSGALVUS_000_160", "hash": "B2C63323ED338E39", "target": "(-Solus zos Galvus-)Znaj swoje miejsce, szczeniaku. Projekt Meteor nie może zostać─<italic(1)>nie zostanie<italic(0)>─wstrzymany. A już na pewno nie przez kogoś takiego jak ty." },
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_CID_000_161", "hash": "62BD8B8F50FB4DF0", "target": "Nie... Nie, to nie tak. Cesarz Solus nie mógł tam być." },
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_CID_000_162", "hash": "D38C1593C2286745", "target": "Nie, proszę! Lordzie Varisie... Nieee!" },
     { "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MIKOTO_000_163", "hash": "6D362F4150ACBE4C", "target": "Panie Cidzie! Nie wolno panu zapomnieć─to tylko wspomnienie!" },

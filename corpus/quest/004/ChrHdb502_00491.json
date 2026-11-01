@@ -70,7 +70,7 @@
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HILDIBRAND_000_162", "hash": "AC95C4AFEDB7BE54", "target": "Zabił ich pan z miłości czy dla pieniędzy!? Tak, <italic(1)>pan<italic(0)>─złodziej o wielu twarzach!" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_GUGURIYA_000_163", "hash": "4B331D177007E8F5", "target": "Ja? Złodziej!? C-Co to za bzdury?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_GUGURIYA_000_164", "hash": "B3AC95EB57B8120C", "target": "Nie wiem, kim jesteście, ale nie mam czasu ani cierpliwości do tych błazenad! A teraz wybaczcie, czeka na mnie ważny klient─" },
-    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_DURILDA_000_165", "hash": "CD367DDC98902E6E", "target": "Zdawało mi się, że poznaję ten głos..." },
+    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_DURILDA_000_165", "hash": "0A4CFEC6F55E799F", "target": "(-Wytworny głos-)Zdawało mi się, że poznaję ten głos..." },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HILDIBRAND_000_166", "hash": "88026F689515EF18", "target": "Lady Durilda! Cóż za miłe spotkanie! Proszę powiedzieć, co panią sprowadza w te strony o tej pięknej <if([gnum11<12],<if([gnum11<4],wieczornej,porannej)>,<if([gnum11<17],dziennej,wieczornej)>)> porze?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_DURILDA_000_167", "hash": "EABF08E2A1AD5842", "target": "P-Przecież ja tu <italic(1)>mieszkam<italic(0)>, zakuty ośle! ...I-Inspektorze Briardienie! Cóż za niespodziewana przyjemność. Czy ma pan jakiś interes do mojego wspólnika?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_DURILDA_000_168", "hash": "F49DCC372D02F5A0", "target": "...Guguriya. O interesach porozmawiamy później. Proszę udzielić inspektorowi─temu <italic(1)>przystojnemu<italic(0)>─wszelkiej potrzebnej pomocy." },
@@ -114,7 +114,7 @@
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HILDIBRAND_000_285", "hash": "A8E5B79038DA00ED", "target": "Panna Phillice nie przyjmie dobrze wieści o śmierci Hoba, ale dżentelmen musi robić to, co do niego należy." },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_PHILLICE_000_300", "hash": "8E2CECA8157553D5", "target": "Czwarta ofiara? Thalu, zmiłuj się! Czy udało się ustalić, co łączyło ją z pozostałymi ofiarami?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_PHILLICE_000_301", "hash": "ED873AA196671EF4", "target": "Arbitrzy Prawdy...!? N-Nie... To niemożliwe..." },
-    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_ELLIE_000_302", "hash": "85EFA3362413FDE9", "target": "Niech ktoś... pomoże!" },
+    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_ELLIE_000_302", "hash": "3094F432B3B26713", "target": "(-Ellie-)Niech ktoś... pomoże!" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_PHILLICE_000_303", "hash": "2262CA726B08ED6F", "target": "...Panna Ellie!? Głos dobiegał od strony skarbca. Musimy się pospieszyć!" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_BRIARDIEN_000_500", "hash": "E82DBCFA411414CF", "target": "Panno Ellie! Nic pani nie jest?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_ELLIE_000_501", "hash": "BECF3BCF2C149658", "target": "Ten człowiek... Chciałam tylko zadać mu kilka pytań. Zanim zrozumiałam, co się dzieje, rzucił się na mnie! Mogłam jedynie..." },
@@ -134,10 +134,10 @@
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HILDIBRAND_000_515", "hash": "03040795BC2B92FF", "target": "...Oczywiście! Wszystko doskonale do siebie pasuje! Dzięki widmowemu złodziejowi panna Ellie zyskała więcej czytelników i awansowała w <italic(1)>Mythrilowym Oku<italic(0)>. Nie mogła znieść myśli, że jej temat życia dobiega końca. Obmyśliła zatem plan, by..." },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_SOLDIER00491_000_516", "hash": "B7F6B29AE57BA5CD", "target": "P-Pani! Ktoś włamał się do skarbca! Szept Mędrca... zniknął!" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_PHILLICE_000_517", "hash": "6FB7468937F3060E", "target": "Za nikczemne zbrodnie przeciw sułtanatowi ogłaszam Ellie z <italic(1)>Mythrilowego Oka<italic(0)>─złodziejkę o wielu twarzach─wrogiem państwa. Wysłać wszystkie oddziały i nie spocząć, dopóki nie zostanie pojmana!" },
-    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAJ_000_518", "hash": "AEB698FC572422FA", "target": "A <italic(1)>teraz<italic(0)> gra zaczyna się naprawdę..." },
+    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAJ_000_518", "hash": "61A78DC7655B02D0", "target": "(-???-)A <italic(1)>teraz<italic(0)> gra zaczyna się naprawdę..." },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_GILGAMESH_000_519", "hash": "407F1DE983711542", "target": "Ba! Co to za hałasy i zamieszanie!? Akurat kiedy mieliśmy triumfalnie powrócić! Nieprawdaż, Enkidu?" },
     { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_NASHUMHAKARACCA_000_520", "hash": "50F8246510CF7621", "target": "Panno Ellie! Panno Elllllie! Ten cień, o którym pani mówiła? Chyba to była tylko popielica!" },
-    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAC_000_522", "hash": "5D3059464E996E33", "target": "Kto by pomyślał, że potknie się i dosłownie wpadnie twarzą na drugą maskę. Jego szczęście naprawdę nie ma granic." },
-    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAC_000_523", "hash": "169970BBED32008C", "target": "Ale bez obaw... Tak, śmiem twierdzić, że widmowy złodziej ma jeszcze parę asów w rękawie..." }
+    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAC_000_522", "hash": "52FCA7EE80064203", "target": "(-???-)Kto by pomyślał, że potknie się i dosłownie wpadnie twarzą na drugą maskę. Jego szczęście naprawdę nie ma granic." },
+    { "gameKey": "quest/004/ChrHdb502_00491#TEXT_CHRHDB502_00491_HATENAC_000_523", "hash": "BC5687B561643B68", "target": "(-???-)Ale bez obaw... Tak, śmiem twierdzić, że widmowy złodziej ma jeszcze parę asów w rękawie..." }
   ]
 }

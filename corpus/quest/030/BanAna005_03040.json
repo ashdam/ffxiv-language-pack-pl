@@ -60,7 +60,7 @@
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_065", "hash": "DBCD1187D8F9F679", "target": "Dlaczego śniące muszą posuwać się aż tak daleko?" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_JOLHMYN_000_070", "hash": "DD0A7943724C8277", "target": "Dobrze, że pomoc dotarła w porę, ale wygląda na to, że czeka nas jeszcze trochę pracy!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_110", "hash": "E9EE276FB8F14437", "target": "Nie sądziłam, że będzie ich aż tyle... Są nieustępliwe!" },
-    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_KARYANAENEMY03040_000_111", "hash": "884ADAE3D4186C4C", "target": "Kto śmie się wtrącać!? Aaa!" },
+    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_KARYANAENEMY03040_000_111", "hash": "1BDE90349C691D52", "target": "(-Rozwścieczona Qalyana-)Kto śmie się wtrącać!? Aaa!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_MZHETTIA_000_112", "hash": "F1F8CE50AAC9FE4F", "target": "Tu <if(gnum4,pani jest,pan jest)>, <split(<string(gstr1)>, ,1)>! Czyżby <if(gnum4,chciała pani zagarnąć całą chwałę dla siebie,chciał pan zagarnąć całą chwałę dla siebie)>? Nie tylko <if(gnum4,pani jest tu bohaterką,pan jest tu bohaterem)>!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_TAHLAMOLKOH_000_113", "hash": "57717C1C9F7BEBB0", "target": "Choć przybyłam tylko podziwiać posągi gryfów, nie będę się bezczynnie przyglądać, gdy moim przyjaciołom grozi niebezpieczeństwo! Pora, by Tahla Molkoh, Niewidzialna Żmija, obnażyła kły!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_JOLHMYN_000_114", "hash": "FF212F121C03D18C", "target": "„Niewidzialna Żmija”? Bo inni cię ignorują?" },

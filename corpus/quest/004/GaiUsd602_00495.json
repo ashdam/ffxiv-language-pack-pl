@@ -27,7 +27,7 @@
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_030", "hash": "245F66BD4D03A648", "target": "Co też myślał sobie G'raha Tia, żądając, byśmy opuścili wieżę?" },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_031", "hash": "83774AF46AD64467", "target": "Bez wątpienia <if(gnum4,chce pani,chce pan)> wiedzieć dlaczego. Mnie też bardzo zależy na odpowiedzi!" },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_032", "hash": "315551C1A6B5393F", "target": "Mnie oczywiście nic nie powiedział. Ale <if(gnum4,z panią,z panem)> będzie szczery─nie mam wątpliwości!" },
-    { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_040", "hash": "AE80ABBA96E4C6DC", "target": "Ani kroku dalej, przyjaciele! Wkrótce zamkną się drzwi." },
+    { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_040", "hash": "F45AADDB811A808C", "target": "(-???-)Ani kroku dalej, przyjaciele! Wkrótce zamkną się drzwi." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_RAMMBROES_000_041", "hash": "CA41D120EFEEF415", "target": "A więc <italic(1)>istotnie<italic(0)> chcesz zapieczętować wieżę, G'raho." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_RAMMBROES_000_042", "hash": "E51DC4EBFFC497A1", "target": "Wiem, że czas nagli, ale proszę tylko o zarys twojego planu. Podejdź, proszę, żebyśmy mogli porozmawiać." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_043", "hash": "2D53F86051F65F76", "target": "...Nie. Przepraszam, ale nie mogę." },

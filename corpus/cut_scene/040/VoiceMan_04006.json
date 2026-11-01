@@ -191,9 +191,9 @@
     { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001690_YSHTOLA", "hash": "F225DD7357B7FDB7", "target": "Prawda?" },
     { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001700_YSHTOLA", "hash": "3F429983F150885F", "target": "Widzisz? Cokolwiek się stanie, możesz na nas liczyć w potrzebie. Nigdy ci nie odmówimy." },
     { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001710_LYSE", "hash": "224CE9DB0CA676E7", "target": "Y'shtola... Na bogów, obiecałam sobie, że nie będę płakać..." },
-    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001720_GOSETSU", "hash": "C794CEB46D0ED16C", "target": "Wracaj tu, ty śliski diabełku! \\<mruczy><br>Kto by pomyślał, że łowienie ryb może być takie trudne!" },
-    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001730_GOSETSU", "hash": "D219BAC4EF89D8BB", "target": "Cóż lepiej dowodzi, że człowiek wciąż należy do świata żywych, niż pusty żołądek?<br>Los gorszy od śmierci." },
-    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001740_GOSETSU", "hash": "E5D00579B2AD28D4", "target": "A niech to. Przybyć na wyznaczone miejsce o wyznaczonej porze i przeżyć jedynie siłą przyzwyczajenia. Doprawdy, kami jeszcze z nami nie skończyli." },
+    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001720_GOSETSU", "hash": "AB1346CB13DE159C", "target": "(-???-)Wracaj tu, ty śliski diabełku! \\<mruczy><br>Kto by pomyślał, że łowienie ryb może być takie trudne!" },
+    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001730_GOSETSU", "hash": "BE2F65638886ECCE", "target": "(-???-)Cóż lepiej dowodzi, że człowiek wciąż należy do świata żywych, niż pusty żołądek?<br>Los gorszy od śmierci." },
+    { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001740_GOSETSU", "hash": "B887B3EFA13E61F6", "target": "(-???-)A niech to. Przybyć na wyznaczone miejsce o wyznaczonej porze i przeżyć jedynie siłą przyzwyczajenia. Doprawdy, kami jeszcze z nami nie skończyli." },
     { "gameKey": "cut_scene/040/VoiceMan_04006#TEXT_VOICEMAN_04006_001750_GOSETSU", "hash": "BF7C92E82E2F904C", "target": "O, kapryśny losie! Jakże wystawiasz mnie na próbę z tą nieszczęsną duszą..." }
   ]
 }

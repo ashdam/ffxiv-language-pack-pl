@@ -51,7 +51,7 @@
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_100", "hash": "B466816BA7671AD3", "target": "Dobra robota, <split(<string(gstr1)>, ,1)>. Oboro byłby dumny." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_101", "hash": "AE31143CFBF6D163", "target": "Dobra robota, <split(<string(gstr1)>, ,1)>. Ma <if(gnum4,pani,pan)> talent do sztuki shinobi..." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_102", "hash": "1C5AFE1CFD39047C", "target": "Droga wolna. Podejdźmy bliżej i zobaczmy, co stało się z mieszkańcami." },
-    { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_SOLDIERC02495_000_103", "hash": "67CDFD4BF27D4323", "target": "Panie! Aan z pozostałych wiosek zebrano do inspekcji." },
+    { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_SOLDIERC02495_000_103", "hash": "627EA199CF543F9D", "target": "(-Cesarski dekurion-)Panie! Aan z pozostałych wiosek zebrano do inspekcji." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_104", "hash": "04C347AD162CAF09", "target": "Doskonale. Osobiście do nich przemówię." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_105", "hash": "4406B0F09FF73853", "target": "Uwaga! Wkrótce wszyscy zostaniecie przewiezieni do zakładu na przeciwległym brzegu." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_106", "hash": "780CCA6418E7F09C", "target": "Jak już wam powiedziano, wasze obowiązki będą proste. Macie naprawiać i konserwować rozmaitą broń i uzbrojenie oraz urządzenia magitek." },

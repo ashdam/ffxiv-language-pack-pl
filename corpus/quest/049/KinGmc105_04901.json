@@ -82,7 +82,7 @@
     { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_136", "hash": "F4107EF5A52CD855", "target": "Raz dałem się zaskoczyć. Nie dopuszczę ponownie do takiej tragedii." },
     { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_137", "hash": "030A92D53633EE73", "target": "Proszę więc, jako ojciec, a nie elektor Sługi Świtu, o opiekę nad Trzecią Pretendentką. O obronę przed wrogami, którzy mogą czaić się w cieniu. Czy spełni <if(gnum4,pani,pan)> moją prośbę?" },
     { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_138", "hash": "68DE829475C320AC", "target": "Dziękuję. Z głębi serca." },
-    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_GULOOLJAJA_000_139", "hash": "C0F4E040856FDA09", "target": "Wysłuchasz mojego pytania i odpowiesz szczerze? Nie zwracaj się do mnie jak do władcy Tuliyollalu, lecz jak do zatroskanego ojca." },
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_GULOOLJAJA_000_139", "hash": "499F7C852E4AED62", "target": "(-Powiernik Determinacji Gulool Ja Ja-)Wysłuchasz mojego pytania i odpowiesz szczerze? Nie zwracaj się do mnie jak do władcy Tuliyollalu, lecz jak do zatroskanego ojca." },
     { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_140", "hash": "AA2679091B63D2B6", "target": "Wystarczy powiedzieć, że ta rozmowa musi pozostać między nami. Proszę nikomu nie zdradzić ani słowa." }
   ]
 }

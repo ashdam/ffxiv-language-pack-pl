@@ -22,7 +22,7 @@
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DICKON_000_035", "hash": "6750807E80A0AB4F", "target": "Nie pozwolę wam piec chleba pyszniejszego od mojego! Tym razem <if(gnum4,przeszłyście same,przeszliście samych)> siebie. Najwyższa ocena." },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_100_036", "hash": "5FF94FD8326A19A5", "target": "Tak!" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_000_036", "hash": "86A3C5B5FCD29E85", "target": "Skoro mamy bezwarunkowe uznanie pana Dickona, chyba możemy zakończyć próby. Tworzymy wspaniały zespół, <split(<string(gstr1)>, ,1)>!" },
-    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_GALVEROCHE_000_037", "hash": "992318EAF3FAA3EF", "target": "Cóż za rozczarowanie: tak trwonisz czas, i to jeszcze <italic(1)>tutaj<italic(0)>..." },
+    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_GALVEROCHE_000_037", "hash": "E7CB15D90392A25C", "target": "(-???-)Cóż za rozczarowanie: tak trwonisz czas, i to jeszcze <italic(1)>tutaj<italic(0)>..." },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_GALVEROCHE_000_038", "hash": "A7C8A0088FD5D7F2", "target": "Porzuciłaś moje zadanie dotyczące trawienia, by oddawać się błahej sztuce... wykwintnego gotowania!?" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_000_039", "hash": "6CBE51D3D9E1C618", "target": "Nie zaprzeczę! Robiłam <italic(1)>dokładnie<italic(0)> to." },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_000_040", "hash": "A82EFAB102584789", "target": "I powiem panu dlaczego! Problemem wszechchleba nigdy nie były trudności z trawieniem─ludziom robiło się niedobrze od okropnego smaku!" },

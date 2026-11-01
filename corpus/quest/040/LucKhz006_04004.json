@@ -26,7 +26,7 @@
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_SAUNAMAN04004_000_030", "hash": "ACB72314955A19B7", "target": "Powiedz, <if(gnum4,przyjaciółko,przyjacielu)>, możemy zaczynać prawdziwą rozkosz?" },
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_Q1_000_000", "hash": "F14CCBFC4ABEA671", "target": "Wejść do gorących źródeł w obecnym stroju?" },
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_SAUNAMAN04004_000_031", "hash": "9A52AEAFBD97D190", "target": "Aaaaaach... Czy nie jest tak, jak mówiłem, a nawet lepiej?" },
-    { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_CHARLEMEND_000_032", "hash": "80F322DBD98A0841", "target": "...Przepraszam." },
+    { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_CHARLEMEND_000_032", "hash": "78D663389A39D854", "target": "(-???-)...Przepraszam." },
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_SAUNAMAN04004_000_033", "hash": "24B610FAD62EC39C", "target": "Niech mnie pstrąg ucałuje─toż to szanowny hrabia Charlemend de Durendaire!" },
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_SAUNAMAN04004_000_034", "hash": "8332D0F29E20B9B0", "target": "Co sprowadza tu waszą hrabiowską mość? Czy w posiadłości Durendaire'ów nie ma prywatnej łaźni znacznie większej i wspanialszej od tej?" },
     { "gameKey": "quest/040/LucKhz006_04004#TEXT_LUCKHZ006_04004_CHARLEMEND_000_035", "hash": "3F6242A3C51C6DF1", "target": "...Hm. O ile wiem, obiekt jest otwarty dla wszystkich, bez względu na pozycję czy stan. Ale skoro musisz wiedzieć─po pierwsze, mogę tu swobodnie rozmawiać z takimi ludźmi jak ty i osobiście poznać głos naszych obywateli." },

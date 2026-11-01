@@ -35,7 +35,7 @@
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_FLHAMINN_000_033", "hash": "65926779D54D992E", "target": "<split(<string(gstr1)>, ,1)>─czy mogę prosić o przysługę, gdy znów wrócisz na Pierwszy? Przekaż Ryne coś, czego sama nie mogę jej powiedzieć." },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_FLHAMINN_100_033", "hash": "4D876880908DE6C8", "target": "Powiedz jej... dziękuję." },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_FLHAMINN_000_034", "hash": "644140CE81F9CAC1", "target": "Tobie także dziękuję. Za to, że <if(gnum4,nie opuściłaś,nie opuściłeś)> Minfilii do samego końca." },
-    { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_RIOL_000_035", "hash": "E2DC8CD2971A0740", "target": "Wybaczcie, że przeszkadzam, ale mogę słówko?" },
+    { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_RIOL_000_035", "hash": "DC4D8D9862EE6FA1", "target": "(-???-)Wybaczcie, że przeszkadzam, ale mogę słówko?" },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_TATARU_000_036", "hash": "5F6A81140B94B8B3", "target": "Riol! Mam nadzieję, że przynosisz wieści od naszego pomocnika." },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_RIOL_000_037", "hash": "9A4B16D0BA252193", "target": "Chciałbym. Niestety, ani słowa od niego. A minęło już sporo czasu. Zbyt cholernie długo." },
     { "gameKey": "quest/036/LucKmg101_03673#TEXT_LUCKMG101_03673_RIOL_000_038", "hash": "48171F19DED31A9B", "target": "Dlatego przekradnę się przez granicę. Może z bliższej odległości uda mi się z nim połączyć." },

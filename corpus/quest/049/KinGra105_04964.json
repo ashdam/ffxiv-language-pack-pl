@@ -38,9 +38,9 @@
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_EUTROPE_000_212", "hash": "49FA3121A625FAD8", "target": "Odbiorę ci duszę! Szykuj się!" },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_213", "hash": "7D7DB33395089577", "target": "Cóż to!? Wicked Thunder właśnie wyzwała <if(gnum4,niepowstrzymaną debiutantkę,niepowstrzymanego debiutanta)>!" },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_214", "hash": "656FF3C6C18493C3", "target": "Niestety, choć bardzo chciałbym zobaczyć to starcie, po zniknięciu Wicked Thunder cofnięto jej licencję. Nie mogę zezwolić na taką walkę..." },
-    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_215", "hash": "78BAE1E4B3CC7120", "target": "Intrygujące... Bardzo intrygujące..." },
+    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_215", "hash": "BF69B6C0FF743D6F", "target": "(-Rozbrzmiewający głos-)Intrygujące... Bardzo intrygujące..." },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_216", "hash": "6ABF92BE26F99C6D", "target": "T-ten głos! To prezes!" },
-    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_217", "hash": "DEB28FF234917069", "target": "Zezwalam na specjalną walkę pokazową. Przygotujcie ring Wicked Thunder... a ty, <if(gnum4,debiutantko,debiutancie)>, przygotuj się do walki." },
+    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_217", "hash": "D806C601DFCE7613", "target": "(-Prezes Ascension Arcadia-)Zezwalam na specjalną walkę pokazową. Przygotujcie ring Wicked Thunder... a ty, <if(gnum4,debiutantko,debiutancie)>, przygotuj się do walki." },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_218", "hash": "6EB35DB6C40051C8", "target": "Słyszycie, moi drodzy! Za zgodą prezesa walka się odbędzie! Kto zwycięży: czarownica nowej ery czy <if(gnum4,wojowniczka bez wspomagania,wojownik bez wspomagania)>!? Tego wydarzenia nie możecie przegapić!" }
   ]
 }

@@ -18,7 +18,7 @@
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_TODO_05", "hash": "79F03FDFAB2437B5", "target": "Porozmawiać z Nyipine w Tuliyollal" },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_001", "hash": "7B03BA51523CD7F4", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Wypatruję kogoś z Costa del Sol, ale... na razie nic." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_002", "hash": "B4F3B9EC32909543", "target": "Może powinniśmy na wszelki wypadek sami tam pojechać─" },
-    { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_003", "hash": "1CA62B39E0F14959", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>! Pani Loashkano!" },
+    { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_003", "hash": "4DB3B65CFB76DC4E", "target": "(-???-)<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>! Pani Loashkano!" },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_004", "hash": "90A8F7F82BEA0D92", "target": "Proszę wybaczyć nagłe wtargnięcie, ale przynoszę wiadomość od pana Gegeruju. Waszą zdobycz zauważono w Eastern La Noscea." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_005", "hash": "5F73F0F4367F6076", "target": "Och! Dobrze, że nie wyszłam wcześniej..." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_006", "hash": "DDA9CECC5BB7E3E4", "target": "Dziękuję za wiadomość! Gdzie dokładnie w Eastern La Noscea ich widziano?" },

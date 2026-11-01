@@ -21,12 +21,12 @@
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_021", "hash": "265C18065C935F9F", "target": "Tchórzostwo Płomiennych Kłów przekracza wszelką miarę─nie zasługuje na wybaczenie! To, że dobrowolnie oddają samych siebie, jest żałosne. To, że poświęcają innych, przyprawia o mdłości..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE", "hash": "3AD452B027D1D71E", "target": "Twoja zdobycz nadchodzi..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE_000_000", "hash": "6F2E6B57DAC999CF", "target": "Wróg wciąż jest w pobliżu!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "50F9E6BEC7AA1AC5", "target": "D-dzięki bogom, że nadeszła pomoc!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "C195C9F30436D6C7", "target": "Niech bogowie <if(gnum4,pani,panu)> błogosławią! Niech błogosławią!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "6EBE6D5EF21C71E3", "target": "Ja... nigdy nie mieściło mi się w głowie, że... Dziękuję!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "F1B0FA6BD8253883", "target": "Mogę... mogę odejść? Naprawdę?" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "CDF624E4C8919572", "target": "Co!? Jak ty, na siedem piekieł─Ach, nie ma na to czasu!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "AAFCED85F7BD1360", "target": "Zabiję ich wszystkich, przysięgam! Głupotą było zadzierać z kimś z Ala Mhigo!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "C8CC303EEDCA62FA", "target": "To sen, prawda? Nie jesteś prawdziwą osobą... prawda?" }
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "51A4A1DECE994646", "target": "(-Jeniec z ulgą-)D-dzięki bogom, że nadeszła pomoc!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "D001EAA2D3588414", "target": "(-Wdzięczny jeniec-)Niech bogowie <if(gnum4,pani,panu)> błogosławią! Niech błogosławią!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "ED7AAE1FE6EE0320", "target": "(-Zaskoczona branka-)Ja... nigdy nie mieściło mi się w głowie, że... Dziękuję!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "7242CA4054E1C734", "target": "(-Rozczochrana branka-)Mogę... mogę odejść? Naprawdę?" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "AD586C741DB56842", "target": "(-Branka pod wrażeniem-)Co!? Jak ty, na siedem piekieł─Ach, nie ma na to czasu!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "3D5FF78EA206B571", "target": "(-Rozwścieczony jeniec-)Zabiję ich wszystkich, przysięgam! Głupotą było zadzierać z kimś z Ala Mhigo!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "1142224E3F3D0AC0", "target": "(-Niedowierzający jeniec-)To sen, prawda? Nie jesteś prawdziwą osobą... prawda?" }
   ]
 }

@@ -45,7 +45,7 @@
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_ALPHINAUD_000_042", "hash": "9067A886CC42FB24", "target": "To <if(gnum4,moja pomocnica,mój pomocnik)>. <if(gnum4,Jej,Jego)> niezawodne wsparcie pozwala mojej sztuce rozkwitać. Albo <if(gnum4,ona,on)> idzie ze mną, albo nie idę wcale!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFBLUE_000_043", "hash": "AB1448385D26C333", "target": "Czyli pasożyt. Niech o <if(gnum4,jej,jego)> losie zdecyduje wasz nowy pracodawca─nam to obojętne." },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFRED_000_044", "hash": "E69BC4AEB16008AB", "target": "Wakat już obsadzony, więc wracamy w Eulmore urocze strony!" },
-    { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_GATETOWNPEOPLE03286_000_045", "hash": "DFAA5C76B2A87D87", "target": "..." },
+    { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_GATETOWNPEOPLE03286_000_045", "hash": "8A7DAD85AD421A47", "target": "(-Mieszkańcy Gatetown-)..." },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFBLUE_000_046", "hash": "BBAB16B9C329F3DA", "target": "Och, zgroza! Meol! Omal nie wyszliśmy, nie zostawiając daru życzliwości!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFRED_000_047", "hash": "43E2AB8157CB1854", "target": "Trzeba rozdać zawartość worków, nim ruszymy do domowych progów!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_Q0_000_048", "hash": "B09E7D6D1FCE128A", "target": "Kontynuować zadanie głównego scenariusza?" },

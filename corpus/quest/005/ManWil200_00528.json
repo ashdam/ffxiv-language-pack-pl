@@ -100,7 +100,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_95", "hash": "A3D91C8EBBB65288", "target": "Proszę porozmawiać z Zanthaelem w Sali Bastionu. Chętnie wprowadzi do gabinetu pani admirał na Mostku Admiralskim." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_100", "hash": "8D61F81AEAFCF286", "target": "Pozdrowienia, <if(gnum4,pani,panie)>, i witamy w naszym pięknym mieście. Jeśli wolno mi obejrzeć pieczęć na niesionym piśmie..." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_101", "hash": "E91DEBA7962B429B", "target": "Tak, wszystko wydaje się w porządku. Proszę wybaczyć. Nie możemy sobie pozwolić na beztroskę, rozumie <if(gnum4,pani,pan)>. Tędy proszę." },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "1735BD5DE931FE53", "target": "Wejść." },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "CEC66F313D536D21", "target": "(-???-)Wejść." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700020_MERLWYB", "hash": "C9C773572BA7D9CD", "target": "A więc kupcy o miodowych językach przysyłają w swoim imieniu <if(gnum4,poszukiwaczkę przygód,poszukiwacza przygód)>. Wygląda na to, że Uldahczycy pokładają w tobie wielkie zaufanie." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700030_MERLWYB", "hash": "73FE59B320771899", "target": "Tędy." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700040_MERLWYB", "hash": "9803D22EB71E4366", "target": "Witaj u nas." },

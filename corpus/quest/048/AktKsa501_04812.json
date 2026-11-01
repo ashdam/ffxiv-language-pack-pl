@@ -17,7 +17,7 @@
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_SYSTEM_000_001", "hash": "F64B2F5E1578C2AB", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie głównego scenariusza „Wzbierające światło”." },
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_MEHDJINA_000_002", "hash": "F936583E250B261B", "target": "<split(<string(gstr1)>, ,1)>! Mam wspaniałe wieści." },
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_MEHDJINA_000_003", "hash": "97A69301C59472EA", "target": "Dzięki <if(gnum4,pani,pana)> niestrudzonym dostawom jesteśmy teraz zasypywani zamówieniami. Plan pani Tataru się powiódł!" },
-    { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_HASDAHD_000_004", "hash": "47BE34C908A34B1B", "target": "Kolejna przesyłka wysłana! Chyba nigdy w życiu nie zapakowałem tylu paczek." },
+    { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_HASDAHD_000_004", "hash": "FB5372F61DCCF2E4", "target": "(-???-)Kolejna przesyłka wysłana! Chyba nigdy w życiu nie zapakowałem tylu paczek." },
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_Q2_000_000", "hash": "8E2B0391A1FEF850", "target": "Co powiesz?" },
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_A2_000_001", "hash": "104E63C25991A82A", "target": "Chyba jeszcze się nie znamy...?" },
     { "gameKey": "quest/048/AktKsa501_04812#TEXT_AKTKSA501_04812_A2_000_002", "hash": "FE643F14C48A4E48", "target": "Och, eee... Witaj!" },

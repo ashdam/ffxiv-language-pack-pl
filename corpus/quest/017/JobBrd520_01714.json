@@ -51,7 +51,7 @@
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_055", "hash": "8B938F73A3F0AE75", "target": "A ty? Czy ostatnie wydarzenia rozpaliły jakiś wers w twoim sercu?" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_056", "hash": "12246FA3885CF5F1", "target": "Widzisz? <split(<string(gstr1)>, ,1)> też <if(gnum4,poczuła,poczuł)> natchnienie i <if(gnum4,ułożyła,ułożył)> śliczną piosenkę!" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_057", "hash": "F1B15273F7D6AEDC", "target": "Tak, tak, to było bardzo piękne... ale mówiłem o znaczeniu drużyny! Mamy mnóstwo pracy i oczekuję, że zrobisz swoje, począwszy od zbierania informacji!" },
-    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "F92495B853202F20", "target": "Przecież zbieram, prawda? Jak już pokazałem, od zwykłych ludzi można się wiele dowiedzieć. Tobie zostawię twoich pobratymców─tych nadętych, wysoko urodzonych." },
+    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "E98035F220DE2F1E", "target": "(-Guydelot-)Przecież zbieram, prawda? Jak już pokazałem, od zwykłych ludzi można się wiele dowiedzieć. Tobie zostawię twoich pobratymców─tych nadętych, wysoko urodzonych." },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_060", "hash": "EB751B58ECF77F44", "target": "Nie mamy jeszcze wieści od ser Alamenaina. Dopóki nie nadejdą, będę dalej zbierał informacje. Jak wcześniej, proszę zachować siły na dalszą podróż." }
   ]
 }

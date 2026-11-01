@@ -55,7 +55,7 @@
     { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_100_051", "hash": "542F56A89ED2045C", "target": "Chodźmy przekazać mu dobrą nowinę." },
     { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_BRAZENBROOK_000_052", "hash": "AE7435C79CC84A0F", "target": "Jakimi kłamstwami Garleańczycy karmili ich przez te wszystkie lata? \\<wzdycha> Chyba już nieważne. Z czasem ludzie się do nas przekonają." },
     { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_000_060", "hash": "1E6E2398F0692001", "target": "Wygląda na to, że Baut zostawił nam wiadomość?" },
-    { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_000_061", "hash": "F482CE56358FA6EE", "target": "<italic(1)><split(<string(gstr1)>, ,1)>,<br>Nadeszła pora ostatniego pożegnania. Choćbym nie wiem jak próbował żyć teraźniejszością, przeszłość wciąż mnie prześladuje─rodzina mnie wzywa. Jeśli zechcesz spełnić moją ostatnią prośbę, dostarcz moją głowę siłom Sojuszu. Załączam wskazówki.<italic(0)>" },
+    { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_000_061", "hash": "C3E683537887AEB0", "target": "(-Notatka od Bauta-)<italic(1)><split(<string(gstr1)>, ,1)>,<br>Nadeszła pora ostatniego pożegnania. Choćbym nie wiem jak próbował żyć teraźniejszością, przeszłość wciąż mnie prześladuje─rodzina mnie wzywa. Jeśli zechcesz spełnić moją ostatnią prośbę, dostarcz moją głowę siłom Sojuszu. Załączam wskazówki.<italic(0)>" },
     { "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_000_062", "hash": "58DC70A43C7CE2C3", "target": "Nie... Nie, on nie może! <split(<string(gstr1)>, ,1)>, musimy go powstrzymać!" }
   ]
 }

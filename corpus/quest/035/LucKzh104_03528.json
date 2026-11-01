@@ -46,6 +46,6 @@
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_085", "hash": "4817BEA291C81305", "target": "Nie mogę uwierzyć, że to się dzieje!" },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_086", "hash": "4E9C486D244FD191", "target": "<split(<string(gstr1)>, ,1)>, chciałbym móc lepiej wyrazić swoją wdzięczność. Jeszcze zrobię z tego miasta coś wielkiego, zobaczysz!" },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_087", "hash": "3F04600B0C0FD2C0", "target": "No, wy tam! Do Wleczonego Ogona!" },
-    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_RONSOMINER03530_000_088", "hash": "CF2BBC7BC5B50179", "target": "Słyszeliście go, chłopaki!" }
+    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_RONSOMINER03530_000_088", "hash": "513377FBCEE04B65", "target": "(-Górnik Ronso-)Słyszeliście go, chłopaki!" }
   ]
 }

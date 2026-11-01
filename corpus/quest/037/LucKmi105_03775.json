@@ -61,7 +61,7 @@
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_091", "hash": "F0AC71FF8E3C9D01", "target": "Lecz to zapewne tylko przedsmak możliwości <if(gnum4,pogromczyni,pogromcy)> Emet-Selcha." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_092", "hash": "7B7358F0EA09B9F5", "target": "Taka potęga wymaga sprawiedliwszej miary. Trzeba porównać to, co podobne. Tak..." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_093", "hash": "B5EEFFB443197736", "target": "Muszę zatem sam cię wypróbować." },
-    { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_094", "hash": "BD458DBB5AC9441E", "target": "No dalej, <split(<string(gstr1)>, ,1)>! Pokaż mi, na co cię stać!" },
+    { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_094", "hash": "FB03B6DDD0C61EFB", "target": "(-Ardbert-)No dalej, <split(<string(gstr1)>, ,1)>! Pokaż mi, na co cię stać!" },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_100", "hash": "E98BD6BD5153F597", "target": "To był poranek pełen zdarzeń─jeśli w ogóle <italic(1)>jest<italic(0)> poranek. Nie wiem, jak długo byłam nieprzytomna." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_101", "hash": "763342AAE19CA2BB", "target": "Mimo wszystko cieszę się, że moje wysiłki w Anyder przyniosły owoce. Udało się potwierdzić prawdziwą naturę naszego wroga i jego plan." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_102", "hash": "D22DC7E8EFD44CFF", "target": "A jakie wieści z powierzchni?" },

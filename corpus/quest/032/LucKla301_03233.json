@@ -45,7 +45,7 @@
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_027", "hash": "66BFEACCDECEB14B", "target": "BYĆ AMARO!!!" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_028", "hash": "12CFCC47000B76DA", "target": "W całym stworzeniu nie ma wspanialszego zwierzęcia! Odrodzić się jako majestatyczny amaro, to byłoby błogosławieństwo!" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_029", "hash": "E9C9B458E0561538", "target": "Ekhm. Oczywiście rozumiem, jeśli nie podziela <if(gnum4,pani,pan)> mojego entuzjazmu." },
-    { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_LYSSANA_000_030", "hash": "3D0EC0930279B9C5", "target": "Tu jesteś! Wszędzie cię szukałam!" },
+    { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_LYSSANA_000_030", "hash": "A74AB43E79FBDAD5", "target": "(-Żołnierka Drahn-)Tu jesteś! Wszędzie cię szukałam!" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_031", "hash": "0FE4D03E424541BF", "target": "Lyssana, co za miła niespodzianka. Wreszcie przyszłaś na wykład o taksonomii amaro?" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_LYSSANA_000_032", "hash": "C6C0E0BFD36CC065", "target": "Nie mam czasu na twoje pogadanki o zwierzętach. Jesteś potrzebny w stajni. Sprowadzono dzikiego amaro. Wygląda na chorego. Obawiamy się otrucia." },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_033", "hash": "31B457C29D6098B2", "target": "Otrucia!? Zaraz tam będę." },

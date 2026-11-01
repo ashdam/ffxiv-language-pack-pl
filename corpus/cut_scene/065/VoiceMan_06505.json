@@ -11,10 +11,10 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000070_ERENVILLE", "hash": "D14C898EFE32B22F", "target": "Tak, stamtąd pochodzi. Przedstawiam wam..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000080_GRAHATIA", "hash": "5074FCFB93B55A3E", "target": "...Chyba ją zgubiłeś." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000090_KRILE", "hash": "03721AAE0B25E9A9", "target": "Poszła gdzieś na własną rękę?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "56AB93597B1E7398", "target": "Wybaczcie, wybaczcie! Wszystko jest tu takie inne─aż chce się zwiedzać!" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "205DF8C27FF2193B", "target": "(-Żywiołowa przybyszka-)Wybaczcie, wybaczcie! Wszystko jest tu takie inne─aż chce się zwiedzać!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000120_ERENVILLE", "hash": "111CCC45DEDBBB35", "target": "Cóż, gdy ty zwiedzałaś, osoba, której szukasz, przyszła do nas." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000130_ERENVILLE", "hash": "A7BFA50D01E4D35A", "target": "To <if(gnum4,ona,on)>. <if(gnum4,Poszukiwaczka,Poszukiwacz)> przygód. Właśnie po to spotkanie przemierzyłaś morze." },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "E6D07BF32C1390C5", "target": "Ooo... Nie przesadzałeś. Widać, że <if(gnum4,ona,on)> nie jest <if(gnum4,zwykłą kobietą,zwykłym mężczyzną)>." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "22E4A16A275F1F14", "target": "(-Żywiołowa przybyszka-)Ooo... Nie przesadzałeś. Widać, że <if(gnum4,ona,on)> nie jest <if(gnum4,zwykłą kobietą,zwykłym mężczyzną)>." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000150_WUKLAMAT", "hash": "2CC5C386C9F38087", "target": "Jestem Wuk Lamat. Pretendentka do tronu Tuliyollalu." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000160_KRILE", "hash": "B9D4CFAF594AEAF7", "target": "Tuliyollal..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000170_ERENVILLE", "hash": "5C38DE4AE139AC8C", "target": "To państwo władające Turalem. Jego stolica nosi tę samą nazwę." },
@@ -261,8 +261,8 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002500_URIANGER", "hash": "72C56C5B4D204677", "target": "Nie zwlekajmy zatem dłużej i zapewnijmy sobie miejsca na statku." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002510_THANCRED", "hash": "93CF926E031FBA27", "target": "Tak, to będzie niezapomniana misja." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002520_THANCRED", "hash": "0FADA44FDD26CC55", "target": "Chodź, przyjacielu! Ruszamy do Turalu!" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "22A30645F4086571", "target": "Powiedz, czy było ci dane zwiedzić ruiny pod wodami morza Bounty?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "D66A40F01EDA2C29", "target": "Albo wyspy skarbów za zamarzniętymi wodami Blindfrost, na północ od Othardu?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "120A9F21E381DA91", "target": "Legendarne złote miasta Nowego Świata?" }
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "7E8C745BB391629A", "target": "(-Emet-Selch-)Powiedz, czy było ci dane zwiedzić ruiny pod wodami morza Bounty?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "41FCFA35F4E18080", "target": "(-Emet-Selch-)Albo wyspy skarbów za zamarzniętymi wodami Blindfrost, na północ od Othardu?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "80BAA19709DA089E", "target": "(-Emet-Selch-)Legendarne złote miasta Nowego Świata?" }
   ]
 }

@@ -11,7 +11,7 @@
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_TODO_01", "hash": "4556B8BCFD97507C", "target": "Dostarczyć rdzenie som Mussalfretowi" },
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_TODO_02", "hash": "33619DCE2F8403FA", "target": "Porozmawiać z Verpaulaine" },
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_VERPAULAINE_000_000", "hash": "5E75EEF4D890D68F", "target": "Chodźmy, nie traćmy czasu, trzeba pokazać to tacie. Pora, by przyznał mi rację." },
-    { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_MUSSALFRET_000_001", "hash": "AD8B81ACC5B5B1C0", "target": "Więc to tutaj się ukrywałeś." },
+    { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_MUSSALFRET_000_001", "hash": "E56338203C78DA2F", "target": "(-???-)Więc to tutaj się ukrywałeś." },
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_VERPAULAINE_000_002", "hash": "01B84DC37F4207CC", "target": "T-tato! Co za spotkanie! Właśnie miałem wracać do domu i powiedzieć ci, że znalazłem przyczynę problemu ze słońcem." },
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_MUSSALFRET_000_003", "hash": "82690EE66B001B00", "target": "Wciąż wałkujesz ten temat? Mogłeś zrobić sobie krzywdę, uganiając się za takimi bzdurami!" },
     { "gameKey": "quest/044/AktKzi104_04487#TEXT_AKTKZI104_04487_MUSSALFRET_000_004", "hash": "8EF552B13BFE93FB", "target": "A ty? Prosiłem, żebyś <if(gnum4,sprowadziła,sprowadził)> mi syna, a zamiast tego włóczysz się z nim po okolicy!?" },

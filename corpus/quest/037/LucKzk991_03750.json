@@ -26,7 +26,7 @@
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_025", "hash": "2CA9E964309636C4", "target": "Mamy się spotkać na Steps of Thal, przed Estetyką Eshtaime'a. Idź przodem. Wkrótce do ciebie dołączę." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_040", "hash": "59213CF21883F790", "target": "Nie musisz na mnie czekać. Wyrusz, kiedy zechcesz, i spotkajmy się przed Estetyką Eshtaime'a na Steps of Thal." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_060", "hash": "DBBAE98AFD7073C4", "target": "Mam nadzieję, że nie <if(gnum4,czekałaś,czekałeś)> zbyt długo." },
-    { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_061", "hash": "958663FE814EA4F5", "target": "F'lhaminn! Dziękujemy, że przyszłaś tak szybko." },
+    { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_061", "hash": "CF1963D9529E34C8", "target": "(-???-)F'lhaminn! Dziękujemy, że przyszłaś tak szybko." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_062", "hash": "0E77B288760BD127", "target": "A ty to kto? Jeśli pozwolisz, mamy z tą damą prywatne sprawy do omówienia." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_062", "hash": "A679A4FA7CE001A4", "target": "Nie, nic nie szkodzi, Popokkuli. <if(gnum4,Była,Był)> przy Minfilii w jej ostatnich chwilach. Uznałam więc, że <if(gnum4,ona również powinna być przy tym obecna,on również powinien być przy tym obecny)>." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_063", "hash": "84F76C6972E79A94", "target": "<split(<string(gstr1)>, ,1)>, co za zbieg okoliczności. Co cię tu sprowadza?" },

@@ -50,6 +50,6 @@
     { "gameKey": "quest/015/SubCts702_01557#TEXT_SUBCTS702_01557_PAIYOREIYO_000_100", "hash": "E9EECEEA6C41E6B8", "target": "Nawet po śmierci cierpieli razem, tam w ciemności. Avere, Eddo... Modlę się, byście zasnęli i wreszcie zaznali prawdziwego spokoju." },
     { "gameKey": "quest/015/SubCts702_01557#TEXT_SUBCTS702_01557_PAIYOREIYO_000_101", "hash": "4E2F34B8E20F127C", "target": "Chyba już skończyliśmy. Czuję, jakby wielki ciężar spadł mi z serca. Może wreszcie prześpię spokojnie całą noc." },
     { "gameKey": "quest/015/SubCts702_01557#TEXT_SUBCTS702_01557_PAIYOREIYO_000_102", "hash": "3F2AFB125BD7DDFC", "target": "Słowa nie oddadzą mojej wdzięczności, <split(<string(gstr1)>, ,1)>. Dzięki tobie przetrwałem tak wiele i zrozumiałem, co znaczy być poszukiwaczem przygód. Naszej drużynie brakowało jedności i drogo za to zapłaciła. Nikt nie powinien cierpieć tak jak oni. Zrobię wszystko, by inni przyszli bohaterowie uniknęli takiego losu." },
-    { "gameKey": "quest/015/SubCts702_01557#TEXT_SUBCTS702_01557_EDDA_000_103", "hash": "5115A2CF066A9571", "target": "...Dziękuję..." }
+    { "gameKey": "quest/015/SubCts702_01557#TEXT_SUBCTS702_01557_EDDA_000_103", "hash": "1FF9B68FD004FD1B", "target": "(-Głos bez ciała-)...Dziękuję..." }
   ]
 }
