@@ -34,7 +34,7 @@
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_063", "hash": "04E61344C35E693C", "target": "\\<mamrocze> \\<mamrocze> Uczeni... chowańce... <italic(1)>wróżki<italic(0)>!?" },
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_064", "hash": "0C75B42857AFBE19", "target": "„Słoneczny blask Eos koi i osłania”." },
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_065", "hash": "2C7337D2B9724317", "target": "„Księżycowy blask Selene ucisza i wzmacnia”." },
-    { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_KOKORONIHIBIKUKOE_000_066", "hash": "9191A4401C9CF181", "target": "<split(<string(gstr1)>, ,1)>..." },
+    { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_KOKORONIHIBIKUKOE_000_066", "hash": "1B2FBCE49DB7FBC8", "target": "(-???-)<split(<string(gstr1)>, ,1)>..." },
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_067", "hash": "BFCA4FB8C1EF1023", "target": "Na Dwunastu, czy wiesz, co to oznacza!? Odkryliśmy na nowo dawno zapomniane sztuki magiczne uczonych z Nym!" },
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_040", "hash": "8177C6BB47F1544B", "target": "Wróżki. Najprawdziwsze wróżki. No, teraz to już widziałem wszystko!" },
     { "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_ALKAZOLKA_000_041", "hash": "7E4B6DB71014AF0F", "target": "Tak czy inaczej, wrócę do gildii i zacznę tłumaczyć tablicę. Nie mogę się doczekać, aż poznam jej pozostałe tajemnice!" },

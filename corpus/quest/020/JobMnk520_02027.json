@@ -28,7 +28,7 @@
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_003", "hash": "E55E9A2EFBC5A47C", "target": "D'zentsa i O'tchakha były pod wrażeniem. Opowiedziały pozostałym o twoich umiejętnościach. Teraz wszyscy chcą się u ciebie uczyć." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_004", "hash": "39A4D313F3B1AB73", "target": "Moi uczniowie ćwiczą na zachód stąd. Chodźmy do nich." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_050", "hash": "61AA65031436716B", "target": "To jeden z moich uczniów. Został ciężko pobity. Kto to zrobił?" },
-    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "0B0F687009EF08FD", "target": "Uch... To byli mnisi... tacy jak my..." },
+    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "910A62FC0B8C1C17", "target": "(-Ranny uczeń-)Uch... To byli mnisi... tacy jak my..." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_052", "hash": "32AB53C6A32BE9A5", "target": "Ci sami łajdacy, którzy mnie napadli? To oburzające! Muszą za to zapłacić! Za mną, <if(gnum4,siostro,bracie)>! Nie mogli uciec daleko!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_080", "hash": "3D61EF32F6882A20", "target": "To oni, <if(gnum4,siostro,bracie)>!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_081", "hash": "57B4BCA1C3F4B4C1", "target": "Ale nie wszyscy. Widziałem, jak reszta ucieka. Zajmij się tymi tutaj. Będę ścigał pozostałych." },

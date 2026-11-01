@@ -27,7 +27,7 @@
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_SURITOCARITO_000_010", "hash": "B2FF9F81D37FFA96", "target": "Belahdyjskich, nie z Mhach? Hmmm... może odziedziczyli spuściznę magów Otchłani. Tak czy inaczej, to Ul'dah wydaje się warte odwiedzenia. Pójdziesz w moim imieniu, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_ALKAZOLKA_000_011", "hash": "7D316C4392A0497E", "target": "Proponuję odszukać Yayake. To dawna przyjaciółka, której miłość do starych ksiąg dorównuje mojej." },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_ALKAZOLKA_000_012", "hash": "02676D4DCBBBA47F", "target": "Chciałbym zobaczyć ją osobiście. Muszę jednak kontynuować ćwiczenia i opiekować się nowymi rekrutami." },
-    { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_MARAUDER01675_000_013", "hash": "E9005691F994944B", "target": "Raz! Dwa! Trzy!" },
+    { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_MARAUDER01675_000_013", "hash": "5E296DF5697C3AB3", "target": "(-Zahartowany grabieżca-)Raz! Dwa! Trzy!" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_ALKAZOLKA_000_014", "hash": "920EF4B8C56CDF14", "target": "Ku zwycięstwu, <split(<string(gstr1)>, ,1)>─choćby się waliło i paliło!" },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_SURITOCARITO_000_016", "hash": "1C2051F9FA7599C5", "target": "Dobrze widzieć, że Halga znów działa." },
     { "gameKey": "quest/016/JobSch580_01675#TEXT_JOBSCH580_01675_HALGATOLGA_000_017", "hash": "8F237673B691D57C", "target": "Gdy z wami skończę, skurwysyny, <italic(1)>może<italic(0)> będziecie godni Królewskiej Piechoty Morskiej! Do tego czasu jesteście dla mnie jak budyń, i to zgniły!" },

@@ -12,7 +12,7 @@
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_TODO_02", "hash": "60CE5DD4057B81C0", "target": "Porozmawiać z Sansonem" },
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_GUYDELOT_000_000", "hash": "C00B6FCEFEEE091F", "target": "Życie jest zbyt krótkie na kłótnie, co? Powiedziałbym, że na nadętych dupków też szkoda czasu." },
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SANSON_000_005", "hash": "070B6C75709A6863", "target": "Przybywa <if(gnum4,pani,pan)> w samą porę, <split(<string(gstr1)>, ,1)>! Sylviel i jego wyprawa powinni wrócić lada chwila." },
-    { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SOLDIER01716_000_007", "hash": "4AD5306878686E5A", "target": "Pomocy! Na bogów!" },
+    { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SOLDIER01716_000_007", "hash": "15C8AD3CBDA96505", "target": "(-???-)Pomocy! Na bogów!" },
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SOLDIER01716_000_008", "hash": "9B571FF50435ACBD", "target": "Błagam, wysłuchajcie mnie! Badaliśmy stare ruiny i przypadkiem weszliśmy na ziemie Gnathów. Stworzenia nas pojmały─tylko ja zdołałem uciec." },
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SANSON_000_009", "hash": "A2E0DFA26439ECC9", "target": "Czy przywódca waszej grupy ma na imię Sylviel?" },
     { "gameKey": "quest/017/JobBrd560_01716#TEXT_JOBBRD560_01716_SOLDIER01716_000_010", "hash": "2543EA03F6DE9831", "target": "S-skąd wiesz? Ale tak, jestem jego najemnym ochroniarzem. Pobiegłem do Tailfeather, ile sił w nogach, ale nikt nie chce nam pomóc." },

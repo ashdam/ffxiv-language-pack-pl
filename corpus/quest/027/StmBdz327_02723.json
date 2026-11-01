@@ -70,7 +70,7 @@
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_NAYOSHI_000_043", "hash": "DFE40939A12E6BF1", "target": "To żaden problem dla <if(gnum4,pani,pana)> <split(<string(gstr1)>, ,2)>! <if(gnum4,Ona,On)> doskonale nurkuje." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_044", "hash": "F69164110B5C04D2", "target": "Mamy więc plan. <split(<string(gstr1)>, ,1)>, odpowiadasz za odwrócenie uwagi." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_045", "hash": "9C88DC7999899E32", "target": "Suzume, ruszysz ze mną do Hells' Lid. Wspólnie uporamy się z Czerwonymi Kojin i uwolnimy jeńców. Hansaku, zostań w pobliżu na łodzi, żebyśmy mogli szybko uciec." },
-    { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_HANSAKU_000_046", "hash": "1D229BA42B6B62E9", "target": "Tak jest, szefie!!!" },
+    { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_HANSAKU_000_046", "hash": "0E6F3B90141F7EA3", "target": "(-Suzume i Hansaku-)Tak jest, szefie!!!" },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_047", "hash": "5B0BEAC6DB0829A9", "target": "A ty, Nayoshi, pójdziesz ze mną i Suzume. Znajoma twarz powinna powstrzymać twoich przyjaciół przed paniką na nasz widok." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_NAYOSHI_000_048", "hash": "D9AB3F7B85384D2B", "target": "Tak jest, szefie!!!" },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_FISHER02719_000_049", "hash": "E2A2C344E2E31087", "target": "Jeśli nie jestem potrzebny, wrócę do wioski i powiadomię wszystkich o sytuacji." },

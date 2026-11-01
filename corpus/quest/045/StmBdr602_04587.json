@@ -109,8 +109,8 @@
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_170", "hash": "4324A044C3E6B448", "target": "\\<pik> Zwodniczo głęboka zaspa niemal mnie pokonała, ale udało nam się dotrzeć we wskazane przez <if(gnum4,panią,pana)> miejsce." },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_171", "hash": "107DEB48CC58E458", "target": "\\<pik> Zalecana ostrożność." },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_172", "hash": "9C998B1B2374FB5C", "target": "Nieznany osobnik zdaje się badać obiekt mojego zainteresowania." },
-    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173", "hash": "7FC74BD2D3D6D87B", "target": "Hm...? Jesteś <if(gnum4,bohaterką,bohaterem)> Eorzei, prawda? <string(gstr1)>." },
-    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174", "hash": "68C2C220A31E4451", "target": "Och, nigdy się nie przedstawiłem, prawda...?" },
+    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173", "hash": "5CBBEB1B43C8DF8D", "target": "(-Żołnierz I Legionu-)Hm...? Jesteś <if(gnum4,bohaterką,bohaterem)> Eorzei, prawda? <string(gstr1)>." },
+    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174", "hash": "EAD1DCC64BB4AA3D", "target": "(-Żołnierz I Legionu-)Och, nigdy się nie przedstawiłem, prawda...?" },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_175", "hash": "B7AB5795EC24667D", "target": "Jestem Manius, żołnierz I Legionu i towarzysz Jullusa." },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_176", "hash": "4358DA38CA3D78A7", "target": "Może pamiętasz mnie z Tertium? Rozmawialiśmy o zbieraniu ceruleum, a potem jeszcze raz, gdy pan Quintus... odszedł." },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_177", "hash": "0F480FD4F631EB0E", "target": "Manius. Prośba o wyjaśnienie. Jaki jest powód twojej obecności w tym miejscu?" },
@@ -301,6 +301,6 @@
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_SYSTEM_000_546", "hash": "97C89BBDC43E2C56", "target": "Alpha energicznie się otrząsa i wyciąga spod skrzydła skrawek papieru." },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_ALPHA_000_547", "hash": "0B01C485D875F296", "target": "Kweh!" },
     { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_SYSTEM_000_548", "hash": "FCDB0389D6302802", "target": "Wygląda na to, że chce ci go dać. Może tak okazuje swoją wdzięczność...?" },
-    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_549", "hash": "A56160AA3B4887CC", "target": "\\<pik> Szybko, Alpha! Droga jest długa, a nasza podróż dopiero się zaczęła!" }
+    { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_549", "hash": "51611FD6EF62BEA2", "target": "(-Omega-)\\<pik> Szybko, Alpha! Droga jest długa, a nasza podróż dopiero się zaczęła!" }
   ]
 }

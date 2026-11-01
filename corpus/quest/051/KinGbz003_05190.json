@@ -94,7 +94,7 @@
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_CEETOLJA_000_519", "hash": "84BCD13F5C0F3CF0", "target": "Nie! Eee... Jedzenie! Jedzenia też nie ma! Sprzedali ostatnią porcję." },
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_APYAAHI_000_520", "hash": "25F19B5983540ACD", "target": "Co? I mają czelność nadal mieć otwarte!?" },
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_APYAAHI_000_521", "hash": "8E382098371B176F", "target": "Doprawdy, chciwość bez granic. Na szczęście niczego nie zamierzałam zamawiać. Wolałabym umrzeć, niż zostać...\\<wzdryga się>...<italic(1)>płacącą klientką<italic(0)>." },
-    { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_KUIYKI_000_522", "hash": "28411CD4D9E9E5D2", "target": "Nie masz wstydu!?" },
+    { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_KUIYKI_000_522", "hash": "FCC5C7C349C4B22A", "target": "(-Kuiyki i Ceetol Ja-)Nie masz wstydu!?" },
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_THUG05190B_100_523", "hash": "3AF7C18F2BB18F53", "target": "Było coś jeszcze? Nie wydawało mi się..." },
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_THUG05190C_000_524", "hash": "05623843322B94F8", "target": "Miała pani zwiększyć nasze szeregi, prawda? Mówiła pani, że dzięki relikwii będziemy mieli armię. No i mamy?" },
     { "gameKey": "quest/051/KinGbz003_05190#TEXT_KINGBZ003_05190_CEETOLJA_000_525", "hash": "5EB9302160EDF4E7", "target": "<split(<string(gstr1)>, ,1)>, uciekaj stamtąd! Ona wchodzi!" },

@@ -61,7 +61,7 @@
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600570_IGEYORLM", "hash": "933733203C4E1297", "target": "<colortype(547)>Niedługo poruszą się i pozostali.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600580_NABRIALES", "hash": "A56CA193BE9E6E0E", "target": "<colortype(547)>Pytanie nie brzmi, czy <if(gnum4,bohaterka,bohater)> Eorzei się podda, lecz kiedy.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600590_LAHABREAANCIENT", "hash": "DD793A0160DA01CB", "target": "<colortype(547)>Z każdą chwilą przybliżamy się do Sądu.<colortype(0)>" },
-    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600600_FOURTEENASCIANS", "hash": "6C93D95BFC1D1AE4", "target": "<colortype(547)>Za jedynego prawdziwego boga!<colortype(0)>" },
-    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600610_FOURTEENASCIANS", "hash": "AF015B1FC3ADB373", "target": "<colortype(547)>Za Zodiarka!<colortype(0)>" }
+    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600600_FOURTEENASCIANS", "hash": "52C0AF9412B448E7", "target": "(-Ascianie-)<colortype(547)>Za jedynego prawdziwego boga!<colortype(0)>" },
+    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600610_FOURTEENASCIANS", "hash": "2158CB62634A022D", "target": "(-Ascianie-)<colortype(547)>Za Zodiarka!<colortype(0)>" }
   ]
 }

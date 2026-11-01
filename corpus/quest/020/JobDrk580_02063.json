@@ -76,7 +76,7 @@
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_MOGGIE_000_100", "hash": "C3C0F3345C053905", "target": "Kiedy ty i Sid skończycie z tulihandami, spotkajmy się w Asah. Dam wam tam kolejną próbę, kupo!" },
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_SIDURGU_000_101", "hash": "03317774447F2B63", "target": "... Co my, do diabła, robimy, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_SIDURGU_000_102", "hash": "19B0E7D21A9B2B22", "target": "Co moogle'e mogą wiedzieć o opanowaniu mrocznej sztuki?" },
-    { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_103", "hash": "5467254987A8DA6C", "target": "Młahaha! Głupi głupcy!" },
+    { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_103", "hash": "E3E6B91BEDBE5B95", "target": "(-???-)Młahaha! Głupi głupcy!" },
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_SIDURGU_000_104", "hash": "6E9D1FC1A5F82863", "target": "... No dobrze. Co to ma znaczyć?" },
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_105", "hash": "1D316A59BE17848D", "target": "Kiedy zbieraliście pomponowe ziele i zabijaliście tulihandy, porwaliśmy Rielle, kupo! Młahaha!" },
     { "gameKey": "quest/020/JobDrk580_02063#TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_106", "hash": "98912FDD480E6B0D", "target": "O taaak, kupo! Tak świetnie się razem bawiliśmy! Naprawdę świetnie, kupo!" },

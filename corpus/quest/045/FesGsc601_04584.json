@@ -51,7 +51,7 @@
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_A1_000_003", "hash": "D7C38EA93A31CE73", "target": "Zakręcisz się dla mnie?" },
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_SYSTEM_000_030", "hash": "324FF9F0243A6FB2", "target": "Senor Sabotender przybiera pozę, ale nie wypowiada ani słowa. Nie wiadomo, czy twoja wiadomość do niego dotarła..." },
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_SYSTEM_000_031", "hash": "42B117A14FB236B6", "target": "Senor Sabotender pobiegł na zachód. Może chce porozmawiać w bardziej ustronnym miejscu?" },
-    { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_NANAPHON_000_040", "hash": "B1B843F7CA142FAF", "target": "Przepraszam za ściąganie <if(gnum4,pani,pana)> aż tutaj." },
+    { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_NANAPHON_000_040", "hash": "65DABABB2D5F6258", "target": "(-???-)Przepraszam za ściąganie <if(gnum4,pani,pana)> aż tutaj." },
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_Q2_000_000", "hash": "620C525C49CDA41D", "target": "Co powiesz?" },
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_A2_000_001", "hash": "10F60C482113D129", "target": "Eee... kim jesteś?" },
     { "gameKey": "quest/045/FesGsc601_04584#TEXT_FESGSC601_04584_A2_000_002", "hash": "45C3FFE16F0C70A9", "target": "Nanaphon! Czemu taka smutna mina?" },

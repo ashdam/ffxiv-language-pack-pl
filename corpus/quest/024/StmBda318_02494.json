@@ -25,7 +25,7 @@
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_053", "hash": "DF14BDD5BD782A80", "target": "Pochowaliśmy ich na urwisku na zachód od wioski. Przez tarasy biegnie ścieżka. Pokażę drogę!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_060", "hash": "68B4B5F2045D831B", "target": "To tutaj! Muszę tylko położyć kwiaty, a potem przedstawię im osobę, która mi pomogła..." },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_061", "hash": "FF429BBE6061C9C2", "target": "Uwielbiali poznawać podróżnych i słuchać opowieści o odległych krainach. Może usłyszą historię o <if(gnum4,pani,pana)> rodzinnych stronach?" },
-    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "16C8F81BE0191BC9", "target": "Azami! Azami! Jesteś tam? Azami!" },
+    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "A950EAB3A772C979", "target": "(-???-)Azami! Azami! Jesteś tam? Azami!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_063", "hash": "E3DDB5BCD3DD3284", "target": "Co u... Nie powinno cię tu być! Odejdź od mojej siostry!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_064", "hash": "A5971E38AB73FF1F", "target": "Nie bądź niemiły! <if(gnum4,Ona uratowała mnie,On uratował mnie)> przed potworami, bracie. <if(gnum4,Pomogła,Pomógł)> mi nawet nazbierać kwiatów dla mamy i taty!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_065", "hash": "D753B776B1FB506E", "target": "Wracaj do wioski. Już." },

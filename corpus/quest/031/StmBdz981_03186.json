@@ -41,7 +41,7 @@
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LANDEBERT_000_045", "hash": "9FA24CB372C595FC", "target": "A lichwiarze? Banki? To część tego samego zgniłego układu. Przeżuwają biednych i bezbronnych tymi zawiłymi umowami pełnymi pułapek." },
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LANDEBERT_000_046", "hash": "E47BA8F9A2011304", "target": "Każdy na tej ulicy zna kogoś, kto tonął w długach i pracował dniami i nocami, aż zachorował i umarł. To miasto pożera ludzi, <if(gnum4,wojowniczko,wojowniku)>─przeżuwa ich i wypluwa." },
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LANDEBERT_000_047", "hash": "07BC9208FC0828D9", "target": "Więc tak, powiedziałem temu człowiekowi z banku, żeby spierdalał. Cholerny dureń. Co on sobie, na siedem piekieł, myślał? Przychodzi tu i proponuje mi pracę, jakbym nie potrafił rozpoznać zatrutego kielicha..." },
-    { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LOLORITO_000_048", "hash": "8FB107080FFD7BCA", "target": "Gdybyż wszyscy byli równie przenikliwi..." },
+    { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LOLORITO_000_048", "hash": "5FFCB926DE49D946", "target": "(-???-)Gdybyż wszyscy byli równie przenikliwi..." },
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_LANDEBERT_000_049", "hash": "6F021CCCEF36D91D", "target": "Co? Znamy się? Coś mi się w panu wydaje znajome..." },
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_Q1_000_000", "hash": "3B61C7A1A7467F19", "target": "Co powiesz?" },
     { "gameKey": "quest/031/StmBdz981_03186#TEXT_STMBDZ981_03186_A1_000_001", "hash": "E6E01138ADEE340C", "target": "To lord Lolorito z Syndykatu." },

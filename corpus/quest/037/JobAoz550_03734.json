@@ -18,7 +18,7 @@
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_SYSTEM_100_001", "hash": "A042EE5F6C28E421", "target": "Kolejna misja joba Blue Mage będzie dostępna u Martyna po nauczeniu się Whistle." },
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_MARTYN_000_000", "hash": "F842CB07C4286F6F", "target": "Udało się nauczyć Whistle? Myślę, że przyda się podczas następnej lekcji." },
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_MARTYN_000_001", "hash": "360BB28EBD35D410", "target": "Ruszajmy do─" },
-    { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_ROYSE_000_002", "hash": "FAE22CE94CFECCFB", "target": "Kochani! Właśnie takich magów szukałam." },
+    { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_ROYSE_000_002", "hash": "E707DFC1BADAA896", "target": "(-???-)Kochani! Właśnie takich magów szukałam." },
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_ROYSE_000_003", "hash": "B676D9BD05C77EF4", "target": "Mam przyjemność oprowadzać pana Fyrgeissa po Celestium i naszych obiektach. Może zechcielibyście dołączyć? O ile nic was nie zatrzymuje." },
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_MARTYN_000_004", "hash": "F4C1CA6EA6D4AF20", "target": "Zatrzymuje? Ależ skąd! <split(<string(gstr1)>, ,1)> i ja jesteśmy wolni jak te przysłowiowe ptaki, prawda?" },
     { "gameKey": "quest/037/JobAoz550_03734#TEXT_JOBAOZ550_03734_MARTYN_000_005", "hash": "EEDCD6B72C3A1193", "target": "Proszę tylko o chwilę, by przygotować Gildię Niebieskich Magów na wizytę pana Fyrgeissa. Nie co dzień gościmy tak znamienite osobistości." },

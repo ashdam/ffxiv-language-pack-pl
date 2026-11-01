@@ -28,7 +28,7 @@
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_030", "hash": "66D03F617926C6AB", "target": "Tyle czasu minęło, a od ciebie ani słowa! Myśleliśmy, że o nas zapomniałaś!" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_031", "hash": "E97D8EAE443E7D5D", "target": "Wybaczcie, odbudowa pochłonęła mnie bez reszty, ale ogromnie się cieszę, że was widzę." },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_032", "hash": "A83B81F8CE77B15E", "target": "A obecność kogoś tak sławnego jak <split(<string(gstr1)>, ,1)> czyni nasze spotkanie jeszcze bardziej wyjątkowym." },
-    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_033", "hash": "08F45B729981E739", "target": "Poszukiwaczko przygód, poszukiwaczko przygód!" },
+    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_033", "hash": "B1D26417B787B5A2", "target": "(-???-)Poszukiwaczko przygód, poszukiwaczko przygód!" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_034", "hash": "D5293658C0929088", "target": "Och, wszyscy jesteście poszukiwaczami przygód... \\<łapie oddech> I jest tu nawet <if(gnum4,wybawicielka,wybawiciel)> Ishgardu!" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_035", "hash": "53EC8677AC171E32", "target": "Ta dobra pani i jej rodzina okazali mi wiele życzliwości. Czy coś się stało, proszę pani?" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_036", "hash": "C45C1EEA195EC824", "target": "Ostatnio po The New Nest kręci się dziwne stworzenie. Boję się, co może zrobić..." },

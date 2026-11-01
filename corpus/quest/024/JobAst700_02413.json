@@ -41,7 +41,7 @@
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_KYOKUHO_000_029", "hash": "27C06EF1E4B8A84D", "target": "Przestać skupiać się na więziach i zająć się lisicą? Co masz na myśli, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_030", "hash": "42FCDA5DFFBD6457", "target": "Co <if(gnum4,ona,on)> ma na myśli?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_031", "hash": "14A991F42C424B26", "target": "Powiem panu <italic(1)>dokładnie<italic(0)>, co <if(gnum4,ona,on)> ma na myśli!" },
-    { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_032", "hash": "87FA95059AE15475", "target": "Nie dopuszczę do tego!" },
+    { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_032", "hash": "713216C339B52C40", "target": "(-???-)Nie dopuszczę do tego!" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_100_032", "hash": "36BAA06BD152E785", "target": "Jest znacznie prostsze rozwiązanie całego tego niedorzecznego problemu... ale tylko jeśli przestanie pan skupiać się na więziach i zwróci uwagę na lisicę!" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_KYOKUHO_000_033", "hash": "40F8338B1915133F", "target": "Lady Leveva! Jak pani─Skąd pani─Dlaczego pani─Lady Leveva...?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_034", "hash": "1B2E9B451A180543", "target": "Pańska spostrzegawczość nigdy nie przestaje mnie zadziwiać, Kyokuho. Tak, to ja we własnej osobie. Właśnie zeszłam z galery, która zawinęła do portu dzisiejszego ranka." },

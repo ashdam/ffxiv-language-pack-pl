@@ -44,7 +44,7 @@
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_NAMINGWAY_000_033", "hash": "E7C28883C1282723", "target": "...Oizys." },
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_NAMINGWAY_100_030", "hash": "CC2F70B368537D0F", "target": "Och, Oizys! Twoje oblicze niczym rana, która nie chce się zagoić! Nigdy serce nie bolało mnie tak mocno przy wymyślaniu nazwy..." },
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_SEARCHINGWAY_000_031", "hash": "3D2A5352DA802CF3", "target": "To największe ruiny dotąd odkryte na Oizys." },
-    { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_DYLISE_000_032", "hash": "AA63B310C3F0A74C", "target": "A więc tak je nazywamy?" },
+    { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_DYLISE_000_032", "hash": "C778C1DC53A18B3A", "target": "(-Niedawno przybyła badaczka-)A więc tak je nazywamy?" },
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_SEARCHINGWAY_000_033", "hash": "D4BC28462C5AC84E", "target": "Dylise! Znasz <if(gnum4,moją przyjaciółkę,mojego przyjaciela)>?" },
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_DYLISE_000_034", "hash": "D954093DCC42A878", "target": "To zapewne <string(gstr1)>. Tankin opowiadał o tobie. Znamy się od lat." },
     { "gameKey": "quest/054/KinGwk301_05448#TEXT_KINGWK301_05448_DYLISE_000_035", "hash": "312CEC4B6ECC6B49", "target": "To zapewne <string(gstr1)>. Słyszałam o tobie, „bezcennej podporze inicjatywy”." },

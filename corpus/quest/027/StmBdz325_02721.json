@@ -34,7 +34,7 @@
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_100_030", "hash": "5BE5DF8639C08F89", "target": "No to zaczynamy!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_031", "hash": "668083AF3533C2BF", "target": "Niech to! Kolejna bestia!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_040", "hash": "8471AF1F06AF6515", "target": "Dwie próby i dwie porażki. \\<wzdycha> Ta przynęta była moją ostatnią nadzieją..." },
-    { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_041", "hash": "E7EB671F13FF6C26", "target": "Nayoshi, pora wreszcie spojrzeć prawdzie w oczy! Potrafisz wyławiać z morza wyłącznie potwory!" },
+    { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_041", "hash": "9F01D7D4B9029BE7", "target": "(-Wściekły kobiecy głos-)Nayoshi, pora wreszcie spojrzeć prawdzie w oczy! Potrafisz wyławiać z morza wyłącznie potwory!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_042", "hash": "DAD4DB0116D3521A", "target": "Na szczęście dzięki <if(gnum4,pani,panu)> <split(<string(gstr1)>, ,2)> udało się pokonać bombfish, ale musisz szybko posprzątać! Zapach krwi przyciągnie najróżniejsze bestie!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_043", "hash": "F99B5C4B88D5FF27", "target": "Dobrze. Ciało tego podłego stwora pójdzie z dymem... wraz z moimi marzeniami." },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_044", "hash": "821D3010BDFFD538", "target": "A jak właściwie zamierzasz spalić ciało bez oliwy?" },

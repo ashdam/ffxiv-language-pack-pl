@@ -9,7 +9,7 @@
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_TODO_03", "hash": "37C8270AC671FD22", "target": "Porozmawiać z Hippothoe" },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_000", "hash": "84ABF3285A2D0865", "target": "Ojej, jaka znajoma esencja! Niczym u chowańca... O ile znasz pojęcie chowańca?" },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_001", "hash": "7F3CCB8D7E21D60E", "target": "Och, to tylko żarcik. <split(<string(gstr1)>, ,1)>, tak? Jestem Hippothoe." },
-    { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_GEALCAT04288_000_002", "hash": "BA065D7398A003DE", "target": "Miaaau. Miau!" },
+    { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_GEALCAT04288_000_002", "hash": "CC01A7DA4EA79F4A", "target": "(-Ailouros-)Miaaau. Miau!" },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_003", "hash": "C835CFD616E82664", "target": "Tak, tak, zaraz do tego dojdziemy. <split(<string(gstr1)>, ,1)>, przywitaj naszą znajomą tutaj. To ailouros." },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_004", "hash": "DBF1F4B128ABA04C", "target": "Stworzenia ailouroi należą do naszych najnowszych dzieł. Są niezwykle wyczulone na nieprawidłowości w otoczeniu. Przy pierwszej oznace zagrożenia podnoszą alarm, czyli po prostu „głośno miauczą”." },
     { "gameKey": "quest/042/AktKzg013_04288#TEXT_AKTKZG013_04288_HIPPOTHOE_000_005", "hash": "2B256B69B03B059C", "target": "Choć staramy się obserwować wszystkie nasze dzieła, Elpis jest zbyt rozległe, by stale pilnować każdego kapryśnego gatunku. Potrzebowaliśmy skuteczniejszej metody wykrywania konfliktów między stworzeniami." },

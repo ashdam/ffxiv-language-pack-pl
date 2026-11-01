@@ -73,7 +73,7 @@
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ARDASHIR_000_045", "hash": "A8855F43C67BCA16", "target": "Anima przybrała cielesną postać? A więc wreszcie się przebudziła. Znakomicie." },
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ARDASHIR_000_046", "hash": "AF732718BE8B069E", "target": "Wrócę do Azys Lla i przekażę wieści Geroltowi. Z pewnością ucieszy go kolejny sukces." },
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ARDASHIR_000_047", "hash": "C839F17D3EE61AD1", "target": "Kiedy <if(gnum4,pani,pan)> odpocznie, proszę tam do nas dołączyć." },
-    { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ZINZOUSEIREI_000_048", "hash": "9CCEE464AE3E28A8", "target": "...Dokąd...teraz..." },
+    { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ZINZOUSEIREI_000_048", "hash": "D6FA7C153DB67627", "target": "(-???-)...Dokąd...teraz..." },
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ARDASHIR_000_050", "hash": "46803F1CF082B91B", "target": "<if(gnum4,Pani,Panie)> <split(<string(gstr1)>, ,1)>! Już <if(gnum4,pani,pan)> jest! Znakomicie!" },
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_GEROLT_000_051", "hash": "47D2AAD16C9B1A09", "target": "Nareszcie, dzięki przeklętym bogom. Może teraz przestaniesz trajkotać jak jakieś cholerne opo-opo i powiesz mi, co tam zaszło. Zgaduję, że poszło dobrze." },
     { "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_ARDASHIR_000_052", "hash": "97D48868346B34E3", "target": "Nie słuchał pan ani słowa? <if(gnum4,Pani,Pan)> <split(<string(gstr1)>, ,1)> uważa, że anima osiągnęła poznawczą samoświadomość i objawiła się w cielesnej postaci niezależnej od stworzonego przez pana naczynia!" },

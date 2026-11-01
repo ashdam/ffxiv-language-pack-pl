@@ -37,7 +37,7 @@
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_021", "hash": "8EBD3A4B3EFDE90F", "target": "Jak mogłybyśmy!? Bez ciebie nigdy byśmy tak daleko nie zaszły!" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_WUKLAMAT_100_023", "hash": "C498AAA0D3ADE76C", "target": "No dobrze, trochę zboczyłyśmy z tematu." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_WUKLAMAT_110_023", "hash": "AE90FB311583B048", "target": "Chyba czas ruszać. Idziemy na patrol czy sprawdzimy, czy Shale potrzebuje pomocy...?" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_024", "hash": "349C0E3316352B61", "target": "Tu jesteście!" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_024", "hash": "E0A70B56F0141661", "target": "(-Gulool Ja-)Tu jesteście!" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_WUKLAMAT_100_024", "hash": "11A9BC5E97F5C6B3", "target": "Gulool Ja!" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_025", "hash": "7AFC63DAAB53C04B", "target": "Ach, doskonale─baliśmy się, że się miniemy. Alisaie i pozostali powiedzieli, że tu jesteście." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_026", "hash": "F37F52372D45C75A", "target": "Dobre wieści, <split(<string(gstr1)>, ,1)>: wreszcie znaleźliśmy słaby punkt Calyxa!" },

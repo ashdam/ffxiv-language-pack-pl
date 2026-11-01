@@ -15,7 +15,7 @@
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_FIRMALBERT_000_001", "hash": "CD4E1DD11BC77172", "target": "Leophyne wciąż nam się wymyka. Jeśli sprzymierzyła się z ishgardzkimi szumowinami, może kryć się wszędzie..." },
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_FIRMALBERT_000_002", "hash": "E20EE0276FA61F49", "target": "Mamy tylko jej zagadkowe słowa. Cokolwiek planuje, dotychczasowe działania najwyraźniej były zaledwie wstępem do wielkiego finału." },
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_FIRMALBERT_000_003", "hash": "0CC1719D5D5F2801", "target": "Pozostaje liczyć, że Tentoawa obudzi się, zanim ona znów się pokaże." },
-    { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_LOAZENIKWE_000_004", "hash": "2495493E82E99602", "target": "<split(<string(gstr1)>, ,1)>, tutaj jesteś!" },
+    { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_LOAZENIKWE_000_004", "hash": "BD1DB879EE7F6E9C", "target": "(-Znajomy głos-)<split(<string(gstr1)>, ,1)>, tutaj jesteś!" },
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_LOAZENIKWE_000_005", "hash": "46558F90D50F7013", "target": "Jak dobrze, że cię znalazłam. Już myślałam, że jestem w złym mieście, ale narwal poprowadził mnie, jak należy!" },
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_FIRMALBERT_000_006", "hash": "DFD639B4A226F6DC", "target": "Och, to pani musi być tą dziewczyną, o której wspominał Tentoawa. Pochodzicie z tej samej wioski, prawda?" },
     { "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_FIRMALBERT_000_007", "hash": "0B38388C5D29E9C7", "target": "Jestem Firmalbert, Rycerz Świątynny. To zaszczyt panią poznać." },

@@ -25,7 +25,7 @@
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_006", "hash": "04FCB9035469D16D", "target": "...Ach, ale jeśli potrzebuje <if(gnum4,pani,pan)> biletu wstępu, niestety nie mam zapasowego. Może warto porozmawiać z tamtym zamożnym młodzieńcem? Przed chwilą głośno obwieszczał coś o „niemałej fortunie” z kasyna." },
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_SYSTEM_000_007", "hash": "57AE99D444C29DA7", "target": "Aby podjąć to zadanie, musisz najpierw ukończyć zadanie „To może przytrafić się tobie”, dostępne od poz. 15." },
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_010", "hash": "296367B975E1324B", "target": "Ach, już <if(gnum4,pani,pan)> jest. Czy coś wydaje się... niezwykłe?" },
-    { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_IMPCOSTUME04814_000_011", "hash": "FD279888397D039F", "target": "Kwi-hi-hi!" },
+    { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_IMPCOSTUME04814_000_011", "hash": "31773D8B3607D813", "target": "(-Wodny imp?-)Kwi-hi-hi!" },
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_Q1_000_000", "hash": "2153338FD4AB5C87", "target": "Co powiesz?" },
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_A1_000_001", "hash": "FC7EDF5F20B0C4BD", "target": "<italic(1)>Co<italic(0)> to właśnie do mnie powiedziało!?" },
     { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_A1_000_002", "hash": "F4E6CDF3DF1A5DCC", "target": "Chyba nasz „stwór” jest w przebraniu." },

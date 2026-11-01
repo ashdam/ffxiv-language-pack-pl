@@ -14,7 +14,7 @@
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_020", "hash": "2D402F94B60F007A", "target": "Tak jak mówił nasz znajomy. Ludzie nie mają ochoty na zabawę..." },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_021", "hash": "BF4CDEAF9FE3FAD5", "target": "Zapewne wciąż dochodzą do siebie po zniszczeniach, które wyrządził sztorm." },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_022", "hash": "7C1044A95A397101", "target": "Właśnie... Cóż, zróbmy to, po co przyszliśmy, i znajdźmy elektora." },
-    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ZANUHALI_000_023", "hash": "250363B0AC5069B8", "target": "Ohokaliy!" },
+    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ZANUHALI_000_023", "hash": "1F293B73CB858181", "target": "(-Starsza kobieta Hanu-)Ohokaliy!" },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_024", "hash": "5CB0A65F3F2626CC", "target": "Oho...co takiego?" },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ERENVILLE_000_025", "hash": "620F274DAB3FFEA2", "target": "To powitanie Hanu. Musiałaś je słyszeć podczas ostatniej wizyty." },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_026", "hash": "BD4294BCC534793D", "target": "Cóż, byłam zajęta zabawą na święcie..." },
@@ -54,9 +54,9 @@
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_SYSTEM_000_085", "hash": "76F34A373F3B71E5", "target": "Suche, skurczone wiązki wskazują, że trzciny zebrano już jakiś czas temu." },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_SYSTEM_000_086", "hash": "DD9B5B2C341A26B9", "target": "Ta przypominająca łódź jednostka, spleciona z trzcin, przywodzi na myśl ptaka. Szczególnie wyróżniają się dziób i pierzasty ogon." },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ALPHINAUD_000_090", "hash": "68681CE86852EC54", "target": "Ta łódź musi być spleciona z tych samych trzcin, których wiązki widziałem tu i ówdzie. A więc rośliny te mają dla Hanu znaczenie zarówno praktyczne, jak i kulturowe..." },
-    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_091", "hash": "852DCD68A4D0FCD8", "target": "Halo, wszyscy mnie słyszycie?" },
-    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_092", "hash": "17BF84CB814D7270", "target": "Powiedziano mi, że są już gotowi nas przyjąć. Przyjdźcie do dużego budynku na południu wioski!" },
-    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_093", "hash": "E5E5828715862638", "target": "Już idę!" },
+    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_091", "hash": "B05596AC6743E069", "target": "(-Krile-)Halo, wszyscy mnie słyszycie?" },
+    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_092", "hash": "5ABC3D25B298C291", "target": "(-Krile-)Powiedziano mi, że są już gotowi nas przyjąć. Przyjdźcie do dużego budynku na południu wioski!" },
+    { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_093", "hash": "0727C533C58B7DA8", "target": "(-Wuk Lamat-)Już idę!" },
     { "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ALPHINAUD_000_094", "hash": "BA3731990CAC0002", "target": "My też powinniśmy się pospieszyć." }
   ]
 }

@@ -166,12 +166,12 @@
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_078", "hash": "153C27AB5CF34CDC", "target": "Wasza Wysokość zyska wszystko, czego dotąd mu odmawiano. Rytuał, widmo ojca─te gorzkie wspomnienia wkrótce pójdą w niepamięć." },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_079", "hash": "B1904EEA06E6ABCC", "target": "Niech Wasza Wysokość sięgnie po swoją przyszłość. Otworzy bramę i zostanie władcą, którym miał zostać!" },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_080", "hash": "678486AF8A54DF47", "target": "D-Działa!" },
-    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_081", "hash": "2A83F9486A83F361", "target": "Czy ktoś... tam? Czy... słyszycie mnie?" },
-    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_082", "hash": "7A23F0762821B7E8", "target": "...Nareszcie!" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_081", "hash": "7BFC8BDA15B30AFC", "target": "(-???-)Czy ktoś... tam? Czy... słyszycie mnie?" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_082", "hash": "7B59A5B5A4A6560C", "target": "(-???-)...Nareszcie!" },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_083", "hash": "41A141974CD51907", "target": "Kto tam!? Pokaż się!" },
-    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_084", "hash": "A9BCB2F998A5E3D9", "target": "Gdybym tylko mogła. Niestety ta brama nie otworzy się dla mnie. Tylko klucz, który macie, może nas połączyć." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_084", "hash": "E8A972742D59E726", "target": "(-???-)Gdybym tylko mogła. Niestety ta brama nie otworzy się dla mnie. Tylko klucz, który macie, może nas połączyć." },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_085", "hash": "20CC7430EC9B996A", "target": "Więc... jesteś strażniczką wielkiej mocy tego miasta?" },
-    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_086", "hash": "3ABA0429BEA4D441", "target": "Nie twierdzę, że ta moc jest wielka... Ale moja wiedza wystarczy, by spełnić każde pragnienie. By przeobrażać światy." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_086", "hash": "D33A7CB574D2FF3C", "target": "(-???-)Nie twierdzę, że ta moc jest wielka... Ale moja wiedza wystarczy, by spełnić każde pragnienie. By przeobrażać światy." },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_087", "hash": "B56748245F2F737A", "target": "Doprawdy..." },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_088", "hash": "E6341FE6E25E1DD4", "target": "Hahaha... Ahahaha!" },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_089", "hash": "6AB492EE9A1DBDD9", "target": "Fascynujące. Podaj więc cenę. Bo moim pragnieniem jest sam świat..." },
@@ -179,6 +179,6 @@
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_091", "hash": "A13F00B1033FAB3F", "target": "P-Pretendencie! D-Dlaczego?" },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_092", "hash": "DD0E44579105AB64", "target": "Bezużyteczne narzędzie należy odrzucić." },
     { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_093", "hash": "EE14CDCEEBB93E99", "target": "Daj mi nowy świat. Taki, który ugnie się przed moją wolą." },
-    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_094", "hash": "444CBFD3C4763F44", "target": "Jak sobie życzysz. Ale w zamian..." }
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_094", "hash": "7CD834F68D333FD6", "target": "(-???-)Jak sobie życzysz. Ale w zamian..." }
   ]
 }

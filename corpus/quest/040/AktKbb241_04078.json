@@ -34,7 +34,7 @@
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_HERMIN_000_018", "hash": "DE20B227D905F1F0", "target": "Dla szefowej. Żaden szanujący się żniwiarz nie zbiera żniwa bez kosy." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_HERMIN_000_019", "hash": "8A7A652CBD961342", "target": "A teraz idź i spraw, by Orcus pożałował dnia, kiedy przekroczył granicę tego świata!" },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_HERMIN_100_019", "hash": "4E74F968FDDC5D71", "target": "Przyprowadź ją całą, <split(<string(gstr1)>, ,1)>, i <if(gnum4,sama,sam)> też wróć bez szwanku. Rodzina nie zostawia rodziny." },
-    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_030", "hash": "28BAE3EE83268C42", "target": "Już jesteś, <split(<string(gstr1)>, ,1)>. Mój wyborny posiłek. Podejdź." },
+    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_030", "hash": "B0601A6524ED6CCC", "target": "(-Orcus-)Już jesteś, <split(<string(gstr1)>, ,1)>. Mój wyborny posiłek. Podejdź." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_031", "hash": "1428CFCDECE653B5", "target": "Mmm... Czuję go. Twój strach. Twoją nienawiść." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_032", "hash": "D8238E392C5ED765", "target": "Twoją kruchą, przerośniętą tłuszczem duszę. Moje arcydzieło, gotowe na rzeź." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_033", "hash": "0455A484012B91C6", "target": "Będę rozkoszował się każdym kęsem! Odrę mięso od kości, rozłupię je, by przez księżyce wysysać szpik!" },

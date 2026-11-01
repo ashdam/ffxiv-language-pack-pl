@@ -35,7 +35,7 @@
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_OBORO_000_100", "hash": "FF923711D6260D04", "target": "Zrobiliśmy wszystko, co w naszej mocy. Księżniczka Yuki powinna już być w środku." },
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_MONSTER01684_000_101", "hash": "5FEAA969095B9E5E", "target": "He... hehe... Z<-->załatwiliście straż, ale n<-->nie psy stróżujące... K<-->kiedy wgryzą się w was... Ehehehe! \\<charczy>" },
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_OBORO_000_102", "hash": "E56C91FD66E04C6B", "target": "Co!? Szybko, <split(<string(gstr1)>, ,1)>, do obozu!" },
-    { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_YUKI_000_103", "hash": "331DD72C164B9056", "target": "Oszczędźcie sobie wysiłku. Zapisy czarnego rynku są moje." },
+    { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_YUKI_000_103", "hash": "5256294B4FAE4848", "target": "(-Yuki-)Oszczędźcie sobie wysiłku. Zapisy czarnego rynku są moje." },
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_YUKI_100_103", "hash": "A41BD132E1F10A28", "target": "Jest tu wzmianka o naszym jadeitowym klejnocie. O sztylecie Midare Kanemitsu również." },
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_YUKI_200_103", "hash": "C143319FF6234569", "target": "Klejnot najwyraźniej sprzedano, ale znalezienie nabywcy nie powinno być trudne. A ostrze wkrótce trafi na aukcję." },
     { "gameKey": "quest/016/JobNin520_01684#TEXT_JOBNIN520_01684_OBORO_000_104", "hash": "DDA4FDF6E9993679", "target": "Księżniczko! Jesteś bezpieczna! Nie napotkałaś oporu?" },

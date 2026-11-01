@@ -103,7 +103,7 @@
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_WIDARGELT_000_095", "hash": "B55B5ED53E7674EF", "target": "Więc nadal brakuje nam siły? Dobrze." },
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_WIDARGELT_000_096", "hash": "8DD433CA5F40709A", "target": "\\<dyszy> Taki morderczy trening... \\<łapie oddech> Nic dziwnego, że masz tyle siły..." },
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_WIDARGELT_000_097", "hash": "ACFDD4F09B807933", "target": "Ale jeszcze nie skończyliśmy! Jeszcze raz, <split(<string(gstr1)>, ,1)>!" },
-    { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_HEWERALD_000_099", "hash": "27A07A44E536879C", "target": "Proszę wybaczyć, że przerywam. Nazywam się Hewerald i przybywam na polecenie profesora Erika." },
+    { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_HEWERALD_000_099", "hash": "4181AB0AA78EC408", "target": "(-???-)Proszę wybaczyć, że przerywam. Nazywam się Hewerald i przybywam na polecenie profesora Erika." },
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_WIDARGELT_100_099", "hash": "7931E05E5340E30C", "target": "Profesora? Coś się stało?" },
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_HEWERALD_000_100", "hash": "31F40E0037AD30F5", "target": "Nic złego, zapewniam. Dokonał doniosłego odkrycia dotyczącego człowieka imieniem Theobald." },
     { "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_WIDARGELT_100_100", "hash": "382D09DA6CBE247F", "target": "Naprawdę!? Musimy natychmiast do niego pójść!" },

@@ -24,8 +24,8 @@
     { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_POPMESSAGE_000_020", "hash": "1BCF7227C28F8384", "target": "Wyczuwasz wrogą obecność!" },
     { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_HOUU_000_030", "hash": "DCFDE19CDEDD6ECF", "target": "Pojmane brzegołazy pływają już na wolności? Dobrze... Utopieni mają swoje miejsce, bo Panu Lewiatanowi należy oddać, co jego, ale..." },
     { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_HOUU_000_031", "hash": "FCEC55F6405403D6", "target": "Brzegołazy są mściwym ludem. Za każdego żołnierza Maelstromu pozyskanego dla Pana Lewiatana wezmą odwet, i to z nawiązką. Nie warto, tak myślę. Psssz..." },
-    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_040", "hash": "494E7CC31C19A8CE", "target": "Psssz! Śmiesz zabierać to, co należy do Pana Lewiatana!?" },
-    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_041", "hash": "0501BDB5FAD8E61F", "target": "Kolejna dusza pragnąca utopienia! Spełnię twoje najskrytsze życzenie!" },
-    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_042", "hash": "19417E9A44969FA0", "target": "Koralowe Trójzęby nie biorą jeńców! No, poza tymi tutaj. Ale mniejsza o to─gotuj się na śmierć!" }
+    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_040", "hash": "658A891AF8D7A3BC", "target": "(-Strażnik Shelfclaw-)Psssz! Śmiesz zabierać to, co należy do Pana Lewiatana!?" },
+    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_041", "hash": "A199B2277AA53C4A", "target": "(-Strażnik Shelfclaw-)Kolejna dusza pragnąca utopienia! Spełnię twoje najskrytsze życzenie!" },
+    { "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_042", "hash": "DE3F800C996AF7E7", "target": "(-Strażnik Shelfclaw-)Koralowe Trójzęby nie biorą jeńców! No, poza tymi tutaj. Ale mniejsza o to─gotuj się na śmierć!" }
   ]
 }

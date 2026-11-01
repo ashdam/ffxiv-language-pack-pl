@@ -11,7 +11,7 @@
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_KAGEELJA_000_002", "hash": "039F370D32E51376", "target": "Pamiętasz Xbr'aal, dla którego zbierany był owoc branchbearera? Najwyraźniej zasmakował mu plon naszych ptaków i pyta, czy możemy podzielić się kolejnym." },
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_KAGEELJA_000_003", "hash": "10448A75FA98685F", "target": "W zamian chce nam przynieść część mięsa z polowania w górnej części lasu. To korzystna wymiana dla obu stron, więc znów proszę cię o pomoc przy zbiorach." },
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_KAGEELJA_000_004", "hash": "B6D033E945E30C97", "target": "Po gospodarstwie powinny krążyć ptaki z owocami. Gdy zerwiesz dorodny okaz, zanieś go prosto do naszego przyjaciela łowcy łasucha w Iq Br'aax." },
-    { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_BRANCHBEARER05280_000_006", "hash": "D15DF374AB27F625", "target": "Giu, giuiii..." },
+    { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_BRANCHBEARER05280_000_006", "hash": "D1B6E0700E36835E", "target": "(-Branchbearer-)Giu, giuiii..." },
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_SYSTEM_000_007", "hash": "94FF5683E6BCCFA7", "target": "Zrywasz ciężki owoc z gałęzionoścy, co najwyraźniej przynosi mu ulgę. Dostarcz świeżo zebrany dar czekającemu łowcy łasuchowi." },
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_CITIZENA05280_000_009", "hash": "34FE8DD3ACA6421C", "target": "Przybywa <if(gnum4,pani,pan)> z gospodarstwa...?" },
     { "gameKey": "quest/052/BanMam120_05280#TEXT_BANMAM120_05280_CITIZENA05280_000_010", "hash": "DD7C1D9DFF0B8350", "target": "O, owoc branchbearera─zgodnie z obietnicą Kageel Ja!" },

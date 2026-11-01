@@ -21,7 +21,7 @@
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_FONCRINEAU_000_020", "hash": "81C3E316CC2AE35C", "target": "<if(gnum4,Pani,Pan)> będzie wsparciem zarówno dla lorda Francela, jak i Noalle. Ja tymczasem zostanę, by doglądać dzielnicy Firmament." },
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_FRANCEL_000_025", "hash": "84D2EF2CB63C5C88", "target": "Mówisz, że tędy?" },
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_NOALLE_000_027", "hash": "FB88A1FB56BC3F97", "target": "Za bramę! Zabrali ją za bramę!" },
-    { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_EHLLTOU_000_900", "hash": "F92DCB2CB8106968", "target": "Ile razy mam wam powtarzać, że jesteśmy <italic(1)>dobrymi<italic(0)> smokami! Żądam, byście natychmiast nas wpuścili!" },
+    { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_EHLLTOU_000_900", "hash": "C25D7899CC77B85C", "target": "(-Nieustraszone smoczątko-)Ile razy mam wam powtarzać, że jesteśmy <italic(1)>dobrymi<italic(0)> smokami! Żądam, byście natychmiast nas wpuścili!" },
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_MARCELLOIX_000_901", "hash": "B38761BFF20E1E64", "target": "Audaine! To ja, Marcelloix. Proszę, kochana, powiedz im, żeby nas przepuścili." },
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_AUDAINE_000_902", "hash": "F4809A72302FA4F3", "target": "Co? Czy to naprawdę może być...?" },
     { "gameKey": "quest/037/LucKha103_03727#TEXT_LUCKHA103_03727_FRANCEL_000_903", "hash": "91E6729645C42B62", "target": "Na Furię, co tu się dzieje?" },

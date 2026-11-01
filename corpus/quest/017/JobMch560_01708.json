@@ -19,7 +19,7 @@
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_TODO_05", "hash": "04597941D21BF71E", "target": "Uratować Fraideoux" },
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_TODO_06", "hash": "AC3A46B586E7B9CC", "target": "Porozmawiać ze Stephanivienem w Skysteel Manufactory" },
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_STEPHANIVIEN_000_000", "hash": "DB21221A964D70C7", "target": "Witaj, <split(<string(gstr1)>, ,1)>! Czyż to nie wspaniały dzień dla mechanika?" },
-    { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_KISHI01708_000_001", "hash": "10B1AD1028891E5B", "target": "Lordzie Stephanivienie de Haillenarte! Niniejszym oskarża się pana i podległych panu pracowników Skysteel Manufactory o podżeganie do buntu!" },
+    { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_KISHI01708_000_001", "hash": "50C1E367C42B4568", "target": "(-Surowy głos-)Lordzie Stephanivienie de Haillenarte! Niniejszym oskarża się pana i podległych panu pracowników Skysteel Manufactory o podżeganie do buntu!" },
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_STEPHANIVIEN_000_002", "hash": "B225CCF33CD3CDBB", "target": "Buntu!? Drogi ser, niczego podobnego nie podżegałem!" },
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_KISHI01708_000_003", "hash": "B5CE8A3531123D79", "target": "Oskarżono pana o uzbrajanie ludzi z gminu w broń wojenną i oddawanie z niej strzałów na terenie Brume." },
     { "gameKey": "quest/017/JobMch560_01708#TEXT_JOBMCH560_01708_STEPHANIVIEN_000_004", "hash": "CD68F22F66C042CD", "target": "Ach... Ta drobna scena podczas uwalniania ojca Joye..." },

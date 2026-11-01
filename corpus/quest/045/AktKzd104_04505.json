@@ -17,7 +17,7 @@
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_GALLA_000_003", "hash": "99261C6D2AAC67D6", "target": "Udamy się do Senaculum Imperialis, tego ogromnego kamiennego budynku na północnym zachodzie. Oby udało nam się tam znaleźć Vipsanię." },
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_GALLA_000_010", "hash": "596B8DB1D8176CCA", "target": "Nosi insygnia gwardii cesarskiej. W jej szeregi przyjmuje się tylko najsprawniejszych i najbardziej doświadczonych wojowników." },
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_GALLA_000_011", "hash": "E37E25B350898D4B", "target": "Niestety nie ma go już wśród żywych, choć najwyraźniej leży tu od niedawna. Co mogło się stać?" },
-    { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_PRAETORIAN04505_000_012", "hash": "B053EBC365FE8BE1", "target": "Aaaach!" },
+    { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_PRAETORIAN04505_000_012", "hash": "C3A9E25948502078", "target": "(-???-)Aaaach!" },
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_GALLA_000_013", "hash": "D55C7DB9BC0E05B5", "target": "To dochodziło z bliska! Chodźmy!" },
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_VIPSANIA_000_025", "hash": "7FC7AAF5A4404762", "target": "Nie... Nie zbliżajcie się!" },
     { "gameKey": "quest/045/AktKzd104_04505#TEXT_AKTKZD104_04505_PRAETORIAN04505_000_020", "hash": "7FCEAF578485AE35", "target": "Nie wiem, kim <if(gnum4,pani jest,pan jest)>, ale mam wobec <if(gnum4,pani,pana)> ogromny dług." },

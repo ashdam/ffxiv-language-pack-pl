@@ -22,8 +22,8 @@
     { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_NYXIA_000_015", "hash": "AD62390CD1FF3183", "target": "<if(gnum4,Chodząca,Chodzący)> chce zaprzyjaźnić się z omszonymi? Ten tutaj się cieszy!" },
     { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_NYXIA_000_016", "hash": "4A7BD588180D4A94", "target": "Kiedy omszony robi <italic(1)>aaa-psik<italic(0)>, dotknięci fruną do domu." },
     { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_NYXIA_000_030", "hash": "A0FF4CF1B2997C36", "target": "Och, ten tutaj dziękuje <if(gnum4,chodzącej,chodzącemu)>! Omszony też lubi <if(gnum4,chodzącą,chodzącego)>─ten tutaj to wie. <if(gnum4,Chodząca,Chodzący)> i omszony będą dobrymi przyjaciółmi." },
-    { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_050", "hash": "41C3949A53E4E113", "target": "Fuj! Ten tutaj śmierdzi bardziej niż cuchnące zielsko!" },
-    { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_051", "hash": "0C39A93AB62053C8", "target": "Przestać! Ten tutaj jest świeżo po kąpieli!" },
+    { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_050", "hash": "18BD820EB9FC5518", "target": "(-Złośliwy sylf-)Fuj! Ten tutaj śmierdzi bardziej niż cuchnące zielsko!" },
+    { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_051", "hash": "F0DB6FA8E5B3B8DD", "target": "(-Okrutny sylf-)Przestać! Ten tutaj jest świeżo po kąpieli!" },
     { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_TONAXIA_000_040", "hash": "69CEBD181AAED92F", "target": "Witaj z powrotem, <if(gnum4,przyjazna,przyjazny)>. Hm? <if(gnum4,Chodząca zaprzyjaźniła,Chodzący zaprzyjaźnił)> się z omszonym i jeszcze <if(gnum4,przepędziła,przepędził)> dotkniętych?" },
     { "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_TONAXIA_000_041", "hash": "5D80ACDD37789E6D", "target": "<if(gnum4,Chodząca,Chodzący)> każdego dnia coraz bardziej przypomina jednego z tych tutaj. Niech <if(gnum4,chodząca,chodzący)> uważa, bo jeszcze wyrosną skrzydła. Hi, hi!" }
   ]

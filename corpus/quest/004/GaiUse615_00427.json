@@ -31,7 +31,7 @@
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_032", "hash": "EA2CE350CCC88C78", "target": "Ojciec często o <if(gnum4,pani,panu)> mówił, <split(<string(gstr1)>, ,1)>, i długo czekałem na nasze pierwsze spotkanie. Rzecz jasna... wcale nie tak je sobie wyobrażałem." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_033", "hash": "755019571E91F3E3", "target": "Panie Alphinaudzie, nie wolno się poddawać rozpaczy. To by tylko zagrało na rękę naszym wrogom! Dopóki pan i <split(<string(gstr1)>, ,1)> jesteście wolni, wciąż możemy to naprawić." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_ALPHINAUD_000_034", "hash": "8B7113FCA662A07C", "target": "Proszę wybaczyć, marszałku Tarupin, ale ja─" },
-    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_035", "hash": "C371E6DB7D967898", "target": "Alphinaud, mój chłopcze─wybacz, że kazałem czekać!" },
+    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_035", "hash": "EC9D4A893AB4B5A3", "target": "(-???-)Alphinaud, mój chłopcze─wybacz, że kazałem czekać!" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_ALPHINAUD_000_036", "hash": "099B6B682415D8E1", "target": "Cid? Co pan tu robi?" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_037", "hash": "0B201645039DFCFE", "target": "Wyciągam was z ognia, jak zwykle! Twój przyjaciel handlarz wszystko mi opowiedział." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_038", "hash": "ABB8F18AE0C17EEE", "target": "Doprawdy? Zatem to nie kupiec, lecz anioł w przebraniu handlarza... Ale proszę powiedzieć─jak zamierza pan przenieść naszych przyjaciół w bezpieczne miejsce?" },

@@ -41,7 +41,7 @@
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_HAUTDLONG_000_066", "hash": "F7EBBABB1D165E90", "target": "Gdzie ona jest, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,2)>? Gdzie Ehll Tou?" },
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_HAUTDLONG_000_067", "hash": "B8C91948D23932BF", "target": "Co? Czemu nie chce nas zobaczyć? To bez sensu..." },
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_HAUTDLONG_000_068", "hash": "6285E6799CB2C4BB", "target": "Ehll Tou! Słyszy mnie pani!? Gdzie pani jest!?" },
-    { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_EHLLTOU_000_069", "hash": "E52390419491A896", "target": "Och, cicho! Takim krzykiem obudzisz coś większego od smoczątka." },
+    { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_EHLLTOU_000_069", "hash": "9F057C5B56D7C154", "target": "(-???-)Och, cicho! Takim krzykiem obudzisz coś większego od smoczątka." },
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_HAUTDLONG_000_070", "hash": "97EA3FEAAF979285", "target": "Co!? Ten szalik... kapelusz... Zaraz... Ehll Tou, to pani!?" },
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_EHLLTOU_000_071", "hash": "A457627FC01E0B9C", "target": "Ach, wiedziałam, że mnie poznasz! Należy się jednak wyjaśnienie...<br>Wzrost smoka kształtują siły wewnętrzne i zewnętrzne. Bywa czasem dość... gwałtowny, jak widzisz." },
     { "gameKey": "quest/038/SubCts651_03890#TEXT_SUBCTS651_03890_EHLLTOU_000_072", "hash": "F3D8DC8466D2FA03", "target": "Ostatnio czułam się dziwnie, ale teraz wiem, że to nowa ja próbowała się uwolnić. I oto jest, odrodzona smoczyca!" },

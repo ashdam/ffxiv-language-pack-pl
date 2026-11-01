@@ -56,7 +56,7 @@
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_CID_000_110", "hash": "3E9482B9960B371A", "target": "<split(<string(gstr1)>, ,1)>─dziękuję za zwrócenie mi moich drogich pomocników. Zdaje się, że mam u ciebie kolejny dług wdzięczności." },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_CID_000_111", "hash": "E625209A9FC482D4", "target": "W głowie wciąż mam wiele pytań, ale odpowiedzi mogą zaczekać─Minfilia i pozostali wciąż czekają na ratunek." },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_CID_000_120", "hash": "5C6E725452D4E7CB", "target": "No dobra, wy tam─Kuźnie Garlonda wracają do gry! Chodźmy i pokażmy imperialnym, gdzie ich miejsce!" },
-    { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_BIGGSWEDGE_000_130", "hash": "864060096025FF5B", "target": "Hurra!" },
+    { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_BIGGSWEDGE_000_130", "hash": "009B9841D42ADB9D", "target": "(-Biggs i Wedge-)Hurra!" },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_QIB_TODO001", "hash": "36747D0F2E75E524", "target": "Chroń Biggsa i pokonaj imperialne wojska!" },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_BIGGS_BATTLETALK_01", "hash": "26C035E3E17079C4", "target": "S-skąd wiedzieliście, gdzie mnie szukać?" },
     { "gameKey": "quest/009/GaiUsc408_00983#TEXT_GAIUSC408_00983_IMPERIALLEADER_GAIUSC408_BATTLETALK_02", "hash": "6AEDD4215E4D2ECB", "target": "Trzymać pozycje! Posiłki nadciągają!" },

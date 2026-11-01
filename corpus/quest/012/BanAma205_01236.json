@@ -18,12 +18,12 @@
     { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MOUNTAMALJAA_000_010", "hash": "738C6DBA259F2934", "target": "Możemy ruszać, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>? Mój drake jest do twoich usług. Nastrasz te nierozsądne Miqo'te, nim zgarnie je kolejny oddział, który akurat będzie tędy przechodził." },
     { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_NARUJIBOH_000_020", "hash": "154BCF52780F339B", "target": "Wyrusz na wierzchowcu od mistrza hodowli drake i odszukaj łowczynie Miqo'te. Jęzor ognia u ich stóp powinien wystarczyć, by popędziły do domu. Lepiej trochę przypalonego futra niż szaleństwo zniewolenia." },
     { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MOUNTAMALJAA_000_021", "hash": "25354DB3212457E3", "target": "Jeśli zechcesz zsiąść, drake wróci tutaj do mnie. Będzie czekała pod moją opieką, aż zechcesz kontynuować misję. A teraz idź i odbierz Płomiennym Kłom ich zdobycz." },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEA_000_030", "hash": "DF54E86E2AA966CC", "target": "Aj, aj, aj! Przeklęty drake! Wpakuję ci strzałę w gardło... następnym razem!" },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEB_000_040", "hash": "D086A27145E6FCA8", "target": "Ałł! Mój ogon! Przypalasz mój piękny ogon!" },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEC_000_050", "hash": "68B448E7AE2EE2EE", "target": "Uch, ten żar wypala mi oczy! Odejdź od nas! Precz!" },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTED_000_070", "hash": "A004C7DCED878857", "target": "Ach! A <italic(1)>to<italic(0)> kto, do licha!? Nunh się o tym dowie!" },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEE_000_080", "hash": "2402D7A074E8492D", "target": "Uch, co to ma być? Teraz dają zniewolonym niewolnikom wierzchowce drake!?" },
-    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEF_000_090", "hash": "AC460403D642C377", "target": "Aj, skąd się tu bierzesz!? Piaski pustyni są dość gorące i bez ognia drake!" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEA_000_030", "hash": "0BECC846DC750099", "target": "(-Wyprostowana łowczyni-)Aj, aj, aj! Przeklęty drake! Wpakuję ci strzałę w gardło... następnym razem!" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEB_000_040", "hash": "D9B43E6FE48D3A96", "target": "(-Słodko pachnąca łowczyni-)Ałł! Mój ogon! Przypalasz mój piękny ogon!" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEC_000_050", "hash": "68C56D6D13D002F1", "target": "(-Bystrooka łowczyni-)Uch, ten żar wypala mi oczy! Odejdź od nas! Precz!" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTED_000_070", "hash": "BD9DCD4C1CCA4ACA", "target": "(-Bystra łowczyni-)Ach! A <italic(1)>to<italic(0)> kto, do licha!? Nunh się o tym dowie!" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEE_000_080", "hash": "9610A46D4CDA0807", "target": "(-Łowczyni o szlachetnych rysach-)Uch, co to ma być? Teraz dają zniewolonym niewolnikom wierzchowce drake!?" },
+    { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_MIQOTEF_000_090", "hash": "1E0B571EC05E5BEE", "target": "(-Nerwowa łowczyni-)Aj, skąd się tu bierzesz!? Piaski pustyni są dość gorące i bez ognia drake!" },
     { "gameKey": "quest/012/BanAma205_01236#TEXT_BANAMA205_01236_NARUJIBOH_000_061", "hash": "220D74FFAFFB5815", "target": "Miqo'te wycofały się z piasków? To dobrze. Bezcelowe przelewanie krwi nie przybliży nas do celu. Dziękuję, <if(gnum4,szanowna sojuszniczko,szanowny sojuszniku)>." }
   ]
 }

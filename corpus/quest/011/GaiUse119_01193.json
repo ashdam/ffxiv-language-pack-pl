@@ -36,7 +36,7 @@
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ALPHINAUD_000_042", "hash": "2AEA27A87D30A709", "target": "Odtąd nie będziemy zależeć od żadnego państwa, lecz dumnie i otwarcie służyć wszystkim mieszkańcom Eorzei." },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ALPHINAUD_000_043", "hash": "999452CBBC6E4488", "target": "Nie oznacza to jednak zerwania więzi z Sojuszem Eorzejskim. Przeciwnie, Antecedentka i ja będziemy starali się je umocnić. Zapewniam was jednak, że nie pozwolimy, by względy polityczne wpływały na nasze decyzje." },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_MINFILIA_000_044", "hash": "070248D7B5E6DAC9", "target": "Nasza tożsamość i sprawa pozostają niezmienne. Jesteśmy Dziedzicami Siódmego Świtu, a naszym jedynym celem jest ochrona przyszłości Eorzei." },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ALL_000_045", "hash": "CAED6F980FA9EB39", "target": "Za Eorzeę!" },
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ALL_000_045", "hash": "BA3DEFD415C0C6F9", "target": "(-Dziedzice Siódmego Świtu-)Za Eorzeę!" },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_MINFILIA_000_046", "hash": "3D3211284B5AA123", "target": "Poświęć mi chwilę, <split(<string(gstr1)>, ,1)>. Chciałabym porozmawiać o Elidibusie─" },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_URIANGER_000_047", "hash": "1EC3B9B0EAA07E52", "target": "Proszę wybaczyć wtargnięcie, moja pani, lecz sprawa, która mnie sprowadza, nie cierpi zwłoki. Każda ma próba kontaktu z Uczniami Baldesiona spotkała się z milczeniem." },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_MINFILIA_000_048", "hash": "95AB996B91C2DB7E", "target": "Nikt nie odpowiada?" },
@@ -64,12 +64,12 @@
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_MINFILIA_000_070", "hash": "5235736E1B0E98F5", "target": "Wiem, że gdy nadejdzie pora, będziesz <if(gnum4,gotowa,gotowy)>. Przy odrobinie szczęścia nie stanie się to jednak jeszcze przez jakiś czas. Wróć do swoich spraw z moim błogosławieństwem. Jeśli coś się wydarzy, dowiesz się o tym." },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_MINFILIA_000_071", "hash": "0C4E5E026B5AF64D", "target": "Krile... gdzie jesteś?" },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_080", "hash": "D8A3ADC0FFC98C7A", "target": "<colortype(547)>Twojego wstawiennictwa nie przepowiedziano.<colortype(0)>" },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_081", "hash": "3277A057D9844380", "target": "<colortype(547)>Masz zastrzeżenia?<colortype(0)>" },
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_081", "hash": "F60A22DF0CA13F0A", "target": "(-Elidibus-)<colortype(547)>Masz zastrzeżenia?<colortype(0)>" },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_082", "hash": "F60A3C219068D847", "target": "<colortype(547)>Pytamy. Nasze plany są w toku, twoje zamiary niejasne.<colortype(0)>" },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_083", "hash": "E56DB8063EBA4B70", "target": "<colortype(547)>Przetrwali siódmy Ardor i teraz dar jest w nich silniejszy. Nie intryguje cię to?<colortype(0)>" },
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_083", "hash": "2C8932A3F81FAEF3", "target": "(-Elidibus-)<colortype(547)>Przetrwali siódmy Ardor i teraz dar jest w nich silniejszy. Nie intryguje cię to?<colortype(0)>" },
     { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_084", "hash": "F56B0C8510E114D7", "target": "<colortype(547)>...Nie, nie intryguje.<colortype(0)>" },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_085", "hash": "6403457895877F60", "target": "<colortype(547)>Służ wedle swej woli. Ja uczynię podobnie. Nie działamy w sprzecznych celach.<colortype(0)>" },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_086", "hash": "8846E47481BB8109", "target": "<colortype(547)>Mądrość Jego planu objawi się z czasem, gdy zasłona zostanie zdjęta z ich oczu...<colortype(0)>" },
-    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_087", "hash": "CE0F5B199F5D51DB", "target": "<colortype(547)>I wreszcie ujrzą.<colortype(0)>" }
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_085", "hash": "6CBE9F35E106B923", "target": "(-Elidibus-)<colortype(547)>Służ wedle swej woli. Ja uczynię podobnie. Nie działamy w sprzecznych celach.<colortype(0)>" },
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_086", "hash": "333F5BDFE457DAE0", "target": "(-Elidibus-)<colortype(547)>Mądrość Jego planu objawi się z czasem, gdy zasłona zostanie zdjęta z ich oczu...<colortype(0)>" },
+    { "gameKey": "quest/011/GaiUse119_01193#TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_087", "hash": "A0532933FAAA383D", "target": "(-Elidibus-)<colortype(547)>I wreszcie ujrzą.<colortype(0)>" }
   ]
 }

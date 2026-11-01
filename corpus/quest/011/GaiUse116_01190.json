@@ -41,7 +41,7 @@
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_KUPLOKOPP_101_027", "hash": "6F197C1CD1149A04", "target": "Uciekamy, kupopo! Uciekaaamy!" },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SYSTEM_000_028", "hash": "4B0E587AA4D8A448", "target": "Aby stanąć do walki z Dobrym Królem Moggle Mogiem XII, musisz pomyślnie odprowadzić Kuplo Koppa do zaklętego wejścia. Wróć na Pomost Sweetbloom i porozmawiaj z Kuplo Koppem, by zacząć od nowa." },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SYSTEM_100_028", "hash": "FD2DD3F2320E80DD", "target": "Kuplo Kopp zniknął ci z oczu. Zawróć po własnych śladach, odszukaj go i bezpiecznie odprowadź do zaklętego wejścia." },
-    { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_KUPLOKOPP_000_028", "hash": "3501C6D814725E39", "target": "Jesteśmy na miejscu, kupo! Nie widzę już żadnych bestii, a ty?" },
+    { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_KUPLOKOPP_000_028", "hash": "B94D4720BE9705D7", "target": "(-Kuplo Kopp-)Jesteśmy na miejscu, kupo! Nie widzę już żadnych bestii, a ty?" },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SYSTEM_001_028", "hash": "1E22B4E44643F2E2", "target": "Cel osiągnięty. Możesz teraz zakończyć eskortę, jeśli chcesz." },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SYSTEM_002_028", "hash": "F77E64306438D874", "target": "Jeśli to zrobisz, członkowie drużyny, którzy nie dotarli z tobą do celu, będą mieli zadanie zaliczone jako nieudane." },
     { "gameKey": "quest/011/GaiUse116_01190#TEXT_GAIUSE116_01190_SYSTEM_003_028", "hash": "C442EDBBFDD08994", "target": "Zanim zakończysz zadanie, upewnij się, gdzie są członkowie twojej drużyny." },
