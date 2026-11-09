@@ -19,6 +19,8 @@
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_004", "hash": "DB2BAEA2522F471E", "target": "Te robaki żerują na drobniejszej zwierzynie Sagolii. Ja wziąłbym na przynętę świeże truchło angler." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_005", "hash": "92EA06E172731A6F", "target": "Na wschodzie jest miejsce, gdzie roi się od angler. Zaznaczę ci je na mapie, a przy tym miejsce, gdzie najczęściej widuje się Wellwick worm." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_006", "hash": "0AA4CF4070E937DC", "target": "Ostrzegam─krew wpędzi robaka w szał żeru. Jeśli zabraknie ci umiejętności, pożre i ciebie." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_000_010", "hash": "D6DFF18CA37719A7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_000_020", "hash": "23C529E3D1DFE869", "target": "" },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_030", "hash": "C63BAC89C57D868F", "target": "Dobrze wyglądasz. No i co, jest zdobycz?" },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_035", "hash": "96E8CFD870EF8C04", "target": "Jako łowca dorównujesz naszym najlepszym. Chwała ci za to, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_036", "hash": "C6E88059D3A194D1", "target": "Mięso trzeba porządnie uwędzić, nim wyślę je Wheiskaetowi. Nie martw się─masz moje słowo, że dostanie je na czas przed ucztą." },

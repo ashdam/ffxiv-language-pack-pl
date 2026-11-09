@@ -1390,6 +1390,9 @@
     { "gameKey": "Balloon#2510", "hash": "8F3104D625F36207", "target": "Pssszahaha, to jedno z młodych Novva!" },
     { "gameKey": "Balloon#2511", "hash": "A0C79E79DA5E278A", "target": "Psssz... Psssz..." },
     { "gameKey": "Balloon#2512", "hash": "F3394E2D46E86CB1", "target": "Sól, saletra, co to w ogóle za różnica?" },
+    { "gameKey": "Balloon#2513", "hash": "7DC396AF6A80E046", "target": "" },
+    { "gameKey": "Balloon#2514", "hash": "D04F7B58FD5035FA", "target": "" },
+    { "gameKey": "Balloon#2515", "hash": "54B2367718E7693A", "target": "" },
     { "gameKey": "Balloon#2516", "hash": "88B705656518B86A", "target": "Krew i grom,<br>niech Furia mnie strzeże!" },
     { "gameKey": "Balloon#2517", "hash": "7414E24805C3F796", "target": "Panie, gotowość<br>do walki, panie!" },
     { "gameKey": "Balloon#2518", "hash": "5F974053B40D2DAC", "target": "Prędzej mnie wyruchają<br>do krwi, niż ustąpię! " },
@@ -6828,6 +6831,7 @@
     { "gameKey": "Balloon#8015", "hash": "755AC686761E8044", "target": "...Lepiej się pośpieszyć." },
     { "gameKey": "Balloon#8016", "hash": "4E10DA2E30487BBA", "target": "Czuję na plecach czyjś wzrok..." },
     { "gameKey": "Balloon#8017", "hash": "8A9450D0B4C8C1B2", "target": "To tylko moja wyobraźnia." },
+    { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87", "target": "Już prawie. Miejmy to z głowy!" },
     { "gameKey": "Balloon#8019", "hash": "3AB2F41FB6F3F57C", "target": "Tu powinno być bezpiecznie." },
     { "gameKey": "Balloon#8020", "hash": "AA263534347B4726", "target": "Towary na miejscu. Teraz muszę tylko odebrać..." },
     { "gameKey": "Balloon#8021", "hash": "8C775889C064B452", "target": "Nie wiem, czemu za mną idziesz, ale nie mam z tobą nic do załatwienia." },
@@ -9318,7 +9322,6 @@
     { "gameKey": "Balloon#10560", "hash": "8436D1FB48969FD3", "target": "Ciekawe, jaka ryba przetrwa podróż do Nidhany..." },
     { "gameKey": "Balloon#10561", "hash": "E1B8C08B94952E36", "target": "Ta machina bardzo pomoże w naszych działaniach na tej gwieździe..." },
     { "gameKey": "Balloon#10562", "hash": "717E329EC0211081", "target": "Wiem, że <italic(1)>mówiliśmy<italic(0)> o urlopie, ale to idealne warunki do pomiaru odporności na gorąco... Tylko <italic(1)>kilka<italic(0)> prób!" },
-    { "gameKey": "Balloon#10563", "hash": "DACF50814CC8DC89", "target": "Jaki piękny utwór. Wybierzmy go, kweh..." },
-    { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87", "target": "Już prawie. Miejmy to z głowy!" }
+    { "gameKey": "Balloon#10563", "hash": "DACF50814CC8DC89", "target": "Jaki piękny utwór. Wybierzmy go, kweh..." }
   ]
 }

@@ -10,6 +10,9 @@
     { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "Zdać raport zleceniodawcy o imieniu Auphiliot" },
     { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "Posłuchało się mojej rady i zaprzęgło talenty do roboty w gospodzie, co? To mi się podoba u <if(gnum4,takiej krzepkiej dziewuchy,takiego krzepkiego młodzika)>! No, zakasaj rękawy, bo mam dla ciebie następną robotę." },
     { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "Ostatnio żłopałem wyborne piwko Buscarrona i zasłyszałem, że Qiqirn chomikują tu truciznę. Nie wiem, co knują, ale nic dobrego. Weź te dzbany zapalające i wysadź w diabły całe zapasy!" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SYSTEM_000_000", "hash": "19CAC598DE99AEB6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SYSTEM_000_001", "hash": "C30DEF488D4824FA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SYSTEM_000_002", "hash": "B4018703F60327D2", "target": "" },
     { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "Mówisz, że po truciźnie ani śladu? <if(gnum4,Dobra dziewucha,Dobry chłopak)>! Następny kufel stawiam ja." },
     { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "Gdyby to ode <italic(1)>mnie<italic(0)> zależało, powywieszałbym tych Qiqirn po kolei za szczurze uszy, ale stary Buscarron nie pozwala. Mówi, że każda bitka, której dziś unikniemy, oszczędza nam kolejnej w przyszłości. I─prawdę mówiąc─zaczynam przyznawać mu rację." }
   ]

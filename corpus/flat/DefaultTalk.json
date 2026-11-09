@@ -2302,6 +2302,7 @@
     { "gameKey": "DefaultTalk#591551.20", "hash": "8D565BD516DB9347", "target": "Płomień to nie paliwo, dzięki Kupcom. Nieśmiertelne Płomienie nie zależą od jednego żołnierza─nawet Raubahna Aldynna. Czasem ogień przygasa, ale dopóki są chętni do służby, będzie wieczny." },
     { "gameKey": "DefaultTalk#591552.20", "hash": "8189CBA42096923F", "target": "Poeci mogą sobie to upiększać do woli, ale życie bez grosza to żadne życie." },
     { "gameKey": "DefaultTalk#591553.20", "hash": "E6E5CFBDBE8143D1", "target": "Ekwipunek w dawnym stylu stracił ostatnio na popularności. Choć wciąż nim handlujemy, na życzenie Roweny powstaje już tylko na zamówienie. Nie pozwoli, by cenne miejsce na półkach zajmowały towary, które się nie sprzedają." },
+    { "gameKey": "DefaultTalk#591553.21", "hash": "DFFE2A5ACD8016B0", "target": "" },
     { "gameKey": "DefaultTalk#591554.20", "hash": "27AB536437F18EFE", "target": "Wybacz, ale mam pełne ręce roboty, pomagając Eginolfowi przy zamówieniach. Możesz stać i gapić się na półki do woli, ale jeśli trzeba czegoś więcej, niestety nie pomogę." },
     { "gameKey": "DefaultTalk#591555.20", "hash": "6239D99739354E5B", "target": "<if(gnum4,Pogromczyni,Pogromca)> Tytana! Pan Gegeruju mówił mi, że ta uczta przyciągnie znamienite osobistości z całej krainy, ale nie spodziewałem się zobaczyć wśród nich ciebie." },
     { "gameKey": "DefaultTalk#591555.21", "hash": "E6B0E4BE15E453A9", "target": "Pokonywanie bożków, rozwiązywanie zagadek... Z pewnością nie pozwalasz sobie na nudę." },

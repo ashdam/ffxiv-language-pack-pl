@@ -16,6 +16,7 @@
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_03", "hash": "6172FB2B0568A327", "target": "Porozmawiać z Zahrmerlem na Nabrzeżu Candlekeep" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_04", "hash": "805A0435B199C495", "target": "Prowadzić obserwację z punktu widokowego" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_05", "hash": "D314594A3D6EAF78", "target": "Porozmawiać z Oborem w magazynie w dokach" },
+    { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_15", "hash": "FFE45BA4B5C3046A", "target": "" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_000", "hash": "4950A459BA497C87", "target": "Ach, <split(<string(gstr1)>, ,1)>. Cieszy mnie twój powrót. Obawiałem się, że nie zdołam należycie się z tobą pożegnać." },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_001", "hash": "AC101623FE5AF201", "target": "Tak, opuszczamy tę krainę. Moja misja dobiegła końca, a rany Tsubame niemal się zagoiły. Tradycja nakazuje wrócić do starszyzny z wieściami o powodzeniu." },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_002", "hash": "33F2A7FE4644B5AA", "target": "Ostatnie słowa Redbeaka? Nie będę kłamał─początkowo mocno zaprzątały mi myśli. Ale jestem shinobi─przybyłem tu wypełnić zadanie, nie z ciekawości czy złości." },

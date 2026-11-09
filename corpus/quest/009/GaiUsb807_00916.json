@@ -8,6 +8,7 @@
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_03", "hash": "AB474C197B930B8A", "target": "Księga jest najwyraźniej bardzo ceniona przez niewiernych i zakazana przez Świętą Stolicę. Ser Eugennoix wskazuje, że Drawianie i niewierni wspólnymi siłami starają się uniemożliwić odbudowę Stalowej Strażnicy." },
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_00", "hash": "8F76A2FFE257F78D", "target": "Zbadać Stalową Strażnicę" },
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_01", "hash": "82EA1D0BC464D479", "target": "Przekazać almanach rycerzowi Eugennoix" },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_16", "hash": "F5CF5299E997AE35", "target": "" },
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_000", "hash": "AA12F858E440CF97", "target": "Mam z pewnego źródła wiadomość, że w okolicy Stalowej Strażnicy znów widziano smoki." },
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_001", "hash": "75BA266FF9C63758", "target": "Nie byłoby jednak rozsądnie wysyłać tam rycerzy, zważywszy na... na ten <italic(1)>całkowicie<italic(0)> haniebny zamęt wokół lorda Francela. Czy zechce <if(gnum4,pani,pan)> zbadać Stalową Strażnicę w naszym imieniu?" },
     { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_010", "hash": "0622B0D824DE2493", "target": "Ma <if(gnum4,pani,pan)> ponure wieści, widać to wyraźnie na <if(gnum4,pani,pana)> twarzy. Proszę mówić." },

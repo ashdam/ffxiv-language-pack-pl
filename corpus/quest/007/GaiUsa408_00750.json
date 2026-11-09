@@ -11,6 +11,7 @@
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_000", "hash": "DAEA0083A282FABB", "target": "Zakon Nald'thala wysłał nas, by gruntownie zbadać te ruiny. Ledwie zaczęliśmy, a już wiadomo, że kryją niezliczone, nieopisane tajemnice z czasów Belah'dii." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_001", "hash": "281C19BC1E27FA85", "target": "Tajemnice, które pozostaną ukryte na zawsze, jeśli nikt nie zajmie się tymi przeklętymi myszołowami! Odkąd zaczęły gniazdować za rozpadliną, więcej czasu spędzamy na wycieraniu ich odchodów z ksiąg niż na jakichkolwiek badaniach." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_002", "hash": "1882F638D8A5DEF0", "target": "Nie proszę o wytępienie całego gatunku. Myszołów to mądry ptak─proszę zabić jakieś cztery, a podejrzewam, że reszta stada znajdzie sobie inne gniazdowisko." },
+    { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_DUMMYTODO_000_010", "hash": "D970951A8CF831C7", "target": "" },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_020", "hash": "9EB7C3E53DF48AC4", "target": "Wreszcie koniec z dzikim dziobaniem i ptasimi odchodami! Nie wiem, jak dziękować. Kiedy dokonam kolejnego historycznego odkrycia, będzie <if(gnum4,pani mogła być dumna,pan mógł być dumny)> ze swojego udziału!" }
   ]
 }

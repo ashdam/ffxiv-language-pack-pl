@@ -12,6 +12,7 @@
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_01", "hash": "D7DC86B24145F89E", "target": "Wyjąć butelki grzańca z gorącego źródła" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_02", "hash": "6E9BEC9B5F30A1F5", "target": "Dać grzaniec żołnierzom wracającym do zdrowia" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_03", "hash": "604C860694566795", "target": "Zdać sprawę A'rhunlice" },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_23", "hash": "C121AB80660498C1", "target": "" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Podajemy wino korzenne z Wineport rannym na wojnie. Przywraca równowagę cielesnych humorów i dodaje sił sercom znużonym gorączką." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_001", "hash": "AC3FC5BC234595DD", "target": "Może zechce <if(gnum4,pani,pan)> zrobić coś pożytecznego? Przygotowałam wcześniej wino korzenne i trzeba je podgrzać na grzaniec. Czy zanurzy <if(gnum4,pani,pan)> te butelki w tamtym gorącym źródle, a potem poda je tym, którzy tak bardzo ich potrzebują?" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_000_020", "hash": "177DE7C0B77F0D5E", "target": "Użyć butelki wina, aby otrzymać 4 porcje grzańca" },

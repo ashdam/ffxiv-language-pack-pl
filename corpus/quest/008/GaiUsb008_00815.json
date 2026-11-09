@@ -20,6 +20,7 @@
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_007", "hash": "ECD3815C510188D0", "target": "Tak, wkrótce będziemy też potrzebować beczek szerszeniówki, żeby osłabić i odstraszyć szkodniki." },
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_100_008", "hash": "B442EA8AC961849A", "target": "Gdyby jednak to robactwo pojawiło się przy grzybach, zanim zdążymy zastosować środki zapobiegawcze, musielibyśmy natychmiast przerzucić tam patrole..." },
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_008", "hash": "65B63A5C228E7CE5", "target": "Oczywiście powiadomi mnie <if(gnum4,pani,pan)>, jeśli natknie się na agaric flies w okolicy Dolnych Ścieżek, prawda?" },
+    { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_010", "hash": "ED72425236601155", "target": "" },
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_021", "hash": "81C570AB412F768E", "target": "Modlę się, żeby tegoroczny sezon na pędzelki chochlika zaczął się późno..." },
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_022", "hash": "9CAAF417A62E26D5", "target": "Ojej, czy to pędzelek chochlika? I mówi <if(gnum4,pani,pan)>, że cały rój agaric flies został wybity!?" },
     { "gameKey": "quest/008/GaiUsb008_00815#TEXT_GAIUSB008_00815_LANDENEL_000_023", "hash": "56FA752DF967F787", "target": "Na cycki Matrony, nie możemy czekać na posiłki! Musimy coś zrobić!" },
