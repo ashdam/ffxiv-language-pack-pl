@@ -14,6 +14,10 @@
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_DEIDRA_000_001", "hash": "F455D01D72D8EAD7", "target": "Stary Fawkes w sadzie na północy ma w tym roku obfite zbiory. Znając go, z pewnością będzie wdzięczny za pomoc." },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_010", "hash": "82C38195AB153536", "target": "Co sprowadza <if(gnum4,poszukiwaczkę,poszukiwacza)> przygód do mojego skromnego sadu? Dziś na celowniku jabłka duszkowe zamiast zwierzaków? No, ja za to jestem ogromnie wdzięczny!" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_01", "hash": "25E70EF8D217046E", "target": "Te stare kości nie nadają się już do wspinania jak dawniej. Byłbym wdzięczny za zebranie dla mnie kilku jabłek. Tylko proszę sprawdzić, czy w środku nie siedzą robale. He, he!" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_003", "hash": "4737380AFAFFF105", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_004", "hash": "F00AEE7D68E3EFC0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_005", "hash": "766CD0E4EEC12050", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_006", "hash": "325800689C252C70", "target": "" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_020", "hash": "2E22784018BAE0AB", "target": "Już z powrotem? Zobaczmy, co tam jest w koszyku." },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_030", "hash": "A776EEA4CBDC1BDC", "target": "A niech mnie─na sam widok tych zbiorów ślinka mi cieknie! Widać oko do jabłek. Mam <if(gnum4,syna,córkę)> mniej więcej w <if(gnum4,pani,pana)> wieku. Może warto tu osiąść, kiedy znudzi się pogoń za chwałą?" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_POP_MESSAGE_000", "hash": "EE8A17A7C8D5B7D1", "target": "Wyłania się wijąca masa!" }

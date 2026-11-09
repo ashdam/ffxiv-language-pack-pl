@@ -6138,6 +6138,8 @@
     { "gameKey": "NpcYell#6495", "hash": "F1287E891E42825F", "target": "Zapłoń,<br>święty księżycu!" },
     { "gameKey": "NpcYell#6496", "hash": "928825E6ADECEB2B", "target": "Z wysokości zstępuję,<br>by kroczyć żelazną ścieżką!" },
     { "gameKey": "NpcYell#6497", "hash": "CF6370DD035F0697", "target": "Z wysokości zstępuję,<br>by wezwać święty księżyc!" },
+    { "gameKey": "NpcYell#6498", "hash": "D69EC6C156FD8AEB", "target": "" },
+    { "gameKey": "NpcYell#6499", "hash": "B48925A7CE84D5AF", "target": "" },
     { "gameKey": "NpcYell#6500", "hash": "3013CD29F2543EEC", "target": "Ulotne światło!<br>Pośród deszczu gwiazd<br>wywyższ czerwony księżyc!" },
     { "gameKey": "NpcYell#6501", "hash": "97AF1784FAFFAEFE", "target": "Ulotne światło!<br>Pod czerwonym księżycem<br>spal ziemię!" },
     { "gameKey": "NpcYell#6502", "hash": "9C60342564ACD4EC", "target": "Z wysokości zstępuję,<br>by przynieść księżyc i gwiazdy!" },

@@ -10,6 +10,7 @@
     { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_TODO_01", "hash": "F3BE72DCA179C401", "target": "Zdać sprawę Etgarowi" },
     { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_000", "hash": "B6ED5AA7AEFF3783", "target": "Witam! Proszę mnie wysłuchać, bo inaczej mistrz Byrglaent zażąda wyjaśnień! To znaczy, po prostu sam wszystko opowie, jeśli nie zechce <if(gnum4,pani,pan)> usłyszeć tego ode <italic(1)>mnie<italic(0)>." },
     { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_001", "hash": "EE63367FFDDCE352", "target": "Z pewnością widuje <if(gnum4,pani,pan)> te paskudne bestie grass raptor, które kręcą się za bramami. Cóż, zasmakowały w pnączach, na których hodujemy nasze wiśnie brandewine. Nie możemy na to pozwolić. <italic(1)>Trzeba<italic(0)> zabić te okropne stworzenia!" },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_DUMMY_000_010", "hash": "334FB8C15FE0343E", "target": "" },
     { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_020", "hash": "9B98F5B6FFC654BE", "target": "Ach, wraca <if(gnum4,zwycięska bohaterka,zwycięski bohater)>! I to tak szybko. Siła dorównuje uprzejmości, a do tego ma <if(gnum4,pani uroczo zarysowane ramiona,pan cudownie smukłą talię)>. Na pewno będę pamiętał, do kogo zwrócić się po pomoc w razie dalszych kłopotów." }
   ]
 }

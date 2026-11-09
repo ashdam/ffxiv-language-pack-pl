@@ -46,6 +46,7 @@
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_057", "hash": "E4EE20112D0795BA", "target": "Twój plugawy ród wiecznie pożąda błogosławieństwa ziemi i morduje moje dzieci setkami─a wszystko w służbie chciwości. Takie grzechy są ponad wybaczenie." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_058", "hash": "6542300F6C4721F9", "target": "Ach... alem nie pierwszy, kto zaznał twego buntu. <if(gnum4,Toś ty powaliła Ifryta,Toś ty powalił Ifryta)>." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_059", "hash": "739CDCE7E94BA07E", "target": "Bezbożny naziemcze! Twoje niezliczone herezje nie ujdą bezkarnie! Spadnie na ciebie straszliwa zemsta!" },
+    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_DUMMY_000_020", "hash": "758609568E5553DE", "target": "" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_KOBOLDS_000_070", "hash": "8B86A15929A4E857", "target": "(-Koboldy-)Władca Skał, Wielki Ojciec Tytan poległ!" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_ZADA_000_071", "hash": "1E0898EDC6C77D57", "target": "Zbrodnie naziemców nigdy nie zostaną wybaczone! Nigdy zapomniane! Nie, nie, nigdy!" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_ZADA_000_072", "hash": "726F8FE2ADF4ADA5", "target": "To twoi pobratymcy złamali przymierze! My działaliśmy tylko w obronie naszych ziem!" },

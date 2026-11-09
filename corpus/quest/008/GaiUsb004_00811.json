@@ -19,6 +19,8 @@
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_TRACHTOUM_000_008", "hash": "A818A818C7BD8336", "target": "Aha. No tak... widzicie, Tidus to było takie nasze przezwisko na niego." },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_NPC1_000_009", "hash": "02A707728E99A60A", "target": "To największa kupa łajna Sahagin, jaką w życiu słyszałem.<br>Obaj na zewnątrz! Prawdę poznamy po lominsańsku!" },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_NPC1_000_010", "hash": "FD9300BE19B64CAC", "target": "Trachtoum─jeśli nie ubiłeś tego goobbue, to możesz uważać umowę za zerwaną!" },
+    { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_NPC_000_010", "hash": "D9806B9545187CB8", "target": "" },
+    { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_NPC_000_011", "hash": "CA9101E562AC965D", "target": "" },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_TRACHTOUM_000_012", "hash": "443BBEEDB17F7C9E", "target": "Dobra, dobra, przyznaję się! Skłamałem, że byłem w Kompanii Bohaterów. Ale błagam was, szefie─nie zwalniajcie mnie! Dostałem nauczkę, słowo!" },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_NPC_000_013", "hash": "5FFF4FA86B2D8267", "target": "Oszczędź sobie beczenia, Trachtoum. \\<wzdycha> Bogowie, powinienem był się domyślić..." },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_TRACHTOUM_000_014", "hash": "23DEC91B283D1E57", "target": "Litości, proszę! Nie chciałem was oszukać, przysięgam! Po prostu wszędzie, gdzie prosiłem o robotę, mnie odprawiali, no i spanikowałem!" },

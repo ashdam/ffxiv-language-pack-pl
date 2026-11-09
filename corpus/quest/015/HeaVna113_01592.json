@@ -7,6 +7,7 @@
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_02", "hash": "6C03B75CA153E722", "target": "Ser Marielle nazywa Vanu ludźmi-ptakami, lecz zastrzega, że zupełnie nie przypominają Ixal. Oznacza na twojej mapie kilka miejsc i prosi o sprawdzenie, czy kręcą się tam Vanu." },
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_03", "hash": "C7836F0A9C9EB01D", "target": "Podczas patrolu dostrzegasz kilku Vanu i zmuszasz ich do odwrotu. Złóż ser Marielle raport z wydarzeń." },
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_04", "hash": "B679D53830C4858B", "target": "Kolejny atak Vanu udaremniony. Ser Marielle jest nieco zawiedziona, że patrol nie przebiegł spokojnie, lecz cieszy ją, iż bez trudu rozprawiasz się z przeciwnikami." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_16", "hash": "194867C90A0CAA7E", "target": "" },
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_00", "hash": "2CA455FB4C6F30CB", "target": "Porozmawiać z Marielle" },
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_01", "hash": "9BBAA1B69D8DB115", "target": "Wypatrywać Vanu" },
     { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_02", "hash": "86FEFA07CED8ECC7", "target": "Złożyć meldunek Marielle" },
