@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog606_02318",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_SEQ_00", "hash": "A9E2076F8A3B5D82", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mogek najwyraźniej nad czymś się zastanawia." },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_SEQ_01", "hash": "96CB1BB4CA3FB001", "target": "Mogek martwi się o Mogwona, kierującego odbudową Asah, który z frustracji jest o krok od wyrwania sobie futra. Prosi cię o udanie się tam i zapytanie, co trapi biednego moogle'a.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

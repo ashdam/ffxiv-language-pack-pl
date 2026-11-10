@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/JobRel501_02397",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/JobRel501_02397#TEXT_JOBREL501_02397_SEQ_00", "hash": "72FC17A6F27FBDD6", "target": "Węzeł przetwórczy unosi się bezczynnie, czekając na polecenia." },
     { "gameKey": "quest/023/JobRel501_02397#TEXT_JOBREL501_02397_SEQ_01", "hash": "5C86DC4A7B32F8EE", "target": "Ardashir pokrótce objaśnia sposób stworzenia nowego kamienia duszy dla animy, powierzając ci zdobycie Pneumite─mało znanego katalizatora niezbędnego w tym procesie. Choć niechętnie to przyznaje, nie wie, gdzie można go kupić ani jak go wytworzyć. Prosi cię o wykorzystanie wszelkich dostępnych środków, by wytropić ten nieuchwytny składnik." },

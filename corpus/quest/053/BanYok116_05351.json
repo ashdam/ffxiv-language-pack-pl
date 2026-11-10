@@ -1,6 +1,6 @@
 {
   "conversation": "quest/053/BanYok116_05351",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_SEQ_00", "hash": "46765866EDCF1748", "target": "Vuyargur ma dla ciebie zadanie, którego nie może powierzyć nikomu innemu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_TODO_00", "hash": "F73AE0598B64841F", "target": "Przekazać zapłatę dla klanu Chirwagur hojnemu Chirwagurowi w Ukojeniu" },

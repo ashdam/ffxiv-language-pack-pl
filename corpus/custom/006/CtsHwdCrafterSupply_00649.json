@@ -1,6 +1,6 @@
 {
   "conversation": "custom/006/CtsHwdCrafterSupply_00649",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/006/CtsHwdCrafterSupply_00649#TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_000_000", "hash": "A3F37935DA3EC51F", "target": "<if(gnum4,P-Pani,P-Panie)> <split(<string(gstr1)>, ,1)>! Czy przybywa <if(gnum4,pani,pan)> na inspekcję odbudowy? Tak czy inaczej, to dla nas zaszczyt gościć <if(gnum4,panią,pana)>!" },
     { "gameKey": "custom/006/CtsHwdCrafterSupply_00649#TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_010_000", "hash": "F63F994F33E44A74", "target": "Ach, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,1)>! Główny nadzorca wspomniał, że nam <if(gnum4,pani,pan)> pomoże. Z przyjemnością wyjaśnię, na czym polega praca!" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/FesGsc501_04054",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/FesGsc501_04054#TEXT_FESGSC501_04054_SEQ_00", "hash": "606ECE6FC7F099CD", "target": "Ollier potrzebuje pomocnej dłoni.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/040/FesGsc501_04054#TEXT_FESGSC501_04054_SEQ_01", "hash": "BC2D46074E0A7E80", "target": "Ollier opowiada ci o swoim kłopocie. Według pracownika Gold Saucer doszło do kradzieży, a jednego z jego najbliższych przyjaciół i współpracowników niesłusznie uznano za głównego podejrzanego. Przejęcie jego losem skłania cię do towarzyszenia mu do Salonu Manderville, gdzie wyjaśni ci szczegóły.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie The Lodestone." },

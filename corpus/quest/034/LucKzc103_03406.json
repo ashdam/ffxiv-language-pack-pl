@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzc103_03406",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzc103_03406#TEXT_LUCKZC103_03406_SEQ_00", "hash": "81D111D953511728", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Ul Thon potrzebuje jeszcze innego sposobu na zdobycie popularności." },
     { "gameKey": "quest/034/LucKzc103_03406#TEXT_LUCKZC103_03406_SEQ_01", "hash": "A55BFE2F5408068F", "target": "Ul Thon wciąż nie zamierza porzucać marzeń o popularności i ponownie szuka u ciebie rady. Po wysłuchaniu twoich słów pixie kiwa z namysłem głową i postanawia sprawić radość innym pixie, obdarowując je kwiatami. Twoim zadaniem będzie zerwanie barwnych kwiatów rosnących w Timh Gyeus.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

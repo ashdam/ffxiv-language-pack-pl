@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobMch450_01701",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobMch450_01701#TEXT_JOBMCH450_01701_SEQ_00", "hash": "05B6B88A2590C64D", "target": "Stephanivien chce omówić strategię na nadchodzący turniej." },
     { "gameKey": "quest/017/JobMch450_01701#TEXT_JOBMCH450_01701_SEQ_01", "hash": "BA13496358C91A88", "target": "Stephanivien prosi, by zaczekać, aż wyjaśni szczegóły nadchodzących zawodów. Ponieważ od wyniku zależy przychylność Świętej Stolicy, rywalizacja zapowiada się zażarcie. Główny mechanik wspomina o kilku strategiach, które chciałby przećwiczyć. Zostań i porozmawiaj ze Stephanivienem, podczas gdy Rostnsthal i Joye przygotują trening na Krwawym Wybrzeżu." },

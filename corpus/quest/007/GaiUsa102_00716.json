@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa102_00716",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa102_00716#TEXT_GAIUSA102_00716_SEQ_00", "hash": "426629C7EE42ADE0", "target": "Blaisette niepokoi się tym, co zobaczyła." },
     { "gameKey": "quest/007/GaiUsa102_00716#TEXT_GAIUSA102_00716_SEQ_01", "hash": "D88C9DDDA24C2422", "target": "Blaisette przysięga, że nocą widziała dziecko bawiące się na dachu chaty. Zbadaj to miejsce, by mogła odetchnąć z ulgą." },

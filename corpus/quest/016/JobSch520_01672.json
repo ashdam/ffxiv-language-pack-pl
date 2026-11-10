@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobSch520_01672",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobSch520_01672#TEXT_JOBSCH520_01672_SEQ_00", "hash": "23D7F6648190048A", "target": "Surito Carito czeka na ciebie." },
     { "gameKey": "quest/016/JobSch520_01672#TEXT_JOBSCH520_01672_SEQ_01", "hash": "261E88AB8BD6E248", "target": "Surito Carito wyjawia, że wraz z Alką Zolką ustalił położenie głównego kamienia pieczętującego, który pozwoli ponownie uśpić chore tonberry. Alka Zolka już wyruszył szukać go w ruinach na wschodzie. Pradawni strażnicy skarbów Nym mogą jednak zagrażać twojemu przyjacielowi maruderowi. Udaj się tam i zadbaj o jego bezpieczeństwo." },

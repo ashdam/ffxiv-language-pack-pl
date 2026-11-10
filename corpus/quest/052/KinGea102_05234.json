@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/KinGea102_05234",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/KinGea102_05234#TEXT_KINGEA102_05234_SEQ_00", "hash": "8E00FDC948A3E0AC", "target": "Prishe jest prawie na pewno chyba pewna, że stoicie w Jeuno." },
     { "gameKey": "quest/052/KinGea102_05234#TEXT_KINGEA102_05234_SEQ_01", "hash": "919EDD1999EDED41", "target": "Prishe najwyraźniej znów jest sobą, ale nie pamięta waszego wcześniejszego starcia ani tego, kto sprowadził ją do Jeuno. Wobec braku wskazówek, jak i dlaczego się tu znaleźliście, proponuje rozmowę z nielicznymi mieszkańcami błąkającymi się po mieście.<br><br>※Jeśli opuścisz Lower Jeuno, możesz wrócić przez portal w Zejściu Gok Draak." },

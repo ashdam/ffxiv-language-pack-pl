@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobDrg580_01694",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobDrg580_01694#TEXT_JOBDRG580_01694_SEQ_00", "hash": "201B7EB2AD474581", "target": "Ser Alberic zdobył informacje o poszukiwanych heretykach." },
     { "gameKey": "quest/016/JobDrg580_01694#TEXT_JOBDRG580_01694_SEQ_01", "hash": "0CBA21A647C56A9A", "target": "Ser Alberic poznał tożsamość heretyków. Zwą się Nosicielami Krwi i zawarli pakt z Graoully, dający im wielkie zapasy smoczej krwi. To czyni ich niezwykle groźnymi. Według informatora widziano ich ostatnio w Lesie Chocobo. Jeśli Alberic słusznie przypuszcza, że Heustienne chce odzyskać lancę Peregrine, na pewno ruszy za nimi. To szansa na ponowne spotkanie. Udaj się do rejonu The Dravanian Forelands i dołącz do ser Alberica w Tailfeather." },

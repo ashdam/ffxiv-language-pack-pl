@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/CtsErkEureka1SpWeapon_00450",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsErkEureka1SpWeapon_00450#TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_000", "hash": "F9DD48C5C7BB6308", "target": "Już się tu <if(gnum4,zadomowiłaś,zadomowiłeś)>? To dobrze dla ciebie. Ja najchętniej wsiadłbym na pierwszą łódź do Eorzei, ale nie ma co wzdychać do wolności, która prędko nie nadejdzie." },
     { "gameKey": "custom/004/CtsErkEureka1SpWeapon_00450#TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_001", "hash": "2547A4885F667BA0", "target": "Ten dług chyba jeszcze długo będzie mnie tu trzymał na łańcuchu. Dobra, masz ten protean crystal, na który czekam? Świetnie." },

@@ -1,6 +1,6 @@
 {
   "sheet": "HWDAnnounce",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "HWDAnnounce#2", "hash": "D6B71DCDCD21FBC7", "target": "Uprzejmie informujemy, że zgromadzono wystarczające zapasy, więc przystąpimy do wspólnych prac. Harmonogram można sprawdzić na tablicy budowniczych niebios." },
     { "gameKey": "HWDAnnounce#3", "hash": "BFFA4CD9409389CE", "target": "Podczas najbliższej sesji planujemy ukończyć pierwszy etap prac. Jeśli jeszcze tego nie zrobiliście, sprawdźcie szczegóły na tablicy budowniczych niebios." },

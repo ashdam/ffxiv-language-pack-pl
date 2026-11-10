@@ -1,6 +1,6 @@
 {
   "conversation": "custom/009/CtsHnt70RiskyMobHeritageFound_00902",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/009/CtsHnt70RiskyMobHeritageFound_00902#TEXT_CTSHNT70RISKYMOBHERITAGEFOUND_00902_LOANYINE_000_001", "hash": "35279980C4F7DA8E", "target": "Nie radzę spacerować po okolicy. Jeśli nie dopadnie cię piorun, zrobią to bestie." },
     { "gameKey": "custom/009/CtsHnt70RiskyMobHeritageFound_00902#TEXT_CTSHNT70RISKYMOBHERITAGEFOUND_00902_LOANYINE_000_002", "hash": "2CECF24361C3FFEB", "target": "Jak idą łowy, <split(<string(gstr1)>, ,1)>? Jeśli chcesz zmierzyć się z miejscową fauną, mogę powiedzieć o niej to i owo." },

@@ -1,6 +1,6 @@
 {
   "conversation": "warp/WarpInnKugane",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "warp/WarpInnKugane#TEXT_WARPINNKUGANE_USHITORA_000_1", "hash": "D0863ADB9D59A64E", "target": "<if(gnum4,Szanowna podróżniczko,Szanowny podróżniku)>, witam w Bokairo Inn." },
     { "gameKey": "warp/WarpInnKugane#TEXT_WARPINNKUGANE_USHITORA_000_2", "hash": "7201CCFFDE812417", "target": "Najmocniej przepraszam, <if(gnum4,proszę pani,proszę pana)>, ale obecnie nie możemy zapewnić noclegu, gdyż wszystkie pokoje są zajęte. Dziękujemy za wyrozumiałość." },

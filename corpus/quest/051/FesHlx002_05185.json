@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/FesHlx002_05185",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/FesHlx002_05185#TEXT_FESHLX002_05185_SEQ_00", "hash": "A83AE64283E29880", "target": "Po otrzymaniu odpowiedniej wskazówki Philcox jest gotów przystąpić do dzieła.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/051/FesHlx002_05185#TEXT_FESHLX002_05185_SEQ_01", "hash": "3212FEC18AD1C4E0", "target": "Być może upiorna atmosfera amfiteatru przeszkadza ahrimanowi: Philcox skarży się, że nie może się skupić, i odchodzi. Ruszasz za nim, przygotowując się na czekające cię wybryki.<br><br>※Uwaga: po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdują się w serwisie Lodestone." },

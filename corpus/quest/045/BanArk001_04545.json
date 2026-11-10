@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/BanArk001_04545",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk001_04545#TEXT_BANARK001_04545_SEQ_00", "hash": "3A549F29487D4223", "target": "Kancana nerwowo przestępuje z nogi na nogę. Twój instynkt <if(gnum4,poszukiwaczki przygód,poszukiwacza przygód)> wyczuwa kuszącą woń problemu do rozwiązania.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego obecnego poziomu." },
     { "gameKey": "quest/045/BanArk001_04545#TEXT_BANARK001_04545_SEQ_01", "hash": "12C277E46F583189", "target": "Jak wyjaśnia Kancana, ostatnio docierają do niej dziwne doniesienia o hipopotamach szalejących na trakcie. Aby wyjaśnić te osobliwe obserwacje, ruszasz wypytać mieszkańców Yedlihmad.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Aby robić w nim postępy, musisz korzystać z tej samej klasy lub tego samego jobu co przy jego przyjmowaniu." },

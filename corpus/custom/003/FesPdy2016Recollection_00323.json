@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/FesPdy2016Recollection_00323",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/FesPdy2016Recollection_00323#TEXT_FESPDY2016RECOLLECTION_00323_ADORINGFAN_000_000", "hash": "8A35A0E73CDEDA8F", "target": "Od razu rozpoznaję innych fanów! Czy <if(gnum4,pani,pan)> też uwielbia, uwielbia, po prostu <italic(1)>uwielbia<italic(0)> Songbirds?" },
     { "gameKey": "custom/003/FesPdy2016Recollection_00323#TEXT_FESPDY2016RECOLLECTION_00323_ADORINGFAN_000_001", "hash": "19A96721F75CE568", "target": "Skoro nadajemy na tych samych falach, zdradzę sekret. Jestem im tak oddany, że postanowiłem zapamiętać każde ich słowo i gest. Potrafię nawet naśladować ich głosy! He, he! Nie wierzy <if(gnum4,pani,pan)> w mój talent!? Nie docenia mnie <if(gnum4,pani,pan)>!" },

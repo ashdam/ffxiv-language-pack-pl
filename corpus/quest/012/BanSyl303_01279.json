@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanSyl303_01279",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl303_01279#TEXT_BANSYL303_01279_SEQ_00", "hash": "226BA7CDE5C9F874", "target": "Moxia spogląda w twoją stronę z tęsknotą." },
     { "gameKey": "quest/012/BanSyl303_01279#TEXT_BANSYL303_01279_SEQ_01", "hash": "AE66FEEEBC98697E", "target": "Moxia opowiada ci tragiczną historię pradawnych, strażników lasu, których niegdyś dobre serca zatruło szerzące się skażenie Ziem Ludu Sylph. Powstrzymując łzy, prosi o zabicie wielkich drzew i zdobycie trzech żołędzi." },

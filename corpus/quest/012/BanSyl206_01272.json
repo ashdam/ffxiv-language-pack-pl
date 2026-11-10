@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanSyl206_01272",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl206_01272#TEXT_BANSYL206_01272_SEQ_00", "hash": "D7A90491CFBBDF74", "target": "Na twarzy Ponnixii maluje się obrzydzenie." },
     { "gameKey": "quest/012/BanSyl206_01272#TEXT_BANSYL206_01272_SEQ_01", "hash": "65067DB843AF79F0", "target": "Ponnixia opowiada o wielkim miotaczu zarodników na Ziemiach Ludu Sylph. Dawniej oczyszczał leśne powietrze, ale dotknięci sylfowie zmienili go tak, by wydzielał trujące opary. Prosi o przywrócenie mu dawnej, dobroczynnej postaci. Najpierw użyj otrzymanych bomb z łusek, by zniszczyć piorunochrony zasilające miotacz." },

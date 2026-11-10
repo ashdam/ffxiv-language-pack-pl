@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/FesPdy202_02222",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/FesPdy202_02222#TEXT_FESPDY202_02222_SEQ_00", "hash": "4A517500A9DE0CBE", "target": "Królewski służący prosi cię o pomoc w rozdawaniu ulotek.<br><br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/022/FesPdy202_02222#TEXT_FESPDY202_02222_SEQ_01", "hash": "D1F016B607DA4A7F", "target": "Królewski służący wręcza ci pieczone ciastka ryżowe owinięte ulotkami i prosi o rozdanie ich mieszkańcom na Steps of Nald.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

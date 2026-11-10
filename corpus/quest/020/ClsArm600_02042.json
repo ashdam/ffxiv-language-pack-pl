@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsArm600_02042",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsArm600_02042#TEXT_CLSARM600_02042_SEQ_00", "hash": "D1A66A276F97F1A9", "target": "Blanstyr jest niezwykle podekscytowany.<br><br><colortype(500)><edgecolortype(501)>Aby ukończyć tę misję, musisz poznać zaawansowane receptury z księgi <italic(1)>Master Armorer III<italic(0)>.<edgecolortype(0)><colortype(0)>" },
     { "gameKey": "quest/020/ClsArm600_02042#TEXT_CLSARM600_02042_SEQ_01", "hash": "4E80475C8A7E7C7A", "target": "Blanstyr oznajmia, że drużyna Benathaire'a wróciła z polowania na potwora. Pragnie usłyszeć, jak jego zbroja zniosła próbę boju, i proponuje wspólnie z tobą i H'naanzą powitać poszukiwaczy przygód w Limsa Lominsa. Udaj się do Drowning Wench i porozmawiaj z Benathaire'em." },

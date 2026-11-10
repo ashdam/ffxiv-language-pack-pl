@@ -1,6 +1,6 @@
 {
   "sheet": "MountTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "MountTransient#1.0", "hash": "25A188AEC521E4AA", "target": "Przywołuje bojowego chocobo przydzielonego ci przez Wielką Kompanię." },
     { "gameKey": "MountTransient#1.1", "hash": "D15283617AA32FF2", "target": "Chocobo kompanii, rodzące się i hodowane w mieście<-->państwie Ishgard, to w większości wałachy odmiany rouncey. Hoduje się jednak także masywne ptaki odmiany destrier i miniaturowe genety belahdiańskie, odpowiednio dla jeźdźców rasy Roegadyn i Lalafell." },

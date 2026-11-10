@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/ChrEnd204_02210",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_SEQ_00", "hash": "D510F0BF7EB01A27", "target": "Briardien jest o krok od przełomu." },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_SEQ_01", "hash": "A897B0BD1383DEA6", "target": "Briardien chce odnaleźć podejrzanego kupca z notatek Blaisie i go śledzić. Uważa, że pozwoli wam na to obserwacja stoiska z jedzeniem Mestonnaux. Ponieważ kupiec może w każdej chwili zjawić się po zwykły zestaw towarów, inspektor nalega na pośpiech i prowadzi cię do The Jeweled Crozier. Z ukrytego zakątka ruchliwej ulicy wypatrujecie mężczyzny z blizną, odzianego w jedwabne szaty." },

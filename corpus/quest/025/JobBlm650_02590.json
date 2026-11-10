@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobBlm650_02590",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobBlm650_02590#TEXT_JOBBLM650_02590_SEQ_00", "hash": "94494F99D182ED11", "target": "Lalai zdobyła nową wiedzę, która może się przydać." },
     { "gameKey": "quest/025/JobBlm650_02590#TEXT_JOBBLM650_02590_SEQ_01", "hash": "C2FF217F427AE644", "target": "Czekając na przebudzenie Shatotto, Lalai zamierza zdobyć więcej informacji o spadającej gwieździe. List od 269th Order Mendicant Da Za w Mycie Upiora wspomina o kolejnych dostrzeżonych golemach. Odszukaj przyjaciela kobolda i zdobądź wiedzę niezbędną do powstrzymania ataków zagrażających waszym plemiennym sojusznikom." },

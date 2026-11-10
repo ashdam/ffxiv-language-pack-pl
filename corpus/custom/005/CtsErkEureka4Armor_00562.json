@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CtsErkEureka4Armor_00562",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "Wszystko, czego potrzebuję, jest już w naszym obozie w Hydatos, ale urządzenie wydajnego warsztatu zajmie mi trochę czasu. Zamówienia na pancerze będą musiały jeszcze poczekać." },
     { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "Chce <if(gnum4,pani,pan)> zamówić wykucie pancerza? Przykro mi, ale muszę nalegać, by elementy wykonane z materiałów z Pyros zamawiać w tamtejszym obozie." },

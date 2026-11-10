@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/JobNin301_00213",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/JobNin301_00213#TEXT_JOBNIN301_00213_SEQ_00", "hash": "5A8AA6D6D32B4B54", "target": "Oboro chce udzielić ci pierwszej lekcji ninjutsu." },
     { "gameKey": "quest/002/JobNin301_00213#TEXT_JOBNIN301_00213_SEQ_01", "hash": "AE96052AF8A5850A", "target": "Wyczuwając w tobie silną duszę przodków, Oboro uczy cię podstawowej techniki ninjutsu, Fuma Shuriken. Wykonaj mudrę nieba, Ten, po czym uwolnij energię w postaci płonącego pocisku. W ramach pierwszego zadania zademonstruj Oboro tę technikę na mokujin, kukle treningowej ustawionej przed magazynem w przystani." },

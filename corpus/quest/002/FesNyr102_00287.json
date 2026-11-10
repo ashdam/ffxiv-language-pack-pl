@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/FesNyr102_00287",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SEQ_00", "hash": "936EC68C81E9CEF5", "target": "Zarządca Owcy nie może się doczekać wieści o twoich postępach w trzech miastach<-->państwach.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SEQ_01", "hash": "80F44B0408C237E8", "target": "Zarządca Owcy, który wysłał cię na krańce krainy w poszukiwaniu poparcia dla Wełnianej Armii, niecierpliwie czeka na wieści o twoich dokonaniach. Jego pomocnicy w trzech miastach<-->państwach mają nagradzać wszystkich wspierających ich poszukiwaczy przygód kolorowymi kabuto. Gdy zdobędziesz wszystkie trzy, wróć na plac Aftcastle i pokaż je zarządcy.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

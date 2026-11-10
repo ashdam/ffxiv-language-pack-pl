@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanSah002_01375",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanSah002_01375#TEXT_BANSAH002_01375_SEQ_00", "hash": "CD1954ED0FE66CA7", "target": "Ojciec lęgu Novv potrzebuje twojej pomocy, by przywołać do porządku jednego ze swych potomków." },
     { "gameKey": "quest/013/BanSah002_01375#TEXT_BANSAH002_01375_SEQ_01", "hash": "7198D26FF5F48082", "target": "Novv obawia się, że jego nierozważny syn Pyuu wyruszył przemówić do rozsądku Koralowym Trójzębom, słynącym z przemocy. Zajęty opieką nad resztą lęgu, prosi cię o uratowanie potomka w jego zastępstwie. Porozmawiaj z innym jego synem, imieniem Seww, i dowiedz się, dokąd ruszyć na ratunek lekkomyślnemu Pyuu." },

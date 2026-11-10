@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsAlc502_02065",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_00", "hash": "FA5E3C762BBCD5C6", "target": "W oku mistrza gildii Severiana pojawia się diabelski błysk." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_01", "hash": "3CE3385CD13449C4", "target": "Mistrz gildii ma dla ciebie, swojej ulubionej pomocy, niezwykle ważne zadanie─dostarczenie jakiegoś raportu komuś w Revenant's Toll. Ponieważ Severian nie podał zbyt wielu szczegółów, porozmawiaj z Deitrichem, aby ustalić, komu, co i dlaczego masz zanieść." },

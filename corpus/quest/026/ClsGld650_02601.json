@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/ClsGld650_02601",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/ClsGld650_02601#TEXT_CLSGLD650_02601_SEQ_00", "hash": "5984A36C5CCC4206", "target": "Emeloth ma nowe zmartwienie w miejsce dawnego." },
     { "gameKey": "quest/026/ClsGld650_02601#TEXT_CLSGLD650_02601_SEQ_01", "hash": "4F6C7D6D32917B49", "target": "Ledwie udaje się rozwiązać problem słabszych stron obu braci, a pojawia się nowa trudność z J'khebicą. Mimo wielu obiecujących cech dziewczyna okazuje się niezwykle niezdarna i raz po raz popełnia błędy przy końcowym wykończeniu. Emeloth nie potrafi odkryć przyczyny i prosi cię o rozmowę z uczennicą. Porozmawiaj z J'khebicą i jej towarzyszami. Może uda ci się czegoś dowiedzieć." },

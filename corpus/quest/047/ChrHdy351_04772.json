@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/ChrHdy351_04772",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/ChrHdy351_04772#TEXT_CHRHDY351_04772_SEQ_00", "hash": "886687AC46BDAE3B", "target": "Rzemieślnik rodu Manderville jest gotów przyjąć twoje zamówienie na ulepszenie broni.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/047/ChrHdy351_04772#TEXT_CHRHDY351_04772_SEQ_01", "hash": "66AAD62573951EAE", "target": "Po podjęciu decyzji o ulepszeniu innej broni rodu Manderville konsultujesz się z rodzinnym rzemieślnikiem. Z entuzjazmem, lecz i przeprosinami, ponownie prosi cię o dostarczenie rzadkich materiałów─tym razem trzech odłamków Amplifying Achondrite.<br><br>※Misję można wykonywać tylko w tej samej klasie lub tym samym jobie, w którym została przyjęta.<br><br>※Odłamki Amplifying Achondrite można otrzymać od Jubrunnah na placu eterytu w Radz<-->at<-->Han." },

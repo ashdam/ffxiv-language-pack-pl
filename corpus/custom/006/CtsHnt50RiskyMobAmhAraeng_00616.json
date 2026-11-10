@@ -1,6 +1,6 @@
 {
   "conversation": "custom/006/CtsHnt50RiskyMobAmhAraeng_00616",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/006/CtsHnt50RiskyMobAmhAraeng_00616#TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_001", "hash": "353C7238949D31AF", "target": "Hmm... Różnisz się od całej reszty. Zwą mnie Haline. Jeśli ktoś zapyta cię o klan... odpowiadasz tak, rozumiesz?" },
     { "gameKey": "custom/006/CtsHnt50RiskyMobAmhAraeng_00616#TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_002", "hash": "140C7C982748D899", "target": "Witaj, <if(gnum4,towarzyszko,towarzyszu)> z Klanu Nutsy. Jeśli szukasz celu łowów albo dwóch, stara Haline może naprowadzić cię na trop. Co chcesz wiedzieć?" },

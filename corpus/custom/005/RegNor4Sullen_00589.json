@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/RegNor4Sullen_00589",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/RegNor4Sullen_00589#TEXT_REGNOR4SULLEN_00589_SIGURTHUR_000_000", "hash": "15F95EA08C3F5829", "target": "Witaj, <if(gnum4,nieznajoma,nieznajomy)>. Nie wyglądasz mi na kogoś ze straży. Co cię sprowadza do naszej skromnej osady?" },
     { "gameKey": "custom/005/RegNor4Sullen_00589#TEXT_REGNOR4SULLEN_00589_SIGURTHUR_000_020", "hash": "D8D3AAF778EDD010", "target": "Te dranie z Eulmore panoszą się w twierdzy Laxan Loft, jakby byli u siebie. Nie pojmuję, czemu bogacze nie mogą po prostu siedzieć w swoich miastach, stroić się w te swoje wyszukane fatałaszki i zajadać wykwintnymi smakołykami." },

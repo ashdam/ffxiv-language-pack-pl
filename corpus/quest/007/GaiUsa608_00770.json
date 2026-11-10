@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa608_00770",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "Faucertaux prosi o pomoc w odebraniu wioski bandzie wyjętych spod prawa zbirów." },
     { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "Osławiona banda zbirów znana jako Redbelly Wasps zajęła opuszczoną wioskę i zamieniła ją w gniazdo występku. Zabij po jednym Redbelly lookout, Redbelly sharpeye i Redbelly larcener." },

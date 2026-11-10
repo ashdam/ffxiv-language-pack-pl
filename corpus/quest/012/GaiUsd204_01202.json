@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/GaiUsd204_01202",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/GaiUsd204_01202#TEXT_GAIUSD204_01202_SEQ_00", "hash": "8C68272D57BB8ABC", "target": "G'raha Tia nie może się doczekać rozpoczęcia wyprawy do Crystal Tower." },
     { "gameKey": "quest/012/GaiUsd204_01202#TEXT_GAIUSD204_01202_SEQ_01", "hash": "B06B6A290707F081", "target": "Przyjmując rolę przywódcy wyprawy, G'raha Tia wydaje zebranym członkom NOAH szczegółowe instrukcje dotyczące przebiegu działań. Udaj się do wielkiej bramy na południowy wschód od Wykopalisk Świętego Coinacha i poczekaj na resztę zespołu badawczego." },

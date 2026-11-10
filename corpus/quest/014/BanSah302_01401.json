@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanSah302_01401",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "Seww chce, by twoja wyprawa zaprowadziła cię w głąb tarliska." },
     { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "Według wojownika Seww Koralowe Trójzęby usilnie pracowały nad udoskonaleniem jeszcze potężniejszej wersji swej broni oblężniczej z mięczaków. Prosi cię o natychmiastowe działanie, by uchronić zapory przed niszczycielską siłą tych wynaturzonych tworów. Zapuść się w głąb tarliska i zniszcz reinforced whelk ballista, zanim zostaną przewiezione na front." },

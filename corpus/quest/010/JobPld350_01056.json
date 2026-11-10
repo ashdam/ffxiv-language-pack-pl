@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobPld350_01056",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobPld350_01056#TEXT_JOBPLD350_01056_SEQ_00", "hash": "CF9DA65993C7D906", "target": "Kapitan Jenlyns chce nauczyć cię kolejnych sztuk paladynów." },
     { "gameKey": "quest/010/JobPld350_01056#TEXT_JOBPLD350_01056_SEQ_01", "hash": "53E0CF9810D7A1DB", "target": "Jenlyns opowiada, że elita Przysięgłych Sułtanki utraciła szacunek, którym niegdyś cieszyło się jej dobre imię, głównie wskutek kradzieży miecza Oathkeeper przez zdrajcę. Jenlyns liczy, że twoje umiejętności pomogą mu odzyskać miecz przekazywany przez pokolenia kapitanów Przysięgłych Sułtanki. W tym celu obiecuje dalszą naukę sztuk paladynów i wyznacza nowe zadanie. Udaj się do zewnętrznej części La Noscei i pokonaj gromadę bestii leaping ringtail, by dalej doskonalić swoje umiejętności." },

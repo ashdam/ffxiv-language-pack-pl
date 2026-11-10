@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/JobAoz530_03733",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/JobAoz530_03733#TEXT_JOBAOZ530_03733_SEQ_00", "hash": "7B64179EBC15060E", "target": "Martyn zamierza udzielić lekcji Nutibie Buntibie i P'yandih." },
     { "gameKey": "quest/037/JobAoz530_03733#TEXT_JOBAOZ530_03733_SEQ_01", "hash": "005CB4D0B0EF8213", "target": "Masz już w kolekcji zaklęcie Northerlies. Martyn chce więc, by twój pokaz nauczył P'yandih i Nutibę Buntibę właściwej postawy oraz techniki niebieskiego maga. Dwoje uczniów niecierpliwie czeka na ciebie na Młotowej Łące, gdzie odbędzie się lekcja. Jakie dokładnie umiejętności masz przekazać, tego jeszcze nie wyjaśniono." },

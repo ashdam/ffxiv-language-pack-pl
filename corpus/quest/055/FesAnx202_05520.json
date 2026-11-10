@@ -1,6 +1,6 @@
 {
   "conversation": "quest/055/FesAnx202_05520",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/055/FesAnx202_05520#TEXT_FESANX202_05520_SEQ_00", "hash": "53B8770445B26EA6", "target": "Wędrowny minstrel przygląda ci się z zaciekawieniem.<br>※Ta misja jest dostępna przez ograniczony czas." },
     { "gameKey": "quest/055/FesAnx202_05520#TEXT_FESANX202_05520_SEQ_01", "hash": "DBFCB78DAE666883", "target": "Po pokazie fajerwerków opowiadasz wędrownemu minstrelowi o doświadczonej tajemniczej wizji. Ku twojemu zaskoczeniu mężczyzna domyśla się, o jakim „urzekającym koncercie” była mowa, i zaprasza cię do wspólnego udziału. Ruszacie więc do Amfiteatru Mih Khetto w dzielnicy Old Gridania, gdzie ma odbyć się ów koncert." },

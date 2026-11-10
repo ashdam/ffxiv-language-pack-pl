@@ -1,6 +1,6 @@
 {
   "sheet": "ActionComboRouteTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ActionComboRouteTransient#1", "hash": "FE2B7CCBF2BDE064", "target": "Wykonuje kolejno następujące techniki broni:<br>1. <colortype(500)><edgecolortype(501)>Fast Blade<edgecolortype(0)><colortype(0)><br>2. <colortype(500)><edgecolortype(501)>Savage Blade<edgecolortype(0)><colortype(0)><br>3. <colortype(500)><edgecolortype(501)>Rage of Halone<edgecolortype(0)><colortype(0)><br><br>Jeśli któraś z technik broni nie jest gotowa, kombinacja rozpoczyna się od nowa." },
     { "gameKey": "ActionComboRouteTransient#2", "hash": "4C03BA49D9C60436", "target": "Wykonuje kolejno następujące techniki broni:<br>1. <colortype(500)><edgecolortype(501)>Fast Blade<edgecolortype(0)><colortype(0)><br>2. <colortype(500)><edgecolortype(501)>Riot Blade<edgecolortype(0)><colortype(0)><br>3. <colortype(500)><edgecolortype(501)>Royal Authority<edgecolortype(0)><colortype(0)><br><br>Jeśli któraś z technik broni nie jest gotowa, kombinacja rozpoczyna się od nowa.<br><br>※Akcja zmienia się w <colortype(500)><edgecolortype(501)>Atonement<edgecolortype(0)><colortype(0)> pod wpływem efektu <colortype(506)><edgecolortype(507)>Przysięgi miecza<edgecolortype(0)><colortype(0)>." },

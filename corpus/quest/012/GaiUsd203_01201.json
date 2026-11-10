@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/GaiUsd203_01201",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/GaiUsd203_01201#TEXT_GAIUSD203_01201_SEQ_00", "hash": "975D0525C6BC8D3E", "target": "Rammbroes chce omówić zdobycie brakujących odmian piasku eterycznego." },
     { "gameKey": "quest/012/GaiUsd203_01201#TEXT_GAIUSD203_01201_SEQ_01", "hash": "B003D1F212E0F72C", "target": "Rammbroes wyjaśnia, że poprosił znajomego o zdobycie pozostałych odmian piasku eterycznego. Od tamtej pory nie otrzymał jednak żadnych wieści, co budzi jego obawy, że coś jest nie tak. Odszukaj Parsemontreta na targowiskach Gridanii i zapytaj, gdzie można zdobyć piasek eteryczny." },

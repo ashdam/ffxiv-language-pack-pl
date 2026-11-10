@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/RegHinJenomis_00446",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/RegHinJenomis_00446#TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_000", "hash": "7FDE3C13193C935F", "target": "Ach, oto <if(gnum4,wyzwolicielka,wyzwoliciel)>. Jeśli choć połowa tego, co opowiadał mi Cid, jest prawdą, twoje dokonania znakomicie nadawałyby się na scenę. Może gdy ukończę dzieło życia i odkryję tajemnice Ivalice, rozważę napisanie nowej sztuki." },
     { "gameKey": "custom/004/RegHinJenomis_00446#TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_001", "hash": "8A85FD14882A1A4E", "target": "Niestety, ten dzień może być jeszcze odległy... choć każda godzina przynosi nowe odkrycie... \\<wzdycha>" },

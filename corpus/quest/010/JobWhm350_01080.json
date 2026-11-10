@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWhm350_01080",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_00", "hash": "89C3AE4E056C1722", "target": "Raya<-->O<-->Senna chce nauczyć cię porozumiewania się z żywiołakami." },
     { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_01", "hash": "1B8466BCD8F61C9F", "target": "Uspokajanie rozgniewanych drzew wymaga nawiązania więzi z mieszkającymi w nich żywiołakami, aby przywrócić stan harmonii. Jako kolejny etap szkolenia w białej magii Raya<-->O<-->Senna poleca ci ukoić małe drzewo w północno-zachodniej części Szczawiowej Przystani." },

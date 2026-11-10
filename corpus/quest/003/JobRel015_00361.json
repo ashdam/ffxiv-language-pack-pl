@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/JobRel015_00361",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/JobRel015_00361#TEXT_JOBREL015_00361_SEQ_00", "hash": "D71D0845ACD36C6E", "target": "Masz wrażenie, że Gerolt cieszy się z twojego powrotu do Hyrstmill." },
     { "gameKey": "quest/003/JobRel015_00361#TEXT_JOBREL015_00361_SEQ_01", "hash": "904927EC0DF51719", "target": "Teraz, gdy wszystkie potrzebne elementy są już zebrane, Gerolt wyjawia, czym jest jego tajemnicza materia: twoją bronią reliktową nexus. Rozumuje bowiem, że jeśli całą związaną z bronią energię uda się przemienić w materię, dusze, których rozwijaniu poświęcasz tyle trudu, zdołają wznieść się do nowego nośnika. Okaże się jednak dopiero, czy coś tak niedorzecznego jest w ogóle możliwe. By się tego dowiedzieć, Gerolt prosi cię o zasięgnięcie rady mistrza Mutamiksa w Ognisku." },

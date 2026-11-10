@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/CmnGscTripleTriadCup_00247",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/CmnGscTripleTriadCup_00247#TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001", "hash": "38436803F9530AEA", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Trwa właśnie turniej <head(<sheet(TripleTriadCompetition,lnum2,0)>)>! Miejsce w pierwszej trójce zapewni <if(gnum4,pani,panu)> nagrodę: <ennoun(Item,3,lnum1,1,1)>!" },
     { "gameKey": "custom/002/CmnGscTripleTriadCup_00247#TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002", "hash": "424F5114012EFA85", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>! Chce się <if(gnum4,pani,pan)> zapisać na turniej Triple Triad? Ja... och. Niestety, według naszych danych nie ma <if(gnum4,pani,pan)> jeszcze za sobą wymaganego samouczka." },

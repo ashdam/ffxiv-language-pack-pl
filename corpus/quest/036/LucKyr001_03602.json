@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKyr001_03602",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_001", "hash": "2C9AB99934CBF63B", "target": "<if(gnum4,Rzemieślniczka,Rzemieślnik)>, co? Tak wyglądasz. Chcesz wykorzystać swoje umiejętności przy zleceniu levequest albo dwóch?" },
     { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_002", "hash": "2A66DC795BBF0D17", "target": "Wszystko jest uczciwe─cały system działa pod patronatem Kryształowego Egzarchy, bez obaw. Codziennie przyjmujemy i rozdzielamy górę zleceń levequest. Zarejestruj się, a do woli przejrzysz dostępne zadania." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/006/CtsHnt50RiskyMobLakeland_00614",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/006/CtsHnt50RiskyMobLakeland_00614#TEXT_CTSHNT50RISKYMOBLAKELAND_00614_MERANTH_000_001", "hash": "FB693B636BDF9631", "target": "Ja? Właściwie poluję na nagrody dla organizacji Clan Nutsy. Może coś ci o nas wiadomo? Widać, że z ciebie nie byle <if(gnum4,grzesznica,grzesznik)>... Może warto do nas dołączyć. Jeśli lubisz ten niepowtarzalny dreszcz, jaki daje taniec ze śmiercią, he, he..." },
     { "gameKey": "custom/006/CtsHnt50RiskyMobLakeland_00614#TEXT_CTSHNT50RISKYMOBLAKELAND_00614_MERANTH_000_002", "hash": "D730CCFE9FE6D3D9", "target": "Ach, kolejna dzielna osoba z Clan Nutsy, gotowa spojrzeć śmierci w oczy i powiedzieć: „Nie dzisiaj”, co? Wiem wszystko o tutejszych celach łowów, więc daj znać, jeśli chcesz usłyszeć o którymś z nich." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam700_02570",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam700_02570#TEXT_JOBSAM700_02570_SEQ_00", "hash": "AD9C798DE8BA848A", "target": "Makoto wygląda na pokonaną, choć walka jeszcze się nie zaczęła." },
     { "gameKey": "quest/025/JobSam700_02570#TEXT_JOBSAM700_02570_SEQ_01", "hash": "8C8F5AD624A8ADE2", "target": "Obawy Makoto się spełniły. Członkowie Sekiseigumi dezerterują po ujawnieniu, że ona jest siostrą Ugetsu, a ciebie szkolił Musosai. Obecnie nie będzie miała dość sił, by stawić czoła buntownikom. Nie chcąc, by tak się to skończyło, prosi cię o odnalezienie rozczarowanych towarzyszy w Kugane i sprowadzenie ich, aby mogła się wypowiedzieć." },

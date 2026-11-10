@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubSea001_00111",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_00", "hash": "6A8AF65A13AD3147", "target": "Doświadczona poszukiwaczka przygód Niniya ma informacje, które mogą cię zainteresować." },
     { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_01", "hash": "01F763CC31C7E243", "target": "Według Ninii na parterze Mizzenmastu porozrzucano rośliny, które zwykle można znaleźć jedynie na czarnym rynku. Porozmawiaj ze Skaenrael, by zjechać na dół." },

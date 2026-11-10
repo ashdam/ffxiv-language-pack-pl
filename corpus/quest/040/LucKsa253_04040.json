@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKsa253_04040",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa253_04040#TEXT_LUCKSA253_04040_SEQ_00", "hash": "F616AB2BC8B9640B", "target": "Zlatan jest gotów ponownie wyprawić cię w drogę.<br>※Zmiana klasy lub joba uniemożliwi postępy w tym zadaniu." },
     { "gameKey": "quest/040/LucKsa253_04040#TEXT_LUCKSA253_04040_SEQ_01", "hash": "35E4051AFB558E3B", "target": "Choć Zlatan odczuwa ulgę, wiedząc, że bozjańskie ruiny nie są jedynym miejscem, gdzie można znaleźć antyki z eterycznego mułowca, wciąż martwi go świadomość, że trud ich zdobycia musi przypaść tobie. Gerolt jest pewien, że piętnaście relikwii wystarczy do realizacji waszych planów. Wyruszasz więc na poszukiwanie mrocznych, niebezpiecznych ruin, mając nadzieję, że dobrze oszacował.<br><br>※Nie można kontynuować tego zadania inną klasą ani innym jobem niż przy jego przyjęciu.<br>※Timeworn artifacts można zdobyć za ukończenie rajdu Delubrum Reginae lub głębokiego lochu Palace of the Dead." },

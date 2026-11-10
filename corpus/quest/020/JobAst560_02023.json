@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobAst560_02023",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobAst560_02023#TEXT_JOBAST560_02023_SEQ_00", "hash": "DA26FF7B2614CF63", "target": "Jannequinard ma najświeższe wieści o miejscu pobytu pani Levevy." },
     { "gameKey": "quest/020/JobAst560_02023#TEXT_JOBAST560_02023_SEQ_01", "hash": "BD06B701C2EC8CB1", "target": "Leveva przeniosła się na północ, do Tailfeather na drawańskim przedgórzu. Udaj się z Jannequinardem do odległego obozu i dowiedz się, jakie ma plany wobec osady." },

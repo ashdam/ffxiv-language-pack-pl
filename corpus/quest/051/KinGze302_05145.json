@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGze302_05145",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze302_05145#TEXT_KINGZE302_05145_SEQ_00", "hash": "259277E803A35AF3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kayamene chce uświadomić kierownictwu firmy zagrożenie ze strony „niebieskich galaret”." },
     { "gameKey": "quest/051/KinGze302_05145#TEXT_KINGZE302_05145_SEQ_01", "hash": "9F1ABA283F946D68", "target": "Kayamene prosi cię o przybycie do biura firmy w Sheshenewezi Springs, by potwierdzić jej brygadziście Wesanpe relację ze spotkania z niebieską galaretą.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

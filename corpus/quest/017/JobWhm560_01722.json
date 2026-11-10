@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobWhm560_01722",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobWhm560_01722#TEXT_JOBWHM560_01722_SEQ_00", "hash": "1517BEFBE46E8D10", "target": "Eschiva ma straszne wieści o skażeniu." },
     { "gameKey": "quest/017/JobWhm560_01722#TEXT_JOBWHM560_01722_SEQ_01", "hash": "3AC12DBBAF6885CF", "target": "Zmartwiona Eschiva informuje cię, że skażenie usunięte wcześniej w rejonie Coerthas Western Highlands pojawiło się ponownie. Okoliczne stworzenia znów wpadły w szał i podobno zaatakowały rycerza na patrolu. Choć zdołał uciec do Convictory, odniósł ciężkie rany. Co gorsza, wszyscy medycy obozu przebywają poza nim i nie mogą szybko wrócić. Eschiva uważa, że jesteś jego jedyną nadzieją na przeżycie. Zgodnie z jej prośbą pospiesz do Convictory." },

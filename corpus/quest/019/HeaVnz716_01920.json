@@ -1,6 +1,6 @@
 {
   "conversation": "quest/019/HeaVnz716_01920",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/019/HeaVnz716_01920#TEXT_HEAVNZ716_01920_SEQ_00", "hash": "BF1BE2B7EECC9CAC", "target": "Wywiadowca Zundu potrzebuje pomocy kogoś, kto potrafi się skradać." },
     { "gameKey": "quest/019/HeaVnz716_01920#TEXT_HEAVNZ716_01920_SEQ_01", "hash": "718DE3E75678843F", "target": "Wywiadowca Zundu prosi cię o odnalezienie trzech szpiegów rozmieszczonych w strategicznych punktach, zebranie ich meldunków i przekazanie wiadomości wodzowi Zundu, Sonu Vanu. Odszukaj dobrze ukrytych szpiegów i wysłuchaj tego, czego dowiedzieli się o plemieniu Vundu." },

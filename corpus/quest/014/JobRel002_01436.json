@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/JobRel002_01436",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/JobRel002_01436#TEXT_JOBREL002_01436_SEQ_00", "hash": "E73306094EB2E15A", "target": "Jalzahn ma wielkie plany wobec twojej broni reliktowej." },
     { "gameKey": "quest/014/JobRel002_01436#TEXT_JOBREL002_01436_SEQ_01", "hash": "C318D3A8AD9B140D", "target": "Według Jalzahna twoja broń reliktowa wciąż może się rozwijać. Jeśli chcesz ją dalej wzmocnić, musisz odtworzyć waleczne czyny Zodiakalnych Śmiałków, bohaterów czczonych w thavnairskich legendach. By nie trzeba było zgadywać, alchemik proponuje zdobycie „Prób Śmiałków”, zbioru świętych tekstów o czynach tych bohaterów. Być może Rowena, znana sprzedawczyni podobnej literatury, ma te księgi w zapasach." },

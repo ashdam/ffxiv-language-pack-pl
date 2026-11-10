@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobPld600_02037",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobPld600_02037#TEXT_JOBPLD600_02037_SEQ_00", "hash": "3FE9F2356F373081", "target": "Constaint wygląda na głęboko wstrząśniętego." },
     { "gameKey": "quest/020/JobPld600_02037#TEXT_JOBPLD600_02037_SEQ_01", "hash": "B62A260723BFCBF6", "target": "Hundred Eyes, przyjaciel Solkzagyla i jego ucznia, został zaatakowany przez wilki i ciężko ranny. Constaint odwiedził go wcześniej, lecz został odprawiony z poleceniem sprowadzenia właśnie ciebie. Odwiedź rannego i sprawdź, czego pragnie." },

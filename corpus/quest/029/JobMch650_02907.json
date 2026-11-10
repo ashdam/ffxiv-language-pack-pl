@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobMch650_02907",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobMch650_02907#TEXT_JOBMCH650_02907_SEQ_00", "hash": "9A9564D247ABFF7C", "target": "Hilda chce podzielić się wynikami śledztwa w Choinach." },
     { "gameKey": "quest/029/JobMch650_02907#TEXT_JOBMCH650_02907_SEQ_01", "hash": "1887FAA9596018A1", "target": "Hilda pokazuje owoce śledztwa w Choinach: nadpalony skrawek papieru opisujący sprzedaż Hruntinga potencjalnemu kupcowi. Ów kupiec jest podobno dobrze znany w Limsie Lominsie, a niedawno straż graniczna odnotowała jego przybycie do Coerthas. Dołącz do Ogarów tropiących podejrzanego handlarza z czarnego rynku w kierunku Głazowych Wzgórz." },

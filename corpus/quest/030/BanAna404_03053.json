@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/BanAna404_03053",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna404_03053#TEXT_BANANA404_03053_SEQ_00", "hash": "B274104AC06E2C6E", "target": "Eshana prosi o pomoc w szkoleniu nowej rekrutki.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/030/BanAna404_03053#TEXT_BANANA404_03053_TODO_00", "hash": "ECBBB7D8365FA75A", "target": "Stoczyć walkę treningową z rekrutką Ananta na Pasiastych Wzgórzach" },

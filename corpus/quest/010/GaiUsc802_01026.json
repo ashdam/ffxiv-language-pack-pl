@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc802_01026",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc802_01026#TEXT_GAIUSC802_01026_SEQ_00", "hash": "FABA7BA8B2B9B7A6", "target": "Falkbryda chce z tobą porozmawiać." },
     { "gameKey": "quest/010/GaiUsc802_01026#TEXT_GAIUSC802_01026_SEQ_01", "hash": "F2A9B4E1E3DE5B07", "target": "Falkbryda mówi, że plemię Sahagin dowiedziało się o ładunku kryształów zmierzającym do Aleportu. Odszukaj tam Ururu Kogururu i dowiedz się, jak pomóc w ochronie cennego ładunku." },

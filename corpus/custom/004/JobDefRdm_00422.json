@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/JobDefRdm_00422",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/JobDefRdm_00422#TEXT_JOBDEFRDM_00422_ARYA_000_000", "hash": "72929A2AEB514F1E", "target": "X'rhun może i wyruszył na swoją pielgrzymkę, ale brzmiał tak, jakby był pewien, że pewnego dnia znów się wszyscy spotkamy!" },
     { "gameKey": "custom/004/JobDefRdm_00422#TEXT_JOBDEFRDM_00422_ARYA_000_001", "hash": "AB37AD8204312D24", "target": "Zamiast jednak czekać na zrządzenie losu, byłabym szczęśliwa, gdyby od czasu do czasu <if(gnum4,odwiedzała mnie pani,odwiedzał mnie pan)>. <if(gnum4,Mogłybyśmy,Moglibyśmy)> porównać zaklęcia i sprawdzić, ile jeszcze pracy przede mną, zanim wreszcie <if(gnum4,pani,panu)> dorównam!" },

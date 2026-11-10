@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/JobRel400_02379",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/JobRel400_02379#TEXT_JOBREL400_02379_SEQ_00", "hash": "1ACF27C857D7D567", "target": "Ardashir zastanawia się nad obecnym stanem animy.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/023/JobRel400_02379#TEXT_JOBREL400_02379_SEQ_01", "hash": "800017336C8CEA94", "target": "Ardashir najwyraźniej jest zadowolony z dotychczasowych wyników badań─do tego stopnia, że wkrótce planuje wrócić do Radz<-->at<-->Han i przedstawić swoje odkrycia. Gerolta zdumiewa jednak ta pewność siebie i natychmiast udziela mu reprymendy. Ardashir niechętnie przyjmuje prawdę─że praca nie jest jeszcze ukończona─i wkrótce proponuje sposób na tymczasowe wzmocnienie broni anima. Jego plan wymaga jednak roztworu ceruleum, który zamówił u zdolnego gorzelnika w Idyllshire. Sam rozpoczyna pozostałe przygotowania do pracy nad bronią, a ciebie prosi o spotkanie z tym rzemieślnikiem, Blamprestem, w Idyllshire.<br><br>※Nie możesz kontynuować misji w innej klasie lub jobie niż w chwili jej przyjęcia." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan402_02190",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan402_02190#TEXT_BANVAN402_02190_SEQ_00", "hash": "29442CB46DDA9032", "target": "Muna Vanu ma nastroszone pióra i patrzy nieobecnym wzrokiem, jakby cię nie dostrzegał.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan402_02190#TEXT_BANVAN402_02190_SEQ_01", "hash": "46F1142923064AD3", "target": "Muna Vanu wydaje się strapiony wieściami z dawnego domu w Ok' Gundu. Zapytaj Linu Vanu o przyczynę zmartwienia sędziwego Vanu Vanu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/FesLgt002_01154",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_SEQ_00", "hash": "1DB36A523C40D2A4", "target": "Dural Tharal, dziennikarz <italic(1)>Mythrilowego Oka<italic(0)> w Ul'dah, chce poprosić o pomoc poszukiwacza przygód.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_SEQ_01", "hash": "8878D06695F3D587", "target": "Masz odnaleźć słynną już rycerkę zwaną Lightning. Według pogłosek tajemnicza wojowniczka poluje na potwora na odludziu za murami Ul'dah. Rozpocznij poszukiwania w okolicach Highbridge w regionie Eastern Thanalan albo w pobliżu osady Little Ala Mhigo w regionie Southern Thanalan.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdują się na Lodestone." },

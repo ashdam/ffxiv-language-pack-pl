@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsTan502_02075",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsTan502_02075#TEXT_CLSTAN502_02075_SEQ_00", "hash": "DA41761527936A45", "target": "Geva ma zadanie wymagające twojej uwagi." },
     { "gameKey": "quest/020/ClsTan502_02075#TEXT_CLSTAN502_02075_SEQ_01", "hash": "34C81B2B5524EFCF", "target": "Geva otrzymała rzadką prośbę z Ishgardu o próbki najlepszych wyrobów Fen-Yll. Mistrzyni gildii chce, by zanieść je kupczyni o imieniu Elde. Jeśli jednak ta zechce złożyć duże zamówienie, masz stanowczo odmówić. Handel z Ishgardem na wielką skalę zbyt wiele kosztowałby życie w Czarnym Całunie. Udaj się do The Jeweled Crozier i porozmawiaj z kupczynią." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/GaiUse309_01450",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/GaiUse309_01450#TEXT_GAIUSE309_01450_SEQ_00", "hash": "43346F3D5B91ED9E", "target": "Szeregowy ze łzami w oczach najwyraźniej jest gotów wyjaśnić, co spotkało pozostałych Dziedziców." },
     { "gameKey": "quest/014/GaiUse309_01450#TEXT_GAIUSE309_01450_SEQ_01", "hash": "01F4F9CED1681B8C", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z porucznikiem Żmii w Małej Pociesze.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz go włączać i wyłączać w menu Konfiguracja postaci, w zakładce Ustawienia interfejsu." },

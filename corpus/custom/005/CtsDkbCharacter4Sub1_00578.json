@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CtsDkbCharacter4Sub1_00578",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_000", "hash": "C3C733D6B496D7DE", "target": "Witam w Hortorium, ośrodku badań rolniczych Crystarium. Staramy się zwiększać wydajność upraw, opracowując nowe nawozy i techniki uprawy." },
     { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_010", "hash": "9AF00F4D968FAE78", "target": "Ach, witam, <split(<string(gstr1)>, ,1)>. Mam nadzieję, że szefowa nie daje się we znaki? Jeśli jest inaczej, proszę koniecznie dać znać─powiem jej, co o tym myślę." },

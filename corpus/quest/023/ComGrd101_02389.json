@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/ComGrd101_02389",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/ComGrd101_02389#TEXT_COMGRD101_02389_SERPENTPERSONNEL_000_000", "hash": "CAD679856C75BE0E", "target": "Witam! <head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> <split(<string(gstr1)>, ,2)> we własnej osobie. Choć mam pewność, że obowiązki w <if([gnum52>0],Maelstromie,)><if([gnum53>0],Zakonie Dwóch Żmij,)><if([gnum54>0],Nieśmiertelnych Płomieniach,)> pochłaniają już wiele <if(gnum4,pani,pana)> czasu, czy mogę prosić o chwilę rozmowy?" },
     { "gameKey": "quest/023/ComGrd101_02389#TEXT_COMGRD101_02389_SERPENTPERSONNEL_000_001", "hash": "AE0E34EEDDDF7DB3", "target": "Przejdę od razu do rzeczy. <head(<if([gnum52>0],<if(gnum4,<sheet(GCRankLimsaFemaleText,gnum52,8)>,<sheet(GCRankLimsaMaleText,gnum52,8)>)>,)><if([gnum53>0],<if(gnum4,<sheet(GCRankGridaniaFemaleText,gnum53,8)>,<sheet(GCRankGridaniaMaleText,gnum53,8)>)>,)><if([gnum54>0],<if(gnum4,<sheet(GCRankUldahFemaleText,gnum54,8)>,<sheet(GCRankUldahMaleText,gnum54,8)>)>,)>)> to nasz pierwszy wybór. Przełożeni zatwierdzili plany utworzenia wyspecjalizowanego oddziału i szukamy <if(gnum4,niezawodnej dowódczyni,niezawodnego dowódcy)>." },

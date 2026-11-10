@@ -1,6 +1,6 @@
 {
   "conversation": "transport/ChocoboTaxiStand",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "transport/ChocoboTaxiStand#TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL", "hash": "F4002BFA13024509", "target": "Jeśli chodzi o wynajęcie chocobo kursowego, niestety muszę odmówić. Nasze ptaki bywają kapryśne i denerwują się przy osobach, którym brakuje pewności siebie. Proszę wrócić po zdobyciu doświadczenia, a osobiście dopilnuję, by przydzielono najlepszego ptaka." },
     { "gameKey": "transport/ChocoboTaxiStand#TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL", "hash": "D2D5D163A0702381", "target": "Najmocniej przepraszam, ale przepisy zabraniają mi wynajmować sokoła kursowego osobom bez doświadczenia. Niewprawny jeździec może zdenerwować ptaka, a proszę mi wierzyć: nikt nie chce siedzieć na rozdrażnionym ptaku tysiąc yalmów nad ziemią." },

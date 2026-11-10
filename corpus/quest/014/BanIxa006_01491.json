@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa006_01491",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa006_01491#TEXT_BANIXA006_01491_SEQ_00", "hash": "B7DCB4D19FD5556A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tataramu prosi o pomoc w zdobyciu kolejnej części statku <italic(1)>Dezul Qualan<italic(0)>.<br>※Część rzemieślnicza tego zadania jest zalecana dla Disciples of the Hand na poziomie 15 lub wyższym." },
     { "gameKey": "quest/014/BanIxa006_01491#TEXT_BANIXA006_01491_SEQ_01", "hash": "2F8BEA92425FCFC4", "target": "Tataramu prosi cię o zlecenie Geroltowi wykucia wyjątkowego mechanizmu sterowego statku <italic(1)>Dezul Qualan<italic(0)>. Zabierz materiały na tę część i porozmawiaj z mistrzem wyrobu broni w Hyrstmill.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/AktKra401_05252",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/AktKra401_05252#TEXT_AKTKRA401_05252_SEQ_00", "hash": "9FE53F6B4366978E", "target": "Przyjazny badacz próbuje zwrócić twoją uwagę." },
     { "gameKey": "quest/052/AktKra401_05252#TEXT_AKTKRA401_05252_SEQ_01", "hash": "0EDA928CC6B8F1B6", "target": "Przyjazny badacz przedstawia się jako nowy asystent profesora Claudiena i w imieniu przełożonego prosi cię o przybycie do Aporii. Pandæmonium najwyraźniej nadal skrywa coś intrygującego, a Claudien chce cię w to włączyć." },

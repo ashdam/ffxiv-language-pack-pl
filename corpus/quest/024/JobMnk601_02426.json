@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobMnk601_02426",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobMnk601_02426#TEXT_JOBMNK601_02426_SEQ_00", "hash": "83809808D05020E6", "target": "Profesor Erik spogląda na ciebie z samozadowoleniem." },
     { "gameKey": "quest/024/JobMnk601_02426#TEXT_JOBMNK601_02426_SEQ_01", "hash": "E8E8BCCE8090D4F8", "target": "Profesor Erik wita cię ze zwykłą protekcjonalnością i oznajmia, że Widargelta coś trapi. Nie zdołał wydobyć szczegółów z małomównego mnicha, ale sądzi, że tobie pójdzie lepiej. Udaj się do Myta Upiora, gdzie przebywa Widargelt, i zaoferuj pomoc towarzyszowi broni." },

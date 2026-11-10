@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/BanMam118_05278",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam118_05278#TEXT_BANMAM118_05278_SEQ_00", "hash": "D6C3E483391875B0", "target": "Kageel Ja potrzebuje twojej pomocy w zdobyciu składników na lekarstwa.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
     { "gameKey": "quest/052/BanMam118_05278#TEXT_BANMAM118_05278_SEQ_01", "hash": "3508CE881999F835", "target": "Dostarcz zamówione materiały postaci Kageel Ja." },

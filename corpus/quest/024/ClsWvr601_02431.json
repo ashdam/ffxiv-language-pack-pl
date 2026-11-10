@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/ClsWvr601_02431",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/ClsWvr601_02431#TEXT_CLSWVR601_02431_SEQ_00", "hash": "891A54AA8098590C", "target": "Redolent Rose ma wyjątkowe zadanie dla swojej chluby." },
     { "gameKey": "quest/024/ClsWvr601_02431#TEXT_CLSWVR601_02431_SEQ_01", "hash": "70908F4420C11741", "target": "Redolent Rose ledwie skrywa radość z twojego przybycia. Ma spotkać się z obiecującym partnerem handlowym z Dalekiego Wschodu. Jest przekonany, że obecność jego <if(gnum4,najzdolniejszej wychowanki,najzdolniejszego wychowanka)>─czyli ciebie─jeszcze ułatwi negocjacje. Odszukaj młodego właściciela Daitenya na targowisku Ruby Road Exchange i postaraj się zrobić dobre pierwsze wrażenie." },

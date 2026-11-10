@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/CtsFckAttendant_00454",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR", "hash": "AA5F23526795E5D4", "target": "Witam <if(gnum4,panią,pana)>. Czy chce się <if(gnum4,pani,pan)> czegoś dowiedzieć o Fashion Report?" },
     { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE", "hash": "7568DB0521AE3693", "target": "Witam <if(gnum4,panią,pana)>. Jeśli chce się <if(gnum4,pani,pan)> sprawdzić w Fashion Report, zapraszam do rozmowy z Masked Rose. Jestem tylko jego skromną asystentką." },

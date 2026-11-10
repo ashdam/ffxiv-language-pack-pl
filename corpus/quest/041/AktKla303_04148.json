@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla303_04148",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla303_04148#TEXT_AKTKLA303_04148_SEQ_00", "hash": "0F8DFC3ADBFEA044", "target": "Debroye chyba doznała olśnienia." },
     { "gameKey": "quest/041/AktKla303_04148#TEXT_AKTKLA303_04148_SEQ_01", "hash": "0804DD9879D637BE", "target": "Debroye zleca ci wykonanie jars of panaloaf yeast.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 140. Dostarczenie przedmiotów o wartości co najmniej 290 zapewni większe nagrody." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/039/LucKsa151_03970",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa151_03970#TEXT_LUCKSA151_03970_SEQ_00", "hash": "638EF3865B9347FC", "target": "Zlatan jest gotów sprawdzić moc wspomnień.<br>※Zmiana klasy lub joba uniemożliwi postępy w tym zadaniu." },
     { "gameKey": "quest/039/LucKsa151_03970#TEXT_LUCKSA151_03970_SEQ_01", "hash": "6A168B77884513A9", "target": "Rozmawiasz ze Zlatanem o rodzajach wspomnień, które najlepiej wzmocnią inskrypcję na twojej broni. Ponieważ ostrza Gunnhildr pierwotnie wykuto w Bozji, za oczywisty wybór uważa wspomnienia walk na froncie południowym. By nadać broni osobisty charakter, proponuje także wspomnienia walk w ważnym dla ciebie miejscu z przeszłości. Szacuje, że potrzeba trzech rodzajów wspomnień, po dwadzieścia każdego.<br><br>※Nie można kontynuować tego zadania inną klasą ani innym jobem niż przy jego przyjęciu.<br>※Wspomnienia umierających można zdobyć podczas walk na froncie południowym lub w określonych FATE w następujących miejscach:<br>Coerthas Western Highlands, The Dravanian Forelands, The Dravanian Hinterlands, Churning Mists, Morze Chmur lub Azys Lla." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/ComDefSuspendedMateria_00103",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_000", "hash": "9AD084044D7F9816", "target": "Czy <if(gnum4,odebrała już pani,odebrał już pan)> swoje rzeczy? Jeśli tak, być może <if(gnum4,zauważyła pani,zauważył pan)>, że cała posiadana materia popękała i stała się bezwartościowa." },
     { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_001", "hash": "1C5DDCDBB7037C26", "target": "Jeśli <if(gnum4,pani,pan)> sobie życzy, potrafię przywrócić popękaną materię do stanu używalności. A jeśli woli się <if(gnum4,pani,pan)> pozbyć tej materii i wyposażenia, w którym ją osadzono, wystarczy poprosić, a niezwłocznie je usunę." },

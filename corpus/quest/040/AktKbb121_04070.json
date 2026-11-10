@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb121_04070",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb121_04070#TEXT_AKTKBB121_04070_SEQ_00", "hash": "A00DEED6620C0EEE", "target": "Lalah Jinjahl chce podsumować obecną sytuację." },
     { "gameKey": "quest/040/AktKbb121_04070#TEXT_AKTKBB121_04070_SEQ_01", "hash": "B92026D85F2AFC39", "target": "Choć Lalah zakładała, że Loifa i jego towarzysze są przestępcami, coraz bardziej skłania się ku myśli, że mogą być ofiarami pragnącymi zemsty. Jej podejrzenia potwierdza odpowiedź władz Sharlayanu. Po otrzymaniu jej raportów wznowiono dochodzenie w sprawie pogłosek o szalonym uzdrowicielu przeprowadzającym okrutne zabiegi... i potwierdzono, że były prawdziwe. Ponadto mędrzec imieniem Guildivain, który wziął pod opiekę Mahaud i Ancela, zniknął z Sharlayanu na krótko przed pojawieniem się zbiegów. Zakładając, że Guildivain jest owym niegodziwym uzdrowicielem i podaje się teraz za Faldrineta, Lalah postanawia się z nim skonfrontować. Ruszacie więc do Aleport, by odszukać kupca, którego odwiedza." },

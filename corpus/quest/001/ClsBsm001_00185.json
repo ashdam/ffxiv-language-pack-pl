@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsBsm001_00185",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsBsm001_00185#TEXT_CLSBSM001_00185_RANDWULF_000_1", "hash": "B98F192448EF91F3", "target": "O ile nie jesteś <if(gnum4,ślepa i głucha,ślepy i głuchy)>, to pewnie przywiodła cię do naszej kuźni własna wola. Bez wątpienia zwabił cię syreni śpiew młotów naszych kowali." },
     { "gameKey": "quest/001/ClsBsm001_00185#TEXT_CLSBSM001_00185_RANDWULF_000_2", "hash": "3ACF5DBDA2FBDE9A", "target": "W tych szacownych murach najlepsi kowale z Limsy wykuwają z metalu wszelakie narzędzia i broń. A gdy mówię „z Limsy”, mam na myśli całą cholerną krainę. Żeby nie było wątpliwości─do wstąpienia w nasze szeregi potrzeba czegoś więcej niż mocnego ramienia." },

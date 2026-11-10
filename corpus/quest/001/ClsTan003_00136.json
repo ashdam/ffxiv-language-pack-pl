@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsTan003_00136",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsTan003_00136#TEXT_CLSTAN003_00136_SEQ_00", "hash": "7A479E050D93A3C1", "target": "Mistrzyni gildii Geva potrzebuje twojej pomocy z powodu niespodziewanych trudności." },
     { "gameKey": "quest/001/ClsTan003_00136#TEXT_CLSTAN003_00136_SEQ_01", "hash": "006EE3EF5DEEB000", "target": "Masz wykonać parę hard leather caligae i hard leather choker w zastępstwie członka gildii, który uciekł. Przygotuj oba przedmioty i pokaż Gevie do oceny." },

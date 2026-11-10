@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/FesPdy2016Share_00319",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_000", "hash": "64533D29BDBFED7D", "target": "To właśnie dziś, <if(gnum4,moja przyjaciółko,mój przyjacielu)>─wreszcie nadszedł Dzień Małych Dam! Czy <if(gnum4,miała pani,miał pan)> już okazję nacieszyć się wszystkimi jego atrakcjami?" },
     { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_001", "hash": "F4D6444EB152EECC", "target": "Najlepsze przedsięwzięcia wymagają dodatkowego wsparcia! Jeśli nadal chce <if(gnum4,pani,pan)> pomóc, proszę porozmawiać z kimś z mojej służby i dowiedzieć się, co można zrobić." },

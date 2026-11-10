@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog401_02302",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog401_02302#TEXT_BANMOG401_02302_SEQ_00", "hash": "CC0ACD3286225D0A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mogek odchodzi od zmysłów ze strachu." },
     { "gameKey": "quest/023/BanMog401_02302#TEXT_BANMOG401_02302_SEQ_01", "hash": "C69BD87411ABB30D", "target": "Mogek mówi ci, że słudzy Nidhogga nękają ekipę Mogmenders. Prosi cię o zwrócenie się do Whei Ahf o pomoc w ich odparciu, przekonany, że potężny ryk wiwerny odstraszy każdego napastnika.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

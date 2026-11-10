@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGyr102_05004",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_000", "hash": "A0765AD7FA947B65", "target": "Na bogów─czy to ty, <split(<string(gstr1)>, ,1)>!? Ogromnie mnie cieszy, że los zechciał nas tu zetknąć, choć mnie to nie dziwi. Gdy usłyszałem o twojej podróży z Wuk Lamat, przeczuwałem, że nasze drogi wkrótce się skrzyżują." },
     { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_001", "hash": "9DB8380168BD287F", "target": "Pytasz, co robię w Turalu? Przybyłem szukać niezwykłych, fantastycznych historii, z których mógłbym ułożyć pieśni i snuć opowieści zachwycające słuchaczy na całym świecie." },

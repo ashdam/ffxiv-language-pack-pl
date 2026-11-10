@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog505_02311",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog505_02311#TEXT_BANMOG505_02311_SEQ_00", "hash": "87B1663B0CBC35A5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mogek rozgląda się, jakby na kogoś czekał." },
     { "gameKey": "quest/023/BanMog505_02311#TEXT_BANMOG505_02311_SEQ_01", "hash": "F0AC991CDB1D07B5", "target": "Mogek wyjaśnia, że saperzy Rycerzy Świątynnych zamówili transport statkiem powietrznym rozmaitych artykułów potrzebnych do pracy, których moogle'e nie mogły zapewnić. Jednak statek miał dostarczyć ładunek kilka godzin temu, a dotąd ani go nie widać, ani nie ma o nim wieści. Mogek prosi cię o udanie się do Lęgowiska i sprawdzenie, czy nie doszło do jakiegoś wypadku.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

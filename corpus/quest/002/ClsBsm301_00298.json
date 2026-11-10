@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsBsm301_00298",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_SEQ_00", "hash": "0FC227A05D1F60C9", "target": "Mistrz kuźni Brithael spogląda na ciebie ze złowieszczym uśmiechem. Lepiej zapytać dlaczego." },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_SEQ_01", "hash": "327765AAA11266E9", "target": "Twoje ostatnie dokonania nie przeszły niezauważone. Według Brithaela bogaty mieszkaniec Ul'dah prosi właśnie o ciebie do prestiżowego zamówienia. Porozmawiaj z Faezahrem, by dowiedzieć się więcej." },

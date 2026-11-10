@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobDrk520_02060",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobDrk520_02060#TEXT_JOBDRK520_02060_SEQ_00", "hash": "53BA55A122CDB488", "target": "Sidurgu chce poprosić o pomoc kogoś, kto również kroczy drogą mrocznego rycerza." },
     { "gameKey": "quest/020/JobDrk520_02060#TEXT_JOBDRK520_02060_SEQ_01", "hash": "ECE45EAB7494A048", "target": "Na łożu śmierci mistrz Sidurgu mówił o „płomieniu w otchłani”. Sidurgu i Fray nie rozumieli tego pojęcia. Mieli nadzieję, że podążając za zasadami poprzedników, z czasem pojmą znaczenie tych słów. Niestety po interwencji w obronie młodej dziewczyny zakon skazał ich na śmierć. Fray został schwytany i stracony podczas sądu bożego. Sidurgu musiał sam opiekować się Rielle. Obawiając się, że nie podoła temu zadaniu, błaga o twoją pomoc. Zgadzasz się. Może to dobry moment, by poznać Rielle." },

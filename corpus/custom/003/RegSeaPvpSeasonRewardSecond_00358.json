@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegSeaPvpSeasonRewardSecond_00358",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegSeaPvpSeasonRewardSecond_00358#TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_000", "hash": "5D811F5B3939F3B7", "target": "Ach, widzę, że jeden z bardziej zajadłych wilków areny <if([lnum1>=1],Crystalline Conflict,The Feast)> wrócił do legowiska z pełnym brzuchem i błyskiem w oczach. Po nagrodę, co?" },
     { "gameKey": "custom/003/RegSeaPvpSeasonRewardSecond_00358#TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_001", "hash": "9A85D4D835C179ED", "target": "<if([lnum1>=1],<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,pierwszy,drugi,trzeci,czwarty,piąty,szósty,siódmy,ósmy,dziewiąty,dziesiąty)>,<num(lnum1)>.)>,<num(lnum1)>.)>)> sezon Crystalline Conflict już trwa!,Crystalline Conflict jest obecnie w okresie przedsezonowym.)><br>Jako kwatermistrz mam obowiązek i przywilej dostarczyć odpowiednie nagrody w łapy mistrzów poprzedniego sezonu.<if([lnum2>=1],, Oczywiście za zwycięstwa przedsezonowe takie dary nie przysługują.)> Jeśli masz pytania dotyczące podziału nagród, chętnie rozwieję wszelkie wątpliwości." },

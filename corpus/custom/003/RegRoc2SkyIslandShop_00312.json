@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegRoc2SkyIslandShop_00312",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000", "hash": "3B451FB0BB6886BB", "target": "Czy zapisze się <if(gnum4,pani,pan)> na następną misję? Jeśli tak, trzeba będzie przedłożyć dowód zakupu zbiornika ceruleum." },
     { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010", "hash": "E170CB1713ADBDD7", "target": "...Ach, najmocniej <if(gnum4,panią,pana)> przepraszam. Ze względu na niebezpieczeństwa, z którymi nasze grupy często mierzą się podczas tych wypraw, możemy przyjmować tylko najbardziej doświadczone osoby." },

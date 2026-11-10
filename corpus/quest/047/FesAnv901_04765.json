@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/FesAnv901_04765",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/FesAnv901_04765#TEXT_FESANV901_04765_SEQ_00", "hash": "865BAE2C80001812", "target": "Kipih Jakkya wygląda na zmartwioną siostrę.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/047/FesAnv901_04765#TEXT_FESANV901_04765_SEQ_01", "hash": "38B7C11E67391C19", "target": "Kipih Jakkya, reporterka <italic(1)>Kruka<italic(0)>, miała spotkać się z bratem podczas obchodów Święta Odrodzenia, lecz wyznaczona pora minęła, a Nhagi'a wciąż się nie pojawił. Prosi cię o pomoc w odnalezieniu młodzieńca. Zaczynasz od wypytywania ludzi na Targowisku Rubinowej Drogi.<br><br>※Po zakończeniu wydarzenia sezonowego ukończenie tego zadania nie będzie możliwe. Szczegóły można znaleźć w serwisie Lodestone." },

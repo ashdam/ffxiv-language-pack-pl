@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/KinGea301_05479",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGea301_05479#TEXT_KINGEA301_05479_SEQ_00", "hash": "327B24E3E6637DB7", "target": "Na twój widok żołnierz Straży Krajowej wygląda na uspokojonego." },
     { "gameKey": "quest/054/KinGea301_05479#TEXT_KINGEA301_05479_SEQ_01", "hash": "E593D6CC1A10288D", "target": "Żołnierz Straży Krajowej z zadowoleniem donosi, że w lesie nadal panuje spokój, a jego ludzie utrzymują najwyższą czujność na wypadek pojawienia się nowych ech. Następnie informuje, że Kikwezana zakończył badania i jest gotów podzielić się wynikami. Zakładając, że chcesz je poznać, zachęca cię do niezwłocznego spotkania z Prishe i pozostałymi na outskirts." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegIsb5RadzatHan_00739",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegIsb5RadzatHan_00739#TEXT_REGISB5RADZATHAN_00739__FAHRUNNAH_000_001", "hash": "5B52F1AE8A7D5875", "target": "Oho! Cóż za rzadka przyjemność powitać kogoś z daleka w naszym pięknym mieście. Jak <if(gnum4,pani,pan)> wie, dla bezpieczeństwa zwykle trzymamy bramy szczelnie zamknięte. Ale proszę... czuć się swobodnie i bez wahania pytać, jeśli mogę w czymś pomóc." },
     { "gameKey": "custom/007/RegIsb5RadzatHan_00739#TEXT_REGISB5RADZATHAN_00739__FAHRUNNAH_100_001", "hash": "84909E6370AFCB21", "target": "C-czy to też <if(gnum4,pani widziała,pan widział)>!? Co to było za straszliwe stworzenie!?" },

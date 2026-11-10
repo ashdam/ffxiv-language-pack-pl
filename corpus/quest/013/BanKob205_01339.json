@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanKob205_01339",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanKob205_01339#TEXT_BANKOB205_01339_SEQ_00", "hash": "D6F882D6FDC7E800", "target": "Wróg mojego wroga jest moim przyjacielem. Według tej definicji rzemieślnik Bo Gu to Kobold, którego zdecydowanie warto znać. Może odwiedzisz go po kilka gorących słów i zimnych gilów?" },
     { "gameKey": "quest/013/BanKob205_01339#TEXT_BANKOB205_01339_SEQ_01", "hash": "7404DC674EE3C2A1", "target": "Bo Gu chce utrzeć nosa 13. brygadzie, sabotując jej warsztat. Sumienny jedynie w pielęgnowaniu niezadowolenia rzemieślnik dobrze wie, kto może okazać się sprzymierzeńcem. Alchemik Ga Zi zapewne chętnie cię wysłucha." },

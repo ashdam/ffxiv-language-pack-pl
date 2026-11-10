@@ -1,6 +1,6 @@
 {
   "sheet": "CompanionTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "CompanionTransient#1.0", "hash": "E8501C3E189F1C32", "target": "Przywołaj swoją maskotkę, bombę wisienkę─miniaturową kopię bomby, pomiotu Otchłani, powstałą wskutek taumaturgicznego przetworzenia energii eterycznej naładowanej mocą umbralną. Gwarantujemy brak samozniszczenia albo zwrot pieniędzy." },
     { "gameKey": "CompanionTransient#1.1", "hash": "C653E5ACFFBB722C", "target": "Aby utrzymać rozżarzone do białości wnętrze, bomby pożerają niemal każdy palny materiał, w tym drewno, węgiel drzewny, ceruleum, kryształy ognia, a nawet smocze papryczki." },
@@ -2775,6 +2775,11 @@
     { "gameKey": "CompanionTransient#559.2", "hash": "8402E4E820D6DAE1", "target": "Aż trudno uwierzyć,<br>ile kłopotów potrafią sprawić.<br>   - Uaauashe" },
     { "gameKey": "CompanionTransient#559.3", "hash": "EDFFF40DCF967BC7", "target": "Pogardzany" },
     { "gameKey": "CompanionTransient#559.4", "hash": "80EDA821B0A981EE", "target": "Zwiększa własne ATK o 10 i DEF o 5 za każde utracone 5% HP.<br><colortype(504)><edgecolortype(505)>Czas trwania:<edgecolortype(0)><colortype(0)> 6 s" },
+    { "gameKey": "CompanionTransient#560.0", "hash": "C4F3321793102AB1", "target": "" },
+    { "gameKey": "CompanionTransient#560.1", "hash": "21CC38DF7E1DD0D2", "target": "" },
+    { "gameKey": "CompanionTransient#560.2", "hash": "A858F3D783CA41B8", "target": "" },
+    { "gameKey": "CompanionTransient#560.3", "hash": "BC515B797F544206", "target": "" },
+    { "gameKey": "CompanionTransient#560.4", "hash": "A6B5532295CD2F20", "target": "" },
     { "gameKey": "CompanionTransient#561.0", "hash": "7DF05D0F9B81CBCA", "target": "Przywołaj maskotkę micro crow. Inteligencja i wierność─czegóż chcieć więcej?" },
     { "gameKey": "CompanionTransient#561.1", "hash": "C09355EA1D4D901E", "target": "Ten kruk, znaleziony w laboratorium wewnątrz kompleksu Meso Terminal, służył niegdyś do doświadczeń. Gdy badacze zniknęli z placówki, przetrwał dzięki awaryjnemu zasilaniu klatki i automatycznemu systemowi karmienia. Obdarzony niezwykłą inteligencją i silnym poczuciem obowiązku, postanowił towarzyszyć osobie, która zwróciła mu wolność." },
     { "gameKey": "CompanionTransient#561.2", "hash": "F751E3111048F94B", "target": "To rozwiązałoby wszystkie nasze<br>problemy za jednym zamachem!<br>   - Benathaire" },

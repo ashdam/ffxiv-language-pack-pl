@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanAll040_01470",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanAll040_01470#TEXT_BANALL040_01470_SEQ_00", "hash": "E6DFE08EFCA6C822", "target": "Novv ma do ciebie prośbę, jak ojciec lęgu do <if(gnum4,córki,syna)>." },
     { "gameKey": "quest/014/BanAll040_01470#TEXT_BANALL040_01470_SEQ_01", "hash": "E4C68A1EA3F6C19C", "target": "Ranny ojciec lęgu Novv traktuje cię jak własne dziecko i powierza ci uratowanie porwanego Bouu. Wyjaśnia, że po porażce z zamaskowanym mężczyzną z ludu Miqo'te zdołał przebić włócznią dno jego łodzi. Przypuszcza zatem, że sprawca zawinął do Aleport na naprawę, i prosi cię o podjęcie pościgu." },

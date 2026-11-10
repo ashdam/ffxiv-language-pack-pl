@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/AktKva001_04651",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/AktKva001_04651#TEXT_AKTKVA001_04651_SYSTEM_100_000", "hash": "1B90F4C9B00426A0", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Wojny lub Magii na poziomie 90. lub wyższym. Profesje typu Ograniczony job są wykluczone." },
     { "gameKey": "quest/046/AktKva001_04651#TEXT_AKTKVA001_04651_OSMON_000_001", "hash": "E49D53C88CFBA38A", "target": "Witam, w czym mogę pomóóóc... to <if(gnum4,pani,pan)> nosi imię <string(gstr1)>, prawda?" },

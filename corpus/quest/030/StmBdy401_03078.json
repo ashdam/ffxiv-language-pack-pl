@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdy401_03078",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdy401_03078#TEXT_STMBDY401_03078_SEQ_00", "hash": "156E72EF7F679B24", "target": "Galiena jest niemal pewna, że jesteś poszukiwaną przez nią osobą." },
     { "gameKey": "quest/030/StmBdy401_03078#TEXT_STMBDY401_03078_SEQ_01", "hash": "8D800AE937C1FEBD", "target": "W Rhalgr's Reach podchodzi do ciebie Galiena, której „ciocia Rowena” poleciła poprosić cię o pomoc w zbadaniu niedawno odkrytej wyspy. Wyspa leży podobno gdzieś na Dalekim Wschodzie. Jeśli chcesz wiedzieć więcej, nie pozostaje nic innego, jak ponownie udać się do odległego Kugane i porozmawiać z Kotokaze, szanowaną właścicielką Shiokaze Hostelry." },

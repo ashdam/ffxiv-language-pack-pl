@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanAll060_01472",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanAll060_01472#TEXT_BANALL060_01472_SEQ_00", "hash": "2A4831783EF2A8E1", "target": "Tataramu chce pomóc ci w wytropieniu ściganego." },
     { "gameKey": "quest/014/BanAll060_01472#TEXT_BANALL060_01472_SEQ_01", "hash": "14EC10E91365AD4F", "target": "Tataramu proponuje wykorzystać kontakty w Liniach Powietrznych Highwind, by pomóc w odnalezieniu nieuchwytnego porywacza zwierzoludzi. Udaj się na lądowisko statków powietrznych w Ul'dah, gdzie będzie na ciebie czekał doradca Colson." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/RegRoc2NotoriousMonsterHintT1B_00269",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintT1B_00269#TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_000", "hash": "351899D4919648DF", "target": "Chcesz spróbować sił w zabijaniu smoków? Proszę bardzo─tylko musisz wiedzieć, z czym się mierzysz. Te łuskowate dranie są sprytniejsze, niż myślisz, i do tego przebiegłe." },
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintT1B_00269#TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_001", "hash": "BD31105AC3AD7AA0", "target": "Witaj, <if(gnum4,siostro,bracie)>! Jeśli wybierasz się na łowy w rejonie Churning Mists, mam informacje, które mogą ci się przydać." },

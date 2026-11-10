@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/ChrEnd104_02155",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/ChrEnd104_02155#TEXT_CHREND104_02155_SEQ_00", "hash": "0B31D01A541A44FA", "target": "Briardien zerka na ciebie, poprawiając okulary." },
     { "gameKey": "quest/021/ChrEnd104_02155#TEXT_CHREND104_02155_SEQ_01", "hash": "0393EC55B1A1FAB5", "target": "Briardien przeczuwa, że zaginiony jedenasty tom <italic(1)>Artykułów ustroju halonicznego<italic(0)> i nagła rezygnacja Ulaa są ze sobą powiązane. Postanawia odnaleźć dziewczynę i zapytać, co skłoniło ją do zmiany zdania─lub kto za tym stoi. Tymczasem Saturnois prosi cię o rozmowę w cztery oczy na placu obok Saint Reymanaud's Cathedral." },

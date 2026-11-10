@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanAll140_02385",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SEQ_00", "hash": "5C78556B5EF8B76E", "target": "Twój uczeń jest onieśmielony, lecz nie daje za wygraną." },
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SEQ_01", "hash": "381968B1B0724D77", "target": "Mimo ostatnich rozczarowań twój uczeń jest zdeterminowany kontynuować misję. Robi dobrą minę do złej gry i śmiało ogłasza zamiar wyprawy do Azys Lla. Posuwa się nawet do wyzwania Ohl Deeh na wyścig na latającą wyspę. Ruszasz za nimi, wiedząc, że twoja obecność z pewnością będzie potrzebna, by nie porwali się z motyką na słońce." },

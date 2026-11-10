@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/FesVlt002_01298",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/FesVlt002_01298#TEXT_FESVLT002_01298_SEQ_00", "hash": "48AC336EB31C6CFB", "target": "Lisette chce wysłać cię w podróż po krainie, by nieść pomoc zagubionym w miłości.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/012/FesVlt002_01298#TEXT_FESVLT002_01298_SEQ_01", "hash": "7AE345736265BCA3", "target": "Przyzywając święte moce przodków, lady Lisette odkrywa tożsamość i miejsce pobytu młodej panny potrzebującej pomocy w wyrażeniu głębi swoich uczuć. Odszukaj dziewczynę─Yellow Moon z Weavers' Guild w Ul'dah─i sprawdź, co ją trapi.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz na Lodestone." },

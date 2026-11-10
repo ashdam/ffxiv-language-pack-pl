@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst039_00196",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "Galfrid, główny instruktor na placu ćwiczeń Bannock, chce, by pomóc w szkoleniu nowych rekrutów." },
     { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Galfridem na placu ćwiczeń Bannock.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa408_00750",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_SEQ_00", "hash": "EEC77D3590137398", "target": "Badaczka Gogoshu potrzebuje pomocy poszukiwacza przygód w rozprawieniu się z dokuczliwymi myszołowami." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_SEQ_01", "hash": "8BACD40E144512A7", "target": "Nadmiernie agresywne chasm buzzard zakłócają badania ruin w pobliżu Highbridge. Zabij cztery ptasie szkodniki, by Gogoshu mogła wznowić pracę." },

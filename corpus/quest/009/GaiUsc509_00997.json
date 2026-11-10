@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc509_00997",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc509_00997#TEXT_GAIUSC509_00997_SEQ_00", "hash": "6FF0F2265B85B8C2", "target": "Poszukiwacze przygód z Myta Upiora mają obrzęd inicjacyjny z udziałem cuchnących roślinnych stworzeń. To dumna tradycja, o której najwyraźniej wie tylko Aganbold." },
     { "gameKey": "quest/009/GaiUsc509_00997#TEXT_GAIUSC509_00997_SEQ_01", "hash": "E38BCFC7FFA1603B", "target": "Aganbold upiera się, że aby zdobyć uznanie jako <if(gnum4,poszukiwaczka,poszukiwacz)> przygód w Mycie Upiora, musisz przejść próbę. Pierwsze słyszysz, ale skoro masz trochę czasu, ruszaj na zachód do Plątaniny i zabij trzy morbol." },

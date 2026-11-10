@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm051_00275",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm051_00275#TEXT_CLSARM051_00275_SEQ_00", "hash": "AE9F386A45E1D5E0", "target": "Mistrzyni kuźni H'naanza potrzebuje twojej pomocy przy zamówieniu klienta." },
     { "gameKey": "quest/002/ClsArm051_00275#TEXT_CLSARM051_00275_SEQ_01", "hash": "022A7ECA92578226", "target": "Ambitny młody płatnerz Swithin przecenił siły. Przyjął zamówienie na tyle tarcz, że nie zdoła ich wykonać w obiecanym terminie. Dbając o reputację Gildii Płatnerzy, H'naanza poleca ci pomóc w realizacji, wykonując trzy bronze hoplons. Wytwórz zamówione przedmioty i dostarcz je mistrzyni kuźni." },

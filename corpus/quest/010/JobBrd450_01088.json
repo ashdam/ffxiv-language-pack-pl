@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobBrd450_01088",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobBrd450_01088#TEXT_JOBBRD450_01088_SEQ_00", "hash": "82A9ED212BFE80E5", "target": "Jehantel zgadza się zaśpiewać ci Balladę o Próżnym Głupcu." },
     { "gameKey": "quest/010/JobBrd450_01088#TEXT_JOBBRD450_01088_SEQ_01", "hash": "E280CDCCA7425D0C", "target": "Po zaśpiewaniu ballady Jehantel prosi cię o udanie się do Ruin Gelmorry w rejonie North Shroud. Na miejscu masz złożyć bukiet lilii Nymei tam, gdzie spoczywają polegli." },

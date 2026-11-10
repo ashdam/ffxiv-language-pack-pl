@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb111_04069",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb111_04069#TEXT_AKTKBB111_04069_SEQ_00", "hash": "152FDFA0A9F9BA9F", "target": "Lalah Jinjahl nie może się doczekać, by przekazać wieści z ojczystego Sharlayanu." },
     { "gameKey": "quest/040/AktKbb111_04069#TEXT_AKTKBB111_04069_SEQ_01", "hash": "7BEAC7A16E2C135B", "target": "Podekscytowana Lalah informuje cię, że zakończono analizę tajemniczej rośliny. To muscmaloi, zioło o silnych właściwościach wzmacniających eter, z powodu których zakazano jego uprawy. Nie zdobywszy go w arboretum, zbiegowie zapewne poszukają innego źródła. Lalah ustaliła, że handluje nim aptekarka z Lost Hope. By ją odnaleźć, udajecie się najpierw do Black Brush Station w rejonie Central Thanalan." },

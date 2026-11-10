@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/CtsHnt40AlaGhiri_00429",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsHnt40AlaGhiri_00429#TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_000", "hash": "EB5B69D398D23228", "target": "Kiedy usłyszałem, że Ala Ghiri zostało wyzwolone, zarzuciłem topór na plecy i przybiegłem szukać potworów do upolowania." },
     { "gameKey": "custom/004/CtsHnt40AlaGhiri_00429#TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_001", "hash": "A70BC4B64240DB0F", "target": "Kiedy usłyszałem, że Ala Ghiri zostało wyzwolone, zarzuciłem topór na plecy i przybiegłem szukać potworów do upolowania. Chętnie podzielę się notatkami, jeśli też masz na to ochotę, <if(gnum4,siostro,bracie)>." },

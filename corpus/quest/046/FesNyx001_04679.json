@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/FesNyx001_04679",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/FesNyx001_04679#TEXT_FESNYX001_04679_SEQ_00", "hash": "DA3AE1D0070719D0", "target": "Inspektor Smoka szuka pomocy życzliwej osoby trudniącej się poszukiwaniem przygód.<br><br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/046/FesNyx001_04679#TEXT_FESNYX001_04679_SEQ_01", "hash": "3ACEC9F6A07E6B8D", "target": "Inspektor Smoka z radością informuje, że trwają już tegoroczne obchody Niebiańskiego Przełomu, podczas których na Dalekim Wschodzie oddaje się cześć smoczemu ryu. Jednak <italic(1)>nie<italic(0)> cieszy go wieść, że ich maskotki─pisklęta chocobo w strojach ryu─nie potrafią zjednać sobie mieszkańców. Pragnąc poznać przyczynę chłodnego przyjęcia, inspektor prosi cię o pomoc przywódczyni delegacji, smoczej zarządczyni, którą wraz z jej pierzastym przyjacielem można znaleźć na skraju placu The Aftcastle.<br><br>※Po zakończeniu wydarzenia sezonowego ukończenie tego zadania nie będzie możliwe. Szczegóły można znaleźć w serwisie Lodestone." },

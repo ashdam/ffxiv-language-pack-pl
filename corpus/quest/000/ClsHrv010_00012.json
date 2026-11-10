@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsHrv010_00012",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsHrv010_00012#TEXT_CLSHRV010_00012_SEQ_00", "hash": "4DED91F3079E7441", "target": "Ostatnie wydarzenia coraz bardziej podważają pewność siebie Fufuchy." },
     { "gameKey": "quest/000/ClsHrv010_00012#TEXT_CLSHRV010_00012_SEQ_01", "hash": "79965CF0AEDAFF80", "target": "Fufucha otrzymała od Zakonu Dwóch Żmij zamówienie na jemiołę, ale martwi ją przeznaczenie rośliny. Udaj się do Gniazda Żmij i zapytaj podporucznika Żmii Gavina o szczegóły zlecenia." },

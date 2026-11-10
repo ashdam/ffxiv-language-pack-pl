@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzd104_03430",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_SEQ_00", "hash": "AC2AD82632F6D299", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tonatiuh aż przebiera łapami na myśl o zdobyciu lampy fae." },
     { "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_SEQ_01", "hash": "77F2A4A49133CD75", "target": "Tonatiuh pragnie zdobyć ostatni z trzech żądanych przedmiotów, lampę fae. Kieruje się do Lydha Lran, by porozumieć się z pixie.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

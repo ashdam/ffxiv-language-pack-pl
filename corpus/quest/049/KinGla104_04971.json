@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla104_04971",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla104_04971#TEXT_KINGLA104_04971_SEQ_00", "hash": "C99CA2D507094573", "target": "Wpłynęło pilne zamówienie i Rral Soj potrzebuje twojej pomocy przy jego realizacji." },
     { "gameKey": "quest/049/KinGla104_04971#TEXT_KINGLA104_04971_SEQ_01", "hash": "4FBB354311235DCA", "target": "Rral Soj zleca ci wykonanie Lightweight Lantern dla wędrownej handlarki z ludu Pelupelu.<br><br>※ Minimalna wartość kolekcjonerska wymaganych wyrobów wynosi 230. Dostarczenie przedmiotów o wartości co najmniej 470 zapewni większe nagrody." },

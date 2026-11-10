@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegRoc2Mariorie_00707",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000", "hash": "65D0B4E3B7C81133", "target": "<split(<string(gstr1)>, ,1)>! Czy <if(gnum4,pani,pana)> obecność oznacza, że zechce nas <if(gnum4,pani,pan)> zaszczycić kolejnym występem? Jeśli tak, z przyjemnością natychmiast sprowadzę pozostałych wykonawców!" },
     { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001", "hash": "CD3D6131BB51FDDF", "target": "A jeśli tym razem ma <if(gnum4,pani,pan)> ochotę spróbować sił w trudniejszej kompozycji, z przyjemnością dostarczę inną partyturę." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse413_00081",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse413_00081#TEXT_GAIUSE413_00081_SEQ_00", "hash": "1500A1761847D3DF", "target": "Shinobi najwyraźniej chce cię już wyprawić w dalszą drogę." },
     { "gameKey": "quest/000/GaiUse413_00081#TEXT_GAIUSE413_00081_SEQ_01", "hash": "E6E2CC2FC7DD4FD2", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Ilberdem w Gridanii.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz go włączyć lub wyłączyć w menu Character Configuration, w sekcji UI Settings." },

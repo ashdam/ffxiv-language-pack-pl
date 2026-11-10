@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobBrd501_01713",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_SEQ_00", "hash": "9D40BF41FA325586", "target": "Jehantel chce pomóc ci wznieść się wyżej w waszej sztuce." },
     { "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_SEQ_01", "hash": "6100DD1E7C47CC74", "target": "Jehantel opowiada o ostatnim zajęciu: szkoleniu członków Kołczanu Bogów. Zainteresowanie rozwojem młodszego pokolenia dodało jego pieśniom mocy i wierzy, że twoje mogą zyskać podobnie. Jeśli chcesz osiągnąć nowe wyżyny bardowskiej sztuki, przyjmij zaproszenie do Twierdzy Kołczanu, gdzie poznasz jego znajomego." },

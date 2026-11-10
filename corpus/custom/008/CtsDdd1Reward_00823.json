@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/CtsDdd1Reward_00823",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/CtsDdd1Reward_00823#TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_001", "hash": "A30A7424F3070491", "target": "Witam. Jestem E<-->Una<-->Kotor. Padjal z Gridanii, jak można wywnioskować z rogów na mojej głowie. Tutaj, w Lesie Dwunastu, ujawniła się nienaturalna obecność i wezwano mnie, bym ją zbadał. Proszę zachować ostrożność. Niech żywiołaki mają <if(gnum4,panią,pana)> w swej opiece." },
     { "gameKey": "custom/008/CtsDdd1Reward_00823#TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_010", "hash": "F37315B58AEB5FF6", "target": "Witam. Jestem E<-->Una<-->Kotor, Padjal z Gridanii. Jak <if(gnum4,pani,pan)> zapewne wie, Leśni Płaczkowie rozpoczęli badania dziwnego labiryntu, odkrytego niedawno w ruinach Gelmorry. Działają tu osobliwe siły. Przybyłem, by chronić Leśnych Płaczków przed niebezpieczeństwem." },

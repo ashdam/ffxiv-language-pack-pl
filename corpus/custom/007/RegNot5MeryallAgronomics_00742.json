@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegNot5MeryallAgronomics_00742",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_000", "hash": "05BDE7F19562E459", "target": "Och, nieczęsto spotyka się tu kogoś, kto tak wyraźnie... nie pasuje do tego miejsca. Mogę <if(gnum4,pani,panu)> w czymś pomóc?" },
     { "gameKey": "custom/007/RegNot5MeryallAgronomics_00742#TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_001", "hash": "20AC9F4F512CA39D", "target": "Forum nakazało nam opuścić to miejsce. Jak <if(gnum4,pani,pan)> sobie wyobraża, to nie pora, bym odpowiadała na próżne pytania. Ale jeśli <if(gnum4,pani,pan)> nalega..." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/JobSmn650_02627",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/JobSmn650_02627#TEXT_JOBSMN650_02627_SEQ_00", "hash": "BAE0233984794D2C", "target": "Y'mhitra ma wieści dotyczące ostatniej próby." },
     { "gameKey": "quest/026/JobSmn650_02627#TEXT_JOBSMN650_02627_SEQ_01", "hash": "DA221F2C862717FC", "target": "Principia ogłasza, że nadeszła pora trzeciej próby. Chowaniec najwyraźniej nie może zdradzić jej dokładnego charakteru, ale wyjaśnia, że znów będzie potrzebna pomoc początkujących magów Dancing Wolfa. Y'mhitra kontaktuje się z kapitanem Płomieni, który chętnie organizuje pozorowaną bitwę na Seal Rock. Spotkaj się z Y'mhitrą na lądowisku statków powietrznych w Ul'dah." },

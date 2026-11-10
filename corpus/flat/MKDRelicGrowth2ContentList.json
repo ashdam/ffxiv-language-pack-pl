@@ -1,6 +1,6 @@
 {
   "sheet": "MKDRelicGrowth2ContentList",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "MKDRelicGrowth2ContentList#0", "hash": "4B29D49C78EBB906", "target": "Dostępne po ukończeniu co najmniej dwóch lochów z najnowszej aktualizacji." },
     { "gameKey": "MKDRelicGrowth2ContentList#4", "hash": "AB9406293BA102F9", "target": "Dostępne po ukończeniu odpowiedniego głębokiego lochu i postępach w zadaniach pobocznych w Crystarium." },

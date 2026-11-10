@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/JobWar520_00586",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/JobWar520_00586#TEXT_JOBWAR520_00586_SEQ_00", "hash": "368D6451D41B6F16", "target": "Broken Mountain ma chyba wątpliwości, czy zgłębiać świeżo zdobytą wiedzę." },
     { "gameKey": "quest/005/JobWar520_00586#TEXT_JOBWAR520_00586_SEQ_01", "hash": "A72B0432F28EEF5C", "target": "Zanim podzieli się nowymi odkryciami o Mythril Heart, Broken Mountain prosi cię o wyprawę z Curious Gorge w rejon Coerthas Central Highlands, by zgładzić groźną bestię. Choć nie wydaje się to związane z badaniami, zapewnia, że prośba jest niezwykle ważna. Spotkaj się z nim przy Weeping Saint i wykonaj zadanie." },

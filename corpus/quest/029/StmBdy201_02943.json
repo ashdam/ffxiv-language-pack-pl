@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/StmBdy201_02943",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "Ach, oto <if(gnum4,bohaterka\\, która skruszyła,bohater\\, który skruszył)> kajdany ucisku zarówno w Domie, jak i Ala Mhigo! Mimo rosnącej sławy wciąż znajdujesz cenny czas dla tego skromnego minstrela. To dla mnie zaszczyt." },
     { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "Jeśli mogę spytać, jak podoba ci się Daleki Wschód? Trudno nie polubić miejsca o tak wielu urokach. Zajmuje szczególne miejsce w moim sercu. Można wręcz nazwać go moim drugim domem, tak często tu wracam w nieustannym poszukiwaniu poezji." },

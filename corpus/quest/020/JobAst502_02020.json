@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobAst502_02020",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobAst502_02020#TEXT_JOBAST502_02020_SEQ_00", "hash": "053E9DE654A0C420", "target": "Jannequinard tak bardzo chce z tobą porozmawiać, jakby nad jego głową wisiał olbrzymi wykrzyknik." },
     { "gameKey": "quest/020/JobAst502_02020#TEXT_JOBAST502_02020_SEQ_01", "hash": "654DA766C9841881", "target": "Jannequinard prosi cię o pozostanie w Observatorium. Masz zadać Forlemortowi pytania, które zapewne powinny były paść już przy konfrontacji z naczelnym astrologiem w sprawie jego udziału w próbie porwania pani Levevy." },

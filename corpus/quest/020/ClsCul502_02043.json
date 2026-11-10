@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsCul502_02043",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_00", "hash": "FC02553633662984", "target": "Lyngsath zamierza znaleźć ci nowe wyzwanie." },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_01", "hash": "CEF673C860049686", "target": "Znajoma Lyngsatha potrzebuje usług <if(gnum4,wybitnej kucharki,wybitnego kucharza)>, a mistrz gildii uważa, że jesteś <if(gnum4,właściwą kandydatką,właściwym kandydatem)>. Jeśli kusi cię nowe wyzwanie, udaj się do tawerny Brakujący Członek i przedstaw się głównej kelnerce, Melkoko." },

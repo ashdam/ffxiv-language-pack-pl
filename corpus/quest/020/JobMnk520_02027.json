@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobMnk520_02027",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_SEQ_00", "hash": "D9B073DC7166D85B", "target": "Widargelt ma przepraszającą minę." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_SEQ_01", "hash": "5524E9393C961CCD", "target": "Widargelt informuje cię, że zapytał profesora Erika o swoją nowo otwartą czakrę. Niestety zacny profesor jeszcze nie odpowiedział, więc nie ma żadnych wieści. Odkładając na razie tę sprawę, Widargelt zaprasza cię do ponownego nadzorowania ćwiczeń uczniów. Dołącz do niego na zachód od Myta Upiora, gdzie właśnie trwa trening." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGze304_05147",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze304_05147#TEXT_KINGZE304_05147_SEQ_00", "hash": "BC1457FFBDFDEDA8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kayamene trzyma kamień w dłoni, a na jej czole widać troskę." },
     { "gameKey": "quest/051/KinGze304_05147#TEXT_KINGZE304_05147_SEQ_01", "hash": "2A71781C55E835AA", "target": "Kayamene uświadamia sobie, że zabierając dziwne białe kryształy z Paszczy Sansheyi, naraziła całe Shaaloani na niebezpieczeństwo. Pędzi odnieść swój kamień do Paszczy i prosi, by jak najszybciej pójść w jej ślady.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

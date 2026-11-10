@@ -1,6 +1,6 @@
 {
   "conversation": "quest/039/FesVlt702_03997",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/FesVlt702_03997#TEXT_FESVLT702_03997_SEQ_00", "hash": "6032227191CFA5CF", "target": "Elyne spogląda na ciebie z wyczekiwaniem.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/039/FesVlt702_03997#TEXT_FESVLT702_03997_SEQ_01", "hash": "CB11203BD85F7CDA", "target": "Elyne wyjaśnia, na czym polega przysługa: prosi o twoją eskortę, by rodzice pozwolili jej towarzyszyć Kupce Kuppowi w wyprawie do Ul'dah. Gdy przyjmujesz prośbę, wasza niewielka grupa umawia się przed odlotem w gridańskiej przystani statków powietrznych.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie The Lodestone." },

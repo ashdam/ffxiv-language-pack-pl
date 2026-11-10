@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/CmnDefRelicWeapon025CancelNote_00168",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "...Hm? Przecież nie mogę wyrzucić czegoś, czego nie masz, prawda?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "...Naprawdę? Cóż, ten stary, zapleśniały foliant <italic(1)>miał<italic(0)> trafić do pieca, tak czy─eee...To znaczy, serce mi pęka, gdy kawał historii traktuje się jak stertę zbrukanego pergaminu, ale kimże ja jestem, żeby sprzeciwiać się klientowi?" },

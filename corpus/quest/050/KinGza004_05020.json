@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGza004_05020",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza004_05020#TEXT_KINGZA004_05020_SEQ_00", "hash": "84EE6B5D860D7216", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Napotykasz osobliwą kolbę kukurydzy, która niemal wydaje się żywa." },
     { "gameKey": "quest/050/KinGza004_05020#TEXT_KINGZA004_05020_SEQ_01", "hash": "B0CDACAA356556C3", "target": "Rozmawiasz z osobliwą kolbą kukurydzy i odkrywasz, że to pradawny duch zwący się Cornservantem. Zapomniany przez wszystkich, obawiał się, że zniknie zupełnie. Jednak twoja obecność napełniła rozradowaną kolbę nową nadzieją. Pragnie nakarmić serca i brzuchy mieszkańców Tuliyollalu i wierzy, że z twoją pomocą zdoła spełnić swoje powołanie.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

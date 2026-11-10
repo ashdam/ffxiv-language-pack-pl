@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobBlm350_01074",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobBlm350_01074#TEXT_JOBBLM350_01074_SEQ_00", "hash": "BE8EB1CEB7282D17", "target": "Lalai z Sanktuarium Milvaneth ma wskazówki dla szukających czarnej magii." },
     { "gameKey": "quest/010/JobBlm350_01074#TEXT_JOBBLM350_01074_SEQ_01", "hash": "271D4B594604CAB0", "target": "Od Lalai dowiadujesz się, że gdy noszony przez ciebie kryształ czarnego maga rozbłyśnie nowym światłem, zdobędziesz klucz do ponownego zapieczętowania bramy Otchłani. By spełnić przepowiednię, udaj się na Pustynię Sagolii w southern Thanalan i zabij potwory wychodzące ze szczeliny między wymiarami. Następnie zbierz ich krew na ofiarę." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/GaiUsb615_01311",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/GaiUsb615_01311#TEXT_GAIUSB615_01311_SEQ_00", "hash": "DB1F0A19684ED927", "target": "Kiedy na ziemi jest więcej śniegu niż ciepłych posiłków na stole, pozostaje tylko dołączyć do Duvicauroix i porzucać śnieżkami." },
     { "gameKey": "quest/013/GaiUsb615_01311#TEXT_GAIUSB615_01311_SEQ_01", "hash": "9B25C7B00C101B4D", "target": "Duvicauroix chce, by trafiła go twoja śnieżka. Spełnij prośbę, zaznacz wesołego kupca i użyj /throw." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWhm400_01081",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWhm400_01081#TEXT_JOBWHM400_01081_SEQ_00", "hash": "AB5B05E473695CF2", "target": "Raya<-->O<-->Senna chce cię poprosić o przysługę." },
     { "gameKey": "quest/010/JobWhm400_01081#TEXT_JOBWHM400_01081_SEQ_01", "hash": "C9BC7B0643CDA373", "target": "A<-->Ruhn<-->Senna nie dał się przekonać siostrze i samotnie ruszył do Cierniowego Gąszczu, by dowieść, że twoje moce są zbędne. Raya<-->O<-->Senna obawia się o brata i prosi, by go odszukać." },

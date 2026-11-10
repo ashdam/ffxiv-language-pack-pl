@@ -1,6 +1,6 @@
 {
   "sheet": "WKSMissionText",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "WKSMissionText#1", "hash": "24090DE0A00EFC64", "target": "Sinus Ardorum pilnie potrzebuje materiałów do budowy i rozwoju Moongate Hub, wewnątrzgwiezdnego systemu transportowego, miejscowych modułów mieszkalnych oraz infrastruktury niezbędnej do podróży na inne gwiazdy. Szczególnie duże jest zapotrzebowanie na metalowe płyty, zwłaszcza te spełniające rygorystyczne normy eksploracji kosmicznej. Poszukujemy utalentowanych rzemieślników zdolnych zaspokoić nasze potrzeby metalurgiczne." },
     { "gameKey": "WKSMissionText#2", "hash": "6C3CDEFF436DB87B", "target": "Księżycowy adamantyt to minerał występujący wyłącznie na księżycu, lecz próbki zebrane w Sinus Ardorum zdają się jeszcze wytrzymalsze od wszystkich dotąd napotkanych─ta właściwość może się okazać niezwykle przydatna przy budowie statków kosmicznych i rozmaitych obiektów na księżycu. Wzywamy wprawnych metalurgów do regularnego wytwarzania sztabek z naszych zapasów rudy, abyśmy mogli badać nowe zastosowania tego surowca w naszym kosmicznym projekcie." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/ClsAcn011_00452",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_00", "hash": "C06B1F02562B5EAA", "target": "Murie chce się upewnić, że nadal pragniesz dołączyć do Gildii Arkanistów." },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_01", "hash": "7ACB35D21AE4C6A1", "target": "Murie wyjaśnia, że choć zwykle należy przedstawić się mistrzowi gildii, przywódca arkanistów jest obecnie nieosiągalny. Zamiast niego porozmawiaj z Thubyrgeim, która pełni jego obowiązki." },

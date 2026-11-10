@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa005_01490",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa005_01490#TEXT_BANIXA005_01490_SEQ_00", "hash": "E9EC59A1890DAFA7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Sezul ma kolejną prośbę wymagającą pomocy bezpiórych." },
     { "gameKey": "quest/014/BanIxa005_01490#TEXT_BANIXA005_01490_SEQ_01", "hash": "A0EB07D9077E8299", "target": "Sezul zamierza zbudować nową tokarkę i zleca ci zdobycie koła zębatego wysokiej klasy. Porozmawiaj z innym bezpiórym, konstruktorem Tataramu, i sprawdź, czy podpowie, od czego zacząć poszukiwania.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

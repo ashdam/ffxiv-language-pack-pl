@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/HeaVnz024_01749",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/HeaVnz024_01749#TEXT_HEAVNZ024_01749_SEQ_00", "hash": "0FC2DB5A7016ECAD", "target": "Gildon szuka pomocy w poznaniu planów Vanu." },
     { "gameKey": "quest/017/HeaVnz024_01749#TEXT_HEAVNZ024_01749_SEQ_01", "hash": "1EB7BDB9FAEA919A", "target": "Gildon przekazuje ci doniesienia patroli: twoja potyczka z wojownikiem Vanu na klifie na północny wschód od obozu nie była odosobnionym przypadkiem. Najwyraźniej Vanu regularnie obserwują okolicę. Pozostaje pytanie, w jakim celu. Gildon prosi cię o pomoc w znalezieniu odpowiedzi. Wróć na miejsce ataku i poszukaj wskazówek dotyczących ich planów." },

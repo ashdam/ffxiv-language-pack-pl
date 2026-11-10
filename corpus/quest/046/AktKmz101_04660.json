@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/AktKmz101_04660",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/AktKmz101_04660#TEXT_AKTKMZ101_04660_SEQ_00", "hash": "A66A16E6C4710F66", "target": "Coś zaniepokoiło tego zwiadowcę Promienistego Zastępu." },
     { "gameKey": "quest/046/AktKmz101_04660#TEXT_AKTKMZ101_04660_SEQ_01", "hash": "F53EC6DB30ABF537", "target": "Zwiadowca Promienistego Zastępu wyjaśnia, że podczas niedawnego patrolu natknął się na pomiot Otchłani. Bestia była jednak dziwnie łagodna, więc wbrew rozsądkowi postanowił ją pojmać, zamiast zabić. Słyszał o twojej niedawnej wyprawie do Otchłani i ma nadzieję, że twoja wiedza pomoże odkryć zamiary pomiotu. W tym celu prosi, by udać się z nim do Hall of the Radiant Host." },

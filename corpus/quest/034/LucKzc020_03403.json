@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzc020_03403",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>An Iala ma do ciebie poważną prośbę." },
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Zabić dwa rosebears, a następnie pokonać giant rosebear, gdy się pojawi" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/JobWar001_01119",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/JobWar001_01119#TEXT_JOBWAR001_01119_SEQ_00", "hash": "74F1457E98492A0B", "target": "Gerolt wygląda jak pokonany człowiek." },
     { "gameKey": "quest/011/JobWar001_01119#TEXT_JOBWAR001_01119_SEQ_01", "hash": "BAD1790A1D7E54B5", "target": "Gerolt niechętnie zgadza się wykorzystać swój kunszt, by odrestaurować legendarną broń z dawnych czasów. Na początek każe ci udać się do kopalni U'Ghamaro Mines w regionie Outer La Noscea i odzyskać zaginiony topór Bravura. Poszukaj pojemnika, w którym może spoczywać cenna relikwia." },

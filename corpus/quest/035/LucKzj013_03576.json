@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzj013_03576",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj013_03576#TEXT_LUCKZJ013_03576_SEQ_00", "hash": "1442EB6E26D6749B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Wizjoner Ondo marzy o tym, by podzielić się swoją pasją z pobratymcami." },
     { "gameKey": "quest/035/LucKzj013_03576#TEXT_LUCKZJ013_03576_TODO_00", "hash": "BE21B4DE41FBEF6F", "target": "Porozmawiać z wizjonerem Ondo poza Cups" },

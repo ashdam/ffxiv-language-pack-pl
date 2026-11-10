@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla203_04977",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla203_04977#TEXT_KINGLA203_04977_SEQ_00", "hash": "E7757358BA0443F2", "target": "Pameka jest gotowa na opowieść ludu Pelupelu." },
     { "gameKey": "quest/049/KinGla203_04977#TEXT_KINGLA203_04977_SEQ_01", "hash": "30BC0BC653886F71", "target": "Wiedząc, że następne opowieści Zemoweni będą dotyczyć ludu Pelupelu, Pameka proponuje nowe podejście do kolejnej księgi. Aby oprawa współgrała z regionalnymi historiami, należy wykonać ją z materiałów pochodzących z Urqopachy. Przygotuj Pelupelu Cover Components.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 210. Dostarczenie przedmiotów o wartości co najmniej 430 zapewni większe nagrody." },

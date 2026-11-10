@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobAst350_02014",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobAst350_02014#TEXT_JOBAST350_02014_SEQ_00", "hash": "E2AA7D24D01C0B5C", "target": "Jannequinard uważa, że <if(gnum4,oboje jesteście,obaj jesteście)> gotowi na kolejny etap szkolenia." },
     { "gameKey": "quest/020/JobAst350_02014#TEXT_JOBAST350_02014_SEQ_01", "hash": "8CF5113117D4C3CE", "target": "Jannequinard wyjawia, że Leveva czeka na was przy Ostatniej Modlitwie we wschodnim Thanalan. Tam macie spróbować otworzyć bramę drugiego nieba." },

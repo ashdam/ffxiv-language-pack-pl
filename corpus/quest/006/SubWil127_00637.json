@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/SubWil127_00637",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubWil127_00637#TEXT_SUBWIL127_00637_SEQ_00", "hash": "2458353DCC44B4A4", "target": "Botanika Jospaire poruszają rośliny wyrastające wokół martwego goobbue." },
     { "gameKey": "quest/006/SubWil127_00637#TEXT_SUBWIL127_00637_SEQ_01", "hash": "440B6326D521110D", "target": "Na odludziu na wschód od Drybone spotykasz botanika Jospaire, który bada nową roślinność wokół martwego goobbue. Aby uchronić niezwykłe rośliny przed pustynnym skwarem, Jospaire prosi cię o przyniesienie mętnej wody ze stawu na zachodzie." },

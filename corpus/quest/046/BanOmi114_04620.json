@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/BanOmi114_04620",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi114_04620#TEXT_BANOMI114_04620_SEQ_00", "hash": "366F206680093583", "target": "Stigma-4 otrzymał nową dyrektywę, by dodać kawiarni smaku.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
     { "gameKey": "quest/046/BanOmi114_04620#TEXT_BANOMI114_04620_SEQ_01", "hash": "BA9CCED14B33831F", "target": "Porozmawiać z jednostką badań żywieniowych" },

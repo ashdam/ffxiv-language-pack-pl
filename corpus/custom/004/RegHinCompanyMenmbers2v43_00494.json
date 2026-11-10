@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/RegHinCompanyMenmbers2v43_00494",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/RegHinCompanyMenmbers2v43_00494#TEXT_REGHINCOMPANYMENMBERS2V43_00494_GOODLOOKINGMEMBER_000_070", "hash": "9D7E49D4A0BFB415", "target": "Tak szybko wraca <if(gnum4,pani,pan)> ze wzburzonego morza? A gdzie reszta <if(gnum4,pani,pańskiej)> wesołej kompanii?" },
     { "gameKey": "custom/004/RegHinCompanyMenmbers2v43_00494#TEXT_REGHINCOMPANYMENMBERS2V43_00494_GOODLOOKINGMEMBER_000_080", "hash": "2F6CD694E36E483B", "target": "Ba'Gamnan się przemienił, powiada <if(gnum4,pani,pan)>? Czy to na pewno nie była jakaś sztuczka sceniczna? Odrobina aktorskiej farby i kilka odpowiednio ustawionych latarni potrafią sprawić, że nawet najłagodniejsi członkowie Majestic wyglądają jak potwory." },

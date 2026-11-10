@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla207_04145",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SEQ_00", "hash": "FB9DAE0BCF2F670E", "target": "Jude chce z tobą porozmawiać przed ukończeniem gwiezdnego wziernika." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SEQ_01", "hash": "9F7A2385FDE20EA9", "target": "Jude prosi cię o wykonanie różdżki do gwiezdnego wziernika. Pozwoli ona użytkownikowi skierować magię do tego dawnego teleskopu." },

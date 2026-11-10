@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobMnk400_01063",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobMnk400_01063#TEXT_JOBMNK400_01063_SEQ_00", "hash": "F5B04A16E2BB1300", "target": "Profesor Erik szuka dalszej pomocy w badaniach eteru." },
     { "gameKey": "quest/010/JobMnk400_01063#TEXT_JOBMNK400_01063_SEQ_01", "hash": "FFC3AF94B7D2282E", "target": "Profesor Erik powierzył ci dwa zadania. Pierwszym jest odebranie eterometru od Widargelta. Udaj się do Małego Ala Mhigo w południowym Thanalan i porozmawiaj z mnichem." },

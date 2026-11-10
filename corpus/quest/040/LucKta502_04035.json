@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKta502_04035",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKta502_04035#TEXT_LUCKTA502_04035_SEQ_00", "hash": "7FEFDDD70033D309", "target": "Kierownik wykopalisk zamierza znaleźć Konogga, choćby nie wiem co." },
     { "gameKey": "quest/040/LucKta502_04035#TEXT_LUCKTA502_04035_SEQ_01", "hash": "32B2E49C40539A2C", "target": "Mimo twoich obaw kierownik wykopalisk nalega, by towarzyszyć ci w The Puppets' Bunker. Wiesz, że kieruje nim troska o Konogga, więc pozostaje się zgodzić i poprowadzić go w głąb kompleksu." },

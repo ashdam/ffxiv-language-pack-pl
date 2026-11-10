@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWhm450_01082",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_SEQ_00", "hash": "2EBA314A37ACFF32", "target": "Raya<-->O<-->Senna chce wysłać cię na pielgrzymkę." },
     { "gameKey": "quest/010/JobWhm450_01082#TEXT_JOBWHM450_01082_SEQ_01", "hash": "63F4AAAA6225EC50", "target": "Raya<-->O<-->Senna wyjaśnia, że podczas Ukojenia gniew wielkiego żywiołaka zdołasz znieść tylko w szatach nasyconych mocą poprzednika. Zabierz otrzymane części stroju i użyj /pray przy trzech grobach A<-->Towa<-->Canta─w Wężowym Języku, Plątaninie i na Rubieży Raubahna─by otrzymać błogosławieństwo wielkiego maga." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/ComArmGcArmyInterview_00345",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/ComArmGcArmyInterview_00345#TEXT_COMARMGCARMYINTERVIEW_00345_PLATOONINSTRUCTOR_000_000", "hash": "AE5EA431DB1A54F7", "target": "Dobre wieści, <if(gnum4,pani dowódco,panie dowódco)>! Nadeszły nowe dokumenty rekrutacyjne!" },
     { "gameKey": "custom/003/ComArmGcArmyInterview_00345#TEXT_COMARMGCARMYINTERVIEW_00345_PLATOONINSTRUCTOR_000_001", "hash": "B17A3C4F339AD395", "target": "Czekają na <if(gnum4,pani,pana)> biurku. Proszę je przejrzeć w wolnej chwili." },

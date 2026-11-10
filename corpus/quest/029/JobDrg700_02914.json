@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobDrg700_02914",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobDrg700_02914#TEXT_JOBDRG700_02914_SEQ_00", "hash": "96117691B968CFAA", "target": "Orn Khai jest bardzo przygnębiony." },
     { "gameKey": "quest/029/JobDrg700_02914#TEXT_JOBDRG700_02914_SEQ_01", "hash": "81CD6C041E40A97B", "target": "Gdy podchodzisz do Orn Khaia, od razu widzisz jego przygnębienie. Ubolewa, że mimo tylu przeżytych lat tak niewiele osiągnął i nadal nie odkrył źródła gniewu Faunehm. Jednak to właśnie własna rozpacz pozwala mu zrozumieć prawdę: stan Faunehm jest skutkiem stuleci samotności. Ledwie dochodzi do tego wniosku, spotkany wcześniej wojownik informuje was, że kupcy z plemienia Qestir wynajęli łowcę smoków. Wraz z Orn Khaiem spieszysz do Faunehm, by dotrzeć tam przed nim." },

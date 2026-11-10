@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/BanAna405_03054",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_SEQ_00", "hash": "BA67DBD90D38DA38", "target": "Eshana potrzebuje kogoś, kto będzie zarazem przynętą i pułapką.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_00", "hash": "336BF9A24F22F5FC", "target": "Wywabić i zabić okazy funnel antlion przy Wodospadach Piki" },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/009/CtsWksTreasure_00966",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/009/CtsWksTreasure_00966#TEXT_CTSWKSTREASURE_00966_TALK_ACTOR_000_001", "hash": "064797C32A921D5B", "target": "Pomagam przy poszukiwaniu artefaktów w ramach inicjatywy, ale zanim zajmie się <if(gnum4,pani,pan)> tym wszystkim, proszę porozmawiać z Searchingway!" },
     { "gameKey": "custom/009/CtsWksTreasure_00966#TEXT_CTSWKSTREASURE_00966_TALK_ACTOR_001_001", "hash": "5887BBC0958E490A", "target": "Interesuje <if(gnum4,panią,pana)> poszukiwanie artefaktów? Jeśli potrzebuje <if(gnum4,pani,pan)> modułów drona albo chce się podzielić odkryciami, to właściwe miejsce." },

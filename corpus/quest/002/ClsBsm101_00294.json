@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsBsm101_00294",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsBsm101_00294#TEXT_CLSBSM101_00294_SEQ_00", "hash": "FAE050E09FEDAF9B", "target": "Mistrz kuźni Brithael ma ci coś ważnego do powiedzenia." },
     { "gameKey": "quest/002/ClsBsm101_00294#TEXT_CLSBSM101_00294_SEQ_01", "hash": "F0CF16267D602F5A", "target": "Nie zdoławszy wyrazić swojej kowalskiej filozofii, rozdrażniony Brithael każe wykonać tuzin bronze rivets. Przygotuj zamówione przedmioty i dostarcz mu je." },

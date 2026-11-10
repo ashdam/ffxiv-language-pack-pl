@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/ChrHdy451_04807",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/048/ChrHdy451_04807#TEXT_CHRHDY451_04807_SEQ_00", "hash": "64DCA7721601C3AC", "target": "Rzemieślnik rodu Manderville jest gotów przyjąć twoje zamówienie na ulepszenie broni.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/048/ChrHdy451_04807#TEXT_CHRHDY451_04807_SEQ_01", "hash": "7B36663B90A10439", "target": "Zwracasz się do rzemieślnika rodu Manderville z prośbą o udoskonalenie kolejnej broni. Wiecznie pełen entuzjazmu fachowiec zapewnia, że wszystko jest gotowe─oczywiście poza trzema dorodnymi próbkami krystalitu, które każe ci przygotować.<br><br>※Misję można wykonywać tylko w tej samej klasie lub tym samym jobie, w którym została przyjęta.<br><br>※Odłamki Cosmic Crystallite można otrzymać od Jubrunnah na placu eterytu w Radz<-->at<-->Han." },

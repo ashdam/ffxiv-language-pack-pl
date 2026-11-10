@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/CmnGscChocoboRaceGetAbility_00228",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02", "hash": "D2D4EA3A08853C01", "target": "Chce <if(gnum4,pani,pan)> nauczyć zdolności chocobo o imieniu <string(lstr1)>? Proszę zatem dostarczyć odpowiedni podręcznik." },
     { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE", "hash": "7529447DC7620227", "target": "Mogę z przekonaniem stwierdzić, że <if(gnum4,pani,pana)> wyścigowy chocobo dobrze przyswoił szkolenie w zdolności <sheet(ChocoboRaceAbility,lnum1,0)>. Proszę się przekonać <if(gnum4,samej,samemu)>." },

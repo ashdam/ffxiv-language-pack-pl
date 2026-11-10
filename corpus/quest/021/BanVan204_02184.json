@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan204_02184",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan204_02184#TEXT_BANVAN204_02184_SEQ_00", "hash": "8C3B0C6BCD3A7B17", "target": "W brzuchu Muna Vanu cicho burczy jak odległy grzmot.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan204_02184#TEXT_BANVAN204_02184_SEQ_01", "hash": "4C8071BC82796967", "target": "Muna Vanu wspomina, że dawno nie jadł dość dorodnej podniebnej ryby. Prosi cię o zapytanie rybaka Eenu Vanu, kiedy nadejdzie następna zdobycz.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

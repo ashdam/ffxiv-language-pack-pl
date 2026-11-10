@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobWhm601_02414",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SEQ_00", "hash": "6D65198CB95CF2A8", "target": "Raya<-->O<-->Senna nie wydaje się zaskoczona twoim widokiem." },
     { "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SEQ_01", "hash": "EC28B041D67B8BEE", "target": "Raya<-->O<-->Senna sugeruje, by zaoferować pomoc w zbadaniu tajemniczego zakłócenia, które niepokoi żywiołaki. Udaj się do Gildii Zaklinaczy w Gridanii i zgłoś się do brata E<-->Sumi<-->Yana." },

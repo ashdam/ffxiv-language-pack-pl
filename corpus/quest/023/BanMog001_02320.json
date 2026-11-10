@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog001_02320",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog001_02320#TEXT_BANMOG001_02320_SEQ_00", "hash": "90AC62C8268C3AB5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Rozwścieczony kamieniarz wykrzykuje przekleństwa na wiatr." },
     { "gameKey": "quest/023/BanMog001_02320#TEXT_BANMOG001_02320_SEQ_01", "hash": "048D303C7ECE25B0", "target": "Na obrzeżach Moghome spotykasz wyraźnie wzburzonego kamieniarza. Cieszy się, że może porozmawiać z kimś, kto stoi na dwóch nogach. Wyjaśnia, że Rycerze Świątynni wysłali go do Moghome, aby uczył mieszkańców kamieniarstwa, lecz zaraz po przybyciu zasypano go nudnymi obowiązkami i bezsensownymi zleceniami. Pragnie wrócić do domu i nigdy więcej nie oglądać żadnego pomponu. Prosi cię o przekazanie Mogkulowi, że natychmiast rezygnuje z pracy.<br><br>※Poziom trudności tej misji został dostosowany do twojego obecnego poziomu." },

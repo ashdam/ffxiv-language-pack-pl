@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/AktKzi103_04486",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_00", "hash": "EFC80A5F77B54487", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Verpaulaine jest głęboko zamyślony." },
     { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_01", "hash": "5C0E0159A471FA04", "target": "Verpaulaine chce zmierzyć strumień eteru płynący z reaktora do samej wieży Phoibos w poszukiwaniu anomalii. Jest niemal pewien, że w Agronomii Meryall uda się zdobyć eterometr.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

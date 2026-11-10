@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobRdm600_02582",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobRdm600_02582#TEXT_JOBRDM600_02582_SEQ_00", "hash": "AFA47A32FFD58082", "target": "X'rhun planuje ostateczne starcie z Lambardem." },
     { "gameKey": "quest/025/JobRdm600_02582#TEXT_JOBRDM600_02582_SEQ_01", "hash": "74FB97B00B55B1F0", "target": "X'rhun wyjaśnia imperialny plan zabójstwa wiceprezeski Kuźni Garlonda i przedstawia pomysł udaremnienia zamachu. Po spotkaniu z samą Jessie i ustaleniu szczegółów obiecuje spotkać się z tobą na tarasie nad Domem Splendorów Roweny w Mycie Upiora." },

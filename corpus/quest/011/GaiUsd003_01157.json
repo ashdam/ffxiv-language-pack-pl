@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUsd003_01157",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUsd003_01157#TEXT_GAIUSD003_01157_SEQ_00", "hash": "EFFD124B26E42DCB", "target": "Papalymo prosi o pokonanie Garudy, która powróciła silniejsza i bardziej krwiożercza niż wcześniej." },
     { "gameKey": "quest/011/GaiUsd003_01157#TEXT_GAIUSD003_01157_SEQ_01", "hash": "99162BADE923A518", "target": "Tuż po plemieniu Amalj'aa także Ixal zdołali przyzwać swojego bożka. Udaj się do Gniazda Żmij i porozmawiaj z komendantem Heuloix, by dowiedzieć się, jak doprowadzić do spotkania z Garudą." },

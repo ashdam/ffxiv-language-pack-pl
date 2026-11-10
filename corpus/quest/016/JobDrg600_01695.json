@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobDrg600_01695",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobDrg600_01695#TEXT_JOBDRG600_01695_SEQ_00", "hash": "41DC0066E844D074", "target": "Ser Alberic zaciska szczękę przed nadchodzącym starciem." },
     { "gameKey": "quest/016/JobDrg600_01695#TEXT_JOBDRG600_01695_SEQ_01", "hash": "38D360E189DA2EF2", "target": "Graoully znów jest w ruchu. Według Observatorium wkrótce przeleci w pobliżu Śniącego Smoka na zachodnich wyżynach Coerthas. Ser Alberic sądzi, że Heustienne zechce zmierzyć się ze swym prześladowcą, i prosi cię o pomoc w walce. Najpierw udaj się na zachodnie wyżyny i dołącz do ser Alberica w Convictory." },

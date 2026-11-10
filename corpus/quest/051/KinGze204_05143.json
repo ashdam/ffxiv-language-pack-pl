@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGze204_05143",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze204_05143#TEXT_KINGZE204_05143_SEQ_00", "hash": "8C586B349613388A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Zitekkwa pokazał ci już wszystko, co mógł, ze swojej pracy pożyczkodawcy." },
     { "gameKey": "quest/051/KinGze204_05143#TEXT_KINGZE204_05143_SEQ_01", "hash": "ED70D0BAE6672014", "target": "Pomysł Tawmezi na reklamę występu okazał się sukcesem. Czekając na nią przed salą taneczną, Zitekkwa sugeruje ci rozmowę z jego dziadkiem. Uważa, że znasz już jego pracę i wynikające z niej dobro na tyle, by wyrazić szczerą, sprawiedliwą opinię, której dziadek powinien wysłuchać.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

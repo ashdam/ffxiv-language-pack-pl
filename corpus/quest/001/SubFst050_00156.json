@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst050_00156",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "Keitha, główna opiekunka chocobo w hodowli Bentbranch Meadows, chce, by zebrać nasiona roselet. Zamierza wytłoczyć z nich olej znany z kojącego działania na rozdrażnione chocobo." },
     { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając, zależnie od postępów, z Eylgarem lub Luquelotem w hodowli Bentbranch Meadows, z Lothaire'em przy Wieży Galvantha albo z Armelle na Lustrzanym Pomoście.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

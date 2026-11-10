@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsPgl300_00567",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsPgl300_00567#TEXT_CLSPGL300_00567_SEQ_00", "hash": "D2797ABC852BFD59", "target": "Hamon chce poprosić cię o pomoc w treningu." },
     { "gameKey": "quest/005/ClsPgl300_00567#TEXT_CLSPGL300_00567_SEQ_01", "hash": "03D861E408D2D304", "target": "Aby ostatecznie wrócić do dawnej formy, Hamon prosi o jeszcze jeden sparing. Spotkaj się z mistrzem gildii w osadzie Forgotten Springs w rejonie Southern Thanalan, by otrzymać dalsze wskazówki." },

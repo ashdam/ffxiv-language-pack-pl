@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa101_01494",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa101_01494#TEXT_BANIXA101_01494_SEQ_00", "hash": "744268FAD7355478", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Wielu śmie nazywać się zdolnymi, lecz Yazel Ahuatan the Able uczynił z tego wręcz swój przydomek.<br>※Część rzemieślnicza tego zadania jest zalecana dla Disciples of the Hand na poziomie 1 lub wyższym, a część bojowa dla Uczniów Wojny lub Magii na poziomie 41 lub wyższym." },
     { "gameKey": "quest/014/BanIxa101_01494#TEXT_BANIXA101_01494_SEQ_01", "hash": "E144BE5FACA56816", "target": "Powątpiewając w twoje umiejętności rzemieślnicze, Yazel Ahuatan zachęca do udowodnienia mu błędu poprzez wykonanie bladder component z otrzymanych materiałów. Wyzwanie komplikuje konieczność skorzystania ze specjalnego warsztatu w Hyrstmill─zarządzanego przez cieszącą się pewną sławą Damettę, która może nie przychylić się do twojej prośby.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

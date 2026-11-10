@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/RegFstEternalCeremonyGuideRoom_00016",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/RegFstEternalCeremonyGuideRoom_00016#TEXT_REGFSTETERNALCEREMONYGUIDEROOM_00016_ROOM00016_000_000", "hash": "A393E593CA697CA1", "target": "Witam <if(gnum4,panią,pana)> i składam najserdeczniejsze gratulacje! Moim obowiązkiem jest dopilnować, by wszystko było dokładnie tak, jak <if(gnum4,pani,pan)> sobie życzy. Jeśli pragnie się <if(gnum4,pani,pan)> czegoś dowiedzieć, jestem do dyspozycji." },
     { "gameKey": "custom/000/RegFstEternalCeremonyGuideRoom_00016#TEXT_REGFSTETERNALCEREMONYGUIDEROOM_00016_Q1_000_021", "hash": "48F81C0CE4A1D0CB", "target": "O czym chcesz się dowiedzieć?" },

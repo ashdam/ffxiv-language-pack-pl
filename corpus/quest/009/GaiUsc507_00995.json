@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc507_00995",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc507_00995#TEXT_GAIUSC507_00995_SEQ_00", "hash": "035F8BE0A8E96199", "target": "Wandering Breeze znów ma kłopot z gigasami i liczy na twoją pomoc w jego rozwiązaniu." },
     { "gameKey": "quest/009/GaiUsc507_00995#TEXT_GAIUSC507_00995_SEQ_01", "hash": "FADBE5596AAD4F1C", "target": "Według Wandering Breeze gigasi, którzy niedawno padli z twojej ręki, mogli nie być tak bezmyślnymi osiłkami, za jakich ich <if(gnum4,uważałaś,uważałeś)>. Jak przystało na dobrego historyka─lub taktyka─Wandering Breeze chce zbadać zagrożenie. Zabij czterech gigasów i poszukaj przy ich ciałach ciekawych przedmiotów." },

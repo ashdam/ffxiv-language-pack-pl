@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegSeaBeginnerTankGuide_00337",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegSeaBeginnerTankGuide_00337#TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_000", "hash": "C3A4563405318B0B", "target": "<if(gnum4,Zawędrowałaś,Zawędrowałeś)> do Sali Nowicjusza, <if(gnum4,dziewczyno,chłopcze)>! Jestem mistrzem tarcz i nauczę cię współpracy w grupie! ...A przynajmniej tak by było, gdyby nie wrażenie, że nie wiesz jeszcze, który koniec miecza wbija się w Sahagina." },
     { "gameKey": "custom/003/RegSeaBeginnerTankGuide_00337#TEXT_REGSEABEGINNERTANKGUIDE_00337_SYSTEM_000_001", "hash": "284106640B7FAE3C", "target": "Aby rozpocząć szkolenie w Sali Nowicjusza, musisz mieć klasę z kategorii Uczeń Wojny lub Uczeń Magii na poziomie co najmniej 15." },

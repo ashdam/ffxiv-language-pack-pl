@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/CmnDefNpcRepair_00019",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_AMALJAAREPAIR_000_000", "hash": "31886B77B8827F01", "target": "Masz coś do naprawy? A kimże jesteś, bym miał ci tak usługiwać? Dowiedź, że jesteś w przyjaźni z Bractwem, a może cię wysłucham." },
     { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_KOBOLDREPAIR_000_000", "hash": "532C4C6977BDEE47", "target": "Twoje przedmioty wymagają naprawy─reperowania, łatania, naprawy? Idź do domu, znajdź sobie innego naziemca. Moje usługi nie są dla obcych. Nie, nie, nie dla ciebie." },

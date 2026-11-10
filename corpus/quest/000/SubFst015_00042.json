@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubFst015_00042",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_00", "hash": "84E53945BB0F7411", "target": "Estaine, opiekunka Amfiteatru Mih Khetto, potrzebuje pomocy poszukiwacza przygód w sprzątaniu." },
     { "gameKey": "quest/000/SubFst015_00042#TEXT_SUBFST015_00042_SEQ_01", "hash": "CEFB0A3BB869B501", "target": "Pewnego ranka zapracowana opiekunka Estaine odkrywa w Amfiteatrze Mih Khetto tajemnicze stosy warzyw. Dochodzi do wniosku, że pozostawiły je sylfy, które odwiedzają to miejsce nocami, w dowód wdzięczności dla Gridanii. Pomóż jej pozbierać świeże dary." },

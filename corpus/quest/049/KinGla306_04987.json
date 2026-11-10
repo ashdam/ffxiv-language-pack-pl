@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla306_04987",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_00", "hash": "515E5ACA0EB69587", "target": "Xeerol Ja jest gotowa wycisnąć z kolejnego pomysłu nowy sok." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_01", "hash": "EB96B42A14365575", "target": "Xeerol Ja zleca ci przygotowanie Prickly Pear Juice.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 260. Dostarczenie przedmiotów o wartości co najmniej 530 zapewni większe nagrody." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsWdk002_00140",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsWdk002_00140#TEXT_CLSWDK002_00140_SEQ_00", "hash": "BB3D0FEC47E3A08A", "target": "Mistrz stolarski Beatin szuka kogoś do dostarczenia ash lumber." },
     { "gameKey": "quest/001/ClsWdk002_00140#TEXT_CLSWDK002_00140_SEQ_01", "hash": "3FBA4FD867B5A530", "target": "Zanim przystąpisz do ostatniej próby, mistrz Beatin prosi o pomoc w uzupełnieniu zapasów ash lumber. Dostarcz mu dwanaście sztuk do Dębowego Atrium." },

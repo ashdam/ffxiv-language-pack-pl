@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsArm550_02040",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsArm550_02040#TEXT_CLSARM550_02040_SEQ_00", "hash": "D35FFDDB6A546767", "target": "Blanstyr kipi z ledwie powstrzymywanej wściekłości." },
     { "gameKey": "quest/020/ClsArm550_02040#TEXT_CLSARM550_02040_SEQ_01", "hash": "EC5F9E8131758C3D", "target": "Blanstyr drży z gniewu, bo towarzyszka Benathaire'a odrzuciła wykonaną przez niego zbroję. Stary rzemieślnik przyznaje, że stracił panowanie nad sobą i porzucił zlecenie zaklinacza. Odszukaj Benathaire'a w Drowning Wench i poznaj szczegóły zamówienia." },

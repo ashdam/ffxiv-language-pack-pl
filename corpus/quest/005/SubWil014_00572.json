@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/SubWil014_00572",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/SubWil014_00572#TEXT_SUBWIL014_00572_SEQ_00", "hash": "3A628A7659720950", "target": "Erasmus z Gildii Taumaturgów jest pochłonięty badaniami, ale jego zmarszczone czoło aż woła o pomoc." },
     { "gameKey": "quest/005/SubWil014_00572#TEXT_SUBWIL014_00572_SEQ_01", "hash": "29153429FC1A55B4", "target": "Aby pogłębić wiedzę Zakonu Nald'thala o życiu i śmierci, Erasmus zleca ci zebranie pięciu butelek krwi świstaków. Świstaki licznie występują za bramą Gate of the Sultana w rejonie Western Thanalan." },

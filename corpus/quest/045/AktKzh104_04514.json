@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/AktKzh104_04514",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_SEQ_00", "hash": "501792A175A1DB06", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kleon ponownie wbija w ciebie wyczekujący wzrok." },
     { "gameKey": "quest/045/AktKzh104_04514#TEXT_AKTKZH104_04514_SEQ_01", "hash": "988080E8E7CA6C7A", "target": "Rozczarowany tym, że jego ulubione stworzenie zdaje się skazane na rolę zwierzęcia hodowlanego, Kleon prosi o obejrzenie io i wskazanie możliwych zmian. Z pewnością niewiele trzeba, by przemienić to masywne zwierzę w drapieżnika szczytowego...<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

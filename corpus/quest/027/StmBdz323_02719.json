@@ -1,6 +1,6 @@
 {
   "conversation": "quest/027/StmBdz323_02719",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz323_02719#TEXT_STMBDZ323_02719_SEQ_00", "hash": "7E4E918F6593C43A", "target": "Stary rybak szuka <if(gnum4,sprawnej kobiety,sprawnego mężczyzny)> do pomocy." },
     { "gameKey": "quest/027/StmBdz323_02719#TEXT_STMBDZ323_02719_SEQ_01", "hash": "D7ADA9E4F5C08AF2", "target": "Podchodzi do ciebie stary rybak i błaga o uratowanie młodzieńca imieniem Nayoshi. Osaczyła go bestia tak straszliwa, że podobno nawet połączone siły mieszkańców Isari nie zdołają jej przepędzić. Zabij morskiego potwora, zanim Nayoshi stanie się krzywda." },

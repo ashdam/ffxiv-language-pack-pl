@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzc401_05089",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc401_05089#TEXT_KINGZC401_05089_SEQ_00", "hash": "2C3D9801A290856F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Movamuq jest gotowa ruszyć dalej." },
     { "gameKey": "quest/050/KinGzc401_05089#TEXT_KINGZC401_05089_SEQ_01", "hash": "F75E79F920673F49", "target": "Po odejściu Anfroy na emeryturę Movamuq chwilowo nie ma rzemieślnika pod opieką. Zajmuje się więc przyjmowaniem nowych zamówień. Okazuje się, że klient cierpliwie czekający na nią w Many Fires to twój przyjaciel Nahanshe. Razem ruszacie go powitać.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa403_01500",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_00", "hash": "B647E661A17C8250", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tazel Meyean the Lettered zamierza wypróbować swój najnowszy pomysł.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 10 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 47 lub wyższym." },
     { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_01", "hash": "37AE06CDA3DD5AC9", "target": "Tazel Meyean prosi o wykonanie starboard wing control component wysokiej jakości, aby móc wypróbować wymyślony przez siebie rewolucyjny mechanizm. Potrzebne materiały znajdziesz w dzbanach skarbów Ixal na Terenach Wyrębu Ludu Ixal.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

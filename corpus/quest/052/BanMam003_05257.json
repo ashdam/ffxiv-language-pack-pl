@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/BanMam003_05257",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam003_05257#TEXT_BANMAM003_05257_SEQ_00", "hash": "D026849F8F42DCF9", "target": "Na twarzy Ruvolla Ja wyraźnie widać troskę.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
     { "gameKey": "quest/052/BanMam003_05257#TEXT_BANMAM003_05257_SEQ_01", "hash": "AFB07A2E038021F4", "target": "Rozwój gospodarstwa przyciągnął uwagę miejscowych bestii, które atakują rolników i tratują uprawy. Ruvoll Ja poprosił już Gotoll Ja o środek odstraszający. Ten powinien właśnie kończyć pracę.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },

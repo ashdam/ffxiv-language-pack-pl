@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/BanQiq124_03829",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/BanQiq124_03829#TEXT_BANQIQ124_03829_SEQ_00", "hash": "5530CDC6709E3AC7", "target": "Qhoterl Pasol wygląda tak, jakby nie najadła się do syta.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/038/BanQiq124_03829#TEXT_BANQIQ124_03829_TODO_00", "hash": "9BDFF9EBF2800F25", "target": "Porozmawiać z hodowcą drobiu w Slitherbough" },

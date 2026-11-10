@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsGla050_00256",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsGla050_00256#TEXT_CLSGLA050_00256_SEQ_00", "hash": "A25935D778300565", "target": "Mylla, Pierwsze Ostrze, chce nauczyć cię podstaw sztuki gladiatorskiej." },
     { "gameKey": "quest/002/ClsGla050_00256#TEXT_CLSGLA050_00256_SEQ_01", "hash": "6486A031E38CA1D3", "target": "Gladiator musi umieć skupiać na sobie uwagę przeciwnika. Aby pomóc ci zrozumieć tę zasadę, Mylla poleca ci odszukać lominsańskich maruderów napastujących ludzi przed Quicksand. Zwróć na siebie ich uwagę za pomocą /me i pokaż, że nie zamierzasz tolerować ich wybryków." },

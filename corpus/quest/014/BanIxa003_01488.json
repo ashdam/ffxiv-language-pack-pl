@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa003_01488",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa003_01488#TEXT_BANIXA003_01488_SEQ_00", "hash": "CC76C31CD5C2C09C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Sezul najwyraźniej martwi się o jednego ze swoich podwładnych.<br>※Część rzemieślnicza tego zadania jest zalecana dla Disciples of the Hand na poziomie 3 lub wyższym." },
     { "gameKey": "quest/014/BanIxa003_01488#TEXT_BANIXA003_01488_SEQ_01", "hash": "E369997EAED9E638", "target": "Sezul niepokoi się, że mechanik jego załogi nie wrócił z wyprawy po materiały do budowy silnika, i prosi cię o odnalezienie zaginionego członka plemienia Ixal. Udaj się na południe i poszukaj inżyniera Bozol Eduan the Exact w Olchowych Źródłach.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

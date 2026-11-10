@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzh002_05175",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzh002_05175#TEXT_KINGZH002_05175_SEQ_00", "hash": "D6D34354D03B00FA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Nieoddane książki to zmora każdej wypożyczalni." },
     { "gameKey": "quest/051/KinGzh002_05175#TEXT_KINGZH002_05175_SEQ_01", "hash": "2437C0FB59E1B934", "target": "Archiwistka Daguerreo wyjaśnia, że kilku dokumentów z kolekcji nie zwrócono─ponieważ osoby, które je wypożyczyły, przestały istnieć. Zgadzasz się pomóc w zebraniu brakujących tekstów o historii medycyny i wyruszasz na poszukiwania do południowej części Canal Town.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

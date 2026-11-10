@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobPld560_02035",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_SEQ_00", "hash": "AF68CDF23720DD95", "target": "Constaint chce opowiedzieć ci o dość niezwykłym obrocie spraw." },
     { "gameKey": "quest/020/JobPld560_02035#TEXT_JOBPLD560_02035_SEQ_01", "hash": "89F17F31A3DBF1FF", "target": "Z jakiegoś powodu list Solkzagyla zaadresowany do jego ucznia trafił do osady Tailfeather w regionie Dravanian Forelands. Zawiadomił o tym Grimold, znajomy chłopca. Nalegał też, by Constaint osobiście przybył po list do osady." },

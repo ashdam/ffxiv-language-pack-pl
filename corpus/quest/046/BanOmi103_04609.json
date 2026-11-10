@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/BanOmi103_04609",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi103_04609#TEXT_BANOMI103_04609_SEQ_00", "hash": "2BC2D587D710EB5B", "target": "Stigma-4 potrzebuje materiałów do regularnej analizy środowiska.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
     { "gameKey": "quest/046/BanOmi103_04609#TEXT_BANOMI103_04609_SEQ_01", "hash": "FCEBF82604B3619E", "target": "Dostarczyć zamówione przedmioty Stigma-4" },

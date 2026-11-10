@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegSeaBeginnerDPSGuide_00338",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "Jestem mistrzem broni i mam za zadanie uczyć początkujących poszukiwaczy przygód podstaw walki w drużynie. Hmm. Chyba jeszcze nie do końca udało ci się wykluć z jajka. Wróć, gdy nieco bardziej obrośniesz w pióra!" },
     { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "Aby rozpocząć szkolenie w Sali Nowicjusza, musisz używać klasy z grupy Uczniów Wojny lub Magii na poziomie 15 lub wyższym." },

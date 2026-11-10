@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/SubSea157_01290",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/SubSea157_01290#TEXT_SUBSEA157_01290_SEQ_00", "hash": "AA94A597B0933B3C", "target": "Skribyld jest gotów wprowadzić plan w życie." },
     { "gameKey": "quest/012/SubSea157_01290#TEXT_SUBSEA157_01290_SEQ_01", "hash": "7948A40D351B43D0", "target": "Skribyld podejrzewa, że R'kontai ukrywa jeszcze szakale, które zamierza sprzedać na czarnym rynku. Prosi cię o rozmowę z nią i sprawdzenie podejrzeń." },

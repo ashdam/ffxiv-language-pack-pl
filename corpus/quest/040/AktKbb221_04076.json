@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb221_04076",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb221_04076#TEXT_AKTKBB221_04076_SEQ_00", "hash": "2C9F179AB2156D6F", "target": "Drusilla czeka na wieści od Arnegisa." },
     { "gameKey": "quest/040/AktKbb221_04076#TEXT_AKTKBB221_04076_SEQ_01", "hash": "C84CC6F35197CF7D", "target": "W siedzibie jest dość cicho, gdy Lemures nadal ustalają miejsce pobytu Orcusa. Wtem wpada czujny strażnik drzwi i z trudem łapiąc oddech, przekazuje tragiczną wieść: Mosiężne Ostrza znalazły ciało Arnegisa. Drusilla bez słowa wychodzi do Komory Grobowej Erraliga, zostawiając rodzinę bez przywódczyni. Musisz pójść za nią i przypomnieć o obowiązku wobec tych, którzy nadal żyją." },

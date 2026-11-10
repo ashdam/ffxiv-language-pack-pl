@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsMin550_02082",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsMin550_02082#TEXT_CLSMIN550_02082_SEQ_00", "hash": "7DD7212E21BA49F9", "target": "Haimirich ma zadanie dla ciebie i tylko dla ciebie." },
     { "gameKey": "quest/020/ClsMin550_02082#TEXT_CLSMIN550_02082_SEQ_01", "hash": "18CE7526991F1EF2", "target": "Ród Fortemps ma poprowadzić nowe natarcie na Dravanię i potrzebuje pancerzy do zaciętej bitwy. Nada się do tego wyłącznie tytan. Nie wiadomo jednak, gdzie wydobyć dość rudy, by zaspokoić potrzeby rycerzy. Haimirich zwraca się z pytaniem do ciebie, ale ponieważ nie znasz odpowiedzi, prosi o zasięgnięcie rady mistrzyni gildii. Zabierz próbkę tytanu do Ul'dah i sprawdź, co powie Adalberta." },

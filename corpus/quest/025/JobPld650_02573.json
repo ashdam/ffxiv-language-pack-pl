@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobPld650_02573",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_SEQ_00", "hash": "4205E1560BCE77C2", "target": "Mylla jest gotowa do działania." },
     { "gameKey": "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_SEQ_01", "hash": "D9ACF1480E290F3C", "target": "Przed wejściem na arenę Mylla radzi uważnie obserwować każdą walkę grupy Nalda. Z jednym z tych zawodników zmierzysz się w finale. Obsługa turnieju przy Koloseum wpuści cię na trybuny." },

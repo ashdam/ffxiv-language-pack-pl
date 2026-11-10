@@ -1,6 +1,6 @@
 {
   "conversation": "quest/028/StmBdz991_02885",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz991_02885#TEXT_STMBDZ991_02885_SEQ_00", "hash": "05E5234D380C7776", "target": "Wichard ma propozycję dla swojego wuja." },
     { "gameKey": "quest/028/StmBdz991_02885#TEXT_STMBDZ991_02885_SEQ_01", "hash": "B90759D372DD6DF7", "target": "Z rozmowy z Wichardem dowiadujesz się, że Gundobald jest jego wujem. Pełen zapału młody Alamhigańczyk chce się z nim skontaktować i poprosić o pomoc w odbudowie dawnej potęgi ojczyzny. Sam ma jednak zbyt wiele zajęć, by wyruszyć w podróż, więc prosi cię o doręczenie listu Gundobaldowi." },

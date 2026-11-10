@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWar300_01049",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWar300_01049#TEXT_JOBWAR300_01049_SEQ_00", "hash": "22BFF6E8C39923B4", "target": "Mistrz topora Wyrnzoen potrzebuje kogoś, komu może zaufać." },
     { "gameKey": "quest/010/JobWar300_01049#TEXT_JOBWAR300_01049_SEQ_01", "hash": "CC200B7B902EA47A", "target": "Dawny towarzysz broni Wyrnzoena, obecnie na służbie u pana Gegeruju w Costa del Sol, pilnie wzywa posiłki. Mistrz topora uważa, że tylko ty spośród grabieżców sprostasz zadaniu. Udaj się do Costa del Sol i spotkaj się z koleżanką z gildii, Solkwyb." },

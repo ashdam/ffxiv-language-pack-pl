@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/FesEst006_01419",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/FesEst006_01419#TEXT_FESEST006_01419_SEQ_00", "hash": "F984807274E09067", "target": "Jihli Aliapoh poznała położenie kolejnej partii jaj i prosi cię o pomoc w ich odzyskaniu.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/014/FesEst006_01419#TEXT_FESEST006_01419_SEQ_01", "hash": "2D718A1E8B58E1C6", "target": "Jihli Aliapoh otrzymuje wizję tego, co uważa za ostatnią partię skradzionych jaj Archontów, ukrytych w southern Thanalan. Wysyła Marzycieli, by je odzyskali, lecz chce upewnić się, że są bezpieczne. Prosi cię o rozmowę z Orselfaux w Ul'dah i potwierdzenie, że dotarły bez przeszkód. Udaj się do Ul'dah i porozmawiaj z Orselfaux, by poznać los jaj Archontów.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz na Lodestone." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/BanAna003_03038",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna003_03038#TEXT_BANANA003_03038_SEQ_00", "hash": "DDE32D698FD13BF6", "target": "Alpa potrzebuje twojej pomocy przy najnowszych zmianach w Castellum Velodyna.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego obecnego poziomu." },
     { "gameKey": "quest/030/BanAna003_03038#TEXT_BANANA003_03038_SEQ_01", "hash": "C4677257B798227A", "target": "Okolice twierdzy zamieszkuje wiele niebezpiecznych stworzeń. Aby zapewnić podróżnym nocleg, J'olhmyn zaproponowała przerobienie nieużywanych magazynów na pokoje gościnne. Radzi porozmawiać z kimś, kto rzeczywiście spał w jednym z nowo urządzonych pomieszczeń, i dowiedzieć się, co wymaga poprawy.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },

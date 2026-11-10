@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubWil087_00335",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubWil087_00335#TEXT_SUBWIL087_00335_SEQ_00", "hash": "9A16C7D78B805E8D", "target": "Merilda potrzebuje pomocy w przygotowaniu posiłku dla pozbawionych skrupułów gości." },
     { "gameKey": "quest/003/SubWil087_00335#TEXT_SUBWIL087_00335_SEQ_01", "hash": "5AD028BED3470604", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Merildą w Zatoce Crescent.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

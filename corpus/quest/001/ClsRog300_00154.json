@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsRog300_00154",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsRog300_00154#TEXT_CLSROG300_00154_SEQ_00", "hash": "8184ADA48803819F", "target": "Łotrzyki Jacke'a zdobyły nowe informacje o ostatnim zaginionym skarbie." },
     { "gameKey": "quest/001/ClsRog300_00154#TEXT_CLSROG300_00154_SEQ_01", "hash": "33F4497187DC1FBE", "target": "Jacke zwołuje zebranie, aby omówić prawdziwą naturę zagadkowego Black Sarcophagus. Według ustaleń Perimu przedmiot o złowrogiej nazwie jest w istocie eksperymentalnym ładunkiem wybuchowym Imperium Garleańskiego. Gdy zebrani rozważają znaczenie odkrycia, Lonwoerd przerywa im, przynosząc list od wędrownego znajomego z półświatka. Udaj się do Thalaos w Upper La Noscea i odszukaj handlarza z czarnego rynku." },

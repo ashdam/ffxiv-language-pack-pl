@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa201_01504",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_00", "hash": "78F46AD863DFF212", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Methuli Cattlan the Hard upatruje w tobie kogoś do trudnego zadania.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 3 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 43 lub wyższym." },
     { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_01", "hash": "E4DA2CF2D777F73F", "target": "Methuli Cattlan prosi o wykonanie trzech sztuk gyrodrive component wysokiej jakości do statku <italic(1)>Dezul Qualan<italic(0)>. Niestety materiały potrzebne do syntezy zostały po drodze skradzione przez wojowników Ixal z terenów wyrębu. Udaj się do Olchowych Źródeł i odzyskaj materiały ze skradzionego garnka na zapasy.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

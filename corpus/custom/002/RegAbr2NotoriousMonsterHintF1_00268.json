@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/RegAbr2NotoriousMonsterHintF1_00268",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/RegAbr2NotoriousMonsterHintF1_00268#TEXT_REGABR2NOTORIOUSMONSTERHINTF1_00268_MOBHUNTERD_000_000", "hash": "D63777425C6BA2E1", "target": "Jeśli chcesz dołączyć do kawalerii, radzę porozmawiać z kimś, kogo to obchodzi. Jestem tu w sprawach klanu Centurio." },
     { "gameKey": "custom/002/RegAbr2NotoriousMonsterHintF1_00268#TEXT_REGABR2NOTORIOUSMONSTERHINTF1_00268_MOBHUNTERD_000_001", "hash": "374AEC096DF65B09", "target": "Witaj. Jesteś <if(gnum4,dumną członkinią,dumnym członkiem)> klanu, prawda? Jeśli szukasz informacji o elitarnych celach, jesteś we właściwym miejscu." },

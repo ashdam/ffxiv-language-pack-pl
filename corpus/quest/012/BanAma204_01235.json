@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanAma204_01235",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_00", "hash": "02220C2DB8E27414", "target": "Narujj Boh chce powierzyć ci nużące─lecz konieczne─zadanie." },
     { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_01", "hash": "78C4EDC0AE65542A", "target": "Choć Bractwo Popiołu stara się niszczyć ogniste talizmany wroga, gdy tylko się pojawią, jest zbyt nieliczne, by nadążyć za gorliwością Płomiennych Kłów. Weź worki popiołu od wojownika Narujj Boh i ugaś wszystkie sygnały ogniowe w obozie Zanr'ak. Zachowaj gotowość do obrony przed odwetem, jaki wywołają twoje działania." },

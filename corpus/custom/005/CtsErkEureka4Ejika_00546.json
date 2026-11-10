@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CtsErkEureka4Ejika_00546",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CtsErkEureka4Ejika_00546#TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_100_000", "hash": "BDD59F8112959829", "target": "Zgodnie z zamiarem mistrza Galufa zniszczymy Eurekę raz na zawsze. To jedyne prawdziwe rozwiązanie." },
     { "gameKey": "custom/005/CtsErkEureka4Ejika_00546#TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_100_001", "hash": "5E2588C3DF4911F2", "target": "Właśnie <if(gnum4,pani powinna,pan powinien)> rozumieć zagrożenie, jakie stanowi ten bożek. Wie <if(gnum4,pani,pan)>, co należy zrobić. Jestem gotów ponieść cenę─nie musi sobie <if(gnum4,pani,pan)> tym obciążać sumienia." },

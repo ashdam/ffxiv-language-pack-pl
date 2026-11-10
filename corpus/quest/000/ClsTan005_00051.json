@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsTan005_00051",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsTan005_00051#TEXT_CLSTAN005_00051_SEQ_00", "hash": "F9F9C67C73BFDE17", "target": "Mistrzyni Geva wygląda na zdenerwowaną. Choć pewnie rozsądniej byłoby nie pytać, może warto sprawdzić, co ją trapi." },
     { "gameKey": "quest/000/ClsTan005_00051#TEXT_CLSTAN005_00051_SEQ_01", "hash": "AB8915ABBF1E2456", "target": "Uldahski kupiec Aymar zaczął ponoć oczerniać gildię. Twierdzi, że kupiona toad leather jest marnej jakości. Geva chce rozwiązać problem pokazem prawdziwego kunsztu. Każe ci wykonać i przedstawić circle of toad leather wysokiej jakości." },

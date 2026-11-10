@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubSea012_00122",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_00", "hash": "15D27893FB3B4B14", "target": "S'dhodjbi potrzebuje twojej pomocy w przygotowaniu przysmaku dla Baderona." },
     { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_01", "hash": "612E1BC4E95DAF1D", "target": "S'dhodjbi chce podarować Baderonowi kilka czasz aurelii w podzięce za całą jego ciężką pracę. Porozmawiaj z Klindrael, by dowiedzieć się, gdzie znaleźć te stworzenia." },

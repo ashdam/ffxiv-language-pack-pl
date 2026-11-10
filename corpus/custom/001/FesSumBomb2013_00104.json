@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/FesSumBomb2013_00104",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/FesSumBomb2013_00104#TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_1", "hash": "5BF3ADAA940850D3", "target": "Posłuchaj, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Kaskadierzy pilnie potrzebują odważnych dusz do pomocy w gaszeniu zagrożenia ze strony stworzeń Bombard! W imię wszystkiego, co chłodne i orzeźwiające, proszę o pomoc!" },
     { "gameKey": "custom/001/FesSumBomb2013_00104#TEXT_FESSUMBOMB2013_00104_ABUBRIGADE_000_10", "hash": "D6808D1FBDAA8813", "target": "Stworzenia Bombard to ogniste potwory, które w minionych latach groziły zamianą Eorzei w żywe piekło. Oprócz zwykłych osobników jest też wyjątkowo ognisty Bombard King. My, kaskadierzy, potrzebujemy wszelkiej możliwej pomocy, jeśli mamy oczyścić krainę z tych strasznych demonów!" },

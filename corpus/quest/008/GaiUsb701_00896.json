@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb701_00896",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb701_00896#TEXT_GAIUSB701_00896_SEQ_00", "hash": "BCCCB3BE12CD697F", "target": "Lord Haurchefant ma skromną prośbę." },
     { "gameKey": "quest/008/GaiUsb701_00896#TEXT_GAIUSB701_00896_SEQ_01", "hash": "B9EFBD7DE80B415D", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Haurchefantem w Camp Dragonhead.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },

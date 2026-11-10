@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubFst069_00385",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "Berthe z Lustrzanego Pomostu szuka kogoś, kto przyniesie jej wędkę z Liliowego Kamienia." },
     { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "Berthe zgubiła wędkę przy Liliowym Kamieniu, gdy rzuciła nią w upiorny płomień, który nagle pojawił się za jej plecami. Udaj się do Liliowego Kamienia i odzyskaj wysłużoną wędkę dla roztrzęsionej mieszkanki Lustrzanego Pomostu." },

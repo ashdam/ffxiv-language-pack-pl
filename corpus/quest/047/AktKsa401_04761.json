@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/AktKsa401_04761",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKsa401_04761#TEXT_AKTKSA401_04761_SEQ_00", "hash": "67403A8B6C424C40", "target": "Mehdjina chce powierzyć ci wyjątkową dostawę." },
     { "gameKey": "quest/047/AktKsa401_04761#TEXT_AKTKSA401_04761_SEQ_01", "hash": "0C0C792876BB8FBB", "target": "Butik Tataru Taru pragnie zdobyć kontrakt z tymczasowym rządem Werlytu. Ze względu na twój udział w wyzwoleniu kraju Mehdjina uważa cię za idealną osobę do tego zadania. Ciebie też ciekawi obecna sytuacja w regionie, zgadzasz się więc spotkać z Gaiusem w Terncliff i przedstawić mu zestaw najlepszych próbek butiku.<br><br>※Do Terncliff dotrzesz, rozmawiając z konwojentem Ruchu Oporu w Porta Praetoria." },
