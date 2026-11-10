@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla202_04140",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla202_04140#TEXT_AKTKLA202_04140_SEQ_00", "hash": "CF28D3C3555A05C8", "target": "Jude nie może się doczekać rozpoczęcia pracy nad gwiezdnym wziernikiem." },
     { "gameKey": "quest/041/AktKla202_04140#TEXT_AKTKLA202_04140_SEQ_01", "hash": "FABAD4AA4F4142E7", "target": "Jude zleca ci wykonanie starlens braces.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 110. Dostarczenie przedmiotów o wartości co najmniej 220 zapewni większe nagrody." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst025_00103",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst025_00103#TEXT_SUBFST025_00103_SEQ_00", "hash": "02B43D9955EBDBE3", "target": "Q'djawana w Stajniach Mowy Drzew potrzebuje kogoś do zabicia opo-opo i odzyskania dobytku skradzionego w Hyrstmill." },
     { "gameKey": "quest/001/SubFst025_00103#TEXT_SUBFST025_00103_SEQ_01", "hash": "32B246A0AA93B22A", "target": "Q'djawana opowiada, że głodujące opo-opo ukradły Dametcie z Hyrstmill worki fasoli Mun<-->Tuy. Nikt nie tęskni za cuchnącą fasolą, ale zwykle pogodna i gadatliwa Dametta popadła w głębokie przygnębienie. Zabij opo-opo na drodze do Hyrstmill i odzyskaj sześć skradzionych worków fasoli Mun<-->Tuy." },

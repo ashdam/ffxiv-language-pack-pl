@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubCts818_00164",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubCts818_00164#TEXT_SUBCTS818_00164_SEQ_00", "hash": "71155902A8FC35F0", "target": "Slafborn ma dla ciebie najwyraźniej pilną wiadomość." },
     { "gameKey": "quest/001/SubCts818_00164#TEXT_SUBCTS818_00164_SEQ_01", "hash": "7DC9E66C92639A25", "target": "Slafborn informuje cię, że w warsztacie czeka znajoma Cida. Ostrzega jednak, że daleko jej do uprzejmości. Porozmawiaj z nim ponownie, by wejść do środka i dowiedzieć się, z czym przybyła." },

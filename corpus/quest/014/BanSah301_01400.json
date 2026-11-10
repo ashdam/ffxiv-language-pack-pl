@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanSah301_01400",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_00", "hash": "70BCB23A6B407951", "target": "Seww potrzebuje twojej pomocy, by powstrzymać oddział uderzeniowy ludu Sahagin." },
     { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_01", "hash": "C9BF60BBC71ECE92", "target": "Seww dowiedział się, że Koralowe Trójzęby zbierają siły do wspólnego uderzenia na pozycje obronne Maelstromu. Sądzi, że wyeliminowanie dowódców operacji pozbawi natarcie impetu. Pokonaj członków klanów Sapsa shelfscale, Sapsa shelfclaw i Sapsa shelftooth, a następnie zabij ich wodzów, gdy przybędą pomścić poległych krewniaków." },

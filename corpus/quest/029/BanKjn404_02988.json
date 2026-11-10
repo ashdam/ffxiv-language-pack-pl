@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/BanKjn404_02988",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn404_02988#TEXT_BANKJN404_02988_SEQ_00", "hash": "00B67A963EF0832A", "target": "Zukin chce poznać źródło niezwykłej woni.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
     { "gameKey": "quest/029/BanKjn404_02988#TEXT_BANKJN404_02988_TODO_00", "hash": "642707987147A228", "target": "Włożyć wonną substancję do nieprzemakalnego worka" },

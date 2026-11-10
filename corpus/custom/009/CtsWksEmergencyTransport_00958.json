@@ -1,6 +1,6 @@
 {
   "conversation": "custom/009/CtsWksEmergencyTransport_00958",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/009/CtsWksEmergencyTransport_00958#TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_000_000", "hash": "AFB7580C20AE20E8", "target": "Odpowiadam za wysyłanie personelu podczas czerwonego alarmu, tak jak pokazano nam na symulacjach. Jeśli cię to interesuje, Searchingway na pewno powie ci więcej." },
     { "gameKey": "custom/009/CtsWksEmergencyTransport_00958#TEXT_CTSWKSEMERGENCYTRANSPORT_00958_TALK_010_000", "hash": "4513FA5BF35CE9F1", "target": "Nazywam się Lefleda. Dbam o to, by podczas czerwonego alarmu ludzie trafiali tam, gdzie są potrzebni." },

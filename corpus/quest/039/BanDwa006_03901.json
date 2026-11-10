@@ -1,6 +1,6 @@
 {
   "conversation": "quest/039/BanDwa006_03901",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_SEQ_00", "hash": "0B0B8445E9FD7771", "target": "Ronitt wygląda, jakby szykował się do wystrzelenia w twoją stronę wyjątkowo radosnego krasnoludzkiego powitania." },
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_SEQ_01", "hash": "E7F6CEC8CFF430E3", "target": "Po oszałamiającym sukcesie czołgów Rolling Tankard Ronitt planuje małe spotkanie dla wszystkich, którzy pomogli Kowadłu Wattsa. Zamiast prosić cię o przemierzanie najdalszych zakątków Norvrandt z osobistymi zaproszeniami dla każdego gościa, oszczędza ci trudu i sam zgłasza się do tej pracy. Prosi tylko, by poczekać na niego z Lorathią w Clearmelt.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },

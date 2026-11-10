@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/JobRel401_02380",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/JobRel401_02380#TEXT_JOBREL401_02380_SEQ_00", "hash": "63937EFA96AE86AE", "target": "Amphelice wygląda na gotową do interesów." },
     { "gameKey": "quest/023/JobRel401_02380#TEXT_JOBREL401_02380_SEQ_01", "hash": "AA1E7511D7410AA3", "target": "Ledwie przytakujesz, Amphelice przechodzi prosto do sedna. Singing Cluster otrzymasz dopiero po napisaniu i przedstawieniu jej trzech zręcznie spisanych opowieści o odwadze i przygodach. Nieobce ci niebezpieczeństwo i wiesz, gdzie je znaleźć, wyruszasz więc w poszukiwaniu pisarskiego natchnienia.<br><br>※Przedmiot misji można zdobyć za ukończenie lochu przez Duty Roulette: Leveling." },

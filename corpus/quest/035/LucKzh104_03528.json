@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzh104_03528",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_00", "hash": "246B0906E5D5DBAA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kee-Satt jest gotów zapuścić się w najciemniejsze głębiny Wleczonego Ogona." },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_01", "hash": "014B8432F79EC1B2", "target": "Dowiedziawszy się od Horthura, gdzie może znajdować się żyła rutabitu, Kee-Satt wyruszył do Wleczonego Ogona. Podobno w głębi kopalni roi się od najróżniejszych zajadłych mieszkańców jaskiń, więc młody górnik zapewne będzie potrzebował twojej ochrony.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

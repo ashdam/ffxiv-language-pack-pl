@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobMch600_01712",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobMch600_01712#TEXT_JOBMCH600_01712_SEQ_00", "hash": "9166E0FCEF4B33C5", "target": "Stephanivien otrzymał wiadomość o nadchodzącej próbie." },
     { "gameKey": "quest/017/JobMch600_01712#TEXT_JOBMCH600_01712_SEQ_01", "hash": "1C18732A3A7592F8", "target": "Dzień próby zbliża się wielkimi krokami, więc Stephanivien chciałby wyprawić ucztę na cześć osiągnięć swoich mechaników. Jak zwykle jednak nigdzie nie widać najważniejszych gości. Wyrusz do Foundation i odszukaj Rostnsthala, Joye, Celestaux oraz hrabiego Baurendouina de Haillenarte." },

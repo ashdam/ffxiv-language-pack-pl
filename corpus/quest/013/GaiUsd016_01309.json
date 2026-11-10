@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/GaiUsd016_01309",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "Laraina chce uzupełnić zapasy narzędzi rytualnych." },
     { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "Laraina zaoferowała kolejne trzy żetony w zamian za pełny komplet przedmiotów rytualnych. Pokonaj Garudę, Tytana i Ifryta, aby zdobyć trzy makabryczne trofea, o które prosi zaopatrzeniowczyni.<br><br>※Do instancji the Howling Eye (Extreme), the Navel (Extreme) i the Bowl of Embers (Extreme) można wejść za pomocą wyszukiwarki aktywności." },

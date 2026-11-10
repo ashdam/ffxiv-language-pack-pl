@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsHrv003_00005",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsHrv003_00005#TEXT_CLSHRV003_00005_SEQ_00", "hash": "A942F9EA6AF66C9E", "target": "Fufucha potrzebuje pomocy w realizacji dużego zamówienia." },
     { "gameKey": "quest/000/ClsHrv003_00005#TEXT_CLSHRV003_00005_SEQ_01", "hash": "A923B433089204B7", "target": "Fufucha prosi o zdobycie dziesięciu crow feathers i dostarczenie ich Cicely z Gildii Botaników. Piór jest ponoć wiele na południe od Gilbert's Spire." },

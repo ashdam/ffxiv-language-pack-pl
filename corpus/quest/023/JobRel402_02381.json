@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/JobRel402_02381",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_00", "hash": "087551D2E423C0B1", "target": "Angelet patrzy na ciebie wyczekująco." },
     { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_01", "hash": "4DC3B482ABC6AB6F", "target": "Prośba Angelet zdaje się niewinna─trzeba wziąć jej zaczarowaną tkaninę i przywołać wspomnienia najzacieklejszych dawnych walk. Jest jednak jeden warunek: musi się to odbyć w miejscu samego starcia, bo tylko tak można obudzić magię materiału. Choć wskazane przez nią miejsca zapewne wciąż roją się od niebezpieczeństw, nie zwykło cię to odstraszać. Spieszysz więc tam, gdzie niegdyś czekały na ciebie przygody.<br><br>※Przedmiot misji można zdobyć za ukończenie lochu przez Duty Roulette: High-level Dungeons." },

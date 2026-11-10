@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobDrk650_02917",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_SEQ_00", "hash": "D2D2491ECD8D435F", "target": "Sidurgu zaraz złoży propozycję, której natychmiast pożałuje." },
     { "gameKey": "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_SEQ_01", "hash": "A32D86F46EB97EAD", "target": "Myste nadal jest niepocieszony. Nie potrafi przestać myśleć o Lowdy i jej losie. Sidurgu proponuje więc powrót do Moghome, co można wyjaśnić jedynie chwilową utratą rozumu. Najwyraźniej ma nadzieję, że świeże powietrze i spokój poprawią chłopcu humor. Albo tęskni za przyłożeniem moogle'owi w małą, włochatą twarz." },

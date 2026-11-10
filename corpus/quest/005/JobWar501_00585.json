@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/JobWar501_00585",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/JobWar501_00585#TEXT_JOBWAR501_00585_SEQ_00", "hash": "93A7490F138A0E27", "target": "Curious Gorge nie może się doczekać poznania nowych technik walki." },
     { "gameKey": "quest/005/JobWar501_00585#TEXT_JOBWAR501_00585_SEQ_01", "hash": "399B38B9D05133F5", "target": "Curious Gorge opowiada o swym bracie, Broken Mountain, który nadal leczy rany w Obozie Bronze Lake. Bracia niezmiennie pragną szerzyć nauki swego ludu w całej Eorzei, lecz Broken Mountain niechętnie myśli o ponownym chwyceniu za topór. Zajął się badaniami i natrafił na wzmianki o dawnych technikach walki. Aby dowiedzieć się więcej, udaj się do Obozu Bronze Lake i porozmawiaj z Broken Mountain." },

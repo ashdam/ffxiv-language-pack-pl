@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc412_00987",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_00", "hash": "C2EB7BB53672A58A", "target": "Każdemu przydaje się czasem pomoc poszukiwacza przygód, nawet koledze po fachu. Aganbold ma prośbę, która może przyprawić o dreszcz." },
     { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_01", "hash": "8D7F25895988AB7F", "target": "Aganbold potrzebuje ektoplazmy katalitycznej z nieznanych, a może wręcz niewypowiedzianych powodów. Pokonaj plasmoid i zbierz trzy próbki plazmy katalitycznej." },

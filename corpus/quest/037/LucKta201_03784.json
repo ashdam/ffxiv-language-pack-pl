@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/LucKta201_03784",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKta201_03784#TEXT_LUCKTA201_03784_SEQ_00", "hash": "50329DF590309485", "target": "Kierownik wykopalisk ma do ciebie prośbę. Za nic nie zgadniesz, kogo dotyczy." },
     { "gameKey": "quest/037/LucKta201_03784#TEXT_LUCKTA201_03784_SEQ_01", "hash": "DCEE37D3C1E72B50", "target": "Jak zwykle kierownik wykopalisk martwi się o Anogg i Konogga─a raczej o szkody, jakie mogą wyrządzić, jeśli dostatecznie długo nikt nie będzie ich pilnował. Wspomina też, że zaniedbują obowiązki we wsi, badając klucz znaleziony w The Copied Factory. Prosi o przypomnienie im o pracy, gdy już upewnisz się, czy czegoś nie podpalili." },

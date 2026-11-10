@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanAll120_02383",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanAll120_02383#TEXT_BANALL120_02383_SEQ_00", "hash": "61208F2C3D081167", "target": "Master Mogzin jest moogle'em z planem." },
     { "gameKey": "quest/023/BanAll120_02383#TEXT_BANALL120_02383_SEQ_01", "hash": "C4D915E1768D2A50", "target": "Wszyscy zgodzili się odłożyć drobne spory i zająć się poważną sprawą smoczego szaleństwa. Master Mogzin obmyślił więc plan działania. On i Ohl Deeh zbiorą informacje o obecnym miejscu pobytu zaginionego smoka, a ty wraz z uczniem ruszysz tropem tajemniczego zamaskowanego napastnika. Być może dowiecie się, co dokładnie dolega staremu smokowi i jak przywrócić mu dawną łagodność. Za radą ucznia rozdzielacie się, by wypytać mieszkańców Bahrr Lehs o wszystko, co mogli widzieć lub słyszeć." },

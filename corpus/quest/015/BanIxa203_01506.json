@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa203_01506",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa203_01506#TEXT_BANIXA203_01506_SEQ_00", "hash": "7C99379170DA3261", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Nieprzewidziane opóźnienie daje Methuli Cattlan the Hard powód do zmartwień.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 3 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 43 lub wyższym." },
     { "gameKey": "quest/015/BanIxa203_01506#TEXT_BANIXA203_01506_SEQ_01", "hash": "0A6C9FC17F2B2EBE", "target": "Methuli Cattlan prosi o wykonanie deck component wysokiej jakości do statku <italic(1)>Dezul Qualan<italic(0)>. Najpierw jednak musisz zdobyć potrzebne materiały od stworzenia shale golem, które można wywabić z kryjówki, zabijając stworzenia clay golem w Olchowych Źródłach. Jeśli walka z shale golem okaże się trudna, osłab go rozpuszczalnikiem otrzymanym od Methuli Cattlan.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

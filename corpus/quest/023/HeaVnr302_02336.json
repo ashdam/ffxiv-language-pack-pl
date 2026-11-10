@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/HeaVnr302_02336",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/HeaVnr302_02336#TEXT_HEAVNR302_02336_SEQ_00", "hash": "F2ECD8D8259C9A5F", "target": "Niezrażony ostatnimi odkryciami Biggs chce omówić z tobą kolejny etap misji ratunkowej." },
     { "gameKey": "quest/023/HeaVnr302_02336#TEXT_HEAVNR302_02336_SEQ_01", "hash": "3B5C224E758696BE", "target": "Operacja uratowania Roundrox─a tym samym udaremnienia planów Illuminati, by zapanować nad historią─zaraz się rozpocznie. Biggs objaśnia szczegóły. Zadanie będzie proste, choć wymagające: wejść do kolosa przez głowę, przebić się przez jamę nosową i przejąć ruchomą platformę, która przewiezie ratowników do Sterowni Centralnej, gdzie więziona jest Roundrox. Tymczasem Cid i pozostali przeczeszą sektor Midas, eliminując napotkane zasadzki Illuminati, po czym dołączą do ciebie przed próbą ratunku. Los goblińskiej dziewczynki─i samej historii─wisi na włosku. Jeszcze raz do wyłomu, <if(gnum4,Wojowniczko,Wojowniku)> Światła!<br><br>※Do The Breath of the Creator można dołączyć przez wyszukiwarkę aktywności." },

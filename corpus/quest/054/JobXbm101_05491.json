@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/JobXbm101_05491",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/JobXbm101_05491#TEXT_JOBXBM101_05491_SEQ_00", "hash": "851E3992A2220FF7", "target": "J'yhuh Tia czeka na zakończenie przygotowań swojej najnowszej <if(gnum4,uczennicy,ucznia)>." },
     { "gameKey": "quest/054/JobXbm101_05491#TEXT_JOBXBM101_05491_SEQ_01", "hash": "14C4CA9985E1BE8F", "target": "Z odpowiednim ekwipunkiem i pierwszym paktem poskramiacza bestii możesz rozpocząć naukę. Kiedy J'yhuh Tia rozważa wybór miejsca, Loosefrox wspomina o odpowiednim terenie należącym do Leśnych Płaczków. J'yhuh Tia przypuszcza, że chodzi jej o Bannock, ruszacie więc we troje poprosić leśnych strażników o zgodę." },

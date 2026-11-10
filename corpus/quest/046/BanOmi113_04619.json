@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/BanOmi113_04619",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "Stigma-4 ma pilną prośbę.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },
     { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "Umieścić spragnionego Grebuloff w worku na zwłoki zatrzymującym wilgoć" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/SubSea015_00663",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya ma wiadomość, która tym razem na pewno cię zainteresuje." },
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Niniya twierdzi, że strażnicy przy Oczach w rejonie Lower La Noscea często proszą poszukiwaczy przygód o pomoc, gdy mają za dużo pracy. Wyjdź z miasta i porozmawiaj z Ancretą, by dowiedzieć się więcej." },

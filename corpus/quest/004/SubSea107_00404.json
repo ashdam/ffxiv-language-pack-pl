@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/SubSea107_00404",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_00", "hash": "79FD56CDFB15B591", "target": "Lyulf, rolnik z osady Swiftperch ledwo wiążący koniec z końcem, chce, żeby udało ci się odnaleźć zakopany majątek jego zmarłego ojca." },
     { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_01", "hash": "5692C940F94BE7B1", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Fraeloefem w osadzie Swiftperch.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

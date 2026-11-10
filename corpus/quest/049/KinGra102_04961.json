@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGra102_04961",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGra102_04961#TEXT_KINGRA102_04961_SEQ_00", "hash": "B4B70DF726957AFE", "target": "Metem spogląda na ciebie wyczekująco." },
     { "gameKey": "quest/049/KinGra102_04961#TEXT_KINGRA102_04961_SEQ_01", "hash": "D56F86F59B112402", "target": "Poznajesz swoją pierwszą przeciwniczkę, Black Cat─tę samą dumną dziewczynę, którą <if(gnum4,spotkałaś,spotkałeś)> wcześniej. Metem wyjaśnia, że używa duszy Cath Palug, legendarnej kociej bestii, która podobno walczyła ze starożytnym bohaterem ich świata. Dzięki niej jej pazury staną się dość ostre, by rozdzierać stal, a zwinność nie będzie miała sobie równych. Aby zwyciężyć w tym pojedynku, musisz zachować czujność.<br><br>※Do AAC Light-heavyweight M1 można wejść za pośrednictwem Wyszukiwarki aktywności." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/SubSea151_01142",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "Szeregowa S'nairoh potrzebuje twojej pomocy w obronie Aleportu." },
     { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "Wszystko musi zdarzyć się pierwszy raz. Niestety dla S'nairoh, gdy po raz pierwszy poznaje smak wojny, ma za tarczę tylko kogoś z przechodzących poszukiwaczy przygód. Masz zabić pięć puk hatchling, podczas gdy ona przygotuje działo." },

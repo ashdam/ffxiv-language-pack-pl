@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKbc004_03213",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKbc004_03213#TEXT_LUCKBC004_03213_SEQ_00", "hash": "8F33E097B90F9F47", "target": "Alberic chętnie wysłucha opowieści o twoich przygodach." },
     { "gameKey": "quest/032/LucKbc004_03213#TEXT_LUCKBC004_03213_SEQ_01", "hash": "38653681EC8B8D56", "target": "Zastajesz Alberica próbującego rozgrzać się w Observatorium. Mistrz z radością korzysta z okazji do wymiany opowieści. Na wzmiankę o Orn Khaiu zjawia się sam młody smok i dołącza do rozmowy, z zapałem słuchając o twoich przygodach na Pierwszym. Opowieść o śmierci Andrei przypomina historię Nidhogga, którym również kierowały wspomnienia dawno minionych czasów. Orn Khai ubolewa, że nikt nie opłakuje potężnego smoka. Proponuje zapytać Faunehm, by dowiedzieć się więcej o zmarłym." },

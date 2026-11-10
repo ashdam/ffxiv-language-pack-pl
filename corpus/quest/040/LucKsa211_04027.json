@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKsa211_04027",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa211_04027#TEXT_LUCKSA211_04027_SYSTEM_100_000", "hash": "A87B2D8AF19105CE", "target": "Aby kontynuować to zadanie, wymagana jest Ranga Ruchu Oporu <num(lnum1)> oraz męstwo w liczbie <kilo(lnum2,\\,)>." },
     { "gameKey": "quest/040/LucKsa211_04027#TEXT_LUCKSA211_04027_SYSTEM_100_001", "hash": "25C9843BC51D3514", "target": "Twoja Ranga Ruchu Oporu wynosi <num(lnum1)>, a zgromadzone męstwo: <kilo(lnum2,\\,)>." },

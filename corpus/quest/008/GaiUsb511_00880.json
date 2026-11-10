@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb511_00880",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "Dedeju potrzebuje pomocy w naprawie skromnej lnianej szaty liturgicznej." },
     { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "Dedeju, tkaczce pracującej przy Kościele Świętego Adamy Landamy, powierzono naprawę szaty ojca Iliuda. Niestety zniszczenia przewyższają jej zapas tkaniny. Bystra jak igła i pewna jak ścieg, wysyła cię na stację Black Brush Station w rejonie Central Thanalan po znoszone płótno od zaufanego kupca." },

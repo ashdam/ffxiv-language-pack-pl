@@ -1,6 +1,6 @@
 {
   "conversation": "quest/039/LucKha021_03972",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "No proszę, <split(<string(gstr1)>, ,1)>! Rozejrzyj się i naciesz oczy Featherfall, najnowszą dzielnicą The Firmament, już otwartą! Nie trzeba chyba dodawać, że bez ciebie by się to nie udało." },
     { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "Jak zapewne wiesz, Featherfall ma być dzielnicą handlową The Firmament. Znajdziesz tu filię Skysteel Manufactory, okazałą rezydencję Hoarfrost Hall i tętniący życiem targ, na którym kupcy oferują towary z całego kraju." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanAma107_01228",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_00", "hash": "AAA06C30A5BE6516", "target": "Fibubb Gah prosi cię o pomoc w wypróbowaniu nowego leku." },
     { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_01", "hash": "CC36D8F507BAB3BA", "target": "Fibubb Gah powierza ci najnowszą broń Bractwa Popiołu w wojnie z pobratymcami─możliwy lek na szaleństwo zniewolonych. Obezwładnij przeciwników na terenie zniewolonych w północnym Zanr'ak i sprawdź skuteczność świętego popiołu." },

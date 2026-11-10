@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsRog250_00148",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsRog250_00148#TEXT_CLSROG250_00148_SEQ_00", "hash": "FF1D0DCFC758001C", "target": "Jacke chce omówić plan odzyskania pozostałych skarbów." },
     { "gameKey": "quest/001/ClsRog250_00148#TEXT_CLSROG250_00148_SEQ_01", "hash": "9AD7AAD2F97C9D7B", "target": "Jacke wyjaśnia, że pozostałe skarby mają Reformatorzy, skrajny odłam budzących grozę Krwawych Egzekutorów. Wysyła cię do stale zmieniającego kryjówki handlarza z czarnego rynku, aby dowiedzieć się czegoś o tych niebezpiecznych celach i ich planach. Udaj się do Domu z Patyków w Lower La Noscea i broń się przed ochroniarzami pośrednika z ludu Kobold, jeśli zagrodzą ci drogę." },

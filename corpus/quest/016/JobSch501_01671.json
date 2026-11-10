@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobSch501_01671",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobSch501_01671#TEXT_JOBSCH501_01671_SEQ_00", "hash": "61E0AD0713B1384C", "target": "Na twarzy Alki Zolki maluje się podekscytowanie." },
     { "gameKey": "quest/016/JobSch501_01671#TEXT_JOBSCH501_01671_SEQ_01", "hash": "3A10CB2BC34CAFB6", "target": "Alka Zolka otrzymał list od samego Surito Carito, który prosi was o spotkanie w pobliżu Wanderer's Palace. Udaj się do Upper La Noscea i dowiedz się, czego potrzebuje uczony." },

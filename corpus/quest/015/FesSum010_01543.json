@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/FesSum010_01543",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SEQ_00", "hash": "CF2893E93D1A551B", "target": "Haermaga ma specjalne nagrody dla tych, którzy ukończyli wszystkie trzy atrakcje Festynu Księżycowego Ognia.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SEQ_01", "hash": "567E7F3079C12208", "target": "Masz za sobą wszystkie trzy atrakcje Festynu Księżycowego Ognia, a Haermaga zgodnie z obietnicą przygotował specjalne nagrody. Pierwszą jest pokaźny zestaw fajerwerków, przechowywany obecnie przez inną opiekunkę. Druga to okazja do zupełnie innego strojenia piórek─lekcja tańca według wschodniej tradycji. Włóż strój <if(gnum4,Lady's Yukata \\(Red\\),Lord's Yukata \\(Blue\\))> i zapytaj opiekunkę festynu na placu Aftcastle o fajerwerki.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

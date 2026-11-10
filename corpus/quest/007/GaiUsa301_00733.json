@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa301_00733",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa301_00733#TEXT_GAIUSA301_00733_SEQ_00", "hash": "C023927D57B498EF", "target": "Właściciel, od którego karczma Buscarron's Druthers wzięła nazwę, potrzebuje <if(gnum4,sprawnej poszukiwaczki,sprawnego poszukiwacza)> przygód." },
     { "gameKey": "quest/007/GaiUsa301_00733#TEXT_GAIUSA301_00733_SEQ_01", "hash": "07FFE255FEC7F69D", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Buscarronem w karczmie Buscarron's Druthers.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

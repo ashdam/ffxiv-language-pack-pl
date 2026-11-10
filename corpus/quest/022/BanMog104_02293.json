@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanMog104_02293",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanMog104_02293#TEXT_BANMOG104_02293_SEQ_00", "hash": "B3E74F2AA098F2D8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mogek the Marvelous lata w tę i z powrotem, marszcząc pulchną twarz z niezadowolenia." },
     { "gameKey": "quest/022/BanMog104_02293#TEXT_BANMOG104_02293_SEQ_01", "hash": "755B2482D86EA839", "target": "Zamówione przez Mogeka kosze wciąż nie dotarły. Obawia się, że nie będzie miał w czym przewieźć stosów tkanin, które wkrótce zostaną ukończone. Czekając na pierwsze dostawy, prosi cię o zbadanie przyczyny opóźnienia. Udaj się na szczyt Sohm Al i porozmawiaj z jednym z moogli wyplatających kosze.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

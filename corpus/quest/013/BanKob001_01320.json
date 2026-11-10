@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanKob001_01320",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_SEQ_00", "hash": "5419F2B8058767F6", "target": "Trachraet szuka poszukiwacza przygód o wyjątkowym zacięciu śledczym." },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_SEQ_01", "hash": "F59AC0D2136B70C7", "target": "Porucznik Trachraet ujawnia niepokojące wydarzenie: niedawno napadnięto na konwój Maelstromu, a niezidentyfikowani sprawcy zbiegli z ważnym transportem saletry. Prosi cię o pomoc i wysyła do Swiftperch na obszarze western La Noscea, by wesprzeć porucznik Skaetswys, której powierzono śledztwo." },

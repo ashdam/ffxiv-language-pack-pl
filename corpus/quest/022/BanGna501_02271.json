@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanGna501_02271",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanGna501_02271#TEXT_BANGNA501_02271_SEQ_00", "hash": "2874FDDFA6EBEB07", "target": "Vath keeneye wydaje się czymś zaniepokojony.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
     { "gameKey": "quest/022/BanGna501_02271#TEXT_BANGNA501_02271_SEQ_01", "hash": "F423C575C3413EA0", "target": "Vath keeneye wysłał jednego z pobratymców, Vath farwalker, do Idyllshire z wozem towarów. Jego opóźniony powrót budzi jednak najgorsze obawy. Prosi cię o podróż na południe, w stronę Dravanian hinterlands, w poszukiwaniu zaginionego Vath.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },

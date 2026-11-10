@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsCul501_00270",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_00", "hash": "DE989BB24F24F98D", "target": "Lyngsath potrzebuje twojej pomocy przy uczcie godnej sułtanki." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_01", "hash": "2AFD5A2A12A5C9E1", "target": "Wieści o twoim talencie dotarły do sułtanki Ul'dah, która zażyczyła sobie twoich potraw na powitalnej kolacji. Niestety Jej Wysokość wskazała osobę, ale nie dania. Aby ustalić jadłospis, Lyngsath radzi ci zasięgnąć rady Diving Dove." },

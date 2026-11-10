@@ -1,6 +1,6 @@
 {
   "conversation": "custom/006/CmnDefRowenasCollectablesShop_00689",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/006/CmnDefRowenasCollectablesShop_00689#TEXT_CMNDEFROWENASCOLLECTABLESSHOP_00689_ROWENASLAVE1_000_000", "hash": "3521BD7E2591AADC", "target": "Proszę wybaczyć, <if(gnum4,szanowna pani,szanowny panie)>, ale Dom Splendorów nie przyjmuje towarów bez wcześniejszych uzgodnień. Proszę porozmawiać z Lydirloną, jeśli chce <if(gnum4,pani,pan)> dołączyć do grona naszych dostawców." },
     { "gameKey": "custom/006/CmnDefRowenasCollectablesShop_00689#TEXT_CMNDEFROWENASCOLLECTABLESSHOP_00689_ROWENASLAVE2_000_000", "hash": "70D6A0CB44638A1C", "target": "Najmocniej przepraszam, <if(gnum4,szanowna pani,szanowny panie)>, ale mogę handlować wyłącznie z osobami zarejestrowanymi w Domu." },

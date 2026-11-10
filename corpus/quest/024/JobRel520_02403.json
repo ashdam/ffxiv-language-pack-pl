@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobRel520_02403",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobRel520_02403#TEXT_JOBREL520_02403_SEQ_00", "hash": "1365896DEACD6948", "target": "Ardashir jest ciekaw obecnego stanu animy." },
     { "gameKey": "quest/024/JobRel520_02403#TEXT_JOBREL520_02403_SEQ_01", "hash": "E39043698B38B23B", "target": "Pytania Ardashira o animę niespodziewanie przerywa połączenie od Roweny przez perłę łączności. Jak wyjaśnia młody uczony, wysłał dokumentację swoich badań do słynnego autorytetu w dziedzinie magii, który uznał ją za godną odpowiedzi. Choć nie może doczekać się zawartych w niej mądrości, nie wolno mu zaniedbać bieżącej pracy. Prosi cię, by udać się przed nim do Roweny w Idyllshire." },

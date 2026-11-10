@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUse104_01178",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUse104_01178#TEXT_GAIUSE104_01178_SEQ_00", "hash": "F694201BD97162D2", "target": "F'lhaminn czeka na twoją pomoc." },
     { "gameKey": "quest/011/GaiUse104_01178#TEXT_GAIUSE104_01178_SEQ_01", "hash": "56140DA8E58DF251", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z F'lhaminn w Wineport.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji Ustawienia interfejsu." },

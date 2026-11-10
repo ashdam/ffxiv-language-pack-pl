@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/ComGrd003_01563",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/ComGrd003_01563#TEXT_COMGRD003_01563_SEQ_00", "hash": "A5362A85644F1E1D", "target": "Co dla jednych jest plagą, dla innych okazją do szastania pieniędzmi. Porucznik Scarlet pomoże ci zrozumieć, skąd ta zależność." },
     { "gameKey": "quest/015/ComGrd003_01563#TEXT_COMGRD003_01563_SEQ_01", "hash": "C389B0F7A4F45B56", "target": "Porucznik Scarlet informuje cię, że Sojusz Eorzejski ustanowił system nagród za głowy zwany Łowami. By poznać szczegóły tego niezwykle dochodowego przedsięwzięcia, porozmawiaj z zarządcą zleceń łowieckich w Gnieździe Żmij." },

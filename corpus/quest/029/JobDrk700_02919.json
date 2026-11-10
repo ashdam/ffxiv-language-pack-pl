@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobDrk700_02919",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_SEQ_00", "hash": "22BAFACE121CF501", "target": "Od początku wiesz, że to mogło skończyć się tylko w jeden sposób." },
     { "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_SEQ_01", "hash": "0C50D6404F73CF6A", "target": "Sid wreszcie przyznał, że Myste nie wróci do Ishgardu i że musimy sami działać, by odzyskać resztę skradzionego eteru. Ostatnia wasza rozmowa odbyła się w Rhalgr's Reach, więc tam się udamy." },

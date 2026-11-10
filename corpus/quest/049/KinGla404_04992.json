@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla404_04992",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SEQ_00", "hash": "B854F946F3234932", "target": "Shunye wydaje się zadowolony z ożywionego handlu w swojej aptece." },
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SEQ_01", "hash": "6DB106D49B9D7C50", "target": "Shunye prosi cię o dostarczenie Household Cleansing Supplies.<br><br>※ Przedmioty Household Cleansing Supplies można zebrać klasą Miner przy Konarach Hwittayoanaan lub klasą Botanist przy Hhusatahwi.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 240. Dostarczenie przedmiotów o wartości co najmniej 600 zapewni większe nagrody." },

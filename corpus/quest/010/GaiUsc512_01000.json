@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc512_01000",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_00", "hash": "E3F904D303D52A44", "target": "Guolgeim zamierza wysłać cię do miejsca katastrofy garleańskiego statku na wschodzie." },
     { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_01", "hash": "2BFDC49B0A17026E", "target": "Według Guolgeim wrak garleańskiego statku powietrznego wciąż od czasu do czasu dostarcza drobnych skarbów szabrownikom takim jak ona. Ruszaj na południowy wschód i przeszukaj miejsce katastrofy w poszukiwaniu fragmentów kadłuba." },

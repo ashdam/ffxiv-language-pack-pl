@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobBrd350_01086",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobBrd350_01086#TEXT_JOBBRD350_01086_SEQ_00", "hash": "D9DD7F40CD6D0AEB", "target": "Jehantel chce nauczyć cię sposobu poznania nowej pieśni." },
     { "gameKey": "quest/010/JobBrd350_01086#TEXT_JOBBRD350_01086_SEQ_01", "hash": "6E29590A82F3AECA", "target": "Jehantel wyjaśnił ci, jak poznać nową melodię. Udaj się do Wąwozu Łapaczy Deszczu w rejonie Eastern La Noscea i zaczekaj we wskazanym miejscu. Pokonaj pojawiające się duchy, by uwolnić je od cierpienia." },

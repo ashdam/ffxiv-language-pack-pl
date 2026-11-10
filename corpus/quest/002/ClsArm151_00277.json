@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm151_00277",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm151_00277#TEXT_CLSARM151_00277_SEQ_00", "hash": "DBCA4B29280E1C28", "target": "Mistrzyni kuźni H'naanza prosi cię o życzliwe wysłuchanie początkującej płatnerki." },
     { "gameKey": "quest/002/ClsArm151_00277#TEXT_CLSARM151_00277_SEQ_01", "hash": "2E0D8E134F8D4F5D", "target": "H'naanza martwi się o jedną z pilniejszych uczennic. Wbrew zwyczajowi dziewczyna spóźnia się z zamówieniem. Porozmawiaj z Dyrstwydą w Gildii Płatnerzy i ustal przyczynę opóźnienia." },

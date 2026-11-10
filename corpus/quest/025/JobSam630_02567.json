@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam630_02567",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_SEQ_00", "hash": "37751F34B5581D15", "target": "Momozigo przechowuje zaadresowany do ciebie list." },
     { "gameKey": "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_SEQ_01", "hash": "5AB464015D6545EE", "target": "Momozigo wręcza ci list od Makoto. Eleganckim pismem opisuje przegrywaną przez Sekiseigumi walkę z buntownikami Ugetsu, dawnego ucznia twojego mistrza, i prosi cię o pomoc. Jeśli zechcesz odpowiedzieć na wezwanie, masz przybyć do Sekiseigumi Barracks w Kugane." },

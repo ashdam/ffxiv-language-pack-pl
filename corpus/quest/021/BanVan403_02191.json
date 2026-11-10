@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan403_02191",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan403_02191#TEXT_BANVAN403_02191_SEQ_00", "hash": "F9D80DBF80588B38", "target": "Muna Vanu uważnie przygląda się swojej szarfie.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan403_02191#TEXT_BANVAN403_02191_SEQ_01", "hash": "A2C683D60FEF742D", "target": "Muna Vanu wskazuje wyraźną dziurę w swojej szarfie, ale wstydzi się poprosić Linu Vanu o nową. Porozmawiaj z Linu Vanu w jego imieniu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

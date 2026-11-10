@@ -1,6 +1,6 @@
 {
   "sheet": "DpsChallenge",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "DpsChallenge#1.6", "hash": "F6362C083031DD67", "target": "Stone, Sky, Sea - Basic Training" },
     { "gameKey": "DpsChallenge#1.7", "hash": "537203BB244085A7", "target": "„<if(gnum4,Tej,Temu)>, <if(gnum4,która,który)> walczy z siłą nieugiętego kamienia, oddycha głębią bezkresnego nieba i obejmuje spokój falującego morza, nikt nie zdoła się oprzeć”.<br><br>Zgłęb tajniki mistrzów z dalekich stron i zniszcz manekin treningowy w wyznaczonym czasie!" },

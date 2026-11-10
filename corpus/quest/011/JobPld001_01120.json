@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/JobPld001_01120",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/JobPld001_01120#TEXT_JOBPLD001_01120_SEQ_00", "hash": "BD75914155F816F6", "target": "Gerolt wygląda jak pokonany człowiek." },
     { "gameKey": "quest/011/JobPld001_01120#TEXT_JOBPLD001_01120_SEQ_01", "hash": "CD1EB6CFBBDC8BE7", "target": "Gerolt niechętnie zgadza się użyczyć swoich umiejętności do odnowienia legendarnego oręża z dawnych czasów. Na początek płatnerz każe ci zapuścić się do twierdzy Zahar'ak w regionie Southern Thanalan i odzyskać zaginiony miecz Curtana. Poszukaj pojemnika, w którym może spoczywać cenna relikwia." },

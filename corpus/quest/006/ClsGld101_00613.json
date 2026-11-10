@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ClsGld101_00613",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ClsGld101_00613#TEXT_CLSGLD101_00613_SEQ_00", "hash": "23544EE1C4B9AB46", "target": "Serendipity uważa, że pora na nowy rodzaj wyzwania." },
     { "gameKey": "quest/006/ClsGld101_00613#TEXT_CLSGLD101_00613_SEQ_01", "hash": "5242FE747E02EB7F", "target": "Serendipity powierza ci pierwsze oficjalne zamówienie. Wykonaj tuzin handfuls of copper rings i pokaż je jej do oceny." },

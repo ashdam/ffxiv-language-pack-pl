@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/JobSmn630_02626",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_SEQ_00", "hash": "E1E6B9C423AE8669", "target": "Y'mhitra prosi, by wysłuchać Principii." },
     { "gameKey": "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_SEQ_01", "hash": "7BEAECBDA9CC3D88", "target": "Y'mhitra zwraca twoją uwagę na Principię. Zębaty chowaniec oznajmia, że możesz przystąpić do drugiej próby. Zaskoczona wymogiem udziału innych adeptów przywoływania Y'mhitra musi przyjąć propozycję Dancing Wolfa: współpracę z początkującymi magami z jego pułku. Udaj się do Camp Bluefog w Northern Thanalan i zgłoś się do kapitana Płomieni." },

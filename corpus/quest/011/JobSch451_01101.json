@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/JobSch451_01101",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/JobSch451_01101#TEXT_JOBSCH451_01101_SEQ_00", "hash": "B638AC6A17929F2D", "target": "Alka Zolka chce zaproponować kolejny sposób na rozbudzenie wspomnień twojej wróżki." },
     { "gameKey": "quest/011/JobSch451_01101#TEXT_JOBSCH451_01101_SEQ_01", "hash": "2AC1E1161E5C4BF6", "target": "Większość wiedzy zdobytej przez Alkę Zolkę o uczonych dotyczy ich roli w wojsku Nym. Najnowsze tłumaczenia rzucają jednak światło na ich zajęcia w czasie pokoju. Podobno wykorzystywali swoje zdolności, pomagając chorym i niedołężnym. Odegrali nawet kluczową rolę w walce z gwałtowną zarazą, która niegdyś groziła opanowaniem całego Nym. Dlatego Alka Zolka uważa, że opieka nad pacjentami dochodzącymi do zdrowia w Obozie Bronze Lake może rozbudzić wspomnienia twojej wróżki. Udaj się do Sanatorium Warmwine w regionie Upper La Noscea i zaoferuj pomoc Rukusie Farusie." },

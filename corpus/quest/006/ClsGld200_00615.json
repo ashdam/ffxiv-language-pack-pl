@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ClsGld200_00615",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ClsGld200_00615#TEXT_CLSGLD200_00615_SEQ_00", "hash": "0EAE33441B8DE82D", "target": "Serendipity chce powrócić do udzielania ci właściwych lekcji." },
     { "gameKey": "quest/006/ClsGld200_00615#TEXT_CLSGLD200_00615_SEQ_01", "hash": "BE5B262A5B12CF5D", "target": "Odsuwając na bok utratę ukochanej tarty jabłkowej, mistrzyni gildii postanawia udzielić ci pierwszej właściwej lekcji od czasu dwóch ostatnich zamówień. Wykonaj staghorn staff, osadź w nim jedną materię dowolnego rodzaju i pokaż go Serendipity do oceny." },

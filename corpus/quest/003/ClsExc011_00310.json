@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/ClsExc011_00310",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ClsExc011_00310#TEXT_CLSEXC011_00310_SEQ_00", "hash": "94AEA03C55CC7F48", "target": "Blauthota chce się upewnić, że nadal pragniesz dołączyć do Gildii Grabieżców." },
     { "gameKey": "quest/003/ClsExc011_00310#TEXT_CLSEXC011_00310_SEQ_01", "hash": "9D840E33F754D5F2", "target": "Blauthota poleca ci porozmawiać z mistrzem topora Wyrnzoenem. Bez jego zgody nie dołączysz do gildii." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/JobRel200_02284",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/JobRel200_02284#TEXT_JOBREL200_02284_SEQ_00", "hash": "FCD5F62283C67D04", "target": "Ardashir dokonał przełomu w badaniach nad animą.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/022/JobRel200_02284#TEXT_JOBREL200_02284_SEQ_01", "hash": "63FB54D58B84393A", "target": "Ardashir chce zwiększyć zasoby energii eterycznej animy, by mogła jasno i zwięźle wyrażać myśli. Proponuje zatem poprawić przewodnictwo eteryczne broni, nie tylko aby dać animie siłę do rozmowy, lecz także umożliwić osobom bez Echa zrozumienie jej przekazu. Gerolt niechętnie zgadza się pomóc. Aby jednak pracować nad bronią anima, musi najpierw odizolować narzędzia szkliwem duszy, a do tego potrzebuje pięciu pojemników Aether Oil. Każe ci odszukać eorzejskich handlarzy starożytnościami i zdobyć to, czego potrzebuje.<br><br>※Nie możesz kontynuować misji w innej klasie lub jobie niż w chwili jej przyjęcia." },

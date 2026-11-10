@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubPst023_00243",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubPst023_00243#TEXT_SUBPST023_00243_SEQ_00", "hash": "18350859B610A3F3", "target": "Zastępca listonosza moogle'a chce, by doręczyć niedoręczalne." },
     { "gameKey": "quest/002/SubPst023_00243#TEXT_SUBPST023_00243_SEQ_01", "hash": "B2C8AC46959E8DC9", "target": "Mimo skłonności do delegowania zastępca listonosza moogle'a wyjątkowo postanowił sam dostarczyć pilny list, lecz pod podanym adresem nie znalazł śladu adresata. Zmartwiony koniecznością zwrotu niedoręczonej przesyłki, ale prędko dostrzegający okazję w trudnościach, przydziela niezręczne zadanie zaufanej osobie na przyuczeniu. Dzięki temu zyskasz cenne doświadczenie w radzeniu sobie z gniewem rozczarowanego klienta. Każe ci udać się za róg, do Oktantu, i oddać list Bango Zango, drażliwemu wiceprezesowi Konsorcjum Brugaire." },

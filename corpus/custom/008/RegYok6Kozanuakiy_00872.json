@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/RegYok6Kozanuakiy_00872",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_000", "hash": "C6EB0D910114A38C", "target": "Och, witam. Od dawna nie mieliśmy gościa spoza ludu Hanu. Jeśli chce <if(gnum4,pani,pan)> dowiedzieć się czegoś o tym miejscu, podzielę się swoją wiedzą." },
     { "gameKey": "custom/008/RegYok6Kozanuakiy_00872#TEXT_REGYOK6KOZANUAKIY_00872_GINUHANU_000_001", "hash": "E928B981BCF02110", "target": "Witam, witam! Czy przybywa <if(gnum4,pani,pan)>, by oddać cześć bóstwu o imieniu Kixaihih? Byłby to dla nas zaszczyt. Jeśli mogę jeszcze jakoś służyć pomocą, wystarczy zapytać." },

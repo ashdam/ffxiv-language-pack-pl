@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa506_01519",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa506_01519#TEXT_BANIXA506_01519_SEQ_00", "hash": "C6D145F1435CEAA0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Duzal Meyean the Steady szuka kogoś z Disciples of the Hand o wnikliwym oku, kto pomoże jego zespołowi rzemieśl... ptaków naprawić wady kluczowych elementów.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 15 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 48 lub wyższym." },
     { "gameKey": "quest/015/BanIxa506_01519#TEXT_BANIXA506_01519_SEQ_01", "hash": "F81F0F69E4EC18A2", "target": "Duzal Meyean prosi o wykonanie steering mechanism components wysokiej jakości do zamontowania na statku <italic(1)>Dezul Qualan<italic(0)>. Odpowiednie wyposażenie do ich wykonania znajduje się jednak tylko w Diamentowej Kuźni w Revenant's Toll. Porozmawiaj z zarządczynią kuźni, Fyrbrydą, aby uzyskać zgodę na korzystanie z warsztatu.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/FesNyrFstShogun2014_00145",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/FesNyrFstShogun2014_00145#TEXT_FESNYRFSTSHOGUN2014_00145_YELLOWGENERAL_000_000", "hash": "04DF86E3587732F6", "target": "Pyta <if(gnum4,pani,pan)>, czemu tak mówi? Wreszcie trafne pytanie. Zarządczyni Konia jest damą ze znakomitego rodu, a tę godną pochwały uwagę przykuła dworna mowa Dalekiego Wschodu." },
     { "gameKey": "custom/001/FesNyrFstShogun2014_00145#TEXT_FESNYRFSTSHOGUN2014_00145_YELLOWGENERAL_000_001", "hash": "4081BF0FABCD87E7", "target": "Szlachetna duchem i łagodna w słowach, dobrowolnie podjęła się tego zadania, mimo niemałego... sceptycyzmu w pewnych kręgach." },

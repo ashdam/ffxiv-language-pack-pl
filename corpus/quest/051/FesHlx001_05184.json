@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/FesHlx001_05184",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/FesHlx001_05184#TEXT_FESHLX001_05184_SEQ_00", "hash": "68B7007F7A939225", "target": "Zjawa z dyniową głową wypatruje zdolnej osoby zajmującej się przygodami.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/051/FesHlx001_05184#TEXT_FESHLX001_05184_SEQ_01", "hash": "D0D4E0971078C901", "target": "Zjawa z dyniową głową opowiada ci o nieszczęsnym potworze, który nie potrafi cieszyć się Nocą Wszystkich Świętych. Na jej prośbę ruszasz na spotkanie z klaunem imieniem Papa Gruff w pobliżu Plantacji Greatloam, by dowiedzieć się więcej o tym pomiocie Otchłani i sprawdzić, czy nie da się mu jakoś pomóc.<br><br>※Uwaga: po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdują się w serwisie Lodestone." },

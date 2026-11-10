@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobSch600_01676",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SEQ_00", "hash": "A2EC1AB7364068BB", "target": "Surito Carito wygląda na zdecydowanego." },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SEQ_01", "hash": "1D956EF0232FF85C", "target": "Surito Carito informuje cię, że wie już, jak wytropić niewidzialny pomiot Otchłani. Badania wykazały, że twoja wróżka wyczuwa miejsca jego żeru. Możecie podążyć za pozostawionymi tam śladami eteru. Ze wsparciem Alki Zolki i nowej Królewskiej Piechoty Morskiej udaj się do Floating City of Nym i rozpocznij polowanie." },

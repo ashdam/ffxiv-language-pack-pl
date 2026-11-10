@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/JobXbm121_05493",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/JobXbm121_05493#TEXT_JOBXBM121_05493_SEQ_00", "hash": "20148DAD10E7AFD6", "target": "J'yhuh Tia spogląda na ciebie z sympatią." },
     { "gameKey": "quest/054/JobXbm121_05493#TEXT_JOBXBM121_05493_SEQ_01", "hash": "938370D137A4C22C", "target": "Do obowiązków <if(gnum4,poskramiaczki,poskramiacza)> bestii należy kształtowanie dzikiej energii chowańca w przemyślane umiejętności. Dając twojemu Cu Sith odpocząć, J'yhuh Tia każe ci trenować stworzenia opo-opo i flying trap, by lepiej wykorzystać ich moce. Loosefrox oferuje kilka „wskazopodpowiedzi”, gdzie znaleźć takie bestie. Może da się ją namówić, by je powtórzyła... jeśli to konieczne." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CtsEtcReWedding_00531",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CtsEtcReWedding_00531#TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_000", "hash": "3BEB0C0CF92A7FA0", "target": "Dzień dobry, <if(gnum4,szanowna pani,szanowny panie)>. Nazywam się Hawu Bajihri. Mam zaszczyt i przyjemność pomagać szczęśliwym parom związanym wieczną więzią, które pragną uczcić rocznicę i odnowić przysięgę." },
     { "gameKey": "custom/005/CtsEtcReWedding_00531#TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_001", "hash": "585B782DC86607CC", "target": "Z wielką radością czekam na dzień, w którym przydadzą się <if(gnum4,pani,panu)> moje usługi." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/RegSeaAdvGuild_00050",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1", "hash": "9BA1C9024ADC7D0A", "target": "Witaj w Drowning Wench. Jeśli czegoś potrzebujesz, po prostu zawołaj." },
     { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2", "hash": "32AE703FAC89C971", "target": "Obsługuję łobuzów i pijaków, którzy zataczają się przez te drzwi. Właściciel, Baderon, rzucił życie najemnika, by otworzyć ten lokal, ale nadal pewniej trzyma ostrze niż mop. Zajmuję się więc również wszystkim, co wymaga sprzątania." },

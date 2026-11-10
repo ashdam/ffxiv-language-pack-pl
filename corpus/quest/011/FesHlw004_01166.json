@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/FesHlw004_01166",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/FesHlw004_01166#TEXT_FESHLW004_01166_SEQ_00", "hash": "1F9656F939094E11", "target": "Impresario ma dla ciebie kolejne zadanie. Tylko jeszcze nie wie dokładnie jakie.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/011/FesHlw004_01166#TEXT_FESHLW004_01166_SEQ_01", "hash": "F90CD4CB981EF086", "target": "Zadowolony z twoich sumiennych wysiłków na rzecz trupy Impresario powierza ci niezwykle ważne zadanie: ustawić ostatnią latarnię ochronną w słabo oświetlonym miejscu przy Wodospadzie Apkallu. Porozmawiaj ponownie z podejrzanym aktorem, aby otrzymać potrzebne przybory.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz na Lodestone." },

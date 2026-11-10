@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/JobDrk299_02110",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/JobDrk299_02110#TEXT_JOBDRK299_02110_CITIZEN02053_000_000", "hash": "131918F64DD66353", "target": "Po obejrzeniu takiego widowiska codzienność wydaje się przy nim dość nudna..." },
     { "gameKey": "quest/021/JobDrk299_02110#TEXT_JOBDRK299_02110_CITIZEN02053_000_001", "hash": "636BE9CA131A3014", "target": "Hm? Więc nie <if(gnum4,widziała pani,widział pan)> wcześniejszego sądu przez walkę? Ach, strata. Niech mnie Furia porwie, jak ten heretyk wymachiwał tą płytą żelaza, którą nazywał mieczem! To był widok!" },

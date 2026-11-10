@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGzd107_05106",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kiishel Ja brakuje rąk do pracy i chętnie skorzysta z twoich." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Za pomocą młotka Kiishel Ja zdobyć odłamki lazurowego kryształu" },

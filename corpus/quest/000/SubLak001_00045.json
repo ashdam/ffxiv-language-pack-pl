@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubLak001_00045",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubLak001_00045#TEXT_SUBLAK001_00045_SEQ_00", "hash": "2EA3F2CE6A8D8FC7", "target": "Twarz Rhesh Polaali rozjaśnia się na widok <if(gnum4,dawnej wybawczyni,dawnego wybawcy)>." },
     { "gameKey": "quest/000/SubLak001_00045#TEXT_SUBLAK001_00045_SEQ_01", "hash": "2B5585F766E340EB", "target": "Rhesh opowiada, że po tym, jak dzięki tobie ledwo uszła z życiem z Castrum Centri, musiała opuścić Kryształowych Śmiałków, by wyleczyć rany. Zanim odzyskała siły do służby, organizacja już nie istniała. Znalazła pracę jako strażniczka w Mycie Upiora i ma pełne ręce roboty. Nie zdążyła tylko oddać kolczyków Rokce, jednej z domańskich dziewczynek, które pomogły jej wrócić do zdrowia. Chętnie przyjmuje więc twoją propozycję odnalezienia dziecka i radzi porozmawiać z Roweną, ponieważ dzieci widywano w jej siedzibie." },

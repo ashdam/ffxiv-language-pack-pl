@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsCul301_00266",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsCul301_00266#TEXT_CLSCUL301_00266_SEQ_00", "hash": "A58D1CD08858BBA3", "target": "Lyngsath prosi cię o zastąpienie go w przygotowaniu posiłku dla znamienitego gościa." },
     { "gameKey": "quest/002/ClsCul301_00266#TEXT_CLSCUL301_00266_SEQ_01", "hash": "C05C4E3C631C7F5A", "target": "Lord Lolorito, jeden z najpotężniejszych ludzi w Ul'dah, zamierza zjeść w Bismarcku. Ten samozwańczy krytyk kulinarny słynie z niszczenia swoimi wpływami restauracji, które nie sprostają jego wyszukanym wymaganiom. Pech sprawił, że Lyngsath zranił się w rękę, więc to ty musisz reprezentować Bismarcka. Mistrz gildii radzi ci zapytać o znamienitego gościa Diving Dove, która pochodzi z Ul'dah." },

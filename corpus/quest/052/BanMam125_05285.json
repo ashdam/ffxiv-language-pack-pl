@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/BanMam125_05285",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_SEQ_00", "hash": "4D35FAA6BF7BC483", "target": "Kageel Ja prosi cię o dostarczenie przesyłki.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie tą samą klasą lub jobem co w chwili jego przyjęcia." },
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_TODO_00", "hash": "F06755864E8D23DB", "target": "Dostarczyć ciężki worek warzyw sympatycznemu myśliwemu" },

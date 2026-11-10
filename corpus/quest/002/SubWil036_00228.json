@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubWil036_00228",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_00", "hash": "875ED5142B62ACBB", "target": "Danyell z The Silver Bazaar potrzebuje szczególnych materiałów do naprawy zepsutego kompasu ojca." },
     { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_01", "hash": "3558032D540B85C2", "target": "Danyell sądzi, że jego ojciec, rybak, od pewnego czasu nie wypływa w morze z powodu zepsutego kompasu. Wyrusz poza The Silver Bazaar i poszukaj trzech kawałków magnetytu potrzebnych do naprawy tego przyrządu." },

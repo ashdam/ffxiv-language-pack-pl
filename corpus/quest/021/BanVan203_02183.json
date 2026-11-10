@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan203_02183",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan203_02183#TEXT_BANVAN203_02183_SEQ_00", "hash": "9A14F1E79C8B1D1D", "target": "Muna Vanu obserwuje, jak Eenu Vanu raz po raz traci zdobycz.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan203_02183#TEXT_BANVAN203_02183_SEQ_01", "hash": "97F5C722831D3B05", "target": "Muna Vanu zauważa, że Eenu Vanu ostatnio nie jest w najlepszej formie. Prosi cię o sprawdzenie, co trapi mistrza połowów w chmurach.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

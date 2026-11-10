@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/JobWar560_00596",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/JobWar560_00596#TEXT_JOBWAR560_00596_SEQ_00", "hash": "4C821C3403555B65", "target": "Broken Mountain zna kogoś potrzebującego pomocy legendarnego poszukiwacza przygód." },
     { "gameKey": "quest/005/JobWar560_00596#TEXT_JOBWAR560_00596_SEQ_01", "hash": "B7FBD1D8147A3674", "target": "Wheiskaet donosi, że piraci zniewoleni przez Sahagin rozpoczęli zuchwałe ataki na wybrzeża La Noscea, jeszcze bardziej nadwyrężając ograniczone siły Maelstromu. Prosi cię o pomoc w obronie Limsy Lominsy, obiecując zacięte walki, które wystawią na próbę nawet <italic(1)>twój<italic(0)> zaprawiony w bojach topór. Zgłoś się do kapitana Maelstromu w Aleport po szczegóły misji." },

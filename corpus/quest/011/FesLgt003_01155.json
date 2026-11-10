@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/FesLgt003_01155",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/FesLgt003_01155#TEXT_FESLGT003_01155_SEQ_00", "hash": "DD6A46E6CCFDED9B", "target": "Kipih Jakkya, dziennikarka <italic(1)>Kruka<italic(0)>, chce poprosić o pomoc poszukiwacza przygód.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/011/FesLgt003_01155#TEXT_FESLGT003_01155_SEQ_01", "hash": "DD37ED7C8E98B761", "target": "Kipih Jakkya niczego nie pragnie bardziej niż napisać artykuł o Lightning, rycerce, na której punkcie ludzie dostali niezdrowej obsesji. Prosi więc, by odnaleźć ją w regionie Coerthas Central Highlands, dokąd podobno ostatnio zmierzała. Jeśli spotkasz tę zagadkową postać, dziennikarka chętnie wysłucha twojej relacji i obejrzy wszelkie zdobyte dowody jej obecności.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdują się na Lodestone." },

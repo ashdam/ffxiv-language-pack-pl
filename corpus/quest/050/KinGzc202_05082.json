@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzc202_05082",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc202_05082#TEXT_KINGZC202_05082_SEQ_00", "hash": "506E2CFB92A48C3B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Lanuhanu jest gotów rozpocząć czyszczenie piór." },
     { "gameKey": "quest/050/KinGzc202_05082#TEXT_KINGZC202_05082_SEQ_01", "hash": "6D4A645334055ABC", "target": "Nie wiesz jeszcze, ile etapów wymaga przygotowanie piór do dostawy, lecz twoim pierwszym zadaniem jest odebranie barwników i olejów z Ok'bek'be. Oba te materiały są niezbędne, by pióra były godne tak starej tradycji.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

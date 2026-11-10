@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla502_04161",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SEQ_00", "hash": "4C552E8600259101", "target": "T'laqa Tia pilnie potrzebuje danych." },
     { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SEQ_01", "hash": "E0B32DCAFCA68F0C", "target": "T'laqa Tia prosi o dostarczenie giant aetherlice do badań.<br><br>※ Giant aetherlice można złowić w Kanale Wód Gruntowych, używając gold salmon roe jako przynęty.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 70. Przedmioty o wartości co najmniej 166 zapewnią większe nagrody." },

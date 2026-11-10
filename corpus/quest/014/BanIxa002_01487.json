@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa002_01487",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa002_01487#TEXT_BANIXA002_01487_SEQ_00", "hash": "6CE4F08F9D935FDB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Sezul najwyraźniej chciałby powierzyć ci więcej pracy.<br>※Część rzemieślnicza tego zadania jest zalecana dla Disciples of the Hand na poziomie 1 lub wyższym." },
     { "gameKey": "quest/014/BanIxa002_01487#TEXT_BANIXA002_01487_SEQ_01", "hash": "C9E48A21E705D46A", "target": "Sezul dostrzega w tobie zdolną osobę do prac rzemieślniczych i prosi o wykonanie elementu kadłuba statku powietrznego─specjalistycznej części, której nie da się zbudować przy użyciu zasobów obozu Ehcatl. Udaj się do Fallgourd Float i odbierz niezbędne materiały od handlarza rozmaitościami z plemienia Qiqirn.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

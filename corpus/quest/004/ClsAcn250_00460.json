@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/ClsAcn250_00460",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_00", "hash": "B723333B2F343563", "target": "Thubyrgeim, pełniąca obowiązki mistrza gildii, potrzebuje twojej pomocy w odnalezieniu pewnej osoby." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_01", "hash": "341469A46D9F2CF4", "target": "Od Thubyrgeim dowiadujesz się, że wreszcie widziano nieuchwytnego mistrza gildii, K'rhida Tię. Uważa ona, że to on potrafi wydobyć K'lyhię z przygnębienia. Udaj się do Faktorii Memeroona w upper La Noscea i wypytaj miejscowych o obecne miejsce pobytu K'rhida Tii." },

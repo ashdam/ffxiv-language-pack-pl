@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla403_04991",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SEQ_00", "hash": "2EEBA323EDF38EFA", "target": "Shunye jest gotów rozpocząć kolejny dzień handlu zdrowiem." },
     { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SEQ_01", "hash": "EEE7AB7E7669B177", "target": "Shunye prosi cię o dostarczenie Shunye's Apothecary Spiritual Supplement.<br><br>※ Przedmioty Shunye's Apothecary Spiritual Supplement można zebrać klasą Miner w pobliżu Domu Wysokich Wiatrów lub klasą Botanist w pobliżu Ok'hanu.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 240. Dostarczenie przedmiotów o wartości co najmniej 600 zapewni większe nagrody." },

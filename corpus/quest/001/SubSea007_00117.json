@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubSea007_00117",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubSea007_00117#TEXT_SUBSEA007_00117_SEQ_00", "hash": "A6B6043A37B62350", "target": "Latisha potrzebuje kogoś, kto zgłosi klienta uchylającego się od zapłaty." },
     { "gameKey": "quest/001/SubSea007_00117#TEXT_SUBSEA007_00117_SEQ_01", "hash": "5EF63FE0D882B90F", "target": "Nowy klient wyszedł bez uregulowania rachunku, a Latisha chce, by zgłosić sprawę Żółtym Kurtkom. Najpierw porozmawiaj z R'sushmo i odbierz wykonany przez nią portret przestępcy." },

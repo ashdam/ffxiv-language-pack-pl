@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKra101_03255",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKra101_03255#TEXT_LUCKRA101_03255_SEQ_00", "hash": "5677EDC7D975DC87", "target": "Ktoś ze straży Crystarium wyraźnie odczuwa ulgę na twój widok." },
     { "gameKey": "quest/032/LucKra101_03255#TEXT_LUCKRA101_03255_SEQ_01", "hash": "7C861842FBC6318C", "target": "Gdy wreszcie udaje się ciebie odnaleźć, Ryne wyjawia, że wyczuła skupisko Światła w Empty, jak nazywa się ziemie niegdyś pochłonięte przez Potop. Obawiając się kolejnej katastrofy, prosi cię o udział w wyprawie na jałowe pustkowia wraz z nią, Thancredem i Uriangerem, by zbadać to zjawisko. Umawiacie się przy Wieży Wyciągowej, skąd wyruszycie w tę potencjalnie niebezpieczną podróż." },

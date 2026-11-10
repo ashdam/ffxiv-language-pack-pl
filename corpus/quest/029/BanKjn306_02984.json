@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/BanKjn306_02984",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_SEQ_00", "hash": "E5E1DFE010D63A85", "target": "Zukin wie, jak trafić do serc piratów Konfederacji.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_TODO_00", "hash": "42A6057A85E06D23", "target": "Dostarczyć marynaty ludu Kojin piratom Konfederacji w Koralowej Uczcie" },

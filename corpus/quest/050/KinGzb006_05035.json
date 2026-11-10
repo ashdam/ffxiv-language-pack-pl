@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzb006_05035",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_SEQ_00", "hash": "C80984FA3A68D346", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Chorowity kupiec nie tylko źle się czuje, ale wygląda też na nieszczęśliwego." },
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_00", "hash": "4F47C6776A56846F", "target": "Ustalić, gdzie jest pobudliwy przewodnik" },

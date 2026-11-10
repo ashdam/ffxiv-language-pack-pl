@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/RegFstArmorCraftsmanLegendary_00159",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/RegFstArmorCraftsmanLegendary_00159#TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_000", "hash": "EE40163E8641EC88", "target": "Bogowie, od sześciu dzwonów suszy mnie na wiór. M-miodu... Dajcie choć tyle miodu, żebym zwilżył usta..." },
     { "gameKey": "custom/001/RegFstArmorCraftsmanLegendary_00159#TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_SYSTEM_000_001", "hash": "2667568156F7794D", "target": "Wykuwanie i wzmacnianie broni reliktowej jest dostępne wyłącznie dla następujących jobów: Paladin, Warrior, Monk, Dragoon, Bard, Ninja, Black Mage, Summoner, White Mage i Scholar." },

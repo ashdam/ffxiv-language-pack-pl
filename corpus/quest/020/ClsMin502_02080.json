@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsMin502_02080",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsMin502_02080#TEXT_CLSMIN502_02080_SEQ_00", "hash": "B7B474CD624FA822", "target": "Adalberta ma dla ciebie kuszącą propozycję." },
     { "gameKey": "quest/020/ClsMin502_02080#TEXT_CLSMIN502_02080_SEQ_01", "hash": "F368CC1B2918F5EF", "target": "Adalberta otrzymała od kompanii najemników przebywającej obecnie w Ishgardzie prośbę o przysłanie doświadczonego górnika. Mistrzyni gildii gorąco zachęca do skorzystania z okazji. Jeśli nęci cię perspektywa poszukiwania złóż na północy, porozmawiaj z Linette i odbierz potrzebne zaświadczenie o przynależności do gildii." },

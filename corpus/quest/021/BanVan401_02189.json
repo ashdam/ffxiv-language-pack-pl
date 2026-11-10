@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan401_02189",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan401_02189#TEXT_BANVAN401_02189_SEQ_00", "hash": "7982AFDF3EF951EA", "target": "Muna Vanu drapie się po głowie ze zdumienia.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan401_02189#TEXT_BANVAN401_02189_SEQ_01", "hash": "C5A947ED1FF36677", "target": "Muna Vanu mówi, że ze wschodniego Ok' Zundu wiatr przyniósł złowieszczą pogłoskę. Porozmawiaj z Linu Vanu, aby dowiedzieć się więcej.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

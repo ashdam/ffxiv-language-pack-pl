@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubFst002_00025",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_00", "hash": "20A24124C5F8D57F", "target": "Boiselont z Gildii Kopijników chce zlecić początkującym poszukiwaczom przygód rozwiązanie problemu z wiewiórkami." },
     { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_01", "hash": "46F126C09B538895", "target": "Wiewiórki obgryzają filary podtrzymujące budynek Gildii Kopijników. Udaj się do Central Shroud i dla przykładu zabij sześć tych futrzastych szkodników." },

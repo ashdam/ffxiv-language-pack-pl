@@ -1,6 +1,6 @@
 {
   "sheet": "FishParameter",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "FishParameter#1.0", "hash": "AE6A4E6D3286A887", "target": "Ta ciemnozielona odmiana wodorostu, występująca we wszystkich pięciu morzach Eorzei, potrafi dorastać do jednego malma (1760 yalmów) długości." },
     { "gameKey": "FishParameter#2.0", "hash": "70641AD3DD305B02", "target": "Słodkowodny skorupiak o brązowym pancerzu, powszechny w rzekach i jeziorach Aldenardu. Raki tak chętnie chwytają wszystko, co znajdzie się w ich zasięgu, że rybacy przechwalają się, iż do ich łowienia nie potrzebują nawet przynęty." },

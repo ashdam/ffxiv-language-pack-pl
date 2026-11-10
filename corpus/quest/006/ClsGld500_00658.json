@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ClsGld500_00658",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SEQ_00", "hash": "43FABDE844BF8E17", "target": "Serendipity wygląda na skrajnie zmęczoną. Może warto zapytać dlaczego." },
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SEQ_01", "hash": "FCBDDA6B07E9AA38", "target": "Niewyspana Serendipity powierza ci bardzo ważne zamówienie, znów od kupca Rorotona. Jako gość na urodzinach sułtanki chce on podarować Jej Wysokości prezent. Jeśli przypadnie jej do gustu, kupiec zdobędzie jeszcze większą pozycję w społeczeństwie Ul'dah. Wykonaj black pearl ring wysokiej jakości i osadź w nim piety materia III. Gotowy pierścień pokaż Serendipity." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/ComUld011_01133",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/ComUld011_01133#TEXT_COMULD011_01133_SEQ_00", "hash": "C48698C29EC4EA1C", "target": "Swift chce dać ci okazję, by poprawić twoją pozycję w Nieśmiertelnych Płomieniach." },
     { "gameKey": "quest/011/ComUld011_01133#TEXT_COMULD011_01133_SEQ_01", "hash": "DA43BA13589DEE0E", "target": "Swift powierza ci odpowiedź na prośbę o pomoc ze Stolicy Apostolskiej Ishgardu. Udaj się na południowy zachód regionu Coerthas central highlands i odszukaj rycerza imieniem Willielmus przy Aurum Vale." },

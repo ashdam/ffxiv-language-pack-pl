@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubSea011_00121",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "Sisipu z Gildii Rybaków chce zamówić nową łódź rybacką." },
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "Sisipu pragnie znów wypłynąć w morze i chce zlecić budowę nowej łodzi rybackiej. Prosi cię, by porozmawiać w jej imieniu z mistrzynią kuźni H'naanzą z Gildii Płatnerzy i dowiedzieć się, jak długo potrwa realizacja zamówienia." },

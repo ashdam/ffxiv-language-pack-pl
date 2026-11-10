@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/FesXms802_04659",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/FesXms802_04659#TEXT_FESXMS802_04659_SEQ_00", "hash": "07E2A986114B03F8", "target": "Profesor nadzwyczajny Laurenssen nieco panikuje.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/046/FesXms802_04659#TEXT_FESXMS802_04659_SEQ_01", "hash": "7CE6B1D211BB034C", "target": "Po zniknięciu renifera spokój Laurenssena rozpływa się szybciej niż bałwan w środku lata. Mając dobre serce, szykujesz się go uspokoić za pomocą /soothe, jak potrafi to tylko ktoś nieco poirytowany i zaprawiony w przygodach.<br><br>※Po zakończeniu wydarzenia sezonowego ukończenie tego zadania nie będzie możliwe. Szczegóły można znaleźć w serwisie Lodestone." },

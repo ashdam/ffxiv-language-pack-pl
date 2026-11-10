@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKsa251_04038",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa251_04038#TEXT_LUCKSA251_04038_SEQ_00", "hash": "A509C375E80440C0", "target": "Zlatan jest gotów wyprawić cię w drogę.<br>※Zmiana klasy lub joba uniemożliwi postępy w tym zadaniu." },
     { "gameKey": "quest/040/LucKsa251_04038#TEXT_LUCKSA251_04038_SEQ_01", "hash": "5AF5220F8A729313", "target": "Rozmawiasz ze Zlatanem o tym, jakie wspomnienia najlepiej nadadzą się do dalszego wzmocnienia twojej broni ruchu oporu. Proponuje wspomnienia bitew niosących wielkie niebezpieczeństwo, jakiego można się spodziewać podczas zakrojonego na szeroką skalę szturmu. Jest pewien, że piętnaście takich wspomnień wystarczy. Tobie jednak pozostawia ocenę, gdzie je zebrać.<br><br>※Nie można kontynuować tego zadania inną klasą ani innym jobem niż przy jego przyjęciu.<br>※Loathsome memories of the dying można zdobyć, uczestnicząc w krytycznych starciach na froncie południowym lub kończąc rajdy sojuszu z serii Crystal Tower." },

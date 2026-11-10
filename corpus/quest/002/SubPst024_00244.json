@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubPst024_00244",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubPst024_00244#TEXT_SUBPST024_00244_SEQ_00", "hash": "712916FE402BF7D4", "target": "Zastępca listonosza moogle'a ma listy od uczonych osób." },
     { "gameKey": "quest/002/SubPst024_00244#TEXT_SUBPST024_00244_SEQ_01", "hash": "DEB117B96FDA9E0A", "target": "Tym razem adresatem jest profesor Lamberteint, coraz słynniejszy badacz eteru. Trójka jego najlepszych uczniów ma do niego sprawę i każde wysłało list. Dopilnuj, by przesyłki trafiły w ręce Lamberteinta w Camp Drybone." },

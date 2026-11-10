@@ -1,6 +1,6 @@
 {
   "conversation": "quest/053/BanYok115_05350",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok115_05350#TEXT_BANYOK115_05350_SEQ_00", "hash": "430E8994726846F7", "target": "Vuyargur chce zapewnić odpowiedni zapas przekąsek.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/053/BanYok115_05350#TEXT_BANYOK115_05350_SEQ_01", "hash": "0DD437F00B66D70B", "target": "Porozmawiać z pomysłową znawczynią kuchni w Worlar's Echo" },

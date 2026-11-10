@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/ClsExc101_00315",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ClsExc101_00315#TEXT_CLSEXC101_00315_SEQ_00", "hash": "175F1889B26603CF", "target": "Wyrnzoen chce porozmawiać z tobą o dalszym szkoleniu." },
     { "gameKey": "quest/003/ClsExc101_00315#TEXT_CLSEXC101_00315_SEQ_01", "hash": "B3E1873BD099A2F5", "target": "Wyrnzoen osobiście czuwa nad przygotowaniem cię do zemsty na Kujacie, bestii, która zabiła rodziców Sigharda. Skup swój gniew i zabij galagos w pobliżu Kopalni Ślepego Żelaza." },

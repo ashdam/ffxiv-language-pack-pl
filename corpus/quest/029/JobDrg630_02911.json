@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobDrg630_02911",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobDrg630_02911#TEXT_JOBDRG630_02911_SEQ_00", "hash": "E2FF907B411B088F", "target": "Ser Alberic chce podzielić się drawańskimi legendami." },
     { "gameKey": "quest/029/JobDrg630_02911#TEXT_JOBDRG630_02911_SEQ_01", "hash": "F9C7B685A3DD5AA6", "target": "Alberic oznajmia, że skończył zbierać wiadomości o legendach, które mogą pomóc w poszukiwaniach. Wręcza ci pergamin z pierwszą opowieścią. Zaznacza przy tym, że kapłan ze Zgromadzenia ostrzegał przed braniem takich historii dosłownie. Ruszasz przekazać wiadomość Heustienne i Orn Khaiowi." },

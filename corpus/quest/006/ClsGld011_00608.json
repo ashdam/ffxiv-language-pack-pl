@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ClsGld011_00608",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SEQ_00", "hash": "4FC54D5577A261A3", "target": "Jemime chce się upewnić, że nadal pragniesz dołączyć do Gildii Złotników." },
     { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SEQ_01", "hash": "84AF45FEB148D6E4", "target": "Recepcjonistka prosi, by przedstawić się Serendipity, młodej kobiecie stojącej na czele gildii. Odszukaj ją i okaż jej gorące pragnienie nauki złotnictwa." },

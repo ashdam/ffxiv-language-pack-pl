@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/FesXms101_02224",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_SEQ_00", "hash": "735DC708DFD32074", "target": "Collys, reporterka <italic(1)>Harbor Herald<italic(0)>, prosi o pomoc w zdobyciu wywiadu.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_SEQ_01", "hash": "D648988486F5A8A4", "target": "Collys, reporterka <italic(1)>Harbor Herald<italic(0)>, ma trudności ze zdobyciem szczegółów tegorocznego Święta Gwiezdnego Blasku. Porozmawiaj z organizatorem Baenfaeldem na placu Aftcastle i przekonaj go do udzielenia odpowiedzi na dociekliwe pytania dziennikarki.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/AktKzc102_04499",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKzc102_04499#TEXT_AKTKZC102_04499_SEQ_00", "hash": "26A77A29E83F4C9D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Rimelnaud chyba potrzebuje nieco ciepła." },
     { "gameKey": "quest/044/AktKzc102_04499#TEXT_AKTKZC102_04499_SEQ_01", "hash": "F049B1DA96BC574C", "target": "Po usilnych ponagleniach ze strony Rimelnaud Appius wyjawia, że do naprawy jednego z obozowych silników na ceruleum potrzebny będzie nowy gaźnik. Zgadzasz się udać do Stacji Nadzoru G i wymontować go z tamtejszego silnika.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

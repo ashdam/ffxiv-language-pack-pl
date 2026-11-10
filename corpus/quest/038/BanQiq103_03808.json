@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/BanQiq103_03808",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_00", "hash": "70A9B0994345E8F1", "target": "Qhoterl Pasol chce nadać Zatyczce nieco domowego ciepła.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/038/BanQiq103_03808#TEXT_BANQIQ103_03808_SEQ_01", "hash": "0E6ADB9238A6BDA0", "target": "Dostarczyć zamówione przedmioty Qhoterl Pasol" },

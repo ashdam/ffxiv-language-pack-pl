@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/StmBdr103_02930",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdr103_02930#TEXT_STMBDR103_02930_SEQ_00", "hash": "83FBFFF97307AAED", "target": "Cid chce wystawić cię przeciw kolejnemu wrogowi w Deltascape." },
     { "gameKey": "quest/029/StmBdr103_02930#TEXT_STMBDR103_02930_SEQ_01", "hash": "4A209436360724F9", "target": "Jeśli Biggs i Wedge nie naprawią systemu zamrażania czasu w Carteneau, zdaniem Cida jedynym sposobem powstrzymania Omegi przed stworzeniem nowego zagrożenia będzie zwycięstwo w jej próbach. Dlatego chce twojego powrotu do Deltascape. Analiza Nero wskazuje, że kolejny wróg potrafi manipulować grawitacją. Aby przeciwdziałać tej mocy, pożycza ci urządzenie Anti-gravity Gimbal, które tak się składa, że właśnie zmontował. Tak jak poprzednio Alpha wejdzie z tobą do świata testowego i udzieli ci swojego uprawnienia.<br><br>※Jeśli opuścisz Interdimensional Rift, możesz wrócić do środka, rozmawiając z pracownikiem Kuźni Garlonda przy Ziewnięciu." },

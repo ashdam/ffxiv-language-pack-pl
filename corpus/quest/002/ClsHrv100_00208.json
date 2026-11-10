@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsHrv100_00208",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsHrv100_00208#TEXT_CLSHRV100_00208_SEQ_00", "hash": "22C920F477F6F7CE", "target": "Fufucha chce powierzyć ci pierwsze zadanie w roli Botanist." },
     { "gameKey": "quest/002/ClsHrv100_00208#TEXT_CLSHRV100_00208_SEQ_01", "hash": "2ADDAB55D4D85EC3", "target": "Fufucha chce, by praktyka pomogła ci poznać podstawy botaniki. Poleca ci zebrać dziesięć naczyń latex. Potrzebnego surowca szukaj w mature trees za Blue Badger Gate i Yellow Serpent Gate." },

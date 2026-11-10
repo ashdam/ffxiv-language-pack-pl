@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubFst057_00378",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_00", "hash": "FADC8C9C396F08FB", "target": "Roseline potrzebuje poszukiwacza przygód do zniszczenia jaj diremita." },
     { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_01", "hash": "54119C1B17F184D9", "target": "Roseline odkryła niedawno dwa złoża jaj diremita przy Lecie Matrony. Choć jest zaprawioną w boju Leśną Płaczką, sam ich widok budzi w niej odrazę. Znajdź i zniszcz oba złoża jaj." },

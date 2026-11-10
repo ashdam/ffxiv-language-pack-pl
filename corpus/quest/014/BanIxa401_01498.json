@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa401_01498",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa401_01498#TEXT_BANIXA401_01498_SEQ_00", "hash": "F0621D7E3D5180EB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tazel Meyean the Lettered potrzebuje zdolnych rąk, które nadadzą kształt jego genialnym pomysłom.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 10 lub wyższym." },
     { "gameKey": "quest/014/BanIxa401_01498#TEXT_BANIXA401_01498_SEQ_01", "hash": "81D8F24869864C99", "target": "Tazel Meyean prosi o wykonanie czterech sztuk starboard wing component wysokiej jakości do statku <italic(1)>Dezul Qualan<italic(0)>. Aby zdobyć potrzebne materiały, najpierw zbierz piętnaście nieskazitelnych dębowych gałęzi i pięć nieskazitelnych dębowych kłód w okolicy Dumnego Potoku.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

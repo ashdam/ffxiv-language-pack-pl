@@ -1,6 +1,6 @@
 {
   "conversation": "quest/019/HeaVnz719_01923",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/019/HeaVnz719_01923#TEXT_HEAVNZ719_01923_SEQ_00", "hash": "5FA626744B6F4578", "target": "Hervoix nie pali się do nowych zadań." },
     { "gameKey": "quest/019/HeaVnz719_01923#TEXT_HEAVNZ719_01923_SEQ_01", "hash": "01A7B3453FCD5EF3", "target": "Hervoix zamartwia się listą prac, którą przekazał mu O'bhen Tia. Nie może się zdecydować, które zadanie odłożyć na później jako pierwsze. W końcu wybiera rozprawienie się z bestiami grasującymi w lesie na wschodzie. A właściwie postanawia, że zajmiesz się nimi <italic(1)>ty<italic(0)>. Udaj się do wschodniego obozu i zapytaj Guenareta, gdzie szukać potworów." },

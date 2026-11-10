@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKbb141_03266",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKbb141_03266#TEXT_LUCKBB141_03266_SEQ_00", "hash": "005ED30193AF9220", "target": "Sophie zaczyna się zastanawiać, czy Radovan kiedykolwiek wróci." },
     { "gameKey": "quest/032/LucKbb141_03266#TEXT_LUCKBB141_03266_SEQ_01", "hash": "BFA17AA244C756F0", "target": "Po zniknięciu Radovana ty i Sophie postanawiacie zaczekać, aż sam wróci do Ishgardu. Na szczęście zagrożenie dla naukowca Mammuli zdaje się minione. Alaudae od tamtej pory nie widziano, choć uciekinier z Garlemaldu pozostaje w ukryciu. Tymczasem Sophie nie może już usiedzieć spokojnie i proponuje zapytać Rycerzy Świątynnych o zajęcie." },

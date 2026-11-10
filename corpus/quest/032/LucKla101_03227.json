@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKla101_03227",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKla101_03227#TEXT_LUCKLA101_03227_SEQ_00", "hash": "E4D78AD3BEB63D11", "target": "Iolę trapi chyba pewien problem rzemieślniczy." },
     { "gameKey": "quest/032/LucKla101_03227#TEXT_LUCKLA101_03227_SEQ_01", "hash": "15BD43345C4B69BC", "target": "Iola, rzemieślniczka z Crystalline Mean, prowadzi też prywatną kuźnię zwaną Żelaznym Miechem. Niegdyś kwitnący zakład utalentowanych rzemieślników od dawna boryka się z trudnościami. Aby odmienić swój los, Iola zamierza opracować nowe wyroby dla miejscowego ludu Zun i prosi cię o pomoc w tym twórczym przedsięwzięciu. Najpierw chce jednak porozmawiać z treserem amaro, by dowiedzieć się więcej o potencjalnych klientach." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegNot5LogistikonAlpha_00743",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegNot5LogistikonAlpha_00743#TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_000", "hash": "2C93B456BB002391", "target": "Nie chcę zbyt wiele zakładać, ale wygląda <if(gnum4,pani,pan)> na kogoś z zewnątrz. Jeśli rzeczywiście jest <if(gnum4,pani,pan)> tu od niedawna, z przyjemnością odpowiem na wszelkie nurtujące pytania." },
     { "gameKey": "custom/007/RegNot5LogistikonAlpha_00743#TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_001", "hash": "5C66948B40189A9D", "target": "Przyszłość naszej planety leży teraz w waszych rękach. Wiedzcie, że towarzyszą wam moje modlitwy." },

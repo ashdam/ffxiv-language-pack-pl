@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanKob003_01322",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanKob003_01322#TEXT_BANKOB003_01322_SEQ_00", "hash": "62C275B91E77E470", "target": "789th Order Pickman Gi Gu nadal zamierza korzystać z twojej dobroci." },
     { "gameKey": "quest/013/BanKob003_01322#TEXT_BANKOB003_01322_SEQ_01", "hash": "C48814DDC195CA70", "target": "Twoje starania na rzecz nieszczęsnej 789. brygady zjednały ci przychylność jej przywódcy, Gi Gu. Ten chce odwdzięczyć się w jedyny znany sobie sposób─powierzając ci kolejne zadania. Nową prośbę przerywa jednak Skaetswys, pilnie potrzebująca twojej pomocy w odparciu wyjątkowo zajadłej hordy plemienia Kobold, która zaatakowała Camp Overlook przy użyciu szczególnie potężnej nowej broni." },

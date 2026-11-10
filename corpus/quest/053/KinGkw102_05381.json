@@ -1,6 +1,6 @@
 {
   "conversation": "quest/053/KinGkw102_05381",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGkw102_05381#TEXT_KINGKW102_05381_SEQ_00", "hash": "57E9687F76F1062D", "target": "Lydirceil pilnie studiuje kamienną tablicę Archive'a." },
     { "gameKey": "quest/053/KinGkw102_05381#TEXT_KINGKW102_05381_SEQ_01", "hash": "BB82FB46EE45A4C3", "target": "Naczynia są pokryte powłoką i gotowe, a przed tobą trudne zadanie napełnienia ich podczas zaciekłych walk. Według Gerolta niestabilny eter otaczający wyspę nie nadaje się do tego celu. Radzi więc szukać odległych i różnorodnych pól bitew. Każdy zbiornik eteru można napełnić w innej kategorii Duty Roulette:<br><br>Zielony: High-level Dungeons<br>Niebieski: Alliance Raids<br>Czerwony: Trials<br>Żółty: Normal Raids<br><br>Możesz użyć matrycy eterozbiorników, by sprawdzić ilość zgromadzonego eteru.<br><br>※Porozmawiaj z Geroltem, jeśli chcesz porzucić tę misję." },

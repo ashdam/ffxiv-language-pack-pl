@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/FesXmsShop2013_00142",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/FesXmsShop2013_00142#TEXT_FESXMSSHOP2013_00142_SEIBOH_000_000", "hash": "E769A7A0E7F2B685", "target": "Dzień dobry, <if(gnum4,szanowna pani,szanowny panie)>. Mam nadzieję, że tegoroczne Święto Gwiezdnego Blasku oszczędziło <if(gnum4,pani,panu)> trosk?" },
     { "gameKey": "custom/001/FesXmsShop2013_00142#TEXT_FESXMSSHOP2013_00142_SEIBOH_000_001", "hash": "629932BC40501342", "target": "Gildia Poszukiwaczy Przygód przysłała mnie, by nadzorować tegoroczne obchody. Mieliśmy dla dzieci wyjątkową niespodziankę, ale obawiam się, że nasze plany mogą się nie powieść." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobDrg521_01691",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobDrg521_01691#TEXT_JOBDRG521_01691_SEQ_00", "hash": "F45BCD137E319915", "target": "Heustienne chce dowiedzieć się więcej o niezwykłej technice, którą tworzysz." },
     { "gameKey": "quest/016/JobDrg521_01691#TEXT_JOBDRG521_01691_SEQ_01", "hash": "6592CDD5AB054FD1", "target": "Słysząc o nowej technice, Heustienne rozumie, że musi odrzucić uprzedzenia, by przekroczyć własne granice. Chciałaby kontynuować lekcję, lecz pora późna, a obowiązki wzywają. Przed odejściem zaprasza cię do siedziby smoczych rycerzy. Wróć do Ishgardu i spotkaj się z uczennicą przed wejściem do Zgromadzenia Rycerzy Niebios." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsFsh502_02085",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsFsh502_02085#TEXT_CLSFSH502_02085_SEQ_00", "hash": "EE3EBC74DF791ABD", "target": "Sisipu trzyma wędkę w dłoni i marszczy brwi." },
     { "gameKey": "quest/020/ClsFsh502_02085#TEXT_CLSFSH502_02085_SEQ_01", "hash": "9F7EC7210E4B4F4C", "target": "Sisipu powierza ci ważne zadanie: zwrócić zapomnianą wędkę roztargnionemu właścicielowi. Ansaulme, ów pozbawiony wędki wędrowiec, zna się na odległych łowiskach. Pośpiesz do Drowning Wench, by oddać mu sprzęt, nim ruszy dalej." },

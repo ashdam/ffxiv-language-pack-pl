@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/SubSea062_00474",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_00", "hash": "7FCD586B4F162CD9", "target": "W Wytchnieniu Oracza brakuje Hi-Potion. Khanmhar chce temu zaradzić." },
     { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_01", "hash": "8ACD2AEDF51A7E31", "target": "Emerytowani piraci nie potrafią usiedzieć spokojnie, a częste bójki wyczerpały zapasy lekarstw na farmie. Wydaloef z Wytchnienia Oracza z wdzięcznością przyjmie sztukę Hi-Potion, by uzupełnić szybko malejące zapasy." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubWil062_00305",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "Roger ma ekscytującą propozycję dla poszukiwaczy przygód szukających pracy." },
     { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> To zadanie zostało zmienione. Porzuć je i rozpocznij ponownie, rozmawiając z Rogerem w karczmie Coffer & Coffin.<edgecolortype(0)><colortype(0)><br><br>※Main Scenario Guide wskazuje następne dostępne zadanie. Możesz włączać i wyłączać jego wyświetlanie w menu Konfiguracja postaci, w sekcji UI Settings." },

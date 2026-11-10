@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/RegYok6Tuliyollal_00864",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/RegYok6Tuliyollal_00864#TEXT_REGYOK6TULIYOLLAL_00864_HAKEELJA_000_000", "hash": "4F54C1695E963567", "target": "Witaj w Tuliyollal! To ty jesteś, hm... <italic(1)><if(gnum4,poszukiwaczką,poszukiwaczem)> przygód<italic(0)>, <if(gnum4,którą,którego)> Wuk Lamat zwerbowała do swojej świty, tak? Jeśli chcesz czegoś się dowiedzieć, jestem do usług." },
     { "gameKey": "custom/008/RegYok6Tuliyollal_00864#TEXT_REGYOK6TULIYOLLAL_00864_Q1_000_000", "hash": "55DF705049E1FEE6", "target": "O co zapytasz?" },

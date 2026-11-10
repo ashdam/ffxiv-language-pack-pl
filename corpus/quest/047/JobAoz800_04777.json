@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/JobAoz800_04777",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_SEQ_00", "hash": "F85BE506EA681730", "target": "Twój przyszły arcyrywal nie wygląda na zachwyconego spotkaniem ze swoim przeciwnikiem." },
     { "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_SEQ_01", "hash": "DCD7454E4CA6946C", "target": "Martyn jest kłębkiem nerwów, lecz Royse jak zwykle zachowuje spokój i serdeczność. Zapewnia was, że przygotowania w Celestium są niemal ukończone. Wspomina też o szczególnym sponsorze, dzięki któremu przedsięwzięcie stało się możliwe, i nalega, byście go poznali. Prowadzi więc waszą dwójkę do Dzielnicy Rządowej w nadziei, że jeszcze go tam zastaniecie." },

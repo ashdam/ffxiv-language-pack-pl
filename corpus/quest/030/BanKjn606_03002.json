@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/BanKjn606_03002",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "Zukin ma kłopot z płaszczkami.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
     { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "Poskromić clever little ray w Kotłach na Kraby i podać im gorzkie pigułki" },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/ComDefSanction_00086",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "Jestem urzędnikiem odpowiedzialnym za przyznawanie naszym członkom statusu „Sankcja”. Ponieważ nie należy <if(gnum4,pani,pan)> do naszej organizacji, niestety nie może <if(gnum4,pani,pan)> skorzystać z tej usługi." },
     { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "Jestem urzędnikiem odpowiedzialnym za przyznawanie statusu „Sankcja” osobom w randze <switch(lnum1,starszego sierżanta Maelstromu,starszego sierżanta Żmii,starszego sierżanta Płomieni)> lub wyższej. Czym mogę dziś służyć?" },

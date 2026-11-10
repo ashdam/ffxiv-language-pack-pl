@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobAst680_02412",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobAst680_02412#TEXT_JOBAST680_02412_SEQ_00", "hash": "2B72B3A6305675E9", "target": "Kyokuho obdarza cię spojrzeniem, które wyraźnie mówi: „<if(gnum4,Gdzie się podziewałaś,Gdzie się podziewałeś)>, <if(gnum4,młoda damo,młodzieńcze)>? Czekam tu już od wielu dni”." },
     { "gameKey": "quest/024/JobAst680_02412#TEXT_JOBAST680_02412_SEQ_01", "hash": "5D0470B258A52DEF", "target": "Nie mając żadnego innego tropu, Kyokuho proponuje podróż tam, gdzie szkolił się jego pradziadek─do Yanxii. Ponieważ tobie również brak lepszych pomysłów, zgadzasz się dołączyć do niego w Namai, by rozpocząć poszukiwania... czegoś. Czegokolwiek." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/ClsMin300_00606",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ClsMin300_00606#TEXT_CLSMIN300_00606_SEQ_00", "hash": "F9BE80B7CA7D5A68", "target": "Adalberta chce powierzyć ci wymagające zamówienie." },
     { "gameKey": "quest/006/ClsMin300_00606#TEXT_CLSMIN300_00606_SEQ_01", "hash": "D9E7018F06CD1593", "target": "Dowiadujesz się, że gildia otrzymała zamówienie na wyvern obsidian, niezwykle rzadki minerał. Świadoma trudności w jego zdobyciu Adalberta przyjęła ofertę pomocy innego górnika i chce, żebyście pracowali razem. Odszukaj tego górnika─niejakiego Wide Gulleya─i omów zadanie." },

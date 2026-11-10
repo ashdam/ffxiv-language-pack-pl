@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsTan009_00065",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsTan009_00065#TEXT_CLSTAN009_00065_SEQ_00", "hash": "AF4A0DAA72719E9C", "target": "Geva biega po gildii niczym oszalały chocobo. Wygląda na to, że przydałaby jej się pomoc." },
     { "gameKey": "quest/000/ClsTan009_00065#TEXT_CLSTAN009_00065_SEQ_01", "hash": "F7A5C05F525D99C3", "target": "Mistrzyni ma kryzys: troje garbarzy nagle porzuciło pracę, nie kończąc zamówień. Masz ich zastąpić, wykonując trzy przedmioty najwyższej jakości: pair of fingerless raptorskin gloves, raptorskin targe i raptorskin choker. Przedstaw je Gevie." },

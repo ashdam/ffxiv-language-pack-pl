@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/RegSak6Hhusatahwi_00880",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000", "hash": "5E2C985A49774832", "target": "Witaj! Jeśli mogę w czymś pomóc, śmiało pytaj." },
     { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001", "hash": "1302D52B7D7C3E36", "target": "Docierają do ciebie jakieś wieści o tych dziwnych latających konstrukcjach na niebie? Po prostu tam wiszą. Złowieszczo... Dopóki nie zamierzają się ruszyć, staram się o nich nie myśleć. Ale wracając do rzeczy, mogę w czymś pomóc, <if(gnum4,proszę pani,proszę pana)>?" },

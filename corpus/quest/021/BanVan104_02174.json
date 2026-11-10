@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan104_02174",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan104_02174#TEXT_BANVAN104_02174_SEQ_00", "hash": "3F58AE4E5A1FC269", "target": "Muna Vanu liczy, że twoja siła i spryt uchronią plemię przed głodem.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan104_02174#TEXT_BANVAN104_02174_SEQ_01", "hash": "120A67592B1F27D5", "target": "Zapasy żywności Gundu maleją z dnia na dzień, podczas gdy spiżarnie Vundu pękają w szwach. Jego lud staje w obliczu nieuchronnego głodu, dlatego Muna Vanu prosi cię o zakradnięcie się do obozu Vundu i wykradzenie czterech dzbanów żywności.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

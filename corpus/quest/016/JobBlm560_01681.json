@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobBlm560_01681",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobBlm560_01681#TEXT_JOBBLM560_01681_SEQ_00", "hash": "739DBC3FB4FFB949", "target": "Lalai otrzymała kolejny list." },
     { "gameKey": "quest/016/JobBlm560_01681#TEXT_JOBBLM560_01681_SEQ_01", "hash": "A7A10366682832FA", "target": "Lalai opowiada o liście od Dozola Meloca. Ukrywa się przed kimś w Olchowych Źródłach i pilnie prosi o pomoc. Najwyraźniej, podobnie jak w przypadku Da Za, to sprawka Niepokornych. Udaj się do Olchowych Źródeł i powstrzymaj ich, zanim skrzywdzą Dozola Meloca. Lalai powiadomi o liście Zhai'a Nelhah." },

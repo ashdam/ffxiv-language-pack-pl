@@ -1,6 +1,6 @@
 {
   "conversation": "custom/009/FesEst2026Entrance_00960",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_000", "hash": "6E075703A3B39EC6", "target": "Za zgodą Nonotty zabierzemy <if(gnum4,panią,pana)> na arenę, gdy tylko będzie trzeba." },
     { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_001", "hash": "E1E012D61339EA46", "target": "Gdy będzie <if(gnum4,pani gotowa,pan gotowy)>, odprowadzę <if(gnum4,panią,pana)> na jajeczną arenę. Jeśli mogę jeszcze w czymś pomóc, proszę śmiało powiedzieć." },

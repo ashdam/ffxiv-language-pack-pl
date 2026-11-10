@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/AktKza102_04481",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/044/AktKza102_04481#TEXT_AKTKZA102_04481_SEQ_00", "hash": "DC26B2F87C884019", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Teraz, gdy wreszcie ktoś go rozumie, Shaggles tryska energią." },
     { "gameKey": "quest/044/AktKza102_04481#TEXT_AKTKZA102_04481_SEQ_01", "hash": "8973B82607E31F91", "target": "Prosisz Shagglesa o radę. Sugeruje, by pokazać schwytanego kołatka komuś lepiej obeznanemu z takimi zagadnieniami naukowymi. Wyruszasz więc na poszukiwanie jednego z biologów z Agronomii Meryall.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/RegWilRowena_00106",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/RegWilRowena_00106#TEXT_REGWILROWENA_00106_TALK_ACTOR", "hash": "8670EEDBDA42096E", "target": "Jestem Rowena. Handlowałam kiedyś bronią, podróżując z miejsca na miejsce, aż pewien szlachcic z Ishgardu zobaczył moją kolekcję. Uznał, że znam się na porządnych wyrobach, i zaproponował mi pracę: miałabym pomagać mu wymieniać jego zbiory na najróżniejsze rzadkie artefakty." },
     { "gameKey": "custom/001/RegWilRowena_00106#TEXT_REGWILROWENA_00106_ROWENA_000_010", "hash": "64A5AFC1864B805E", "target": "Udało ci się nakłonić Gerolta do odtworzenia jednej ze starożytnych broni? <italic(1)>Gerolta<italic(0)>?<br>...Jestem pod wrażeniem. Gdyby znudziły ci się przygody, zawsze przyda mi się ktoś, kto potrafi <italic(1)>skłonić<italic(0)> ludzi do działania." },

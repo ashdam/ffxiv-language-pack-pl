@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsBsm201_00296",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsBsm201_00296#TEXT_CLSBSM201_00296_SEQ_00", "hash": "66036CDED03DB5B6", "target": "Mistrz kuźni Brithael chce przekazać ci ważne wieści." },
     { "gameKey": "quest/002/ClsBsm201_00296#TEXT_CLSBSM201_00296_SEQ_01", "hash": "1BC86F55BA565D72", "target": "Faezahr poczynił postępy w zdobywaniu kontraktów dla gildii, w dużej mierze dzięki twoim próbkom. Brithael gratuluje sobie dobrze wykonanej pracy i wyznacza następne zadanie. Masz wykonać iron cross-pein hammer i osadzić w nim jedną materię. Jeśli nie znasz tematu, mistrz radzi porozmawiać z goblinem Mutamiksem w Central Thanalan. Przygotuj wyrób i dostarcz go mistrzowi kuźni." },

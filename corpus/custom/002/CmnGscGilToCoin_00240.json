@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/CmnGscGilToCoin_00240",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "Witamy w Gold Saucer! Jeśli chce <if(gnum4,pani,pan)> wymienić zwykłe stare gile na nowiutkie, błyszczące MGP, to właściwe miejsce. Co <if(gnum4,pani,pan)> na to?" },
     { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "Przepraszam, ale wygląda na to, że brakuje środków na tę transakcję. Może warto sprawdzić, czy sakiewka nie jest dziurawa?" },

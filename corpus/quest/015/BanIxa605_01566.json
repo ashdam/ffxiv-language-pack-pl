@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa605_01566",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa605_01566#TEXT_BANIXA605_01566_SEQ_00", "hash": "C5C19FCFF0EA5D6E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Rzemieślnik tworzy, a wojownik niszczy. Kim jest zatem poszukiwacz przygód, który robi jedno i drugie, i jeszcze więcej?<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 16 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 49 lub wyższym." },
     { "gameKey": "quest/015/BanIxa605_01566#TEXT_BANIXA605_01566_SEQ_01", "hash": "202DEB3F53905208", "target": "Jezul Ahuatan zastanawia się, czy zdołasz wykonać hyperconductor components. Musisz zacząć od zdobycia niezwykłego materiału. W Brzuchu Ogra na wyżynach Coerthas kryje się wiele złowrogich istot─wśród nich rój stworzeń will-o'-the-wyke. Zabicie jednego rozgniewa stwora St. Daniffen's fire, z którego pokonanej powłoki zdobędziesz próbkę częściowo stabilnej ektoplazmy.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

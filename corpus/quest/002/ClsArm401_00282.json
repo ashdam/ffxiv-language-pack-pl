@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm401_00282",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm401_00282#TEXT_CLSARM401_00282_SEQ_00", "hash": "7D4028C55254E724", "target": "Mistrzyni kuźni H'naanza ma dla ciebie wiadomość." },
     { "gameKey": "quest/002/ClsArm401_00282#TEXT_CLSARM401_00282_SEQ_01", "hash": "C01F271DEB21159B", "target": "H'naanza informuje cię, że Blanstyr rzucił ci oficjalne wyzwanie rzemieślnicze. Odszukaj przedstawiciela ludu Roegadyn w jego zwykłym miejscu i poznaj szczegóły." },

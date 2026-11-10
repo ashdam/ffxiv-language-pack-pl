@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsCnj000_00022",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsCnj000_00022#TEXT_CLSCNJ000_00022_SEQ_00", "hash": "33AE92C8BF08BB0E", "target": "Madelle chce się upewnić, że nadal zamierzasz wstąpić do Gildii Zaklinaczy." },
     { "gameKey": "quest/000/ClsCnj000_00022#TEXT_CLSCNJ000_00022_SEQ_01", "hash": "DD0391F3A87FDA81", "target": "Madelle kieruje cię do brata E<-->Sumi<-->Yana, mistrza Gildii Zaklinaczy. Poproś go o rozmowę w Świątyni Cichej Polany." },

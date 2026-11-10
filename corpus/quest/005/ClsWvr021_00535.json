@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsWvr021_00535",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SEQ_00", "hash": "CCBA5A3D79F11A21", "target": "Redolent Rose chce wyznaczyć ci pierwsze zadanie w tkackim fachu." },
     { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SEQ_01", "hash": "575D2A949B8E6CCC", "target": "Redolent Rose jest zadowolony z tego, jak trzymasz otrzymaną igłę. Teraz chce sprawdzić, czy potrafisz jej użyć. Masz przygotować spindle of hempen yarn, do czego potrzeba moko grass i odłamków błyskawic. Trawę kupisz u dostawcy gildii, lecz odłamki musisz zdobyć gdzie indziej. Wykonaj spindle of hempen yarn i dostarcz je mistrzowi gildii." },

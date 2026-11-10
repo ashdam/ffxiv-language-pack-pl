@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsMin021_00599",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsMin021_00599#TEXT_CLSMIN021_00599_SEQ_00", "hash": "C1D67C584A4E0B98", "target": "Adalberta chce wyznaczyć ci pierwsze zadanie." },
     { "gameKey": "quest/005/ClsMin021_00599#TEXT_CLSMIN021_00599_SEQ_01", "hash": "EC1F20B68AF3C478", "target": "Po przyjęciu cię do Gildii Górników Adalberta wyznacza zadanie, które ma oswoić cię z kilofem. Użyj wiekowego narzędzia, by zebrać dziesięć chunks of copper ore poza Gate of the Sultana lub Bramą Nalda, i dostarcz je mistrzyni gildii." },

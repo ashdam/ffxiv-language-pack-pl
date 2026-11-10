@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/CmnDefAchievementReward_00107",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_001", "hash": "2B976CE8D4508355", "target": "Witaj, <if(gnum4,młoda damo,młodzieńcze)>. Jak miło, że chcesz dotrzymać towarzystwa takiemu niedołężnemu staruszkowi jak ja. Powiedz, lubisz opowieści? Ja przepadam za dobrymi historiami, zwłaszcza prawdziwymi, opowiadanymi przez tych, którzy sami je przeżyli. Jeśli masz jakieś własne, zamieniam się w słuch." },
     { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q1_01", "hash": "DA892CFD8F01B999", "target": "Co chcesz zrobić?" },

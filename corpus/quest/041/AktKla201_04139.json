@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla201_04139",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla201_04139#TEXT_AKTKLA201_04139_SEQ_00", "hash": "60984B8BC5B0E400", "target": "Jude wygląda na zmartwionego." },
     { "gameKey": "quest/041/AktKla201_04139#TEXT_AKTKLA201_04139_SEQ_01", "hash": "91AE4AA3EC1E11D7", "target": "Rozmawiasz z Jude'em, jedynym członkiem Koła Astronomii Klasycznej, i dowiadujesz się, że rozpacza nad zepsutym teleskopem. Niedługo po zwierzeniu ci się ze swoich trosk opowiada o planach budowy nowego. Zgadzasz się pomóc, a on z nowym zapałem pędzi do Noumenonu w nadziei na rozwiązanie problemu." },

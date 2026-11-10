@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/CtsSfsCharacter7_00710",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/CtsSfsCharacter7_00710#TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_000", "hash": "234AE29D30FAE54B", "target": "Przypominam, <split(<string(gstr1)>, ,1)>, że naszym zadaniem jest uzupełnienie zapasów artykułów codziennego użytku w lecznicy─sztućców, pościeli i tym podobnych. Dziękujemy za życzliwą pomoc." },
     { "gameKey": "custom/007/CtsSfsCharacter7_00710#TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_001", "hash": "CB88260B76A6C1C5", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Jeśli masz potrzebne nam zaopatrzenie medyczne, chętnie je od ciebie przyjmę." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzh102_03526",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh102_03526#TEXT_LUCKZH102_03526_SEQ_00", "hash": "EA7DCFBDBD22D0C6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kee-Satt jest gotów chwycić za kilof w nadziei na znalezienie rutabitu." },
     { "gameKey": "quest/035/LucKzh102_03526#TEXT_LUCKZH102_03526_SEQ_01", "hash": "84F17189DE5765C1", "target": "Próba wydobycia rutabitu kończy się gorzką porażką. Gdy Kee-Satt przyznaje się do klęski, zjawiają się jego rywale z ludu Ronso, by─w przenośni─kopnąć leżącego. Ich okrutne drwiny potwierdzają wcześniejsze słowa górnika o uprzedzeniach wobec ludu Mystel. To jednak tylko go pobudza. Z nową energią proponuje przejście do kolejnego miejsca. Niestety podobno roi się tam od niebezpiecznych mieszkańców jaskiń, więc prosi cię o ochronę podczas wydobycia.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

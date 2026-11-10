@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGla506_05001",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SEQ_00", "hash": "4FFBF452E2ECC056", "target": "Pióra sprzedawcy ryb są nastroszone w oczekiwaniu na powrót Pashenine." },
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SEQ_01", "hash": "22AE587D1F0E8401", "target": "Donuhanu prosi cię o zdobycie ryb Raging Hanuhead, które pomogą Pashenine odzyskać siły.<br><br>Ryby Raging Hanuhead można łowić we Wschodniej Części Zorgor, używając przynęty Dragonfly.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 228. Dostarczenie przedmiotów o wartości co najmniej 535 zapewni większe nagrody." },

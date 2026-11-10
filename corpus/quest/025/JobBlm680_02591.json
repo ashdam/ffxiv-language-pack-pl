@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobBlm680_02591",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobBlm680_02591#TEXT_JOBBLM680_02591_SEQ_00", "hash": "8DFEE8B1E50534B9", "target": "Lalai prosi o pomoc w wykonaniu poleceń Shatotto." },
     { "gameKey": "quest/025/JobBlm680_02591#TEXT_JOBBLM680_02591_SEQ_01", "hash": "D0178A1A314E9C26", "target": "Lalai pozostaje w bliskim kontakcie z Shatotto, gotową rozpocząć ostatni etap planu. Nawet zawsze pewna siebie matka czarnej magii nie zamierza jednak działać sama. Wyruszacie więc do Bordowych Wodospadów, by naradzić się z plemiennymi sojusznikami." },

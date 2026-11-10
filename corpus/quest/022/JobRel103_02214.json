@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/JobRel103_02214",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/JobRel103_02214#TEXT_JOBREL103_02214_SEQ_00", "hash": "DDB2385382A99C00", "target": "Ardashir niepokoi się rozwojem animy.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/022/JobRel103_02214#TEXT_JOBREL103_02214_SEQ_01", "hash": "6A70CD8809EEF0E0", "target": "Anima rozwija się w zawrotnym tempie, pochłaniając przy tym ogromne ilości eteru. Ardashir obawia się, że tak gwałtowny rozwój może przekroczyć możliwości kamienia duszy stanowiącego jej podstawę. Aby cały wasz trud nie poszedł na marne, planuje wzmocnić kamień i poprosić Gerolta o wykucie nowej broni, która go pomieści. Ta nowa broń wymaga jednak czterech materiałów niezbędnych do przewodzenia dużych ilości eteru: Enchanted Rubber, Fast-drying Carboncoat, Fast-acting Allagan Catalyst i Divine Water. Gerolt proponuje odszukać kupczynię o imieniu Cristiana w Domu Splendorów w Mor Dhona. Może mieć to, czego potrzebuje.<br><br>※Nie możesz kontynuować misji w innej klasie lub jobie niż w chwili jej przyjęcia." },

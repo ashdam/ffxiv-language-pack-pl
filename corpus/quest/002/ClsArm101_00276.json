@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm101_00276",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm101_00276#TEXT_CLSARM101_00276_SEQ_00", "hash": "417C0461ED46F71C", "target": "Mistrzyni kuźni H'naanza chce, by pomóc początkującej płatnerce zmagającej się z podstawami rzemiosła." },
     { "gameKey": "quest/002/ClsArm101_00276#TEXT_CLSARM101_00276_SEQ_01", "hash": "11C268B6DDDEF652", "target": "Początkująca płatnerka Granae nie nadąża z wykuwaniem bronze plate. Aby uzupełnić jej pracę, H'naanza prosi cię o wykonanie dwunastu arkuszy bronze plate i dostarczenie ich bezpośrednio nowicjuszce. Ma nadzieję, że twój dobry przykład zachęci Granae do podobnej pilności." },

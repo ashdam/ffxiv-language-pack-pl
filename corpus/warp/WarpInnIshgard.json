@@ -1,6 +1,6 @@
 {
   "conversation": "warp/WarpInnIshgard",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_1", "hash": "A35A74102A2D3434", "target": "Proszę wybaczyć, <if(gnum4,panienko,proszę pana)>, ale jeśli chodzi o pokój, muszę prosić o cierpliwość." },
     { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_2", "hash": "C74ABF50B99260AF", "target": "A może mogę jakoś inaczej <if(gnum4,pani,panu)> pomóc?" },

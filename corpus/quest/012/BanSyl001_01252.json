@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanSyl001_01252",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl001_01252#TEXT_BANSYL001_01252_SEQ_00", "hash": "D81FE84E514573F8", "target": "Komendant Vorsaile Heuloix szuka sprawnego poszukiwacza przygód do wyjątkowo trudnego zadania." },
     { "gameKey": "quest/012/BanSyl001_01252#TEXT_BANSYL001_01252_SEQ_01", "hash": "11EAAAB885CE63C0", "target": "Komendant Żmii Heuloix niepokoi się ruchami wśród plemion ludu Sylph i obawia się, że ci zazwyczaj łagodni zwierzoludzie knują coś złowrogiego. Uczony wysłany do zbadania sprawy zaginął, więc komendant poleca ci go odszukać. Udaj się do Małej Pociechy i porozmawiaj z sylfem Olmxio." },

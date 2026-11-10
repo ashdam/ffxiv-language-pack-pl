@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanIxa004_01489",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanIxa004_01489#TEXT_BANIXA004_01489_SEQ_00", "hash": "29FAA8E3DEC4C9D5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tataramu napotyka przeszkodę na drodze do ukończenia statku <italic(1)>Dezul Qualan<italic(0)>.<br>※Część rzemieślnicza tego zadania jest zalecana dla Disciples of the Hand na poziomie 6 lub wyższym." },
     { "gameKey": "quest/014/BanIxa004_01489#TEXT_BANIXA004_01489_SEQ_01", "hash": "6325D7848608F70E", "target": "Tataramu wyjaśnia, że potrzeba pewnych wyjątkowo trudnych do zdobycia materiałów, po czym niechętnie prosi cię o dostarczenie listu znajomemu. Odwiedź kasę biletową statków powietrznych w Gridanii i zapytaj Hidę, gdzie można znaleźć pana imieniem Colson.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

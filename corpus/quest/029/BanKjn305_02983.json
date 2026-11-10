@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/BanKjn305_02983",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_SEQ_00", "hash": "6B3B80728D3CE39C", "target": "Zukin potrzebuje pomocy w przygotowaniu uczty.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
     { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_00", "hash": "FD9D6C483354064F", "target": "Zwabić stworzenia man-eating gasame mięsem ostryg w Hells' Lid i zabić je, aby zdobyć rozżarzone pancerze" },

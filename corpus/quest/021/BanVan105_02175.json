@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/BanVan105_02175",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/BanVan105_02175#TEXT_BANVAN105_02175_SEQ_00", "hash": "CA936BEC94DAA352", "target": "Plemię Gundu znów chce poprosić cię o pomoc.<br>※Poziom trudności tego zadania zostanie dostosowany do twojego aktualnego poziomu." },
     { "gameKey": "quest/021/BanVan105_02175#TEXT_BANVAN105_02175_SEQ_01", "hash": "6F4696E4652C8B90", "target": "Muna Vanu mówi, że Luna Vanu potrzebuje twojej pomocy. Choć nie zna szczegółów, dobrze wie o niepewnych dostawach żywności dla plemienia. Nie wątpi więc, że chodzi o zdobycie pożywienia. Porozmawiaj z kupcem Luna Vanu i dowiedz się więcej.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Ponadto możesz kontynuować zadanie wyłącznie klasą lub jobem używanym w chwili jego przyjęcia." },

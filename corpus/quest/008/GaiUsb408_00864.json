@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb408_00864",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "Komandor Bloeidin wyraźnie ufa już twoim umiejętnościom i dyskrecji." },
     { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "Komandor Maelstromu Bloeidin opowiada o niedawnych obserwacjach wojowników Kobold w pobliżu Camp Overlook i chce, by to zbadać. Przeszukaj wskazane miejsca przy obozie i zabij każdego wojownika Kobold, który będzie miał pecha cię napotkać." },

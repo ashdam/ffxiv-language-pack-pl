@@ -1,6 +1,6 @@
 {
   "sheet": "ActionTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ActionTransient#3", "hash": "72E6C3096E02E0A1", "target": "Zwiększa szybkość poruszania się.<br><colortype(504)><edgecolortype(505)>Czas trwania:<edgecolortype(0)><colortype(0)> 10 s (20 s poza walką)<br><colortype(504)><edgecolortype(505)>Dodatkowy efekt:<edgecolortype(0)><colortype(0)> Zapewnia <colortype(506)><edgecolortype(507)>efekt „Trucht”<edgecolortype(0)><colortype(0)> po wygaśnięciu efektu<br><colortype(504)><edgecolortype(505)>Działanie efektu „Trucht”:<edgecolortype(0)><colortype(0)> Zwiększa szybkość poruszania się<br>Efekt wygasa po wytworzeniu wrogości. Nie działa podczas walki.<br>※Niedostępne w PvP." },
     { "gameKey": "ActionTransient#6", "hash": "0B798261B809548A", "target": "Natychmiast wraca do twojego aktualnego punktu Home Point." },

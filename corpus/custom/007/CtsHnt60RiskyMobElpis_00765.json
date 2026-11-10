@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/CtsHnt60RiskyMobElpis_00765",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/CtsHnt60RiskyMobElpis_00765#TEXT_CTSHNT60RISKYMOBELPIS_00765_BASILDERE_000_001", "hash": "00751E2B039850DD", "target": "Witam <if(gnum4,szanowną panią,szanownego pana)>. Nazywam się Basildere i należę do czołowych badaczy mitologii porównawczej. Dziełem mojego życia jest zgłębianie mitów ludów z różnych krain i epok w poszukiwaniu prawdy skrytej za wspólnymi cechami tych ponadczasowych opowieści." },
     { "gameKey": "custom/007/CtsHnt60RiskyMobElpis_00765#TEXT_CTSHNT60RISKYMOBELPIS_00765_BASILDERE_000_002", "hash": "7D7700E7CCE0D8C2", "target": "Witam <if(gnum4,szanowną panią,szanownego pana)>. Należę do czołowych badaczy mitologii porównawczej i zlecam kolegium zbieraczy pozyskiwanie próbek, by dowieść mojej teorii, że istoty opisywane w mitach są całkiem realne. Rozumiem, że ten temat budzi zainteresowanie..." },

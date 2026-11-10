@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa607_00769",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_00", "hash": "23ED690CB1FAD64E", "target": "Sadownik Fawkes prosi cię o pomoc w złożeniu podziękowań za zbiory." },
     { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_01", "hash": "C55DB13158ED6AE6", "target": "Fawkes cieszy się najobfitszymi zbiorami od lat i chce podziękować za nie strażnikowi lasu. Odszukaj strażnika na południowy zachód od Quarrymill i złóż w ofierze jabłko duszkowe." },

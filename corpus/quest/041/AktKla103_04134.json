@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla103_04134",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SEQ_00", "hash": "8F2B618E414C8099", "target": "Rurusha zauważyła, że w zabytku brakuje części." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SEQ_01", "hash": "75B377B9343D9C24", "target": "Rurusha zleca ci wykonanie przedmiotów Gold Cog.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 140. Za przedmioty o wartości 290 lub wyższej otrzymasz lepsze nagrody." },

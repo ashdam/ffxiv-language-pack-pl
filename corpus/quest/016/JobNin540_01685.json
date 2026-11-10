@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobNin540_01685",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobNin540_01685#TEXT_JOBNIN540_01685_SEQ_00", "hash": "FA94EDACB4079870", "target": "Nadeszła nowa prośba od Akagiego." },
     { "gameKey": "quest/016/JobNin540_01685#TEXT_JOBNIN540_01685_SEQ_01", "hash": "58729F33BCEC57AF", "target": "List Akagiego to zwięzłe wezwanie do jak najszybszego przybycia do Objęć Oschona. Udaj się tam i dowiedz się, w jakie kłopoty księżniczka Yuki wpakowała się tym razem." },

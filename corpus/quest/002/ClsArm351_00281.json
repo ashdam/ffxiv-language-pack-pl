@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm351_00281",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm351_00281#TEXT_CLSARM351_00281_SEQ_00", "hash": "893F4C5B0D5CDF43", "target": "Mistrzyni kuźni H'naanza chce powierzyć ci nowe zamówienie." },
     { "gameKey": "quest/002/ClsArm351_00281#TEXT_CLSARM351_00281_SEQ_01", "hash": "D65901A653EC906C", "target": "H'naanza obawia się, że rosnąca wrogość między tobą a Blanstyrem przeszkodzi ci w doskonaleniu rzemiosła. Aby zająć cię czymś pożyteczniejszym, powierza ci wykonanie steel frypan zamówionej przez wybitnego kucharza, mistrza Lyngsatha. Wykonaj przybór odpowiedniej jakości i dostarcz H'naanzie do oceny." },

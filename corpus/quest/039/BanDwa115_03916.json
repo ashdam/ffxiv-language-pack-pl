@@ -1,6 +1,6 @@
 {
   "conversation": "quest/039/BanDwa115_03916",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "Regitt ponuro spogląda w dal, być może zastanawiając się nad nieobecnością zagubionych automatów.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub profesją, którą przyjęto zadanie." },
     { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "Poszukać zagubionych automatów w Lesie Zagubionego Pasterza" },

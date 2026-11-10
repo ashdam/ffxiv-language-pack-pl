@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanSyl005_01256",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl005_01256#TEXT_BANSYL005_01256_SEQ_00", "hash": "99BBA11304BB985C", "target": "Twarz Olmxio wyraża głęboką troskę." },
     { "gameKey": "quest/012/BanSyl005_01256#TEXT_BANSYL005_01256_SEQ_01", "hash": "147EEAFD7AA3CD97", "target": "Olmxio przynosi złowieszcze wieści: diaboliczny Diluxio i jego sługusy rozpoczęli rytuał narodzin i lada chwila mogą zagarnąć niezmierzoną moc Wybranej. Porozmawiaj ze starszym Frixio i obmyśl plan przerwania rytuału oraz sprowadzenia jeszcze zamkniętego strączka do Małej Pociechy." },

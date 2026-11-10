@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobRdm501_02577",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobRdm501_02577#TEXT_JOBRDM501_02577_SEQ_00", "hash": "F9A01F92CCED5B38", "target": "X'rhun chce opowiedzieć ci o początkach czerwonej magii." },
     { "gameKey": "quest/025/JobRdm501_02577#TEXT_JOBRDM501_02577_SEQ_01", "hash": "8705534D3E764F1E", "target": "X'rhun wygłasza krótki wykład o początkach czerwonej magii. Wyjaśnia, że sztuka ta powstała na fundamencie czarnej i białej magii, by pomóc przetrwać katastrofę wywołaną właśnie przez te dawne szkoły. Historia nie zastąpi jednak praktyki. X'rhun sądzi, że próba ustalenia tożsamości porywaczy zapewni ci potrzebną wprawę w walce. Podąż za Karmazynowym Pojedynkowiczem do kościoła Świętego Adamy Landamy w Eastern Thanalan." },

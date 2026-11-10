@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/FesNyx202_05230",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/FesNyx202_05230#TEXT_FESNYX202_05230_SEQ_00", "hash": "1A5D85540678BDB5", "target": "Zarządczyni Konia nie może się doczekać rozpoczęcia pochodu z okazji Niebiańskiego Przełomu.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/052/FesNyx202_05230#TEXT_FESNYX202_05230_SEQ_01", "hash": "34CAE86A12E0CF1D", "target": "Pochód z okazji Niebiańskiego Przełomu wkrótce rozpocznie się za bramą Zephyr Gate. Zarządczyni Konia serdecznie zaprasza cię do udziału, więc udajesz się do regionu middle La Noscea, gdzie czeka generał Konia.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

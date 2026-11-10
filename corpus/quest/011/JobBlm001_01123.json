@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/JobBlm001_01123",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/JobBlm001_01123#TEXT_JOBBLM001_01123_SEQ_00", "hash": "4E0184ABEA3333D5", "target": "Gerolt wygląda jak pokonany człowiek." },
     { "gameKey": "quest/011/JobBlm001_01123#TEXT_JOBBLM001_01123_SEQ_01", "hash": "5045E7E7BAA07A7A", "target": "Gerolt niechętnie zgadza się wykorzystać swój kunszt do odnowienia legendarnej broni z dawnych czasów. Najpierw każe ci udać się do kopalń U'Ghamaro Mines w regionie Outer La Noscea, by odzyskać zaginiony kostur gwiezdnego pyłu. Poszukaj pojemnika, w którym może być przechowywana cenna relikwia." },

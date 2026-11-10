@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdi211_03093",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdi211_03093#TEXT_STMBDI211_03093_SEQ_00", "hash": "D483CFCC2E022B7A", "target": "Prośba od piękności z kompanii? Oby znów nie chodziło o chleb z boczkiem." },
     { "gameKey": "quest/030/StmBdi211_03093#TEXT_STMBDI211_03093_SEQ_01", "hash": "98A89851AE96214C", "target": "Oddychasz z ulgą, gdy rozmowa z pięknością kompanii kończy się bez choćby wzmianki o chlebie z boczkiem. Według skąpo odzianej bratniej duszy wędrownego dramaturga poczciwiec chciałby po prostu usłyszeć więcej o twoich wyczynach przy Katarakcie Ridorana." },

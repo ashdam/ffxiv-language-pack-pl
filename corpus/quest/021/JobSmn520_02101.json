@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/JobSmn520_02101",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/JobSmn520_02101#TEXT_JOBSMN520_02101_SEQ_00", "hash": "92DCD92905E657BE", "target": "Y'mhitra chce podzielić się z tobą nową wiedzą." },
     { "gameKey": "quest/021/JobSmn520_02101#TEXT_JOBSMN520_02101_SEQ_01", "hash": "421623724318F2C9", "target": "Y'mhitra przyznaje, że badania nadal nie wyjaśniły niepowodzenia rytuału błyskawic. Z radością oznajmia jednak odkrycie kilku nowych zaklęć przywoływania. Gdy próbuje cię ich nauczyć, niespodziewanie przerywa jej kapitan Dancing Wolf, oficer Nieśmiertelnych Płomieni poszukujący mrocznego przywoływacza Tristana. Choć podczas waszej walki Tristan najwyraźniej spłonął, kapitan Wolf dysponuje zeznaniami świadków, którzy widzieli go podczas napaści na kupiecką karawanę. Y'mhitra nie chce lekceważyć możliwości, że niebezpieczny szaleniec przeżył. Prosi o pozwolenie na wasz udział w śledztwie. Udaj się do obozu Camp Drybone we wschodnim Thanalanie i porozmawiaj z Dancing Wolfem." },

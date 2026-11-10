@@ -1,6 +1,6 @@
 {
   "conversation": "quest/031/StmBdr303_03156",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_SEQ_00", "hash": "8F7799FF78CB04AF", "target": "Cid czeka na kolejny ruch Omegi." },
     { "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_SEQ_01", "hash": "DAE8C7CD68F804FF", "target": "Omega uznała twoją potęgę i zamierza zakończyć eksperymenty bezpośrednim starciem. W obliczu ostatniej bitwy Cid prosi cię o czas na kilka ważnych przygotowań. Wprowadza poprawki w terminalach obozu i dodaje otuchy Alphie, po czym proponuje wspólne opuszczenie szczeliny. Wciąż jest wiele do zrobienia." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa505_01513",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa505_01513#TEXT_BANIXA505_01513_SEQ_00", "hash": "B1A7C65A9B80F101", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Duzal Meyean the Steady szuka kogoś godnego zaufania z Disciples of the Hand, kto pomoże jego zespołowi rzemieśl... ptaków w wykonaniu prototypowych elementów.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 15 lub wyższym, a do części bojowej Uczniów Wojny lub Magii na poz. 48 lub wyższym." },
     { "gameKey": "quest/015/BanIxa505_01513#TEXT_BANIXA505_01513_SEQ_01", "hash": "DAA753DFF0DF53E3", "target": "Duzal Meyean prosi o wykonanie ceruleum tank component, aby udoskonalić swój prototyp do statku powietrznego <italic(1)>Dezul Qualan<italic(0)>. Odpowiednie wyposażenie do jego wykonania znajduje się jednak tylko w Diamentowej Kuźni w Revenant's Toll. Porozmawiaj z zarządczynią kuźni, Fyrbrydą, aby uzyskać zgodę na korzystanie z warsztatu.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

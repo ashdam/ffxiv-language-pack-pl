@@ -1,6 +1,6 @@
 {
   "sheet": "ExtraCommand",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "Poza grupowa" },
     { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "Wykonuje pozę grupową, zapętlając ostatnio wykonaną emotkę lub akcję. Pozycję kamery, oświetlenie i filtr kolorów można dostosować w ustawieniach polecenia.<br><br><colortype(500)><edgecolortype(501)>Polecenie tekstowe: <edgecolortype(0)><colortype(0)>/grouppose<br><colortype(500)><edgecolortype(501)>Przypisanie klawisza: <edgecolortype(0)><colortype(0)> dostępne" },

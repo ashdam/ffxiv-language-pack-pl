@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/FesAnv2023Letter_00829",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/FesAnv2023Letter_00829#TEXT_FESANV2023LETTER_00829_LETTERTREE00829_000_001", "hash": "DEC4BB836C0973D1", "target": "Witam w lesie listów. Wystawiono tu wiadomości z wyrazami wdzięczności i otuchy, które anonimowo napisały osoby z całej krainy. Nic dziwnego, że niemało z nich skierowano do poszukiwaczy przygód." },
     { "gameKey": "custom/008/FesAnv2023Letter_00829#TEXT_FESANV2023LETTER_00829_LETTERTREE00829_100_002", "hash": "127234C80A4B0503", "target": "Wciąż trwają przygotowania, ale z przyjemnością oprowadzę <if(gnum4,panią,pana)>, gdy wszystko będzie gotowe. Proszę zajrzeć później." },

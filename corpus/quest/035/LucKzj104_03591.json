@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzj104_03591",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj104_03591#TEXT_LUCKZJ104_03591_SEQ_00", "hash": "954B15C229A18C21", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Naroshs Koal wreszcie wie, co trzeba zrobić." },
     { "gameKey": "quest/035/LucKzj104_03591#TEXT_LUCKZJ104_03591_SEQ_01", "hash": "452C22D3AFDDA0AE", "target": "Krzyki matki lęgu stają się coraz bardziej rozpaczliwe, ale na szczęście wreszcie udaje wam się znaleźć obiecujące rozwiązanie: linę porodową. Zwykła jednak nie wystarczy, bo matka lęgu jest znacznie silniejsza od przeciętnego Bezpłetwego. Naroshs Koal błaga więc o upolowanie kilku morskich anemonów, których macki posłużą za materiał.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

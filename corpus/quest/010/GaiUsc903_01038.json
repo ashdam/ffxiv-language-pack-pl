@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc903_01038",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "Rafold potrzebuje kogoś do pełnienia warty." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "Garnizon w obozie Camp Bluefog potrzebuje dodatkowych oczu do obserwowania Garleańczyków na północy. Stań na warcie w trzech miejscach, gdzie powiewa sztandar Nieśmiertelnych Płomieni." },

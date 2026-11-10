@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGzc203_05083",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc203_05083#TEXT_KINGZC203_05083_SEQ_00", "hash": "4956E31E9F88DAC5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Lanuhanu nie może się doczekać pobłogosławienia swoich piór." },
     { "gameKey": "quest/050/KinGzc203_05083#TEXT_KINGZC203_05083_SEQ_01", "hash": "45389516BC71DCAB", "target": "Piór nie można dostarczyć Straży Krajowej, dopóki nie otrzymają błogosławieństwa wiatru. Na szczęście Lanuhanu zgłasza się do zaniesienia skrzyni przed podobiznę Kixaihih w Kozanuakiy. Tobie i Nahanshe każe spotkać się ze swoim przyjacielem, który czeka przy drodze z bliżej nieokreślonym zadaniem.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

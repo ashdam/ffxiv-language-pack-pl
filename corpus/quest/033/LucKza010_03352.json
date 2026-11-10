@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza010_03352",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_SEQ_00", "hash": "0D22DC0F320AB417", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Niespełniony zbieracz pożywienia ma ochotę na mięso." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_TODO_00", "hash": "FC58E4E8FE851A8D", "target": "Użyć liny do chwytania na osłabionym ptaku tragopan" },

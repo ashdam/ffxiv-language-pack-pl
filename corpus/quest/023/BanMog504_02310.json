@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog504_02310",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog504_02310#TEXT_BANMOG504_02310_SEQ_00", "hash": "E7691D1568B30713", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mogek kręci głową." },
     { "gameKey": "quest/023/BanMog504_02310#TEXT_BANMOG504_02310_SEQ_01", "hash": "F206B12B046BC7A3", "target": "Rozdrażniony Mogek mówi ci, że pozwolił grupie moogli odpocząć i zbadać okolicę olbrzymiego posągu Sziwy na południe od Bahrr Lehs, lecz wciąż nie wrócili. Prosi cię o sprawdzenie, co u nich, i upewnienie się, że nie pakują się w kłopoty.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

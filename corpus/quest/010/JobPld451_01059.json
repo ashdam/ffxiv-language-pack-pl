@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobPld451_01059",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobPld451_01059#TEXT_JOBPLD451_01059_SEQ_00", "hash": "8F573FAA8D626C25", "target": "Jenlyns chce wiedzieć, czy możesz już stawić czoła Solkzagylowi." },
     { "gameKey": "quest/010/JobPld451_01059#TEXT_JOBPLD451_01059_SEQ_01", "hash": "3E927B1BD479F10F", "target": "Za pośrednictwem posłańców Jenlyns uzgodnił pertraktacje z Solkzagylem w sprawie zwrotu miecza Oathkeeper. Spotkanie może jednak być pułapką, dlatego prosi cię o towarzystwo. Rozmowy odbędą się na południe od osady Forgotten Springs, na Pustyni Sagolii." },

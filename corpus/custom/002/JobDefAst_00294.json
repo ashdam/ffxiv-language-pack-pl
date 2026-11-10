@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/JobDefAst_00294",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/JobDefAst_00294#TEXT_JOBDEFAST_00294_GUILLESTET_000_000", "hash": "B101530D0B0813C2", "target": "Co, proszę powiedzieć, sprowadza <if(gnum4,panią,pana)> do Athenaeum? Nie jesteśmy gildią jak te w niżej położonych miastach<-->państwach. Nikt tutaj nie bierze przybłędów pod skrzydła i nie prowadzi ich za rączkę, przekazując stulecia nagromadzonej wiedzy każdej obcej osobie, która uzna, że jej się ona należy. No... niemal nikt." },
     { "gameKey": "custom/002/JobDefAst_00294#TEXT_JOBDEFAST_00294_GUILLESTET_000_001", "hash": "10D16E02A75A0D15", "target": "Ach, nowa osoba u boku lorda Jannequinarda. Mam nadzieję, że to, eee... szkolenie przebiega... eee, gładko?" },

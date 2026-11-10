@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobMch520_01706",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobMch520_01706#TEXT_JOBMCH520_01706_SEQ_00", "hash": "3C948A5E0218DE7D", "target": "Stephanivien prosi o pomoc w swoim najnowszym projekcie." },
     { "gameKey": "quest/017/JobMch520_01706#TEXT_JOBMCH520_01706_SEQ_01", "hash": "235F7235168BBEFA", "target": "Po odejściu Joye z manufaktury Stephanivien szuka kolejnej przewagi, która pomoże mechanikom podczas wspólnej operacji z rodem Dzemael. Główny mechanik zamierza stworzyć nowe urządzenie, lecz wyjaśnia, że zdobycie gotowych części magitek znacznie przyspieszy pracę. Przeniknij do Castrum Centri w Mor Dhona i odzyskaj części machin bojowych ze skrzyń rozmieszczonych w imperialnej bazie." },

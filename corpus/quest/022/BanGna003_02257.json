@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanGna003_02257",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanGna003_02257#TEXT_BANGNA003_02257_SEQ_00", "hash": "FA41EA5754C5DDFE", "target": "Vath deftarm przygląda się zapasom muszkietów w kolonii i kręci głową.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
     { "gameKey": "quest/022/BanGna003_02257#TEXT_BANGNA003_02257_SEQ_01", "hash": "126DBD902D051CF4", "target": "Vath deftarm cieszy się z rozwoju gildii, ale wraz z nim rośnie zapotrzebowanie na narzędzia i broń. Zauważa, że muszkiety wykradzione Gnathom przez Odłączonych niszczeją, i szuka sposobu na zdobycie nowych bez polegania na wrogu. Pyta cię o gobliny, które podobno świetnie znają się na obróbce metalu. Prosi o przedstawienie go goblinom z Idyllshire i z zapałem rusza przygotować się do kolejnej podróży. Umawiacie się na spotkanie przy granicy, na zachodzie Upadłej Avalonii.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },

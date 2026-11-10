@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzh003_03513",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_SEQ_00", "hash": "83B1A3AC53B1607D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Pełen zapału młodzik pali się do zabijania gnomów." },
     { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_TODO_00", "hash": "7FC9B3F21C06F165", "target": "Pokonać dwa gnome i zabić elderly gnome, gdy się pojawi" },

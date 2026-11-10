@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanMog202_02295",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanMog202_02295#TEXT_BANMOG202_02295_SEQ_00", "hash": "52E17E89D22FF18E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Spojrzenie zmrużonych oczu Mogeka zdradza, że ma do ciebie prośbę." },
     { "gameKey": "quest/022/BanMog202_02295#TEXT_BANMOG202_02295_SEQ_01", "hash": "55C5566DF680522F", "target": "Mogek chce pozyskać więcej pomocnych łapek dla grupy Mogmenders i obmyślił w tym celu smakowity plan. Zgromadził wielki zapas orzechów kupo dla każdego moogle'a, który zgodzi się pracować przy placu. Choć rekrutacja już trwa, nikt jeszcze nie dotarł do Moghome. Mogek prosi cię o reprezentowanie tam grupy. Znajdź potencjalnych rekrutów i w trybie rozmowy <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> wpisz dowolne zdanie zawierające „darmowe orzechy kupo”, by zachęcić ich do pomocy.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

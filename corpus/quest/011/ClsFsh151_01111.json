@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/ClsFsh151_01111",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_00", "hash": "C45B0F0C77DBB5B2", "target": "Sisipu potrzebuje pomocy przy niespodziewanym zamówieniu." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_01", "hash": "12C2DE6C8593A9D7", "target": "Gildia Rybaków otrzymała zamówienie na świeże ryby od stałego klienta, handlarza Qiqirn imieniem Chuchuroon. Nie wiadomo jednak, o jakie ryby mu chodzi, więc Sisipu prosi o rozmowę z nim." },

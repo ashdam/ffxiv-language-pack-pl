@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/FesNyr104_00290",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/FesNyr104_00290#TEXT_FESNYR104_00290_SEQ_00", "hash": "776A69DC88384512", "target": "Zarządca Owcy chce umocnić poparcie dla Wełnianej Armii w La Noscei.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/002/FesNyr104_00290#TEXT_FESNYR104_00290_SEQ_01", "hash": "062BDD1060626331", "target": "Zajęty formalnościami Niebiańskiego Przełomu zarządca Owcy wyznaczył zdolnego sprzymierzeńca, by w jego imieniu promował Wełnianą Armię w La Noscei. Prosi cię o wsparcie tego człowieka, generała Czerwonej Owcy. Załóż Hitsuji Kabuto na dowód przynależności do sprawy i porozmawiaj z nieufnym przybyszem ze Wschodu.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

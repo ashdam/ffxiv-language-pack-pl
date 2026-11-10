@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKba421_03625",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKba421_03625#TEXT_LUCKBA421_03625_SEQ_00", "hash": "5820BB1BA96D11EC", "target": "Cerigg wygląda na zakłopotanego." },
     { "gameKey": "quest/036/LucKba421_03625#TEXT_LUCKBA421_03625_SEQ_01", "hash": "A07548809F21D948", "target": "Jak opowiada Cerigg, uratowane z wyrwy dziecko bezpiecznie odpoczywa w Mord Souq. Jest jednak pewien problem: chłopiec najwyraźniej nie pamięta niczego poza własnym imieniem, Taynor. Cerigg wysłał go na spacer po osadzie z nadzieją, że pomoże mu to odzyskać wspomnienia. Zachęca cię, by zajrzeć do chłopca. Odszukaj Taynora i sprawdź, czy udało mu się odtworzyć choć część swojej przeszłości." },

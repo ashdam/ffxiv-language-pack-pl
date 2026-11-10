@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/FesPdyAltarEpisode_00243",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/FesPdyAltarEpisode_00243#TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_000", "hash": "598923E8F4638EA2", "target": "Witam i życzę radosnego Dnia Małych Dam, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód! Służę panu Nanapasiemu, kupcowi o niemałej fortunie i renomie. Jeśli ma <if(gnum4,pani,pan)> pytania o wielki plan mojego pracodawcy na tegoroczne obchody, z przyjemnością odpowiem, na ile tylko potrafię." },
     { "gameKey": "custom/002/FesPdyAltarEpisode_00243#TEXT_FESPDYALTAREPISODE_00243_Q1_000_000", "hash": "D11E518758964BD1", "target": "O co zapytasz?" },

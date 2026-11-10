@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsAlc050_00578",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsAlc050_00578#TEXT_CLSALC050_00578_SEQ_00", "hash": "076756F0CBA7C5DD", "target": "Wygląda na to, że mistrz gildii Severian niemal zapomniał o twoim istnieniu." },
     { "gameKey": "quest/005/ClsAlc050_00578#TEXT_CLSALC050_00578_SEQ_01", "hash": "DA2FB02855BD6259", "target": "Mistrz Severian wyznacza ci zadanie, które ma pomóc zrozumieć kolejną podstawową zasadę alchemii. Wytwórz trzy bottles of antidote i dostarcz je ekscentrycznemu nauczycielowi." },

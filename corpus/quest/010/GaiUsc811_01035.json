@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc811_01035",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_00", "hash": "325C2F64CB94EE22", "target": "Falkbryda chce wezwać cię do działania." },
     { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_01", "hash": "5B3767410DFCE30B", "target": "Falkbryda prosi cię o przeniknięcie do Wężowego Języka i zniszczenie kryształów prowizorycznymi bombami. W ten sposób plemię Sahagin utraci środki do przywołania Lewiatana." },

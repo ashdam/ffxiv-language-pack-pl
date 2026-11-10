@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/ClsCul680_02607",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_00", "hash": "965CCDAD748F3AFF", "target": "Raulf wygląda na zakłopotanego człowieka, który zaraz poprosi o ogromną przysługę." },
     { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_01", "hash": "4814A4ABA5B6EDDF", "target": "Po wielu ćwiczeniach Raulf potrafi już przygotować udon, z którego jest zadowolony. Teraz chce spróbować czegoś zwanego <italic(1)>sushi<italic(0)>, czyli niewielkich porcji ryżu przykrytych surową rybą. Choć brzmi to prosto, podobno jest to najwykwintniejszy przysmak, którego niemal nie da się przygotować bez nauki u prawdziwego mistrza w Hingashi. Raulf nie może zostawić restauracji, więc błaga cię o odbycie dalekiej podróży w jego imieniu i poznanie podstaw przyrządzania sushi. Wyrusz do portu Kugane w Hingashi i odszukaj zajazd Bokairo, gdzie pracuje jeden z najwybitniejszych mistrzów sushi w kraju." },

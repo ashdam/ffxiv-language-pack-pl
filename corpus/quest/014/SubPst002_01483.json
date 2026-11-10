@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/SubPst002_01483",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/SubPst002_01483#TEXT_SUBPST002_01483_SEQ_00", "hash": "7FCA7927B459C137", "target": "Zastępca listonosza moogle'a nie tracił czasu na znalezienie ci odpowiedniego zadania szkoleniowego." },
     { "gameKey": "quest/014/SubPst002_01483#TEXT_SUBPST002_01483_SEQ_01", "hash": "AE96754B92BE032C", "target": "Uradowany znalezieniem pomocy, która chce i potrafi go odciążyć, zastępca listonosza moogle'a wybrał dla ciebie, jak sądzi, idealne zadanie szkoleniowe. Twoja misja, niezależnie od tego, czy zechcesz ją przyjąć, to wziąć list i doręczyć go Baderonowi, właścicielowi Drowning Wench." },

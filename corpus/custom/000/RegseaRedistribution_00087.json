@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/RegseaRedistribution_00087",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/RegseaRedistribution_00087#TEXT_REGSEAREDISTRIBUTION_00087_JNASSHYM_000_1", "hash": "49F5181ADF11E2CD", "target": "Zna <if(gnum4,pani,pan)> przecież Konsorcjum Brugaire, <italic(1)>prawda<italic(0)>? Jesteśmy jednym z największych przedsiębiorstw handlowych w całym mieście<-->państwie Limsa Lominsa. Oferujemy szeroki wybór towarów, w tym broń, żywność i modną odzież." },
     { "gameKey": "custom/000/RegseaRedistribution_00087#TEXT_REGSEAREDISTRIBUTION_00087_JNASSHYM_000_2", "hash": "6FFC5B286CED3585", "target": "Niedawno mianowano mnie główną asystentką wiceprezesa Bango Zango. Ach, pośrednictwo w interesach i negocjowanie umów handlowych... to moje życiowe powołanie." },

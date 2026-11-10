@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa501_00753",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "Claudian musi zdobyć dodatkowe środki na badania." },
     { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "Badania Claudiana przyniosły znaczne rezultaty, lecz brakuje mu ludzi i materiałów do odnowienia bezcennych zabytków Belah'dii. Dostarcz streszczenie jego odkryć Kyokyozo w Wytchnieniu Thala, aby przekonać kapłankę do przysłania pomocy." },

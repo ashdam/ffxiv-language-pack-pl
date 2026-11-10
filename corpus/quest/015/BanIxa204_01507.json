@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa204_01507",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa204_01507#TEXT_BANIXA204_01507_SEQ_00", "hash": "9E970D931FF7947B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Methuli Cattlan aż stroszy pióra ze złości.<br>※Do części rzemieślniczej tego zadania zaleca się Disciples of the Hand na poz. 3 lub wyższym." },
     { "gameKey": "quest/015/BanIxa204_01507#TEXT_BANIXA204_01507_SEQ_01", "hash": "B33D00485C68976B", "target": "Methuli Cattlan prosi o wykonanie engine casing component wysokiej jakości do statku <italic(1)>Dezul Qualan<italic(0)>. Jak to nazbyt często bywa, najpierw musisz zdobyć materiały. Tym razem tragarz odpowiedzialny za dostawę jeszcze się nie zjawił. Methuli Cattlan podejrzewa, że zabłądził gdzieś koło Wykopu Sprigganów. Odszukaj tragarza Ehcatl Nine w rejonie Central Shroud i w trybie czatu <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> wpisz hasło „Wysoko jak honor”, aby dać mu znać, że jesteś po jego stronie.<br><br>※Poziom trudności tego zadania dostosowano do twojego obecnego poziomu." },

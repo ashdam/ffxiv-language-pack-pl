@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/072/VoiceMan_07210",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000010_METEM", "hash": "463B6C4146962319", "target": "Młody, stylowy i zna wszystkie kroki! Dusza towarzystwa i król parkietu─Dancing Green!" },
     { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000020_METEM", "hash": "EA7F9535FDBEBCBE", "target": "Ring jest jej pracownią, a rzeczywistość płótnem! Buntowniczka w słusznej sprawie, która czaruje wszystkich iluzjami─Sugar Riot!" },

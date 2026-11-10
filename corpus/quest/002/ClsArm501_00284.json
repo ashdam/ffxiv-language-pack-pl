@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsArm501_00284",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsArm501_00284#TEXT_CLSARM501_00284_SEQ_00", "hash": "AA67B56A7246DCE2", "target": "Mistrzyni kuźni H'naanza chce omówić ostatnie wyzwanie Blanstyra." },
     { "gameKey": "quest/002/ClsArm501_00284#TEXT_CLSARM501_00284_SEQ_01", "hash": "CF75EBDBA04AB463", "target": "Ostatnią rundę twoich zawodów z Blanstyrem oceni sama pani admirał. Porażka przed przedstawicielami Maelstromu poważnie zaszkodzi reputacji gildii, a także twojej. Nie możesz przegrać! Osadź heavens' eye materia III w cobalt haubergeon wysokiej jakości i dostarcz wyrób sierżantowi Zwynberkowi na Placu Handlarzy." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/FesNyx002_04680",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/FesNyx002_04680#TEXT_FESNYX002_04680_SEQ_00", "hash": "58F8E6ABC25BDE19", "target": "Smocza zarządczyni zamierza ruszyć do Kanionu Urzetowego Szeptu.<br><br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/046/FesNyx002_04680#TEXT_FESNYX002_04680_SEQ_01", "hash": "C892E333182B0EB6", "target": "Po chwili namysłu nad sposobem przedstawienia opowieści smocza zarządczyni jest gotowa ją rozpocząć. Rusza ku wodospadom w Kanionie Urzetowego Szeptu, które jej zdaniem zapewnią idealną scenerię.<br><br>※Po zakończeniu wydarzenia sezonowego ukończenie tego zadania nie będzie możliwe. Szczegóły można znaleźć w serwisie Lodestone." },

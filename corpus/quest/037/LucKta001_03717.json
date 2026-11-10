@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/LucKta001_03717",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKta001_03717#TEXT_LUCKTA001_03717_SEQ_00", "hash": "6AB58DE2E11DA4B0", "target": "Pewien plotkarski krasnolud ma wieści, które mogą cię zainteresować." },
     { "gameKey": "quest/037/LucKta001_03717#TEXT_LUCKTA001_03717_SEQ_01", "hash": "536B6BC6C25E1980", "target": "Według plotkarskiego krasnoluda Komrę nęka ostatnio seria kradzieży. Sprawca pozostaje nieznany. Istnieje obawa, że dawna wrogość między krasnoludzkimi społecznościami skłoni mieszkańców Komry do obwinienia Tomry, więc <italic(1)>ktoś<italic(0)> musi rozwiązać zagadkę, zanim spór się zaogni. Dlaczego tym kimś masz być akurat ty, nie wiadomo, ale czy nie tak to zwykle bywa?" },

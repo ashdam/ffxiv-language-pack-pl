@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobRdm700_02587",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobRdm700_02587#TEXT_JOBRDM700_02587_SEQ_00", "hash": "0F443C5FFA695478", "target": "X'rhun szuka wiedzy taumaturgów." },
     { "gameKey": "quest/025/JobRdm700_02587#TEXT_JOBRDM700_02587_SEQ_01", "hash": "126C7A710B733E17", "target": "X'rhun opowiada o własnych poszukiwaniach wiedzy na temat opętania przez pomioty Pustki, ale przyznaje, że temat wykracza poza jego specjalność. Uznając, że Gildia Taumaturgów lepiej zna praktyki i dzieje starożytnego Mhachu, mentor prosi cię o towarzyszenie mu do Ossuarium Arrzaneth w Ul'dah." },

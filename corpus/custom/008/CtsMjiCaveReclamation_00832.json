@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/CtsMjiCaveReclamation_00832",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/CtsMjiCaveReclamation_00832#TEXT_CTSMJICAVERECLAMATION_00832_TANKEN_033_000", "hash": "DBDB8D3AD5C8DF2D", "target": "O-och, już <if(gnum4,pani,pan)> jest! Ja tylko tak sobie niewinnie się rozglądam. Naprawdę." },
     { "gameKey": "custom/008/CtsMjiCaveReclamation_00832#TEXT_CTSMJICAVERECLAMATION_00832_TANKEN_033_005", "hash": "162ED3D58E60AEE9", "target": "Chyba ma <if(gnum4,pani,pan)> rację z tą jaskinią! Odpowiednie narzędzia pozwolą przebić się przez skałę i sprawdzić, co jest w środku. Może tam być wszystko, prawda? Złoto, bogactwa... wyjścia awaryjne..." },

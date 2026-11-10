@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/JobMch630_02906",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/JobMch630_02906#TEXT_JOBMCH630_02906_SEQ_00", "hash": "738EDFF467A6C0A2", "target": "Hilda ma do ciebie prośbę." },
     { "gameKey": "quest/029/JobMch630_02906#TEXT_JOBMCH630_02906_SEQ_01", "hash": "C94419A5B9D32EF2", "target": "Hilda informuje cię, że straży powierzono ochronę nadchodzącej ceremonii pasowania Rycerzy Świątynnych. Ma uczestniczyć w spotkaniu poświęconym temu zadaniu i przyznaje, że twoja obecność może pomóc jej powściągnąć niezbyt uprzejme zapędy wobec pewnego szlachetnie urodzonego rycerza. Udaj się do Zgromadzenia Rycerzy Niebios i porozmawiaj z ser Muscadainem." },

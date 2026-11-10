@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/KinGbb101_04848",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/048/KinGbb101_04848#TEXT_KINGBB101_04848_SEQ_00", "hash": "5911647A600E99B5", "target": "Pomoc temu tkaczowi może być początkiem zupełnie nowej przygody.<br><br>※ To zadanie odblokowuje profesję Viper." },
     { "gameKey": "quest/048/KinGbb101_04848#TEXT_KINGBB101_04848_SEQ_01", "hash": "28B9F7DC6F109974", "target": "Podczas spaceru ulicami Ul'dah spotykasz zaniepokojonego tkacza, który potrzebuje pomocy. Jeden z klientów gildii odmawia zapłaty za strój uszyty na miarę, choć powód nie jest do końca jasny. Na prośbę tkacza zgadzasz się zbadać sprawę. Szukasz mężczyzny z parą mieczy na plecach, który nazywa siebie „Viper”." },

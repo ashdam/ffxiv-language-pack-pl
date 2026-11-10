@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla302_04983",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla302_04983#TEXT_KINGLA302_04983_SEQ_00", "hash": "EFFCC31B782CBE54", "target": "Xeerol Ja nie może się doczekać wyciskania soków." },
     { "gameKey": "quest/049/KinGla302_04983#TEXT_KINGLA302_04983_SEQ_01", "hash": "73B94C175C1851C2", "target": "Xeerol Ja zleca ci przygotowanie Cherimoya Juice.<br><br>※ Minimalna wartość kolekcjonerska tej dostawy wynosi 170. Dostarczenie przedmiotów o wartości co najmniej 340 zapewni większe nagrody." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/JobSmn700_02629",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/JobSmn700_02629#TEXT_JOBSMN700_02629_SEQ_00", "hash": "A02620A0C5680353", "target": "Y'mhitra jest gotowa wyruszyć na Azys Lla." },
     { "gameKey": "quest/026/JobSmn700_02629#TEXT_JOBSMN700_02629_SEQ_01", "hash": "5988189007B8B963", "target": "Y'mhitra przekazuje ci informacje zebrane przed wyprawą do ośrodka badawczego na Azys Lla i oznajmia, że kapitan Wolf wraz z oddziałem magów zapewni wsparcie wojskowe. Przygotuj się do podróży, a potem spotkaj z towarzyszami w Helix." },

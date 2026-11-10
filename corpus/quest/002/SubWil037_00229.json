@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubWil037_00229",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubWil037_00229#TEXT_SUBWIL037_00229_SEQ_00", "hash": "40F5350A390EDD92", "target": "Galfridus z The Silver Bazaar chce odzyskać przynęty wędkarskie skradzione przez goblin mugger." },
     { "gameKey": "quest/002/SubWil037_00229#TEXT_SUBWIL037_00229_SEQ_01", "hash": "413906644CDB8234", "target": "Galfridus twierdzi, że goblin mugger ukradły część jego sprzętu wędkarskiego. Znajdź sprawców na północny wschód od The Silver Bazaar, zabij ich za tę niewybaczalną zbrodnię i odzyskaj dwie miedziane przynęty." },

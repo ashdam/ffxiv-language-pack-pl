@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdr204_03034",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdr204_03034#TEXT_STMBDR204_03034_SEQ_00", "hash": "5C62DE97DE4DDFE7", "target": "Wedge czeka, by cię pożegnać." },
     { "gameKey": "quest/030/StmBdr204_03034#TEXT_STMBDR204_03034_SEQ_01", "hash": "7CA5A32BD0DF2A3C", "target": "Wedge informuje cię, że Cid i Alpha zeszli już do Ziewnięcia. Zachęca cię, by ruszyć za nimi, gdy tylko wszystko będzie gotowe." },

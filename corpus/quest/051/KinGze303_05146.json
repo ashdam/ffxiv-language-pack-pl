@@ -1,6 +1,6 @@
 {
   "conversation": "quest/051/KinGze303_05146",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze303_05146#TEXT_KINGZE303_05146_SEQ_00", "hash": "5E321E497670C762", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Kayamene chce dowiedzieć się więcej o dziwnych białych kryształach znalezionych w Paszczy Sansheyi." },
     { "gameKey": "quest/051/KinGze303_05146#TEXT_KINGZE303_05146_SEQ_01", "hash": "A9A9C8D4B7703813", "target": "Kayamene zna kobietę, która wie o tej okolicy więcej niż ktokolwiek inny. Proponuje spotkać się z nią w pobliskiej wiosce Luwateninyawawsa, gdzie sama przyszła na świat i się wychowała.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu." },

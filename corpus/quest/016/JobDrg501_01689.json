@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobDrg501_01689",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobDrg501_01689#TEXT_JOBDRG501_01689_SEQ_00", "hash": "88D4297A74F28BAA", "target": "Ser Alberic gromadzi posiłki przed bitwą." },
     { "gameKey": "quest/016/JobDrg501_01689#TEXT_JOBDRG501_01689_SEQ_01", "hash": "696EEA602FCAE738", "target": "Ser Alberic donosi o zastępie smoków siejących spustoszenie na ziemiach Ishgardu. Wysłano najlepszych smoczych rycerzy Świętej Stolicy, lecz przewaga liczebna wroga utrudnia im zwycięstwo. Jeden oddział toczy właśnie zaciętą walkę na północny zachód od Placówki Whitebrim i pilnie potrzebuje wsparcia. Ser Alberic zamierza odpowiedzieć na wezwanie i prosi cię o dołączenie. Pospiesz na miejsce bitwy." },

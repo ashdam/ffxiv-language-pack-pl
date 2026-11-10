@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CmnGscEMJGameTable_00547",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_001", "hash": "E231D45A152BC55B", "target": "Ten stół jest przeznaczony dla początkujących. Chcesz zagrać w mahjonga z przeciwnikami: <sheet(Addon,12346,0)>, <sheet(Addon,12347,0)> i <sheet(Addon,12348,0)>?" },
     { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_002", "hash": "DAC5515586012753", "target": "Ten stół jest przeznaczony dla średnio zaawansowanych graczy. Chcesz zagrać w mahjonga z przeciwnikami: <sheet(Addon,12349,0)>, <sheet(Addon,12350,0)> i <sheet(Addon,12351,0)>?" },

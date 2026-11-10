@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/SubPst004_01485",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/SubPst004_01485#TEXT_SUBPST004_01485_SEQ_00", "hash": "5587B3130B72B6CB", "target": "Zastępca listonosza moogle'a spogląda na torbę z listami, wyraźnie drżąc." },
     { "gameKey": "quest/014/SubPst004_01485#TEXT_SUBPST004_01485_SEQ_01", "hash": "A376C2697DA3D0C6", "target": "Ze skrzydłami drgającymi nerwowo i zjeżonym futrem zastępca listonosza moogle'a podaje ci paczkę zaadresowaną do badaczki imieniem Marcette. Postaraj się zapomnieć o smrodzie przesyłki i dziwnym zachowaniu moogle'a, doręczając ją pod Wieżę Dunstana, gdzie Marcette prowadzi badania terenowe." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobNin560_01686",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobNin560_01686#TEXT_JOBNIN560_01686_SEQ_00", "hash": "5E36C424938946B2", "target": "Dostrzegasz w dłoni Oboro list z imieniem Jacke'a." },
     { "gameKey": "quest/016/JobNin560_01686#TEXT_JOBNIN560_01686_SEQ_01", "hash": "378412E1744523C9", "target": "Sieć informatorów Jacke'a zdobyła wiadomości o ostatnim nieodnalezionym skarbie Yatsurugi: sztylecie. Gdy Oboro czeka na przybycie księżniczki Yuki i Akagiego do magazynu w dokach, odwiedź gildię łotrzyków i odbierz informacje od Jacke'a." },

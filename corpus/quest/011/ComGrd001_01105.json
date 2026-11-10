@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/ComGrd001_01105",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_SEQ_00", "hash": "52F5E0921C06D646", "target": "Vorsaile Heuloix chce, by twój trening rozpoczął się na dobre." },
     { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_SEQ_01", "hash": "4A9DCBEB78082DA2", "target": "Wysoki komendant Żmii Vorsaile Heuloix wiąże wielkie nadzieje z twoją przyszłością w Zakonie Dwóch Żmij i chce wysłać cię na trening, który pozwoli ci w pełni wykorzystać swój potencjał. Wsiądź na prom w Moraby Drydocks w lower La Noscea, by dotrzeć do Wolves' Den. Na miejscu odszukaj kapitana Maelstromu imieniem Berkoeya Loetahlsyn." },

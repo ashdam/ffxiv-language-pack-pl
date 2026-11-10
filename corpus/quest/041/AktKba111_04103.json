@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKba111_04103",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKba111_04103#TEXT_AKTKBA111_04103_SEQ_00", "hash": "464D25C238F0F3BC", "target": "Strażnik Splecionych Węży chce wznowić polowanie." },
     { "gameKey": "quest/041/AktKba111_04103#TEXT_AKTKBA111_04103_SEQ_01", "hash": "455FAD8AA10A8B55", "target": "Po przejrzeniu góry raportów Zakon Dwóch Żmij znalazł wspólny wątek: ostatnio Gleipnira najczęściej widywano w South Shroud. Kan<-->E<-->Senna już wyruszyła do Rootslake i prosi, by spotkać się z nią na miejscu." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/BanSyl104_01260",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_00", "hash": "F177E1DB5CAE8B39", "target": "Tonaxia obawia się o los innych sylfów." },
     { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_01", "hash": "444C1BE43E441D9A", "target": "Dotknięci sylfowie spłatali straszliwego figla przyjaciołom Tonaxii. Tkwią teraz w brzuchach przerażających, pożerających liście paszczorośli. Aby uratować ich przed lepkim końcem, najpierw udaj się do Śpiewu Skowronka i zbierz sok z sadzonek leśnego drzewa." },

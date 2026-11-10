@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/BanKjn506_02996",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_SEQ_00", "hash": "331076C39B04CF12", "target": "Zwykłe szczątki niesione przez fale czy nieodkryty skarb? Zukin prosi cię o sprawdzenie.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
     { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_00", "hash": "053A57D89D05DE27", "target": "Zebrać szczątki unoszące się na wodach Ruby Sea" },

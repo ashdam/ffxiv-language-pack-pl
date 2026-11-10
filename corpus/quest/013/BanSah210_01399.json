@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanSah210_01399",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanSah210_01399#TEXT_BANSAH210_01399_SEQ_00", "hash": "DDA7FE8540497598", "target": "Houu otrzymał wieści o statku handlowym w tarapatach i chce wysłać cię na ratunek." },
     { "gameKey": "quest/013/BanSah210_01399#TEXT_BANSAH210_01399_SEQ_01", "hash": "6BB4E30A566344E9", "target": "Koralowe Trójzęby zajęły statek handlowy, by opanować wątpliwą sztukę posyłania okrętów brzegołazów na dno. Musisz wejść na pokład i zabić czterech surfspine Sahagin. Ponieważ otwarte morze nie ma litości dla delikatnej skóry brzegołazów takich jak ty, poproś tresera morskich bestii Pahh o stwora elbst na tę podróż." },

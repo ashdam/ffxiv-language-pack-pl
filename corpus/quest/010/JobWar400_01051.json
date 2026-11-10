@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWar400_01051",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWar400_01051#TEXT_JOBWAR400_01051_SEQ_00", "hash": "E77DC2B084E28C52", "target": "Curious Gorge chce podzielić się z tobą wstrząsającym odkryciem dotyczącym przeszłości jego plemienia." },
     { "gameKey": "quest/010/JobWar400_01051#TEXT_JOBWAR400_01051_SEQ_01", "hash": "F852422CBF925FB5", "target": "Curious Gorge ujawnia tragiczną historię swojego plemienia. Okazuje się, że jego przodków zaczęto odtrącać, gdy ludzie, których mieli chronić, uznali wojowników za bestie dziksze od zabijanych przez nich potworów. Przysięgając własnymi rękami przywrócić dobre imię plemienia, Curious Gorge prosi cię o pomoc w obronie osady Wineport. Udaj się tam po wytyczne od kapitana milicji." },

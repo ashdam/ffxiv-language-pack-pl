@@ -1,6 +1,6 @@
 {
   "conversation": "quest/052/BanPel106_05204",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel106_05204#TEXT_BANPEL106_05204_SEQ_00", "hash": "9D29C99EEA583BD7", "target": "Yubli martwi się o opóźnioną dostawę.<br><br>※Poziom trudności tej misji dostosowano do twojego obecnego poziomu. Możesz ją kontynuować wyłącznie tą samą klasą lub jobem co w chwili jej przyjęcia." },
     { "gameKey": "quest/052/BanPel106_05204#TEXT_BANPEL106_05204_TODO_00", "hash": "BE4201ED89E26FFE", "target": "Odszukać sumiennego kuriera w pobliżu Szlaku Słońca" },

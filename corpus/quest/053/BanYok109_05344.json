@@ -1,6 +1,6 @@
 {
   "conversation": "quest/053/BanYok109_05344",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok109_05344#TEXT_BANYOK109_05344_SEQ_00", "hash": "25250B66D82B4FDC", "target": "Vuyargur potrzebuje pomocy, by sprostać nagłemu wzrostowi popytu.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
     { "gameKey": "quest/053/BanYok109_05344#TEXT_BANYOK109_05344_SEQ_01", "hash": "2B58A9C2949CE482", "target": "Porozmawiać ze speszonym rzemieślnikiem w Worlar's Echo" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/ClsLnc005_00438",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ClsLnc005_00438#TEXT_CLSLNC005_00438_SEQ_00", "hash": "347503E381919959", "target": "Mistrz gildii Ywain chce, by inni mistrzowie sztuki kopijniczej podzielili się z tobą swoją wiedzą." },
     { "gameKey": "quest/004/ClsLnc005_00438#TEXT_CLSLNC005_00438_SEQ_01", "hash": "1C68813C114DB06A", "target": "Ywain wysyła cię na naukę do trzech słynnych kopijników. Pierwszy z nich to Matheomi. Znajdziesz go w Wieży Amarissaix w East Shroud." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/BanKjn001_02973",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_SEQ_00", "hash": "F9D10EA23CCBC337", "target": "Ten rozdrażniony wieśniak wypatruje czegoś na morzu z narastającym niepokojem.<br>※Poziom trudności tego zadania zostanie zsynchronizowany z twoim aktualnym poziomem." },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_SEQ_01", "hash": "E560A772F5D86CE4", "target": "Mieszkaniec Isari cierpliwie czekał na powrót córki z Kugane, ale dłużej już nie może. Obawiając się najgorszego, prosi cię o poszukanie jej wzdłuż brzegu Sakazuki.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },

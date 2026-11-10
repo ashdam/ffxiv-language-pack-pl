@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobMnk500_01066",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SEQ_00", "hash": "5BC06FFB7120940A", "target": "Profesor Erik wygląda na przeszczęśliwego." },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SEQ_01", "hash": "6F4F745852DF3A91", "target": "Widargelt zniknął zaraz po wysłuchaniu przełomowego odkrycia profesora Erika. Profesor podejrzewa, że udał się do Wodospadów Silvertear w Mor Dhona─miejsca, które jego zdaniem pozwala otworzyć siódmą czakrę. Odszukaj Widargelta i spróbuj przemówić mu do rozsądku." },

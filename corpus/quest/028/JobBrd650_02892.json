@@ -1,6 +1,6 @@
 {
   "conversation": "quest/028/JobBrd650_02892",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/JobBrd650_02892#TEXT_JOBBRD650_02892_SEQ_00", "hash": "AA6CF37A3964712D", "target": "Sanson jest gotów dopaść Nourvala." },
     { "gameKey": "quest/028/JobBrd650_02892#TEXT_JOBBRD650_02892_SEQ_01", "hash": "EE93026AF31A5681", "target": "Po długiej obserwacji Sanson i Guydelot są pewni, że Nourval współpracuje z zamaskowanymi bandytami. Aby przyłapać go na gorącym uczynku, Sanson planuje wywabić go z twierdzy i uśpić czujność. Odszukaj cywila i przekonaj go, że droga jest wolna." },

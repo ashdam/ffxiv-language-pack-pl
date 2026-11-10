@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubWil001_00150",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_00", "hash": "C282EDB8A76B23DD", "target": "Geltherowi nie podoba się, jak na niego patrzysz. Puści to jednak płazem, jeśli przekażesz dla niego wiadomość." },
     { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_01", "hash": "EBEFC4ACBB430F80", "target": "Nieco rozwścieczony Gelther żąda, by przekazać dość barwne ultimatum Didilacie, który nie spłacił długu. Odszukaj go i uświadom mu powagę sytuacji." },

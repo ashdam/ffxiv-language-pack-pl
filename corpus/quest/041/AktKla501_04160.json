@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKla501_04160",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla501_04160#TEXT_AKTKLA501_04160_SEQ_00", "hash": "18D34E5F005A5627", "target": "T'laqa Tia potrzebuje pomocy przy badaniach." },
     { "gameKey": "quest/041/AktKla501_04160#TEXT_AKTKLA501_04160_SEQ_01", "hash": "89394C70A9DC85B6", "target": "Zagadujesz docenta T'laqę Tię, członka Wydziału Eterologii specjalizującego się w podwodnych prądach eterycznych. Zrządzeniem okrutnego losu naukowiec cierpi na silną chorobę eteryczną. Podejrzewając, że nie rozumiesz powagi jego sytuacji, prosi, by towarzyszyć mu na plac eterytu i przekonać się osobiście, jak źle z nim jest." },

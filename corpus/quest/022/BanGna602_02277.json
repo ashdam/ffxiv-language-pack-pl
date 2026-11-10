@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanGna602_02277",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanGna602_02277#TEXT_BANGNA602_02277_SEQ_00", "hash": "CC7E6D16A6A420E0", "target": "Vath keeneye mocno ściska paczkę w szponach.<br>※Trudność tego zadania zostanie dostosowana do twojego obecnego poziomu." },
     { "gameKey": "quest/022/BanGna602_02277#TEXT_BANGNA602_02277_SEQ_01", "hash": "47AA7B5A351173C6", "target": "Wszystkie próby dostarczenia paczki do smoka o imieniu Uhm Ala kończyły się dla Vath keeneye żałosną porażką. Oprócz imienia starannie wypisanego na przesyłce wie tylko, że adresat ma żółte łuski. Niestety wiele smoków z wież pasuje do tego opisu. Uznaje, że przy twoim doświadczeniu poszukiwacza przygód możesz mieć więcej szczęścia, i prosi o przejęcie zadania. W trybie czatu <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)> wpisz na klawiaturze lub klawiaturze ekranowej dowolną wypowiedź zawierającą imię „Uhm Ala”, by odnaleźć smoka czekającego na paczkę.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Możesz je kontynuować wyłącznie w tej samej klasie lub tym samym jobie co podczas przyjmowania zadania." },

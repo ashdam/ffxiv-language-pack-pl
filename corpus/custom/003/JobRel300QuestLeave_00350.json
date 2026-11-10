@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/JobRel300QuestLeave_00350",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_000", "hash": "C0DB139573411787", "target": "Och, <split(<string(gstr1)>, ,1)>! Nie spodziewałem się tak szybkiego powrotu. Czy... czy coś się stało?" },
     { "gameKey": "custom/003/JobRel300QuestLeave_00350#TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_000", "hash": "822B46AC159ED218", "target": "Powiedzieć mu, że chcesz porzucić pracę nad animą?" },

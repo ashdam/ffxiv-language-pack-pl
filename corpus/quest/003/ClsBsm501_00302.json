@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/ClsBsm501_00302",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SEQ_00", "hash": "5B2CD4ACA4C8D34C", "target": "Mistrz kuźni Brithael ma szczególne zlecenie, któremu tylko ty sprostasz." },
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SEQ_01", "hash": "F11FECA3F241B237", "target": "Dzięki twoim dotychczasowym staraniom gildia ma więcej pracy niż kiedykolwiek. Niezliczeni klienci pytają właśnie o ciebie, ale Brithael postanowił przyjąć tylko jedno takie zlecenie. Porozmawiaj z Faezahrem, by poznać jego szczegóły." },

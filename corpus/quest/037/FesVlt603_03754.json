@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/FesVlt603_03754",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/FesVlt603_03754#TEXT_FESVLT603_03754_SEQ_00", "hash": "4DC27E806BBFE8CF", "target": "Bert bynajmniej nie kryje przekonania, że twój głos już należy do niego.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/037/FesVlt603_03754#TEXT_FESVLT603_03754_SEQ_01", "hash": "A9AF2F8A9CD9935A", "target": "Rozmawiasz z Bertem i informujesz go, że jego propozycja zdobyła twój głos zaufania. Wyraźnie uważając taki wynik za nieunikniony od samego początku, rusza zawiadomić Lisette, niemal z góry zakładając, że podążysz tuż za nim.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

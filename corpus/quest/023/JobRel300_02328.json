@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/JobRel300_02328",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/JobRel300_02328#TEXT_JOBREL300_02328_SEQ_00", "hash": "90A00689CBD746E9", "target": "Ardashir pogrążył się w myślach.<br>※Zmiana klasy lub joba uniemożliwi postępy w tej misji." },
     { "gameKey": "quest/023/JobRel300_02328#TEXT_JOBREL300_02328_SEQ_01", "hash": "2F357884643A6225", "target": "Twoja więź z animą jest silniejsza niż kiedykolwiek. Choć jej dalszy rozwój wydaje się naturalną koleją rzeczy, Ardashir wierzy, że potrafi go przyspieszyć. Proponuje krótką podróż do Idyllshire na spotkanie ze znajomą o imieniu Ulan. Ta badaczka i miłośniczka Carbuncle'a poświęciła życie badaniu magicznych istot i metod ich wzmacniania. Jest niemal pewien, że jej praca stanowi klucz do uwolnienia potencjału animy. Wyruszasz więc do Idyllshire.<br><br>※Nie możesz kontynuować misji w innej klasie lub jobie niż w chwili jej przyjęcia.<br>※Tej misji nie można porzucić przez dziennik. Aby ją porzucić, w dowolnej chwili porozmawiaj z Ardashirem." },

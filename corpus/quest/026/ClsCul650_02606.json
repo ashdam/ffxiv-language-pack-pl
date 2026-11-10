@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/ClsCul650_02606",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_SEQ_00", "hash": "EFB924BBC299A7C4", "target": "Raulf zwietrzył smakowitą pogłoskę." },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_SEQ_01", "hash": "80219D6CD915B2E0", "target": "Rozważając nowe potrawy Dalekiego Wschodu, Raulf dowiedział się, że starsi Domańczycy często cierpią na niestrawność przez ciężkie, tłuste jedzenie popularne w Eorzei. Na takie dolegliwości najlepszy jest <italic(1)>udon<italic(0)>, makaron w lekkim, rozgrzewającym bulionie. Raulf chce podawać go starszym mieszkańcom. Bulion powstaje z gotowanej suszonej ryby, więc tobie przypada wyprawa do Limsy Lominsy po najlepszy dostępny składnik. Zacznij od wizyty w restauracji Bismarck i rozmowy z Lyngsathem." },

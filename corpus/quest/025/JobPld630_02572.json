@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobPld630_02572",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobPld630_02572#TEXT_JOBPLD630_02572_SEQ_00", "hash": "9AA17B9E4B40A317", "target": "Wyczekujące spojrzenie Mylli mówi ci, że nadeszła pora." },
     { "gameKey": "quest/025/JobPld630_02572#TEXT_JOBPLD630_02572_SEQ_01", "hash": "4C3860DDF0A2FCB5", "target": "Rozpoczynasz turniej. W każdej grupie walczy osiem osób. Aby dojść do finału, musisz pokonać trzech rywali. Twoim pierwszym przeciwnikiem będzie Bartholomew z Przysięgłych Sułtanki. Mylla każe udać się do wejścia Koloseum i czekać na wezwanie rejestratora." },

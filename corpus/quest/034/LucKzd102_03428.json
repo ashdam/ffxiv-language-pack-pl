@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzd102_03428",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd102_03428#TEXT_LUCKZD102_03428_SEQ_00", "hash": "DB381995D496ADC1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Tonatiuh prosi o twój powrót do Wolekdorfu z jego przeprosinami." },
     { "gameKey": "quest/034/LucKzd102_03428#TEXT_LUCKZD102_03428_SEQ_01", "hash": "DDA18B648CC1222B", "target": "Tonatiuh jest wdzięczny za odnalezienie go, ale nie chce wracać z tobą do Wolekdorfu. Prosi, by przekazać Sandmanowi jego przeprosiny.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu." },

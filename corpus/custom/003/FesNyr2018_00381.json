@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/FesNyr2018_00381",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/FesNyr2018_00381#TEXT_FESNYR2018_00381_DOGSERVER_000_000", "hash": "79A1DF93D6ED9948", "target": "Witam, <if(gnum4,proszę pani,proszę pana)>, i życzę pomyślnego roku Psa. Jestem poruczniczką Psa z dalekowschodniej delegacji, która przybyła na te brzegi dzielić się radością naszej tradycji Niebiańskiego Przełomu. Czy chce <if(gnum4,pani,pan)> o coś zapytać?" },
     { "gameKey": "custom/003/FesNyr2018_00381#TEXT_FESNYR2018_00381_DOGSERVER_000_001", "hash": "0A610E55846537DD", "target": "Ach, oto nasz wzór wszelkich psich cnót. Jeśli chce <if(gnum4,pani,pan)> coś wiedzieć, pozostaję niezmiennie do usług." },

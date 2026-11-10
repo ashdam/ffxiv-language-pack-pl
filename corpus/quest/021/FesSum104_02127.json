@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/FesSum104_02127",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/FesSum104_02127#TEXT_FESSUM104_02127_SEQ_00", "hash": "8B01048F000EB6A9", "target": "P'obyano czeka, aż ktoś zapyta ją o specjalną nagrodę.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/021/FesSum104_02127#TEXT_FESSUM104_02127_SEQ_01", "hash": "AB1955DB326405EA", "target": "P'obyano z zapałem wyjaśnia, że aby otrzymać jej specjalną nagrodę, musisz dostarczyć siedem żetonów „Faire tokens”. Wykonuj rozmaite zadania przy plaży i wróć do niej, gdy zbierzesz siedem żetonów.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie Lodestone." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/042/AktKzg004_04279",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzg004_04279#TEXT_AKTKZG004_04279_SEQ_00", "hash": "983E395FD8ADADCB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Nie ma to jak porządne kichnięcie, co Pheidias może potwierdzić." },
     { "gameKey": "quest/042/AktKzg004_04279#TEXT_AKTKZG004_04279_TODO_00", "hash": "78D6CF49ACBB15E4", "target": "Porozmawiać z opiekunem bestii z Anagnorisis" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobSmn400_01093",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobSmn400_01093#TEXT_JOBSMN400_01093_SEQ_00", "hash": "41C77573BE831D23", "target": "Y'mhitra chce podzielić się z tobą wynikami dochodzenia." },
     { "gameKey": "quest/010/JobSmn400_01093#TEXT_JOBSMN400_01093_SEQ_01", "hash": "F6155F6663650935", "target": "Jako członkini Synów Świętego Coinacha Y'mhitra ma dostęp do zapisków, które pozwoliły jej zawęzić poszukiwania tajemniczego napastnika. Choć odnalazła niewiele poza nieaktualnym wpisem w rejestrze wojskowym i imieniem─Tristan─zdołała też wytropić jednego z jego dawnych towarzyszy broni. Udaj się do Małego Ala Mhigo i porozmawiaj z byłym żołnierzem Nieśmiertelnych Płomieni." },
