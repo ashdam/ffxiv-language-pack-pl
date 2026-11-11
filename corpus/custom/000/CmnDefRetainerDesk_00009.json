@@ -83,7 +83,7 @@
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_TITLE", "hash": "76808F1C7476B7A8", "target": "Przydomek retainera" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_MESSAGE0", "hash": "F16D726DF3E375C5", "target": "Nadaj retainerowi przydomek." },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_MESSAGE1", "hash": "76421036B26241CA", "target": "Nazwy muszą mieć co najmniej 3 znaki i mogą zawierać litery, apostrofy oraz łączniki. Łączniki nie mogą jednak występować kolejno po sobie ani bezpośrednio przed apostrofem lub po nim." },
-    { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_HEAD", "hash": "D69E98ED329BD364", "target": "" },
+    { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_HEAD", "hash": "D69E98ED329BD364", "target": " " },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_CANCEL_CONFIRM", "hash": "818FD23AF7DB621B", "target": "Na pewno anulować zatrudnianie?" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_CREATE_CONFIRM", "hash": "C95A88A1CCC1BE6A", "target": "Zatrudnić osobę o przydomku <string(lstr1)>?" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_ASK_CREATE", "hash": "77EC3D729F680DD4", "target": "Zatrudnić retainera?" },
