@@ -24,14 +24,14 @@
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_100", "hash": "42E23DC77ADBA39E", "target": "Wygląda też na to, że twój poziom jest zbyt niski, by kontynuować główny scenariusz. Aktywności takie jak lochy czy FATE to świetny sposób na zdobywanie doświadczenia i poziomów!" },
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_004", "hash": "0A79A1D940A15C76", "target": "Pamiętaj: przedmioty otrzymane od listonosza moogle'a mają pomóc ci w podróży, więc korzystaj z nich, stawiając czoła nadchodzącym wyzwaniom." },
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_005", "hash": "83F109FC8307A592", "target": "Świat Hydaelyn czeka. Niech światło Kryształu prowadzi cię w drodze!" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_001", "hash": "6C15277995B47671", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_002", "hash": "0F19A9315B00F40F", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_003", "hash": "043F384394378406", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_004", "hash": "4B416E401C3F4D90", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_005", "hash": "2EA084F590556FEA", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_006", "hash": "AD8E45541F5ED852", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_007", "hash": "525DD8FB3524868C", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_008", "hash": "B02FB7921356B148", "target": "" },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_009", "hash": "FD234FC1D9C1633B", "target": "" }
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_001", "hash": "6C15277995B47671", "target": "Czytasz przedmiot „<ennoun(Item,3,lnum1,1,1)>” i natychmiast kończysz wszystkie zadania głównego scenariusza aż do misji „We mgłę”!" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_002", "hash": "0F19A9315B00F40F", "target": "Możesz teraz przyjąć zadanie „Śladami losu” i poznać prolog wydarzeń z Evercold." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_003", "hash": "043F384394378406", "target": "Najpierw musisz jednak osiągnąć poziom 100 w jednej z klas lub jobów bojowych bądź magicznych." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_004", "hash": "4B416E401C3F4D90", "target": "Lochy do zdobywania poziomów, lochy wariantowe i głębokie lochy to świetny sposób na zdobywanie doświadczenia i kolejnych poziomów." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_005", "hash": "2EA084F590556FEA", "target": "Przed wyruszeniem na nowe przygody możesz zajrzeć do księgi <italic(1)>„Niekończąca się podróż”<italic(0)> w pokoju zajazdu jednego z głównych miast i powspominać dawne podróże." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_006", "hash": "AD8E45541F5ED852", "target": "Możesz też w dowolnym momencie ponownie rozegrać ukończone zadania w trybie New Game+." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_007", "hash": "525DD8FB3524868C", "target": "Znajomość minionych wydarzeń pozwoli ci lepiej zrozumieć─i docenić─kolejną przygodę." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_008", "hash": "B02FB7921356B148", "target": "Podarunki od listonosza moogle'a pomogą ci w podróży, więc korzystaj z nich, stawiając czoła nadchodzącym wyzwaniom." },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_009", "hash": "FD234FC1D9C1633B", "target": "Niech światło Kryształu prowadzi cię w drodze!" }
   ]
 }

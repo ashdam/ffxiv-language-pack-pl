@@ -9,8 +9,8 @@
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00001", "hash": "4796F1CC20C77395", "target": "Mogpendium okaże się bezcennym źródłem informacji podczas wydarzenia Skarbiec moogle’a, kupo!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00002", "hash": "2583B13F26A526A7", "target": "Wczytaj się w jego treść, by poznać najlepsze sposoby zdobywania nietypowych tomolitów, a potem wykorzystaj tę wiedzę, by napełnić torby!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003", "hash": "6EF7F5FF2E39E7A8", "target": "A gdy ciężar tomolitów stanie się nie do zniesienia, przynieś je do mnie, a dam ci za nie najróżniejsze rzadkie i niezwykłe przedmioty!" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "" }
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "Ach, wygląda na to, że w Mogpendium wkradło się kilka drobnych błędów. Oznaczyłem już jako ukończone <if([lnum1==1],wyzwania „Minimog Challenges”,<if([lnum1==2],cele tygodniowe,<if([lnum1==3],wyzwania „Minimog Challenges” i cele tygodniowe,)>)>)> z szóstego tygodnia pierwszego polowania astronomicznego. Tylko nie mów mojemu szefowi, kupo!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "Podany w Mogpendium termin ukończenia niektórych aktywności był błędny i różnił się od daty zakończenia wydarzenia." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "W ramach rekompensaty dla osób, które nie mogły podjąć tych aktywności w wyznaczonym czasie, wędrowny moogle pomaga zaliczyć związane z nimi cele." }
   ]
 }
