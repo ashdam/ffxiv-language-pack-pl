@@ -1,4 +1,4 @@
-> We currently have no Polish language reviewer on the team. If you are a native Polish speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+> We need a native Polish speaker to review the translation. To help, contact [mini@eorzealocalized.com](mailto:mini@eorzealocalized.com).
 
 # Language pack po polsku do FFXIV (nieoficjalny)
 
