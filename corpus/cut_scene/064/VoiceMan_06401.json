@@ -11,7 +11,7 @@
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000070_THEMIS", "hash": "9F13F398976A1C8B", "target": "...Rozumiem. A zatem historia Hephaistosa została odkryta." },
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000080_THEMIS", "hash": "AB2F3820E97BD612", "target": "Podobnie jak natura naszego tajemniczego kryształu. Pytania, które zaprowadziły nas do Pandæmonium, znalazły odpowiedzi. Wkrótce powróci porządek." },
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000090_THEMIS", "hash": "5421A93B212BA34B", "target": "I ja mogę odejść, wolny od żalu. Nie zdołałbym dotrzeć do tego punktu bez ciebie, <if(gnum4,przyjaciółko,przyjacielu)>." },
-    { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000100_THEMIS", "hash": "3E614C928DCA6DFF", "target": "" },
+    { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000100_THEMIS", "hash": "3E614C928DCA6DFF", "target": " " },
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000110_THEMIS", "hash": "62FADD19D7E98E7B", "target": "Tak wiele odkryć, lecz jest ich więcej, jeśli zechcesz sięgnąć nieco głębiej." },
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000120_THEMIS", "hash": "FFFE1CBBCE611A65", "target": "Duszę Elidibusa wydobyto z morza eteru i z niej mnie stworzono. Zapewne choć trochę ciekawi cię, co pamiętam. Co czuję..." },
     { "gameKey": "cut_scene/064/VoiceMan_06401#TEXT_VOICEMAN_06401_000130_THEMIS", "hash": "BF89C2EFED399779", "target": "Zasługujesz na odpowiedzi, których mogę udzielić. Choć moje wspomnienia z Pandæmonium są wyraźne, cała reszta jest... w najlepszym razie mglista." },

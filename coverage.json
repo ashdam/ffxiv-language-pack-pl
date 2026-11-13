@@ -1,21 +1,21 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 618064,
-  "total": 618385,
-  "percent": 99.9,
-  "chars": 55428573,
+  "translated": 639572,
+  "total": 639572,
+  "percent": 100,
+  "chars": 58191226,
   "unresolved": 5785,
   "groups": [
     {
       "expansion": null,
       "content": "Interface menus",
-      "translated": 67668,
+      "translated": 67712,
       "total": 67712
     },
     {
       "expansion": null,
       "content": "Quests",
-      "translated": 34855,
+      "translated": 34939,
       "total": 34939
     },
     {
@@ -33,7 +33,7 @@
     {
       "expansion": null,
       "content": "Other",
-      "translated": 17219,
+      "translated": 17222,
       "total": 17222
     },
     {
@@ -45,44 +45,44 @@
     {
       "expansion": null,
       "content": "Floating names",
-      "translated": 80777,
+      "translated": 80865,
       "total": 80865
     },
     {
       "expansion": null,
       "content": "Duties and field operations",
-      "translated": 23090,
+      "translated": 23094,
       "total": 23094
     },
     {
       "expansion": null,
       "content": "Character",
-      "translated": 14484,
+      "translated": 14527,
       "total": 14527
     },
     {
       "expansion": null,
       "content": "Chat and system messages",
-      "translated": 12869,
+      "translated": 12877,
       "total": 12877
     },
     {
       "expansion": null,
       "content": "Collections and customization",
-      "translated": 14841,
+      "translated": 14848,
       "total": 14848
     },
     {
       "expansion": null,
       "content": "Dialogue and world lore",
-      "translated": 43158,
+      "translated": 43194,
       "total": 43194
     },
     {
       "expansion": null,
       "content": "Items",
-      "translated": 15309,
-      "total": 15309
+      "translated": 36496,
+      "total": 36496
     },
     {
       "expansion": null,
@@ -93,7 +93,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Quests",
-      "translated": 79068,
+      "translated": 79072,
       "total": 79072
     },
     {
@@ -173,9 +173,9 @@
     {
       "expansion": null,
       "content": "Item",
-      "translated": 21187,
-      "total": 173464,
-      "wholeSheet": true
+      "translated": 0,
+      "total": 152277,
+      "wholeSheet": false
     },
     {
       "expansion": null,
@@ -215,8 +215,8 @@
       "sheets": [],
       "counts": {
         "total": 304233,
-        "translated": 304145,
-        "pending": 88,
+        "translated": 304233,
+        "pending": 0,
         "stale": 0,
         "excluded": 137,
         "excludedTranslated": 13,
@@ -237,8 +237,8 @@
           ],
           "counts": {
             "total": 264764,
-            "translated": 264760,
-            "pending": 4,
+            "translated": 264764,
+            "pending": 0,
             "stale": 0,
             "excluded": 99,
             "excludedTranslated": 0,
@@ -256,8 +256,8 @@
               ],
               "counts": {
                 "total": 264263,
-                "translated": 264259,
-                "pending": 4,
+                "translated": 264263,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 98,
                 "excludedTranslated": 0,
@@ -348,8 +348,8 @@
                   "sheets": [],
                   "counts": {
                     "total": 77277,
-                    "translated": 77273,
-                    "pending": 4,
+                    "translated": 77277,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 91,
                     "excludedTranslated": 0,
@@ -1958,8 +1958,8 @@
                       "sheets": [],
                       "counts": {
                         "total": 4427,
-                        "translated": 4426,
-                        "pending": 1,
+                        "translated": 4427,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 1,
                         "excludedTranslated": 0,
@@ -2123,13 +2123,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 540,
-                            "translated": 539,
-                            "pending": 1,
+                            "translated": 540,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 87270,
-                            "percent": 99.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2140,13 +2140,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 540,
-                                "translated": 539,
-                                "pending": 1,
+                                "translated": 540,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 87270,
-                                "percent": 99.8
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2236,8 +2236,8 @@
                       "sheets": [],
                       "counts": {
                         "total": 8943,
-                        "translated": 8940,
-                        "pending": 3,
+                        "translated": 8943,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 45,
                         "excludedTranslated": 0,
@@ -2253,13 +2253,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 647,
-                            "translated": 646,
-                            "pending": 1,
+                            "translated": 647,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 95560,
-                            "percent": 99.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2270,13 +2270,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 647,
-                                "translated": 646,
-                                "pending": 1,
+                                "translated": 647,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 95560,
-                                "percent": 99.8
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2327,13 +2327,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 2015,
-                            "translated": 2013,
-                            "pending": 2,
+                            "translated": 2015,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 6,
                             "excludedTranslated": 0,
                             "chars": 265322,
-                            "percent": 99.9
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2344,13 +2344,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2015,
-                                "translated": 2013,
-                                "pending": 2,
+                                "translated": 2015,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 6,
                                 "excludedTranslated": 0,
                                 "chars": 265322,
-                                "percent": 99.9
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -12051,8 +12051,8 @@
           ],
           "counts": {
             "total": 13254,
-            "translated": 13252,
-            "pending": 2,
+            "translated": 13254,
+            "pending": 0,
             "stale": 0,
             "excluded": 13,
             "excludedTranslated": 13,
@@ -12070,8 +12070,8 @@
               ],
               "counts": {
                 "total": 5374,
-                "translated": 5373,
-                "pending": 1,
+                "translated": 5374,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
@@ -12087,13 +12087,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1,
-                    "translated": 0,
-                    "pending": 1,
+                    "translated": 1,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 32,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -12104,13 +12104,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 1,
-                        "translated": 0,
-                        "pending": 1,
+                        "translated": 1,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 32,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -12121,13 +12121,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1,
-                            "translated": 0,
-                            "pending": 1,
+                            "translated": 1,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 32,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -12138,13 +12138,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1,
-                                "translated": 0,
-                                "pending": 1,
+                                "translated": 1,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 32,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -23716,8 +23716,8 @@
               ],
               "counts": {
                 "total": 7585,
-                "translated": 7584,
-                "pending": 1,
+                "translated": 7585,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 13,
                 "excludedTranslated": 13,
@@ -23733,8 +23733,8 @@
                   "sheets": [],
                   "counts": {
                     "total": 7585,
-                    "translated": 7584,
-                    "pending": 1,
+                    "translated": 7585,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 13,
                     "excludedTranslated": 13,
@@ -23775,13 +23775,13 @@
           ],
           "counts": {
             "total": 26215,
-            "translated": 26133,
-            "pending": 82,
+            "translated": 26215,
+            "pending": 0,
             "stale": 0,
             "excluded": 25,
             "excludedTranslated": 0,
             "chars": 2143696,
-            "percent": 99.7
+            "percent": 100
           },
           "children": [
             {
@@ -24836,13 +24836,13 @@
               "sheets": [],
               "counts": {
                 "total": 845,
-                "translated": 838,
-                "pending": 7,
+                "translated": 845,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 72233,
-                "percent": 99.2
+                "percent": 100
               },
               "children": []
             },
@@ -24854,13 +24854,13 @@
               "sheets": [],
               "counts": {
                 "total": 406,
-                "translated": 405,
-                "pending": 1,
+                "translated": 406,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 38261,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             },
@@ -24872,13 +24872,13 @@
               "sheets": [],
               "counts": {
                 "total": 370,
-                "translated": 359,
-                "pending": 11,
+                "translated": 370,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 26238,
-                "percent": 97
+                "percent": 100
               },
               "children": []
             },
@@ -24908,13 +24908,13 @@
               "sheets": [],
               "counts": {
                 "total": 694,
-                "translated": 693,
-                "pending": 1,
+                "translated": 694,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 57901,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             },
@@ -24926,13 +24926,13 @@
               "sheets": [],
               "counts": {
                 "total": 982,
-                "translated": 946,
-                "pending": 36,
+                "translated": 982,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 65751,
-                "percent": 96.3
+                "percent": 100
               },
               "children": []
             },
@@ -25016,13 +25016,13 @@
               "sheets": [],
               "counts": {
                 "total": 406,
-                "translated": 405,
-                "pending": 1,
+                "translated": 406,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 24959,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             },
@@ -25052,13 +25052,13 @@
               "sheets": [],
               "counts": {
                 "total": 513,
-                "translated": 496,
-                "pending": 17,
+                "translated": 513,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 37214,
-                "percent": 96.7
+                "percent": 100
               },
               "children": []
             },
@@ -25070,13 +25070,13 @@
               "sheets": [],
               "counts": {
                 "total": 36,
-                "translated": 35,
-                "pending": 1,
+                "translated": 36,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 2801,
-                "percent": 97.2
+                "percent": 100
               },
               "children": []
             },
@@ -25088,13 +25088,13 @@
               "sheets": [],
               "counts": {
                 "total": 413,
-                "translated": 410,
-                "pending": 3,
+                "translated": 413,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 27740,
-                "percent": 99.3
+                "percent": 100
               },
               "children": []
             },
@@ -25124,13 +25124,13 @@
               "sheets": [],
               "counts": {
                 "total": 265,
-                "translated": 261,
-                "pending": 4,
+                "translated": 265,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 1,
                 "excludedTranslated": 0,
                 "chars": 19002,
-                "percent": 98.5
+                "percent": 100
               },
               "children": []
             },
@@ -25560,13 +25560,13 @@
       "sheets": [],
       "counts": {
         "total": 43194,
-        "translated": 43158,
-        "pending": 36,
+        "translated": 43194,
+        "pending": 0,
         "stale": 0,
         "excluded": 76,
         "excludedTranslated": 0,
         "chars": 3093998,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -25585,13 +25585,13 @@
           ],
           "counts": {
             "total": 43037,
-            "translated": 43001,
-            "pending": 36,
+            "translated": 43037,
+            "pending": 0,
             "stale": 0,
             "excluded": 72,
             "excludedTranslated": 0,
             "chars": 3037111,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -25638,8 +25638,8 @@
               "sheets": [],
               "counts": {
                 "total": 9288,
-                "translated": 9284,
-                "pending": 4,
+                "translated": 9288,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 37,
                 "excludedTranslated": 0,
@@ -25656,13 +25656,13 @@
               "sheets": [],
               "counts": {
                 "total": 14542,
-                "translated": 14511,
-                "pending": 31,
+                "translated": 14542,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 32,
                 "excludedTranslated": 0,
                 "chars": 2010430,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             },
@@ -25692,8 +25692,8 @@
               "sheets": [],
               "counts": {
                 "total": 19030,
-                "translated": 19029,
-                "pending": 1,
+                "translated": 19030,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 3,
                 "excludedTranslated": 0,
@@ -25905,13 +25905,13 @@
       "sheets": [],
       "counts": {
         "total": 80865,
-        "translated": 80777,
-        "pending": 88,
+        "translated": 80865,
+        "pending": 0,
         "stale": 0,
         "excluded": 31757,
         "excludedTranslated": 0,
         "chars": 939818,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -25924,13 +25924,13 @@
           ],
           "counts": {
             "total": 62791,
-            "translated": 62705,
-            "pending": 86,
+            "translated": 62791,
+            "pending": 0,
             "stale": 0,
             "excluded": 1971,
             "excludedTranslated": 0,
             "chars": 673961,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -25941,13 +25941,13 @@
               "sheets": [],
               "counts": {
                 "total": 62791,
-                "translated": 62705,
-                "pending": 86,
+                "translated": 62791,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 1971,
                 "excludedTranslated": 0,
                 "chars": 673961,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             }
@@ -25963,13 +25963,13 @@
           ],
           "counts": {
             "total": 36,
-            "translated": 34,
-            "pending": 2,
+            "translated": 36,
+            "pending": 0,
             "stale": 0,
             "excluded": 29509,
             "excludedTranslated": 0,
             "chars": 327,
-            "percent": 94.4
+            "percent": 100
           },
           "children": [
             {
@@ -25980,13 +25980,13 @@
               "sheets": [],
               "counts": {
                 "total": 36,
-                "translated": 34,
-                "pending": 2,
+                "translated": 36,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 29509,
                 "excludedTranslated": 0,
                 "chars": 327,
-                "percent": 94.4
+                "percent": 100
               },
               "children": []
             }
@@ -26156,13 +26156,13 @@
       "sheets": [],
       "counts": {
         "total": 14527,
-        "translated": 14484,
-        "pending": 43,
+        "translated": 14527,
+        "pending": 0,
         "stale": 0,
         "excluded": 46347,
         "excludedTranslated": 102,
         "chars": 2274640,
-        "percent": 99.7
+        "percent": 100
       },
       "children": [
         {
@@ -26176,13 +26176,13 @@
           ],
           "counts": {
             "total": 318,
-            "translated": 275,
-            "pending": 43,
+            "translated": 318,
+            "pending": 0,
             "stale": 0,
             "excluded": 0,
             "excludedTranslated": 0,
             "chars": 5866,
-            "percent": 86.5
+            "percent": 100
           },
           "children": [
             {
@@ -26193,13 +26193,13 @@
               "sheets": [],
               "counts": {
                 "total": 130,
-                "translated": 87,
-                "pending": 43,
+                "translated": 130,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 815,
-                "percent": 66.9
+                "percent": 100
               },
               "children": []
             },
@@ -27573,13 +27573,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 15309,
-        "translated": 15309,
+        "total": 36496,
+        "translated": 36496,
         "pending": 0,
         "stale": 0,
-        "excluded": 174203,
-        "excludedTranslated": 21191,
-        "chars": 618215,
+        "excluded": 153016,
+        "excludedTranslated": 4,
+        "chars": 3380868,
         "percent": 100
       },
       "children": [
@@ -27601,13 +27601,13 @@
             "itemseries"
           ],
           "counts": {
-            "total": 15085,
-            "translated": 15085,
+            "total": 36272,
+            "translated": 36272,
             "pending": 0,
             "stale": 0,
-            "excluded": 174203,
-            "excludedTranslated": 21191,
-            "chars": 609711,
+            "excluded": 153016,
+            "excludedTranslated": 4,
+            "chars": 3372364,
             "percent": 100
           },
           "children": [
@@ -27803,14 +27803,14 @@
               "value": "Item",
               "sheets": [],
               "counts": {
-                "total": 0,
-                "translated": 0,
+                "total": 21187,
+                "translated": 21187,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 174171,
-                "excludedTranslated": 21187,
-                "chars": 0,
-                "percent": 0
+                "excluded": 152984,
+                "excludedTranslated": 0,
+                "chars": 2762653,
+                "percent": 100
               },
               "children": [
                 {
@@ -27820,14 +27820,14 @@
                   "value": "Airship Aftcastle",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 28,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 21,
+                    "excludedTranslated": 0,
+                    "chars": 1026,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27838,14 +27838,14 @@
                   "value": "Airship Forecastle",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 28,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 21,
+                    "excludedTranslated": 0,
+                    "chars": 898,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27856,14 +27856,14 @@
                   "value": "Airship Hull",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 28,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 21,
+                    "excludedTranslated": 0,
+                    "chars": 582,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27874,14 +27874,14 @@
                   "value": "Airship Rigging",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 28,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 21,
+                    "excludedTranslated": 0,
+                    "chars": 960,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27892,14 +27892,14 @@
                   "value": "Alchemist's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27928,14 +27928,14 @@
                   "value": "Arcanist's Grimoire",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 50,
+                    "translated": 50,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1249,
-                    "excludedTranslated": 50,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1199,
+                    "excludedTranslated": 0,
+                    "chars": 1040,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27946,14 +27946,14 @@
                   "value": "Archer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 54,
+                    "translated": 54,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1325,
-                    "excludedTranslated": 54,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1271,
+                    "excludedTranslated": 0,
+                    "chars": 1078,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27964,14 +27964,14 @@
                   "value": "Armorer's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28000,14 +28000,14 @@
                   "value": "Astrologian's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 39,
+                    "translated": 39,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1103,
-                    "excludedTranslated": 39,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1064,
+                    "excludedTranslated": 0,
+                    "chars": 679,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28036,14 +28036,14 @@
                   "value": "Blacksmith's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 396,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 363,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28090,14 +28090,14 @@
                   "value": "Body",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 373,
+                    "translated": 373,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 10388,
-                    "excludedTranslated": 373,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 10015,
+                    "excludedTranslated": 0,
+                    "chars": 8250,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28108,14 +28108,14 @@
                   "value": "Bone",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 68,
+                    "translated": 68,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 272,
-                    "excludedTranslated": 68,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 204,
+                    "excludedTranslated": 0,
+                    "chars": 5769,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28126,14 +28126,14 @@
                   "value": "Botanist's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 390,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 357,
+                    "excludedTranslated": 0,
+                    "chars": 8721,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28162,14 +28162,14 @@
                   "value": "Bracelets",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3742,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 3735,
+                    "excludedTranslated": 0,
+                    "chars": 1192,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28180,14 +28180,14 @@
                   "value": "Carpenter's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28216,14 +28216,14 @@
                   "value": "Catalyst",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 54,
+                    "translated": 54,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 216,
-                    "excludedTranslated": 54,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 162,
+                    "excludedTranslated": 0,
+                    "chars": 11739,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28234,14 +28234,14 @@
                   "value": "Ceiling Light",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 57,
+                    "translated": 57,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 228,
-                    "excludedTranslated": 57,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 171,
+                    "excludedTranslated": 0,
+                    "chars": 4911,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28252,14 +28252,14 @@
                   "value": "Cloth",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 300,
+                    "translated": 300,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1200,
-                    "excludedTranslated": 300,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 900,
+                    "excludedTranslated": 0,
+                    "chars": 31975,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28270,14 +28270,14 @@
                   "value": "Construction Permit",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 45,
+                    "translated": 45,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 180,
-                    "excludedTranslated": 45,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 135,
+                    "excludedTranslated": 0,
+                    "chars": 6438,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28288,14 +28288,14 @@
                   "value": "Crystal",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 72,
+                    "translated": 72,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 72,
-                    "excludedTranslated": 72,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 0,
+                    "excludedTranslated": 0,
+                    "chars": 1704,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28306,14 +28306,14 @@
                   "value": "Culinarian's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28324,14 +28324,14 @@
                   "value": "Culinarian's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 1,
+                    "translated": 1,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 166,
-                    "excludedTranslated": 1,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 165,
+                    "excludedTranslated": 0,
+                    "chars": 22,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28342,14 +28342,14 @@
                   "value": "Currency",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 10,
+                    "translated": 10,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 150,
-                    "excludedTranslated": 10,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 140,
+                    "excludedTranslated": 0,
+                    "chars": 1587,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28360,14 +28360,14 @@
                   "value": "Dancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 18,
+                    "translated": 18,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 572,
-                    "excludedTranslated": 18,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 554,
+                    "excludedTranslated": 0,
+                    "chars": 372,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28378,14 +28378,14 @@
                   "value": "Dark Knight's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 40,
+                    "translated": 40,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1128,
-                    "excludedTranslated": 40,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1088,
+                    "excludedTranslated": 0,
+                    "chars": 754,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28396,14 +28396,14 @@
                   "value": "Demimateria",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 16,
+                    "translated": 16,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 64,
-                    "excludedTranslated": 16,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 48,
+                    "excludedTranslated": 0,
+                    "chars": 2162,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28414,14 +28414,14 @@
                   "value": "Door",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 15,
+                    "translated": 15,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 60,
-                    "excludedTranslated": 15,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 45,
+                    "excludedTranslated": 0,
+                    "chars": 666,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28432,14 +28432,14 @@
                   "value": "Dye",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 162,
+                    "translated": 162,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 648,
-                    "excludedTranslated": 162,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 486,
+                    "excludedTranslated": 0,
+                    "chars": 31452,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28450,14 +28450,14 @@
                   "value": "Earrings",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 11,
+                    "translated": 11,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3968,
-                    "excludedTranslated": 11,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 3957,
+                    "excludedTranslated": 0,
+                    "chars": 913,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28468,14 +28468,14 @@
                   "value": "Exterior Wall",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 102,
+                    "translated": 102,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 408,
-                    "excludedTranslated": 102,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 306,
+                    "excludedTranslated": 0,
+                    "chars": 12535,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28486,14 +28486,14 @@
                   "value": "Exterior Wall Decoration",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 15,
+                    "translated": 15,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 60,
-                    "excludedTranslated": 15,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 45,
+                    "excludedTranslated": 0,
+                    "chars": 967,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28504,14 +28504,14 @@
                   "value": "Feet",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 198,
+                    "translated": 198,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8875,
-                    "excludedTranslated": 198,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 8677,
+                    "excludedTranslated": 0,
+                    "chars": 3938,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28522,14 +28522,14 @@
                   "value": "Fence",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 18,
+                    "translated": 18,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 72,
-                    "excludedTranslated": 18,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 54,
+                    "excludedTranslated": 0,
+                    "chars": 1628,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28540,14 +28540,14 @@
                   "value": "Fisher's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 34,
+                    "translated": 34,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 394,
-                    "excludedTranslated": 34,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9927,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28576,14 +28576,14 @@
                   "value": "Fishing Tackle",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 114,
+                    "translated": 114,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 669,
-                    "excludedTranslated": 114,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 555,
+                    "excludedTranslated": 0,
+                    "chars": 13647,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28594,14 +28594,14 @@
                   "value": "Flooring",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 57,
+                    "translated": 57,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 228,
-                    "excludedTranslated": 57,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 171,
+                    "excludedTranslated": 0,
+                    "chars": 3876,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28612,14 +28612,14 @@
                   "value": "Furnishing",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 444,
+                    "translated": 444,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1776,
-                    "excludedTranslated": 444,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1332,
+                    "excludedTranslated": 0,
+                    "chars": 40089,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28630,14 +28630,14 @@
                   "value": "Gardening",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 122,
+                    "translated": 122,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 488,
-                    "excludedTranslated": 122,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 366,
+                    "excludedTranslated": 0,
+                    "chars": 10495,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28648,14 +28648,14 @@
                   "value": "Gladiator's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 52,
+                    "translated": 52,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1386,
-                    "excludedTranslated": 52,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1334,
+                    "excludedTranslated": 0,
+                    "chars": 1094,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28666,14 +28666,14 @@
                   "value": "Goldsmith's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28702,14 +28702,14 @@
                   "value": "Gunbreaker's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 18,
+                    "translated": 18,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 575,
-                    "excludedTranslated": 18,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 557,
+                    "excludedTranslated": 0,
+                    "chars": 372,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28720,14 +28720,14 @@
                   "value": "Hands",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 183,
+                    "translated": 183,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8398,
-                    "excludedTranslated": 183,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 8215,
+                    "excludedTranslated": 0,
+                    "chars": 3670,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28738,14 +28738,14 @@
                   "value": "Head",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 164,
+                    "translated": 164,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 9926,
-                    "excludedTranslated": 164,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 9762,
+                    "excludedTranslated": 0,
+                    "chars": 4108,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28756,14 +28756,14 @@
                   "value": "Ingredient",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 421,
+                    "translated": 421,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1684,
-                    "excludedTranslated": 421,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1263,
+                    "excludedTranslated": 0,
+                    "chars": 52699,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28774,14 +28774,14 @@
                   "value": "Interior Wall",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 66,
+                    "translated": 66,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 264,
-                    "excludedTranslated": 66,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 198,
+                    "excludedTranslated": 0,
+                    "chars": 5235,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28792,14 +28792,14 @@
                   "value": "Lancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 53,
+                    "translated": 53,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1354,
-                    "excludedTranslated": 53,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1301,
+                    "excludedTranslated": 0,
+                    "chars": 1151,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28810,14 +28810,14 @@
                   "value": "Leather",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 173,
+                    "translated": 173,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 692,
-                    "excludedTranslated": 173,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 519,
+                    "excludedTranslated": 0,
+                    "chars": 9397,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28828,14 +28828,14 @@
                   "value": "Leatherworker's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 393,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 360,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28864,14 +28864,14 @@
                   "value": "Legs",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 227,
+                    "translated": 227,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8915,
-                    "excludedTranslated": 227,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 8688,
+                    "excludedTranslated": 0,
+                    "chars": 4264,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28882,14 +28882,14 @@
                   "value": "Lumber",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 251,
+                    "translated": 251,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1004,
-                    "excludedTranslated": 251,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 753,
+                    "excludedTranslated": 0,
+                    "chars": 22755,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28900,14 +28900,14 @@
                   "value": "Machinist's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 39,
+                    "translated": 39,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1106,
-                    "excludedTranslated": 39,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1067,
+                    "excludedTranslated": 0,
+                    "chars": 679,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28918,14 +28918,14 @@
                   "value": "Marauder's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 53,
+                    "translated": 53,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1339,
-                    "excludedTranslated": 53,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1286,
+                    "excludedTranslated": 0,
+                    "chars": 1126,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28936,14 +28936,14 @@
                   "value": "Materia",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 122,
+                    "translated": 122,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 821,
-                    "excludedTranslated": 122,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 699,
+                    "excludedTranslated": 0,
+                    "chars": 11998,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28954,14 +28954,14 @@
                   "value": "Meal",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 441,
+                    "translated": 441,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1764,
-                    "excludedTranslated": 441,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1323,
+                    "excludedTranslated": 0,
+                    "chars": 151854,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28972,14 +28972,14 @@
                   "value": "Medicine",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 212,
+                    "translated": 212,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 848,
-                    "excludedTranslated": 212,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 636,
+                    "excludedTranslated": 0,
+                    "chars": 40786,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28990,14 +28990,14 @@
                   "value": "Metal",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 192,
+                    "translated": 192,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 768,
-                    "excludedTranslated": 192,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 576,
+                    "excludedTranslated": 0,
+                    "chars": 11025,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29008,14 +29008,14 @@
                   "value": "Miner's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 390,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 357,
+                    "excludedTranslated": 0,
+                    "chars": 8721,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29044,14 +29044,14 @@
                   "value": "Minion",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 583,
+                    "translated": 583,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 2336,
-                    "excludedTranslated": 583,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1753,
+                    "excludedTranslated": 0,
+                    "chars": 69594,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29062,14 +29062,14 @@
                   "value": "Miscellany",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 3931,
+                    "translated": 3931,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 15732,
-                    "excludedTranslated": 3931,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 11801,
+                    "excludedTranslated": 0,
+                    "chars": 633294,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29080,14 +29080,14 @@
                   "value": "Necklace",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 1,
+                    "translated": 1,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3749,
-                    "excludedTranslated": 1,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 3748,
+                    "excludedTranslated": 0,
+                    "chars": 46,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29134,14 +29134,14 @@
                   "value": "Orchestrion Roll",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 964,
+                    "translated": 964,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3856,
-                    "excludedTranslated": 964,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 2892,
+                    "excludedTranslated": 0,
+                    "chars": 90604,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29152,14 +29152,14 @@
                   "value": "Other",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 1885,
+                    "translated": 1885,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 11071,
-                    "excludedTranslated": 1885,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 9186,
+                    "excludedTranslated": 0,
+                    "chars": 252644,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29170,14 +29170,14 @@
                   "value": "Outdoor Furnishing",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 378,
+                    "translated": 378,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1512,
-                    "excludedTranslated": 378,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1134,
+                    "excludedTranslated": 0,
+                    "chars": 42003,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29206,14 +29206,14 @@
                   "value": "Painting",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 364,
+                    "translated": 364,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1456,
-                    "excludedTranslated": 364,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1092,
+                    "excludedTranslated": 0,
+                    "chars": 28770,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29224,14 +29224,14 @@
                   "value": "Part",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 109,
+                    "translated": 109,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 436,
-                    "excludedTranslated": 109,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 327,
+                    "excludedTranslated": 0,
+                    "chars": 9262,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29242,14 +29242,14 @@
                   "value": "Pictomancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 243,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 236,
+                    "excludedTranslated": 0,
+                    "chars": 130,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29260,14 +29260,14 @@
                   "value": "Placard",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 15,
+                    "translated": 15,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 60,
-                    "excludedTranslated": 15,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 45,
+                    "excludedTranslated": 0,
+                    "chars": 923,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29278,14 +29278,14 @@
                   "value": "Pugilist's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 90,
+                    "translated": 90,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1367,
-                    "excludedTranslated": 90,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1277,
+                    "excludedTranslated": 0,
+                    "chars": 5731,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29296,14 +29296,14 @@
                   "value": "Reagent",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 831,
+                    "translated": 831,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3324,
-                    "excludedTranslated": 831,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 2493,
+                    "excludedTranslated": 0,
+                    "chars": 123592,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29314,14 +29314,14 @@
                   "value": "Reaper's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 12,
+                    "translated": 12,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 402,
-                    "excludedTranslated": 12,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 390,
+                    "excludedTranslated": 0,
+                    "chars": 273,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29332,14 +29332,14 @@
                   "value": "Red Mage's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 880,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 847,
+                    "excludedTranslated": 0,
+                    "chars": 552,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29350,14 +29350,14 @@
                   "value": "Ring",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 4,
+                    "translated": 4,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3886,
-                    "excludedTranslated": 4,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 3882,
+                    "excludedTranslated": 0,
+                    "chars": 272,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29368,14 +29368,14 @@
                   "value": "Rogue's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 47,
+                    "translated": 47,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1250,
-                    "excludedTranslated": 47,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1203,
+                    "excludedTranslated": 0,
+                    "chars": 982,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29386,14 +29386,14 @@
                   "value": "Roof",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 45,
+                    "translated": 45,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 180,
-                    "excludedTranslated": 45,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 135,
+                    "excludedTranslated": 0,
+                    "chars": 3077,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29404,14 +29404,14 @@
                   "value": "Roof Decoration",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 15,
+                    "translated": 15,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 60,
-                    "excludedTranslated": 15,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 45,
+                    "excludedTranslated": 0,
+                    "chars": 981,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29422,14 +29422,14 @@
                   "value": "Rug",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 52,
+                    "translated": 52,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 208,
-                    "excludedTranslated": 52,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 156,
+                    "excludedTranslated": 0,
+                    "chars": 3941,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29440,14 +29440,14 @@
                   "value": "Sage's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 12,
+                    "translated": 12,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 390,
-                    "excludedTranslated": 12,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 378,
+                    "excludedTranslated": 0,
+                    "chars": 273,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29458,14 +29458,14 @@
                   "value": "Samurai's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 883,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 850,
+                    "excludedTranslated": 0,
+                    "chars": 552,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29476,14 +29476,14 @@
                   "value": "Scholar's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 50,
+                    "translated": 50,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1093,
-                    "excludedTranslated": 50,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1043,
+                    "excludedTranslated": 0,
+                    "chars": 1083,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29494,14 +29494,14 @@
                   "value": "Seafood",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 2082,
+                    "translated": 2082,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 10542,
-                    "excludedTranslated": 2082,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 8460,
+                    "excludedTranslated": 0,
+                    "chars": 355352,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29512,14 +29512,14 @@
                   "value": "Seasonal Miscellany",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 197,
+                    "translated": 197,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 788,
-                    "excludedTranslated": 197,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 591,
+                    "excludedTranslated": 0,
+                    "chars": 23355,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29530,14 +29530,14 @@
                   "value": "Shield",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 50,
+                    "translated": 50,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1443,
-                    "excludedTranslated": 50,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1393,
+                    "excludedTranslated": 0,
+                    "chars": 1022,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29548,14 +29548,14 @@
                   "value": "Soul Crystal",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 31,
+                    "translated": 31,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 124,
-                    "excludedTranslated": 31,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 93,
+                    "excludedTranslated": 0,
+                    "chars": 3228,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29566,14 +29566,14 @@
                   "value": "Stone",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 656,
+                    "translated": 656,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 2624,
-                    "excludedTranslated": 656,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1968,
+                    "excludedTranslated": 0,
+                    "chars": 71980,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29584,14 +29584,14 @@
                   "value": "Submersible Bow",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 10,
+                    "translated": 10,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 40,
-                    "excludedTranslated": 10,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 30,
+                    "excludedTranslated": 0,
+                    "chars": 1529,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29602,14 +29602,14 @@
                   "value": "Submersible Bridge",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 10,
+                    "translated": 10,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 40,
-                    "excludedTranslated": 10,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 30,
+                    "excludedTranslated": 0,
+                    "chars": 1716,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29620,14 +29620,14 @@
                   "value": "Submersible Hull",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 10,
+                    "translated": 10,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 40,
-                    "excludedTranslated": 10,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 30,
+                    "excludedTranslated": 0,
+                    "chars": 1994,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29638,14 +29638,14 @@
                   "value": "Submersible Stern",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 10,
+                    "translated": 10,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 40,
-                    "excludedTranslated": 10,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 30,
+                    "excludedTranslated": 0,
+                    "chars": 1309,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29656,14 +29656,14 @@
                   "value": "Table",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 182,
+                    "translated": 182,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 728,
-                    "excludedTranslated": 182,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 546,
+                    "excludedTranslated": 0,
+                    "chars": 15358,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29674,14 +29674,14 @@
                   "value": "Tabletop",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 649,
+                    "translated": 649,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 2596,
-                    "excludedTranslated": 649,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1947,
+                    "excludedTranslated": 0,
+                    "chars": 155110,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29692,14 +29692,14 @@
                   "value": "Triple Triad Card",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 475,
+                    "translated": 475,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1900,
-                    "excludedTranslated": 475,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1425,
+                    "excludedTranslated": 0,
+                    "chars": 31373,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29710,14 +29710,14 @@
                   "value": "Two-handed Conjurer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 52,
+                    "translated": 52,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1311,
-                    "excludedTranslated": 52,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1259,
+                    "excludedTranslated": 0,
+                    "chars": 1081,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29728,14 +29728,14 @@
                   "value": "Two-handed Thaumaturge's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 51,
+                    "translated": 51,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1217,
-                    "excludedTranslated": 51,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1166,
+                    "excludedTranslated": 0,
+                    "chars": 1065,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29746,14 +29746,14 @@
                   "value": "Unobtainable",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 1349,
+                    "translated": 1349,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 4844,
-                    "excludedTranslated": 1349,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 3495,
+                    "excludedTranslated": 0,
+                    "chars": 155307,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29764,14 +29764,14 @@
                   "value": "Viper's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 7,
+                    "translated": 7,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 240,
-                    "excludedTranslated": 7,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 233,
+                    "excludedTranslated": 0,
+                    "chars": 130,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29782,14 +29782,14 @@
                   "value": "Wall-mounted",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 369,
+                    "translated": 369,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1476,
-                    "excludedTranslated": 369,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 1107,
+                    "excludedTranslated": 0,
+                    "chars": 40801,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29800,14 +29800,14 @@
                   "value": "Weaver's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 33,
+                    "translated": 33,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 390,
-                    "excludedTranslated": 33,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 357,
+                    "excludedTranslated": 0,
+                    "chars": 9843,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29836,14 +29836,14 @@
                   "value": "Window",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 15,
+                    "translated": 15,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 60,
-                    "excludedTranslated": 15,
-                    "chars": 0,
-                    "percent": 0
+                    "excluded": 45,
+                    "excludedTranslated": 0,
+                    "chars": 694,
+                    "percent": 100
                   },
                   "children": []
                 }
@@ -30105,8 +30105,8 @@
       "sheets": [],
       "counts": {
         "total": 23094,
-        "translated": 23090,
-        "pending": 4,
+        "translated": 23094,
+        "pending": 0,
         "stale": 0,
         "excluded": 1247,
         "excludedTranslated": 13,
@@ -30134,8 +30134,8 @@
           ],
           "counts": {
             "total": 13679,
-            "translated": 13677,
-            "pending": 2,
+            "translated": 13679,
+            "pending": 0,
             "stale": 0,
             "excluded": 264,
             "excludedTranslated": 0,
@@ -30187,13 +30187,13 @@
               "sheets": [],
               "counts": {
                 "total": 1974,
-                "translated": 1973,
-                "pending": 1,
+                "translated": 1974,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 32,
                 "excludedTranslated": 0,
                 "chars": 249199,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             },
@@ -30223,8 +30223,8 @@
               "sheets": [],
               "counts": {
                 "total": 9934,
-                "translated": 9933,
-                "pending": 1,
+                "translated": 9934,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 181,
                 "excludedTranslated": 0,
@@ -30884,8 +30884,8 @@
           ],
           "counts": {
             "total": 9217,
-            "translated": 9215,
-            "pending": 2,
+            "translated": 9217,
+            "pending": 0,
             "stale": 0,
             "excluded": 959,
             "excludedTranslated": 13,
@@ -30919,13 +30919,13 @@
               "sheets": [],
               "counts": {
                 "total": 602,
-                "translated": 600,
-                "pending": 2,
+                "translated": 602,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 278009,
-                "percent": 99.7
+                "percent": 100
               },
               "children": []
             },
@@ -31222,7 +31222,7 @@
         "total": 3059,
         "translated": 3059,
         "pending": 0,
-        "stale": 1,
+        "stale": 0,
         "excluded": 73,
         "excludedTranslated": 0,
         "chars": 715654,
@@ -31254,7 +31254,7 @@
             "total": 3059,
             "translated": 3059,
             "pending": 0,
-            "stale": 1,
+            "stale": 0,
             "excluded": 73,
             "excludedTranslated": 0,
             "chars": 715654,
@@ -31343,7 +31343,7 @@
                 "total": 1646,
                 "translated": 1646,
                 "pending": 0,
-                "stale": 1,
+                "stale": 0,
                 "excluded": 1,
                 "excludedTranslated": 0,
                 "chars": 384671,
@@ -31525,13 +31525,13 @@
       "sheets": [],
       "counts": {
         "total": 67712,
-        "translated": 67668,
-        "pending": 44,
-        "stale": 4,
+        "translated": 67712,
+        "pending": 0,
+        "stale": 0,
         "excluded": 1308,
         "excludedTranslated": 390,
         "chars": 5001255,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -31551,13 +31551,13 @@
           ],
           "counts": {
             "total": 1424,
-            "translated": 1413,
-            "pending": 11,
+            "translated": 1424,
+            "pending": 0,
             "stale": 0,
             "excluded": 63,
             "excludedTranslated": 22,
             "chars": 77978,
-            "percent": 99.2
+            "percent": 100
           },
           "children": [
             {
@@ -31622,13 +31622,13 @@
               "sheets": [],
               "counts": {
                 "total": 1033,
-                "translated": 1022,
-                "pending": 11,
+                "translated": 1033,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 63,
                 "excludedTranslated": 22,
                 "chars": 71279,
-                "percent": 98.9
+                "percent": 100
               },
               "children": []
             },
@@ -31987,13 +31987,13 @@
           ],
           "counts": {
             "total": 65779,
-            "translated": 65746,
-            "pending": 33,
-            "stale": 4,
+            "translated": 65779,
+            "pending": 0,
+            "stale": 0,
             "excluded": 1241,
             "excludedTranslated": 364,
             "chars": 4909934,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -32022,9 +32022,9 @@
               "sheets": [],
               "counts": {
                 "total": 14882,
-                "translated": 14877,
-                "pending": 5,
-                "stale": 4,
+                "translated": 14882,
+                "pending": 0,
+                "stale": 0,
                 "excluded": 698,
                 "excludedTranslated": 64,
                 "chars": 538186,
@@ -32292,13 +32292,13 @@
               "sheets": [],
               "counts": {
                 "total": 200,
-                "translated": 198,
-                "pending": 2,
+                "translated": 200,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 3402,
-                "percent": 99
+                "percent": 100
               },
               "children": []
             },
@@ -33894,13 +33894,13 @@
               "sheets": [],
               "counts": {
                 "total": 228,
-                "translated": 216,
-                "pending": 12,
+                "translated": 228,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 12931,
-                "percent": 94.7
+                "percent": 100
               },
               "children": []
             },
@@ -35028,13 +35028,13 @@
               "sheets": [],
               "counts": {
                 "total": 388,
-                "translated": 387,
-                "pending": 1,
+                "translated": 388,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 2,
                 "excludedTranslated": 0,
                 "chars": 29700,
-                "percent": 99.7
+                "percent": 100
               },
               "children": []
             },
@@ -39834,13 +39834,13 @@
               "sheets": [],
               "counts": {
                 "total": 31,
-                "translated": 22,
-                "pending": 9,
+                "translated": 31,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 4037,
-                "percent": 71
+                "percent": 100
               },
               "children": []
             },
@@ -43956,13 +43956,13 @@
               "sheets": [],
               "counts": {
                 "total": 10,
-                "translated": 7,
-                "pending": 3,
+                "translated": 10,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 1213,
-                "percent": 70
+                "percent": 100
               },
               "children": []
             },
@@ -46962,13 +46962,13 @@
               "sheets": [],
               "counts": {
                 "total": 23,
-                "translated": 22,
-                "pending": 1,
+                "translated": 23,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 3307,
-                "percent": 95.7
+                "percent": 100
               },
               "children": []
             },
@@ -51772,13 +51772,13 @@
       "sheets": [],
       "counts": {
         "total": 12877,
-        "translated": 12869,
-        "pending": 8,
+        "translated": 12877,
+        "pending": 0,
         "stale": 0,
         "excluded": 1001,
         "excludedTranslated": 0,
         "chars": 942637,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -51799,13 +51799,13 @@
           ],
           "counts": {
             "total": 12335,
-            "translated": 12327,
-            "pending": 8,
+            "translated": 12335,
+            "pending": 0,
             "stale": 0,
             "excluded": 81,
             "excludedTranslated": 0,
             "chars": 728668,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -51906,13 +51906,13 @@
               "sheets": [],
               "counts": {
                 "total": 8527,
-                "translated": 8519,
-                "pending": 8,
+                "translated": 8527,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 80,
                 "excludedTranslated": 0,
                 "chars": 663948,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             },
@@ -52021,9 +52021,9 @@
       "sheets": [],
       "counts": {
         "total": 17222,
-        "translated": 17219,
-        "pending": 3,
-        "stale": 2,
+        "translated": 17222,
+        "pending": 0,
+        "stale": 0,
         "excluded": 241,
         "excludedTranslated": 3,
         "chars": 1179581,
@@ -52067,9 +52067,9 @@
           ],
           "counts": {
             "total": 6353,
-            "translated": 6352,
-            "pending": 1,
-            "stale": 2,
+            "translated": 6353,
+            "pending": 0,
+            "stale": 0,
             "excluded": 240,
             "excludedTranslated": 3,
             "chars": 265096,
@@ -52320,7 +52320,7 @@
                 "total": 1638,
                 "translated": 1638,
                 "pending": 0,
-                "stale": 2,
+                "stale": 0,
                 "excluded": 200,
                 "excludedTranslated": 3,
                 "chars": 22733,
@@ -52444,13 +52444,13 @@
               "sheets": [],
               "counts": {
                 "total": 1609,
-                "translated": 1608,
-                "pending": 1,
+                "translated": 1609,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 10226,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             },
@@ -52728,8 +52728,8 @@
           ],
           "counts": {
             "total": 8100,
-            "translated": 8098,
-            "pending": 2,
+            "translated": 8100,
+            "pending": 0,
             "stale": 0,
             "excluded": 0,
             "excludedTranslated": 0,
@@ -52745,8 +52745,8 @@
               "sheets": [],
               "counts": {
                 "total": 8008,
-                "translated": 8006,
-                "pending": 2,
+                "translated": 8008,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
@@ -53109,8 +53109,8 @@
       "sheets": [],
       "counts": {
         "total": 14848,
-        "translated": 14841,
-        "pending": 7,
+        "translated": 14848,
+        "pending": 0,
         "stale": 0,
         "excluded": 11,
         "excludedTranslated": 0,
@@ -53188,13 +53188,13 @@
           ],
           "counts": {
             "total": 4132,
-            "translated": 4125,
-            "pending": 7,
+            "translated": 4132,
+            "pending": 0,
             "stale": 0,
             "excluded": 6,
             "excludedTranslated": 0,
             "chars": 351429,
-            "percent": 99.8
+            "percent": 100
           },
           "children": [
             {
@@ -53205,13 +53205,13 @@
               "sheets": [],
               "counts": {
                 "total": 1182,
-                "translated": 1180,
-                "pending": 2,
+                "translated": 1182,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 16254,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             },
@@ -53241,13 +53241,13 @@
               "sheets": [],
               "counts": {
                 "total": 2947,
-                "translated": 2942,
-                "pending": 5,
+                "translated": 2947,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 6,
                 "excludedTranslated": 0,
                 "chars": 335146,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             }
@@ -53881,17 +53881,17 @@
       "sheet": "BNpcName",
       "content": "Enemy names",
       "total": 29477,
-      "translated": 34,
-      "pending": 29443,
+      "translated": 36,
+      "pending": 29441,
       "pendingPercent": 99.9
     },
     {
       "sheet": "DefaultTalk",
       "content": "DefaultTalk",
       "total": 14568,
-      "translated": 14511,
-      "pending": 57,
-      "pendingPercent": 0.4
+      "translated": 14542,
+      "pending": 26,
+      "pendingPercent": 0.2
     },
     {
       "sheet": "Item",

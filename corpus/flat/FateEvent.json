@@ -1457,7 +1457,7 @@
     { "gameKey": "FateEvent#586.60", "hash": "D664C8FC553AE78D", "target": "Ach tak, to bez wątpienia ceruleum! Dziękuję ci!" },
     { "gameKey": "FateEvent#586.61", "hash": "08808CC942948E71", "target": "Przynoś je dalej─ceruleum dla naszej sprawy nigdy za wiele." },
     { "gameKey": "FateEvent#587.56", "hash": "89E68C2A86603D30", "target": "Zdobyliśmy już sporo zbiorników ceruleum, ale jeśli można zgarnąć więcej, powinniśmy to zrobić. Krótko mówiąc, przynoś kolejne!" },
-    { "gameKey": "FateEvent#587.60", "hash": "C49B30A3B460BC43", "target": "" },
+    { "gameKey": "FateEvent#587.60", "hash": "C49B30A3B460BC43", "target": " " },
     { "gameKey": "FateEvent#588.56", "hash": "F4A868E8DB444A13", "target": "Jesteś! Masz dla mnie trochę ceruleum?" },
     { "gameKey": "FateEvent#588.60", "hash": "F86968FF7458281C", "target": "Doskonale! Przy takiej liczbie zbiorników możemy chyba ogłosić powodzenie misji!" },
     { "gameKey": "FateEvent#588.61", "hash": "0BD31880C01B1366", "target": "Mimo to, jeśli można zdobyć więcej, trzeba brać, póki się da. To znaczy, przynoś dalej!" },
