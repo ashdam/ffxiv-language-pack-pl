@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 639662,
-  "total": 639662,
+  "translated": 639610,
+  "total": 639610,
   "percent": 100,
-  "chars": 58192077,
+  "chars": 58191243,
   "unresolved": 5785,
   "groups": [
     {
@@ -123,8 +123,8 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 2365,
-      "total": 2365
+      "translated": 2313,
+      "total": 2313
     }
   ],
   "excludedFromLocalization": [
@@ -142,13 +142,6 @@
     }
   ],
   "inventoryExclusions": [
-    {
-      "expansion": null,
-      "content": "DefaultTalk",
-      "translated": 0,
-      "total": 26,
-      "wholeSheet": false
-    },
     {
       "expansion": null,
       "content": "ActionTransient",
@@ -25556,7 +25549,7 @@
         "translated": 43194,
         "pending": 0,
         "stale": 0,
-        "excluded": 76,
+        "excluded": 50,
         "excludedTranslated": 0,
         "chars": 3093998,
         "percent": 100
@@ -25581,7 +25574,7 @@
             "translated": 43037,
             "pending": 0,
             "stale": 0,
-            "excluded": 72,
+            "excluded": 46,
             "excludedTranslated": 0,
             "chars": 3037111,
             "percent": 100
@@ -25652,7 +25645,7 @@
                 "translated": 14542,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 32,
+                "excluded": 6,
                 "excludedTranslated": 0,
                 "chars": 2010430,
                 "percent": 100
@@ -53844,13 +53837,13 @@
     }
   ],
   "internalUi": {
-    "total": 2365,
-    "translated": 2365,
+    "total": 2313,
+    "translated": 2313,
     "pending": 0,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
-    "chars": 55965,
+    "chars": 55131,
     "percent": 100
   },
   "futureLocalization": [
@@ -53877,14 +53870,6 @@
       "translated": 36,
       "pending": 29441,
       "pendingPercent": 99.9
-    },
-    {
-      "sheet": "DefaultTalk",
-      "content": "DefaultTalk",
-      "total": 14568,
-      "translated": 14542,
-      "pending": 26,
-      "pendingPercent": 0.2
     },
     {
       "sheet": "Item",
