@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzg002_03487",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mhon Mon cierpi z powodu piekielnych bestii i pustego żołądka." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Zaczaić się na wandering weapon" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "Zdać relację Mhon Mon" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "Och! Co robić? Co robić?" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Chcę ugotować tradycyjny gulasz ludu Mord. Brakuje mi tylko jednego składnika─bursztynowego ziela." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Ale prawie nigdzie już tu nie rośnie, poza miejscem, gdzie roi się od evil weapon!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "Zabawna nazwa, ale do śmiechu nie jest, kiedy próbują cię zabić! Jest wśród nich jeden szczególnie okropny, zwany wandering weapon. Pozostałe chyba za nim podążają." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Jeśli się go pozbędziesz, może reszta da nam spokój. Wtedy wreszcie zbiorę bursztynowe ziele bez obaw. To jak, pomożesz nam?" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Nienawidzę tego wandering weapon i jego wielkiej, głupiej gęby!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "Udało się? Hura! Teraz bursztynowe ziele będzie moje! He, he, he..." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Ale czy pozostałe evil weapon nie wrócą? Podobno magowie z Nabaath Areng stworzyli je z zaczarowanych mieczy. Tylko nie pytaj mnie, skąd ten ich wygląd!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "Ich panowie podobno zniknęli po Potopie. Bez rozkazów włóczą się po okolicy Amber i atakują wszystko, co podejdzie za blisko!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Mam nadzieję, że bez wandering weapon przez jakiś czas dadzą nam spokój, ale kto wie? Wiem tylko, że mogę wreszcie ugotować gulasz! Mój żołądek ci dziękuje!" }
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Mhon Mon jest głodny, a pewne bestie nie dają mu spokoju." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Zaczaj się na wędrowną bestię (wandering weapon)." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "Zdaj relację Mhon Monowi." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "Ojej, co robić, co robić?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Chcę ugotować gulasz, taki jak u nas jadali od pokoleń. Brakuje mi tylko bursztynowego ziela." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Tylko gdzie je znaleźć? Zostało go u nas tyle co nic. Rośnie jeszcze tam, gdzie roi się od evil weapons!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "Śmieszna nazwa, ale nie do śmiechu, kiedy taka bestia rzuci ci się do gardła! Najgorsza to ta, którą zwą wandering weapon. Wygląda na to, że reszta za nią łazi." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Pozbądź się jej, a może reszta odpuści. Wreszcie nazbieram sobie ziela w spokoju. Pomożesz nam?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Jak ja nie cierpię tej bestii i jej wielkiej, durnej gęby!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "Już po niej? Hura! Teraz bursztynowe ziele będzie moje! He, he..." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Tylko czy reszta bestii nie wróci? Podobno magowie z Nabaath Areng zrobili je z zaklętych mieczy. Skąd im się wzięły takie gęby? Tego akurat nie wiem!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "Ich panowie ponoć zniknęli po Potopie. Teraz bestie nie mają się kogo słuchać, więc łażą po okolicy i rzucają się na wszystko, co podejdzie za blisko!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Może bez tej bestii reszta da nam na jakiś czas spokój. Kto wie? Grunt, że wreszcie ugotuję gulasz! Mój brzuch ci dziękuje!" }
   ]
 }

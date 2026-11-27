@@ -2,15 +2,15 @@
   "conversation": "quest/045/BanArk117_04567",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "Maru chce rozdać przysmaki.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "Maru szykuje przysmaki dla hipopotamów.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Możesz je kontynuować tylko w klasie lub jobie, w których je przyjęto." },
     { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_00", "hash": "FB1B44E49535C936", "target": "Zebrać rośliny słodkowodne" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "Dostarczyć rośliny słodkowodne do Maru" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "<split(<string(gstr1)>, ,1)>... Znasz to uczucie, kiedy patrzysz w wielkie, ciemne oczy hipopotama i całym sercem wiesz, że na świecie nie ma nic słodszego? Ja doskonale..." },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "Aż chce się dać im wszystkie ulubione przysmaki─owoce, warzywa, lucernę..." },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "I rośliny słodkowodne! Nasze hipcie tak za nimi przepadają, że nigdy nie mogę nazbierać dosyć..." },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "Czuję, że szykuje się wodna uczta, więc możesz nam nazbierać tych roślin? Rosną przy brzegach Ksirody, tuż na wschód od Yedlihmadu. Za trzy wiązki ja─i nasze kochane hipopotamy─będziemy ci dozgonnie wdzięczni!" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "Zanieść Maru rośliny słodkowodne" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "<split(<string(gstr1)>, ,1)>… Zdarza ci się spojrzeć hipopotamowi w te wielkie, ciemne oczy i pomyśleć, że na świecie nie ma nic słodszego? Bo mnie tak…" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "Aż chce się im dawać wszystkie ulubione przysmaki. Owoce, warzywa, lucernę…" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "No i rośliny słodkowodne! Nasze hipcie tak za nimi przepadają, że choćbym nie wiem ile nazbierał, zawsze jest za mało…" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "Przydałaby im się uczta z takich roślin. Nazbierasz nam trochę? Rosną nad Ksirodą, tuż na wschód od Yedlihmad. Trzy wiązki w zupełności wystarczą, żeby mnie uszczęśliwić. I nasze kochane hipcie też!" },
     { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_020", "hash": "D893BD7E2A9B56D6", "target": "Są te rośliny słodkowodne?" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "No to dziś ucztujemy! Kiedyś trzymaliśmy je na specjalne okazje, bo rosną tylko na południu Thavnairu. Przeprowadzka tutaj ma jednak swoje zalety." },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "Wiesz jednak─wody Ksirody płyną z Vanaspati. Więc w pewnym sensie nasz dawny dom wciąż się nami opiekuje. ...W każdym razie lubię tak myśleć." }
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "No to dzisiaj będzie uczta! Kiedyś trzymaliśmy je na specjalne okazje, bo rosną tylko na południu Thavnairu. Przeprowadzka tutaj ma jednak swoje zalety." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "Ale wiesz, Ksiroda płynie z Vanaspati. Więc w pewnym sensie nasz dawny dom wciąż się o nas troszczy. …Lubię tak sobie myśleć." }
   ]
 }

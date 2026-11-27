@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy110_02941",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "Witam. Nazywam się Galiena i pracuję w Domu Splendorów dla mojej ciotki Roweny." },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "Po udanym rozszerzeniu działalności na Idyllshire i trzy miasta<-->państwa postanowiła otworzyć kolejną placówkę tutaj, w Rhalgr's Reach." },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "Nasza obecność wspiera odbudowę: tworzymy miejsca pracy dla uchodźców i pobudzamy gospodarkę. <if(gnum4,Pani,Pana)> umiejętności bardzo by nam się przydały." },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "A jeśli ma <if(gnum4,pani,pan)> jakieś przedmioty kolekcjonerskie, chętnie przyjmę je w zamian za scrips. Dzięki placówkom w całym kraju interesy z Domem Splendorów jeszcze nigdy nie były tak proste!" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "Witam. Jeśli zna <if(gnum4,pani,pan)> zdolnych rzemieślników lub zbieraczy, proszę mi ich przedstawić." },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "Aby podjąć to zadanie, musisz korzystać z klasy Ucznia Ręki lub Ucznia Ziemi na poziomie 60. lub wyższym." }
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "Dzień dobry. Nazywam się Galiena. Pracuję u cioci Roweny w Domu Splendorów." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "Dobrze się nam wiedzie w Idyllshire i trzech miastach<-->państwach, więc ciocia postanowiła otworzyć kolejną placówkę. Tutaj, w Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "Pomagamy w odbudowie. Dajemy pracę uchodźcom i rozkręcamy miejscową gospodarkę. Bardzo przydałaby się nam <if(gnum4,pani,pana)> pomoc." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "A jeśli ma <if(gnum4,pani,pan)> przedmioty kolekcjonerskie, chętnie je przyjmę w zamian za bony. Mamy placówki w całej Eorzei, więc z Domem Splendorów jeszcze nigdy nie robiło się interesów tak łatwo!" },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "Dzień dobry. Jeśli zna <if(gnum4,pani,pan)> kogoś, kto zna się na rzemiośle lub zbieractwie, chętnie go poznam." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "Do tej misji możesz przystąpić jako Uczeń Ręki lub Uczeń Ziemi na co najmniej 60. poziomie." }
   ]
 }

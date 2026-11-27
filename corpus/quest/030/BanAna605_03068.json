@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna605_03068",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana prosi o pomoc w przygotowaniu balsamu dla lecznicy.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana prosi o pomoc w przygotowaniu balsamu dla lazaretu.<br><br>※Poziom trudności zadania dostosowano do twojego obecnego poziomu. Możesz je kontynuować tylko w tej samej klasie lub tym samym jobem co w chwili przyjęcia." },
     { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "Zebrać bryły mułowca ze Strumienia Miraży" },
     { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "Dostarczyć bryły mułowca Eshanie" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Na razie nie ma pilnych spraw, ale w lecznicy przyda się pomoc, jeśli masz ochotę." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Mamy problem z owadami─takimi gryzącymi i żądlącymi. Wartownicy kończą służbę cali w bąblach i nie możemy ignorować wpływu tego na morale." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nawet najsilniejsze kadzidło nie odpędzi wszystkich owadów, ale mułowiec można zetrzeć na pastę, która łagodzi najgorszy świąd. Czy przyniesiesz mi ze trzy bryły? Znajdziesz go w wodach Strumienia Miraży." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Witaj, <split(<string(gstr1)>, ,1)>. Nic pilnego się nie dzieje, ale w lazarecie przyda się pomoc, jeśli masz ochotę." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Mamy problem z owadami. Gryzą, żądlą i zostawiają całe mnóstwo bąbli. Po takich wartach trudno utrzymać dobre morale." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nawet najmocniejsze kadzidło ich wszystkich nie odpędzi. Za to z roztartego mułowca robimy pastę, która łagodzi swędzenie. Przyniesiesz ze trzy bryły? Szukaj w wodach Strumienia Miraży." },
     { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "Udało ci się znaleźć mułowiec?" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Tak, znakomicie się nada. Balsam po nałożeniu niemal natychmiast łagodzi podrażnienie." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Tak, w sam raz. Taki balsam niemal od razu łagodzi podrażnienie." },
     { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "To nasz tradycyjny lek, przekazywany z pokolenia na pokolenie." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Mamy również wytwarzaną przez twój lud alchemiczną maść, która leczy same ukąszenia, ale jej zapasy są niewielkie. Wolę zachować ją na najcięższe przypadki, a na co dzień polegać na mułowcu." }
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Mamy też maść od waszych alchemików. Leczy same ukąszenia, ale mało jej zostało. Wolę oszczędzać ją na najcięższe przypadki, a na co dzień wystarczy nam mułowiec." }
   ]
 }

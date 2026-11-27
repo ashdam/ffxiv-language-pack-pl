@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk123_04573",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_SEQ_00", "hash": "6EC2B44028FD3997", "target": "Maru czeka na ciebie, mierząc cię oceniającym spojrzeniem.<br><br>※Trudność tego zadania została dostosowana do twojego obecnego poziomu. Ponadto możesz je kontynuować tylko tą samą klasą lub jobem, co przy jego przyjęciu." },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_SEQ_00", "hash": "6EC2B44028FD3997", "target": "Maru przygląda ci się uważnie.<br><br>※Poziom trudności tego zadania został dostosowany do twojego aktualnego poziomu. Możesz je kontynuować tylko w klasie lub jobie, w których je przyjęto." },
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_00", "hash": "C92957F0789A9C88", "target": "Zebrać kępy lepkiego mchu w Źródle Mayi" },
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_01", "hash": "48547D3E9E96F238", "target": "Dostarczyć Maru kosze lepkiego mchu" },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_000", "hash": "0976CEA641911054", "target": "Szukałem cię, <split(<string(gstr1)>, ,1)>. Potrzebuję kogoś, kto dobrze pływa, a ty chyba dotrzymasz w wodzie tempa hipopotamowi." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_001", "hash": "D69126049D4871EE", "target": "Właśnie wrócił mój kolega z Yedlihmadu, z prośbą od samej Kancany..." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_002", "hash": "66A0E0595501A6CE", "target": "Źródło Mayi pilnie potrzebuje gruntownego czyszczenia, a my─czyli <italic(1)>ty<italic(0)>─musimy pomóc. Kancana chce usunięcia mchu, który obrasta kamienne ściany." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_003", "hash": "64694560A0A8BA63", "target": "A wiesz, że nie lubię marnotrawstwa, więc może znajdę dla tego mchu jakieś zastosowanie. Weź te kosze i przynieś wszystko, co znajdziesz pod powierzchnią wody." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_010", "hash": "318A63E2EE30114F", "target": "Wyglądasz tak sucho jak hipopotam prażący się na słońcu. Udało się zebrać mech?" },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_011", "hash": "3C218143214D794A", "target": "Ach, dobrze─bałem się, że wystarczy ci spojrzeć na tę wodę, żeby się rozmyślić. Dam znać Kancanie, że świątynia powinna teraz wyglądać porządniej." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_012", "hash": "73370C35AC40568C", "target": "Szczęśliwym trafem hipopotamy szaleją za tym mchem. A i dobrze, że ma wszystko, czego potrzebuje rosnący hipcio! No, to może skosztujesz odrobiny?" },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_013", "hash": "C1A7DCA5FBF97570", "target": "Hahaha! Żartuję. Wiem, że masz znacznie bardziej wyrafinowany gust─może zaspokoisz go za te monety? Znam nawet firmę, która szybko dowozi świeże żarcie pod same drzwi..." }
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_000", "hash": "0976CEA641911054", "target": "Szukałem cię, <split(<string(gstr1)>, ,1)>. Potrzebuję kogoś, kto dobrze pływa, a ty w wodzie chyba dotrzymasz kroku hipopotamowi." },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_001", "hash": "D69126049D4871EE", "target": "Właśnie wrócił z Yedlihmad nasz kolega, z prośbą od samej Kancany…" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_002", "hash": "66A0E0595501A6CE", "target": "Źródło Mayi trzeba wreszcie porządnie wyczyścić. I my, to znaczy <italic(1)>ty<italic(0)>, mamy w tym pomóc. Kancana chce, żeby ktoś usunął mech z kamiennych ścian pod wodą." },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_003", "hash": "64694560A0A8BA63", "target": "Wiesz, że nie lubię niczego marnować. Może znajdę dla tego mchu jakieś zastosowanie. Weź kosze i przynieś wszystko, co znajdziesz pod wodą." },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_010", "hash": "318A63E2EE30114F", "target": "O, chyba słońce zdążyło cię wysuszyć. Udało się zebrać mech?" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_011", "hash": "3C218143214D794A", "target": "No to dobrze. Już się bałem, że wystarczy ci jeden rzut oka na wodę, żeby się rozmyślić. Powiem Kancanie, że świątynia powinna już wyglądać porządniej." },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_012", "hash": "73370C35AC40568C", "target": "Tak się składa, że hipopotamy za nim przepadają. I dobrze, bo jest w nim wszystko, czego potrzebuje rosnący hipcio! Chcesz skosztować?" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_013", "hash": "C1A7DCA5FBF97570", "target": "Ha, ha! Żartuję. Wiem, że masz trochę wybredniejsze podniebienie. Może coś sobie zamówisz za te pieniądze? Nawet znam firmę, która dowozi świeże jedzenie prosto pod drzwi…" }
   ]
 }

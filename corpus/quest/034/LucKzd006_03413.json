@@ -4,13 +4,13 @@
   "entries": [
     { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_SEQ_00", "hash": "545B9E943BFDAA66", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Troskliwy Nu Mou martwi się o swojego chowańca." },
     { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_00", "hash": "B260BE0A0BA0E298", "target": "Zerwać lilie w pełnym rozkwicie na południe od Płycizny Sześcioraczków" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_01", "hash": "915332D8FEF0E485", "target": "Dostarczyć lilie w pełnym rozkwicie troskliwemu Nu Mou" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "Proszę o pomoc. Mój drogi porxie ostatnio niedomaga. Potrzebuje lilii w pełnym rozkwicie, żeby wyzdrowieć." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "Nie mogę jednak zostawić go samego i pójść ich zerwać. Jeśli <if(gnum4,pani,pan)> mnie wyręczy, obiecuję należytą zapłatę." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "Proszę zerwać za mnie lilie w pełnym rozkwicie. Chętnie zrobię to bez pomocy, ale nie mogę opuścić mojego drogiego porxie." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_010", "hash": "C3BE56E01E127AE9", "target": "Ach, już <if(gnum4,pani wróciła,pan wrócił)>. Czy są lilie?" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "Serdecznie dziękuję! Teraz mój drogi porxie wyzdrowieje!" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "Czy nakarmię go liliami? W pewnym sensie. Jako magiczna istota nie może ich po prostu zjeść." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "Zamiast tego nasycę go eterem kwiatów. Dla niego to jak picie słodkiego nektaru─niezawodny sposób na poprawę samopoczucia! Jeszcze raz dziękuję. Proszę przyjąć należytą zapłatę za życzliwość!" }
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_01", "hash": "915332D8FEF0E485", "target": "Zanieść lilie w pełnym rozkwicie troskliwemu Nu Mou w Pla Enni" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "Proszę, trzeba mi pomocy. Mój biedny chowaniec porxie od jakiegoś czasu niedomaga. Żeby wyzdrowiał, potrzebuje lilii w pełnym rozkwicie." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "A ja nie mogę go zostawić nawet na chwilę. Jeśli <if(gnum4,pani mnie wyręczy,pan mnie wyręczy)>, oczywiście zapłacę za pomoc." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "Proszę zerwać dla mnie lilie w pełnym rozkwicie. Naprawdę nie mogę odejść od mojego biednego chowańca." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_010", "hash": "C3BE56E01E127AE9", "target": "O, już <if(gnum4,pani wróciła,pan wrócił)>. Są lilie?" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "Dziękuję z całego serca! Teraz mój chowaniec wyzdrowieje!" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "Czy dam mu kwiaty do zjedzenia? W pewnym sensie. To magiczne stworzenie, nie może jeść tak jak my." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "Dam mu za to eter z tych kwiatów. To tak, jakby się napił słodkiego nektaru. Od razu mu się poprawi! Jeszcze raz dziękuję. Proszę przyjąć zapłatę za tę życzliwość!" }
   ]
 }

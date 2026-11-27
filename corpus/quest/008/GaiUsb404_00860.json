@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb404_00860",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_00", "hash": "1777AB759A8CBCFA", "target": "Szeregowy Maelstromu Augustine zwraca się do ciebie z obolałą szyją i zaczerwienionymi oczami, zmęczony wypatrywaniem zagrożeń na niebie." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_01", "hash": "D7D006AD0EBCEF16", "target": "Niezbyt wymowny szeregowy Augustine narzeka na ptaki zagrażające balonowi, który dowozi zaopatrzenie do nękanego walkami Camp Overlook. Udaj się na zachód i zabij pięć kłopotliwych bestii highland condor." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_02", "hash": "2E539404EB5756C6", "target": "Zabijasz pięć ptaków. To je oduczy dziobania różnych rzeczy. Zdaj sprawę Augustine'owi." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_03", "hash": "84D00EE583236C0C", "target": "Szeregowy jest zadowolony, choć z radości bełkocze tak samo jak ze zdenerwowania. Maelstrom to doprawdy istny wir ludzkiej różnorodności." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_00", "hash": "D28B2212FB5E761A", "target": "Zabić highland condors" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_01", "hash": "27A6B71D80BBFA66", "target": "Zdać sprawę Augustine'owi" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_000", "hash": "8AD8666D25DD49E5", "target": "Camp Overlook to równie dobrze może być wyspa. Drogami nie warto puszczać taboru, chyba że chcesz, nie wiem, nakarmić plemię Kobold czy coś. Więc wszystko, co ma tu trafić, leci balonem." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_001", "hash": "8CC8C8CE0F0F431B", "target": "Ale to latanie w górze też nie takie piękne. Są te kondory, co próbują dobrać się do balonu. Byłbym wdzięczny, gdyby były, nie wiem, martwe czy coś." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_020", "hash": "57B5F5A6FBE950EE", "target": "Udało ci się załatwić te kondory? No, to dopiero piękna wiadomość! Balon lata, wiesz, a to ważne na wojnie. Z jednego miejsca w następne, tak jakby." },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_021", "hash": "23A6986FD4D1EFE9", "target": "Chciałbym być balonem. Prawdę mówiąc, niektórzy moi towarzysze tak mnie straszą, że aż portki spadają. Szaleją za świeżym mięsem, zabiliby cię dla niego. Podobno kiedyś byli korsarzami." }
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_00", "hash": "1777AB759A8CBCFA", "target": "Szeregowy Augustine z Maelstromu ma sztywny kark i czerwone oczy. Dość się już napatrzył w niebo." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_01", "hash": "D7D006AD0EBCEF16", "target": "Szeregowy Augustine próbuje ci wytłumaczyć, że ptaki napadają na balon, który wozi zaopatrzenie do oblężonego Camp Overlook. Idź na zachód i zabij pięć kondorów, które mu zagrażają." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_02", "hash": "2E539404EB5756C6", "target": "Pięć ptaków już nie żyje. To je oduczy dziobania, czego popadnie. Wróć do Augustine'a i daj mu znać." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_03", "hash": "84D00EE583236C0C", "target": "Augustine się cieszy, choć z radości plącze mu się język tak samo jak ze zdenerwowania. W Maelstromie aż się roi od takich oryginałów." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_00", "hash": "D28B2212FB5E761A", "target": "Zabić kondory (highland condor)" },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_01", "hash": "27A6B71D80BBFA66", "target": "Zdać relację Augustine'owi" },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_000", "hash": "8AD8666D25DD49E5", "target": "Camp Overlook to już równie dobrze mógłby leżeć na wyspie. Nie ma co wysyłać wozów drogą, chyba że chcesz… no, nie wiem, nakarmić plemię Kobold czy coś. Więc jak coś ma tu dotrzeć, leci balonem." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_001", "hash": "8CC8C8CE0F0F431B", "target": "Tylko że w powietrzu też nie ma lekko. Kondory się do balonu dobierają. Miło by było, gdyby, no nie wiem... zdechły czy coś." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_020", "hash": "57B5F5A6FBE950EE", "target": "I co, po kondorach? O rany, świetna wiadomość! Balon może teraz latać, a to na wojnie ważne, wiesz. No, że z jednego miejsca w drugie i tak dalej." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_021", "hash": "23A6986FD4D1EFE9", "target": "Też bym chciał być balonem. Szczerze mówiąc, na widok niektórych kamratów trzęsę portkami. Na świeże mięso to się rzucą, za kawałek by zabili. Korsarze z nich byli, podobno." }
   ]
 }

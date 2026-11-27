@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna302_03043",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "Eshana uważa, że Castellum Velodyna pilnie potrzebuje napraw.<br><br>※Poziom trudności tego zadania został dostosowany do twojego obecnego poziomu. Ponadto możesz je kontynuować wyłącznie tą samą klasą lub tym samym jobem co w chwili przyjęcia zadania." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "Zdaniem Eshany Castellum Velodyna pilnie potrzebuje napraw.<br><br>※Poziom trudności zadania dostosowano do twojego obecnego poziomu. Możesz je kontynuować tylko w tej samej klasie lub tym samym jobem co w chwili przyjęcia." },
     { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_00", "hash": "09FB2409DC4C4FFA", "target": "Zebrać płyty pancerza z cermetu przy Wodospadach Piki" },
     { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_01", "hash": "204CEA3381DCCD35", "target": "Dostarczyć płyty pancerza z cermetu Eshanie" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "Na pewno pamiętasz, jak zacięta była bitwa o odzyskanie Castellum Velodyna. Most oczywiście nie wyszedł z niej bez szwanku, a jego naprawa i utrzymanie należą do naszych obowiązków. Problem w tym, że brakuje nam odpowiednich materiałów." },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "Garleańczycy wznieśli ten most z materiałów rzadko spotykanych w tej okolicy, ale pancerz z cermetu z ich machin wojennych dobrze się nadaje do naszych prac. Jeśli przyniesiesz nam, powiedzmy, trzy takie płyty, będziemy bardzo wdzięczne." },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "Udało ci się znaleźć jakieś machiny, z których można odzyskać materiały?" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "Pewnie pamiętasz, jak zacięta była walka o Castellum Velodyna. Most ucierpiał. Do nas należy go naprawić i utrzymać, tylko materiałów mamy za mało." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "Garleańczycy użyli do budowy surowców, których trudno tu dostać. Przyda się za to cermetowy pancerz z ich machin wojennych. Przynieś nam trzy płyty, a bardzo nam pomożesz." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "Udało ci się znaleźć wraki, które warto rozebrać?" },
     { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_021", "hash": "3124088151A2AA40", "target": "Tak, to wystarczy." },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "Prawdę mówiąc, uważam tutejszą architekturę za dość toporną. Na szczęście składa się głównie z metalu. Możemy więc ćwiczyć naszą magię kształtowania metali." },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "Mimo to do ukończenia napraw będzie potrzeba niemało płyt. Podejrzewam, że wkrótce znów przyda nam się twoja pomoc." }
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "Prawdę mówiąc, te budowle wyglądają topornie. Całe szczęście, że są głównie z metalu. Przynajmniej możemy wykorzystać naszą magię do kształtowania metalu." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "Do końca napraw przyda się jeszcze sporo płyt. Pewnie niedługo znów poproszę cię o pomoc." }
   ]
 }

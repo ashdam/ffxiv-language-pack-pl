@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa508_00760",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "Annabel z Nieśmiertelnych Płomieni ma zadanie dla dzielnego poszukiwacza przygód." },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "Zagubione dusze Belah'dii nawiedzają ruiny na południe od osady Little Ala Mhigo. Osłab je święconą wodą od Annabel i zabij po jednym tempered sword i tempered brand." },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "Dusze poległych zaznały spokoju. Powiadom o tym Annabel." },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "Annabel jest pod wrażeniem twoich czynów i postanawia pilnie ćwiczyć, aby pewnego dnia sama dokonywać podobnych wyczynów." },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "Użyć święconej wody i zabić tempered sword" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "Użyć święconej wody i zabić tempered brand" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "Zdać raport Annabel" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "Proszę mnie wysłuchać. Czy <if(gnum4,odwiedziła pani,odwiedził pan)> może ruiny na południe stąd? Podobno pochodzą z czasów Belah'dii." },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "Jako miłośniczka historii byłam zachwycona, gdy przełożeni wysłali mnie tam na patrol. Zachwyt szybko zmienił się jednak w przerażenie, kiedy odkryłam straszliwą prawdę─te ruiny są nawiedzone!" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "Tak, dokładnie tak. Do dziś grasują tam zjawy Belah'dii, a moje skromne wyszkolenie zupełnie nie przygotowało mnie na takie okropności. Czy <if(gnum4,zechciałaby pani,zechciałby pan)> za pomocą tej święconej wody odprowadzić zagubione dusze do królestwa Thala?" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "Niezwykłe! Poszukiwacze przygód naprawdę są tak dzielni, jak mówią. Muszę poświęcić się ćwiczeniom, aby pewnego dnia również dokonywać takich czynów." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "Annabel z Nieśmiertelnych Płomieni ma zadanie dla kogoś odważnego." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "Podobno ruiny na południe od Małego Ala Mhigo nawiedzają dusze z czasów Belah'dii. Użyj pobłogosławionej wody od Annabel, żeby osłabić i pokonać zjawy tempered sword oraz tempered brand." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "Zjawy pokonane. Daj znać Annabel." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "Annabel podziwia twoją waleczność. Obiecuje przyłożyć się do ćwiczeń, żeby i ona kiedyś dokonała czegoś takiego." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "Użyć pobłogosławionej wody i pokonać tempered sword" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "Użyć pobłogosławionej wody i pokonać tempered brand" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "Wrócić do Annabel" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "Czy <if(gnum4,była pani,był pan)> może w ruinach na południe stąd? Podobno pochodzą z czasów Belah'dii." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "Uwielbiam historię, więc ucieszyłam się, kiedy wysłali mnie tam na patrol. A potem cała radość prysła. Okazało się, że ruiny są nawiedzone!" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "Tak, naprawdę. Do dziś straszą tam zjawy z Belah'dii, a mnie nikt nie uczył, jak z nimi walczyć. Czy <if(gnum4,zechciałaby pani,zechciałby pan)> wziąć tę pobłogosławioną wodę i pomóc im odejść do królestwa Thala?" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "Niesamowite! Poszukiwacze przygód są naprawdę tak dzielni, jak o nich mówią. Muszę się przyłożyć do ćwiczeń. Może kiedyś też mi się uda dokonać czegoś takiego." },
     { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_POP_MESSAGE_000", "hash": "21BA667ED6E60ED4", "target": "Wyczuwasz wrogą obecność!" }
   ]
 }

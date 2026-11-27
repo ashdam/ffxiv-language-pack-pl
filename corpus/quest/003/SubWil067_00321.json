@@ -2,20 +2,20 @@
   "conversation": "quest/003/SubWil067_00321",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "Hihiyaja potrzebuje pomocy w przetrzebieniu populacji snipping shrew." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "Na Królewskich Plantacjach dżdżownice poprawiają jakość gleby i zwiększają plony. Niestety, snipping shrew grożą ich wytępieniem. Znajdź kopce ryjówek i zabij ich mieszkańców." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "Ostatni drapieżnik nie żyje. Dżdżownice mogą znów spokojnie użyźniać glebę. Zanieś dobre wieści Hihiyaji." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "Teraz gdy dżdżownice są bezpieczne, Hihiyaja może zająć się uprawą warzyw, które pewnego dnia mogą trafić na stół samej sułtanki." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "Zabić snipping shrew" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "Zdać raport Hihiyaji" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "Hihiyaja szuka kogoś, kto pomoże mu przetrzebić ryjówki zwane snipping shrews." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "Na Królewskich Plantacjach dżdżownice użyźniają glebę, dzięki czemu plony są obfitsze. Ryjówki mogą je jednak wyjeść do ostatniej. Zbadaj trzy kopce ryjówek i zabij te, które z nich wybiegną." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "Ryjówki już nie zagrażają dżdżownicom. Zanieś dobre wieści Hihiyaji." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "Hihiyaja odetchnął z ulgą. Może znów spokojnie doglądać warzyw. Może któreś trafią kiedyś na stół samej sułtanki." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "Zbadać kopce i zabić ryjówki (snipping shrews)" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "Wrócić do Hihiyaji" },
     { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_23", "hash": "C715CBB5B022D14D", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "Thanalan zawsze był jałowym regionem. Proszę mi wierzyć, uprawa czegokolwiek wymaga tu niemałego wysiłku." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "Thanalan od zawsze był jałowy. Proszę mi wierzyć, trzeba się tu nieźle napracować, żeby cokolwiek wyrosło." },
     { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_2", "hash": "A60346882D971A49", "target": "Wpuściliśmy nawet do ziemi dżdżownice, żeby ją użyźniały." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "Niestety, snipping shrew, tutejsze ryjące stworzenia, niemal całkowicie je wytępiły." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "Jeśli nie ocalimy dżdżownic, przy następnych zbiorach nie będzie tu ani jednej dyni. Czy <if(gnum4,mogłaby pani,mógłby pan)> pomóc przetrzebić ryjówki? Najlepiej zacząć od ich kopców." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "Tyle że ryjówki wyjadły nam prawie wszystkie. Pełno tu tych paskud, ryją pod grządkami." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "Jeśli tak dalej pójdzie, nie zbierzemy choćby jednej dyni. Czy <if(gnum4,mogłaby pani,mógłby pan)> pomóc nam przetrzebić ryjówki? Najlepiej zajrzeć do kopców." },
     { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_10", "hash": "5E4155A0E4B42F08", "target": "Dziękuję! <if(gnum4,Jest pani prawdziwą obrończynią,Jest pan prawdziwym obrońcą)> dżdżownic!" },
     { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_11", "hash": "6FA387A7DE8C54CE", "target": "Teraz możemy liczyć na obfite zbiory dyni." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "Ciekawe, które z nich trafią na talerz sułtanki..." },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "Powietrze przeszywa piskliwy skrzek!" }
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "Ciekawe, czy któraś trafi na talerz sułtanki..." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "Ciszę rozdziera przenikliwy pisk!" }
   ]
 }

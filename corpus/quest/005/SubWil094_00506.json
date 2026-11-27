@@ -2,16 +2,16 @@
   "conversation": "quest/005/SubWil094_00506",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "Edalene z Zatoki Crescent szuka pomocy przy usuwaniu śmieci zaplątanych w sieci." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "Sieci trałowe Edalene zatkały się śmieciami z dna morza. Pomóż jej usunąć wszystkie szczątki, jakie znajdziesz." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "Sieci są już czyste. Porozmawiaj ponownie z Edalene." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "Po podziękowaniach Edalene opowiada o życiu żony rybaka, która naprawia sieci i modli się o spokojne wody oraz obfite połowy." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "Edalene z Zatoki Crescent potrzebuje pomocy przy czyszczeniu sieci rybackich." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "Sieci trałowe Edalene są pełne śmieci z dna morza. Powybieraj wszystko, co zaplątało się w oczka." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "Sieci są już czyste. Daj znać Edalene." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "Edalene dziękuje ci za pomoc. Opowiada, że żony rybaków cerują sieci i modlą się o obfite połowy i szczęśliwy powrót mężów." },
     { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_00", "hash": "5FB3FBB29B5F00E2", "target": "Usunąć śmieci z sieci trałowych" },
     { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_01", "hash": "EA4C4CA941EE6EB5", "target": "Porozmawiać z Edalene" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "Czy <if(gnum4,ma pani,ma pan)> chwilę dla starej żony rybaka? Jak widać, sieci wymagają opieki." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "Te wiszące tu sieci służą do połowu ryb. Sęk w tym, że zgarniają przy okazji najróżniejsze śmieci z morskiego dna." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "Będę wdzięczna za usunięcie wszystkich szczątków, jakie uda się znaleźć." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "Serdecznie dziękuję. Jeden obowiązek mniej." },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "Życie żony rybaka nie jest łatwe. Kiedy nie ceruję sieci i nie łatam żagli, modlę się do Llymlaen o spokojne wody i obfity połów. A jednak nie zamieniłabym tej ciężkiej pracy na nic innego." }
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "Czy <if(gnum4,ma pani,ma pan)> chwilkę? Starej żonie rybaka przyda się pomoc. Trzeba oczyścić te sieci." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "Widzi <if(gnum4,pani,pan)> te rozwieszone sieci? Ciągniemy je po dnie. Razem z rybami wyciągamy potem najróżniejsze śmieci." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "Będę wdzięczna za pomoc w wybraniu tych śmieci z sieci." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "Dziękuję za pomoc. Od razu jeden obowiązek mniej." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "Niełatwo być żoną rybaka. Jak nie ceruję sieci i nie łatam żagli, to modlę się do Llymlaen, żeby morze było spokojne, połów obfity i żeby mąż wrócił cały. A jednak za nic nie zamieniłabym tego życia na inne." }
   ]
 }

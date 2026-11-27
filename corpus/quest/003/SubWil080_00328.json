@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil080_00328",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_00", "hash": "A7B5C235CD8723EE", "target": "Dadanen prosi o dostarczenie wiadomości do Copperbell Mines." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_01", "hash": "EDAF54E0EE7A0B88", "target": "Dadanen wciąż nie otrzymał dostawy z Copperbell Mines i traci cierpliwość. Dostarcz jego wezwanie górnikowi Drunken Stag, którego wynajął do przewiezienia towaru." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_02", "hash": "891DB393623D3C02", "target": "Drunken Stag nic nie może zrobić, bo kopalnie zamknięto z powodu incydentu w głębinach. Wspomniał jednak, że niedaleko stąd zgubił ładunek..." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_TODO_00", "hash": "905E723AC8C86548", "target": "Dostarczyć ostateczne wezwanie Dadanena górnikowi Drunken Stag" },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_000", "hash": "42DC259C48655DDD", "target": "Tak się składa, że mam sprawę, którą trzeba załatwić migiem─i mam na myśli <italic(1)>migiem<italic(0)>." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_001", "hash": "1047C7CEC1DB0C6A", "target": "Skończył mi się towar najwyższej jakości, a najnowsze zamówienie wciąż nie dotarło! Jeśli klienci będą czekać jeszcze dłużej, może to nieodwracalnie zaszkodzić mojej reputacji!" },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_002", "hash": "CA1C68DC330BC31A", "target": "Co gorsza, zapłaciłem mojemu człowiekowi z góry za usługi. Mimo zapewnień, że to prosta sprawa, nie miałem od niego wieści, odkąd parę dni temu wyruszył do Copperbell Mines." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_003", "hash": "0E0E0128B9683779", "target": "Odszukaj górnika Drunken Stag i daj mu to wezwanie. Nie mogę sobie pozwolić na dalszą zwłokę." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_00", "hash": "A7B5C235CD8723EE", "target": "Dadanen prosi, żeby zanieść wiadomość do Copperbell Mines." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_01", "hash": "EDAF54E0EE7A0B88", "target": "Dadanen wciąż czeka na dostawę z Copperbell Mines i traci cierpliwość. Wręcz jego ostateczne upomnienie górnikowi o imieniu Drunken Stag. To jemu zlecił dostawę." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_SEQ_02", "hash": "891DB393623D3C02", "target": "Drunken Stag nic nie może zrobić. Po incydencie pod ziemią kopalnię zamknięto. Wspomniał jednak, że w całym tym zamieszaniu przepadł mu gdzieś w pobliżu ładunek..." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_TODO_00", "hash": "905E723AC8C86548", "target": "Przekazać ostateczne upomnienie Dadanena górnikowi o imieniu Drunken Stag" },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_000", "hash": "42DC259C48655DDD", "target": "Mam sprawę na już. I kiedy mówię „<italic(1)>już<italic(0)>”, to mam na myśli tę chwilę." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_001", "hash": "1047C7CEC1DB0C6A", "target": "Najlepszy towar już mi wyszedł, a dostawy jak nie było, tak nie ma! Jak każę klientom dłużej czekać, stracę ich na dobre!" },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_002", "hash": "CA1C68DC330BC31A", "target": "Co gorsza, zapłaciłem za przewóz z góry. Górnik zarzekał się, że to żaden kłopot, po czym ruszył do Copperbell Mines. Minęło parę dni i ani słowa." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DADANEN_003", "hash": "0E0E0128B9683779", "target": "Znajdź górnika o imieniu Drunken Stag i daj mu to upomnienie. Nie stać mnie na dalszą zwłokę." },
     { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_010", "hash": "491C8A6F7EC8D856", "target": "Czego chcesz? Hm? Towaru Dadanena?" },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_011", "hash": "6514D82B9EA02AE2", "target": "Może słać wezwania, ile chce, ale to nic nie zmieni." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_012", "hash": "D0CD23DA15594AC8", "target": "Kompania górnicza zamknęła kopalnie z powodu jakiegoś incydentu w głębinach." },
-    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_013", "hash": "A2952A97FC362520", "target": "Cholerna szkoda─w całym tym zamieszaniu zgubiłem niezły ładunek, o tam..." }
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_011", "hash": "6514D82B9EA02AE2", "target": "Niech śle upomnienia, ile wlezie. Nic to nie zmieni." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_012", "hash": "D0CD23DA15594AC8", "target": "Coś się stało pod ziemią i Kompania Górnicza zamknęła kopalnię." },
+    { "gameKey": "quest/003/SubWil080_00328#TEXT_SUBWIL080_00328_DRUNKENSTAG_013", "hash": "A2952A97FC362520", "target": "A niech to szlag. W całym tym zamieszaniu przepadła mi niezła partia urobku, o, tam nieopodal..." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn502_02992",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Na południowy brzeg Skały na Mieliźnie fale wyrzucają dziwne skrzynie.<br><br>※Poziom trudności tego zadania został zsynchronizowany z twoim aktualnym poziomem. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Zbadać eorzeańskie skrzynie i zebrać skarby" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Fale wyrzucają dziwne skrzynie na południowy brzeg Skały na Mieliźnie.<br><br>※Poziom trudności zadania został dostosowany do twojego obecnego poziomu. Do kontynuowania zadania wymagana jest ta sama klasa lub ten sam job co w chwili jego przyjęcia." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Zbadać eorzejskie skrzynie i zabrać skarby" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Dostarczyć monety Zukinowi" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Jeden z naszych znalazł trzy skrzynie wyrzucone na Skałę na Mieliźnie. Wyglądały na eorzejski wyrób, ale niczego więcej nie ustalił. Zamykał je szczelnie jakiś nieznany nam mechanizm." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Mamy trochę doświadczenia z otwieraniem zamkniętych skrzyń, ale nie takich z zachodnich krain. Ty jednak pewnie rozgryziesz ten mechanizm. Możesz się tym zająć?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Jeden z naszych znalazł trzy skrzynie, które fale wyrzuciły na Skałę na Mieliźnie. Na oko eorzejska robota. Tyle że zamykał je tak wymyślny mechanizm, że nie miał pojęcia, jak się do nich dobrać." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Z zamkniętymi skrzyniami nieraz mieliśmy do czynienia, ale tym zamkom z zachodu nie damy rady. Za to ty pewnie je rozgryziesz. Zajmiesz się tym?" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "Jak poszło z tymi skrzyniami?" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "To było w środku? Niech no spojrzę... Stara zachodnia waluta, i to wybita ze szlachetnych metali. Dzięki za przyniesienie tych monet!" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "Co? Skrzynie, które ożywają i zaciekle kłapią wiekiem? Czy to złe duchy czyhające na nieszczęsnych poszukiwaczy skarbów? A może oszalałe bóstwa tsukumogami? To doprawdy niepokojące." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "Tak czy inaczej, bardzo się cieszę, że nic ci się nie stało. Nie myślałem o niebezpieczeństwie, prosząc o pomoc, ale słusznie zwróciłem się do tak zahartowanej w przygodach osoby jak ty." }
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "To było w środku? Pokaż... Stare monety z zachodu, i to ze szlachetnego kruszcu. Dzięki, że mi je przynosisz!" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "Co? Skrzynie ożywają i kłapią wiekami?! To może złe duchy, które czyhają na nieszczęsnych poszukiwaczy skarbów? A może tsukumogami, którym coś odbiło? To już poważna sprawa." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "Dobrze, że nic ci się nie stało. Nie przyszło mi do głowy, że grozi ci coś więcej niż zacięty zamek. Na szczęście znam kogoś, kto z niejednego pieca jadł chleb." }
   ]
 }

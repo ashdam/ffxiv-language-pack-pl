@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz211_01780",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "Nowi mieszkańcy Rzeki Whilom dają się temu łowcy we znaki." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "Stado potężnych niedźwiedzi zadomowiło się w górnym biegu Rzeki Whilom. Zmartwiony łowca prosi cię o przepłoszenie ich, by mógł znów zająć się polowaniem. Zabij cztery niedźwiedzie, aby reszta poszukała innego wodopoju." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "Cztery niedźwiedzie spoczywają już na dnie Rzeki Whilom. Wróć do łowcy i opowiedz mu o rzezi." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "Łowca wygląda na uspokojonego, lecz mówi, że przed powrotem do pracy musi poczekać na zapasy i zmianę pogody. Miejmy nadzieję, że w międzyczasie nie wrócą tu kolejne niedźwiedzie." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "Zabić bestie brown bear" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "Zdać sprawę łowcy" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "Znasz już górny bieg Rzeki Whilom? Kiedyś były tam doskonałe tereny łowieckie... dopóki nie sprowadziły się niedźwiedzie." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "Kryliśmy się w niecce pod wodospadem i czekaliśmy, aż jakiś chocobo przyjdzie się napić. Łatwo było o zdobycz... Ale niedźwiedzie nam to utrudniają." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "Ktoś musi je przepłoszyć, żebyśmy mogli znów polować─a ty wyglądasz na odpowiednią osobę! Poślij cztery na dno niecki, a zadbam o godziwą nagrodę." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "Nie udało nam się złapać ani jednego ptaka, odkąd niedźwiedzie zamieszkały w górze rzeki. Zabij cztery, a dopilnuję, żeby nie ominęła cię nagroda." },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "Założę się, że te niedźwiedzie już żałują, że przeszkadzały nam w polowaniu! Pozostaje uzupełnić zapasy i poczekać, aż trochę się ociepli. Wtedy znów ruszymy w górę rzeki." }
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "Łowca ma już dość nowych mieszkańców Rzeki Whilom." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "Nad górnym biegiem Rzeki Whilom zadomowiła się gromada potężnych niedźwiedzi. Zmartwiony łowca prosi, żeby je stamtąd przepędzić. Zabij cztery, a reszta powinna poszukać innego wodopoju." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "Cztery niedźwiedzie leżą już na dnie Rzeki Whilom. Wróć do łowcy i powiedz, co się z nimi stało." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "Łowca odetchnął z ulgą, ale na łowy wróci dopiero, gdy uzupełni zapasy i pogoda się poprawi. Oby do tego czasu nie zjawiły się kolejne niedźwiedzie." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "Zabić niedźwiedzie brunatne" },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "Zdać raport łowcy" },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "<if(gnum4,Byłaś,Byłeś)> już w górze Rzeki Whilom? Kiedyś lepszych terenów łowieckich nie było… dopóki nie sprowadziły się niedźwiedzie." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "Czailiśmy się pod wodospadem, aż jakiś chocobo przyjdzie się napić. Łatwo było wtedy coś złapać… ale niedźwiedzie wszystko popsuły." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "Ktoś musi je przepędzić, żebyśmy znów mogli polować. Wyglądasz na kogoś, kto sobie poradzi! Poślij cztery na dno, a porządnie ci zapłacę." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "Odkąd niedźwiedzie sprowadziły się w górę rzeki, nie złapaliśmy ani jednego ptaka. Zabij cztery, a nagroda cię nie ominie." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "Założę się, że te niedźwiedzie już żałują, że nam przeszkadzały! Uzupełnimy zapasy, poczekamy, aż trochę się ociepli, i ruszymy znów w górę rzeki." }
   ]
 }

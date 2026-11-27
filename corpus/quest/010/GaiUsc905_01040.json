@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc905_01040",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_00", "hash": "71D0C2C5CB5EE34F", "target": "Spiraling Path prosi cię o wyprawę drogą." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_01", "hash": "7EEC1F29BB3A2AB4", "target": "Tajny oddział zaopatrzeniowy przebrany za górników wyruszył bez skrzyni sejmitarów. Spiraling Path prosi cię o bezpieczne dostarczenie im ostrzy." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_02", "hash": "8EF5BDA49C4D6AA3", "target": "Dodoroba dziękuje za przyniesienie skrzyni sejmitarów. Wróć do obozu Camp Bluefog i powiadom żołnierza Spiraling Path o powodzeniu." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_03", "hash": "7F2F521B26CB5F1A", "target": "Broń trafi tam, gdzie jest najbardziej potrzebna. Dzięki pomocy poszukiwacza przygód w dostawie Garleańczycy niczego się nie domyślą." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_00", "hash": "71D0C2C5CB5EE34F", "target": "Spiraling Path chce, żeby ruszyć za oddziałem zaopatrzeniowym." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_01", "hash": "7EEC1F29BB3A2AB4", "target": "Oddział zaopatrzeniowy ruszył w drogę w przebraniu górników, ale zostawił skrzynię sejmitarów. Spiraling Path prosi cię, żeby dostarczyć im broń bez zwracania uwagi." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_02", "hash": "8EF5BDA49C4D6AA3", "target": "Dodoroba dziękuje za skrzynię sejmitarów. Wróć do Obozu Bluefog i daj znać sierżantowi Spiraling Path, że broń dotarła." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_03", "hash": "7F2F521B26CB5F1A", "target": "Broń trafi tam, gdzie najbardziej jej potrzeba. Dzięki twojej pomocy Garleańczycy niczego nie podejrzewają." },
     { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_00", "hash": "83A0E4C26617171C", "target": "Dostarczyć sejmitary Nieśmiertelnych Płomieni Dodorobie" },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_01", "hash": "A9D81757CAAE90D1", "target": "Zdać raport żołnierzowi Spiraling Path" },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_000", "hash": "A6528D36AFCE6C4E", "target": "Kluczem do zwycięstwa jest zaskoczenie, a kluczem do zaskoczenia tajemnica. Przebieramy się za górników, by ukryć ruchy zaopatrzenia przed garleańskimi wartownikami." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_001", "hash": "4043281B07CF3C7C", "target": "Ostatni transport wyruszył jednak bez skrzyni broni. Dla oczekującej jej brygady mogłoby to być niemiłe zaskoczenie." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_002", "hash": "4861AEE107845D7E", "target": "Oddział zmierza do wschodniej wieży strażniczej. Mam nadzieję, że zdoła <if(gnum4,pani,pan)> ich dogonić i dostarczyć te sejmitary." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_010", "hash": "E17344432A001EE3", "target": "Jak widać, jesteśmy górnikami wiozącymi rudę. Nie mamy czasu na pogawędki." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_01", "hash": "A9D81757CAAE90D1", "target": "Złożyć meldunek sierżantowi Spiraling Path" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_000", "hash": "A6528D36AFCE6C4E", "target": "Kto chce zwyciężyć, musi zaskoczyć wroga. A żeby go zaskoczyć, trzeba działać po cichu. Udajemy górników, żeby garleańscy wartownicy nie wiedzieli, co i dokąd przewozimy." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_001", "hash": "4043281B07CF3C7C", "target": "Tyle że ostatni oddział zapomniał zabrać skrzynię broni. Brygada, która na nią czeka, może się niemile zdziwić." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_002", "hash": "4861AEE107845D7E", "target": "Oddział jedzie w stronę Wschodniej Wieży Strażniczej. Mam nadzieję, że <if(gnum4,zdoła go pani,zdoła go pan)> dogonić i dostarczyć im te sejmitary." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_010", "hash": "E17344432A001EE3", "target": "Jak widać, jesteśmy górnikami. Wieziemy rudę i nie mamy czasu na pogaduszki." },
     { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_020", "hash": "2251750042E92156", "target": "Ach! Te sejmitary miały być częścią ładunku!" },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_021", "hash": "E1A2A75C18AFE833", "target": "Dobrze, że nie przysłali żołnierza Płomieni, bo zwróciłby niechcianą uwagę. Dziękuję za pomoc." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_030", "hash": "50DD36AB6B60DE0C", "target": "Ulgą jest dla mnie ten bezpieczny powrót i świadomość, że broń bez przeszkód dotrze do celu." },
-    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_031", "hash": "43D669E1DBA69CC5", "target": "Ruch na pograniczu Thanalan i wokół niego jest nieustannie obserwowany. Jeden fałszywy krok może rozpalić pożar, który pochłonie cały kraj." }
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_021", "hash": "E1A2A75C18AFE833", "target": "Dobrze, że nie przysłali kogoś z Płomieni. Od razu zwróciłby na nas uwagę. Dziękuję za pomoc." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_030", "hash": "50DD36AB6B60DE0C", "target": "Całe szczęście, że nic się po drodze nie stało i broń dotrze na miejsce." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_031", "hash": "43D669E1DBA69CC5", "target": "Na pograniczu Thanalanu śledzą każdy nasz ruch. Jeden fałszywy krok może wzniecić pożar w całej krainie." }
   ]
 }

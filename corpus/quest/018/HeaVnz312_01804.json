@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz312_01804",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "Jedna z Gnathów w magazynie wygląda na zupełnie zdezorientowaną." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "Nonmind drone nie słyszy już rozkazów Wspólnego Umysłu. Nie wiedząc, co robić, prosi cię o pomoc. Udaj się do Loth ast Vath i powiadom gawędziarza Vath o sytuacji." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "Gawędziarz Vath od razu uznaje to za dobrą wiadomość. Cieszy go myśl o nowej członkini Odłączonych. Prosi, by skierować zagubioną Gnath do Loth ast Vath." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "Przekazujesz Nonmind drone wiadomość od gawędziarza. Podekscytowana myślą o spotkaniu podobnych sobie, natychmiast wyrusza do Loth ast Vath. Oby łatwo odnalazła się w nowym roju." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "Jedna z robotnic Gnath w magazynie rozgląda się bezradnie." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "Zagubiona robotnica nie słyszy już rozkazów Wspólnego Umysłu. Nie wie, co robić, i prosi cię o pomoc. Udaj się do Loth ast Vath i opowiedz o niej gawędziarzowi Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "Gawędziarz Vath przyjmuje wieść z radością. Cieszy się, że do Odłączonych może dołączyć kolejna osoba. Prosi, by zaprosić zagubioną robotnicę do Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "Przekazujesz robotnicy zaproszenie. Na wieść, że są inni tacy jak ona, od razu wyrusza do Loth ast Vath. Oby prędko zadomowiła się w nowym roju." },
     { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_00", "hash": "81223C5BA33A3995", "target": "Porozmawiać z gawędziarzem Vath w Loth ast Vath" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "Poinstruować Nonmind drone" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "Gdzie jesteśmy? <italic(1)>Kim<italic(0)> jesteśmy? \\<klik> \\<klik> Czekamy na rozkazy, lecz ich nie słyszymy. Co mamy robić?" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "Nie rozmawiamy z istotami z mięsa. \\<klik> \\<klik> ...Lecz nie mamy wyboru. Co mamy robić, istoto z mięsa? Zapytaj kogoś w naszym imieniu." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "Prosimy, zapytaj kogoś, co mamy robić. \\<klik> \\<klik>" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "\\<klik> \\<klik> Ta Gnath chyba się przebudziła─odkryła dar samoświadomości. To dobra wiadomość. Mamy nową siostrę! <if(gnum4,Łowczyni,Łowco)>, przekaż jej, by przyszła tutaj, do Loth ast Vath." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "Odszukaj naszą nową siostrę i powiedz, by przyszła do Loth ast Vath. \\<klik> \\<klik>" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "Od... łączeni? \\<klik> \\<klik> Więc są inni. Inni Gnathowie, tacy jak my." },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "Rozumiemy. Pójdziemy tam teraz. Musimy, inaczej nas zniszczą. Dziękujemy ci, dobra istoto z mięsa." }
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "Przekazać wiadomość robotnicy o nazwie „Nonmind drone”" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "Gdzie jesteśmy? <italic(1)>Kim<italic(0)> jesteśmy? \\<klik> \\<klik> Czekamy na rozkazy. Tylko czemu żadnych nie słyszymy? Co mamy robić?" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "Nie rozmawiamy z istotami z mięsa. \\<klik> \\<klik> ...Ale teraz nie mamy wyboru. Co mamy robić, istoto z mięsa? Zapytaj kogoś za nas, prosimy." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "Zapytaj kogoś, co mamy robić. Prosimy. \\<klik> \\<klik>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "\\<klik> \\<klik> Wygląda na to, że się przebudziła i zaczyna myśleć samodzielnie. To dobra wieść. Mamy nową siostrę! <if(gnum4,Łowczyni,Łowco)>, powiedz jej, żeby do nas przyszła. Czekamy w Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "Odszukaj naszą nową siostrę i zaproś ją do Loth ast Vath. \\<klik> \\<klik>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "Od... łączeni? \\<klik> \\<klik> Czyli są jeszcze inni. Inni Gnathowie tacy jak my." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "Rozumiemy. Zaraz tam pójdziemy. Jeśli tu zostaniemy, zniszczą nas. Dziękujemy ci, dobra istoto z mięsa." }
   ]
 }

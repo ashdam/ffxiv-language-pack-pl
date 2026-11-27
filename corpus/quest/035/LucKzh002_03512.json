@@ -2,16 +2,16 @@
   "conversation": "quest/035/LucKzh002_03512",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Hilmar oferuje dobrą zapłatę za pozornie proste zadanie." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "Napełnić lampy górnicze olejem o ostrej woni" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "Zdać relację Hilmarowi" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "Masz coś do roboty? Chyba nie." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "Płacę za napełnienie lamp. Pasuje?" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "Są cztery. Oto olej. Wróć do mnie, jak skończysz." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "Jeśli łaska, chciałbym mieć to zrobione już." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "Wreszcie koniec. Gnomy nie przeszkadzały?" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "Ostatnio jest ich chyba coraz więcej. Nawet napełnianie lamp to przez nie utrapienie." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "Ale nie możemy pozwolić im powstrzymać nas od pracy. Kolejne ryzyko zawodowe." },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "Tak czy siak, oto zapłata. Dobra robota, grzeszna duszo." }
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Hilmar dobrze zapłaci za robotę, która wygląda na prostą." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "Napełnij lampy górnicze cuchnącym olejem." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "Zdaj relację Hilmarowi." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "Masz chwilę? Tak też myślałem." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "Płacę za uzupełnienie oleju w lampach. Piszesz się?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "Są cztery lampy. Masz olej. Skończysz, to wróć do mnie." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "I najlepiej zrób to od razu, jeśli łaska." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "No, wreszcie. Gnomy nie właziły ci pod nogi?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "Ostatnio chyba coraz więcej ich łazi po kopalni. Przez nie nawet zwykłe napełnienie lamp to utrapienie." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "Ale przecież przez gnomy roboty nie rzucimy. Ot, takie ryzyko w naszym fachu." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "Masz zapłatę. Dobra robota, <if(gnum4,grzesznico,grzeszniku)>." }
   ]
 }

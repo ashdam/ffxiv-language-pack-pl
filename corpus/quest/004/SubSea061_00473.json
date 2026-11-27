@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea061_00473",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_00", "hash": "0B3C8CEBA5EEFFE6", "target": "Bhirdraeg chce przywrócić równowagę, zmniejszając liczebność miejscowych stworzeń." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_01", "hash": "CB04561E76AD4DC4", "target": "Puki pożerają owady zapylające pomarańcze z La Noscei, zakłócając naturalną równowagę w Summerford Farms. Pomóż Bhirdraegowi, zabijając pięć puk hatchling." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_02", "hash": "BDBADDCA6AF4905E", "target": "Udało się wykonać zadanie. Wróć do Bhirdraega i powiadom go, że puki nie będą już przeszkadzać." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_03", "hash": "D98AD39B6408C693", "target": "Pszczoły mogą znów pracować, a pomarańcze z La Noscei będą rosły. Wszystko pójdzie jednak na marne, jeśli leniwi piraci pozwolą owocom zgnić na gałęziach." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_TODO_00", "hash": "D5F9F3C1E1830A66", "target": "Zabić puk hatchling" },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_00", "hash": "0B3C8CEBA5EEFFE6", "target": "Bhirdraeg chce się pozbyć stworzeń, przez które cierpią jego pomarańcze." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_01", "hash": "CB04561E76AD4DC4", "target": "Puki pożerają owady zapylające drzewa pomarańczowe w Summerford Farms. Pomóż Bhirdraegowi i zabij pięć młodych puków (puk hatchling)." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_02", "hash": "BDBADDCA6AF4905E", "target": "Pięć młodych puków już nie zagrozi pszczołom. Wróć do Bhirdraega i powiedz mu, jak poszło." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_SEQ_03", "hash": "D98AD39B6408C693", "target": "Pszczoły znów mogą zapylać kwiaty. Tylko co z tego, że pomarańcze z La Noscei obrodzą, jeśli piraci pozwolą im zgnić na drzewach?" },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_TODO_00", "hash": "D5F9F3C1E1830A66", "target": "Zabić młode puki (puk hatchling)" },
     { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_TODO_01", "hash": "C74639CCDC4066A1", "target": "Złożyć raport Bhirdraegowi" },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_1", "hash": "F5674C4A2F3DB5B1", "target": "Sok z pomarańczy z La Noscei jest słodki, ale zapewniam cię, że płacimy za niego potem." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_1", "hash": "F5674C4A2F3DB5B1", "target": "Słodki jest sok z pomarańczy z La Noscei, ale przy ich uprawie człowiek wylewa siódme poty." },
     { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_2", "hash": "85DD6555E34690A4", "target": "Przez te przeklęte puki, które pożerają tutejsze pszczoły, musimy ręcznie zapylać każdy kwiat pomarańczy." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_3", "hash": "6ACD91A6EB88F185", "target": "Gdyby tak pozbyć się pięciu puk hatchling, nie musielibyśmy wyręczać natury." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_11", "hash": "8A50161A4F5D9D94", "target": "Brzęczenie na wietrze mówi mi, że robota zrobiona." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_12", "hash": "9D934545D29A1BC7", "target": "Jedynymi szkodnikami w moim sadzie są teraz te żałosne wilczki morskie wyrzucone na brzeg." },
-    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_13", "hash": "F9B46C5D8F58C90E", "target": "Gdyby tak dało się pozbyć tych pirackich pasożytów równie łatwo jak natrętnych puków!" }
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_3", "hash": "6ACD91A6EB88F185", "target": "Jakby ktoś ubił z pięć młodych puków, pszczoły znów mogłyby nas wyręczyć. Pomożesz?" },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_11", "hash": "8A50161A4F5D9D94", "target": "Znowu słychać brzęczenie pszczół. Widać, że robota zrobiona." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_12", "hash": "9D934545D29A1BC7", "target": "Teraz to już tylko te morskie niedorajdy szkodzą mojemu sadowi." },
+    { "gameKey": "quest/004/SubSea061_00473#TEXT_SUBSEA061_00473_BHIRDRAEG_000_13", "hash": "F9B46C5D8F58C90E", "target": "Szkoda, że tych pirackich pasożytów nie da się przegonić tak łatwo jak puków!" }
   ]
 }

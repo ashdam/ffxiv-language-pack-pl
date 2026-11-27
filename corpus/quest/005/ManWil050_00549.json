@@ -3,15 +3,15 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_SEQ_02", "hash": "D20827468AC7EC83", "target": "" },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200010_NARRATION", "hash": "14455125B3BB5E5E", "target": "Podczas bitwy pod Carteneau, gdy z niebios spadał deszcz ognia..." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200020_NARRATION", "hash": "DFEAFA06119278E2", "target": "Archont Louisoix przywołał moc Strażnika i wysłał towarzyszących mu bohaterów w szczelinę eteryczną, poza zasięg zniszczenia." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200030_NARRATION", "hash": "FEFA8AE5DCE74F27", "target": "Pięć lat po owym pamiętnym dniu, gdy Siódma Era Umbralna zmieniła świat na zawsze, nadszedł czas powrotu bohaterów." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200040_NARRATION", "hash": "BD0D461EB2D23E8F", "target": "Głęboko na spieczonym słońcem południu, otoczona wędrującymi piaskami bezkresnej pustyni, wznosi się ona." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200050_NARRATION", "hash": "3E164EFF4AF255A1", "target": "Samotna róża pośród pyłu i skał. Symbol sprzeciwu. Jej imię: Ul'dah." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200060_NARRATION", "hash": "F398D4F97AA0E2B5", "target": "Nawet z nadejściem Siódmej Ery Umbralnej nie umiera nadzieja kupców i handlarzy walczących o utracone fortuny w tej tętniącej życiem oazie." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200070_NARRATION", "hash": "DA63F24DFE09E4FE", "target": "Gdy Dwa Oblicza Nald'thala czuwają nad wszystkim,<br>co było i będzie, teraźniejszość ofiaruje odważną duszę..." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200080_NARRATION", "hash": "686B42F2B166B3F9", "target": "...duszę, której przybycie może zapoczątkować nową erę dobrobytu krainy." },
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200090_NARRATION", "hash": "FE16157D7D1DCDD6", "target": "Niech Kupcy zadbają o naszą pomyślność, rozniecając płomienie, które płoną w nas wszystkich." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200010_NARRATION", "hash": "14455125B3BB5E5E", "target": "Podczas bitwy pod Carteneau, gdy z nieba lał się ogień..." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200020_NARRATION", "hash": "DFEAFA06119278E2", "target": "Archont Louisoix wezwał moc Strażnika i przeniósł towarzyszy do szczeliny eterycznej, poza zasięg zagłady." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200030_NARRATION", "hash": "FEFA8AE5DCE74F27", "target": "Od tamtego dnia minęło pięć lat. Wraz z Siódmą Erą Umbralną świat zmienił się nie do poznania. Pora, by bohaterowie wrócili." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200040_NARRATION", "hash": "BD0D461EB2D23E8F", "target": "Na dalekim, spieczonym słońcem południu, pośród ruchomych piasków bezkresnej pustyni, wyrasta miasto." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200050_NARRATION", "hash": "3E164EFF4AF255A1", "target": "Samotna róża wśród pyłu i skał. Symbol nieugiętości. Oto Ul'dah." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200060_NARRATION", "hash": "F398D4F97AA0E2B5", "target": "Choć nastała Siódma Era Umbralna, w tej gwarnej oazie kupcy wciąż zabiegają o odzyskanie utraconych fortun." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200070_NARRATION", "hash": "DA63F24DFE09E4FE", "target": "Dwa Oblicza Nald'thala czuwają nad tym,<br>co przeminęło i co dopiero nadejdzie. Dziś zaś pod bramy miasta powraca <if(gnum4,dzielna poszukiwaczka,dzielny poszukiwacz)> przygód..." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200080_NARRATION", "hash": "686B42F2B166B3F9", "target": "Być może wraz z <if(gnum4,nią,nim)> zacznie się dla tej krainy nowa era dobrobytu." },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200090_NARRATION", "hash": "FE16157D7D1DCDD6", "target": "Niech Kupcy strzegą naszej pomyślności i podsycają płomień, który każdy z nas nosi w sobie." },
     { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200100_NARRATION", "hash": "1CF7D502B5D136C9", "target": "Bowiem w ogniu się odradzamy." }
   ]
 }

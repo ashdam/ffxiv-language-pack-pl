@@ -3,14 +3,14 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_00", "hash": "488C2637362124F1", "target": "Gullinkambi marszczy nos." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_01", "hash": "CDC646AB9753F9FF", "target": "Gullinkambi ma wyjątkowo czuły węch i nie może już znieść smrodu Gnathów. Ustawili poza wieżą urządzenia wydzielające dziwne opary. Błaga cię o ich wyłączenie, by położyć kres jej cierpieniu." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_02", "hash": "2BD71EECC2F5090A", "target": "Wyłączasz urządzenia Gnathów, a opary się rozwiewają. Wróć do Gullinkambi i powiedz jej, że już nie działają." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_03", "hash": "C462FAFB8E225122", "target": "Wracasz do Gullinkambi, która bez oparów Gnathów może już swobodniej oddychać. Dziękuje za pomoc i przysuwa się bliżej swoich jaj." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_00", "hash": "1C8B4BAC7324628B", "target": "Wyłączyć urządzenia Gnathów" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_01", "hash": "73CAFA14C515791A", "target": "Zdać raport Gullinkambi" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_000", "hash": "F1C6923CC952D888", "target": "W powietrzu unosi się odór Gnathów." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_001", "hash": "91BF96BCBFCC51A4", "target": "Powstrzymaj opary z ich prymitywnych zabawek. Wyczuwam trzy, niedaleko stąd. Musisz wyłączyć <italic(1)>wszystkie<italic(0)>." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_010", "hash": "482C8E44E7A420EA", "target": "Opary Gnathów są nieznośne. Musisz wyłączyć ich prymitywne rozpylacze gazu. Wyczuwam trzy w pobliżu." },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_040", "hash": "22870C25BEF22F27", "target": "Woń Gnathów... Zanika. To nie ostatnia ich bezczelność. Jestem tego pewna. Ale na razie mogę spokojnie chronić swoje jaja." }
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_01", "hash": "CDC646AB9753F9FF", "target": "Gullinkambi ma tak czuły węch, że odór Gnathów nie daje jej spokoju. Tuż za wieżą ustawili trzy osobliwe kadzielnice, z których snują się dziwne opary. Wyłącz wszystkie trzy, żeby wreszcie mogła odetchnąć." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_02", "hash": "2BD71EECC2F5090A", "target": "Po wyłączeniu kadzielnic opary zaczynają się rozwiewać. Wróć do Gullinkambi i powiedz jej, że sprawa załatwiona." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_03", "hash": "C462FAFB8E225122", "target": "Gullinkambi wreszcie może swobodnie oddychać. Dziękuje ci i znów przytula się do jaj." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_00", "hash": "1C8B4BAC7324628B", "target": "Wyłączyć osobliwe kadzielnice Gnathów" },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_01", "hash": "73CAFA14C515791A", "target": "Zdać sprawę Gullinkambi" },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_000", "hash": "F1C6923CC952D888", "target": "Znowu czuć w powietrzu ten zgniły smród Gnathów." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_001", "hash": "91BF96BCBFCC51A4", "target": "Wyłącz te ich prymitywne kadzielnice. Wyczuwam trzy, niedaleko stąd. Masz wyłączyć <italic(1)>wszystkie<italic(0)>." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_010", "hash": "482C8E44E7A420EA", "target": "Nie zniosę dłużej tego smrodu. Wyłącz kadzielnice Gnathów. Są trzy, czuję je stąd." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_040", "hash": "22870C25BEF22F27", "target": "Zapach Gnathów... Słabnie. Jeszcze pewnie nie raz dadzą mi się we znaki. Ale na razie mogę w spokoju pilnować jaj." }
   ]
 }

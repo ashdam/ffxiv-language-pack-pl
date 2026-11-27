@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKze020_03454",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_SEQ_00", "hash": "F15F4ACDF3E63159", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Asgeir nie wie, co myśleć o tym, co znalazł w lesie." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_SEQ_00", "hash": "F15F4ACDF3E63159", "target": "<colortype(508)><edgecolortype(509)> Synchronizacja zadania<edgecolortype(0)><colortype(0)><br>Asgeir znalazł w lesie coś, co nie daje mu spokoju." },
     { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_00", "hash": "2639C05A2EE33170", "target": "Zbadać wskazane miejsce" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_01", "hash": "B0F836BEF863E37F", "target": "Dostarczyć nietkniętą skrzynię Asgeirowi" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_000", "hash": "A565BCD4902674AB", "target": "Niedawno zbierałem w lesie drewno, gdy nagle tuż obok mojej głowy świsnęła strzała. Dopiero kiedy doszedłem do siebie, zauważyłem przywiązany do niej list." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_001", "hash": "36D2CEF1C9315F3D", "target": "A raczej mapę z zaznaczonym miejscem niedaleko stąd." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_002", "hash": "D56665010C9FFD4A", "target": "To pewnie pułapka, ale podejrzewam, że żadne czyhające tam niebezpieczeństwo nie sprawi większych kłopotów komuś, kogo gości mistrzyni Matoya. Jeśli coś tam znajdziesz, skarb czy cokolwiek innego, chętnie się z tobą podzielę." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_010", "hash": "9780E7B9DB6191FC", "target": "Nie wiem, skąd wzięła się mapa, ale jestem ciekaw, co znajdziesz." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_020", "hash": "BC810DD1E5129BCE", "target": "Ach, jesteś z powrotem. Jest tam coś?" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_021", "hash": "F4450BD242BF954C", "target": "Skrzynia...?<br>Pełna kosturów i łuków. \\<wciąga powietrze> To nie może być..." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_022", "hash": "135C06A839544AEA", "target": "Zaledwie kilka dni temu skradziono nam z magazynu broń. Śledziliśmy złodziei tak długo, jak się dało, ale trop urwał się przy granicy lasu Yx'Maja." },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_023", "hash": "72EA82ED33D5EE8E", "target": "Myślisz, że to strażniczki lasu Yx'Maja zostawiły tam skrzynię?" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_024", "hash": "D4576AA406757CD1", "target": "Tak czy inaczej cieszymy się, że broń do nas wróciła, choć nie sądzę, żeby była ci potrzebna. Ale należy ci się zapłata za trud. Proszę─to dla ciebie." }
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_01", "hash": "B0F836BEF863E37F", "target": "Zanieść nieskazitelną skrzynię Asgeirowi" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_000", "hash": "A565BCD4902674AB", "target": "Zbierałem ostatnio w lesie drewno i nagle tuż przy głowie świsnęła mi strzała. Dopiero jak ochłonąłem, zobaczyłem, że ktoś przywiązał do niej list." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_001", "hash": "36D2CEF1C9315F3D", "target": "A właściwie mapę. Ktoś zaznaczył na niej miejsce niedaleko stąd." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_002", "hash": "D56665010C9FFD4A", "target": "Pewnie to pułapka, ale gościa mistrzyni Matoi byle pułapka pewnie nie zatrzyma. Jeśli znajdziesz tam skarb albo cokolwiek innego, podzielimy się." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_010", "hash": "9780E7B9DB6191FC", "target": "Nie mam pojęcia, skąd się wzięła ta mapa, ale chętnie się dowiem, co tam znajdziesz." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_020", "hash": "BC810DD1E5129BCE", "target": "O, już jesteś. I co tam było?" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_021", "hash": "F4450BD242BF954C", "target": "Skrzynia...?<br>Pełno tu kosturów i łuków. \\<wciąga gwałtownie powietrze> Niemożliwe..." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_022", "hash": "135C06A839544AEA", "target": "Ledwie parę dni temu ktoś ukradł nam broń z magazynu. Ruszyliśmy za złodziejami, ale zgubiliśmy trop na skraju lasu Yx'Maja." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_023", "hash": "72EA82ED33D5EE8E", "target": "Myślisz, że to strażniczki Yx'Maja zostawiły tam tę skrzynię?" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_024", "hash": "D4576AA406757CD1", "target": "Tak czy inaczej, dobrze, że odzyskaliśmy broń. Tobie pewnie i tak by się nie przydała, ale należy ci się coś za trud. Masz, to dla ciebie." }
   ]
 }

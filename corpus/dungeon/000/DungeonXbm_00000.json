@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonXbm_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000", "hash": "2DC3F6DA958678C4", "target": "Pszszsz... Szkohhh... Chwila prawdoprawdy.<br>Ruszajmy, Chewchum Popoto!" },
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100", "hash": "B605F0626B52C988", "target": "Przez wieczność będziesz cierpieć.<br><if(gnum4,Poskramiaczko,Poskramiaczu)> bestii... Oddaj swą duszę!" },
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200", "hash": "CE0046E1F588A1EB", "target": "Krwi mego wroga, bracia przelanej krwi...<br>Ze mną, Lauda. Walczymy jak jedno!" }
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000", "hash": "2DC3F6DA958678C4", "target": "Pfff... Pfffkohhh... Chwila prawdoprawdy.<br>Ruszajmy, Chewchum Popoto!" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100", "hash": "B605F0626B52C988", "target": "Wieczna boleść cię czeka.<br><if(gnum4,Poskramiaczko,Poskramiaczu)> bestii... Oddaj duszę swą!" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200", "hash": "CE0046E1F588A1EB", "target": "Krwi mego wroga, siostro w przelanej krwi...<br>Stań przy mnie, Laudo. Walczmy jak jedno!" }
   ]
 }

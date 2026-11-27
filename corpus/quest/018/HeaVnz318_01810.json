@@ -3,16 +3,16 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_00", "hash": "24FB423070519914", "target": "Gullinkambi jest wyjątkowo rozdrażniona." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_01", "hash": "BD82B580FD5FCF3F", "target": "Gullinkambi skarży się na obolałe ciało i rozpaczliwie szuka ulgi. Prosi o przyniesienie z Ehs Daih kwiatu gron mhar, który może ukoić ból." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_02", "hash": "E512FDA5A32C838C", "target": "Znajdujesz kwiat gron mhar. Zanieś kwiat Gullinkambi i sprawdź, czy poprawi jej samopoczucie." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_03", "hash": "37275EF4E1FF2033", "target": "Przynosisz kwiat gron mhar Gullinkambi. Napięcie w jej ciele natychmiast ustępuje. Wyjaśnia, że ogrzewanie jaj przez całe tygodnie i miesiące powoduje ból, a przez to rozdrażnienie. Dziękuje ci za spokój potrzebny do dalszego strzeżenia jaj." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_01", "hash": "BD82B580FD5FCF3F", "target": "Gullinkambi wszystko boli i chciałaby wreszcie zaznać ulgi. Prosi, by zerwać w Ehs Daih kwiat gron mhar. Może uśmierzyć ból." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_02", "hash": "E512FDA5A32C838C", "target": "Udaje ci się znaleźć kwiat gron mhar. Zanieś go Gullinkambi i zobacz, czy jej pomoże." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_03", "hash": "37275EF4E1FF2033", "target": "Gdy tylko przynosisz kwiat gron mhar, Gullinkambi czuje, jak ustępuje napięcie. Tygodniami, a nawet miesiącami ogrzewa jaja bez ruchu. Nic dziwnego, że wszystko ją boli i łatwo ją rozdrażnić. Dziękuje ci, że teraz może dalej spokojnie pilnować jaj." },
     { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_00", "hash": "E91155FF70F910CC", "target": "Poszukać gron mhar w Ehs Daih" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_01", "hash": "253B634520202ED0", "target": "Dostarczyć kwiat gron mhar Gullinkambi" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_000", "hash": "A73F168D327CE61E", "target": "Mięśnie mi sztywnieją, a stawy bolą. I jeszcze Gnathowie... Ich nieustanne klikanie jest nieznośne." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_001", "hash": "1546392B03B383B2", "target": "Potrzebuję gron mhar. Kwitnie w jaskini Ehs Daih. Przynieś mi go." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_010", "hash": "F1607FAF5EACB5A0", "target": "Tylko gron mhar może mnie ukoić. Musisz go przynieść z Ehs Daih." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_020", "hash": "A06B91D5BC2DD0E8", "target": "Masz to, czego potrzebuję?" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_021", "hash": "1C375F1F7E5E000E", "target": "Ach, cóż za słodka woń... Dziękuję. Czuję, jak rozluźniają się sploty mięśni." },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_022", "hash": "1D19E4EBDE7F1B8E", "target": "Moje ciało zesztywniało od zamknięcia w tej wieży, lecz teraz wytrwam na straży nieco dłużej." }
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_01", "hash": "253B634520202ED0", "target": "Zanieść kwiat gron mhar Gullinkambi" },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_000", "hash": "A73F168D327CE61E", "target": "Mięśnie mi sztywnieją, stawy bolą, a tu jeszcze ci Gnathowie. Nie mogę znieść ich ciągłego klekotania." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_001", "hash": "1546392B03B383B2", "target": "Przynieś mi kwiat gron mhar. Rośnie w jaskini Ehs Daih." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_010", "hash": "F1607FAF5EACB5A0", "target": "Tylko gron mhar przyniesie mi ulgę. Znajdziesz go w Ehs Daih." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_020", "hash": "A06B91D5BC2DD0E8", "target": "Masz ten kwiat?" },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_021", "hash": "1C375F1F7E5E000E", "target": "Ach, jak pięknie pachnie... Dziękuję. Już czuję, że mięśnie mi puszczają." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_022", "hash": "1D19E4EBDE7F1B8E", "target": "Cała zesztywniałam od siedzenia w wieży. Teraz zniosę jeszcze trochę czuwania." }
   ]
 }

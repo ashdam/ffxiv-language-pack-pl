@@ -95,7 +95,7 @@
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600030_ICEHEART", "hash": "BC379EF52E1CB9F1", "target": "(-Lodowe Serce-)Nadano mi imię Ysayle, lecz imię Lodowe Serce sama sobie wywalczyłam." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600040_ICEHEART", "hash": "23D6E5F4C58E6CAC", "target": "(-Lodowe Serce-)Ten niekończący się krąg nienawiści, rozlewu krwi, żałości─ <if(gnum4,Chciałabyś,Chciałbyś)>, by trwał, o <if(gnum4,szlachetna Wojowniczko,szlachetny Wojowniku)> Światła?" },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600050_ICEHEART", "hash": "FC3945E231AB4B8B", "target": "(-Lodowe Serce-)Ja nie. Ja <italic(1)>nie pozwolę<italic(0)>. Zakończę tę wojnę między smokiem a człowiekiem─bez względu na cenę." },
-    { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600080_ICEHEART", "hash": "D80208E0DC90FFCB", "target": "(-Lodowe Serce-)Z czasem zrozumiesz, że to, co czynimy, czynimy dla większego dobra." },
+    { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600080_ICEHEART", "hash": "D80208E0DC90FFCB", "target": "(-Lodowe Serce-)Z czasem zrozumiesz, że wszystko, co robimy, służy większemu dobru." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_600090_ICEHEART", "hash": "7DE0F68001752E88", "target": "(-Lodowe Serce-)Dla Eorzei. Dla Hydaelyn." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_900010_KANESENNA", "hash": "056AB417E236D83D", "target": "W Imperium Garleańskim nastąpiła zmiana i musimy omówić jej następstwa." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_900011_MERLWYB", "hash": "0745184A2211C665", "target": "A więc plotki są prawdziwe? Wojna o sukcesję dobiegła końca?" },
