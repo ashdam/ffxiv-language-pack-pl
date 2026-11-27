@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 639572,
-  "total": 639572,
+  "translated": 639662,
+  "total": 639662,
   "percent": 100,
-  "chars": 58191226,
+  "chars": 58192077,
   "unresolved": 5785,
   "groups": [
     {
@@ -14,57 +14,9 @@
     },
     {
       "expansion": null,
-      "content": "Quests",
-      "translated": 34939,
-      "total": 34939
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 2365,
-      "total": 2365
-    },
-    {
-      "expansion": null,
-      "content": "Crafting and gathering",
-      "translated": 8560,
-      "total": 8560
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
-    },
-    {
-      "expansion": null,
       "content": "Tutorials and guides",
       "translated": 3059,
       "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 80865,
-      "total": 80865
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23094,
-      "total": 23094
-    },
-    {
-      "expansion": null,
-      "content": "Character",
-      "translated": 14527,
-      "total": 14527
-    },
-    {
-      "expansion": null,
-      "content": "Chat and system messages",
-      "translated": 12877,
-      "total": 12877
     },
     {
       "expansion": null,
@@ -74,15 +26,51 @@
     },
     {
       "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43194,
-      "total": 43194
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
+    },
+    {
+      "expansion": null,
+      "content": "Crafting and gathering",
+      "translated": 8560,
+      "total": 8560
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 80955,
+      "total": 80955
     },
     {
       "expansion": null,
       "content": "Items",
       "translated": 36496,
       "total": 36496
+    },
+    {
+      "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 12877,
+      "total": 12877
+    },
+    {
+      "expansion": null,
+      "content": "Quests",
+      "translated": 34939,
+      "total": 34939
+    },
+    {
+      "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43194,
+      "total": 43194
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23094,
+      "total": 23094
     },
     {
       "expansion": null,
@@ -125,13 +113,25 @@
       "content": "Quests",
       "translated": 35917,
       "total": 35917
+    },
+    {
+      "expansion": null,
+      "content": "Character",
+      "translated": 14527,
+      "total": 14527
+    },
+    {
+      "expansion": null,
+      "content": "Internal UI catalogs",
+      "translated": 2365,
+      "total": 2365
     }
   ],
   "excludedFromLocalization": [
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 525,
+      "translated": 531,
       "total": 12710
     },
     {
@@ -142,13 +142,6 @@
     }
   ],
   "inventoryExclusions": [
-    {
-      "expansion": null,
-      "content": "BNpcName",
-      "translated": 0,
-      "total": 29441,
-      "wholeSheet": false
-    },
     {
       "expansion": null,
       "content": "DefaultTalk",
@@ -165,10 +158,10 @@
     },
     {
       "expansion": null,
-      "content": "Action",
+      "content": "BNpcName",
       "translated": 0,
-      "total": 44412,
-      "wholeSheet": true
+      "total": 29441,
+      "wholeSheet": false
     },
     {
       "expansion": null,
@@ -179,17 +172,17 @@
     },
     {
       "expansion": null,
-      "content": "LeveClient",
+      "content": "Action",
       "translated": 0,
-      "total": 1,
-      "wholeSheet": false
+      "total": 44412,
+      "wholeSheet": true
     },
     {
       "expansion": null,
-      "content": "Pet",
+      "content": "TextCommand",
       "translated": 0,
-      "total": 90,
-      "wholeSheet": true
+      "total": 89,
+      "wholeSheet": false
     },
     {
       "expansion": null,
@@ -200,9 +193,9 @@
     },
     {
       "expansion": null,
-      "content": "TextCommand",
+      "content": "LeveClient",
       "translated": 0,
-      "total": 89,
+      "total": 1,
       "wholeSheet": false
     }
   ],
@@ -219,7 +212,7 @@
         "pending": 0,
         "stale": 0,
         "excluded": 137,
-        "excludedTranslated": 13,
+        "excludedTranslated": 19,
         "chars": 36154406,
         "percent": 100
       },
@@ -241,7 +234,7 @@
             "pending": 0,
             "stale": 0,
             "excluded": 99,
-            "excludedTranslated": 0,
+            "excludedTranslated": 6,
             "chars": 33750100,
             "percent": 100
           },
@@ -260,7 +253,7 @@
                 "pending": 0,
                 "stale": 0,
                 "excluded": 98,
-                "excludedTranslated": 0,
+                "excludedTranslated": 6,
                 "chars": 33720664,
                 "percent": 100
               },
@@ -352,7 +345,7 @@
                     "pending": 0,
                     "stale": 0,
                     "excluded": 91,
-                    "excludedTranslated": 0,
+                    "excludedTranslated": 6,
                     "chars": 10784451,
                     "percent": 100
                   },
@@ -1577,7 +1570,7 @@
                         "pending": 0,
                         "stale": 0,
                         "excluded": 15,
-                        "excludedTranslated": 0,
+                        "excludedTranslated": 5,
                         "chars": 1580633,
                         "percent": 100
                       },
@@ -1631,7 +1624,7 @@
                             "pending": 0,
                             "stale": 0,
                             "excluded": 15,
-                            "excludedTranslated": 0,
+                            "excludedTranslated": 5,
                             "chars": 1052264,
                             "percent": 100
                           },
@@ -1648,7 +1641,7 @@
                                 "pending": 0,
                                 "stale": 0,
                                 "excluded": 15,
-                                "excludedTranslated": 0,
+                                "excludedTranslated": 5,
                                 "chars": 1052264,
                                 "percent": 100
                               },
@@ -1962,7 +1955,7 @@
                         "pending": 0,
                         "stale": 0,
                         "excluded": 1,
-                        "excludedTranslated": 0,
+                        "excludedTranslated": 1,
                         "chars": 650310,
                         "percent": 100
                       },
@@ -2053,7 +2046,7 @@
                             "pending": 0,
                             "stale": 0,
                             "excluded": 1,
-                            "excludedTranslated": 0,
+                            "excludedTranslated": 1,
                             "chars": 290476,
                             "percent": 100
                           },
@@ -2070,7 +2063,7 @@
                                 "pending": 0,
                                 "stale": 0,
                                 "excluded": 1,
-                                "excludedTranslated": 0,
+                                "excludedTranslated": 1,
                                 "chars": 290476,
                                 "percent": 100
                               },
@@ -25904,13 +25897,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 80865,
-        "translated": 80865,
+        "total": 80955,
+        "translated": 80955,
         "pending": 0,
         "stale": 0,
-        "excluded": 31757,
+        "excluded": 31667,
         "excludedTranslated": 0,
-        "chars": 939818,
+        "chars": 940669,
         "percent": 100
       },
       "children": [
@@ -26005,13 +25998,13 @@
             "petmirage"
           ],
           "counts": {
-            "total": 16268,
-            "translated": 16268,
+            "total": 16358,
+            "translated": 16358,
             "pending": 0,
             "stale": 0,
-            "excluded": 277,
+            "excluded": 187,
             "excludedTranslated": 0,
-            "chars": 236662,
+            "chars": 237513,
             "percent": 100
           },
           "children": [
@@ -26076,14 +26069,14 @@
               "value": "Pet",
               "sheets": [],
               "counts": {
-                "total": 0,
-                "translated": 0,
+                "total": 90,
+                "translated": 90,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 90,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 0,
-                "percent": 0
+                "chars": 851,
+                "percent": 100
               },
               "children": []
             },
@@ -53908,14 +53901,6 @@
       "translated": 281,
       "pending": 1,
       "pendingPercent": 0.4
-    },
-    {
-      "sheet": "Pet",
-      "content": "Pet names",
-      "total": 90,
-      "translated": 0,
-      "pending": 90,
-      "pendingPercent": 100
     },
     {
       "sheet": "TextCommand",
