@@ -3,18 +3,18 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_SEQ_00", "hash": "7B28D93F56E3A66C", "target": "Charakha patrzy na ciebie z podziwem." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "Skropić wskazane miejsca kumysem plemienia Oronir" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "Zdać sprawę wojownikowi imieniem Charakha" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Aha! Poznaję cię ─ to ty <if(gnum4,przeszłaś,przeszedłeś)> próbę Bardam's Mettle. Musisz mieć nadludzką siłę." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "Rzadko kto spoza plemienia zdobywa szacunek synów i córek Azima." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "Musimy uczcić twój triumf w tej niezwykle trudnej próbie na sposób Oronir: odprawisz święty obrzęd." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "To nic trudnego. Wystarczy odwiedzić pięć okolicznych głazów i skropić je kumysem." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_100_003", "hash": "D5E9643F79D604CF", "target": "Nie wolno jednak robić tego bez namysłu. Z każdą kroplą spadającą na kamień pomyśl o celu, do którego dążysz, i przyrzeknij sobie, że go osiągniesz." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "Użyć słoja kumysu plemienia Oronir we wskazanych miejscach" },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "Wrócić do Charakhy" },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "O, poznaję cię! To ty <if(gnum4,przeszłaś,przeszedłeś)> próbę Bardam's Mettle. Trzeba mieć nie lada siłę, żeby tego dokonać." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "Mało kto spoza plemienia zdobywa szacunek synów i córek Azima." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "Uczcimy twoje zwycięstwo zgodnie ze zwyczajem Oronir. Odprawisz święty obrzęd." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "To proste. Odszukasz tu w okolicy pięć głazów i skropisz je kumysem." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_100_003", "hash": "D5E9643F79D604CF", "target": "Ale nie rób tego bez namysłu. Za każdym razem, gdy krople spadną na głaz, pomyśl o czymś, do czego dążysz, i przysięgnij sobie, że to osiągniesz." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_004", "hash": "C4F3AF4AF758866F", "target": "Kiedy skończysz, wróć do mnie. Powodzenia!" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_005", "hash": "785556D8141CF911", "target": "Przede wszystkim pamiętaj o swoich celach, skrapiając kamienie kumysem ─ to przecież najważniejsza część obrzędu." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_010", "hash": "D37BDCDD3ACA2A18", "target": "Obrzęd zakończony, jak rozumiem? Bardzo dobrze. Pozwól więc, że wyjaśnię ci znaczenie tego zwyczaju." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_011", "hash": "F041841D2D562C26", "target": "Widzisz, pięć głazów skropionych kumysem nazywamy też „palcami Azima”. Obrzęd ten wyraża nasz szacunek do niego i pozwala nam korzystać z jego przewodnictwa." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_012", "hash": "48E77DED50D94C4D", "target": "Jeśli uzna nasze pragnienie za dość wielkie, otworzy nam drogę do jego spełnienia. Nie znaczy to jednak, że możemy siedzieć z założonymi rękami. Sami też musimy ciężko pracować, by spełniać marzenia." },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_013", "hash": "0DB0C3C2285C612D", "target": "Ojciec Azim wszystko widzi i wszystko słyszy. Twoje życzenia już do niego dotarły. Jeśli uzna, że zasługujesz, spełni je." }
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_005", "hash": "785556D8141CF911", "target": "Kiedy będziesz skrapiać głazy kumysem, nie zapomnij o swoim celu─na tym polega najważniejsza część obrzędu." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_010", "hash": "D37BDCDD3ACA2A18", "target": "Widzę, że obrzęd za tobą. Dobrze. Teraz powiem ci, co oznacza ten zwyczaj." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_011", "hash": "F041841D2D562C26", "target": "Tych pięć głazów, które skrapiasz kumysem, nazywamy „palcami Azima”. Tak oddajemy mu cześć i prosimy o przewodnictwo." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_012", "hash": "48E77DED50D94C4D", "target": "Jeżeli uzna twoje pragnienie za dostatecznie wielkie, otworzy ci drogę do jego spełnienia. Ale od samego czekania nic się nie zmieni. Trzeba się jeszcze samemu przyłożyć." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_013", "hash": "0DB0C3C2285C612D", "target": "Ojciec Azim wszystko widzi i wszystko słyszy. Twoje życzenia już do niego dotarły. Jeśli uzna, że na to zasługujesz, spełni je." }
   ]
 }

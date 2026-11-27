@@ -2,20 +2,20 @@
   "conversation": "quest/027/StmBdz513_02764",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_SEQ_00", "hash": "E1A8B451D0DE5320", "target": "Ta niezdarna panna z plemienia Mol stłukła coś dość ważnego." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_TODO_00", "hash": "06A303A8306FD658", "target": "Pokonać trzy matamata i zdobyć pancerz oraz pazur matamata matron" },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_TODO_01", "hash": "469229F0E35D75DB", "target": "Dostarczyć pancerz i pazur matamata matron pannie z plemienia Mol" },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_000", "hash": "27622363E60D685E", "target": "Proszę, musisz mi pomóc. Stłukłam dary, które miałam wręczyć rodzinie mojego przyszłego męża. Muszę je jak najszybciej naprawić." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_001", "hash": "A42127D8E25DEDF5", "target": "Potrzebuję pancerza i pazura matamata. Jednak sama nie potrafię ich zdobyć." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_002", "hash": "4D7174458054AD61", "target": "Co więcej, muszą pochodzić od matamata matron. To stworzenie rzadko się pokazuje." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_003", "hash": "D2FBB02D56B9FBCC", "target": "Jest jednak sposób, żeby je wywabić. Zabij kilka matamata, a w końcu się pojawi." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_004", "hash": "649D9B12349EF9C1", "target": "Sami pradawni bogowie kazali mi poślubić mojego wybranka. Ten ślub <italic(1)>musi<italic(0)> się odbyć." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_005", "hash": "7465EA68C9B81CD4", "target": "Zabij matamata na zachodzie, a matrona wkrótce się pojawi." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_006", "hash": "521B5A593D913131", "target": "Przynieś mi jej pancerz i pazur. Bez nich nie mogę naprawić darów." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_SEQ_00", "hash": "E1A8B451D0DE5320", "target": "Młoda kobieta z plemienia Mol stłukła coś dla niej ważnego." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_TODO_00", "hash": "06A303A8306FD658", "target": "Pokonać trzy stwory Matamata, aby zwabić Matamata Matron i zdobyć jej skorupę oraz pazur" },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_TODO_01", "hash": "469229F0E35D75DB", "target": "Zanieść skorupę i pazur matrony matamaty pannie z plemienia Mol" },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_000", "hash": "27622363E60D685E", "target": "Pomóż mi, proszę! Stłukłam dary dla rodziny mojego narzeczonego. Trzeba je jak najszybciej naprawić." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_001", "hash": "A42127D8E25DEDF5", "target": "Bez skorupy i pazura matamaty nic nie zdziałam, a sama ich nie zdobędę." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_002", "hash": "4D7174458054AD61", "target": "Na dodatek muszą być od matrony matamaty, a ona rzadko się pokazuje." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_003", "hash": "D2FBB02D56B9FBCC", "target": "Ale można ją zwabić. Zabij kilka matamat, a w końcu wyjdzie z ukrycia." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_004", "hash": "649D9B12349EF9C1", "target": "Sami pradawni bogowie kazali mi poślubić tego człowieka. Ten ślub <italic(1)>musi<italic(0)> się odbyć." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_005", "hash": "7465EA68C9B81CD4", "target": "Zabij kilka matamat na zachód stąd, a matrona powinna się pokazać." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_006", "hash": "521B5A593D913131", "target": "Przynieś mi jej skorupę i pazur, proszę. Inaczej nie naprawię swoich darów." },
     { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_010", "hash": "9A63EA630F4F1370", "target": "Udało się?" },
     { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_011", "hash": "915DA7A7876ECE2B", "target": "Och, dziękuję! Nie wiem, co bym bez ciebie zrobiła." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_012", "hash": "C21E700948C82CD8", "target": "Nasze plemię jest mniejsze niż większość pozostałych. Staramy się nie odcinać od innych plemion, wydając naszych ludzi za ich członków." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_013", "hash": "E311EFB175EC11ED", "target": "Przyzwyczajenie się do życia, którym nie kierują pradawni bogowie, trochę potrwa, ale wiem, że wszystko będzie dobrze─to oni wybrali dla mnie tę drogę." },
-    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_014", "hash": "CFED21473839AD3E", "target": "Pora zabrać się do naprawy darów. Jeśli nasze drogi kiedyś znów się przetną, bardzo chciałabym przedstawić ci moją nową rodzinę." }
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_012", "hash": "C21E700948C82CD8", "target": "Nasze plemię jest mniejsze od większości innych. Żeby nie zostać na uboczu, często pobieramy się z ludźmi z innych plemion." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_013", "hash": "E311EFB175EC11ED", "target": "Pewnie trochę potrwa, zanim przywyknę do życia bez codziennych wskazówek pradawnych bogów. Ale wiem, że wszystko się ułoży─przecież to oni wybrali dla mnie tę drogę." },
+    { "gameKey": "quest/027/StmBdz513_02764#TEXT_STMBDZ513_02764_BRIDE02764_000_014", "hash": "CFED21473839AD3E", "target": "Zabieram się do naprawy. Jeśli kiedyś znów się spotkamy, chętnie ci przedstawię moją nową rodzinę." }
   ]
 }

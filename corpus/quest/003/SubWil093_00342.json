@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil093_00342",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_00", "hash": "0A8A1FEF9C974EDF", "target": "Osmenta w Zatoce Crescent drażnią śmieci w okolicy." },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_01", "hash": "0967A1D35DC23E50", "target": "Kupiec z Limsy Lominsy zostawił śmieci porozrzucane po przystani. Posprzątaj je, by ulżyć zmartwionemu Osmentowi." },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_02", "hash": "0990FA4F5C05ED3C", "target": "Przystań jest już uprzątnięta. Porozmawiaj ponownie z Osmentem." },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_03", "hash": "D5F9ED5502F08EF3", "target": "Choć porządek został przywrócony, Osment już narzeka na następnego lominsańskiego lenia, który zawita do jego przystani." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_00", "hash": "0A8A1FEF9C974EDF", "target": "Osment ma dość sprzątania śmieci w Zatoce Crescent." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_01", "hash": "0967A1D35DC23E50", "target": "Kupiec z Limsy Lominsy zostawił na przystani stertę śmieci. Pomóż Osmentowi je uprzątnąć." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_02", "hash": "0990FA4F5C05ED3C", "target": "Na przystani znów jest czysto. Wróć do Osmenta." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_03", "hash": "D5F9ED5502F08EF3", "target": "Na przystani wreszcie panuje porządek. Osment już się jednak martwi, że następny leń z Limsy znów narobi tu bałaganu." },
     { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_00", "hash": "709B83DE8408C192", "target": "Uprzątnąć śmieci z przystani" },
     { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_01", "hash": "B7961991EC6DF85D", "target": "Porozmawiać z Osmentem" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_000", "hash": "1468F8B4E06B1BD1", "target": "Uch, co za wrzód na dupie. Za kogo ci Lominsańczycy się uważają?" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_001", "hash": "311D00AD70CCFC25", "target": "Tylko spójrz na to wszystko. Kupiec z Limsy Lominsy zostawił te rupiecie, kiedy odpływał. Stwierdził, że nie nadają się do sprzedaży, i po prostu je rzucił!" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_002", "hash": "73103A2D8FA516AD", "target": "Barbarzyńcy! Co po drugiej stronie Cieśniny Merlthor uchodzi za dobre maniery?" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_003", "hash": "27A6A5940BBD4745", "target": "Nie zechcesz posprzątać za mnie reszty? Proszę? Tyle już tego uprzątnąłem, że na sam widok zbiera mi się na wymioty." },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_010", "hash": "41E26BC08D74E9B5", "target": "Dziękuję ci. Od razu mi lżej, kiedy znów jest tu czysto." },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_011", "hash": "F4A9F30F1C481E9A", "target": "Chociaż pewnie niedługo zjawi się kolejny lominsański kupiec i zostawi więcej brudu. \\<wzdycha> Nienawidzę swojego życia." }
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_000", "hash": "1468F8B4E06B1BD1", "target": "Ech, co za wrzód na tyłku. Co ci ludzie z Limsy sobie wyobrażają?" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_001", "hash": "311D00AD70CCFC25", "target": "Spójrz tylko na tę stertę. Kupiec z Limsy Lominsy uznał, że tego towaru już nie sprzeda. Więc zamiast go zabrać, wywalił wszystko na pomost i odpłynął!" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_002", "hash": "73103A2D8FA516AD", "target": "Co za dzicz! Ich tam, za Cieśniną Merlthor, nikt dobrych manier nie uczy?" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_003", "hash": "27A6A5940BBD4745", "target": "Posprzątasz resztę za mnie? Proszę. Tyle się tego dziś nazbierałem, że na sam widok mnie mdli." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_010", "hash": "41E26BC08D74E9B5", "target": "Dzięki. Od razu mi lżej, kiedy znów jest tu czysto." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_011", "hash": "F4A9F30F1C481E9A", "target": "Tyle że zaraz przypłynie kolejny kupiec z Limsy i znów zostawi po sobie syf. \\<wzdycha> Co za życie." }
   ]
 }

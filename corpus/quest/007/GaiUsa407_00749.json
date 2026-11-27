@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa407_00749",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "Badacz Claudian potrzebuje pomocy poszukiwacza przygód w rozprawieniu się z dokuczliwymi ptakami." },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "Skrzydlaci zwiastuni śmierci i zniszczenia sieją zamęt w badaniach Claudiana nad ruinami. Rozstaw własnoręcznie wykonane strachy na wróble we wskazanych miejscach w Highbridge." },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "Strachy na wróble stoją na miejscach. Powiedz Claudianowi, że ptasie szkodniki nie będą już zakłócać jego badań." },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "Claudian dziękuje ci za pomoc. Teraz może bez przeszkód pogrążyć się w badaniach." },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "Rozstawić własnoręcznie wykonane strachy na wróble we wskazanych miejscach" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "Zdać raport Claudianowi" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "<italic(1)>Nie<italic(0)> patrz w dół, Claudianie! Nie wolno ci, nie spojrzysz, <italic(1)>nie możesz<italic(0)> spoj─aaaaaach!" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "Na Dwunastu, <if(gnum4,przestraszyła mnie pani,przestraszył mnie pan)> śmiertelnie! Ale proszę wybaczyć, ostatnio jestem trochę niespokojny. Te skrzydlate koszmary nadlatują ze wszystkich stron, dziobią, dźgają i kłują." },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "Równie dobrze mogę spakować przyrządy i wrócić do domu, bo nic tu nie zbadam. Gdyby jednak <if(gnum4,tak życzliwa poszukiwaczka przygód jak pani użyła,tak życzliwy poszukiwacz przygód jak pan użył)> tych strachów do przepędzenia ptaków, byłoby inaczej. Co <if(gnum4,pani,pan)> na to?" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "Claudian prosi o pomoc w przepędzeniu natrętnych ptaków." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "Skrzydlaci zwiastuni śmierci i zniszczenia nie dają Claudianowi spokojnie badać ruin. Rozstaw ręcznie wykonane strachy na wróble we wskazanych miejscach w Highbridge." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "Strachy na wróble stoją na miejscu. Powiedz Claudianowi, że ptaki już nie będą mu przeszkadzać w pracy." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "Claudian dziękuje ci za pomoc. Wreszcie może spokojnie wrócić do badań." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "Rozstawić ręcznie wykonane strachy na wróble we wskazanych miejscach" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "Wrócić do Claudiana" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "Tylko <italic(1)>nie<italic(0)> patrz w dół, Claudianie! Nie wolno ci. Nie spojrzysz. <italic(1)>Nie możesz<italic(0)> spojrze... Aaaaaaa!" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "Na Dwunastu! <if(gnum4,Omal mnie pani nie przyprawiła,Omal mnie pan nie przyprawił)> o zawał! Proszę wybaczyć, ostatnio jestem kłębkiem nerwów. Te skrzydlate koszmary spadają na mnie ze wszystkich stron. Dziobią, kłują, szarpią!" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "Równie dobrze mogę spakować przyrządy i wrócić do domu. W takich warunkach badań nie poprowadzę. Chyba że <if(gnum4,zechciałaby pani,zechciałby pan)> rozstawić te strachy i przepędzić ptaki. Co <if(gnum4,pani,pan)> na to?" },
     { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_DUMMYTODO_000_010", "hash": "B8A18D4C8C268DAF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "<italic(1)>Nie<italic(0)> patrz─och, ptaki już załatwione? Znakomita robota! Pora zejść na dół i wrócić do badań. Eee, proszę się nie martwić, zaraz dołączę─może <if(gnum4,pani,pan)> już iść." }
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "Tylko <italic(1)>nie<italic(0)> patrz... O, <if(gnum4,przepędziła pani,przepędził pan)> ptaki? Znakomicie! Teraz tylko zejść na dół i wrócić do badań. Eee... Zejdę za chwilę. Proszę na mnie nie czekać." }
   ]
 }

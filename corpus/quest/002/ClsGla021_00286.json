@@ -2,21 +2,21 @@
   "conversation": "quest/002/ClsGla021_00286",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_00", "hash": "37B94785B1E1BE12", "target": "Mylla, Pierwsze Ostrze, chce sprawdzić twoje predyspozycje do władania mieczem." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_01", "hash": "11CCAD37378ADED2", "target": "Mistrzyni gildii poleca ci zabijać świstaki, szerszenie i ryjówki za bramami Ul'dah. Wyrusz z mieczem w dłoni i zmierz się z tymi stworzeniami." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_02", "hash": "7D7A66910BAC76CA", "target": "Zadanie wykonane, a nowa broń leży już pewniej w twojej dłoni. Wróć do Gildii Gladiatorów i porozmawiaj z Myllą." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_03", "hash": "1A3CFD840474200A", "target": "Mylla wyjaśnia, że droga do mistrzostwa wymaga zapamiętywania i analizowania doświadczeń z walki. Biorąc jej słowa do serca, postanawiasz szukać nowych przeciwników i sprawdzać na nich swoje siły.<br><br>※ Kolejne zadanie klasy Gladiator będzie dostępne u Mylli po osiągnięciu poz. 5." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_00", "hash": "37B94785B1E1BE12", "target": "Mylla, Pierwsze Ostrze, chce zobaczyć, jak władasz mieczem." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_01", "hash": "11CCAD37378ADED2", "target": "Mistrzyni gildii poleca ci zabić świstaki, szerszenie i ryjówki za bramami Ul'dah. Chwyć za miecz i zmierz się z nimi." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_02", "hash": "7D7A66910BAC76CA", "target": "Bestie padły, a nowy miecz leży już pewniej w twojej dłoni. Wróć do Gildii Gladiatorów i porozmawiaj z Myllą." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_03", "hash": "1A3CFD840474200A", "target": "Zdaniem Mylli miecz opanujesz tylko wtedy, gdy po każdej walce zastanowisz się, co można było zrobić lepiej. Bierzesz sobie jej radę do serca i postanawiasz sprawdzić się w starciach z nowymi przeciwnikami.<br><br>※ Następne zadanie klasy Gladiator będzie dostępne u Mylli po osiągnięciu poz. 5." },
     { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_00", "hash": "57F95899DA6C6982", "target": "Zabić star marmots klasą Gladiator" },
     { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_01", "hash": "84B0D487F9E4D2BA", "target": "Zabić huge hornets klasą Gladiator" },
     { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_02", "hash": "52D087FC2E2F9637", "target": "Zabić snapping shrews klasą Gladiator" },
     { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_03", "hash": "E0F73F70B2903769", "target": "Zdać relację Mylli" },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_1", "hash": "2076D537EAAEFDE8", "target": "Heh, niesamowite, ile zmienia miecz. Wyraz twarzy, postawa... Już rozpiera cię pewność siebie." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_2", "hash": "2B8A5CFA390CEDDA", "target": "Sprawdźmy, czy ta pewność siebie ma podstawy, dobrze?" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_1", "hash": "2076D537EAAEFDE8", "target": "Proszę, ile potrafi zmienić sam miecz. Inaczej się trzymasz, masz inny wyraz twarzy… Od razu widać, że czujesz się pewniej." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_2", "hash": "2B8A5CFA390CEDDA", "target": "Zobaczymy, czy słusznie." },
     { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_3", "hash": "C02690D3EEE161C2", "target": "Tuż za bramami Ul'dah znajdziesz mnóstwo świstaków, szerszeni i ryjówek. Zabij po trzy z każdego rodzaju i wróć, gdy skończysz." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_4", "hash": "E21DD284CAA59696", "target": "I używaj miecza, <split(<string(gstr1)>, ,1)>. Jestem gladiatorką i zamierzam nauczyć cię tego samego fachu. Ruszaj." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_10", "hash": "0EB26045B3A527D1", "target": "Witaj z powrotem, <split(<string(gstr1)>, ,1)>. Rozumiem, że bestie padły bez większego trudu." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_11", "hash": "5E4668FB54DE0DE2", "target": "Każdy zamach i każde pchnięcie to cenne doświadczenie. Musisz je zapamiętywać i analizować, by dostrzec i wyeliminować braki w swojej technice." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_12", "hash": "FBD093A966CCB2AA", "target": "Wrócisz pod moje skrzydła, gdy rękojeść tak zrośnie się z twoją dłonią, że nie wyobrazisz sobie trzymania niczego innego. Do zobaczenia, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SYSTEM_000_15", "hash": "A1D58FE001925715", "target": "Kolejne zadanie klasy Gladiator będzie dostępne u Mylli po osiągnięciu poz. 5." }
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_4", "hash": "E21DD284CAA59696", "target": "Tylko pamiętaj o mieczu, <split(<string(gstr1)>, ,1)>. Masz się uczyć mojego fachu. Ruszaj." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_10", "hash": "0EB26045B3A527D1", "target": "Już jesteś, <split(<string(gstr1)>, ,1)>. Chyba nie było większego kłopotu z tymi bestiami." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_11", "hash": "5E4668FB54DE0DE2", "target": "Z każdym cięciem i pchnięciem nabierasz wprawy. Po walce przypomnij sobie, co poszło dobrze, a co można było zrobić lepiej. Tylko tak wychwycisz błędy i nauczysz się ich unikać." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_12", "hash": "FBD093A966CCB2AA", "target": "Wróć, kiedy miecz tak dobrze ułoży ci się w dłoni, że trudno będzie wyobrazić sobie w niej cokolwiek innego. Wtedy wznowimy naukę. Do zobaczenia, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SYSTEM_000_15", "hash": "A1D58FE001925715", "target": "Następne zadanie klasy Gladiator będzie dostępne u Mylli po osiągnięciu poz. 5." }
   ]
 }

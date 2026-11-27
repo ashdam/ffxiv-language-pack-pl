@@ -3,16 +3,16 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SEQ_00", "hash": "A278A122B259D049", "target": "Mozu nerwowo się rozgląda." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "Pokonać warmspring gasame" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "Zdać raport Mozu" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "Ojej─ktoś z powierzchni. Zwykle unikałabym kontaktu z takimi ludźmi, ale rozpaczliwie potrzebujemy pomocy z zewnątrz." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "Dwa warmspring gasame dostały się do Ogrodów Ukwiałów. Kilku naszych mężczyzn poszło się ich pozbyć, ale nie są przyzwyczajeni do walki na lądzie i żaden nie przeżył starcia..." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "Jeśli szybko ich nie zabijemy, pożrą tam wszystkie zapasy jedzenia! Proszę, trzeba je dla nas usunąć!" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "Nawet teraz pożerają całe mnóstwo żywności w jaskiniach. Błagam, proszę je jak najszybciej wytępić!" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "Coś cię atakuje!" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "Pokonane? Dziękuję. Ogromnie dziękuję. To ocaliło nas przed głodem." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "Tamtejsze wodorosty i mięczaki to jedno z głównych źródeł naszego pożywienia. Zwłaszcza yumemi są bardzo odżywcze. Bez nich nie zdołalibyśmy się utrzymać." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "Niestety warmspring gasame też uwielbiają je podjadać. Gdyby nie udało się ich zabić w porę, bylibyśmy w poważnych opałach." },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "Co gorsza, te bestie chyba rosną w siłę─może przez coraz częstsze erupcje Hells' Lid. Nawet przy tak wielkiej sile warto na nie w przyszłości uważać." }
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "Pokonać kraby o nazwie „warmspring gasame”" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "Złożyć raport Mozu" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "Ojej, ktoś z powierzchni! Zwykle trzymam się od takich ludzi z daleka, ale teraz bez pomocy z zewnątrz sobie nie poradzimy." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "Dwa kraby warmspring gasame dostały się do Ogrodów Ukwiałów. Kilku naszych poszło je zabić, ale nie umieją walczyć na lądzie. Żaden nie wrócił żywy..." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "Jeśli ich szybko nie powstrzymamy, pożrą wszystko, co możemy tam zbierać! Proszę, niech <if(gnum4,pani nam pomoże,pan nam pomoże)>!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "Nawet teraz siedzą w jaskiniach i żrą, co popadnie. Błagam, proszę się ich szybko pozbyć!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "Atakują cię!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "Już po nich? Dziękuję. Z całego serca! <if(gnum4,Uchroniła nas pani,Uchronił nas pan)> przed głodem." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "Wodorosty i mięczaki z Ogrodów to jedno z głównych źródeł naszego pożywienia. Zwłaszcza yumemi, bo są bardzo pożywne. Bez nich nie przetrwamy." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "Niestety tym krabom yumemi też bardzo smakują. Gdyby nie udało się ich w porę zabić, mielibyśmy poważne kłopoty." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "Co gorsza, kraby zdają się rosnąć w siłę. Może to przez te coraz częstsze erupcje Hells' Lid. Choć <if(gnum4,jest pani silna,jest pan silny)>, lepiej na nie uważać." }
   ]
 }

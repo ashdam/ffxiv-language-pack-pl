@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz303_01795",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "Vath fleetfoot martwi się stanem zapasów broni Vath." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "Vath fleetfoot ponownie dziękuje ci za zdobycie broni palnej dla Vath. Teraz jednak zapasy prochu─niezbędnego do jej użycia─kończą się. Błaga cię o przyniesienie go z roju Gnathów." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "Podkradasz trochę prochu z zapasów Gnathów. Wróć z łupem do Vath fleetfoot." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "Proch zapewnia Vath fleetfoot nieco spokoju. Gdyby zapasy Vath się wyczerpały, znacznie utrudniłoby to obronę. Dzięki twoim staraniom to zagrożenie zostało na razie zażegnane." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "Strażnik Vath martwi się o zapasy broni." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "Strażnik jeszcze raz dziękuje za broń dla Vath. Tyle że kończy się proch, a bez niego pistolety są bezużyteczne. Prosi, żeby zdobyć więcej prochu w gnieździe Gnathów." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "Podkradasz Gnathom trochę prochu. Wróć z łupem do strażnika Vath." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "Widok prochu uspokaja strażnika. Gdyby zapasy się wyczerpały, Vath nie mieliby się czym bronić. Dzięki tobie na jakiś czas mają ten kłopot z głowy." },
     { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_00", "hash": "57911E6FAB38E67C", "target": "Zdobyć proch do broni skałkowej" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "Dostarczyć proch Vath fleetfoot" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "Jeszcze raz dziękujemy za zdobytą broń, <if(gnum4,łowczyni,łowco)>. Ale sama broń nie wystarczy. Bez prochu jest bezużyteczna, a nasze zapasy stale maleją. Przynieś nam więcej prochu." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_002", "hash": "52465975F8FEB526", "target": "W Loth ast Gnath są worki pełne prochu. Przynieś nam trzy takie worki." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "Masz proch? Bez niego nasza broń palna jest bezużyteczna." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "Nasze zapasy prochu maleją. Gdy się skończy, będziemy niemal bezbronni." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_030", "hash": "4D1B7D6D5222A3E0", "target": "Tyle prochu powinno wystarczyć na dłuższy czas. Dziękujemy, <if(gnum4,hojna łowczyni,hojny łowco)>." }
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "Zanieść proch strażnikowi o nazwie „Vath fleetfoot”" },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "Jeszcze raz dziękujemy za broń, <if(gnum4,łowczyni,łowco)>. Sama broń nie wystarczy. Bez prochu nic nie zdziałamy, a prochu jest coraz mniej. Przynieś nam więcej prochu." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_002", "hash": "52465975F8FEB526", "target": "W Loth ast Gnath mają worki prochu. Przynieś nam trzy takie worki." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "Masz proch? Bez niego broń na nic nam się nie zda." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "Prochu mamy coraz mniej. Kiedy go zabraknie, będziemy prawie bezbronni." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_030", "hash": "4D1B7D6D5222A3E0", "target": "Tyle prochu wystarczy na długo. Dziękujemy, <if(gnum4,dzielna łowczyni,dzielny łowco)>." }
   ]
 }

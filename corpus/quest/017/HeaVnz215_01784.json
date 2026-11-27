@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz215_01784",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_00", "hash": "CF7A8E1D68E35081", "target": "Łowczyni wpatruje się w nieckę ze łzami w oczach." },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_01", "hash": "0ECD19BBB2AFBE0A", "target": "Nerwowa łowczyni prosi cię o odzyskanie ulubionego łuku, który upuściła do wody w miejscu zwanym Sto Mąk. Nie powinien odpłynąć daleko. Zmocz nogi i rozpocznij poszukiwania." },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_02", "hash": "8078619CB13BA58C", "target": "Znajdujesz zgubiony łuk w dole rzeki. Oddaj go zrozpaczonej łowczyni, aby mogła się bronić." },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_03", "hash": "893D505A0AA4B3C6", "target": "Oddajesz łowczyni jej łuk, ku jej wielkiej radości. Niestety uszkodzona cięciwa uniemożliwia korzystanie z broni. Łowczyni wróci do Tailfeather, by oddać ją do naprawy." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_00", "hash": "CF7A8E1D68E35081", "target": "Łowczyni ze łzami w oczach wpatruje się w wodę u stóp wodospadu." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_01", "hash": "0ECD19BBB2AFBE0A", "target": "Roztrzęsiona łowczyni prosi, żeby odszukać jej ulubiony łuk. Wypadł jej z rąk prosto do wody w miejscu zwanym Sto Mąk. Nie mógł daleko odpłynąć. Czas wejść do wody i się rozejrzeć." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_02", "hash": "8078619CB13BA58C", "target": "Znajdujesz łuk kawałek w dół rzeki. Oddaj go łowczyni, żeby mogła się bronić." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_03", "hash": "893D505A0AA4B3C6", "target": "Łowczyni cieszy się z odzyskanego łuku, ale z uszkodzoną cięciwą strzelać się nie da. Wróci do Tailfeather, żeby go naprawić." },
     { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_00", "hash": "893A8EE9947A9BEB", "target": "Odnaleźć zgubiony łuk" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_01", "hash": "9D1C9F09C38EB606", "target": "Dostarczyć łuk łowczyni" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_000", "hash": "C9AC21C9F123303B", "target": "...Aa! Nie podkradaj się tak do mnie! Wybacz... Jestem trochę nerwowa, odkąd przestraszył mnie ryk bestii bandersnatch i upuściłam ulubiony łuk do rzeki." },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_001", "hash": "B2EC3D3870432436", "target": "Chcę odzyskać łuk, ale nie śmiem zapuszczać się w dzicz bez broni. Tyle tam niebezpieczeństw... Słuchaj, wyglądasz na kogoś zaradnego. Może poszukasz tej broni za mnie?" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_002", "hash": "99C9CA503ADE9531", "target": "Przy odrobinie szczęścia odpłynął tylko kawałek w dół rzeki. Pewnie przyjdzie ci się zamoczyć, ale za jego odzyskanie będę ci bardzo wdzięczna." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_01", "hash": "9D1C9F09C38EB606", "target": "Oddać łuk łowczyni" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_000", "hash": "C9AC21C9F123303B", "target": "…Aa! Nie skradaj się tak! Wybacz… Wciąż jestem roztrzęsiona. Bandersnatch tak mnie przestraszył swoim rykiem, że upuściłam do rzeki ulubiony łuk." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_001", "hash": "B2EC3D3870432436", "target": "Chętnie sama bym go poszukała, ale bez broni boję się stąd ruszyć. Tyle się tu kręci niebezpiecznych stworzeń… Słuchaj, wyglądasz na kogoś, kto da sobie radę. Może poszukasz za mnie?" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_002", "hash": "99C9CA503ADE9531", "target": "Jeśli mam szczęście, łuk popłynął tylko kawałek z prądem. Pewnie się zamoczysz, ale będę ci bardzo wdzięczna, jeśli go znajdziesz." },
     { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_010", "hash": "36BF98AF438514C4", "target": "Musi gdzieś tu być... Łuki nie znikają ot tak! Pewnie nie odpłynął daleko w dół rzeki. Liczę, że go znajdziesz!" },
     { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_020", "hash": "E6F900C1F6877871", "target": "Łuk powinien być gdzieś w tej okolicy... Ja zaczekam tutaj!" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_021", "hash": "8DF21BCE01CC2866", "target": "\\<sapnięcie> Mój łuk się znalazł! Och, bardzo ci dziękuję! Wreszcie mogę wrócić do polowania!" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_022", "hash": "2DA44D5B1690788A", "target": "O nie, cięciwa jest uszkodzona... Muszę zanieść go do łuczarza w Tailfeather." }
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_021", "hash": "8DF21BCE01CC2866", "target": "\\<wciąga powietrze> Mój łuk! Och, bardzo ci dziękuję! Wreszcie mogę wracać na łowy!" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_022", "hash": "2DA44D5B1690788A", "target": "O nie, cięciwa się uszkodziła… Muszę zanieść łuk do łuczarza w Tailfeather." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz923_02879",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SEQ_00", "hash": "CCFC8CE8B63B5C10", "target": "Supriyę urzeka sama myśl o bażancich piórach." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SEQ_00", "hash": "CCFC8CE8B63B5C10", "target": "Supriya chciałaby zdobyć bażancie pióra." },
     { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_00", "hash": "6ECF20B743456A91", "target": "Zdobyć pióra bażanta" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_01", "hash": "A7E14C90E3087347", "target": "Dostarczyć pióra bażanta Supriyi" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_000", "hash": "BD8A3B767D68CBCE", "target": "Sss... To ty <if(gnum4,zgładziłaś,zgładziłeś)> Sri Lakshmi, <if(gnum4,krocząca,kroczący)>...<br>Wysłuchasz mojej skromnej prośby?" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_001", "hash": "D457C0DF3C019F4C", "target": "Sss... Słyszałam opowieści o ptaku zwanym bażantem. Pragnę zdobyć kilka jego piór. Niestety, mam rozkaz pozostać na tej pozycji i zamierzam go wykonać." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_002", "hash": "558F336989B071FA", "target": "Sss... Siostry patrolujące górskie szlaki opowiadają o pięknych skrzydlatych stworzeniach szybujących nad ich drogą. Może tu i ówdzie da się znaleźć zgubione pióra." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_003", "hash": "A4B56FA8429180AD", "target": "Sss... Proszę, <if(gnum4,krocząca,kroczący)>, udaj się na te wyżyny, które twoi zwą Królewskimi Łowiskami, i zbierz wszystkie bażancie pióra, jakie znajdziesz." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_005", "hash": "66911ECB17D11C74", "target": "Sss... Pióra, których szukam, można znaleźć na waszych Królewskich Łowiskach. Proszę tylko o garść takich skarbów." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_010", "hash": "FFC762E9D05073B1", "target": "Sss... Masz już pióra, których szukałam?" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_011", "hash": "F94B6950A650CBF4", "target": "Sss... Tak... Są piękniejsze, niż sobie wyobrażałam. Bojownicy ruchu oporu, z którymi rozmawiałam, mówią, że łowiska utrzymywano dla rozrywki alamhigańskiej rodziny królewskiej." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_012", "hash": "5FD1F64E1C3A8A2D", "target": "Sss... Podobno bażanty przybyły jako dary od szlachty z innych krain. Pozwalano im się mnożyć, żeby nie zabrakło zwierzyny łownej." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_013", "hash": "B4942372769A4FEB", "target": "Sss... Bażancie pióra są wytrzymałe, a zarazem giętkie. Ceniono je jako lotki najlepszych strzał. Polowano więc tak zawzięcie, że te niegdyś liczne ptaki stały się rzadkością." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_014", "hash": "7746D5E09C5F7108", "target": "Sss... Nie lubię zabijać bez potrzeby. Ale skoro pióra już opadły, nie widzę powodu, żeby je marnować." },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_015", "hash": "F76CDC5A25C4C338", "target": "Sss... Dziękuję ci za zgładzenie Sri Lakshmi i za pomoc. Wkrótce będę miała porządne nowe strzały do łuku." }
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_01", "hash": "A7E14C90E3087347", "target": "Zanieść pióra bażanta Supriyi" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_000", "hash": "BD8A3B767D68CBCE", "target": "Sss... To ty <if(gnum4,zgładziłaś,zgładziłeś)> Sri Lakshmi, <if(gnum4,krocząca,kroczący)>...<br>Wysłuchasz mojej prośby?" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_001", "hash": "D457C0DF3C019F4C", "target": "Sss... Słyszałam o ptakach, które nazywacie bażantami. Chciałabym zdobyć kilka piór, ale mam rozkaz trzymać posterunek. Muszę tu zostać." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_002", "hash": "558F336989B071FA", "target": "Sss... Moje siostry widziały piękne ptaki nad górskimi ścieżkami, kiedy tamtędy szły na patrol. Może gdzieś na szlaku zostało kilka piór." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_003", "hash": "A4B56FA8429180AD", "target": "Sss... <if(gnum4,Krocząca,Kroczący)>, idź na wyżyny, które nazywacie Królewskimi Łowiskami, i zbierz bażancie pióra." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_005", "hash": "66911ECB17D11C74", "target": "Sss... Rozejrzyj się za bażancimi piórami na Królewskich Łowiskach. Wystarczy mi garść takich skarbów." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_010", "hash": "FFC762E9D05073B1", "target": "Sss... Masz te pióra?" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_011", "hash": "F94B6950A650CBF4", "target": "Sss... Piękniejsze, niż myślałam. Ludzie z ruchu oporu mówią, że na tych łowiskach polowała kiedyś rodzina królewska Ala Mhigo." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_012", "hash": "5FD1F64E1C3A8A2D", "target": "Sss... Podobno to szlachta z innych krain przysłała bażanty w darze. Wypuszczono je, żeby się rozmnożyły i było na co polować." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_013", "hash": "B4942372769A4FEB", "target": "Sss... Te pióra są mocne i giętkie. Robiono z nich lotki do najlepszych strzał. Tyle ptaków przez to wybito, że dziś trudno wypatrzyć choćby jednego." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_014", "hash": "7746D5E09C5F7108", "target": "Sss... Nie lubię zabijać bez potrzeby. A skoro pióra same spadły, szkoda, żeby się zmarnowały." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_015", "hash": "F76CDC5A25C4C338", "target": "Sss... Dziękuję. Najpierw Sri Lakshmi, teraz to. Wkrótce będę miała porządne strzały do łuku." }
   ]
 }

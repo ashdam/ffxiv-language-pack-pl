@@ -1,6 +1,6 @@
 {
   "_comment": ["Format: https://github.com/ashdam/ffxiv-corpus-en/blob/main/docs/inventory-exclusions.md"],
-  "excludedSheets": ["Action", "Pet", "Trait"],
+  "excludedSheets": ["Action", "Trait"],
   "exclusion_groups": [
     {
       "why": "Placeholders, development content and text marked as not for translation.",

@@ -2,18 +2,18 @@
   "conversation": "quest/028/StmBdz811_02839",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "Emory przygotowuje się do nowego przedsięwzięcia." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Rozejrzeć się we wskazanym miejscu i zabić migrating crag claws, które się pojawią" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Zdać raport Emory" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "Hej, to o tobie wszyscy mówią! Pomagasz ruchowi oporu, prawda? Przydałyby mi się takie silne ręce. Jeśli masz ochotę, rzecz jasna." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "Odkąd pamiętam, prowadzę tu, w Ala Ghiri, interes ojca. Tyle że tym imperialnym draniom nie chciałem niczego sprzedawać. Nie jestem zbyt dumny z tego, co musiałem robić, ale jakoś dawaliśmy sobie radę." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_002", "hash": "22A7A0C4F166FD8E", "target": "Teraz, kiedy odeszli, możemy wrócić do uczciwej pracy. Mało tego, wreszcie mogę zająć się uprawą ziemi, tak jak zawsze marzyłem." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_003", "hash": "F623FA1177167EC2", "target": "Jest tylko jeden kłopot. Na ziemi, którą upatrzyłem, aż roi się od crags. Jeśli pójdziesz i je stamtąd przegonisz, odpowiednio ci zapłacę." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_004", "hash": "0584495EF8A8F20C", "target": "Masz, zaznaczę ci to na mapie. Rozejrzyj się tam ─ od razu je poznasz." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_005", "hash": "E3FECC72ACBDD05E", "target": "Te crags to paskudne bestie, ale jestem pewien, że dla kogoś takiego jak ty to żaden problem." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_010", "hash": "A4A42BE1B49CE201", "target": "Już po nich? Dobra robota, <if(gnum4,dziewczyno,chłopcze)>, dobra robota!" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_011", "hash": "9CFD1AB13542E2B3", "target": "Ziemia nie jest najlepsza, ale dam sobie radę. Tak, doprowadzę ją do porządku, żeby ludzie mogli ją uprawiać i stanąć na nogi. Zbyt wielu straciło domy i bliskich..." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_012", "hash": "70DE1DF1E151FCBD", "target": "Ekhm. Tylko sobie nie pomyśl czegoś, <if(gnum4,dziewczyno,chłopcze)>. Więcej ludzi na roli to po prostu większe zyski dla mojego interesu." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_013", "hash": "86F31D230BE963FF", "target": "A jeśli przy okazji ludziom będzie się lepiej żyło, cóż, tym bardziej warto się za to zabrać, prawda?" }
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "Emory szykuje się do otwarcia nowego interesu." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Rozejrzeć się we wskazanym miejscu i pokonać bestie Migrating Crag Claw, które się pojawią" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Wrócić do Emory'ego" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "Hej, to o tobie wszyscy mówią! Pomagasz ruchowi oporu, co? Przydałyby mi się tak silne ręce, jeśli masz ochotę." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "Od lat prowadzę tu w Ala Ghiri interes po ojcu. Tym imperialnym draniom niczego nie chciałem sprzedawać. Musiałem się brać za rzeczy, z których nie jestem dumny, ale jakoś dawaliśmy sobie radę." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_002", "hash": "22A7A0C4F166FD8E", "target": "Teraz, kiedy ich nie ma, można wreszcie wrócić do uczciwej pracy. I wziąć się za uprawę ziemi, o czym od dawna marzę." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_003", "hash": "F623FA1177167EC2", "target": "Tylko że na ziemi, którą sobie upatrzyłem, aż się roi od potworów. Przegonisz je dla mnie? Zapłacę jak trzeba." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_004", "hash": "0584495EF8A8F20C", "target": "Już ci zaznaczę to miejsce na mapie. Rozejrzyj się po okolicy, od razu je poznasz." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_005", "hash": "E3FECC72ACBDD05E", "target": "Paskudne to bestie, ale ktoś taki jak ty na pewno sobie poradzi." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_010", "hash": "A4A42BE1B49CE201", "target": "Już po nich? Dobrze ci poszło, <if(gnum4,dziewczyno,chłopcze)>, naprawdę dobrze!" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_011", "hash": "9CFD1AB13542E2B3", "target": "Ziemia jest kiepska, ale dam sobie radę. Przygotuję ją pod uprawę, żeby ludzie znów mieli z czego żyć. Tylu straciło domy i bliskich..." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_012", "hash": "70DE1DF1E151FCBD", "target": "Ekhm. Tylko nie myśl sobie za wiele, <if(gnum4,dziewczyno,chłopcze)>. Im więcej ludzi przy uprawie, tym więcej na niej zarobię. Tylko tyle." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_013", "hash": "86F31D230BE963FF", "target": "A jeśli przy okazji komuś będzie się lepiej żyło, to tym bardziej warto się zabrać do roboty, co?" }
   ]
 }

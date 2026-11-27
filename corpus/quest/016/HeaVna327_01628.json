@@ -2,17 +2,17 @@
   "conversation": "quest/016/HeaVna327_01628",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "Alphinaud rozważa następny krok drużyny." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "Gdy próby zawarcia pokoju legły w gruzach, Estinien jest przekonany, że dla ocalenia Ishgardu trzeba zabić Nidhogga. Zostawiacie Ysayle z jej zdruzgotaną wiarą i ruszacie na wschód, ku domniemanej lokalizacji Aery. Pokonuj wrogów napotkanych podczas poszukiwań leża wyrma." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Pokonujesz wrogie smoki. Nadal odpieraj każdego, kto utrudnia poszukiwania Aery." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "Znów trzeba zabić atakujące smoki. Zachowaj czujność, idąc na wschód ku leżu Nidhogga." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "Odpierasz kolejny atak uzębionych wrogów. Porozmawiaj z Estinienem, który wraz z zatroskanym Alphinaudem wpatruje się w niebo." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "Wreszcie odkrywacie Aery, lecz Nidhogg otoczył swoje leże nieprzeniknioną barierą wiatrów. Na szczęście znacie utalentowanego inżyniera, który być może rozwiąże ten burzliwy problem..." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "Pokonać wrogów podczas poszukiwań Aery" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "Pokonać wrogów w dalszych poszukiwaniach Aery" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "Pokonać wrogów w dalszych poszukiwaniach Aery" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "Porozmawiać z towarzyszem Estinien" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "Wiara Lodowego Serca w wyrma była błędem. Pozostała nam tylko jedna droga..." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "Estinienie... Powiedz, że się mylę..." }
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "Alphinaud zastanawia się, co robić dalej." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "Rozmowy o pokoju spełzły na niczym. Estinien jest pewien, że Ishgard ocaleje tylko wtedy, gdy Nidhogg zginie. Zostawiacie zdruzgotaną Ysayle i ruszacie na wschód, gdzie spodziewacie się znaleźć Aery. Pokonaj wrogów, którzy zastąpią ci drogę do legowiska wyrma." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Pokonujesz atakujące smoki. Szukaj dalej Aery i odpieraj każdego, kto stanie ci na drodze." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "Znów musisz zabić smoki, które cię zaatakowały. Miej się na baczności i idź dalej na wschód, w stronę legowiska Nidhogga." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "Odpierasz kolejny atak smoków. Porozmawiaj z Estinienem. Razem z zaniepokojonym Alphinaudem wpatruje się w niebo." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "Wreszcie znajdujecie Aery. Nidhogg osłonił jednak legowisko wichurą, przez którą nie sposób się przedostać. Na szczęście znacie inżyniera, który być może zdoła przebić się przez tę burzę..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "Szukać Aery i pokonać napastników" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "Szukać dalej Aery i pokonać napastników" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "Szukać dalej Aery i pokonać napastników" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "Porozmawiać z Estinienem" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "Pani Lodowe Serce zawiodła się na wyrmie. Zostało nam tylko jedno wyjście..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "Panie Estinienie... Proszę mi powiedzieć, że się mylę..." }
   ]
 }

@@ -2,7 +2,7 @@
   "sheet": "InclusionShopWelcomText",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "Rozmaite wspaniałości " },
+    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "Wszelkie wspaniałości " },
     { "gameKey": "InclusionShopWelcomText#2", "hash": "D7729256658FC2CB", "target": "Tutaj możesz wymienić allagańskie tomolity i inne drobiazgi na luksusowe towary dostępne w Butiku Wspaniałości pani Mowen. Możesz mieć pewność, że każdy przedmiot starannie przygotowali utalentowani rzemieślnicy i pixie─uczciwość ponad wszystko! " },
     { "gameKey": "InclusionShopWelcomText#3", "hash": "EE1DF3E673173DED", "target": "Zjednoczona Wymiana Bonów" },
     { "gameKey": "InclusionShopWelcomText#4", "hash": "4C3964472CDF648E", "target": "Tutaj możesz wymieniać bony rzemieślników i zbieraczy na rozmaite miejscowe skarby i przydatne towary z importu. Niezależnie od fachu znajdziesz wszystko, czego potrzebujesz, i jeszcze więcej tutaj, w Zjednoczonej Wymianie Bonów!" },

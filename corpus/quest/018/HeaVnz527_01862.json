@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz527_01862",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_00", "hash": "83B211224C3D3A3B", "target": "Ten moogle stracił coś cennego." },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_01", "hash": "0B717F0655A10CDE", "target": "Biedny moogle upuścił ulubiony pierścień podczas spokojnego spaceru po Domu Liter, a syricta go podniosła. Odbierz bezcenny pierścień jednej z grasujących w okolicy bestii." },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_02", "hash": "90A21505AC22B26F", "target": "Cztery elder syricta nie żyją, ale żadna nie ukradła pierścienia biednego moogle'a. Zabijaj kolejne syricta, aż znajdziesz bezczelną złodziejkę." },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_03", "hash": "0A31511318108D65", "target": "Po zaciętej walce syricta oddaje zgubiony pierścień. Zwróć go przygnębionemu moogle'owi." },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_04", "hash": "CEEEA9479CAC54E9", "target": "Na widok pierścienia moogle'owi rozjaśnia się twarz─najwyraźniej wydał na niego wszystkie swoje orzechy kupo." },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_00", "hash": "FEF8ED57A7E26228", "target": "Odzyskać pierścień od elder syricta" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_01", "hash": "62C103750ECD63C3", "target": "Odzyskać pierścień od elder syricta" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_02", "hash": "76498BCFE1E8191A", "target": "Dostarczyć pierścień moogle'owi" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_000", "hash": "009672D52DB8B469", "target": "O nie... Spacerowałem sobie spokojnie i upuściłem ulubiony pierścień. Widziałem, jak podniosła go jedna z tych groźnie wyglądających syricta. Proszę, odzyskasz go dla mnie, kupo?" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_010", "hash": "3149264F50125857", "target": "Sam nie mam szans wydrzeć pierścienia jednej z tych syricta. Ale ty wyglądasz na kogoś, kto da radę!" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_020", "hash": "85F8C6A5DCDA7DEA", "target": "Nie wierzę, że te syricta mają czelność zabierać wszystko, co znajdą na ziemi. Udało ci się odzyskać mój pierścień, kupo?" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_021", "hash": "60B4968D8995BAA0", "target": "Mój pierścień! Wiedziałem, że zdołasz go odebrać tym podłym syricta. Nigdy bym sobie nie wybaczył jego utraty─kosztował mnie całe oszczędności życia, czterdzieści dwa orzechy kupo!" }
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_00", "hash": "83B211224C3D3A3B", "target": "Kwilący moogle zgubił coś cennego." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_01", "hash": "0B717F0655A10CDE", "target": "Podczas spaceru po Domu Liter kwilący moogle upuścił swój ulubiony pierścionek. Zaraz zgarnęła go jedna z bestii (elder syricta). Odzyskaj błyszczący pierścionek." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_02", "hash": "90A21505AC22B26F", "target": "Cztery bestie padły, ale żadna nie miała pierścionka. Szukaj dalej, aż trafisz na tę złodziejkę." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_03", "hash": "0A31511318108D65", "target": "Po zaciętej walce bestia puszcza pierścionek. Oddaj go kwilącemu moogle'owi." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_04", "hash": "CEEEA9479CAC54E9", "target": "Na widok pierścionka moogle aż promienieje. Podobno wydał na niego wszystkie orzechy kupo, jakie miał." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_00", "hash": "FEF8ED57A7E26228", "target": "Odzyskaj błyszczący pierścionek od bestii (elder syricta)." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_01", "hash": "62C103750ECD63C3", "target": "Odzyskaj błyszczący pierścionek od bestii (elder syricta)." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_02", "hash": "76498BCFE1E8191A", "target": "Oddaj błyszczący pierścionek kwilącemu moogle'owi." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_000", "hash": "009672D52DB8B469", "target": "O nie... Spacerowałem sobie spokojnie i wypadł mi mój ulubiony pierścionek. Widziałem, jak zgarnęło go jedno z tych paskudztw. Odzyskasz go dla mnie, kupo? Proszę!" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_010", "hash": "3149264F50125857", "target": "Sam nie mam szans odebrać pierścionka takiej bestii. Ale ty chyba dasz radę!" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_020", "hash": "85F8C6A5DCDA7DEA", "target": "Co za tupet! Te paskudy zabierają wszystko, co znajdą na ziemi. I jak, masz mój pierścionek, kupo?" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_021", "hash": "60B4968D8995BAA0", "target": "Mój pierścionek! Wiedziałem, że odbierzesz go tym paskudom. Nigdy bym sobie nie wybaczył, gdyby przepadł. Czterdzieści dwa orzechy kupo, oszczędności całego życia!" }
   ]
 }

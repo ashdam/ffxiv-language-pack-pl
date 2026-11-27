@@ -3,18 +3,18 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_00", "hash": "7264227DAAEF0C0B", "target": "Eilis znów potrzebuje cię na murach." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "Eilis wyjaśnia, że trzeba odciągnąć siły Sahagin od Południowej Śluzy. Porozmawiaj z Nortmoenem o sytuacji taktycznej." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "Nortmoen przedstawia prosty plan: zabić dwóch trenchtooth Sahagin." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "Powiadom Eilis o sytuacji na północy." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "Eilis donosi, że pozorowany atak się powiódł. Oddział bez przeszkód wrócił przez południowe wrota." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "Eilis mówi, że trzeba odciągnąć oddziały Sahagin od Południowej Śluzy. Porozmawiaj z Nortmoenem. Zna szczegóły planu." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "Nortmoen ma prosty plan. Zabij dwóch wojowników plemienia Sahagin oznaczonych jako „trenchtooth Sahagin”." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "Daj Eilis znać, jak poszło na północy." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "Eilis mówi, że dywersja się udała. Oddział bez przeszkód wrócił przez Południową Śluzę." },
     { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_00", "hash": "68CB618AC567F051", "target": "Porozmawiać z Nortmoenem" },
     { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_01", "hash": "BFEB944F41FCA2C9", "target": "Zabić trenchtooth Sahagin" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "Zdać sprawę Eilis" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "Złożyć meldunek Eilis" },
     { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_000", "hash": "3C654DD7A1C20EBA", "target": "Maelstrom potrzebuje twojej pomocy." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "Chcemy otworzyć Południową Śluzę, żeby wpuścić wracający oddział, ale w ten sposób odsłonimy się przed plemieniem Sahagin." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "Dlatego zamierzamy przeprowadzić pozorowany atak na północy i odciągnąć hordy Sahagin od otwartej bramy." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "Odszukaj Nortmoena przy Północnej Śluzie Pływowej─to on dowodzi natarciem." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "Czyli znów trzeba wyciągnąć mojego biednego braciszka z tarapatów? Dobrze. Wystarczy, że zabijesz parę tych płochliwych morskich ślimaków. To powinno ściągnąć całą resztę." },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "Jak nic, nasz subtelny fortel odciągnął te morskie szuje z południa od otwartych wrót. Żołnierze z oddziału przekazują podziękowania." }
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "Musimy otworzyć Południową Śluzę, żeby wpuścić wracający oddział. Plemię Sahagin może łatwo wykorzystać ten moment." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "Dlatego uderzymy od północy. Chcemy, żeby te hordy ruszyły za nami i zostawiły otwartą śluzę w spokoju." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "Odszukaj Nortmoena przy Północnej Śluzie Pływowej. To on dowodzi wypadem." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "Czyli znowu trzeba wyciągać mojego biednego braciszka z tarapatów? No dobrze. Zabij dwa z tych płochliwych morskich ślimaków. Reszta sama się zleci." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "Tak jak liczyliśmy, nasz podstęp odciągnął te morskie szuje od otwartej śluzy na południu. Żołnierze z oddziału prosili, żeby ci podziękować." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil120_00630",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "Tutusi z Camp Drybone ma zadanie dla śmiałego poszukiwacza przygód." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "Tutusi chce, by zebrać trzy gałązki lawendy Althyka przy olbrzymich zwłokach goobbue na wschód od obozu Camp Drybone." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "Masz już trzy gałązki lawendy Althyka. Dostarcz je Tutusi w Camp Drybone." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "Lawenda Althyka jest ceniona jako ofiara podczas pogrzebów w Kościele Świętego Adamy Landamy. Najwyraźniej zmarli potrafią docenić różnicę między rzadkim a pospolitym kwiatem." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "Tutusi z Camp Drybone ma kolejny interes do załatwienia." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "Na wschód od Camp Drybone, obok szczątków olbrzymiego goobbue, rośnie lawenda Althyka. Zbierz dla Tutusi trzy gałązki." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "Masz już trzy gałązki lawendy Althyka. Zanieś je Tutusi w Camp Drybone." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "Lawendę Althyka chętnie kupuje się na pogrzeby w Kościele Świętego Adamy Landamy. Najwyraźniej nawet zmarli wolą rzadkie kwiaty od pospolitych." },
     { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_00", "hash": "438F3ED6E40DD034", "target": "Zebrać gałązki lawendy Althyka" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "Dostarczyć lawendę Althyka Tutusi" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "Wraca <if(gnum4,pani,pan)> po więcej? Dobrze. Oto zagadka─co w osadzie takiej jak nasza, tak blisko cmentarza, sprzedaje się szybciej, niż zapełniamy półki? Tak, <italic(1)>kwiaty<italic(0)>!" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "Na wschód stąd leżą szczątki ogromnego goobbue. Wokół wyrasta tyle roślin, że można się poczuć jak w Czarnym Całunie pośrodku Thanalanu." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "Niektórzy mówią, że goobbue zszedł z gór podczas Katastrofy i przyniósł nasiona, z których wyrosły te rośliny. Ale mnie potrzeba tylko trzech gałązek lawendy Althyka. Proste, prawda?" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "Zanieść lawendę Althyka Tutusi" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "A więc <if(gnum4,wróciła pani,wrócił pan)> po kolejne zlecenie? To zagadka. Co u nas, tuż przy cmentarzu, znika z półek, zanim zdążymy je zapełnić? <italic(1)>Kwiaty<italic(0)>!" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "Na wschód stąd leżą szczątki ogromnego goobbue. Tyle tam zieleni, że można by pomyśleć, że kawałek lasu The Black Shroud wyrósł na środku Thanalanu." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "Podobno goobbue zszedł z gór podczas Katastrofy. Przyniósł na sobie nasiona i stąd się wzięły wszystkie te rośliny. Mnie wystarczą trzy gałązki lawendy Althyka. Prosta robota, prawda?" },
     { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_10", "hash": "AD966EB8D014F00B", "target": "I jak, <split(<string(gstr1)>, ,1)>? Są już moje śliczne kwiatuszki?" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "Ach, cudowne! Znakomicie, znakomicie. Nie wiem, co kryje ta gnijąca padlina goobbue, ale wyrastają na niej najpiękniejsze cholerne kwiaty, jakie widziałam." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "Mówią, że im rzadszy kwiat złożony w ofierze, tym szczęśliwszy zmarły. A lawenda Althyka jest wyjątkowo rzadka." },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "Zachowam je, żeby nieźle zarobić przy następnym pochówku na cmentarzu!" }
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "Ależ piękne! Nie mam pojęcia, co tam gnije w tym goobbue, ale piękniejszych kwiatów w życiu nie widziałam, do licha!" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "Powiadają, że im rzadsze kwiaty na grobie, tym szczęśliwszy nieboszczyk. A lawendę Althyka niełatwo znaleźć." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "Odłożę je na następny pogrzeb. Nieźle na nich zarobię!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/029/StmBdy107_02938",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild z Gospody Shiokaze uparcie przygląda się przechodniom w poszukiwaniu rekrutów." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Porozmawiać z postacią Wlveva" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "No proszę, to <split(<string(gstr1)>, ,1)>. Podejdź, niech sama zobaczę, jak daleko <if(gnum4,zaszłaś,zaszedłeś)> od naszego ostatniego spotkania." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "Tak jak myślałam. Wyglądasz na znacznie silniejszą osobę niż poprzednio. Polowania dobrze ci zrobiły. Mam nadzieję, że i ty dobrze się na nich <if(gnum4,spisałaś,spisałeś)>." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_003", "hash": "4DCC43FC97CC3652", "target": "Pora wyruszyć na jeszcze groźniejsze polowania. Trzy gwiazdki czekają. Idź znów porozmawiać z Wlvevą. Oby bogowie pozwolili ci wrócić z życiem." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_004", "hash": "5171D1F438342EC1", "target": "Uważaj podczas polowania, by nie stać się zdobyczą." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_010", "hash": "705F0CBFBD1DCA9C", "target": "Estrild mówi, że możesz już podjąć się naszych trzygwiazdkowych polowań. Wiedz, że to oznaka wielkiego zaufania do twoich umiejętności. " },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_011", "hash": "BDFAF981DBC2CF17", "target": "Dobrze. Zaufam jej w tej sprawie. Możesz podejmować nasze trzygwiazdkowe zlecenia." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_012", "hash": "C6D260E181A7B7AF", "target": "Pamiętaj jednak, że żadne ostrzeżenia nie wystarczą. Potwory, na które będziesz polować, nie są zwykłymi bestiami. Są piekielne. Nieustępliwe. Zanim się z nimi zmierzysz, musisz dobrze znać zarówno swoje możliwości, jak i ich." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_100_013", "hash": "6BEFF889542D9ABB", "target": "Trzygwiazdkowe listy gończe weteranów Klanu są już dostępne." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_013", "hash": "0BC1C858A8C3A1B4", "target": "Możesz teraz podejmować trzygwiazdkowe listy gończe weteranów Klanu z tablic polowań klanu w Kugane i Rhalgr's Reach." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "Po osiągnięciu poziomu 70 Estrild w Gospodzie Shiokaze udostępni nowe misje i elitarne listy gończe weteranów Klanu." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_015", "hash": "9705F6FAE570A6BC", "target": "Pora wyruszyć na jeszcze groźniejsze polowania. Nasze trzy gwiazdki czekają. Idź znów porozmawiać z Wlvevą. Oby bogowie pozwolili ci wrócić z życiem." }
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild z zajazdu Shiokaze Hostelry nadal wypatruje rekrutów." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Porozmawiać z Wlvevą" },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "No proszę, to <split(<string(gstr1)>, ,1)>. Podejdź bliżej. Zobaczymy, ile się od ostatniego razu <if(gnum4,nauczyłaś,nauczyłeś)>." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "Tak myślałam. Od ostatniego razu przybyło ci sił. Polowania ci służą. Oby klan też miał z nich tyle pożytku co ty!" },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_003", "hash": "4DCC43FC97CC3652", "target": "Pora na groźniejszą zwierzynę. Czekają trzy gwiazdki. Pogadaj z Wlvevą. Oby bogowie pozwolili ci wrócić z życiem." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_004", "hash": "5171D1F438342EC1", "target": "Miej się na baczności, bo jeszcze zwierzyna zapoluje na ciebie." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_010", "hash": "705F0CBFBD1DCA9C", "target": "Estrild mówi, że możesz się już brać za trzygwiazdkowe zlecenia. Musi mieć sporo wiary w twoje umiejętności, skoro tak mówi." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_011", "hash": "BDFAF981DBC2CF17", "target": "Dobrze, zaufam jej. Od dziś możesz brać trzygwiazdkowe listy gończe." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_012", "hash": "C6D260E181A7B7AF", "target": "Żadna przestroga nie przygotuje cię na te potwory. To bestie prosto z piekła. Nie odpuszczą. Nim się z nimi zmierzysz, upewnij się, że wiesz, do czego są zdolne i czy im podołasz." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_100_013", "hash": "6BEFF889542D9ABB", "target": "Odblokowano trzygwiazdkowe listy gończe weteranów Klanu." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_013", "hash": "0BC1C858A8C3A1B4", "target": "Trzygwiazdkowe listy gończe weteranów Klanu możesz przyjmować z tablic polowań klanu w Kugane i Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "Po osiągnięciu 70. poziomu u Estrild w zajeździe Shiokaze Hostelry pojawią się nowe misje i elitarne listy gończe weteranów Klanu." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_015", "hash": "9705F6FAE570A6BC", "target": "Pora na groźniejszą zwierzynę. Czekają trzy gwiazdki. Pogadaj z Wlvevą. Oby bogowie pozwolili ci wrócić z życiem." }
   ]
 }

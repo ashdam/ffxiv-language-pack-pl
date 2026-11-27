@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa109_00723",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_00", "hash": "0C73005A9C2F4151", "target": "Ameexia z Małej Pociechy znów potrzebuje pomocy poszukiwacza przygód." },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_01", "hash": "BC0592516B593D4C", "target": "Ameexia zgubiła cenną nić i nie może tkać. Udaj się do Cierniowego Gąszczu i odzyskaj trzy zaginione szpule." },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_02", "hash": "6AA8DC6D63DF6F7C", "target": "Udaje ci się odzyskać zagubione szpule chmurowego jedwabiu Ameexii. Zwróć je właścicielce." },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_03", "hash": "474DA6F5203BB8C6", "target": "Mogąc wreszcie wrócić do tkania, Ameexia gorąco dziękuje za pomoc." },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_00", "hash": "4DD9A444441FF236", "target": "Odszukać szpule nici" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_01", "hash": "05C33093F57D80EA", "target": "Dostarczyć chmurowy jedwab Ameexii w Małej Pociesze" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_000", "hash": "2E8529F8458C9906", "target": "Pomocny wrócił! Ten tutaj ma zmartwienie. Gdy ten tutaj uciekał przed paskudnymi kłowymi, ten tutaj zgubił trzy szpule nici!" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_001", "hash": "741464C901D104C8", "target": "Ten tutaj szukał w ciernistym miejscu raz za razem, ale nic się nie znalazło! Och, biada temu tutaj! Pomocny pomoże, prawda?" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_00", "hash": "0C73005A9C2F4151", "target": "Ameexia z Małej Pociechy znów potrzebuje pomocy." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_01", "hash": "BC0592516B593D4C", "target": "Ameexia zgubiła swoje cenne nici. Bez nich nie ma z czego tkać. Idź do Cierniowego Gąszczu i odszukaj trzy wrzeciona." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_02", "hash": "6AA8DC6D63DF6F7C", "target": "Odnajdujesz wrzeciona chmurowego jedwabiu. Zanieś je Ameexii." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_03", "hash": "474DA6F5203BB8C6", "target": "Ameexia wreszcie może wrócić do tkania. Dziękuje ci z całego serca." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_00", "hash": "4DD9A444441FF236", "target": "Odszukać wrzeciona chmurowego jedwabiu" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_01", "hash": "05C33093F57D80EA", "target": "Zanieść chmurowy jedwab Ameexii w Małej Pociesze" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_000", "hash": "2E8529F8458C9906", "target": "<if(gnum4,Pomocna wróciła,Pomocny wrócił)>! Ta tutaj ma kłopot. Jak uciekała przed tymi paskudnymi z kłami, wypadły jej trzy wrzeciona!" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_001", "hash": "741464C901D104C8", "target": "Ta tutaj szukała i szukała wśród cierni. I nic! Co teraz pocznie ta tutaj? <if(gnum4,Pomocna,Pomocny)> pomoże, prawda?" },
     { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_000_010", "hash": "D73EEC2DD515A305", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_020", "hash": "2334F512D03A06BD", "target": "Bez nici ten tutaj nie może tkać! Co ten tutaj ma zrobić?" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_021", "hash": "B3D04BB02BA5AFBB", "target": "Nić tego tutaj! Ten tutaj znów może tkać! Pomocny jest taki życzliwy. Ten tutaj z całego serca dziękuje pomocnemu!" }
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_020", "hash": "2334F512D03A06BD", "target": "Ta tutaj bez nici nie może tkać! Co ta tutaj zrobi?" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_021", "hash": "B3D04BB02BA5AFBB", "target": "Nici tej tutaj! Ta tutaj znów może tkać! <if(gnum4,Pomocna jest taka miła,Pomocny jest taki miły)>! Ta tutaj dziękuje z całego serca!" }
   ]
 }

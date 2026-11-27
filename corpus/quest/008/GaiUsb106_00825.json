@@ -3,16 +3,16 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "U'khuba Tia wydaje się zniecierpliwiony." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia potrzebuje materiału na groty strzał, a na pustyni oznacza to tylko jedno─rozczłonkowanie niczego niepodejrzewających stworzeń. Po krótkim wykładzie o zawiłościach awansu w plemieniu U prosi cię o zdobycie sześciu kolców russet yarzon." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Sześć kolców yarzon, jeszcze śliskich od krwi i furii, spoczywa w twojej dłoni. Zanieś je U'khubie Tii." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "Świeży zbiór części yarzon trafia do wdzięcznego U'khuby Tii, który coraz pewniej myśli o czekającym go wyzwaniu." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Zabić russet yarzon i zdobyć kolce" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Dać kolce yarzon U'khubie Tii" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "Prawo jest jasne─by zostać nunhem plemienia U, trzeba pokonać obecnego nunha. W moim przypadku oznacza to U'odha Nunha." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Aby jednak zdobyć prawo do wyzwania U'odha, muszę najpierw pokonać U'tykhę. On stoi na mojej drodze, a ja na jego. W ten sposób nunh nie musi bezustannie przyjmować wyzwań." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Lecz żeby pokonać U'tykhę, potrzebuję doskonałej broni. Może i jest głupcem, ale z pewnością nie słabeuszem. Zrobię nowe groty strzał, do czego potrzebne mi kolce yarzon. Pół tuzina powinno wystarczyć." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia potrzebuje materiału na groty strzał. Na pustyni oznacza to jedno: kilka niczego niepodejrzewających stworzeń straci po kawałku ciała. Po krótkiej pogadance o tym, jak piąć się w górę w plemieniu U, prosi, żeby zdobyć sześć kolców stworzeń zwanych russet yarzon." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Trzymasz w garści sześć kolców yarzona. Wciąż ociekają krwią. Zanieś je U'khubie Tii." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "U'khuba Tia dziękuje za świeżo zdobyte kolce yarzona. Widać, że nabiera wiary w swoje siły przed pojedynkiem." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Zabić stwory russet yarzon i zebrać ich kolce" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Oddać kolce yarzona U'khubie Tii" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "Prawo jest jasne. Żeby zostać nunhem plemienia U, trzeba pokonać tego, który nim jest. Dzisiaj to U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Ale zanim będę mógł wyzwać U'odha, muszę pokonać U'tykhę. On stoi mi na drodze, a ja jemu. Dzięki temu nunh nie musi walczyć z każdym, komu zamarzy się jego miejsce." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Żeby pokonać U'tykhę, potrzebuję niezawodnej broni. Głupi może i jest, ale siły mu nie brakuje. Zrobię nowe groty do strzał. Potrzebuję na nie kolców yarzona. Pół tuzina powinno wystarczyć." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_DUMMY_000_020", "hash": "A7B3C1D0CEEA63ED", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Masz już kolce yarzon?" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Dziękuję ci. Może cię zaskoczyć cel, do którego polecą te groty. Zapamiętaj dzisiejszą osadę Forgotten Springs. Dawne obyczaje odchodzą równie szybko, jak mkną strzały." }
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Masz kolce yarzona?" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Dzięki. Jeszcze się zdziwisz, w co trafią te groty. Zapamiętaj, jak dziś wygląda oaza Forgotten Springs. Stare porządki przeminą, nim strzała doleci do celu." }
   ]
 }

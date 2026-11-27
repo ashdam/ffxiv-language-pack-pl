@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc610_01010",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "Ostatnio łowy Isarmoix przynoszą dość mizerne rezultaty." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "Zgadzasz się zdobyć mięso dla pechowego łowcy Isarmoix. Zabij pięć wild hog i wróć z możliwie najsoczystszymi kawałkami dziczego mięsa." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "Polowanie się powiodło. Dostarcz kawałki mięsa Isarmoix." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "Dzięki twoim staraniom żona i dzieci Isarmoix zjedzą dziś na kolację najprzedniejsze mięso. Sam Isarmoix może i nie jest najzdolniejszym łowcą, ale nie sposób odmówić mu oddania rodzinie." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "Zabić wild hog i zdobyć ich mięso" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "Dostarczyć dzicze mięso Isarmoix" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "Kolejny dzień na łowach i znów tylko mięso antylopy. Mnie ono nie przeszkadza─choć jest łykowate i pełne chrząstek─ale choć raz chciałbym sprawić mojej kochanej żonie i dzieciom prawdziwą ucztę." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "Tutejsze dziki wyglądają na dość mięsiste, ale obawiam się, że ich kły rozerwałyby takiego skromnego łowcę jak ja na strzępy. Czy mogę prosić o upolowanie pięciu w moim zastępstwie?" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "Isarmoix ostatnio niewiele przynosi z polowania." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "Zgadzasz się zdobyć mięso dla pechowego łowcy Isarmoix. Upoluj pięć dzików oznaczonych jako „wild hog” i wybierz z nich najsoczystsze kawałki." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "Łowy się udały. Zanieś mięso łowcy Isarmoix." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "Dzięki tobie żona i dzieci Isarmoix będą dziś jadły najlepsze mięso. Isarmoix może i nie jest najlepszym łowcą, ale zrobiłby wszystko dla rodziny." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "Upolować dziki z gatunku wild hog i zebrać ich mięso" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "Zanieść mięso dzika łowcy Isarmoix" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "Cały dzień na łowach i co z tego mam? Znowu tylko antylopę. Mnie tam nie przeszkadza, że mięso łykowate i pełne chrząstek. Ale żonie i dzieciom chciałbym choć raz wyprawić prawdziwą ucztę." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "Tutejsze dziki mają na sobie sporo mięsa. Tyle że z moją wprawą to by mnie tymi kłami rozpruły. Czy mogę prosić o upolowanie pięciu?" },
     { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_020", "hash": "03B29735E6F6AC36", "target": "Jak idą łowy, <if(gnum4,poszukiwaczko,poszukiwaczu)> przygód?" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "Proszę tylko spojrzeć na te soczyste kawałki dziczego mięsa! Aż mi ślinka cieknie na sam widok! Jeden dla żony, cztery dla dzieci─tak, będzie doskonale." },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "Pyta <if(gnum4,pani,pan)>, gdzie moja porcja? Och, mnie wystarczy mięso antylopy. Może kiedyś, gdy nabiorę dość wprawy, by samemu upolować dzika, pozwolę sobie na taki przysmak..." }
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "Ależ soczyste te kawałki! Aż ślinka cieknie. Jeden dla żony, cztery dla dzieci. Wystarczy, będą mieli ucztę." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "A dla mnie? Och, mnie wystarczy antylopa. Może kiedyś będę umiał sam upolować dzika i wtedy zafunduję sobie taki przysmak..." }
   ]
 }

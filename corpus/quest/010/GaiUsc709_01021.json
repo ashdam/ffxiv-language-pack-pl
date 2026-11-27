@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc709_01021",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_00", "hash": "5A9FDD495EFF2A46", "target": "U'odh Nunh ma zamyślony wyraz twarzy." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_01", "hash": "CB3E3AF07D176314", "target": "U'odh Nunh szanuje twoją siłę, lecz niechętnie ryzykowałby życie plemienia w cudzych bitwach. Porozmawiaj z kobietami plemienia U i poznaj ich odczucia." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_02", "hash": "CABA81FD0125FB78", "target": "Zgodnie z oczekiwaniami łowczynie plemienia U nie garną się do cudzej walki. Wróć na rozmowę z U'odhem Nunhem." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_03", "hash": "BC5C1FB58145B5AB", "target": "Mimo spełnienia jego życzenia U'odh Nunh odprawia cię bez ceregieli. Najwyraźniej pilniejsze sprawy wymagają uwagi nunha." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_00", "hash": "C9940B151BAD6588", "target": "Porozmawiać z kobietami plemienia U" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_01", "hash": "8411C24ECE4819BC", "target": "Zdać raport U'odhowi Nunhowi" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_000", "hash": "FA61CC1FA294DD0A", "target": "Słowo nunha jest prawem. Kto nie nadstawia nunhowi uszu, ten je straci." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_001", "hash": "24783C5AB2C6D073", "target": "Mógłbym rozkazać plemieniu walczyć za ciebie─to byłoby dobre dla ciebie, owszem. Ale czy byłoby dobre dla plemienia U? O to pytam." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_002", "hash": "BD735F00A6D9428B", "target": "Mam dowód twojej wartości, ale dla wielu z plemienia U jesteś tylko kolejną obcą osobą. Jeśli chcesz zdobyć ich zaufanie, zrób to samodzielnie. Porozmawiaj z kobietami mojego plemienia i usłysz na własne uszy, co o tobie sądzą." },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUA_000_010", "hash": "72EAEE1F41A746A6", "target": "Odpowiadam przed nunhem i nikim innym. Precz stąd─nie ma tu dla ciebie miejsca." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_00", "hash": "5A9FDD495EFF2A46", "target": "U'odh Nunh jest wyraźnie zamyślony." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_01", "hash": "CB3E3AF07D176314", "target": "U'odh Nunh szanuje twoją siłę, ale nie chce narażać życia swoich ludzi w cudzej wojnie. Porozmawiaj z łowczyniami plemienia U i posłuchaj, co o tym sądzą." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_02", "hash": "CABA81FD0125FB78", "target": "Tak jak można się było spodziewać, łowczynie U nie mają ochoty walczyć w cudzej sprawie. Wróć do U'odha Nunha." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_03", "hash": "BC5C1FB58145B5AB", "target": "Robisz, o co prosił U'odh Nunh, a mimo to odprawia cię bez dyskusji. Najwyraźniej ma teraz pilniejsze sprawy." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_00", "hash": "C9940B151BAD6588", "target": "Porozmawiać z łowczyniami plemienia U" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_01", "hash": "8411C24ECE4819BC", "target": "Złożyć meldunek U'odhowi Nunhowi" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_000", "hash": "FA61CC1FA294DD0A", "target": "Słowo nunha to prawo. Kto zamyka uszy na jego słowa, ten uszy straci." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_001", "hash": "24783C5AB2C6D073", "target": "Mógłbym rozkazać swojemu plemieniu, żeby za ciebie walczyło. Tobie by to odpowiadało, owszem. A czy plemię U miałoby z tego jakiś pożytek? O to pytam." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_002", "hash": "BD735F00A6D9428B", "target": "Ja wiem, ile jesteś <if(gnum4,warta,wart)>, ale dla wielu z moich ludzi jesteś <if(gnum4,obca,obcy)>. Jeśli ci zależy na ich zaufaniu, trzeba na nie zapracować. Pogadaj z łowczyniami i posłuchaj, co mają ci do powiedzenia." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUA_000_010", "hash": "72EAEE1F41A746A6", "target": "Odpowiadam tylko przed nunhem. Precz. Nie ma tu dla ciebie miejsca." },
     { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UOZOKUB_000_020", "hash": "283CE9E9442E831E", "target": "Dołączyć do twojej walki? Czemu plemię U ma pomagać komuś obcemu, skoro mamy własne problemy?" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUC_000_030", "hash": "78896CC72B601ED3", "target": "Słyszałam opowieści o twojej sile. Ale skoro jest prawdziwa, dlaczego nie toczysz własnych bitew?" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUD_000_040", "hash": "A65EF704028F02F1", "target": "Plemię U walczy, z <italic(1)>kim<italic(0)> chce i <italic(1)>kiedy<italic(0)> chce. Czy to takie trudne do zrozumienia dla kogoś obcego?" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_060", "hash": "F3474DFCEAC92436", "target": "Wracasz, ale proszę, zostaw mnie. Jestem przede wszystkim nunhem mojego ludu i jego potrzeby obchodzą mnie bardziej niż twoje." }
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUC_000_030", "hash": "78896CC72B601ED3", "target": "Słyszałam, że masz siłę. To czemu <if(gnum4,sama,sam)> nie stoczysz swoich bitew?" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUD_000_040", "hash": "A65EF704028F02F1", "target": "To my decydujemy, z <italic(1)>kim<italic(0)> i <italic(1)>kiedy<italic(0)> walczymy. Tak trudno to pojąć komuś z zewnątrz?" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_060", "hash": "F3474DFCEAC92436", "target": "Już jesteś? Wybacz, ale zostaw mnie teraz. Jestem nunhem. Najpierw muszę się zatroszczyć o swoich ludzi." }
   ]
 }
