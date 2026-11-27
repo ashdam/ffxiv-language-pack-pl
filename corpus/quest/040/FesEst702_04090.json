@@ -4,14 +4,14 @@
   "entries": [
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_00", "hash": "4EF641BB67159117", "target": "Nonotta potrzebuje prawdziwego mistrzostwa w zbieraniu jaj.<br>※To zadanie jest dostępne tylko przez ograniczony czas." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_01", "hash": "8564756100BBD3CA", "target": "Na wieść, że chcesz stawić czoła groźnym dziobom, Nonotta odsyła cię do Pawlina. To on otworzy ci Marzycielski Kurnik.<br><br>※Po zakończeniu wydarzenia sezonowego nie będzie można ukończyć tego zadania. Szczegóły znajdziesz w serwisie The Lodestone." },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_02", "hash": "A0B00EF23B69292B", "target": "Pawlin otwiera drzwi do tymczasowego domu swoich maleństw. Wejdź do Marzycielskiego Kurnika i pomóż ocalić Święto Wyklucia. Zbierz jaja podczas FATE „Jajzystencjalne zagrożenie”.<br><br>※FATE „Jajzystencjalne zagrożenie” można ukończyć tylko jako Uczeń Wojny lub Uczeń Magii." },
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_02", "hash": "A0B00EF23B69292B", "target": "Pawlin otwiera drzwi do tymczasowego domu swoich maleństw. Wejdź do Marzycielskiego Kurnika i pomóż ocalić Święto Wyklucia. Zbierz jaja podczas FATE „<sheet(Fate,1711,0)>”.<br><br>※FATE „<sheet(Fate,1711,0)>” można ukończyć tylko jako Uczeń Wojny lub Uczeń Magii." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_03", "hash": "095EBE2760E856D5", "target": "Wracasz z Marzycielskiego Kurnika ze skarbami pełnymi żółtek. Powiedz Nonotcie, że masz jaja." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_04", "hash": "66CDFCC266FEAE12", "target": "Nonotta nie szczędzi ci pochwał i podziękowań. Nikt nie dorównuje ci w zbieraniu jaj! Czas zanieść je do Jihli, która niecierpliwie czeka w Amfiteatrze Mih Khetto." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_05", "hash": "EFE0F72FFB515A99", "target": "Jihli z radością przyjmuje jaja i zabiera się do pieczenia ciastek oraz malowania wydmuszek. Nonotta prosi, żeby przyjść przed amfiteatr i rozdać prezenty w podzięce za pomoc przy Święcie Wyklucia." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_06", "hash": "CD650E65221A50DC", "target": "Nonotta zajmuje się czyszczeniem stroju po przygodzie z kurami, a ty rozdajesz prezenty. Pomocnicy przyjmują je z miłym zaskoczeniem. Teraz porozmawiaj z Jihli." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SEQ_07", "hash": "4AC662E0930E0C97", "target": "Jihli jeszcze raz dziękuje ci za pomoc. Zdziwiła się, ilu moogli i sylfów przybyło na święto. Obchody najwyraźniej się udały. Teraz masz już tylko jedno zadanie: wmieszać się w tłum królików i kur i dobrze się bawić!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_00", "hash": "CC9061F7F1528944", "target": "Porozmawiać z Pawlinem" },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_01", "hash": "BFEAEC509CDFFC18", "target": "Ukończyć FATE „Jajzystencjalne zagrożenie” w Marzycielskim Kurniku" },
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_01", "hash": "BFEAEC509CDFFC18", "target": "Ukończyć FATE „<sheet(Fate,1711,0)>” w Marzycielskim Kurniku" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_02", "hash": "A58C31FEB31640B0", "target": "Porozmawiać z Nonottą" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_03", "hash": "9A83F592149AD370", "target": "Porozmawiać z Jihli Aliapoh" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_TODO_04", "hash": "11438ACB9F7B84E7", "target": "Porozmawiać z Nonottą" },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_PAWLIN_100_003", "hash": "2E6FE21A6267D564", "target": "Na pewno świetnie sobie poradzisz!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_JIHLIALIAPOH_100_004", "hash": "E8AAE42918C670A4", "target": "Udało ci się znaleźć Nonottę? Może zapatrzyła się na kwiaty na plantacji…" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_PAWLIN_000_004", "hash": "DD30A6C0F57B10D5", "target": "Wszystko gotowe? No to do kurnika!" },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_200_004", "hash": "5C1A719B4B3D1BB1", "target": "FATE „Jajzystencjalne zagrożenie” można ukończyć tylko jako Uczeń Wojny lub Uczeń Magii." },
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_200_004", "hash": "5C1A719B4B3D1BB1", "target": "FATE „<sheet(Fate,1711,0)>” można ukończyć tylko jako Uczeń Wojny lub Uczeń Magii." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_Q1_000_000", "hash": "077E5B325101EEFD", "target": "Wejść do Marzycielskiego Kurnika?" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_NONOTTA_000_005", "hash": "28EAB2A12DBF63C4", "target": "<split(<string(gstr1)>, ,1)>! Nikt tak nie zbiera jaj jak ty! Nie wiem, jak ci dziękować!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_PAWLIN_000_006", "hash": "54FA7A34754826E3", "target": "Ależ mistrzowska robota!" },
@@ -106,7 +106,7 @@
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_JIHLIALIAPOH_000_105", "hash": "15535FAFE1F9C75D", "target": "Trochę się nam po drodze przytrafiło, ale króliki z kurami pięknie przystroiły miasto. Święto Wyklucia udało się na medal!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_JIHLIALIAPOH_000_106", "hash": "9531AB71DF9750FC", "target": "A po tym wszystkim, co dla nas robisz, pora wyjść do miasta i też się pobawić!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_100_106", "hash": "D003A060B26FBA7B", "target": "Porozmawiaj z Nonottą, jeśli chcesz jeszcze raz rozdać prezenty z zadania „Dróbna sumka”." },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_000_107", "hash": "903BEB360F7C490B", "target": "Żeby znów wziąć udział w FATE „Jajzystencjalne zagrożenie”, porozmawiaj z Pawlinem na Plantacji Greatloam." },
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_000_107", "hash": "903BEB360F7C490B", "target": "Żeby znów wziąć udział w FATE „<sheet(Fate,1711,0)>”, porozmawiaj z Pawlinem na Plantacji Greatloam." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_100_107", "hash": "7D458D0EBA23A944", "target": "Odblokowano minigrę „Egg Hunter Riggy”. Żeby zagrać, otwórz skrzynię z zabawkami w dowolnym pokoju w gospodzie." }
   ]
 }

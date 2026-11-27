@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_00", "hash": "5A225CA1D867F506", "target": "Skrzydła Moxii trzepoczą niespokojnie." },
-    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_01", "hash": "A484CCE044D38CDC", "target": "Dotknięci znów coś knują. Przybierają postać wpływowych mieszkańców Gridanii, żeby rozsiać złośliwe plotki o Małej Pociesze. Powstrzymaj ich, zanim ktokolwiek uwierzy w te kłamstwa." },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_01", "hash": "A484CCE044D38CDC", "target": "Dotknięci z Ziem Ludu Sylph znów coś knują. Przybierają postać wpływowych mieszkańców Gridanii, żeby rozsiać złośliwe plotki o Małej Pociesze. Powstrzymaj ich, zanim ktokolwiek uwierzy w te kłamstwa." },
     { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_02", "hash": "39BEE82DC6E2AAA9", "target": "Oszuści zdemaskowani i pokonani. Uspokój Moxię, że krzywdzące plotki o jej ludzie nie dotrą do Gridanii." },
     { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_03", "hash": "7E9CCB7ACEEF6452", "target": "Moxia dziękuje za pomoc, ale obawia się, że jej pobratymcy wymyślą jeszcze gorsze podstępy. Sylfy z Małej Pociechy nadal liczą na twoją odwagę i dobroć." },
     { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_TODO_00", "hash": "00C7D3B46D3D7C94", "target": "Rzucić bomby z łusek pewnego widzenia w podejrzanych Gridańczyków i pokonać sylfy sylpheed cackle" },

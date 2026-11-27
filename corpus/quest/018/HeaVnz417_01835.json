@@ -8,9 +8,9 @@
     { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_03", "hash": "FC15D2E6687C38F7", "target": "Ledwie strażniczka słyszy, że droga wolna, a już pędzi do domu. Nie może się doczekać orzechów kupo." },
     { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_00", "hash": "F5CB44BA40268833", "target": "Pokonać cztery bestie tulihand" },
     { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_01", "hash": "5BD2A57A970097EA", "target": "Wrócić do wielkookiego moogle'a" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "Co ją tak zatrzymało, kupo? Dawno powinna mnie zmienić, a tu ani śladu. Ale mi burczy w brzuchu... Pewnie zawróciła przez te okropne bestie, co tu latają." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "Co ją tak zatrzymało, kupo? Dawno powinna mnie zmienić, a tu ani śladu. Ale mi burczy w brzuchu... Pewnie zawróciła przez te okropne tulihandy, co tu latają." },
     { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_001", "hash": "DF5D02F03F1CA90A", "target": "Pokonaj cztery, a droga będzie bezpieczna. Moja zmienniczka już nie będzie miała wymówki. Mój brzuch cię błaga, kupo!" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "Nie wytrzymam, jeśli nie zjem orzechów kupo... <if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, rozpraw się z tymi bestiami, proszę!" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "Nie wytrzymam, jeśli nie zjem orzechów kupo... <if(gnum4,Poszukiwaczko przygód,Poszukiwaczu przygód)>, rozpraw się z tulihandami, proszę!" },
     { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_020", "hash": "8939093284A0D516", "target": "Dziękuję! Skoro bestie już nie zagradzają drogi, zmiana zaraz tu będzie. A ja zaraz zemdleję z głodu, więc chyba polecę do domu. Co może pójść nie tak, kupo?" }
   ]
 }

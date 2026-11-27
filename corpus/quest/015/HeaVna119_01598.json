@@ -29,6 +29,6 @@
     { "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_EDMONT_000_020", "hash": "F89910719CB20212", "target": "Proszę się nie martwić o pana Alphinauda i panią Tataru. Zajmiemy się nimi, gdy wrócą z trybunału." },
     { "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_021", "hash": "4DE69BD5B789587F", "target": "Dla przypomnienia, katedra Holy Vault stoi po drugiej stronie placu Hoplon. Proszę nie kazać Jego Eminencji czekać." },
     { "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_PRIEST01598_000_030", "hash": "E13BF8A119A777FD", "target": "To dla nas zaszczyt, <if(gnum4,pani,panie)> <split(<string(gstr1)>, ,2)>. Tędy proszę." },
-    { "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_PRIEST01598_000_040", "hash": "4AF91EEF7CAB64CC", "target": "<split(<string(gstr1)>, ,1)>! Kiedy <if(gnum4,stanęła pani w naszej obronie,stanął pan w naszej obronie)>, omal się nie rozpłakałam! Dziękuję, dziękuję, dziękuję!" }
+    { "gameKey": "quest/015/HeaVna119_01598#TEXT_HEAVNA119_01598_PRIEST01598_000_040", "hash": "4AF91EEF7CAB64CC", "target": "<split(<string(gstr1)>, ,1)>! Kiedy <if(gnum4,stanęła pani w naszej obronie,stanął pan w naszej obronie)> przed Trybunałem, omal się nie rozpłakałam! Dziękuję, dziękuję, dziękuję!" }
   ]
 }

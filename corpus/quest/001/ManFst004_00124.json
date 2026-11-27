@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_SEQ_00", "hash": "B208F8AFFADA8D04", "target": "Miounne, właścicielka Carline Canopy, ma dla ciebie trzy zadania na dobry początek przygody w Gridanii." },
-    { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_SEQ_01", "hash": "832EE84EA00FC7E8", "target": "Miounne powierzyła ci trzy zadania. Po drodze zagadnij mieszkańców, którym może się przydać pomoc." },
+    { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_SEQ_01", "hash": "832EE84EA00FC7E8", "target": "Miounne powierzyła ci trzy zadania. Po drodze przez Gridanię zagadnij mieszkańców, którym może się przydać pomoc." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_SEQ_02", "hash": "F4C4C64C29245076", "target": "Wszystkie trzy zadania są już za tobą. Wróć do Miounne w Carline Canopy i opowiedz jej, jak poszło." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_SEQ_03", "hash": "39EAFCD5DACCE541", "target": "Miounne mówi, że te trzy miejsca jeszcze nieraz ci się przydadzą. Zapamiętaj jej rady i w miarę zdobywania doświadczenia zapuszczaj się coraz dalej." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_TODO_00", "hash": "F06CFC06B7B4C00D", "target": "Dostroić się do eterytu w mieście" },
@@ -34,7 +34,7 @@
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_28", "hash": "AF923571C812D396", "target": "Próbowali przez pięćdziesiąt lat, aż w końcu żywiołaki pozwoliły im zamieszkać w lesie. Tak powstała Gridania." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_29", "hash": "D46C3C9AF2089437", "target": "Od tamtej pory żywiołaki uczą nas żyć w zgodzie z naturą. Przemawiają za pośrednictwem Słuchaczy, magów, którzy potrafią je usłyszeć." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_30", "hash": "9EFA044D110BDC5D", "target": "Słuchacze uczyli się od żywiołaków władać siłami natury. Z tej wiedzy i dawnych zaklęć narodziła się sztuka zaklinania." },
-    { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_31", "hash": "9068CDFD3CF11E4E", "target": "Mam nadzieję, że to przybliżyło <if(gnum4,pani,panu)> naszą gildię." },
+    { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_31", "hash": "9068CDFD3CF11E4E", "target": "Mam nadzieję, że to przybliżyło <if(gnum4,pani,panu)> Gildię Zaklinaczy." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_32", "hash": "A9AAFE658851B23E", "target": "Jeśli <if(gnum4,pani,pan)> pragnie zgłębić tajniki zaklinania, gorąco zachęcam do wstąpienia w nasze szeregi." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_MADELLE_000_33", "hash": "43C82FE882995C51", "target": "Mogę rozpocząć przygotowania do przyjęcia w każdej chwili. Proszę do mnie wrócić, gdy <if(gnum4,będzie pani gotowa,będzie pan gotów)>." },
     { "gameKey": "quest/001/ManFst004_00124#TEXT_MANFST004_00124_NICIA_000_40", "hash": "A66447D5387C0995", "target": "Witaj. Widzę, że bierzesz sobie do serca rady Matki Miounne." },

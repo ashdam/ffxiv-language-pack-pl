@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "Alphinaud zastanawia się, co robić dalej." },
     { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "Rozmowy o pokoju spełzły na niczym. Estinien jest pewien, że Ishgard ocaleje tylko wtedy, gdy Nidhogg zginie. Zostawiacie zdruzgotaną Ysayle i ruszacie na wschód, gdzie spodziewacie się znaleźć Aery. Pokonaj wrogów, którzy zastąpią ci drogę do legowiska wyrma." },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Pokonujesz napastników. Szukaj dalej Aery i odpieraj każdego, kto stanie ci na drodze." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Pokonujesz atakujące smoki. Szukaj dalej Aery i odpieraj każdego, kto stanie ci na drodze." },
     { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "Znów musisz zabić smoki, które cię zaatakowały. Miej się na baczności i idź dalej na wschód, w stronę legowiska Nidhogga." },
     { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "Odpierasz kolejny atak smoków. Porozmawiaj z Estinienem. Razem z zaniepokojonym Alphinaudem wpatruje się w niebo." },
     { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "Wreszcie znajdujecie Aery. Nidhogg osłonił jednak legowisko wichurą, przez którą nie sposób się przedostać. Na szczęście znacie inżyniera, który być może zdoła przebić się przez tę burzę..." },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_SEQ_00", "hash": "2342F232F2D21477", "target": "Kikipu z osady The Silver Bazaar ma już po dziurki w nosie kilku robotników." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_SEQ_01", "hash": "E019ADA27450E86B", "target": "Czterech robotników od kafarów urządziło sobie przerwę w osadzie The Silver Bazaar i ani myśli wracać do pracy. Kikipu kończy się cierpliwość. Użyj gestu Powątpiewanie (/doubt), żeby podać w wątpliwość ich zachowanie, powód, dla którego tu przyszli, a może i sens ich istnienia. Powinni sobie pójść." },
-    { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_SEQ_02", "hash": "7ED27DC378D24B6E", "target": "Udało ci się przepędzić robotników. Zanieś Kikipu dobrą wiadomość." },
+    { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_SEQ_02", "hash": "7ED27DC378D24B6E", "target": "Udało ci się przepędzić robotników z The Silver Bazaar. Zanieś Kikipu dobrą wiadomość." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_SEQ_03", "hash": "8D34EB4051F83607", "target": "To byli wynajęci opryszkowie w przebraniu robotników. Przysłano ich, żeby po cichu rozejrzeli się po działkach i uprzykrzyli życie mieszkańcom. Wystarczyło ich trochę przycisnąć, żeby uciekli. Oby na tym się skończyło..." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_TODO_00", "hash": "0EC4FE52275A0739", "target": "Przepędzić robotników gestem Powątpiewanie (/doubt)" },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_TODO_01", "hash": "9D2C8C44A780228E", "target": "Wrócić do Kikipu" },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_011", "hash": "7DB313218FB9B814", "target": "Poszli? Wszyscy? Co za ulga! Chcieli wypłoszyć ludzi z domów, żeby ich mocodawcy mogli je tanio wykupić." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_012", "hash": "5CDBDE17F807513F", "target": "Tymi kafarami utwardzają grunt pod fundamenty. Chcą tu wybudować całą dzielnicę rezydencji dla bogaczy z Thanalan." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_013", "hash": "0803A1073EE9B0F9", "target": "Na ich planach jest też The Silver Bazaar. Ziemia podrożeje, więc znalazł się cwaniak, który chce nas stąd wygonić i zagarnąć wszystko dla siebie." },
-    { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_014", "hash": "E7F80E176DAFA1F6", "target": "Bazar nie jest już taki jak kiedyś. Owszem, więcej ludzi stąd wyjeżdża, niż przybywa. I więcej sklepów się zamyka, niż otwiera." },
+    { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_014", "hash": "E7F80E176DAFA1F6", "target": "Silver Bazaar nie jest już taki jak kiedyś. Owszem, więcej ludzi stąd wyjeżdża, niż przybywa. I więcej sklepów się zamyka, niż otwiera." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_KIKIPU_015", "hash": "52A23F0993856814", "target": "Ale tu jest mój dom! Żaden przeklęty bogacz mnie stąd nie wykurzy. Zwłaszcza tchórz, który wynajmuje oprychów do brudnej roboty!" },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_WORKMANA_001", "hash": "4476A03C9182128E", "target": "Nie twój interes. Zejdź mi z oczu, bo zaraz sam cię stąd wyrzucę." },
     { "gameKey": "quest/002/SubWil034_00226#TEXT_SUBWIL034_00226_WORKMANA_002", "hash": "6FAB9E4A617AE716", "target": "Phi, i tak już miałem iść. Tylko sobie nie myśl, że to przez ciebie." },

@@ -44,7 +44,7 @@
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_SYSTEM_000_030", "hash": "D684923C6DE3E21C", "target": "Uważaj na spriggany na górnych pokładach. Jeśli dopadną cię w drodze na plac The Aftcastle, trzeba będzie zacząć od nowa." },
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_SYSTEM_000_031", "hash": "FAA6B36FF88131E6", "target": "Masz 180 sekund na dotarcie do celu. Jeśli ci się nie uda, wróć do punktu wyjścia i spróbuj ponownie." },
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_AUGUSTINIEL_000_035", "hash": "763718DCFD9769C1", "target": "Szkoda każdej chwili. Zanieś jaja na plac The Aftcastle, zanim znajdą nas spriggany." },
-    { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_AUGUSTINIEL_000_036", "hash": "EA9180D9F6C87340", "target": "Jeśli znowu ukradną jaja, nici ze święta. Ruszaj i nie daj się złapać!" },
+    { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_AUGUSTINIEL_000_036", "hash": "EA9180D9F6C87340", "target": "Jeśli znowu ukradną jaja, nici ze święta. Ruszaj i nie daj się złapać sprigganom!" },
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_SYSTEM_000_033", "hash": "599ED1A0AF154DE9", "target": "Żeby przenieść to jajo, musisz założyć czapkę „Pristine Egg Cap”." },
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_SYSTEM_000_034", "hash": "87F3C6F0925BFD06", "target": "Żeby przenieść to jajo, musisz założyć czapkę „Brilliant Egg Cap”." },
     { "gameKey": "quest/014/FesEst005_01418#TEXT_FESEST005_01418_SPRIGAN_000_035", "hash": "88C4A61A1B988A42", "target": "Ty masz lśniące jajo! Piękne, lśniące jajo! Ty daj piękne jaaajo! Jaaaajo!" },

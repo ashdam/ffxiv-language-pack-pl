@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_00", "hash": "703465DD5D2FB5D6", "target": "Luquelot wciąż czymś się martwi. Chyba ma do ciebie prośbę." },
-    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_01", "hash": "12A0B4C3E5C24213", "target": "Luquelot opowiada, że sterowce Ixal wlatują nad Las Dwunastu, jakby nic nie stało im na przeszkodzie. Martwi się, że coś mogło się stać żywiołakom. Spisał, co widział, i prosi, by zanieść jego list Miounne w Gridanii." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_01", "hash": "12A0B4C3E5C24213", "target": "Na Łąkach Bentbranch Luquelot opowiada, że sterowce Ixal wlatują nad Las Dwunastu, jakby nic nie stało im na przeszkodzie. Martwi się, że coś mogło się stać żywiołakom. Spisał, co widział, i prosi, by zanieść jego list Miounne w Gridanii." },
     { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_02", "hash": "C2A8A9E151125FD9", "target": "Miounne blednie, gdy czyta list Luquelota. Najwyraźniej szykują się kłopoty i znów potrzebuje twojej pomocy. Przygotuj się na trudną wyprawę, a potem wróć do niej po szczegóły." },
     { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_TODO_00", "hash": "2AA78C5FF13F1643", "target": "Dostarczyć list Luquelota Miounne" },
     { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_1", "hash": "24CA37BD1E5BCE97", "target": "Jeszcze raz dziękuję za pomoc. Nie chciałbym się narzucać, ale mam jeszcze jedną prośbę. Obawiam się, że to poważna sprawa." },

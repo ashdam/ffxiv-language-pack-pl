@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_00", "hash": "A181B6587C4CDA2A", "target": "Luciae wpatruje się ponuro w zaspy." },
     { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_01", "hash": "379A5FA18AE6CB8A", "target": "Niedźwiedzie polarne zakradają się do obozu Convictory i wyjadają zapasy. Luciae prosi, żeby upolować cztery z nich." },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "Zabijasz cztery niedźwiedzie. Reszta pewnie nieprędko zapuści się do obozu. Wróć do Luciae z dobrą nowiną." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "Zabijasz cztery niedźwiedzie. Reszta pewnie nieprędko zapuści się do obozu Convictory. Wróć do Luciae z dobrą nowiną." },
     { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_03", "hash": "E63FAD8020514CCD", "target": "Luciae cieszy się, że wreszcie ktoś się zajął niedźwiedziami. Tutejszych szlachciców najwyraźniej obchodzą tylko smoki. Nawet kiedy inne bestie wyjadają im wszystko ze spiżarni…" },
     { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_00", "hash": "88ECFE855E2E18AB", "target": "Pokonaj niedźwiedzie (polar bear)." },
     { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_01", "hash": "AA2C1038FD1C4AA3", "target": "Zdaj sprawę Luciae." },

@@ -15,7 +15,7 @@
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_TODO_03", "hash": "2C964AF4CEEB04EC", "target": "Wejść do Tower of Zot" },
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_TODO_04", "hash": "2786AED42AFE3B4B", "target": "Porozmawiać z Thancredem" },
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_KRILE_000_000", "hash": "893EBD4AFC11EC94", "target": "Wygląda na to, że obie grupy czegoś się dowiedziały. Może opowiemy sobie nawzajem, co odkryliśmy?" },
-    { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_NAHBDEEN_000_010", "hash": "4513F8BC9C2B5AFB", "target": "O, dobrze, że jesteś! Słyszałem, że to wy poprowadzicie wyprawę do wieży." },
+    { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_NAHBDEEN_000_010", "hash": "4513F8BC9C2B5AFB", "target": "O, nasz przyjacielu z Eorzei! Czekaliśmy na ciebie! Słyszałem, że to wy poprowadzicie wyprawę do wieży." },
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_NAHBDEEN_000_011", "hash": "3F926DAE2B30F5AC", "target": "Łuski ochronne wkrótce tu dotrą. Do tego czasu zaczekaj przy łodzi, którą przygotowaliśmy." },
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_NAHBDEEN_000_012", "hash": "CECE77F6D43D033F", "target": "Gdy dotrą twoi towarzysze, powiem im, gdzie cię szukać. Oby wam się udało i obyście wszyscy wrócili cało!" },
     { "gameKey": "quest/043/AktKma121_04377#TEXT_AKTKMA121_04377_NAHBDEEN_000_020", "hash": "18F06338345A3931", "target": "Skoro sam satrapa powierzył wam tę wyprawę, musicie nieźle sobie radzić w boju." },

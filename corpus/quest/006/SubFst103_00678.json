@@ -7,7 +7,7 @@
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "Momodi wie już, że zadanie cię interesuje. Daj jej znać, gdy zechcesz poznać szczegóły." },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "Porozmawiać z Momodi w Quicksand w Ul'dah" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "To co, dasz się namówić na małą podróż? Świetnie!" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Jak już mówiłam, prośba przyszła od gildii w Ul'dah. Na miejscu zajrzyj do Quicksand i odszukaj Momodi. Ona zajmuje się tam tym, czym ja tutaj." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Jak już mówiłam, prośba przyszła od Gildii Poszukiwaczy Przygód w Ul'dah. Na miejscu zajrzyj do Quicksand i odszukaj Momodi. Ona zajmuje się tam tym, czym ja tutaj." },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "Możliwe, że wyśle cię prosto w niebezpieczeństwo, ale nie wątpię, że wyjdziesz z tego bez szwanku. No, w drogę, <split(<string(gstr1)>, ,1)>, i powodzenia!" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "Witaj w Quicksand! Mam teraz trochę pracy. Może usiądziesz, gdzie ci wygo─" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "O, to ty, <split(<string(gstr1)>, ,1)>! A ja cię witam jak każdego gościa!" },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_00", "hash": "9C9C88DC182C9119", "target": "Sylphie wydaje się zmartwiona." },
-    { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_01", "hash": "B8ED406351366093", "target": "Odkąd Sanche czuje się coraz gorzej, Sylphie coraz trudniej uczyć Gatty. Prosi cię o pomoc. Udaj się do Dimwold i sprawdź, co możesz zrobić." },
+    { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_01", "hash": "B8ED406351366093", "target": "Odkąd Sanche czuje się coraz gorzej, Sylphie coraz trudniej uczyć Gatty. Prosi cię o pomoc. Udaj się do Mrocznego Lasu i sprawdź, co możesz zrobić." },
     { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_02", "hash": "7FDF2BDB1457EC31", "target": "Przed domem Gatty zastajesz E<-->Sumi<-->Yana, który surowo upomina zawstydzoną Sylphie. Gatty i Sanche nigdzie nie widać. Obawiasz się, że uciekły przed mistrzem gildii i wpadły w jeszcze większe tarapaty. Przeszukaj płycizny rzeki Velodyny na północy." },
     { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_03", "hash": "C070ED0E21946697", "target": "Odnajdujesz Gatty i Sanche w samą porę, by uratować je przed kolejnym atakiem pomiotów Otchłani. Wkrótce dołączają do was E<-->Sumi<-->Yan i Sylphie. Mistrz gildii proponuje powrót do chaty, aby omówić dalsze plany." },
     { "gameKey": "quest/024/JobWhm680_02417#TEXT_JOBWHM680_02417_SEQ_04", "hash": "45E1C5A000E4F321", "target": "E<-->Sumi<-->Yan przyznaje, że sytuacja Gatty jest wyjątkowa. Pozwala tobie i Sylphie dalej uczyć dziewczynkę w jej domu. Wyjdź na zewnątrz i porozmawiaj z Sylphie." },

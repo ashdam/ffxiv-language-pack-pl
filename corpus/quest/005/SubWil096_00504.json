@@ -5,7 +5,7 @@
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_SEQ_00", "hash": "CE483B347EA49311", "target": "Górnik o imieniu Torrid Whisper zgubił narzędzia w pobliżu Copperbell Mines." },
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_SEQ_01", "hash": "30F58F8E182B39B8", "target": "W popłochu zostawił przy wejściu do kopalni naostrzony kilof, stary młotek i ciężki młot. Znajdź wszystkie trzy narzędzia i oddaj je górnikowi." },
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_SEQ_02", "hash": "5C0E3BD58FA89A34", "target": "Masz już wszystkie trzy narzędzia. Zanieś je górnikowi o imieniu Torrid Whisper przy wejściu do Copperbell Mines." },
-    { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_SEQ_03", "hash": "6C98C85D76974834", "target": "Torrid Whisper odzyskał ukochane narzędzia. Teraz może poszukać pracy w innej kopalni." },
+    { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_SEQ_03", "hash": "6C98C85D76974834", "target": "Torrid Whisper odzyskał ukochane narzędzia. Teraz może poszukać pracy w innej kopalni w Eorzei." },
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_TODO_00", "hash": "B4D958F17F7ED271", "target": "Znaleźć naostrzony kilof" },
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_TODO_01", "hash": "ABC5B66C25BC65BA", "target": "Znaleźć stary młotek" },
     { "gameKey": "quest/005/SubWil096_00504#TEXT_SUBWIL096_00504_TODO_02", "hash": "2CE7B58DAC5C6BDB", "target": "Znaleźć ciężki młot" },

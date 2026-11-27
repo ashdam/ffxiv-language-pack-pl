@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_SEQ_00", "hash": "D1AA9F784EFBF397", "target": "Miounne, właścicielka Carline Canopy, ma dla ciebie trzy zadania na dobry początek przygody w Gridanii." },
-    { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_SEQ_01", "hash": "91F1C1CF303B2796", "target": "Miounne powierzyła ci trzy zadania. Po drodze zagadnij mieszkańców, którym może się przydać pomoc." },
+    { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_SEQ_01", "hash": "91F1C1CF303B2796", "target": "Miounne powierzyła ci trzy zadania. Po drodze przez Gridanię zagadnij mieszkańców, którym może się przydać pomoc." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_SEQ_02", "hash": "13CD1C327DCAC3F3", "target": "Wszystkie trzy zadania są już za tobą. Wróć do Miounne w Carline Canopy i opowiedz jej, jak poszło." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_SEQ_03", "hash": "7023BD2FC2CFC66A", "target": "Miounne mówi, że te trzy miejsca jeszcze nieraz ci się przydadzą. Zapamiętaj jej rady i w miarę zdobywania doświadczenia zapuszczaj się coraz dalej." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_TODO_00", "hash": "1DC971F9F40757E8", "target": "Dostroić się do eterytu w mieście" },
@@ -25,7 +25,7 @@
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_MIOUNNE_000_13", "hash": "33CFCF6CDBFDB9D0", "target": "Radzę też porozmawiać z instruktorem tutaj, w Carline Canopy. Instruktorzy to zaufani przedstawiciele Gildii Poszukiwaczy Przygód. Ich rady są na wagę złota dla każdego, kto dopiero zaczyna i ma wielkie plany." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_20", "hash": "8DA4F9DDCB116150", "target": "Witam w Gildii Kopijników. Widzę, że <if(gnum4,pani,pan)> ma własną włócznię." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_21", "hash": "7008C09F2E69254D", "target": "Jeśli <if(gnum4,pani,pan)> chce doskonalić władanie bronią drzewcową, lepszego miejsca nie znajdzie." },
-    { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_22", "hash": "46B2C14D496FB8B7", "target": "Pod okiem instruktorów kopijnicy ćwiczą tu razem i doskonalą swoją technikę." },
+    { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_22", "hash": "46B2C14D496FB8B7", "target": "Pod okiem instruktorów Gildii Kopijników ćwiczymy tu razem i doskonalą swoją technikę." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_23", "hash": "26BBBC8EC2133DB5", "target": "Włócznia służy tak do walki, jak do polowania. W Lesie Dwunastu zwierzyny nie brakowało, więc mieszkańcy używali włóczni jeszcze przed założeniem Gridanii." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_24", "hash": "B6585C0D00686FBC", "target": "Z czasem do Gridanii zaczęli ściągać mistrzowie włóczni z całej krainy. Wielu chciało sprawdzić, czy dorównają słynnym Leśnym Płaczkom." },
     { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_JILLIAN_000_25", "hash": "B164854F2EE7CE0F", "target": "Tu, w Gridanii, ich style walki z czasem się połączyły. Z nich wyrosła sztuka, której dziś uczymy." },

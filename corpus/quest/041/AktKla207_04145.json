@@ -116,7 +116,7 @@
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_229", "hash": "3FF80B1C55E0519B", "target": "Jude jest wzruszony twoją pomocą. Uważa cię teraz za <colortype(500)><edgecolortype(501)><if(gnum4,drogą i zaufaną przyjaciółkę,drogiego i zaufanego przyjaciela)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_230", "hash": "E567AA1F27E2D368", "target": "Rozejrzyj się po Studium. Może ktoś jeszcze potrzebuje pomocy osoby znającej się na rzemiośle." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_233", "hash": "4D58CE72E23F24DE", "target": "Wszystkie zadania Studium ukończone. Qih Aliapoh chce cię o coś poprosić." },
-    { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_234", "hash": "889F2DF3A8639EC1", "target": "Żeby z nią porozmawiać, odwiedź ją w Zgromadzeniu Poszukiwaczy." },
+    { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_234", "hash": "889F2DF3A8639EC1", "target": "Żeby z nią porozmawiać, odwiedź ją w Zgromadzeniu Poszukiwaczy w Studium." },
     { "gameKey": "quest/041/AktKla207_04145#TEXT_AKTKLA207_04145_SYSTEM_000_250", "hash": "6261D6612068EED2", "target": "Przedmioty zwykłej jakości wytworzone w tym zadaniu do niczego się nie przydadzą i nie da się ich sprzedać. Możesz je wyrzucić." }
   ]
 }

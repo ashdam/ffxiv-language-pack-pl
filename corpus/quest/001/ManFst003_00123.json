@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_SEQ_00", "hash": "B0F6709D45C97E04", "target": "Miounne, właścicielka Carline Canopy, ma dla ciebie trzy zadania na dobry początek przygody w Gridanii." },
-    { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_SEQ_01", "hash": "A0BB3CB658A2A089", "target": "Miounne powierzyła ci trzy zadania. Po drodze zagadnij mieszkańców, którym może się przydać pomoc." },
+    { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_SEQ_01", "hash": "A0BB3CB658A2A089", "target": "Miounne powierzyła ci trzy zadania. Po drodze przez Gridanię zagadnij mieszkańców, którym może się przydać pomoc." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_SEQ_02", "hash": "A5496845E5518404", "target": "Wszystkie trzy zadania są już za tobą. Wróć do Miounne w Carline Canopy i opowiedz jej, jak poszło." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_SEQ_03", "hash": "5E796DE30CF790A3", "target": "Miounne mówi, że te trzy miejsca jeszcze nieraz ci się przydadzą. Zapamiętaj jej rady i w miarę zdobywania doświadczenia zapuszczaj się coraz dalej." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_TODO_00", "hash": "30391D396E8321E8", "target": "Dostroić się do eterytu w mieście" },
@@ -33,7 +33,7 @@
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_27", "hash": "8F6FA7824DC4751C", "target": "Tak oto z szeregów Ligi Traperów narodziła się Gildia Łuczników." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_28", "hash": "7B9EB44E6064B19A", "target": "U nas wszyscy doskonalą się w przyjaznej rywalizacji. Widać, że to działa. Wielu znakomitych łuczników Kołczanu Bogów zaczynało właśnie od strzelania do naszych tarcz." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_29", "hash": "E739A773070F72EB", "target": "Tyle o naszej gildii. Oho, czyżbym widziała błysk w oku?" },
-    { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_30", "hash": "D7E327AA508C4502", "target": "Jeśli chce <if(gnum4,pani,pan)> ćwiczyć z najlepszymi łucznikami w Eorzei, zapraszam do nas." },
+    { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_30", "hash": "D7E327AA508C4502", "target": "Jeśli chce <if(gnum4,pani,pan)> ćwiczyć z najlepszymi łucznikami w Eorzei, zapraszam do Gildii Łuczników." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_ATHELYNA_000_31", "hash": "E7CDD533E266DCC7", "target": "Do przyjęcia potrzebna jest zgoda mistrzyni gildii. Proszę wrócić, gdy <if(gnum4,będzie pani gotowa,będzie pan gotów)>. Zajmę się formalnościami." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_NICIA_000_40", "hash": "2BDB2A8EAB0E4853", "target": "Witaj. Widzę, że bierzesz sobie do serca rady Matki Miounne." },
     { "gameKey": "quest/001/ManFst003_00123#TEXT_MANFST003_00123_NICIA_000_41", "hash": "FF325CC54C483752", "target": "Nazywam się Nicia i służę w Leśnych Płaczkach. Pokażę ci, jak działa eteryt. Tak, ten wielki kryształ." },

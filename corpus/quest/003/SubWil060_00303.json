@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_00", "hash": "C6F47A5A92516F85", "target": "Cicidoa szuka kogoś, komu może powierzyć podarunek dla właściciela karczmy The Coffer & Coffin." },
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_01", "hash": "576838E69C705AE6", "target": "Cicidoa chce się odwdzięczyć Rogerowi. Kupił mu dynię z plantacji. Pokaż dowód zakupu Gagari na Królewskich Plantacjach i odbierz podarunek." },
-    { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_02", "hash": "4A860F2DC0AE420B", "target": "Dynia z plantacji jest tak dorodna, jak obiecywano. Zanieś ją Rogerowi do karczmy The Coffer & Coffin." },
+    { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_02", "hash": "4A860F2DC0AE420B", "target": "Dynia z Królewskich Plantacji jest tak dorodna, jak obiecywano. Zanieś ją Rogerowi do karczmy The Coffer & Coffin." },
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_03", "hash": "B45702CDE180F206", "target": "Roger dziękuje za dynię. Jego gościom przyda się trochę warzyw. Ciekawe tylko, czy zechcą ich spróbować." },
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_TODO_00", "hash": "8B98105279868E8F", "target": "Okazać dowód zakupu Gagari" },
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_TODO_01", "hash": "B4B77B805FEE6D1C", "target": "Zanieść dynię z plantacji Rogerowi" },

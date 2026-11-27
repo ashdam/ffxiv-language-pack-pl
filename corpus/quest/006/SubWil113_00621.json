@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_00", "hash": "06544886DB326295", "target": "Isembardowi nie dają spokoju podejrzenia wobec siostry Ourcen." },
-    { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_01", "hash": "BDDDF1614F484D90", "target": "Isembard nie wierzy, że siostra Ourcen ma coś wspólnego z zaginięciami. Prosi, żeby wypytać chłopca, którym zajmuje się na Złotym Bazarze. Może wie, co robiła ostatnio." },
+    { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_01", "hash": "BDDDF1614F484D90", "target": "Isembard nie wierzy, że siostra Ourcen ma coś wspólnego z zaginięciami w Obozie Drybone. Prosi, żeby wypytać chłopca, którym zajmuje się na Złotym Bazarze. Może wie, co robiła ostatnio." },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_02", "hash": "E2EBB5CF6CAB807E", "target": "Chłopiec ze Złotego Bazaru mówi, że siostra Ourcen poszła szukać jego zgubionej pamiątki. Do tej pory nie wróciła. Chłopiec boi się, że coś jej się stało, i prosi, żeby jej poszukać." },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_03", "hash": "503783DB31EA4571", "target": "Ratujesz Ourcen przed nieumarłymi żołnierzami. Dziękuje ci i rusza z powrotem na Złoty Bazar. Wróć do Obozu Drybone i opowiedz Isembardowi, co się stało." },
     { "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_04", "hash": "0B6F2993EFBF9669", "target": "Siostra Ourcen naraziła życie, żeby odzyskać pamiątkę osieroconego chłopca. Isembard tym bardziej nie wierzy, że miała coś wspólnego z zaginięciami." },

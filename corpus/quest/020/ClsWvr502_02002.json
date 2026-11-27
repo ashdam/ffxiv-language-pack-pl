@@ -47,6 +47,6 @@
     { "gameKey": "quest/020/ClsWvr502_02002#TEXT_CLSWVR502_02002_SYSTEM_100_002", "hash": "61E0214CE11A6887", "target": "W dzienniku możesz sprawdzić wymagania kolejnych zadań." },
     { "gameKey": "quest/020/ClsWvr502_02002#TEXT_CLSWVR502_02002_SYSTEM_000_080", "hash": "C9FC6736AE1F40F0", "target": "Twój kunszt przyda się przy wytwarzaniu przedmiotów kolekcjonerskich. Jeśli chcesz wiedzieć, jak na nich zarobić, porozmawiaj z Morgayne na Forum Świętej Reinette w Ishgardzie." },
     { "gameKey": "quest/020/ClsWvr502_02002#TEXT_CLSWVR502_02002_SYSTEM_000_081", "hash": "DE6B2EEF150B6DCD", "target": "Jeśli szukasz trudniejszych wyzwań, zdobądź mistrzowskie receptury." },
-    { "gameKey": "quest/020/ClsWvr502_02002#TEXT_CLSWVR502_02002_SYSTEM_000_082", "hash": "B51F452521E5C12D", "target": "Porozmawiaj z Guiding Starem w Revenant's Toll, aby dowiedzieć się o nich więcej." }
+    { "gameKey": "quest/020/ClsWvr502_02002#TEXT_CLSWVR502_02002_SYSTEM_000_082", "hash": "B51F452521E5C12D", "target": "Porozmawiaj z Guiding Starem w Mycie Upiora, aby dowiedzieć się o nich więcej." }
   ]
 }

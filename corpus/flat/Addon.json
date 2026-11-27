@@ -11454,7 +11454,7 @@
     { "gameKey": "Addon#13509", "hash": "E0597C2DB75D3E76", "target": "Wymagane przedmioty" },
     { "gameKey": "Addon#13510", "hash": "DACFB2DD13A2A936", "target": "W tym wszechstronnym sklepie, filii Domu Splendorów Roweny, zgromadzono w jednym dogodnym miejscu niemal każdą broń, element wyposażenia i przydatny przedmiot, które można kupić za allagańskie tomolity i podobne żetony. Poświęć chwilę na przejrzenie towarów!" },
     { "gameKey": "Addon#13511", "hash": "2CB80FC3D07EB507", "target": "Brak przedmiotów do wyświetlenia." },
-    { "gameKey": "Addon#13512", "hash": "2FAF76C370D64C0E", "target": "Witamy w Sundry Splendors!" },
+    { "gameKey": "Addon#13512", "hash": "2FAF76C370D64C0E", "target": "Witamy we Wszelkich Wspaniałościach!" },
     { "gameKey": "Addon#13513", "hash": "54C0754565D9D9DC", "target": "Wybierz podkategorię." },
     { "gameKey": "Addon#13520", "hash": "BE0B7B18987B484A", "target": "Sprzedaż wszystkich przedmiotów obecnie wystawionych przez twojego retainera spowoduje przekroczenie jego limitu środków w walucie gil. Cała nadwyżka przepadnie.<br>Kontynuować?<br><br>Łączna wartość sprzedaży retainera: <string(lstr1)><br>" },
     { "gameKey": "Addon#13521", "hash": "EC2A6E217F775FF4", "target": "Sprzedaż wszystkich przedmiotów obecnie wystawionych przez twojego retainera spowoduje przekroczenie jego limitu środków w walucie gil. Cała nadwyżka przepadnie.<br>Kontynuować?<br><br>Obecne środki retainera (gil): <kilo(lnum1,<nbsp>)><br>" },

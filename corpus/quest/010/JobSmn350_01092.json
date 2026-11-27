@@ -2,7 +2,7 @@
   "conversation": "quest/010/JobSmn350_01092",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/JobSmn350_01092#TEXT_JOBSMN350_01092_SEQ_00", "hash": "B6668A74FC6455D9", "target": "Y'mhitra chciałaby przystąpić do następnego rytuału przywołania." },
+    { "gameKey": "quest/010/JobSmn350_01092#TEXT_JOBSMN350_01092_SEQ_00", "hash": "B6668A74FC6455D9", "target": "Y'mhitra, badaczka przy Wodospadzie Apkallu, chciałaby przystąpić do następnego rytuału przywołania." },
     { "gameKey": "quest/010/JobSmn350_01092#TEXT_JOBSMN350_01092_SEQ_01", "hash": "51B0DB459048D7C4", "target": "Postanawiasz przystąpić do Próby Ziemi. Odszukaj Y'mhitrę na południowy zachód od Olchowych Źródeł w North Shroud. Tam rozpoczniecie obrzęd, w którym spróbujesz okiełznać nowe egi." },
     { "gameKey": "quest/010/JobSmn350_01092#TEXT_JOBSMN350_01092_SEQ_02", "hash": "5FC4BCB3F5BF4594", "target": "Zgodnie ze wskazówkami Y'mhitry przywołujesz i pokonujesz Titan-Egi. Ledwo kończy się walka, a rzuca się na ciebie nieznajomy, który też najwyraźniej zna sztukę przywoływania. Zmuszasz go do odwrotu. Nie wiesz, dlaczego cię napadł. Sprawdź, czy Y'mhitrze nic się nie stało." },
     { "gameKey": "quest/010/JobSmn350_01092#TEXT_JOBSMN350_01092_SEQ_03", "hash": "5B24E1AB4D7554CA", "target": "Y'mhitrze nic się nie stało. Wróć z nią nad Wodospad Apkallu w Gridanii, żeby porozmawiać o napastniku." },

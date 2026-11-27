@@ -9,7 +9,7 @@
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_SEQ_04", "hash": "4C8DB043C92FF7BD", "target": "Nonotta cieszy się, że wszystkie kury wróciły do kurnika. Prosi, żeby spotkać się z nią w Amfiteatrze Mih Khetto. Pójdziecie razem z dobrą nowiną do Jihli Aliapoh." },
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_SEQ_05", "hash": "B35FD0EC4E3D17BF", "target": "Jihli cieszy się, że kury wróciły i Święto Wyklucia może się rozpocząć. Kiedy Nonotta odchodzi, Jihli zdradza ci w sekrecie, że jeszcze bardzo się przydasz. Wróć do niej, gdy zaczną się obchody, jeśli wciąż masz ochotę pomóc." },
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_TODO_00", "hash": "B16D2EFEA5EBF871", "target": "Porozmawiać z Nonottą w pobliżu Carline Canopy" },
-    { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_TODO_01", "hash": "9407B89D1DBE694C", "target": "Ukończyć FATE „Gdacząca katastrofa” w Central Shroud" },
+    { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_TODO_01", "hash": "9407B89D1DBE694C", "target": "Ukończyć FATE „<sheet(Fate,1594,0)>” w Central Shroud" },
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_TODO_02", "hash": "9CE723CF0803F838", "target": "Porozmawiać z Nonottą" },
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_TODO_03", "hash": "D4AE08B27F3F3790", "target": "Porozmawiać z Jihli Aliapoh" },
     { "gameKey": "quest/038/FesEst601_03846#TEXT_FESEST601_03846_JIHLIALIAPOH_000_001", "hash": "7DEA7CA83F16BB30", "target": "Przybywajcie, kto żyw! Znów nadeszło Święto Wyklucia!" },

@@ -35,7 +35,7 @@
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_GYODO_000_028", "hash": "7F4734D45F3F4B18", "target": "Dotrzecie tam wzdłuż rzeki The One River. Tam jest dom wszystkich Namazu." },
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_GYODO_000_029", "hash": "5766DDBD65DD34F5", "target": "Daleko, daleko w górę rzeki, aż dotrzecie na step, tak, tak. Ponoć drzemie tam straszny smok, czarny jak nocne niebo." },
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_ORNKHAI_000_030", "hash": "92F14A101B71BAB9", "target": "C-czarny jak nocne niebo, mówisz?" },
-    { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_GYODO_000_031", "hash": "62DEA4C85D027B13", "target": "Więcej nic nie wiem. Na stepie znajdziecie targ zwany Reunion. Tam popytajcie." },
+    { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_GYODO_000_031", "hash": "62DEA4C85D027B13", "target": "Więcej nic nie wiem. Na Stepie Azima znajdziecie targ zwany Reunion. Tam popytajcie." },
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_ORNKHAI_000_032", "hash": "3E03631779F55D9A", "target": "To może być ona, <split(<string(gstr1)>, ,1)>! W Hordzie było przecież pełno smoków o ciemnych łuskach. Biegnijmy do Reunion!" },
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_ORNKHAI_000_040", "hash": "F7241CF64A46C987", "target": "Ale się do mnie garną te dzieciaki! No to najpierw je wypytam." },
     { "gameKey": "quest/029/JobDrg680_02913#TEXT_JOBDRG680_02913_ORNKHAI_000_041", "hash": "91ACF5A73F538E83", "target": "A ty może popytajesz dorosłych Au Ra, czy wiedzą coś o smoku, o którym mówił Gyodo?" },

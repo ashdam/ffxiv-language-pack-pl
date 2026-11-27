@@ -118,7 +118,7 @@
     { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_CHARLEMEND_000_162", "hash": "F264DFFC2CD5BAE4", "target": "To znaczy... słyszał, o czym rozmawialiśmy? Ja... nie bardzo wiem, co powiedzieć..." },
     { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_CHARLEMEND_000_163", "hash": "D8101AA0D376DB31", "target": "Naprawdę? Pirat czy nie, ten człowiek wyraźnie dobrze zna nasz wielki kraj. Podziwiam jego rozsądek i dalekowzroczność." },
     { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_CHARLEMEND_000_164", "hash": "06118E259581A1B8", "target": "Ofertę? Jakiego rodzaju...? Hm, nieważne. Zaufam, że znasz się na tym lepiej ode mnie." },
-    { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_CHARLEMEND_000_165", "hash": "DE69B9463DDDF57A", "target": "Tak czy inaczej, wreszcie dopiąłem swego. Teraz mogę wrócić do Ishgardu z podniesioną głową, jak przystało na głowę najznamienitszego rodu." },
+    { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_CHARLEMEND_000_165", "hash": "DE69B9463DDDF57A", "target": "Tak czy inaczej, wreszcie dopiąłem swego tutaj, w Eorzei. Teraz mogę wrócić do Ishgardu z podniesioną głową, jak przystało na głowę najznamienitszego rodu." },
     { "gameKey": "quest/039/LucKha203_03957#TEXT_LUCKHA203_03957_FRANCEL_000_166", "hash": "574573A49C806AE0", "target": "Jestem pańskim dłużnikiem, panie hrabio. I twoim, <split(<string(gstr1)>, ,1)>. Już wkrótce na targach Featherfall będzie można kupić najlepsze towary ze wszystkich stron krainy!" }
   ]
 }

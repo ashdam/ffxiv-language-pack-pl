@@ -33,7 +33,7 @@
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_TOLAS_000_021", "hash": "4561798A36E2C1BE", "target": "Na szczęście odkryliśmy niedawno sposób na te stwory. Oto niezawodna śmierdząca bomba. Kiedy się ją rzuci, smród niemal zbija nas z nóg, a stworzenia o czułym węchu przyprawia o mdłości." },
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_TOLAS_000_022", "hash": "5D5EE119276A9441", "target": "Przepędzi bestie i odstraszy resztę. Proszę, tu jest kilka sztuk. Może <if(gnum4,pani,pan)> zechce spróbować?" },
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_TOLAS_000_023", "hash": "90B384128532C0E2", "target": "Wystarczy rzucić bombę w pobliże jednego ze stworów. Zobaczy <if(gnum4,pani,pan)>, jak będzie uciekał przed smrodem." },
-    { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_SYSTEM_000_030", "hash": "EEDB202C72710379", "target": "Rozjuszony stwór patrzy na ciebie nieufnie. Rzuć w jego stronę śmierdzącą bombę, żeby go przepędzić." },
+    { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_SYSTEM_000_030", "hash": "EEDB202C72710379", "target": "Rozjuszony anemon patrzy na ciebie nieufnie. Rzuć w jego stronę śmierdzącą bombę, żeby go przepędzić." },
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_MONSTERA_100_030", "hash": "53B6619618D72884", "target": "Graaaaa!" },
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_SYSTEM_110_030", "hash": "C11AA0C356E8FA2F", "target": "Stwór piszczy z bólu i ucieka. Chwilę później w powietrzu zaczyna śmierdzieć odpadkami i nieczystościami..." },
     { "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_MONSTERB_120_030", "hash": "BE507251D5AD3935", "target": "Ungraaaaa!" },

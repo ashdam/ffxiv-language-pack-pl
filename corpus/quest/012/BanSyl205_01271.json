@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_00", "hash": "F8D659F9C61AC990", "target": "Ponnixia obawia się o bezpieczeństwo lasu." },
-    { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_01", "hash": "E9761400D77CF1EF", "target": "W Śpiewie Skowronka dotknięci rozstawili bomby. Zagrożeni są wszyscy mieszkańcy lasu. Do tego zadania trzeba was dwojga: ciebie i goobbue. Porozmawiaj z sympatycznym sylfem w Śpiewie Skowronka i dosiądź wielkiej bestii." },
+    { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_01", "hash": "E9761400D77CF1EF", "target": "Dotknięci z Ziem Ludu Sylph rozstawili bomby w Śpiewie Skowronka. Zagrożeni są wszyscy mieszkańcy lasu. Do tego zadania trzeba was dwojga: ciebie i goobbue. Porozmawiaj z sympatycznym sylfem w Śpiewie Skowronka i dosiądź wielkiej bestii." },
     { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_02", "hash": "F634F97732DB9686", "target": "Przejażdżka przez las na goobbue to nie byle gratka. Ale teraz jest robota. Niech goobbue kichnie, żeby zdmuchnąć płonące bomby z łusek." },
     { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_03", "hash": "35B64D6D2B679C7D", "target": "Dzięki tobie i twojemu olbrzymiemu przyjacielowi Śpiew Skowronka jest znów bezpieczny. Powiedz o tym Ponnixii." },
     { "gameKey": "quest/012/BanSyl205_01271#TEXT_BANSYL205_01271_SEQ_04", "hash": "ED815AF7CF4F0A3A", "target": "Ponnixia dziękuje za pomoc jej ludowi. Zazdrości ci też przejażdżki na goobbue. Chce wkrótce zajrzeć do Śpiewu Skowronka i sama się przejechać." },

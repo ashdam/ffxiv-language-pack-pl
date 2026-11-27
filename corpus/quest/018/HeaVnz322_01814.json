@@ -20,7 +20,7 @@
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_GULLINKAMBI_000_011", "hash": "2D6DBA4C6CAD9110", "target": "Kal Myhk to jeszcze dziecko. Nie poleciał daleko. Powiedz mu, że ma dziś zapolować." },
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_010", "hash": "9A0C01C24ACB14FB", "target": "Hm...? Nie jesteś stąd. Kim jesteś? A właściwie <italic(1)>czym<italic(0)>?" },
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_011", "hash": "1F28AB886EAA004B", "target": "Nie masz skrzydeł, kłów ani łusek... To ty jesteś <if(gnum4,śmiertelniczką,śmiertelnikiem)>! Z Ishgardu! Nie podchodź!" },
-    { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_020", "hash": "D0268CD216B37919", "target": "Nie podchodź! Nie dam ci się zabrać jako trofeum ani zjeść na kolację!" },
+    { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_020", "hash": "D0268CD216B37919", "target": "Nie podchodź, Ishgardczyku! Nie dam ci się zabrać jako trofeum ani zjeść na kolację!" },
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_030", "hash": "32CAAE94C01EA02C", "target": "D-dobra! Rób, co chcesz. Ale nie będę z tobą walczyć!" },
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_031", "hash": "38C8B3E7893A922F", "target": "...Od mamy? A, to wcale nie chcesz mnie zjeść!" },
     { "gameKey": "quest/018/HeaVnz322_01814#TEXT_HEAVNZ322_01814_KALMYHK_000_032", "hash": "FF5D57FEDBAFF2F3", "target": "Ale najpierw próba! Złap mnie, jeśli potrafisz!" },

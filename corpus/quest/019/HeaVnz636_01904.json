@@ -10,8 +10,8 @@
     { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "Zdaj sprawę Gildonowi." },
     { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "Dobrze, że <if(gnum4,pani,pan)> jest, <split(<string(gstr1)>, ,1)>. Chyba nie zaskoczę <if(gnum4,pani,pana)>, jeśli powiem, że znów mam prośbę." },
     { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "Dhalmele z Ok' Gundu podchodzą coraz bliżej placówki. Wciąż ich przybywa i przez nie nie możemy spokojnie pracować. Gdyby udało się zabić cztery, byłaby to wielka pomoc dla obozu." },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "Pasą się na polach na północny wschód stąd. To spory kawałek drogi. Wystarczy zabić cztery, żeby trochę przetrzebić stado." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "Dhalmele pasą się na polach na północny wschód stąd. To spory kawałek drogi. Wystarczy zabić cztery, żeby trochę przetrzebić stado." },
     { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "Witam z powrotem. Sprawa dhalmeli załatwiona? Oby teraz moim ludziom łatwiej było patrolować okolicę." },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "Dopiero od niedawna podchodzą pod placówkę. Pewnie zwyczajnie są ciekawe. To łagodne zwierzęta, ale przy takich rozmiarach mogą niechcący kogoś stratować. Żal mi je zabijać, ale muszę się troszczyć o ludzi w obozie." }
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "Dopiero od niedawna podchodzą pod placówkę. Pewnie zwyczajnie są ciekawe. Dhalmele to łagodne zwierzęta, ale przy takich rozmiarach mogą niechcący kogoś stratować. Żal mi je zabijać, ale muszę się troszczyć o ludzi w obozie." }
   ]
 }

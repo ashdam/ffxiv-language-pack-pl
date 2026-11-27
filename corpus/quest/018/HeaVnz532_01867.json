@@ -4,15 +4,15 @@
   "entries": [
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_00", "hash": "C20759CEE4E06DD7", "target": "Mogok podejrzliwie spogląda w dal." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_01", "hash": "B6DC758AB8E0F2D3", "target": "Mogok dostrzegł coś podejrzanego za mostem. Nie chce opuszczać posterunku. Przejdź na drugą stronę i sprawdź, czy do pałacu Zenith nie wkradli się słudzy Nidhogga." },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "Mogok miał rację. Słudzy Nidhogga rzucają się na ciebie, gdy tylko cię widzą. Pokonujesz ich bez trudu, ale sama ich obecność w pałacu budzi niepokój. Wróć do Mogoka i opowiedz mu o ataku." },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "Mogok nie spodziewał się, że smoki dotrą aż tak daleko w głąb pałacu. Wraca na patrol i ma się na baczności. Pomóż Straży Pomponów bronić tego świętego miejsca przed najeźdźcami." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "Mogok miał rację. Słudzy Nidhogga rzucają się na ciebie, gdy tylko cię widzą. Pokonujesz ich bez trudu, ale sama ich obecność w Zenith budzi niepokój. Wróć do Mogoka i opowiedz mu o ataku." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "Mogok nie spodziewał się, że smoki dotrą aż tak daleko w głąb pałacu Zenith. Wraca na patrol i ma się na baczności. Pomóż Straży Pomponów bronić tego świętego miejsca przed najeźdźcami." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_00", "hash": "4D573125F73A3B5C", "target": "Poszukaj smoków we wskazanych miejscach." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_01", "hash": "30C7B7E6E520D1C3", "target": "Zdaj sprawę Mogokowi." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_000", "hash": "810AF19920867747", "target": "Och, to <if(gnum4,pani,pan)>! Tutaj wszystko w porządku, kupo!" },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_001", "hash": "552840FDC3AA9DDC", "target": "Co?! Widziano sługi Nidhogga? A Mogleo jest ranny?! To straszne! Chwila... Faktycznie coś wielkiego <italic(1)>mignęło mi<italic(0)> po drugiej stronie mostu..." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_002", "hash": "273EC577714D7DB8", "target": "Już wiem! Ja zostanę na straży, żeby żaden smok tędy nie przeszedł, a <italic(1)><if(gnum4,pani,pan)><italic(0)> sprawdzi, co jest za mostem. Proszę się nie martwić, dobry ze mnie strażnik, kupo!" },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_010", "hash": "7B24F2DE8114A74E", "target": "Dopilnuję, żeby żaden smok nie zakradł się za <if(gnum4,panią,pana)>. Proszę przejść przez most i sprawdzić, czy nie grasują tam słudzy Nidhogga!" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "Że też słudzy Nidhogga mieli czelność zapuścić się aż tutaj! Dziękuję, że już po nich." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "Że też słudzy Nidhogga mieli czelność zapuścić się aż do Zenithu! Dziękuję, że już po nich." },
     { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_021", "hash": "4D541E0BBB0FBFBA", "target": "Cóż, wracam na patrol. Żaden smok nie umknie mojemu czujnemu spojrzeniu, kupo!" }
   ]
 }

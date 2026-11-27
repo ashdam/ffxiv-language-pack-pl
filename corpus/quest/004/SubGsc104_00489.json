@@ -2,7 +2,7 @@
   "conversation": "quest/004/SubGsc104_00489",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_010", "hash": "5A2DA491C9544A47", "target": "Witam w Jumbo Cactpot! Tylko cztery cyfry dzielą <if(gnum4,panią,pana)> od życia jak z marzeń. Skusi się <if(gnum4,pani,pan)> na los?" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_010", "hash": "5A2DA491C9544A47", "target": "Witam w Jumbo Cactpot! Tylko cztery cyfry dzielą <if(gnum4,panią,pana)> od życia w Eorzei jak z marzeń. Skusi się <if(gnum4,pani,pan)> na los?" },
     { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_Q1_000_000", "hash": "9FBEF14406A24E7C", "target": "Spróbować szczęścia w Jumbo Cactpot?" },
     { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_A1_000_001", "hash": "650707FDB8394264", "target": "Tak" },
     { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_A1_000_002", "hash": "E9BDC47952AFD035", "target": "Nie" },

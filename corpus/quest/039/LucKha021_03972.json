@@ -2,7 +2,7 @@
   "conversation": "quest/039/LucKha021_03972",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "Kogo ja widzę! <split(<string(gstr1)>, ,1)>, rozejrzyj się tylko. Featherfall już otwarte! Bez ciebie, rzecz jasna, byśmy go nie odbudowali." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "Kogo ja widzę! <split(<string(gstr1)>, ,1)>, rozejrzyj się tylko. Featherfall, najnowszą część Firmamentu, już otwarto! Bez ciebie, rzecz jasna, byśmy go nie odbudowali." },
     { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "Jak pewnie wiesz, Featherfall to teraz handlowa część dzielnicy The Firmament. Jest tu Warsztat Skysteel, okazała rezydencja Hoarfrost Hall i targ, na którym od rana do wieczora sprzedaje się towary z całego kraju." },
     { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_002", "hash": "D1B9132CEE64887A", "target": "Ano, kupcy, rzemieślnicy i robotnicy walą do nas drzwiami i oknami. Chcą się tu urządzić. Nie dziwię się, sam bym się chętnie przeprowadził!" },
     { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_003", "hash": "B20BD11E990DB9BE", "target": "Francel mówi, że to tylko kwestia czasu, aż tu będzie najwięcej życia w całej dzielnicy The Firmament. Jak tak patrzę, chyba niewiele już brakuje." },

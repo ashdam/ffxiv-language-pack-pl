@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_SEQ_00", "hash": "DF6F4B6D3759F115", "target": "Ermiance chce dodać mieszkańcom Ishgardu otuchy." },
     { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_SEQ_01", "hash": "65E407A5FF197286", "target": "Ermiance ma dość ponurych min. Ugotowała zupę, żeby dodać mieszkańcom otuchy. Rozejrzyj się po Ishgardzie za tymi, którym przyda się chwila wytchnienia, i pokaż im miskę parząco gorącej zupy." },
-    { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_SEQ_02", "hash": "E221A0702E582056", "target": "Gdy pokazujesz miskę zupy, wszyscy, bez względu na pochodzenie, ruszają do Świętych Stajni. Wróć do Ermiance i przekonaj się, czy jej zupa poprawiła im nastrój." },
+    { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_SEQ_02", "hash": "E221A0702E582056", "target": "W Ishgardzie spotykasz ludzi z różnych środowisk, którym przydałaby się chwila wytchnienia. Gdy pokazujesz miskę zupy, ruszają do Świętych Stajni. Wróć do Ermiance i przekonaj się, czy jej zupa poprawiła im nastrój." },
     { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_SEQ_03", "hash": "4DCC5AC1B272BDEB", "target": "Ermiance nie zdoła nakarmić całego Ishgardu, ale cieszy się, że ludzie znów się uśmiechają. Przypomina ci, że w ciężkich chwilach warto choć na chwilę odmienić myśli i nacieszyć się tym, co dobre." },
     { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_TODO_00", "hash": "DB4A94D3C0D5B554", "target": "Pokazać miskę parząco gorącej zupy zirytowanemu rycerzowi" },
     { "gameKey": "quest/019/HeaVnz701_01905#TEXT_HEAVNZ701_01905_TODO_01", "hash": "38CFAF795DF9B322", "target": "Pokazać miskę parząco gorącej zupy lamentującej wdowie" },

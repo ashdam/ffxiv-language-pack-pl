@@ -31,7 +31,7 @@
     { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_ZLATAN_000_071", "hash": "B1D41C9ABF39DAEB", "target": "Proszę wybaczyć Geroltowi. Zwykle nie jest aż tak... bezpośredni przy targowaniu. Sam się jednak zastanawiam, co pani Rowena chciała zyskać, gdy zgodziła się na taką umowę w jej imieniu." },
     { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_SEIKA_000_072", "hash": "67918A37E6E83407", "target": "Myślcie, co chcecie. Z umową czy bez, póki gobliny dostają swoje części, możemy dalej robić interesy." },
     { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_SEIKA_000_073", "hash": "7281B7A36FDFB148", "target": "A zaproszenie do Idyllshire wciąż jest aktualne. Pomyśl o tym, jak tu skończysz." },
-    { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_ZLATAN_000_074", "hash": "68D9D2C11118F568", "target": "Hm... Skoro wciąż chce się spotkać z Geroltem po tym jego wybuchu, może ta oferta naprawdę <italic(1)>była<italic(0)> szczera." },
+    { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_ZLATAN_000_074", "hash": "68D9D2C11118F568", "target": "Hm... Skoro wciąż chce się spotkać z Geroltem w Idyllshire po tym jego wybuchu, może ta oferta naprawdę <italic(1)>była<italic(0)> szczera." },
     { "gameKey": "quest/040/LucKsa351_04097#TEXT_LUCKSA351_04097_SYSTEM_000_100", "hash": "1AF2FA3C55014F6F", "target": "Masz już wszystkie materiały od Domu Splendorów potrzebne do ulepszenia broni ruchu oporu. Porozmawiaj z Geroltem, aby zacząć kolejny etap." }
   ]
 }

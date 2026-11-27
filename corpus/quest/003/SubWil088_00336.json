@@ -14,7 +14,7 @@
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_002", "hash": "5282AA9846551ABA", "target": "Chyba przyjechali po kamienie skradzione z Copperbell Mines. Któryś wspomniał o nashachicie, tak mi się zdaje. Zaraz mają się spotkać ze wspólnikiem w Śladach Stóp..." },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_003", "hash": "750A32A3BB34EE9F", "target": "C-c-co takiego?! To prawda?!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_004", "hash": "56219FA4E506F03E", "target": "Kradną kamienie i chcą je przeszmuglować! Mosiężne Ostrza nie mogą tego puścić płazem!" },
-    { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_005", "hash": "66DFC82B6A69B22C", "target": "Proszę wybaczyć, <split(<string(gstr1)>, ,1)>. Nie chciałem podsłuchiwać. Przyjechałem tu tylko po to, żeby osobiście podziękować." },
+    { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_005", "hash": "66DFC82B6A69B22C", "target": "Proszę wybaczyć, <split(<string(gstr1)>, ,1)>. Nie chciałem podsłuchiwać. Przyjechałem do Zatoki Crescent tylko po to, żeby osobiście podziękować." },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_006", "hash": "63E94308A3421327", "target": "Nigdy bym nie przypuszczał, że odkryję zbrodniczy spisek tuż za bramami Horizon!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_007", "hash": "96E5D9F0C6A62140", "target": "Trzeba się spieszyć, żeby zdążyć ich złapać. Natychmiast zamelduję o tym kapitanowi Baldewynowi!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_008", "hash": "596ADCC755A075B8", "target": "Nie, czekaj! Nie wolno ci! O bogowie..." },

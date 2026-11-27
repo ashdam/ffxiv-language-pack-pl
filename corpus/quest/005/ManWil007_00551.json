@@ -13,7 +13,7 @@
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_02", "hash": "31C9F42BB7EC910E", "target": "Porozmawiać z Papashanem w Sercu Przysięgłych" },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_03", "hash": "F0A43B7A17DEEC51", "target": "Porozmawiać z Papashanem w Sercu Przysięgłych" },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_050_1", "hash": "75836BC0DF64261D", "target": "Mogę liczyć na twoją dyskrecję, <split(<string(gstr1)>, ,1)>? Jeśli tak, to słuchaj uważnie..." },
-    { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_1", "hash": "026221DA634CDAA7", "target": "Za granicą myślą, że rządzi tu sułtanka Nanamo Ul Namo. Ale najwięcej do powiedzenia ma Syndykat. To szóstka najbogatszych obywateli." },
+    { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_1", "hash": "026221DA634CDAA7", "target": "Za granicą myślą, że Ul'dah to sułtanat, którym rządzi sułtanka Nanamo Ul Namo. Ale najwięcej do powiedzenia ma Syndykat. To szóstka najbogatszych obywateli." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_2", "hash": "0E76A68301EC3CA7", "target": "Tak czy owak, sułtanka wciąż ma poparcie ludu..." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_3", "hash": "DA7D190CAF3134E2", "target": "Ale i to poparcie może stracić, jeśli pewna sprawa wyjdzie na jaw." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_4", "hash": "4ADE7621B4C92F3A", "target": "Przykro mi to mówić, ale skradziono koronę Jej Wysokości, symbol królewskiej dynastii." },

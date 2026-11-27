@@ -6,7 +6,7 @@
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_01", "hash": "BD103F34D42E8475", "target": "Pomioty Otchłani opanowały Dzemael Darkhold w Coerthas central highlands. Masz poprowadzić oddział, który oczyści twierdzę. Na miejscu zgłoś się po instrukcje do Ophelie, rycerki rodu Dzemael." },
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_02", "hash": "C3B00E9E73185A4D", "target": "Zapuść się w głąb Dzemael Darkhold i wybij pomioty Otchłani.<br><br>※ Do Dzemael Darkhold możesz wejść przez Wyszukiwarkę aktywności." },
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_03", "hash": "FF519E9377E0AAA1", "target": "Misja się powiodła. Wróć do Sali Płomieni i złóż raport Swiftowi." },
-    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_04", "hash": "66C8DDEE60CFD49B", "target": "Dzięki tobie w Ishgardzie znów mówi się dobrze o Nieśmiertelnych Płomieniach. Twój wyczyn zyskał ci szacunek przełożonych." },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_04", "hash": "66C8DDEE60CFD49B", "target": "Po twoim wyczynie w Dzemael Darkhold w Ishgardzie znów mówi się dobrze o Nieśmiertelnych Płomieniach. Twój czyn zyskał ci szacunek przełożonych." },
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_00", "hash": "1B72C288FA47B88D", "target": "Porozmawiać z Ophelie przy Dzemael Darkhold" },
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_01", "hash": "F018D5C773D856F7", "target": "Wejść do Dzemael Darkhold" },
     { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_02", "hash": "C16D025310A6C521", "target": "Złożyć raport Swiftowi w Sali Płomieni" },

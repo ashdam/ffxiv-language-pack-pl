@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_SEQ_00", "hash": "2B7EDB5B53C7C640", "target": "Cahciua jest gotowa ruszyć do czwartej, ostatniej części miasta." },
     { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_TODO_00", "hash": "CC4EBC2C6F486B38", "target": "Porozmawiać z Cahciuą" },
-    { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_TODO_01", "hash": "AF820A5337C39282", "target": "Porozmawiać ze strażniczką Windspath Gardens" },
+    { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_TODO_01", "hash": "AF820A5337C39282", "target": "Porozmawiać ze strażniczką Ogrodów Windspath" },
     { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_TODO_02", "hash": "F56F0226CB2BE7EC", "target": "Porozmawiać z Cahciuą" },
     { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_TODO_03", "hash": "233EF108B074E5AA", "target": "Ponownie porozmawiać z Cahciuą" },
     { "gameKey": "quest/049/KinGmf111_04956#TEXT_KINGMF111_04956_WUKLAMAT_000_001", "hash": "4C5664E681805AA5", "target": "A teraz trzeba się pożegnać z..." },

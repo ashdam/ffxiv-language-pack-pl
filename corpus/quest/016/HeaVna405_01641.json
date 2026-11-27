@@ -32,7 +32,7 @@
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_LUCIA_100_056", "hash": "4DCD5F6992340EA4", "target": "<split(<string(gstr1)>, ,1)>, panie Alphinaudzie, proszę, porozmawiajmy na zewnątrz." },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_ALPHINAUD_000_057", "hash": "2665E8C9922BC7D7", "target": "Dobrze. Chodź ze mną, <split(<string(gstr1)>, ,1)>. Mamy wiele do omówienia." },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_TEMPLEKIGHTGATE_000_070", "hash": "B03157170BE79067", "target": "Audiencja u lorda dowódcy? Tak, tak, oczywiście..." },
-    { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_TITLE", "hash": "CD651508D2DA887C", "target": "Wejść do Seat of the Lord Commander?" },
+    { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_TITLE", "hash": "CD651508D2DA887C", "target": "Wejść do Siedziby Lorda Dowódcy?" },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_YES", "hash": "FA66FF7AECA89B1C", "target": "Tak" },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_NO", "hash": "5FFCB5161F68352F", "target": "Nie" }
   ]

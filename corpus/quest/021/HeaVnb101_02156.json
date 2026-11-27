@@ -34,7 +34,7 @@
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_SCENE00010_EVENTAREA_WARP_YESNO_NO", "hash": "8EEE15ECEE1519BD", "target": "Nie" },
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_ALPHINAUD_000_031", "hash": "75D643DF2C48F5C6", "target": "Przynajmniej z samą drogą tym razem nie powinniśmy mieć kłopotu." },
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_TATARU_000_032", "hash": "1049E738D0BF16AF", "target": "Chwileczkę, <split(<string(gstr1)>, ,1)>! Zaraz do <if(gnum4,pani,pana)> podejdę!" },
-    { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_LUCIA_000_040", "hash": "400BD9705109F402", "target": "Niewiele wiem o Anyx Trine i okolicy. Gdyby nie wasza pomoc, o wiele bardziej obawiałabym się tej wyprawy." },
+    { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_LUCIA_000_040", "hash": "400BD9705109F402", "target": "Niewiele wiem o Anyx Trine i terenach, które zamieszkują te smoki. Gdyby nie wasza pomoc, o wiele bardziej obawiałabym się tej wyprawy." },
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_ALPHINAUD_000_041", "hash": "E57C25847AAB6EAF", "target": "Szczerze mówiąc, mnie też kiedyś przerażała taka wyprawa. Ale od czegoś trzeba zacząć, prawda?<br>Zanim ruszymy, <split(<string(gstr1)>, ,1)> i ja musimy jeszcze uprzedzić Tataru." },
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_LUCIA_000_042", "hash": "0AFDE4E7215EDE57", "target": "Dobrze. Zajmę się przygotowaniami." },
     { "gameKey": "quest/021/HeaVnb101_02156#TEXT_HEAVNB101_02156_ALPHINAUD_000_043", "hash": "51A01536899CD26A", "target": "Chodźmy więc pożegnać się z Tataru, <split(<string(gstr1)>, ,1)>." },

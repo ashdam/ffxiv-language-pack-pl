@@ -11,7 +11,7 @@
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_SEQ_06", "hash": "0939A04240F7DA2B", "target": "Po powrocie do Dowództwa Maelstromu Merlwyb szuka sposobu na bestię. Nadal ufa tobie i Kompanii Bohaterów, ale zastanawia się, czy dałoby się zwerbować jej zaginionego dowódcę. Radzi ci odpocząć, póki możesz. Najtrudniejsza próba wciąż przed wami.<br><br>※Kolejna misja roli będzie dostępna u sekretarki Maelstromu po osiągnięciu poziomu 89 dowolną klasą DPS walczącą wręcz." },
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_00", "hash": "FE5911F5E0568468", "target": "Porozmawiać z gońcem Maelstromu" },
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_01", "hash": "42BE34A911999BCF", "target": "Porozmawiać z Wheiskaetem przy Nabrzeżu Candlekeep" },
-    { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_02", "hash": "5DDD4E8A230A3E04", "target": "Porozmawiać z Merlwyb przy Ferry Docks w Limsie" },
+    { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_02", "hash": "5DDD4E8A230A3E04", "target": "Porozmawiać z Merlwyb na przystani promowej w Limsie Lominsie" },
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_03", "hash": "2932117FE39E3044", "target": "Ponownie porozmawiać z Merlwyb" },
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_TODO_04", "hash": "8C7BD84ABC0527D1", "target": "Porozmawiać z Merlwyb w Dowództwie Maelstromu" },
     { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_LIMSASECRETARY_000_001", "hash": "1F44FB55A5ABEF67", "target": "Mam złe wieści, <split(<string(gstr1)>, ,1)>. Dopiero co doniesiono nam, że Nabrzeże Candlekeep zostało zaatakowane." },

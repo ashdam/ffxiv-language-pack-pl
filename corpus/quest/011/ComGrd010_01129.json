@@ -6,7 +6,7 @@
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_01", "hash": "E8FBCA049592E643", "target": "Pomioty Otchłani opanowały Dzemael Darkhold w Coerthas central highlands. Masz poprowadzić oddział, który oczyści twierdzę. Na miejscu zgłoś się po instrukcje do Ophelie, rycerki rodu Dzemael." },
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_02", "hash": "AA23CB9DFAE05A86", "target": "Zapuść się w głąb Dzemael Darkhold i wybij pomioty Otchłani.<br><br>※ Do Dzemael Darkhold możesz wejść przez Wyszukiwarkę aktywności." },
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_03", "hash": "FD29B6F838634EFA", "target": "Misja się powiodła. Wróć do Gniazda Żmij i złóż raport Vorsaile'owi Heuloix." },
-    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_04", "hash": "7194795BBDFC7F1D", "target": "Dzięki tobie w Ishgardzie znów mówi się dobrze o Zakonie Dwóch Żmij. Przełożeni są pod wrażeniem twojego wyczynu." },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_04", "hash": "7194795BBDFC7F1D", "target": "Po twoim wyczynie w Dzemael Darkhold w Ishgardzie znów mówi się dobrze o Zakonie Dwóch Żmij. Przełożeni są pod wrażeniem twojego wyczynu." },
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_00", "hash": "FA58DBB8E4FD60E4", "target": "Porozmawiać z Ophelie przy Dzemael Darkhold" },
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_01", "hash": "6A0C62F7CD379D70", "target": "Wejść do Dzemael Darkhold" },
     { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_02", "hash": "C57965514A9530EE", "target": "Złożyć raport Vorsaile'owi Heuloix w Gnieździe Żmij" },

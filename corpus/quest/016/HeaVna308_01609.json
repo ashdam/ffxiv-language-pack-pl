@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_00", "hash": "DBF3DB53266FA4E0", "target": "Pani Lodowe Serce jest gotowa poprowadzić was do Dravanii." },
-    { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_01", "hash": "C7E543328A6FC273", "target": "Pani Lodowe Serce niespodziewanie zwraca się do ciebie z serdecznością. Prosi, by mówić do niej po imieniu, Ysayle, i przyznaje, że i ją dziwi, kogo los potrafi ze sobą połączyć. Ruszaj z nią i resztą towarzyszy na zachód, w głąb Dravanii." },
+    { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_01", "hash": "C7E543328A6FC273", "target": "Pani Lodowe Serce niespodziewanie zwraca się do ciebie z serdecznością. Prosi, by mówić do niej po imieniu, Ysayle, i przyznaje, że i ją dziwi, kogo los potrafi ze sobą połączyć. Ruszaj z nią i resztą towarzyszy na zachód, na Drawańskie Przedgórza." },
     { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_02", "hash": "FF2972ABA9D25EE6", "target": "Za tobą śniegi Coerthas. Przed tobą Dravania. Zapytaj Ysayle, którędy pójdziecie dalej." },
     { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_03", "hash": "51E5BF3B0C0C7D93", "target": "Po krótkiej naradzie postanawiacie odpocząć i zasięgnąć języka w pobliskiej osadzie, zanim wyruszycie na Sohm Al. Porozmawiaj z Marcechampem w Tailfeather i zapytaj, czego się spodziewać po drodze." },
     { "gameKey": "quest/016/HeaVna308_01609#TEXT_HEAVNA308_01609_SEQ_04", "hash": "CD6E0AACC160137B", "target": "Marcechamp wita was w Tailfeather. Gdy się dowiaduje, że chcecie dotrzeć do Sohm Al, ostrzega, że na zachodzie trzeba się mieć na baczności także z innego powodu niż smoki..." },

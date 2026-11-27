@@ -19,7 +19,7 @@
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_TODO_04", "hash": "A175E2AF2A580163", "target": "Odwiedź Najwyższy Święty Trybunał Doktryny Inkwizycyjnej Halone." },
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_TODO_05", "hash": "87E6BB089DEC4A33", "target": "Udaj się na plac The Hoplon." },
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_TODO_06", "hash": "C45A812E64DA74EB", "target": "Odwiedź Merlwyb w Limsie Lominsie." },
-    { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_TODO_07", "hash": "299E01AD66B01C06", "target": "Odwiedź Higiri w Revenant's Toll." },
+    { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_TODO_07", "hash": "299E01AD66B01C06", "target": "Odwiedź Higiri w Mycie Upiora." },
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_BUTLER02246_000_001", "hash": "D679CAD7F0DFC0EC", "target": "Było przenikliwie zimno, gdy po raz pierwszy <if(gnum4,przybyła pani,przybył pan)> do naszego miasta, a ja czekałem przed Łukiem Godnych. Pomyśleć, że właśnie tam wszystko się zaczęło. Jakże wiele zmieniło się od tamtego dnia..." },
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_BUTLER02246_000_002", "hash": "B685504BC31EF510", "target": "Proszę wybaczyć. Ostatnio czytam dzieła króla poety z Belah'dii. Jeden z jego wierszy powiada: „Kto chce wiedzieć, co go czeka, niech spojrzy na to, co minęło”." },
     { "gameKey": "quest/014/HeaVnz025_01475#TEXT_HEAVNZ025_01475_BUTLER02246_000_003", "hash": "F38ACB3695035891", "target": "Rzadko mamy czas, by pomyśleć, jak nasze decyzje odmieniły życie nasze i innych. A przecież warto się nad tym zastanowić, nawet jeśli, jak w moim przypadku, kronikarz nie poświęciłby nam choćby wzmianki." },

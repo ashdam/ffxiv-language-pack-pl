@@ -22,6 +22,6 @@
     { "gameKey": "quest/021/FesEst201_02128#TEXT_FESEST201_02128_NONOTTA_000_023", "hash": "0AA12146BD564339", "target": "Z pomocą Kupców Czarnego Królika przygotowaliśmy trzy zabawy. Za ich ukończenie dostaniesz jaja „Chipped Fortune Egg”, które możesz wymienić na wspaniałe nagrody!" },
     { "gameKey": "quest/021/FesEst201_02128#TEXT_FESEST201_02128_NONOTTA_000_024", "hash": "DAE9EF3DFB489E04", "target": "Tylko pamiętaj, przede wszystkim masz się dobrze bawić! Spróbuj każdej zabawy przynajmniej raz i wróć do mnie. Powiem ci, czy do Godziny Wyklucia jeszcze daleko." },
     { "gameKey": "quest/021/FesEst201_02128#TEXT_FESEST201_02128_SYSTEM_000_025", "hash": "D5E4FC7C6528961A", "target": "Za ukończenie jednego z trzech powtarzalnych zadań dostaniesz jajo „Chipped Fortune Egg”. Możesz je wymienić na towary dostępne podczas Święta Wyklucia." },
-    { "gameKey": "quest/021/FesEst201_02128#TEXT_FESEST201_02128_SYSTEM_000_026", "hash": "BB540BE493D0E75A", "target": "Jaja „Chipped Fortune Egg” można też zdobyć w trakcie FATE „Ekspresowa jajotransakcja” w Gridanii." }
+    { "gameKey": "quest/021/FesEst201_02128#TEXT_FESEST201_02128_SYSTEM_000_026", "hash": "BB540BE493D0E75A", "target": "Jaja „Chipped Fortune Egg” można też zdobyć w trakcie FATE „<sheet(Fate,942,0)>” w Gridanii." }
   ]
 }

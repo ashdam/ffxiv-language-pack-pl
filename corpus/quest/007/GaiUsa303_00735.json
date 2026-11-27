@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "Gegeroon z Faktorii Memeroona ma coś do dostarczenia." },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "Gegeroon nie ma czasu na dostawę. Wyręcz go i zanieś ciepły posiłek na wynos Tandze Tondze w chatce w Thalaos." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "Gegeroon z Faktorii Memeroona nie ma czasu na dostawę. Wyręcz go i zanieś ciepły posiłek na wynos Tandze Tondze w chatce w Thalaos." },
     { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "Tanga Tonga nie kryje radości na widok grzanek i jajecznych przysmaków. Teraz, kiedy już się najadł, może wrócić do badań." },
     { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "Dostarczyć ciepły posiłek na wynos Tandze Tondze" },
     { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "Gegeroon mieć dobry towar. Trzeba towar dostarczyć. A Gegeroon zajęty, bardzo, bardzo zajęty." },

@@ -14,6 +14,6 @@
     { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "Ruszaj ku Stawowi Zguby i zabij trzy archaeornisy. Jeśli nie dasz rady, nie ma się czego wstydzić. Szkoda by było, gdyby przez to <if(gnum4,straciła życie taka dzielna kobieta,stracił życie taki dzielny człowiek)>." },
     { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "I jak ci poszło z archaeornisami? Może i są głupie, ale potrafią dać w kość, co?" },
     { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "Ha! Z twojej opowieści wynika, że to bułka z masłem! Tylko że nie każdy miał okazję walczyć u boku Lazurowego Smoczego Rycerza i podpatrzeć, jak najlepiej kłaść te bestie." },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "W Ishgardzie myślą, że szlachcice siedzą tu dla splendoru albo z kaprysu. Mało kto wie, co ryzykujemy, broniąc miasta przed Hordą. Ale ty chyba to rozumiesz... Jeśli zechcesz dołączyć do naszego oddziału, daj tylko znać!" }
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "W Ishgardzie myślą, że szlachcice siedzą w Convictory dla splendoru albo z kaprysu. Mało kto wie, co ryzykujemy, broniąc miasta przed Hordą. Ale ty chyba to rozumiesz... Jeśli zechcesz dołączyć do naszego oddziału, daj tylko znać!" }
   ]
 }

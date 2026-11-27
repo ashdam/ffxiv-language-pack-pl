@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_SEQ_00", "hash": "8A51CBA97E4CC490", "target": "Przed wyjazdem do Limsy Lominsy Minfilia chce jeszcze omówić z tobą misję." },
     { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_SEQ_01", "hash": "48031954494E3911", "target": "Minfilia przypomina, że trzeba się śpieszyć, jeśli macie powstrzymać powrót Lewiatana. Ruszaj do Limsy Lominsy i zgłoś się do admirał Merlwyb w gabinecie dowodzenia. Zanthael w Sali Bastionu wpuści cię na górę." },
-    { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_SEQ_02", "hash": "935A00E94C15A144", "target": "Pani admirał mówi ci, że wysłała zwiadowców Maelstromu na Tarlisko Sapsa, żeby sprawdzili, co robią Sahagin. Udaj się do Obozu Doliny Czaszki w zachodniej La Noscea i zapytaj komandor Falkbrydę o najnowsze meldunki." },
+    { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_SEQ_02", "hash": "935A00E94C15A144", "target": "Pani admirał mówi ci, że wysłała zwiadowców Maelstromu na Tarlisko Sapsa, żeby sprawdzili, co robią Sahagin. Udaj się do Obozu Doliny Czaszki w zachodniej La Noscei i zapytaj komandor Falkbrydę o najnowsze meldunki." },
     { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_SEQ_03", "hash": "611A2F15A8586DA7", "target": "Docierasz do Obozu Doliny Czaszki, skąd dowodzi się operacją. Odpocznij na razie i czekaj na dalsze rozkazy." },
     { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_TODO_00", "hash": "60CD18A7559A6A24", "target": "Porozmawiać z Merlwyb w gabinecie dowodzenia w Limsie Lominsie" },
     { "gameKey": "quest/013/GaiUse212_01356#TEXT_GAIUSE212_01356_TODO_01", "hash": "F4C5043F4AE4B3F9", "target": "Porozmawiać z Falkbrydą w Obozie Doliny Czaszki" },

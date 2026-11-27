@@ -6,7 +6,7 @@
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_01", "hash": "8645F4C7A70FA855", "target": "Pomioty Otchłani opanowały Dzemael Darkhold w Coerthas central highlands. Masz poprowadzić oddział, który oczyści twierdzę. Na miejscu zgłoś się po instrukcje do Ophelie, rycerki rodu Dzemael." },
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_02", "hash": "8895B496C3F023C2", "target": "Zapuść się w głąb Dzemael Darkhold i wybij pomioty Otchłani.<br><br>※ Do Dzemael Darkhold możesz wejść przez Wyszukiwarkę aktywności." },
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_03", "hash": "8C84796ED81E5087", "target": "Misja się powiodła. Wróć do Dowództwa Maelstromu i złóż raport R'ashaht Rhiki." },
-    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_04", "hash": "9F4BC40D1B7F84AF", "target": "Dzięki tobie w Ishgardzie znów mówi się dobrze o Maelstromie. Przełożeni są pod wrażeniem twojego wyczynu." },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_04", "hash": "9F4BC40D1B7F84AF", "target": "Po twoim wyczynie w Dzemael Darkhold w Ishgardzie znów mówi się dobrze o Maelstromie. Przełożeni są pod wrażeniem twojego wyczynu." },
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_00", "hash": "65F9172536C823F1", "target": "Porozmawiać z Ophelie przy Dzemael Darkhold" },
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_01", "hash": "4A19256BBA32EE53", "target": "Wejść do Dzemael Darkhold" },
     { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_02", "hash": "DA30D4B612DA5848", "target": "Złożyć raport R'ashaht Rhiki w Dowództwie Maelstromu" },

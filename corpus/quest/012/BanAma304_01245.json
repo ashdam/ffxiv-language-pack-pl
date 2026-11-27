@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "Yadovv Gah chce wystawić twój kunszt wojenny na prawdziwą próbę." },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "Yadovv Gah poleca ci zgładzić dowódcę osławionego oddziału Płomiennych Kłów. Weź udział w FATE „Gaszenie płomienia” w Zahar'ak i przynieś mu dowód zwycięstwa." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "Yadovv Gah poleca ci zgładzić dowódcę osławionego oddziału Płomiennych Kłów. Weź udział w FATE „<sheet(Fate,557,0)>” w Zahar'ak i przynieś mu dowód zwycięstwa." },
     { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "Naszyjnik Flamefang choker trafia do Yadovv Gah. Wojownik Bractwa cieszy się z twojego zwycięstwa i aż się uśmiecha na myśl o upadku ducha bojowego wroga." },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "Zanieść Yadovv Gah naszyjnik Flamefang choker zdobyty w FATE „Gaszenie płomienia”" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "Zanieść Yadovv Gah naszyjnik Flamefang choker zdobyty w FATE „<sheet(Fate,557,0)>”" },
     { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "Mam dziś dla ciebie prawdziwe wyzwanie. Wśród miernych wojowników Płomiennych Kłów jest jeden oddział o niezrównanej sile." },
     { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "Ci okrutni weterani nawet wśród własnych sprzymierzeńców budzą więcej strachu niż szacunku. Chyba tylko oni mogą się mierzyć z Bractwem Popiołu jak równi z równymi." },
     { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "<if(gnum4,Szanowna sojuszniczko,Szanowny sojuszniku)>, zmierzysz się z ich najlepszymi ludźmi i z ich dowódcą? Jeśli odbierzesz mu naszyjnik Flamefang choker, twoja sława nie będzie miała granic." },

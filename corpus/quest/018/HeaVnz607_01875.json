@@ -5,7 +5,7 @@
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_00", "hash": "A0CA17E4D240389E", "target": "Mogzun z zadowolonym uśmiechem ogląda zardzewiały miecz." },
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_01", "hash": "35A70DF4BFDEAF9E", "target": "Mogzun ma wielką nowinę. Moogle imieniem Mogoon rozdaje broń, która kiedyś należała do ludzi. Zajrzyj w okolice posągu Siwej Matki i dowiedz się, o co chodzi." },
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_02", "hash": "4437080DA4540C23", "target": "Mogoon dał Mogzunowi broń, żeby się go pozbyć i w spokoju pomodlić się przy posągu. Przeszkadzają mu jednak także smoki (cloud aevis). Pokonaj trzy, żeby wreszcie nastała cisza." },
-    { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_03", "hash": "2864D6C4650D5B30", "target": "Wokół posągu zrobiło się ciszej. Wróć do Mogoona i daj mu znać." },
+    { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_03", "hash": "2864D6C4650D5B30", "target": "Pokonujesz smoki i wokół posągu robi się ciszej. Wróć do Mogoona i daj mu znać." },
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_SEQ_04", "hash": "6C23B400E8CC9CB1", "target": "Mogoon może wreszcie w ciszy oddać cześć Siwej Matce. Posąg przedstawia Sziwę, ukochaną Hraesvelgra. Mogoon jest pewien, że smok sam chciałby, żeby o niego dbano." },
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_TODO_00", "hash": "FB0D4ECA4F6F2058", "target": "Porozmawiaj z Mogoonem." },
     { "gameKey": "quest/018/HeaVnz607_01875#TEXT_HEAVNZ607_01875_TODO_01", "hash": "E941CEE2522E5F9C", "target": "Pokonaj smoki (cloud aevis)." },

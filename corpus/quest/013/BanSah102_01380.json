@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "Fyuu chce powstrzymać Koralowe Trójzęby, zanim sprowokują kolejne starcie." },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "Trójzęby wbiły sztandary tuż przed śluzami. Fyuu obawia się, że sprowokują tym żołnierzy. Weź małe krzemienie, które ci daje, i spal ich sztandary przed śluzami." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "Trójzęby wbiły sztandary tuż przed śluzami. Fyuu obawia się, że sprowokują tym żołnierzy. Weź małe krzemienie, które ci daje, i spal ich sztandary w Bazie Lądowej Sahagin, tuż przed śluzami." },
     { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "Sztandary Koralowych Trójzębów płoną. Wróć do Fyuu w Wylęgarni Novva i powiedz mu, jak poszło." },
     { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "Fyuu uważa, że spalenie sztandarów pomogło Novvowi uniknąć kolejnego starcia. Jego lęg woli rozwiązywać spory rozmową, ale zdaniem Fyuu na tych fanatyków działają tylko czyny." },
     { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "Spalić sztandary bojowe Sahagin przed śluzami" },

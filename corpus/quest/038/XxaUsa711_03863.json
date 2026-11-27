@@ -5,7 +5,7 @@
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_00", "hash": "8F877EE5C425B5B4", "target": "Minfilia ma dla ciebie nowy trop." },
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_01", "hash": "A5DB8762234752C5", "target": "Minfilia mówi, że w North Shroud być może znów widziano Lahabreę. O szczegóły zapytaj Noraxię." },
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_02", "hash": "5A929B1077BD2C93", "target": "Noraxia mówi, że górnik imieniem Medrod natknął się w lesie na podejrzanego człowieka w masce. Odszukaj górnika w osadzie Fallgourd Float w North Shroud i wypytaj go o to spotkanie." },
-    { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_03", "hash": "CDDD123777B85B6F", "target": "Medrod jest zbyt roztrzęsiony, by opowiedzieć, co mu się przydarzyło. Spróbuj go uspokoić (/soothe)." },
+    { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_03", "hash": "CDDD123777B85B6F", "target": "W Fallgourd Float spotykasz Medroda. Jest zbyt roztrzęsiony, by opowiedzieć, co mu się przydarzyło. Spróbuj go uspokoić (/soothe)." },
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_SEQ_04", "hash": "782892DFB8B26581", "target": "Medrod w końcu dochodzi do siebie i opowiada o spotkaniu z człowiekiem w masce. Przysięga, że to śmierć we własnej osobie. Wygląda na to, że Minfilia miała rację: ten człowiek ma związek z ostatnimi tajemniczymi zgonami." },
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_TODO_00", "hash": "55977A77C2B63629", "target": "Porozmawiać z Noraxią" },
     { "gameKey": "quest/038/XxaUsa711_03863#TEXT_XXAUSA711_03863_TODO_01", "hash": "3C93744C4C302E66", "target": "Porozmawiać z Medrodem w Fallgourd Float" },

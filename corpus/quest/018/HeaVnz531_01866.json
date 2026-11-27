@@ -5,7 +5,7 @@
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_00", "hash": "347AD532CB0A6D44", "target": "Coś powstrzymuje Moggę przed przejściem przez most." },
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_01", "hash": "EB34CD45DCA4703E", "target": "Mogga wypatruje w pałacu Zenith smoków Nidhogga. Chyba dostrzegła je za mostem, ale boi się tam zapuścić. Przejdź przez most i sprawdź, czy po drugiej stronie nie czają się smoki." },
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_02", "hash": "1DA4A75F02135084", "target": "W tej części pałacu Zenith smoki już nikomu nie zagrażają. Przynajmniej na razie. Wróć do Moggi i powiedz jej, że najgorsze już za nią." },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "Mogga z ulgą wraca do patrolowania. Prosi cię jeszcze o ostrzeżenie Mogoka, żeby miał się na baczności." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "Mogga z ulgą wraca do patrolowania, bo nie grozi jej już gniew smoków. Prosi cię jeszcze o ostrzeżenie Mogoka, żeby miał się na baczności." },
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_00", "hash": "5AF90C7F3256F343", "target": "Poszukaj smoków we wskazanych miejscach." },
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_01", "hash": "1DE914752D9FEF4E", "target": "Wróć do Moggi." },
     { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_000", "hash": "39BF348D8DCC06CA", "target": "Och! Myślałam, że to smok, kupo!" },

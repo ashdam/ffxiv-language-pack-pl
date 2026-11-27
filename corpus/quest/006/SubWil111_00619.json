@@ -6,7 +6,7 @@
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_01", "hash": "F05C0E4DEC49729D", "target": "Isembard zna kogoś, kto o życiu tutejszych biedaków wie więcej niż inni. Odszukaj Ungusta i pokaż mu notatkę Isembarda." },
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_02", "hash": "351AEB53BCCFAD83", "target": "Ungust twierdzi, że biedniejsi mieszkańcy są bardzo nieufni. Spróbuj z nimi porozmawiać w Obozie Drybone." },
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_03", "hash": "2EC57F9CBBBF6DDF", "target": "Ludzie są tak przerażeni, że niewiele można się od nich dowiedzieć. Wróć do Ungusta." },
-    { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_04", "hash": "36C1D8315BD484B1", "target": "Ungust zdaje się nie przejmować kolejnymi zaginięciami. Wróć do Isembarda. Może ma pomysł, co zrobić dalej." },
+    { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_04", "hash": "36C1D8315BD484B1", "target": "Ungust zdaje się nie przejmować kolejnymi zaginięciami w okolicy Camp Drybone. Wróć do Isembarda. Może ma pomysł, co zrobić dalej." },
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_05", "hash": "D599F8AE54263A1D", "target": "Isembard sądzi, że ci ludzie ufają już tylko bogom. Może warto porozmawiać z kapłanami." },
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_00", "hash": "2979DC197422BB66", "target": "Dostarczyć Ungustowi notatkę Isembarda" },
     { "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_01", "hash": "0BA7583ADBDBC92B", "target": "Porozmawiać z ubogimi mieszkańcami" },

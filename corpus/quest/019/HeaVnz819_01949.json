@@ -60,7 +60,7 @@
     { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_100_089", "hash": "3989C4AC3564F165", "target": "Slowfix wypatrzył taką olbrzymią, piękną rybę! Chciał ją złapać, zanim odpłynie, więc złapał za wędkę i już go nie było." },
     { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_DRIPWIX_000_090", "hash": "F753930C94110640", "target": "Pszsz... Szkoo...<br>T-ty puste mózgopudło! Dripwix już wie, że bez zasad się nie da!" },
     { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_000_100", "hash": "6A8F3C2BFB3239C0", "target": "Pszsz... Szkoo...<br>Ależ Slowfix oberwał za swoje. Może Idyllshire przydałoby się jednak <italic(1)>parę<italic(0)> zasad." },
-    { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_000_101", "hash": "CD2A514EFBD14676", "target": "Dripwix mówi, że zostawi tylko najpotrzebniejsze zasady. Aż go nosi, żeby już się do tego zabrać. Oby tym razem wyszło!" },
+    { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_000_101", "hash": "CD2A514EFBD14676", "target": "Dripwix mówi, że zostawi tylko zasady niezbędne mieszkańcom Idyllshire. Aż go nosi, żeby już się do tego zabrać. Oby tym razem wyszło!" },
     { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_000_102", "hash": "513B541F0BB97873", "target": "Na razie stanęło na jednej zasadzie, tej najważniejszej: „Zawsze miej wzgląd na przyjaciół”." },
     { "gameKey": "quest/019/HeaVnz819_01949#TEXT_HEAVNZ819_01949_SLOWFIX_000_103", "hash": "307B1DAC1D7D4619", "target": "Za całe to rękoużyczanie Slowfix jest <if(gnum4,wierzchniaczce,wierzchniakowi)> bardzo wdzięczny. Wielodzięki." }
   ]

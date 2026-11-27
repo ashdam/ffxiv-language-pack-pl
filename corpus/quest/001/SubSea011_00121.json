@@ -9,8 +9,8 @@
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "Po Katastrofie wielu rybaków porzuciło fach. Teraz powoli wracają na morze. Chyba pora, żebym i ja wypłynęła." },
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "Najpierw przydałaby mi się nowa łódź. Nasza gildia zawsze zamawiała je w Naldiq & Vymelli's, ale ostatnio nie mogą się tam opędzić od roboty." },
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "Jeśli ma <if(gnum4,pani,pan)> chwilę, proszę zajrzeć do Gildii Płatnerzy i zapytać mistrzynię kuźni H'naanzę, ile trzeba będzie czekać na łódź." },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "Nowa łódź dla rybaków? Trochę kiepski moment..." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "Nowa łódź dla Gildii Rybaków? Trochę kiepski moment..." },
     { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "Dopiero co przyjęliśmy zamówienie na galeon. Przy samej budowie mamy roboty od rana do nocy." },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "Ale zobaczę, co da się zrobić. Od lat rybacy są jednymi z naszych najlepszych klientów. Szkoda byłoby zawieść Sisipu. Trochę to potrwa, ale postaram się, żeby nie musiała długo czekać." }
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "Ale zobaczę, co da się zrobić. Od lat Gildia Rybaków należy do naszych najlepszych klientów. Szkoda byłoby zawieść Sisipu. Trochę to potrwa, ale postaram się, żeby nie musiała długo czekać." }
   ]
 }

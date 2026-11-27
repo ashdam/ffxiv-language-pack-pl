@@ -16,6 +16,6 @@
     { "gameKey": "quest/006/SubWil121_00631#TEXT_SUBWIL121_00631_BENEGER_000_11", "hash": "741071F81E567E2A", "target": "Caitlyn <if(gnum4,panią,pana)> przysyła? Doskonale! Tyle mięsa tuco-tuco w zupełności wystarczy." },
     { "gameKey": "quest/006/SubWil121_00631#TEXT_SUBWIL121_00631_BENEGER_000_12", "hash": "064FB704481192F4", "target": "Na Złotym Bazarze zatrzymało się paru górników. Szukają w okolicy złóż mythrilu. Dla nich liczy się, żeby się nażreć, więc urządzę im ucztę z tego byle jakiego mięsa." },
     { "gameKey": "quest/006/SubWil121_00631#TEXT_SUBWIL121_00631_BENEGER_000_13", "hash": "CF2C181B3C473F5D", "target": "Tylko <italic(1)>proszę<italic(0)> mi nie mówić, że Caitlyn dalej tkwi w tym samym miejscu w Drybone i posyła ludzi na kundle." },
-    { "gameKey": "quest/006/SubWil121_00631#TEXT_SUBWIL121_00631_BENEGER_000_14", "hash": "F9A4FEB2DDA0B8FC", "target": "\\<wzdycha> Mówiłem jej, że choćby nazbierała górę skór i łbów, mojego brata to nie wskrzesi. Ja jakoś ułożyłem sobie życie po jego śmierci. Najwyższa pora, żeby ona też spróbowała." }
+    { "gameKey": "quest/006/SubWil121_00631#TEXT_SUBWIL121_00631_BENEGER_000_14", "hash": "F9A4FEB2DDA0B8FC", "target": "\\<wzdycha> Mówiłem jej, że choćby nazbierała górę skór i łbów kundli, mojego brata to nie wskrzesi. Ja jakoś ułożyłem sobie życie po jego śmierci. Najwyższa pora, żeby ona też spróbowała." }
   ]
 }
